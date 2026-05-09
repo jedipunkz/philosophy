@@ -7,7 +7,7 @@ publication: "In Keith Dowding, The Encyclopedia of Power . Thousand Oaks. pp. 2
 download: "https://philarchive.org/archive/WILHAO-3"
 pdf: "https://philpapers.org/archive/WILHAO-3.pdf"
 captured_at: "2026-05-09T11:56:03Z"
-updated_at: "2026-05-09T13:02:28Z"
+updated_at: "2026-05-09T13:13:39Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"

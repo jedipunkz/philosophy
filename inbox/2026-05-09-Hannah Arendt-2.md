@@ -7,7 +7,7 @@ publication: "In Manjeet Ramgotra & Simon Choat, Rethinking Political Thinkers .
 download: "https://philarchive.org/archive/HIRHAZ-2"
 pdf: "https://philpapers.org/archive/HIRHAZ-2.pdf"
 captured_at: "2026-05-09T11:55:44Z"
-updated_at: "2026-05-09T13:02:01Z"
+updated_at: "2026-05-09T13:13:19Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
