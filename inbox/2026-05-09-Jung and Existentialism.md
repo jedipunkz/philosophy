@@ -7,7 +7,7 @@ publication: "Studia Universitatis Babes-Bolyai-Philosophia 63 (1):91-103 ( 2018
 download: "https://philarchive.org/archive/STEJAE-3"
 pdf: "https://philpapers.org/archive/STEJAE-3.pdf"
 captured_at: "2026-05-09T08:07:30Z"
-updated_at: "2026-05-09T11:38:53Z"
+updated_at: "2026-05-09T12:58:49Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
@@ -25,6 +25,13 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/STEJAE-3)
 - ダウンロード: https://philarchive.org/archive/STEJAE-3
 - PDF: https://philpapers.org/archive/STEJAE-3.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ユング-現代研究動向|ユング-現代研究動向]]
+- キーワード: [[ユング]]
+- 関連分野: [[現代思想]]
+- 関連タグ: #現代思想
 
 ## Abstract
 
@@ -55,24 +62,12 @@ Categories: Existentialism in Continental Philosophy
 
 ## PDF Text
 
-See discussions, st
-ats, and author pr
-ofiles f
-or this public
-ation at
+See discussions, st ats, and author pr ofiles f or this public ation at
 :
 https://www
-.r
-ese
-ar
-chg
-at
-e.ne
-t
-/public
-ation/326232787
-Ju
-ng and Existentialism
+.r ese ar chg at e.ne t
+/public ation/326232787
+Ju ng and Existentialism
 Article
 · July 2018
 DOI: 10.24193/subbphil.2018.1.06
@@ -83,45 +78,20 @@ TIONS
 READS
 201
 1 author:
-Some o
-f the author
-s o
-f this public
-ation ar
-e also w
-orking on these r
-elat
-ed pr
-ojects:
-Exist
-entialism
+Some o f the author s o f this public ation ar e also w orking on these r elat ed pr ojects:
+Exist entialism
 
 V
-ie
-w pr
-oject
-The Jungian Shado
-w in Lit
-er
-at
-ur
-e and Philosophy
+ie w pr oject
+The Jungian Shado w in Lit er at ur e and Philosophy
 
 V
-ie
-w pr
-oject
+ie w pr oject
 Ș
-t
-ef
-an Bole
-a
+t ef an Bole a
 Babe
 ş
--Boly
-ai Univ
-er
-sity
+-Boly ai Univ er sity
 25
 
 PUBLICA
@@ -134,28 +104,11 @@ A
 TIONS
 
 SEE PROFILE
-All c
-ont
-ent f
-ollo
-wing this p
-ag
-e w
-as uplo
-aded b
-y
+All c ont ent f ollo wing this p ag e w as uplo aded b y
 Ș
-t
-ef
-an Bole
-a
+t ef an Bole a
 on 06 July 2018.
-The user has r
-equest
-ed enhanc
-ement of the do
-wnlo
-aded file.
+The user has r equest ed enhanc ement of the do wnlo aded file.
 STUDIA UBB. PHILOSOPHIA, Vol. 63 (2018), 1, pp. 91-103
 (RECOMMENDED CITATION)
 DOI:10.24193/subbphil.2018.1.06
@@ -168,21 +121,18 @@ TEFAN BOLEA*
 ABSTRACT.
 In the following paper I will argue that there are interesting connections
 between the founder of analytical psychology, Carl Gustav Jung, and the school of
-existentialism. Analytical psychology an
-d existentialism share almost the same
+existentialism. Analytical psychology an d existentialism share almost the same
 Zeitgeist (becoming influential between
 the 1930’s and 1960’s) and are both
 interested in the concept of individuality. I would like to follow the liaison
-between Jung and existentialism regarding au
-thenticity and death. First of all, the
+between Jung and existentialism regarding au thenticity and death. First of all, the
 concept of authenticity deserves
 extensive treatment. Heidegger’s
 das Man
 and
 Sartre’s
 mauvaise foi
-have an interesting companio
-n in Jung’s notion of the
+have an interesting companio n in Jung’s notion of the
 persona
 , the psychological concept of “the mask”. Second of all, existentialist
 authenticity can be compared to the Jungian integration of the shadow.
@@ -194,8 +144,7 @@ The Red Book.
 
 Keywords
 :
-individuation, persona, authentici
-ty, integration of the shadow,
+individuation, persona, authentici ty, integration of the shadow,
 existential death
 
 The Inauthenticity of the Persona
@@ -209,16 +158,14 @@ and the actor,” signifying “the part that
 someone plays, due to his features, aspect and abilities”
 3
 . According to the
-Jungian psychologist Jolande Jacobi, pe
-rsona could derive from Persu, the
+Jungian psychologist Jolande Jacobi, pe rsona could derive from Persu, the
 Etruscian masked God of the Inferno
 4
 . One could schematically reconstruct
 
 *
 
-PhD, Faculty of Philosophy, Babes-Bolyai Univer
-sity, Cluj-Napoca. Email: stefan.bolea@gmail.com.
+PhD, Faculty of Philosophy, Babes-Bolyai Univer sity, Cluj-Napoca. Email: stefan.bolea@gmail.com.
 
 1
 The first section of my article is based on my previous research concerning
@@ -230,8 +177,7 @@ Existentialist Philosophy
 C. G. Jung,
 The Collected Works of C. G. Jung,
 vol. 9/I §43, edited by Gerhard Adler and R. F. C. Hull,
-Princeton, NJ, Princeton Universi
-ty Press, 2014,(henceforth CW).
+Princeton, NJ, Princeton Universi ty Press, 2014,(henceforth CW).
 3
 Lutz Müller, Anette Müller (Hg.),
 Wörterbuch des Analytischen Psychologie
@@ -255,8 +201,7 @@ or “the individual’s system of adaptation to, or the manner he assumes in
 dealing with, the world”
 6
 . Moreover, "the persona is that which in reality one is
-not, but which oneself as we
-ll as others think one is"
+not, but which oneself as we ll as others think one is"
 7
 .
 The persona mediates between the unconscious impressions and the
@@ -276,23 +221,18 @@ the “world” and the “other” from its constitution. Long before Jung, Sch
 observed that the persona is „paid in cash”
 11
 or, in other words, that we put on a
-mask in order to protect our interests (o
-r that we are rewarded for identifying
+mask in order to protect our interests (o r that we are rewarded for identifying
 with the professional persona). One can almost say that life is a pure desire for
 profit, disguised under the mask of nobleness, friendship our selflessness.
 
-Our civilized world … is only a great mas
-querade; here we meet knights, parsons,
-soldiers, doctors, barristers, priests, philoso
-phers, and the rest. But they are not what
-they represent themselves to be; they are mere masks beneath which as a rule money-
-makers are hidden. One man dons the mask of the law which he has borrowed for the
+Our civilized world … is only a great mas querade; here we meet knights, parsons,
+soldiers, doctors, barristers, priests, philoso phers, and the rest. But they are not what
+they represent themselves to be; they are mere masks beneath which as a rule moneymakers are hidden. One man dons the mask of the law which he has borrowed for the
 purpose from his barrister, merely in order to be able to come to blows with another.
 Again, for the same purpose, a second
 chooses the mask of
 public welfare and
-patriotism; a third that of religion or religiou
-s reform …. It is very important for us to
+patriotism; a third that of religion or religiou s reform …. It is very important for us to
 learn early in youth that we are living in a masquerade, otherwise we shall be unable
 to grasp and get at many things but
 shall stand before them quite puzzled…
@@ -360,10 +300,8 @@ them is rewarded just as breaking
 character is swiftly penalized. Nietzsche is
 not concerned with the socio-anthropological
 developments of the falsity of the persona (something that Jean Paul Sartre will
-look into), being preoccupied with the ps
-ychological dimension of the person who
-lies to himself or herself. “Are you for re
-al? Or only an actor? A representative? Or
+look into), being preoccupied with the ps ychological dimension of the person who
+lies to himself or herself. “Are you for re al? Or only an actor? A representative? Or
 the represented? – In the end, you really
 are only an imitation of an actor…”
 14
@@ -373,17 +311,13 @@ The Twilight of the Idols
 . Nietzsche seems to infer that
 the one who puts on the mask will sooner
 or later arrive to a sort of inner
-contradiction. In other words, once person
-a takes over your face, the Ego will also
-suffer. Nietzsche refers to “a labyrint
-h of masks behind masks which makes it
+contradiction. In other words, once person a takes over your face, the Ego will also
+suffer. Nietzsche refers to “a labyrint h of masks behind masks which makes it
 difficult to discover the true person behind them”
 15
 .
 Jung uses these insights from Schopenhauer and Nietzsche building his
-conception of identification with the pers
-ona: “Identification wi
-th one’s office or
+conception of identification with the pers ona: “Identification wi th one’s office or
 one’s title is very attractive indeed, which is precisely why so many men are
 nothing more than the decorum accorded to them by society. In vain would one
 look for a personality behind the husk. Underneath all the padding one would find
@@ -403,16 +337,13 @@ Individuality “degenerates,” being stifled by a rigid persona.
 13
 Friedrich Nietzsche,
 The Gay Science,
-edited by Bernard Williams, transl
-ated by Josefine Nauckhoff,
-poems translated by Adrian del Caro, Cambridge, Ne
-w York, Cambridge University Press, 2008, pp. 215-6.
+edited by Bernard Williams, transl ated by Josefine Nauckhoff,
+poems translated by Adrian del Caro, Cambridge, Ne w York, Cambridge University Press, 2008, pp. 215-6.
 14
 Friedrich Nietzsche,
 The Anti-Christ, Ecce Homo, Twilight of the Idols,
 edited by Aaron Ridley and
-Judith Norman, translated by Judith Norman, Ca
-mbridge, New York, Cambridge University Press,
+Judith Norman, translated by Judith Norman, Ca mbridge, New York, Cambridge University Press,
 2006, p.
 161.
 15
@@ -439,8 +370,7 @@ TEFAN BOLEA
 Jung shows – in a Nietzschean vein
 – that society pressures us into
 identifying with our professional persona: “Society expects ... every individual to
-play the part assigned to him as perfectl
-y as possible…Society demands this as a
+play the part assigned to him as perfectl y as possible…Society demands this as a
 kind of surety; each must stand at his post, here a cobbler, there a poet ... Society
 is persuaded that only the cobbler who
 is not a poet can supply workmanlike
@@ -453,16 +383,13 @@ resonates with Sartre’s description of the functional identity from
 Being and Nothingness
 :
 
-There is the dance of the grocer, of the ta
-ilor, of the auctione
-er, by which they
+There is the dance of the grocer, of the ta ilor, of the auctione er, by which they
 endeavour to persuade their clientele that they are nothing but a grocer, an
 auctioneer, a tailor. A grocer who dreams
 is offensive to the buyer, because such
 a grocer is not wholly a grocer. Society demands that he limit himself to his
 function as a grocer, just as the soldier
-at attention makes himself into a soldier-
-thing with a direct regard which does not
+at attention makes himself into a soldierthing with a direct regard which does not
 see at all, which is no longer meant to
 see ... There are indeed many precautions to
 imprison a man in what he is, as if
@@ -480,9 +407,7 @@ According to many authors (Baudouin
 persona can be compared with the Heideggerian the "they"
 [das Man]
 . The
-persona shares with the "they" at least fo
-ur of its characteri
-stics: distantiality
+persona shares with the "they" at least fo ur of its characteri stics: distantiality
 [Abständigkeit],
 averageness
 [Durchschnittlichkeit]
@@ -502,8 +427,7 @@ acknowledgement of identity, and is, therefore, unable to utter the Sanskrit
 tat
 twam asi
 . “In one's concern with what one has taken hold of, whether with, for, or
-against, the Others, there is constant ca
-re as to the way one differs from them.”
+against, the Others, there is constant ca re as to the way one differs from them.”
 25
 
 Durchschnittlichkeit
@@ -535,8 +459,7 @@ ti, Ed. Trei, 2009, p. 445.
 Ralf T. Vogel,
 C. G. Jung für die Praxis. Zur Integration jungianischer Methoden in psychotherapeutische
 Behandlungen
-, Verlag W. Kohlhammer, Stuttgart, Ve
-rlag W. Kohlhammer, 2016, p. 50.
+, Verlag W. Kohlhammer, Stuttgart, Ve rlag W. Kohlhammer, 2016, p. 50.
 25
 Martin Heidegger,
 Being and Time,
@@ -555,8 +478,7 @@ Ausgleichung
 also translated with "levelling"
 27
 :“Every kind of priority gets noiselessly suppressed.
-Overnight, everything that is primordi
-al gets glossed over as something
+Overnight, everything that is primordi al gets glossed over as something
 that has long been well known.”
 28
 The fourth Heideggerian feature makes
@@ -573,17 +495,14 @@ himself ... The ‘they’... is the "nobody"
 The
 disburdenment required by the "they" is not
 unlike depersonalization: it is like moving
-backwards on the Ego-Self axis, th
-e devolution towards persona and
+backwards on the Ego-Self axis, th e devolution towards persona and
 das Man
 .
-It is obvious that persona, as a mech
-anism of adjustment to the “dictates”
+It is obvious that persona, as a mech anism of adjustment to the “dictates”
 of society, shares with
 das Man
 its inconspicuousness and unascertainability
-[Unauffälligkeit und Ni
-chtfeststellbarkeit]
+[Unauffälligkeit und Ni chtfeststellbarkeit]
 30
 : “We take pleasure and enjoy
 ourselves as
@@ -619,8 +538,7 @@ the same time, I have to simultaneously know and not know, because the
 deceiver and the deceived are the same person. However, if we examined
 ourselves, we would observe that bad faith is a widespread phenomenon in our
 daily existence: rather the rule and not the exception. We tend to refuse to
-acknowledge the truth and accept the conven
-ient lie, to adjust and make things
+acknowledge the truth and accept the conven ient lie, to adjust and make things
 
 26
 BT §27, p. 165.
@@ -661,19 +579,15 @@ as “self-actors” or “actors before ourselves”
 .
 Therefore, one could redefine bad faith
 as an internalized Jungian persona:
-through it I mask for myself so
-me features of my personal
-ity. I don’t want to know
-that I know certain things. The concepti
-on of an internalized persona which
+through it I mask for myself so me features of my personal ity. I don’t want to know
+that I know certain things. The concepti on of an internalized persona which
 conceals from me certain aspects of my ego and shadow brings us to the aspect of
 the
 half-truth
 (this peculiar combination of lie and truth). The half-truth of bad
 faith (as inner mask) is a greater enemy of
 truth than the lie because the disclosed
-lie gives the chance of an ontic reconstruc
-tion, “a self-recovery of being which was
+lie gives the chance of an ontic reconstruc tion, “a self-recovery of being which was
 previously corrupted”
 35
 . But an existence entirely established upon an undiscovered
@@ -690,8 +604,7 @@ Many researchers of existential philosophy (Flynn
 ,
 Carman
 39
-) claim that Heideggerian “authenticit
-y” must be understood as “ownedness”.
+) claim that Heideggerian “authenticit y” must be understood as “ownedness”.
 
 Eigentlichkeit = eigen (own) + tlichkeit
 Authenticity = own
@@ -705,8 +618,7 @@ edness
 40
 ).
 
-“Heidegger’s account of authentici
-ty exploits the etymology of the
+“Heidegger’s account of authentici ty exploits the etymology of the
 German term
 Eigentlichkeit
 , derived from the word
@@ -755,8 +667,7 @@ Taylor Carman, “Authenticity” in Hubert
 L. Dreyfus, Mark A. Wrathall (Eds.),
 A Companion to
 Heidegger
-, Malden, Oxford, Blackwe
-ll Publishing, 2005, p. 285.
+, Malden, Oxford, Blackwe ll Publishing, 2005, p. 285.
 40
 John Macquarrie,
 Existentialism. An Introduction, Guide and Assessment
@@ -824,11 +735,9 @@ or
 active
 ,
 or Earth and Sun. This relationship can be internalized, as the one supposed
-between Goethe and Faust, or Nietzsch
-e and Zarathustra. “I … distinguish
+between Goethe and Faust, or Nietzsch e and Zarathustra. “I … distinguish
 between the ego and the self …, since the ego is only the subject of my
-consciousness, while the self is the subjec
-t of my total psyche, which also includes
+consciousness, while the self is the subjec t of my total psyche, which also includes
 the unconscious… In unconscious fantasies … the self often appears as
 supraordinate or ideal personality, having
 somewhat the relationship of Faust to
@@ -846,8 +755,7 @@ In Search of Authenticity. From Kierkegaard to Camus
 44
 Charles Taylor, 1991:
 The Ethics of Authenticity
-, Cambridge, London, Harvard Un
-iversity Press, 1991, p. 29.
+, Cambridge, London, Harvard Un iversity Press, 1991, p. 29.
 45
 Ralph Waldo Emerson,
 Self-Reliance and Other Essays,
@@ -869,31 +777,25 @@ Collected Works
 , Jung defines the shadow as an
 inferior personality.
 The shadow
-must be understood as a personal inferi
-ority which contrasts with the superiority
+must be understood as a personal inferi ority which contrasts with the superiority
 of the ideal of the Ego, represented by the persona
 49
 . We display the persona and
 repress the shadow. According to a Jungian commentator
 50
 , there are five steps of
-the phenomenology of the shadow: pr
-ojection, recognition, dissociation,
+the phenomenology of the shadow: pr ojection, recognition, dissociation,
 identification, and integration. Three of them are especially interesting for our
 argument: projection, identification, and integration.
-The projection of unconscious cont
-ent into our surroundings alters the
+The projection of unconscious cont ent into our surroundings alters the
 individual’s perception of his or her world. One can say that projection leads to a
 sort of autism,
-transforming the world into a drea
-m through the externalization of our
+transforming the world into a drea m through the externalization of our
 inner fantasy. It is not meaningless that Jung adapted the mechanism of
-projection from the Freudian research co
-ncerning paranoia. Therefore, we find on
+projection from the Freudian research co ncerning paranoia. Therefore, we find on
 the outside what is hidden on the inside: most of the time, the sense of hostility
 from our surroundings might be a projection of our own hostility. The evil we
-mostly find outside (“l'enfer c'est les autr
-es”) might be a reflection of our inner
+mostly find outside (“l'enfer c'est les autr es”) might be a reflection of our inner
 negativity (“l'enfer c'est moi”). However, projection is so seductive because it
 maintains “Ego’s monarchy:”
 “Projection causes the least amount of distress to
@@ -913,15 +815,12 @@ contempt for ourselves. The projection is
 only a detour through which we hide
 our dissatisfaction for ourselves.
 The identification with the shadow (a phenomenon used by Jung to
-diagnose Nietzsche’s inflation) is a ma
-nner of “collision with the unconscious”
-transforming the affected individual “i
-nto a hero or into a godlike being, a
+diagnose Nietzsche’s inflation) is a ma nner of “collision with the unconscious”
+transforming the affected individual “i nto a hero or into a godlike being, a
 superhuman entity.”
 53
 More exactly, this identification refers to “the taking over
-of our shadow contents in our own identi
-ty. The destructive actions are no longer
+of our shadow contents in our own identi ty. The destructive actions are no longer
 
 48
 CW 7 §78, CW 9
@@ -932,9 +831,7 @@ Jolande Jacobi,
 op. cit.
 , p. 39.
 50
-Mario Trevi, „Sul problema dell’ombra nella psic
-ologia analitica”, in Ma
-rio Trevi, Augusto Romano,
+Mario Trevi, „Sul problema dell’ombra nella psic ologia analitica”, in Ma rio Trevi, Augusto Romano,
 Studi
 sull’ombra,
 Milano, Raffaello Cortina
@@ -979,29 +876,24 @@ regarding our personality”
 we would gain access to the immense energy repressed by the shadow
 56
 and
-advance towards individu
-ation and wholeness.
+advance towards individu ation and wholeness.
 Just as persona (a mask devised to deal with the outer world) was
 considered an equivalent of the Heideggerian
 das Man
 , the integration of the
 shadow through the particular movement towards individuation on the Ego-Self
 axis could be regarded as a version of Heideggerian authenticity. The integration
-of the shadow is a transgression and tr
-ansformation of the shadow (understood
+of the shadow is a transgression and tr ansformation of the shadow (understood
 as the “other” in ourselves), a way of
 becoming aware of our unconsciousness (or
 of illuminating the darkness), and also a manner of becoming who we are. The
-integration of the shadow is a kind of ex
-ploitation of “owne
-dness,” which “carries
+integration of the shadow is a kind of ex ploitation of “owne dness,” which “carries
 with it a connotation of owning oneself, owning up to what one is becoming, and
 taking responsibility for being one’s own”
 57
 .
 If the final, heroic moment of the integration of the shadow is the
-epitome of authenticity, th
-e preceding moment of the identification with the
+epitome of authenticity, th e preceding moment of the identification with the
 shadow is a mode of failing to realize our progression towards authenticity.
 However, we must note that both individuation and authenticity are continuous
 processes, in which Becoming takes precedence over Being: we cannot
@@ -1084,8 +976,7 @@ ownmost possibility)
 authentic potentiality-for-Being-in-the-world
 . Anxiety individualizes Dasein for its
 own most Being-in-the-world, which as something that understands, projects
-itself essentially upon possibilities. Therefor
-e, with that which it is anxious about,
+itself essentially upon possibilities. Therefor e, with that which it is anxious about,
 anxiety discloses Dasein as Being-possible
 …”
 62
@@ -1124,8 +1015,7 @@ possibility of building an authentic existence: “Only by realizing that he is 
 wholly unique possibility of his own death does a person cease to treat himself as
 
 60
-Anton Hügli, „Tod” in Ur
-s Thurnherr, Anton Hügli,
+Anton Hügli, „Tod” in Ur s Thurnherr, Anton Hügli,
 Lexikon Existenzialismus und Existenzphilosophie
 ,
 Darmstadt, WBG, Darmstadt, 2007, p. 253.
@@ -1140,8 +1030,7 @@ BT §47, p. 284.
 64
 Emmanuel Levinas,
 God, Death, and Time,
-translated by Bettina Bergo, Stan
-ford, Stanford University Press,
+translated by Bettina Bergo, Stan ford, Stanford University Press,
 2000, p. 24.
 JUNG AND EXISTENTIALISM
 
@@ -1215,8 +1104,7 @@ world. I saw how we live toward death, how the swaying golden wheat sinks
 together under the scythe of the reaper, / like a smooth wave on the sea-beach.
 He who abides in common life becomes aware of death with fear. Thus the fear
 of death drives him toward singleness. He does not live there, but he becomes
-aware of life and is happy; since in sin
-gleness he is one who becomes, and has
+aware of life and is happy; since in sin gleness he is one who becomes, and has
 overcome death.
 68
 
@@ -1240,8 +1128,7 @@ TEFAN BOLEA
 
 102
 The relationships between fear and death, on one hand, and fear of death
-and singleness, on the other echo with th
-e Heideggerian description of anxiety of
+and singleness, on the other echo with th e Heideggerian description of anxiety of
 “authentic potentiality-for-Being-in
 -the-world” and individualization
 [Vereinzelung].
@@ -1251,42 +1138,34 @@ need a large share of death.”
 Moreover, the phrase “we live toward death”
 anticipates almost verbatim the expression
 Sein-zum-Tode
-or Being-towards-
-death. In the chapter
+or Being-towardsdeath. In the chapter
 Death
 , we find the most substantial description of existential
 death from
 The Red Book
 :
 
-We need the coldness of death to see clea
-rly. Life wants to live and to die, to
+We need the coldness of death to see clea rly. Life wants to live and to die, to
 begin and to end … If I accept death, then my tree greens, since dying increases
 life … Joy at the smallest things comes to
 you only when you have accepted death
 … Therefore I behold death, since it teaches me how to live. If you accept death,
 it is altogether like a frosty night and an
 anxious misgiving, but a frosty night in a
-vineyard full of sweet grapes. You will s
-oon take pleasure in your wealth. Death
+vineyard full of sweet grapes. You will s oon take pleasure in your wealth. Death
 ripens. One needs death to be able to harvest the fruit. Without death, life would
-be meaningless, since the long-lasting r
-ises again and denies its own meaning. To
-be, and to enjoy your being, you need de
-ath, and limitation enables you to fulfil
+be meaningless, since the long-lasting r ises again and denies its own meaning. To
+be, and to enjoy your being, you need de ath, and limitation enables you to fulfil
 your being.
 70
 
 “The coldness of death” resonates with the Schopenhauerian description of
 the
 passio
-of life understood as endless st
-riving and sufferance and to the
+of life understood as endless st riving and sufferance and to the
 detachment of death understood as a cure to the passionate and painful will to be.
-Moreover, this “coldness” relates to the el
-egant, almost mathematic necessity of
-death, which brings an end to illness, sa
-dness or distress. “Life is a task to be
+Moreover, this “coldness” relates to the el egant, almost mathematic necessity of
+death, which brings an end to illness, sa dness or distress. “Life is a task to be
 worked off; in this sense
 defunctus
 is a fine expression.”
@@ -1294,8 +1173,7 @@ is a fine expression.”
 The fruit that must be
 harvested with the assistance of death could be “the fruit of knowledge,” or of
 consciousness. In existentialist terms, anxiety of death leads to authenticity
-understood of “ownedness,” cutting us off from the tra
-nquillity and security of
+understood of “ownedness,” cutting us off from the tra nquillity and security of
 das
 Man
 . The ontological fruit of anxiety wakes us up from everyday slumber of
@@ -1364,10 +1242,8 @@ das Man
 (Pieper 1986: 54-5). My death is
 a treasure If I am able to integrate it into my life. The slumber of inauthentic
 existence resembles to a sort of death in
-life, while the auth
-entic acceptance of
-finitude adds meaning an
-d value to existence.
+life, while the auth entic acceptance of
+finitude adds meaning an d value to existence.
 
 73
 BT §53.

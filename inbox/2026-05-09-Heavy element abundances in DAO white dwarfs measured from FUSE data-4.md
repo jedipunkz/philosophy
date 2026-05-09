@@ -1,0 +1,381 @@
+---
+source: "https://arxiv.org/abs/astro-ph/0507341v1"
+title: "Heavy element abundances in DAO white dwarfs measured from FUSE data"
+author: "S. A. Good, M. A. Barstow, M. R. Burleigh, P. D. Dobbie, J. B. Holberg, I. Hubeny"
+year: "2005"
+publication: "arXiv preprint / astro-ph"
+download: "https://arxiv.org/pdf/astro-ph/0507341v1"
+pdf: "https://arxiv.org/pdf/astro-ph/0507341v1"
+captured_at: "2026-05-09T12:44:14Z"
+updated_at: "2026-05-09T12:44:14Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Nietzsche Beyond Good and Evil"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# Heavy element abundances in DAO white dwarfs measured from FUSE data
+
+- 著者: S. A. Good, M. A. Barstow, M. R. Burleigh, P. D. Dobbie, J. B. Holberg, I. Hubeny
+- 年: 2005
+- 掲載情報: arXiv preprint / astro-ph
+- 情報源: [arxiv](https://arxiv.org/abs/astro-ph/0507341v1)
+- ダウンロード: https://arxiv.org/pdf/astro-ph/0507341v1
+- PDF: https://arxiv.org/pdf/astro-ph/0507341v1
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+We present heavy element abundance measurements for 16 DAO white dwarfs, determined from Far-Ultraviolet Spectroscopic Explorer {FUSE} spectra. Evidence of absorption by heavy elements was found in the spectra of all the objects. Measurements were made using models that adopted the temperatures, gravities and helium abundances determined from both optical and FUSE data by Good et al. (2004). Despite the different evolutionary paths that the types of DAO white dwarfs are thought to evolve through, their abundances were not found to vary significantly, apart from for the silicon abundances. Abundances measured when the FUSE derived values of temperature, gravity and helium abundance were adopted were, in general, a factor 1-10 higher than those determined when the optical measure of those parameters was used. Satisfactory fits to the absorption lines were achieved in approximately equal number. The models that used the FUSE determined parameters seemed better at reproducing the strength of the nitrogen and iron lines, while for oxygen, the optical parameters were better.
+
+## PDF Text
+
+arXiv:astro-ph/0507341v1 14 Jul 2005
+Mon.Not.R.Astron.Soc.000,1–15(2004)Printed10September2021(MNLaTEXstyleﬁlev2.2)HeavyelementabundancesinDAOwhitedwarfsmeasuredfrom
+FUSEdataS.A.Good1?,M.A.Barstow1,M.R.Burleigh1,P.D.Dobbie1,J.B.Holberg2andI.Hubeny31DepartmentofPhysicsandAstronomy,UniversityofLeicester,UniversityRoad,LeicesterLE17RH2LunarandPlanetaryLaboratory,UniversityofArizona,Tucson,AZ85721,USA3StewardObservatoryandDepartmentofAstronomy,UniversityofArizona,Tucson,AZ85721,USAReleased2002XxxxxXXABSTRACT
+Wepresentheavyelementabundancemeasurementsfor16DAOwhitedwarfs,determinedfromFar-UltravioletSpectroscopicExplorer(FUSE)spectra.Evidenceofabsorptionbyheavyelementswasfoundinthespectraofalltheobjects.Measurementsweremadeus-ingmodelsthatadoptedthetemperatures,gravitiesandheliumabundancesdeterminedfrombothopticalandFUSEdatabyGoodetal.(2004).Itwasfoundthat,whenusingthevaluesforthoseparametersmeasuredfromopticaldata,thecarbonabundancemeasurementsfollowandextendasimilartrendofincreasingabundancewithtemperatureforDAwhitedwarfs,dis-coveredbyBarstowetal.(2003).However,whentheFUSEmeasurementsareusedtheDAOabundancesnolongerjointhistrendsincethetemperaturesarehigherthantheopticalmea-sures.Siliconabundanceswerefoundtoincreasewithtemperature,butnosimilartrendwasidentiﬁedinthenitrogen,oxygen,ironornickelabundances,andnodependenceongravityorheliumabundanceswerenoted.However,themodelswerenotabletoreproducetheobservedsiliconandironlinestrengthssatisfactorilyinthespectraofhalftheobjects,andtheoxygenfeaturesofallbutthree.DespitethedifferentevolutionarypathsthatthetypesofDAOwhitedwarfsarethoughttoevolvethrough,theirabundanceswerenotfoundtovarysigniﬁcantly,apartfromforthesiliconabundances.AbundancesmeasuredwhentheFUSEderivedvaluesoftemperature,gravityandheliumabundancewereadoptedwere,ingeneral,afactor1-10higherthanthosedeterminedwhentheopticalmeasureofthoseparameterswasused.Satisfactoryﬁtstotheabsorptionlineswereachievedinapproximatelyequalnumber.ThemodelsthatusedtheFUSEdeterminedparame-tersseemedbetteratreproducingthestrengthofthenitrogenandironlines,whileforoxygen,theopticalparameterswerebetter.ForthethreeobjectswhosetemperaturemeasuredfromFUSEdataexceeds120000K,thecarbon,nitrogenandoxygenlinesweretooweakinthemodelsthatusedtheFUSEparameters.However,themodelthatusedtheopticalparametersalsodidnotreproducethestrengthofallthelinesaccurately.Keywords:stars:atmospheres-whitedwarfs-ultraviolet:stars.1INTRODUCTION
+DAOwhitedwarfs,forwhichtheprototypeisHZ34
+(Koester,Weidemann,&Schulz1979;Wesemaeletal.1993), arecharacterisedbythepresenceofHeIIabsorptionintheiropticalspectrainadditiontothehydrogenBalmerseries.Radiativeforcescannotsupportsufﬁcientheliuminthelineformingregionofthewhitedwarftoreproducetheobservedlines(Vennesetal.1988),andoneexplanationfortheirexistenceisthattheyaretran-sitionalobjectsswitchingbetweenthehelium-andhydrogen-richcoolingsequences(Fontaine&Wesemael1987).Ifasmallamount?Email:sag15@le.ac.ukofhydrogenweremixedintoanotherwiseheliumdominatedat-mosphere,gravitationalsettlingwouldthencreateathinhydrogenlayeratthesurfaceofthewhitedwarf,withtheboundarybetweenthehydrogenandheliumdescribedbydiffusiveequilibrium.How-ever,Napiwotzki&Sch¨onberner(1993)foundthatthelineproﬁleoftheHeIIlineat4686˚AintheDAOS216wasbettermatchedbyhomogeneouscompositionmodels,ratherthanthepredictedlayeredconﬁguration.Subsequently,aspectroscopicinvestigationbyBergeronetal.(1994)foundthattheHeIIlineproﬁleofonlyoneoutofatotalof14objectswasbetterreproducedbystratiﬁedmodels.Inaddition,thelineproﬁleofoneobject(PG1210+533)couldnotbereproducedsatisfactorilybyeithersetofmodels.MostoftheDAOsanalysedbyBergeronetal.werecom-c2004RAS
+2S.A.Goodetal.parativelyhotforwhitedwarfs,butwithlowgravity,whichim-pliesthattheyhavelowmass.Therefore,theymayhavenothavebeenmassiveenoughtoascendtheasymptoticgiantbranch,andinsteadmayhaveevolvedfromtheextendedhorizontalbranch.Bergeronetal.(1994)suggestedthataprocesssuchasweakmasslossmaybeoccurringinthesestars,whichmightsupporttheob-servedquantitiesofheliuminthelineformingregionsoftheDAOs(Unglaub&Bues1998,2000).ThreeoftheBergeronetal.(1994)objects(RE1016-053,PG1413+015andRE2013+400)hadcomparatively`normal'temperaturesandgravities,yetheliumabsorp-tionfeatureswerestillobserved.EachoftheseareinclosebinarysystemswithMdwarf(dM)companions.Itmaybethatasthewhitedwarfprogenitorpassesthroughthecommonenvelopephase,massislost,leadingtothestarbeinghydrogenpoor.Then,aprocesssuchasweakmasslosscouldmixheliumintothelineformingregionofthewhitedwarf.Alternatively,theseDAOsmightbeaccretingfromthewindoftheircompanions,asisbelievedtobethecaseforanotherDAO+dMbinary,RE0720-318(Dobbieetal.1999).Knowledgeoftheeffectivetemperature(Teﬀ)andsurfacegravity(g)ofawhitedwarfisvitaltoourunderstandingof itsevolutionarystatus.ValuesforboththeseparameterscanbefoundbycomparingtheproﬁlesoftheobservedhydrogenBalmerlinestotheoreticalmodels.ThistechniquewaspioneeredbyHolbergetal.(1985)andextendedtoalargesampleofwhite dwarfsbyBergeron,Saffer,&Liebert(1992).However,forobjectsinclosebinarysystems,wherethewhitedwarfcannotbespatiallyresolved,theBalmerlineproﬁlescannotbeusedastheyarefre-quentlycontaminatedbyﬂuxfromthesecondary(ifitisoftypeKorearlier).Instead,thesametechniquecanbeappliedtotheLymanlinesthatarefoundinfar-ultraviolet(far-UV)data,asthewhitedwarfismuchbrighterinthiswavelengthregionthanthecom-panion(e.g.Barstowetal.1994).However,Barstowetal.(2001),Barstowetal.(2003)andGoodetal.(2004)havecomparedthere-sultsofﬁttingtheBalmerandLymanlinesofDAandDAOwhite dwarfs,andfoundthatabove50000K,theTeﬀmeasurementsbe-gintodiverge.Thiseffectwasstrongerinsomestars;inparticular,theLymanlinesof3DAOsinthesampleofGoodetal.(2004)weresoweakthatthetemperatureofthebestﬁttingmodelexceeded120000K,whichwasthelimitoftheirmodelgrid.Onefactorthatinﬂuencesthemeasurementsoftemperatureandgravityisthetreatmentofheavyelementcontaminantsintheatmosphereofawhitedwarf.Barstow,Hubeny,&Holberg(1998)foundthatheavyelementlineblanketingsigniﬁcantlyaffectedtheBalmerlineproﬁlesintheirtheoreticalmodels.TheresultwasadecreaseinthemeasuredTeﬀofawhitedwarfcomparedtowhenapurehydrogenmodelwasused.Inaddition,Barstowetal.(2003)conductedasystematicsetofmeasurementsoftheabundancesofheavyelementsintheatmospheresofhotDAwhitedwarfs,whichdifferfromtheDAOsinthatnoheliumisobserved.Theyfoundthatthepresenceorlackofheavyelementsinthephotosphereofthewhitedwarfslargelyreﬂectedthepredictionsofradiativelevitation,althoughtheabundancesdidnotmatchtheexpectedvaluesverywell.WehaveperformedsystematicmeasurementsoftheheavyelementabundancesinFar-UltravioletSpectroscopicExplorer(FUSE)observationsofDAOwhitedwarfs.Themotivationforthisworkwastwofold:ﬁrstly,wewishtoinvestigateifthedif-ferentevolutionarypathssuggestedfortheDAOsarereﬂectedintheirheavyelementabundances,ascomparedtotheDAsof
+Barstowetal.(2003).Secondly,sinceTeﬀandloggmeasurementsfrombothopticalandfar-UVdataforalltheDAOsinoursamplehavepreviouslybeenpublished(Goodetal.2004),weinvestigate
+Figure1.FUSEspectrumofPG1210+533,producedbycombiningthespectrafromtheindividualdetectorsegments.*TheemissioninthecoreoftheLymanbetaHIlineisduetoterrestrialairglow.whichsetofmodelsbetterreproducesthestrengthsoftheobservedlines.Thepaperisorganisedasfollows:in§2,§3and§4wede-scribetheobservations,modelsanddataanalysistechniqueused.Then,in§5theresultsoftheabundancemeasurementsareshown.Theabilityofthemodelstoreproducetheobservationsaredis-cussedin§6andﬁnallytheconclusionsarepresentedin§7.2OBSERVATIONS
+Far-UVdataforalltheobjectswereobtainedbytheFUSEspectro-graphsandcoverthefullLymanseries,apartfromLymanα.Ta-ble1summarizestheobservations,whichweredownloadedbyusfromtheMultimissionArchive(http://archive.stsci.edu/mast.html),hostedbytheSpaceTelescopeScienceInstitute.OverviewsoftheFUSEmissionandin-orbitperformancecanbefoundinMoosetal.(2000)andSahnowetal.(2000)respectively.Fullde-tailsofourdataextraction,calibrationandco-additiontechniquesarepublishedinGoodetal.(2004).Inbrief,thedataarecalibratedusingtheCALFUSEpipelineversion2.0.5orlater,resultingineightspectra(coveringdifferentwavelengthsegments)perFUSEexpo-sure.Theexposuresforeachsegmentarethenco-added,weight-ingeachaccordingtoexposuretime,andﬁnallythesegmentsarecombined,weightedbytheirsignal-to-noise,toproduceasinglespectrum.Beforeeachco-addition,thespectraarecross-correlatedandshiftedtocorrectforanywavelengthdrift.Figure1showsanexampleoftheoutputfromthisprocess,forPG1210+533.
+3MODELCALCULATIONS
+Anewgridofstellarmodelatmosphereswascreatedusing thenon-localthermodynamic(non-LTE)codeTLUSTY(v.195)(Hubeny&Lanz1995)anditsassociatedspectralsynthesiscodeSYNSPEC(v.45),basedonthemodelscreatedbyBarstowetal.(2003);aswiththeirmodels,allcalculationswereperformedinnon-LTEwithfullline-blanketing,andwithatreatmentofStarkbroadeninginthestructurecalculation.Gridpointswithvaryingabundanceswerecalculatedfor8differenttemperaturesbetween40000and120000K,in10000Ksteps,4differentvaluesoflogg:c2004RAS,MNRAS000,1–15
+HeavyelementabundancesinDAOs3Table1.ListofFUSEobservationsforthestarsinthesample.AllobservationsusedTTAGmode.
+ObjectWDnumberObs.IDDateExp.Time(s)Aperture
+PNA667WD0500-156B05209012001/10/0511525LWRS
+HS0505+0112WD0505+012B05303012001/01/027303LWRS
+PNPuWe1WD0615+556B05207012001/01/116479LWRSS60122012002/02/158194LWRSRE0720-318WD0718-316B05101012001/11/1317723LWRS
+TON320WD0823+317B05302012001/02/219378LWRS
+PG0834+500WD0834+501B05304012001/11/048434LWRS
+PNA6631B05210012001/04/258434LWRS
+HS1136+6646WD1136+667B05308012001/01/126217LWRSS60106012001/01/297879LWRSFeige55WD1202+608P10421051999/12/2919638MDRSP10421012000/02/2613763MDRS
+S60101012002/01/2810486LWRS
+S60101022002/03/3111907LWRS
+S60101032002/04/0111957LWRS
+S60101042002/04/0112019LWRSPG1210+533WD1210+533B05306012001/01/134731LWRS
+LB2WD1214+267B05305012002/02/149197LWRS
+HZ34WD1253+378B05301012003/01/167593LWRS
+PNA6639B05203012001/07/266879LWRS
+RE2013+400WD2011+395P20404012000/11/1011483LWRS
+PNDeHt5WD2218+706A03416012000/08/156055LWRS
+GD561WD2342+806B05204012001/09/085365LWRS
+6.5,7.0,7.5and8.0,and,sincetheobjectsinquestionareDAOs,5valuesoflogHe
+Hbetween-5and-1,instepsof1.Therefore,thegridencompassedthefullrangeofthestellarparametersde-terminedfortheDAOsbyGoodetal.(2004).Modelswerecalcu-latedforarangeofheavyelementabundances,whichwerefac-torsof10−1to101.5timesthevaluesfoundforthewellstudiedwhitedwarfG191-B2Binanearlieranalysis(Barstowetal.2001)(C/H=4.0×10−7,N/H=1.6×10−7,O/H=9.6×10−7,Si/H=3.0×10−7,Fe/H=1.0×10−5andNi/H=5.0×10−7),witheachpointafactorof100.5differentfromtheadjacentpoint.AbovethisvalueitwasfoundthattheTLUSTYmodelsdidnotconverge.Since,evenwiththeseabundances,theobservedstrengthsofsomelinescouldnotbereproduced,therangewasfurtherextendedupwardsbyafactorof10,usingSYNSPEC.However,asscalingabundancesinthiswayisonlyvalidifitcanbeassumedthatthestructureofthewhitedwarfatmospherewillnotbesigniﬁcantlyaffectedbythechange,abundancevaluesthishighshouldbetreatedwithcaution.Molecularhydrogenisobservedinthespectraofsometheob-jects.Forthosestars,thetemplatesofMcCandliss(2003)wereusedwiththemeasurementsofGoodetal.(2004)tocreateappropriatemolecularhydrogenabsorptionspectra.
+4DATAANALYSIS
+ThemeasurementsofheavyelementabundanceswereperformedusingthespectralﬁttingprogramXSPEC(Arnaud1996),whichadoptsaχ2minimisationtechiquetodeterminethesetofmodelparametersthatbestmatchesadataset.Asthefullgridofsyn-theticspectrawaslarge,itwassplitinto4smallergrids,oneforeachvalueoflogg.TheFUSEspectrumforeachwhitedwarfwassplitintosections,eachcontainingabsorptionlinesduetoasin-gleelement.Table2liststhewavelengthrangesusedandthemainspeciesinthoseregions.Whereabsorptionduetoanotherelementcouldnotbeavoided,theaffectedregionwassettobeignoredbytheﬁttingprocess.Theappropriatemodelgridfortheobject'sloggTable2.Wavelengthregionschosenforspectralﬁtting,themainspeciesineachrangeandthecentralwavelengthsofstronglines.
+SpeciesWavelengthrange/˚ACentralwavelengths/˚A
+CIV1107.0–1108.21107.6,1107.9,1108.0
+1168.5–1170.01168.8,1169.0NIII990.5–992.5991.6NIV920.0–926.0992.0,922.5,923.1,923.2,923.7,924.3OIV1067.0–1069.01067.8OVI1031.0–1033.01031.9
+1036.5–1038.51037.6SiIII1113.0–1114.01113.2SiIV1066.0–1067.01066.6,1066.7
+1122.0–1129.01122.5,1128.3FeV1113.5–1115.51114.1FeVI/VII1165.0–1167.01165.1,1165.7,1166.2FeVII1116.5–1118.01117.6NiV1178.0–1180.01178.9
+wasselected,fromthemeasurementsofGoodetal.(2004),andtheTeﬀandheliumabundancewereconstrainedtofallwithinthe1σlimitsfromthesamemeasurements,butwereallowedtovaryfreelywithinthoseranges.Forthosestarswhosespectraexhibitmolec-ularhydrogenabsorption,themolecularhydrogenmodelcreatedforthatobjectwasalsoincluded.Then,themodelabundancethatbestmatchedtheabsorptionfeaturesintherealdatawasfound,and3σerrorscalculatedfromthe∆χ2distribution.Whereanelementwasnotdetected,the3σupperboundwascalculatedinstead.ThisanalysiswasrepeatedseparatelyfortheparametersdeterminedbyGoodetal.(2004)frombothopticalandFUSEdata–theseparam-etersarelistedinTable3.c2004RAS,MNRAS000,1–15
+4S.A.Goodetal.Table3.MeanbestﬁttingparametersobtainedfromopticalandFUSEdata,fromGoodetal.(2004).LogHe
+HisnotlistedfortheopticaldataofPG1210+533asitisseentovarybetweenobservations.1σconﬁdenceintervalsaregiven,apartfromwherethetemperatureorgravityoftheobjectisbeyondtherangeofthemodelgridandhenceaχ2minimumhasnotbeenreached.Whereaparameterisbeyondtherangeofthemodelgrid,thevalueiswritteninitalics.Theﬁnalcolumnsshowthetotalmolecularhydrogencolumndensityforeachstar,whereitwasdetected,andthemeasuredinterstellarextinction,alsofromGoodetal.(2004).
+BALMERLINESPECTRALYMANLINESPECTRAObjectTeﬀ/KLoggLogHe
+HTeﬀ/KLoggLogHe
+HLogH2E(B-V)
+PNA66766955±37707.23±0.17-1.29±0.1599227±22967.68±0.06-1.70±0.0918.50.001HS0505+011263227±20887.30±0.15-1.001200007.24-1.000.047PNPuWe174218±48297.02±0.20-2.39±0.37109150±118127.57±0.22-2.59±0.7519.90.090RE0720-31854011±15967.68±0.13-2.61±0.1954060±7767.84±0.03-4.71±0.690.019TON32063735±27557.27±0.14-2.45±0.2299007±40277.26±0.07-2.00±0.1214.90.000PG0834+50056470±16516.99±0.11-2.41±0.211200007.19-5.0018.20.033PNA663174726±59796.95±0.15-1.50±0.1593887±31537.43±0.15-1.0018.80.045HS1136+664661787±7007.34±0.07-2.46±0.081200006.50-1.000.001Feige5553948±6716.95±0.07-2.72±0.1577514±5327.13±0.02-2.59±0.050.023PG1210+53346338±6477.80±0.07-46226±3087.79±0.05-1.03±0.080.000LB260294±25707.60±0.17-2.53±0.2587622±37176.96±0.04-2.36±0.170.004HZ3475693±53596.51±0.04-1.68±0.2387004±51856.57±0.20-1.73±0.1314.30.000PNA663972451±61296.76±0.16-1.0087965±47017.06±0.15-1.40±0.1419.90.130RE2013+40047610±9337.90±0.10-2.80±0.1850487±5757.93±0.02-4.02±0.510.010PNDeHt557493±16127.08±0.16-4.93±0.8559851±16116.75±0.10-5.0020.10.160GD56164354±29096.94±0.16-2.86±0.3575627±49536.64±0.06-2.77±0.2419.80.089
+5RESULTS
+TheresultsoftheanalysisarelistedinTable4,andasummaryofwhichlinesweredetectedineachspectrumisshowninTable5.Heavyelementsweredetectedinallobjectsstudied.Carbonandnitrogenwereidentiﬁedinallobjects,althoughthestrengthofthelinescouldnotbereproducedwiththeabundancesincludedinthemodelsinsomecases.Figure2showsanexampleofaﬁttothe carbonlinesinthespectrumofLB2,wherethemodelsuccessfullyreproducedthestrengthofthelinesintherealdata.However,whenaﬁttothecarbonlinesinthespectrumofHS0505+0112wasattempted,itwasfoundthat,whenthevaluesoftemperature,gravityandheliumabundancedeterminedfromFUSEdatawereused,thelinestrengthspredictedbythemodelwerefartooweakcomparedtowhatisobserved(Figure3).Oxygenlineswerefoundtobe, ingeneral,particularlydifﬁculttoﬁt,withnoabundancemeasure-mentrecordedinanumberofcasesbecausethereproductionofthelineswassopoor.AnexampleofapoorﬁtisshowninFigure4.Sil-iconwasalsodetectedinallthespectra,butnotiron.Nickelabun-danceswereverypoorlyconstrained,withmanynon-detections,althoughtheerrormarginsspannedtheentireabundancerangeofthemodelgridinthreecases.ThesampleofDAOsandthesampleofDAsofBarstowetal.(2003)containoneobjectincommon:PNDeHt5.Althoughthis whitedwarfdoesnothaveanobservableheliumlineinitsopti-calspectrum,itisincludedwithinthesampleofDAOsbecauseBarstowetal.(2001)detectedheliumwithintheHubbleSpaceTelescope(HST)SpaceTelescopeImagingSpectrometer(STIS)spectrumoftheobject.ThispresentsanopportunitytocomparetheresultsofthisworkwiththeabundancesmeasuredbyBarstowetal.(2003)toconﬁrmtheconsistencyofthemeasurementsmadein thedifferentwavebands;thiscomparisonisshowninFigure5,anddemonstratesthatagreementbetweenthesetsofresultsiswithinerrors.However,uncertaintiesinthemeasurementsarelarge,par-ticularlyfornitrogenmeasuredinthiswork.TheabundancesmeasuredwiththemodelsthatusetheFUSEandopticalmeasurementsoftemperature,gravityandheliumabun-dancecanalsobecomparedfromtheresultsofthiswork.ChangFigure2.TheCIVlinesobservedinthespectrumofLB2(greyhistogram),overlaidwiththebestﬁttingmodel(blackline).Thetemperature,gravityandheliumabundanceofthemodelwerethosemeasuredfromFUSEdata.*Binscontainingthehighﬂuxesthatcanbeseenonthebluesideoftherightpanelandthatarenotpredictedbythemodelwereexcludedfromtheﬁt.
+ingtheparametersofthemodelwillaffectitstemperaturestruc-tureandionisationbalance,andthereforetheabundancesmea-suredmayalsochange.Thecarbon,nitrogen,siliconandironabun-dancesmeasuredusingtheFUSEderivedparametersarecomparedtothosemeasuredusingtheopticallyderivedparametersinFigure6.Oxygenabundancesarenotshownduetothepoorqualityoftheﬁts,whilemanyofthenickelabundancesarepoorlyconstrainedandhencearealsonotshown.TheabundancesthatweremeasuredwithmodelsthatusedtheFUSEparametersaregenerallyhigherthanthosethatusedtheopticalparametersbyafactorofbetween1and10.Insomecasesthefactorishigher,forexampleitis30forthesiliconmeasurementsforHS1136+6646.However,asatisfac-toryﬁttothoselineswasnotachieved(χ2
+red>2),hencetheabun-c2004RAS,MNRAS000,1–15
+HeavyelementabundancesinDAOs5Table4.Measurementsofabundances,withallvaluesexpressedasanumberfractionwithrespecttohydrogen,andtheir3σconﬁdenceintervals.Wheretheabundancevalueortheupperconﬁdenceboundaryexceededthehighestabundanceofthemodelgrid,an∞symbolisused.Whereanabundanceoralowererrorboundaryisbelowthelowestabundanceinthemodelgrid,0isplacedinthetable;ifthisoccursfortheabundance,thevalueinthe+3σcolumnisanupperlimitontheabundance.Inthetable,*indicatesthatthemodelﬁttothelineswaspoor,withχ2
+redgreaterthan2,while#iswritteninsteadofanabundancewherethemodelwasunabletorecognisablyreproducetheshapeofthelines.
+ObjectC/HN/HOpticalFUSEOpticalFUSE
+PNA6671.38+
+−1.540.531×10−54.17+
+−3.841.09×10−57.96+
+−12.25.96×10−86.43+
+−23.35.96×10−6H0505+01121.11+
+−∞
+0.363×10−4∞7.36∗+
+−7.984.60×10−8∞PNPuWe11.44∗+
+−2.220.975×10−54.00∗+
+−5.081.74×10−5∞∞RE0720-3181.10+
+−0.7280.563×10−62.97+
+−1.901.45×10−61.29+
+−0.7780.714×10−71.21+
+−0.6890.467×10−7Ton3207.21+
+−4.733.01×10−62.61+
+−2.631.39×10−51.36+
+−2.131.13×10−64.99+
+−∞
+0.0660×10−5PG0834+5002.91∗+
+−3.511.44×10−66.93+
+−∞
+4.35×10−56.89+
+−5.712.84×10−6∞PNA66312.11+
+−2.101.41×10−54.09+
+−5.501.52×10−51.24+
+−14.90×10−75.45+
+−50.20×10−7HS1136+66461.83∗+
+−0.4880.418×10−63.19∗+
+−1.291.24×10−56.67∗+
+−6.461.62×10−7∞Feige552.84∗+
+−0.1970.199×10−65.01∗+
+−0.5420.311×10−62.11∗+
+−0.2050.103×10−6∞PG1210+5334.30+
+−2.672.60×10−61.50+
+−1.460.641×10−6LB22.26+
+−1.171.22×10−52.28+
+−3.051.27×10−52.51∗+
+−1.400.864×10−6∞HZ341.27+
+−3.560.563×10−64.01+
+−9.511.43×10−62.74+
+−12.72.59×10−63.21+
+−∞
+3.08×10−5PNA66391.66+
+−2.181.16×10−61.66+
+−21.40.952×10−65.60+
+−∞
+5.06×10−64.08+
+−∞
+3.87×10−5RE2013+4001.61+
+−3.091.49×10−61.61+
+−4.011.52×10−68.36+
+−2.622.03×10−73.01+
+−6.361.11×10−6PNDeHt57.60+
+−96.67.20×10−71.08+
+−∞
+0×10−5GD5611.16∗+
+−1.960.409×10−59.19∗+
+−∞
+5.64×10−5∞∞
+Table4–continued
+ObjectO/HSi/HOpticalFUSEOpticalFUSE
+PNA667##7.54∗+
+−3.573.97×10−62.27∗+
+−1.041.08×10−5HS0505+0112##1.67∗+
+−0.6950.498×10−67.71∗+
+−1.772.94×10−5PNPuWe19.58∗+
+−6.106.54×10−72.30∗+
+−1.192.06×10−69.51∗+
+−10.16.55×10−62.99∗+
+−1.112.09×10−5RE0720-3182.95+
+−1.121.38×10−63.04+
+−3.180.877×10−76.28+
+−2.471.26×10−76.06+
+−1.171.45×10−7Ton320∞3.05∗+
+−0.07861.09×10−64.33∗+
+−4.333.16×10−73.73∗+
+−5.442.02×10−6PG0834+500∞5.67∗+
+−4.282.77×10−72.81∗+
+−0.7580.912×10−63.00∗+
+−0.9610.420×10−5PNA66313.11∗+
+−2.760.798×10−53.04∗+
+−0.6490.902×10−53.53∗+
+−2.711.51×10−69.42∗+
+−4.332.42×10−6HS1136+66464.76∗+
+−1.130.919×10−59.60∗+
+−1.620.764×10−74.40∗+
+−2.960×10−81.32∗+
+−1.500.748×10−6Feige551.03∗+
+−1.260.820×10−53.80∗+
+−0.3700.337×10−75.52∗+
+−0.8200.732×10−75.15∗+
+−1.011.02×10−6PG1210+5332.99+
+−2.402.00×10−61.90+
+−0.5160.458×10−8LB2∞3.98∗+
+−2.971.11×10−71.81+
+−0.7300.587×10−69.84+
+−6.693.53×10−6HZ343.03∗+
+−0.3620.606×10−53.04∗+
+−0.2091.19×10−74.73+
+−3.762.41×10−65.76+
+−20.92.74×10−6PNA6639##2.33+
+−1.811.24×10−63.00+
+−5.111.27×10−6RE2013+400##3.68+
+−0.9630.845×10−74.71+
+−1.311.06×10−7PNDeHt57.00+
+−13.01.92×10−68.22+
+−11.84.10×10−7GD5612.64∗+
+−∞
+1.28×10−4#5.24∗+
+−2.352.36×10−69.51∗+
+−4.111.34×10−6
+dancesmaybeunreliable.Incontrast,theﬁtstothenitrogenlinesinthespectrumofA7weresatisfactory,yettheabundancemea-surethatusedtheFUSEparameterswashigherthanthemeasurewithopticalparametersbyafactorof81,althoughtheerrorbarsarelarge.Overall,however,theabundancemeasuresthatutilisethedifferentparametersappeartocorrelatewitheachother.Inthefollowingwedescribetheabundancemeasurementsforeachelementinturn,comparethemtotheDAmeasurementsmadebyBarstowetal.(2003)anddiscussthemwithreferencetotheradiativelevitationpredictionsofChayer,Fontaine,&Wesemael(1995),andthemasslosscalculationsofUnglaub&Bues(2000).5.1Carbonabundances
+Figure7showsthemeasuredcarbonabundancesagainstTeﬀfromﬁtstothecarbonabsorptionfeaturesintheFUSEdata.Abun-dancesobtainedwhenthemodelTeﬀ,loggandheliumabundanceweresettothevaluesfoundbyGoodetal.(2004)fromﬁtsto bothopticalandFUSEspectraareshown.Inthefollowing,thesewillbereferredtoas`opticalabundances'and`FUSEabundances'respectively.ShownforcomparisonarethemeasurementsmadebyBarstowetal.(2003)forDAs.Forclarity,onlytheresultoftheirﬁtstotheCIVlinesareplotted.Theplotshowsthatthecar-bonabundancesoftheDAOsfallwithintherange10−6to10−4thatofhydrogen,ingeneralhigherthanthosefortheDAs.Theonlyabundancebelow10−6belongstoPNDeHt5,which,apartfromthediscoveryofheliuminitsHSTspectrumbyBarstowetal.(2001),wouldnotbeclassedasaDAOinthiswork.Theother
+DAOwhitedwarfswhosetemperaturesaresimilartothoseof theDAshavemarginallyhigherabundancesthanthelatter.TheseDAOscomprisethewhitedwarfplusmainsequencestarbinaries,theunusualwhitedwarfPG1210+533,andopticalabundancesofc2004RAS,MNRAS000,1–15
+6S.A.Goodetal.Table4–continued
+ObjectFe/HNi/HOpticalFUSEOpticalFUSE
+PNA6671.24∗+
+−1.170.744×10−58.22∗+
+−7.253.82×10−50+
+−1.630×10−60+
+−8.940×10−6HS0505+01128.77∗+
+−13.12.93×10−59.68∗+
+−4.066.19×10−51.53+
+−5.300×10−60+
+−∞
+0PNPuWe12.96+
+−11.20×10−63.40+
+−16.40×10−61.23+
+−31.40×10−65.65+
+−∞
+0×10−6RE0720-3181.32+
+−6.620×10−62.44+
+−13.30×10−63.45+
+−46.10×10−77.21+
+−102.0×10−7Ton3201.70∗+
+−2.371.16×10−58.73∗+
+−16.34.64×10−55.43+
+−65.10×10−71.82+
+−29.70×10−6PG0834+5001.82∗+
+−3.180.926×10−54.75∗+
+−4.173.42×10−48.41+
+−42.50×10−62.21+
+−∞
+0×10−5PNA66319.42∗+
+−8.365.52×10−53.16∗+
+−2.201.52×10−42.22+
+−39.50×10−77.36+
+−234.0×10−7HS1136+66465.38∗+
+−11.50×10−60∗+
+−2.310×10−60∗+
+−5.890×10−70∗+
+−2.480×10−5Feige551.40∗+
+−0.6160.439×10−51.41∗+
+−0.4800.358×10−55.55+
+−8.543.73×10−63.71+
+−6.222.21×10−6PG1210+5334.70∗+
+−60.10×10−63.29∗+
+−19.20×10−6LB21.73∗+
+−1.921.10×10−52.09+
+−2.421.06×10−50+
+−3.120×10−60+
+−7.370×10−6HZ342.42+
+−5.821.68×10−57.64+
+−51.05.91×10−50+
+−6.630×10−65.12+
+−1920.0×10−8PNA66394.89+
+−21.40×10−63.74+
+−15.30×10−64.37+
+−25.40×10−69.93+
+−88.70×10−6RE2013+4000+
+−2.830×10−50+
+−2.160×10−50+
+−2.930×10−50+
+−3.110×10−5PNDeHt53.34+
+−6.202.58×10−51.21+
+−7.271.19×10−5GD5611.55+
+−1.760.967×10−51.45+
+−0.1430.828×10−51.84+
+−11.20×10−61.78+
+−28.10×10−6
+Table5.Summaryofwhichlineswereobservedtobepresentwhenperformingtheabundanceﬁts.H2denoteswherelineswereobscuredbymolecularhydrogenabsorption.
+ObjectCIVNIIINIVOIVOVISiIIISiIVFeVFeVIFEVIINiV
+PNA667√H2√√√√√√HS0505+0112√√√√√√√PNPuWe1√H2√√√√RE0720-318√√√√√√TON320√√√√√√√PG0834+500√√√√√√√√√PNA6631√H2√√√√√√HS1136+6646√√√√√Feige55√√√√√√√√√PG1210+533√√√√√√√LB2√√√√√√√HZ34√√√√√√√PNA6639√H2√√√RE2013+400√√√√√√PNDeHt5√H2√√√√GD561√H2√√√√√√
+starswhoseTeﬀ,asmeasuredfromFUSEdata,wereextreme(seeGoodetal.2004).However,thehighestabundancemeasuredwasforHS0505+0112,whichisalsooneoftheextremeFUSETeﬀobjects,forwhichtheFUSEabundanceandtheupperlimitoftheopticalabundanceexceededtheupperlimitofthemodelgrid.ThepredictionsofChayer,Fontaine,&Wesemael(1995)sug-gestthatabove∼40000K,carbonabundancesshouldhavelittledependenceontemperature,butshouldincreasewithdecreasinggravity.TakingtheopticalabundancestogetherwiththeDAabun-dances,itmightbearguedthattheyformatrendofincreasingtem-peraturewithgravity,extendingto∼80000K.Sincethemeasure-mentsofTeﬀfromFUSEwerehigherthanthosefromopticaldata,theFUSEabundancesaremorespreadouttowardsthehighertem-peraturesthantheopticalabundances.TheFUSEabundancesdonotshowanytrendwithtemperature,althoughthelowertempera-tureobjectsandthreeothersdohaveslightlylowerabundancesthantheremainder;ifthelatterobjects(Feige55,HZ34andPNA39)hadhighlogg,thismightexplaintheirlowcarbonabundances,butthisdoesnotseemtobethecase.Overall,nocarbonabundancewasgreaterthan∼10−4thatofhydrogen,whichisquiteclosetothemaximumabundancepredictedbyChayer,Fontaine,&Wesemael(1995),illustratedinFigure7bythedashedline.Howeverthecar-bonabundancesdecreasebelow∼80000K,contrarytotheirpre-dictions.Unglaub&Bues(2000)predictasurfaceabundanceofcarbonofbetween10−3and10−4timesthenumberofheavypar-ticlesintheirsimulation.Theircalculationsendattheirwindlimit,whenthewindisexpectedtocease,atapproximately90000K.Af-terthispoint,Unglaub&Bues(2000)expecttheabundancestofalltothevaluesexpectedwhenthereisequilibriumbetweengravita-tionalsettlingandradiativeacceleration.Whenusinganalternativeprescriptionformassloss,whichdoesnothaveawindlimit,thedropoffoccursatlowertemperature,atapproximately80000K.Thisissimilartowhatisobserved,althoughtheabundancemea-surementsareafactor∼10smallerthanpredicted.ThedependenceofcarbonabundanceongravityisshowninFigure8.Goodetal.(2004)foundnosystematicdifferencesbe-tweenloggmeasuredfromopticalandFUSEdata,hencethereisnoseparationbetweentheopticalandFUSEabundances,asseeninFigure7.Notrendbetweenloggandcarbonabundanceisevident,incontrasttowhatmightbeexpectedfromtheresultsofChayer,Fontaine,&Wesemael(1995).Figure9showsthere-lationshipbetweencarbonandheliumabundance.AswithFigurec2004RAS,MNRAS000,1–15
+HeavyelementabundancesinDAOs7
+Figure3.TheCIVlinesobservedinthespectrumofHS0505+0112(greyhistogram),overlaidwiththebestﬁttingmodel(blackline).Thetempera-ture,gravityandheliumabundanceofthemodelwerethosemeasuredfromFUSEdata.Theheavyelementabundanceofthemodelisthemaximumpossibleforthemodelgridusedintheﬁt,yetthepredictedlinesaremuchweakerthanthoseobserved.
+Figure4.TheOVIlinesobservedinthespectrumofRE2013+400(greyhistogram),overlaidwithamodelthathasanoxygenabundanceof10timesthevaluesmeasuredforG191-B2B,andwhichusesthetemperature,grav-ityandheliumabundancemeasuredfromFUSEdata(blackline).Thelinesinthemodelaremuchweakerthanthoseseenintherealdata,nomatterwhatabundanceischosen,andhencenooxygenabundancewasrecordedforthisobject.
+8,notrendisevident.Fourofthepointsareseparatedfromtherestbecauseoftheirlowheliumabundancemeasuredfromopticaldata;thisisdiscussedinGoodetal.(2004)anddoesnotappeartobereﬂectedinthecarbonabundance.
+5.2Nitrogenabundances
+Figure10showsthenitrogenabundancemeasurements,plottedagainsteffectivetemperature.Anumberoftheabundancesarerelativelypoorlyconstrained,andexceedtheupperboundofthemodelgrid.Incontrast,thelower3σerrorboundsforPNA31andPNDeHt5bothreachbelowthelowestabundanceinthemodel
+Figure5.ComparisonofabundancemeasurementsforDeHt5betweenBarstowetal.(2003)andthiswork.NotethatBarstowetal.(2003)ob-tainedabundancesforCIIIandCIVseparately.ThesearebothcomparedtothecarbonabundancedeterminedinthisworkfromﬁtstoCIVlines.
+Figure6.Comparisonoftheabundancesofcarbon,nitrogen,siliconandironmeasuredwhenthetemperature,gravityandheliumabundancederivedfromFUSEandopticaldatawereused.Alsoshownisalinemarkingwheretheabundancesareequal.
+grid,with,inthelattercase,theerrorboundsextendingacrossthewholerangeofthemodelgrid.Thereisnoobvioustrendbe-tweenTeﬀandeithertheopticalorFUSEabundances,incon-trasttothepredictionsofChayer,Fontaine,&Wesemael(1995)andUnglaub&Bues(2000),althoughtheabundancesareclose tothosepredictedfromradiativelevitationtheory.NoneofthelowertemperatureDAOshavethecomparativelyhighabundancesfoundforthreeoftheDAsofBarstowetal.(2003).Aswithcar-bon,theDAOnitrogenabundancesareoftenhigherthanthoseoftheDAs.However,thelowertemperatureDAOsdonot,ingeneral,havenitrogenabundancesdifferentfromthehighertempera-tureobjects,despitethepossibledifferencesintheirevolutionarypaths.RE0720-318hasanitrogenabundancesimilartotheDAs,c2004RAS,MNRAS000,1–15
+8S.A.Goodetal.
+Figure7.CarbonabundancesmeasuredfortheDAOsagainstTeﬀ,whenthetemperature,gravityandheliumabundancewereﬁxedaccordingtothevaluesmeasuredbyGoodetal.(2004)fromﬁtstohydrogenBalmerlines(ﬁlledcircles)andhydrogenLymanlines(opencircles).AlsoshownforcomparisonaretheresultsofBarstowetal.(2003)forDAwhitedwarfs(crosses).Thedashedarrowsmarkthe3σupperabundancelimitfortheDAs,wherecarbonwasnotdetected.Theapproximatepositionoftheabun-dancespredictedbyChayer,Fontaine,&Wesemael(1995)foraDAwhitedwarfwithaloggof7.0isshownasadashedline.andlessthanmostoftheDAOs,accordingtotheabundancesde-terminationsusingboththeopticalandFUSEparameters.Threeotherobjects(PNA7,HS0505+0112andPNA31)havecomparativelylowabundanceswhentheopticallydeterminedparameterswereused.However,thiswasnotthecasewhentheFUSEparam-eterswereused.InFigures11and12,nitrogenabundancesareplottedagainstloggandlogHe
+H.Asforcarbon,notrendwithgravityorheliumabundanceisevident.
+5.3Oxygenabundances
+AlltheDAOswerefoundtohaveevidenceofoxygenabsorptionintheirspectra.Thisabsorptionisbelievedtooriginateinthewhitedwarfastheradialvelocityofthelinesarenotconsistentwiththoseofinterstellarabsorptionfeatures.TheDAOoxygenabundances,showninFigure13againstTeﬀ,areverysimilartothoseoftheDAsandshownoobviousdependenceontemperature.Again,thelowertemperatureDAOsdonotappeartohaveabundancesdiffer-entfromthehighertemperatureobjects.However,thereproductionoftheobservedoxygenlinesbythemodelswasverypoor,withtheproblemaffectingbothhighandlowtemperatureDAOs.Foronlythreeobjects,RE0720-318,PG1210+533andPNDeHt5,wasa
+ﬁtwithanacceptablevalueofχ2
+red(<2)achieved.Ingeneralthelinespredictedbythemodelsweretooweakcomparedtotheob-servedlines.InfourcasesanabundancewasnotevenrecordedforeitheropticalorFUSEabundances,andinonecase(GD561)fortheFUSEabundancealone,duetothedisagreementbetweenthemodelanddata(see,forexample,Figure4).Thepoorqualityoftheﬁtsmeansthattheresultsareprobablynotreliable,andwedonotshowplotsofabundanceagainstgravityorheliumabundance.
+Figure8.CarbonabundancesmeasuredfortheDAOsagainstlogg,whenthetemperature,gravityandheliumabundancewereﬁxedaccordingtothevaluesmeasuredbyGoodetal.(2004)fromﬁtstohydrogenBalmerlines(ﬁlledcircles)andhydrogenLymanlines(opencircles).AlsoshownforcomparisonaretheresultsofBarstowetal.(2003)forDAwhitedwarfs(crosses).Thedashedarrowsmarkthe3σupperabundancelimitfortheDAs,wherecarbonwasnotdetected.
+Figure9.CarbonabundancesmeasuredfortheDAOsagainstlogHe
+H,whenthetemperature,gravityandheliumabundancewereﬁxedaccordingtothevaluesmeasuredbyGoodetal.(2004)fromﬁtstohydrogenBalmerlines(ﬁlledcircles)andhydrogenLymanlines(opencircles).5.4Siliconabundances
+Figure14showsthemeasuredsiliconabundancesagainstTeﬀ.Theopticalabundances,whenconsideredalongwiththeDA
+abundances,appeartoshowanincreasewithtemperature.TheFUSEabundancesalsoshowaslightincreasewithtemperature,withthemaximumabundanceobserved∼10−4thatofhydrogen.ThecalculationsofChayer,Fontaine,&Wesemael(1995)predictaminimumat70000K,whichisnotobservedhere,although
+Barstowetal.(2003)didnoteanapparentminimumat∼40000KintheDAabundances.However,aswiththeoxygenmeasure-c2004RAS,MNRAS000,1–15
+HeavyelementabundancesinDAOs9
+Figure10.AsFigure7,butshowingnitrogenabundances.
+Figure11.AsFigure8,butshowingnitrogenabundances.ments,theﬁtswereoftenpoorandinapproximatelyhalfthecasesχ2
+red<2wasnotachieved.TheabundancemeasurementsforHS1136+6646arelowerthanfortheotherDAOs.Thisisoneoftheobjectsforwhichsatisfactoryﬁtswerenotachieved;itisalsooneoftheDAOswithextremeTeﬀ,asmeasuredfromFUSEdata.InFigure15,weplotthesiliconabundancesagainstlogg.Similarly,Figure16showstherelationshipbetweenheavyelementabun-dancesandheliumabundances.Inneitherareanystrongtrendsevident.
+5.5Ironabundances
+Fitstotheironlineswereunsatifactoryfor,again,approximatelyhalftheobjects.Apartfromthree,thesewerethesameobjectsforwhichtheﬁtstothesiliconlineswerealsopoor.IncludedinthesearethethreeobjectswithextremeFUSE-measuredTeﬀ,andalsoPG1210+533,whichhasatemperatureandgravitythatwouldbeconsiderednormalforaDAwhitedwarf.Ironwasnotpredicted
+Figure12.AsFigure9,butshowingnitrogenabundances.
+Figure13.AsFigure7,butshowingoxygenabundances.inthespectrumofRE2013+400,northatofHS1136+6646when theFUSE-derivedvaluesofTeﬀ,loggandheliumabundancewereused.Thelowererrorboundaryreachedbeyondthelowestabun-danceinthemodelgridinelevencases.Figure17illustratesthere-lationshipbetweenironabundanceandTeﬀ.ThisdemonstratesthattheopticalandFUSEabundancesmeasuredforironaresimilartothosemeasuredintheDAs,whereironwasdetectedatall.Thereisnostrongindicationofanincreaseintheabundanceswithtemper-atureasmightbeexpectedfromradiativelevitationtheory.How-ever,themeasuredabundancesarequiteclosetothepredictions.NostrongdifferencesbetweentheironabundancesoflowerandhighertemperatureDAOsisevident.Similarly,Figure18showsnoincreaseinabundancewithdecreasinggravityasmightalsobeex-pected.Finally,therearealsonotrendsevidentintheplotofironabundancesagainstheliumabundances(Figure19).c2004RAS,MNRAS000,1–15
+10S.A.Goodetal.
+Figure14.AsFigure7,butshowingsiliconabundances.
+Figure15.AsFigure8,butshowingsiliconabundances.5.6Nickelabundances
+ThenickellinesintheFUSEwavelengthrangethatwereusedforabundancemeasurementswereweak,hencetheresultswerepoorlyconstrained.Therewereanumberofnon-detections,andthelowerboundsforallbutthreeofthemeasurementswerebelowtherangeofthemodelgrid.Inaddition,threehadupperboundsabovethehighestabundanceinthegridandthustheirerrorbarsspantheentirerangeofthemodels.InnocaseswasthemeasuredabundanceabovelogNi
+H>−4,andnotrendsareevident.5.7Iron/nickelratio
+Barstowetal.(2003)foundtheratiobetweentheironandnickelabundancesfortheDAstobeapproximatelyconstant,atthesolarvalueof∼20,ratherthanthepredictionofChayeretal.(1994)ofclosetounity.FortheDAOs,approximatelyhalfhaveFe/Niratiobetween1and20,andallbuttwooftheremainderhaveratios
+Figure16.AsFigure9,butshowingsiliconabundances.
+Figure17.AsFigure7,butshowingironabundances.Solidandlongdashedarrowsmarkthe3σupperlimitsfortheopticalandFUSEabun-dances,respectively,whereironwasnotdetected.
+greaterthan20.HowevertheseratiosareverypoorlyconstrainedbytheﬁtstoFUSEdata,thuspreventingdeﬁniteconclusionsabouttheiron/nickelratioinDAOwhitedwarfs.
+6DISCUSSION
+TheinvestigationofheavyelementabundancesinDAOwhite dwarfshasprovidedanopportunitytoinvestigatetheabilityofourhomogeneousmodelstoreproducetheobservedlines,whentem-peraturesderivedfromopticalandFUSEdatawereused.Theseareobservedtodiffergreatlyinsomecases;Table6liststhoseobjectsforwhichtemperaturedisagreementswerenotedbyGoodetal.(2004).In§5,itwasfoundthatwhentheFUSEvaluesoftemperature,gravityandheliumabundancewereused,theabundancestendedtobebetweenafactor1and10greaterthanthosewheretheopti-c2004RAS,MNRAS000,1–15
+HeavyelementabundancesinDAOs11
+Figure18.AsFigure8,butshowingironabundances.Solidandlongdashedarrowsmarkthe3σupperlimitsfortheopticalandFUSEabun-dances,respectively,whereironwasnotdetected.
+Figure19.AsFigure9,butshowingironabundances.Solidandlongdashedarrowsmarkthe3σupperlimitsfortheopticalandFUSEabun-dances,respectively,whereironwasnotdetected.
+calvaluesareutilised.InspectionofTable4showsthatabundancesofheavyelements,ortheirupperlimits,exceededthequantitieswithinthemodelgridmoreoftenintheFUSEresults,forexam-pleforthecarbonmeasurementofHS0505+0112,whichisoneoftheextremetemperatureobjects.Satisfactoryﬁts(χ2
+red<2)wereachievedinapproximatelyequalnumberwhenthetwosetsofpa-rameterswereused.Figure20showsexamplesofﬁtstothespectraofobjectswheretheopticalandFUSEtemperaturesagreeclosely.Asmightbeexpected,littledifferenceisseenbetweentheabilityofthemodelsthatusetheopticalandFUSEparameterstoreproducethedata.FortheobjectswheretherearedifferencesbetweentheopticalandFUSEtemperatures(Figure21),largedifferencesareseenbetweenthereproductionoftheoxygenlines.ThemodelsthatusethecomparativelyhighFUSEtemperaturesdonothavestrongOIVlines.However,themodelsthatusetheopticaltemperaturesTable6.AlistofobjectswhoseopticalandFUSEtemperaturesagreeandthosethatdisagree,separatedintothosewhereanempiricalrelationshipbetweenthetwocanbefound,andthosewithFUSEtemperaturesgreaterthan120000K.
+AgreeDisagreeFUSETeﬀ<120,000K>120,000K
+RE0720-318PNA667HS0505+0112
+PG1210+533PNPuWe1PG0834+500
+RE2013+400Ton320HS1136+6646
+PNDeHt5PNA6631Feige55
+LB2
+HZ34
+PNA6639
+GD561
+Figure22.Comparisonsoflinestrengthspredictedbythemodels(blackline)tothedata(greyhistogram)forNIIIandNIVlinesinthespectrumofLB2,whenTeﬀ,loggandlogHe
+HdeterminedfromBalmerandLymanlineanalysesareused.
+areabletoreproducethelines.TheOVIlinesarenotwellrepro-ducedbythemodels,exceptinafewcases,forexampleGD561.Incontrast,theironlinestendtobebetterreproducedbythemodelsthatusetheFUSEdata,asthelinespredictedbythemodelwithopticalparametersaretooweak.Inaddition,Figure22comparesthestrengthsofNIIIandNIVlinesinthespectrumofLB2whentheopticalandFUSEparameterswereadopted.Althoughinnei-thercasewastheNIIIlinewellreproduced,themodelthatusestheFUSEparametersisclosertowhatisobserved.Figure23showexampleﬁtsfortheobjectswheretheFUSEmeasureoftemperatureexceeded120000K.Duetotheextreme temperature,theCIV,NIVandOIVlinesarepredictedtobetooweakbythemodelsthatusetheFUSEtemperature.However,whenlookingindetailatthenitrogenlinesinthespectrumofHS1136+6646(Figure24),itisevidentthatneithermodelisabletoreproducethelines,withtheNIIIlineinthemodelthatusestheopticalparameterstoostrong,andtheNIVlinesintheFUSEparametersmodeltooweak.Itisthereforeevidentthatthemodelsthatusetheopticalpa-rameterbetterreproducetheoxygenfeaturesthanmodelsthatusetheFUSEdata,whilethereverseistrueforotherlinessuchasni-trogenandiron.Thesedifferencesbetweenthemodelsanddatac2004RAS,MNRAS000,1–15
+12S.A.Goodetal.
+Figure20.Comparisonsofthestrengthsoflinesinthedata(greyhistograms)tothosepredictedbythemodelswhentheoptical(dashedlines)andFUSE(solidlines)parameterswereused,forthoseobjectswheretheopticalandFUSEtemperaturesagree.Theverticalaxisisscaledindividuallyforeachpaneltoencompasstherangeofﬂuxesinthatregionofthespectrum.Verticaldashedlinesindicatethelaboratorywavelengthofthelinespredictedbythemodels.Additionallinesseeninsomepanels(forexamplePNDeHt5CIVandOVI)areduetomolecularhydrogenabsorption.Regionsofthespectracontainingotherphotosphericlines,unexplainedemission,orwherethemolecularhydrogenmodeldidnotadequatelyreproducetheshapeofthelines,wereremovedtoavoidtheminﬂuencingtheﬁts.
+Figure24.Comparisonsoflinestrengthspredictedbythemodels(blackline)tothedata(greyhistogram)forNIIIandNIVlinesinthespectrumofHS1136+6646,whenTeﬀ,loggandlogHe
+HdeterminedfromBalmerandLymanlineanalysesareused.
+couldbecausedbyanumberofeffects.ItisnotknownifeithertheopticalorFUSEstellarparametersarecorrect.Therefore,ifbotharewrongtheabilityofthemodelstoreproducethedatamightbeinﬂuencedbytheuseoftheincorrectparameters.How-ever,thispointstotheunderlyingproblemofwhytheopticalandFUSEparametersaredifferent,andifthisproblemcouldalsoaf-fectthestrengthofthelinesinthemodels.Apossibilityforthecauseofthesedifferencesistheassumptionofchemicalhomo-geneityinthemodels.Evidenceofstratiﬁcationofheavyelementsinwhitedwarfatmosphereshavebeenfoundbyotherauthors(e.g.Barstow,Hubeny,&Holberg1999),andthiscanhaveastrongaf-fectonthepredictedlinestrengths.ForexampleOVIlines,whichdonotappearinhomogeneousmodelsbelow∼50000K,canbeprominentatlowertemperatureswhenastratiﬁedmodelisused(Chayeretal.2003).Withthedevelopmentofstratiﬁedmodels(e.g.Schuh,Dreizler,&Wolff2002),thesedifferencesmightberesolved,althoughtheassumptionsmadewithinthoseparticularmodelsareprobablynotappropriatetoDAOwhitedwarfs,becauseoftheprocessessuchasmasslossthatarethoughttobeoccurring.Afurthercauseofdiscrepanciesbetweenthedataandmodelsmaybeduetothelimitationsoftheﬁttingprocess.Duringtheﬁt-tingprocedure,theabundanceofalltheelementsarevariedbythesamefactor.Therefore,theabundanceofoneelementismeasuredwithamodelthatcontainsthesamerelativeabundanceofalltheotherelements,evenifthoseelementsarenotpresentinthatpar-ticularobject,orarepresentindifferentamounts.Thismayalterthetemperaturestructureofthemodel,changingthelinestrengths.Ideally,modelswouldbecalculatedforarangeofabundancesofeveryelementandasimultaneousﬁtofalltheabsorptionlinesper-formed.Suchanapproachmaybepossibleinthefuturewithin-creasesincomputingpower.Inconclusion,thereisdisagreementbetweenthepredictionsofthehomogeneousmodelsusedinthisworkandtheobservedc2004RAS,MNRAS000,1–15
+HeavyelementabundancesinDAOs13
+Figure21.AsFigure20forthoseobjectswheretheopticalandFUSEtemperaturesdonotagree.linestrengthsofdifferentionisationstateswhenboththeopticalandFUSEstellarparametersareused.Therefore,itisnotpossi-bletodrawstrongconclusionsfromtheseresultstosaywhichoftheopticalandFUSEmeasurementsofTeﬀaremorelikelytobecorrect.
+7CONCLUSIONS
+AbundancemeasurementsofheavyelementsintheatmospheresofDAOwhitedwarfshavebeenperformedusingFUSEdata.AlltheDAOsinoursamplewerefoundtocontainheavyele-mentabsorptionlines.Twosetsofmetalabundancesweredeterminedusingstellarparameters(Teﬀ,loggandlogHe
+H)deter-minedfrombothFUSEandopticaldata.Theresultswerecom-paredtoasimilaranalysisforDAsconductedbyBarstowetal.(2003),tothepredictionsforradiativelevitationmadeby
+Chayer,Fontaine,&Wesemael(1995),andthemasslosscalcu-lationsofUnglaub&Bues(2000).Forcarbon,theDAOswere found,ingeneral,tohavehigherabundancesthanthosemeasuredfortheDAs.WhenconsideredalongwiththeDAabundances,theopticalabundancemeasurementsmightbearguedtoformatrendofincreasingabundancewithtemperature.However,thistrendextendstoahighertemperaturethanpredictedc2004RAS,MNRAS000,1–15
+14S.A.Goodetal.
+Figure23.AsFigure20forthoseobjectswheretheFUSEtemperatureexceeded120000K.byChayer,Fontaine,&Wesemael(1995).TheFUSEdeterminedabundancesdonotfollowthistrendduetothehighertempera-turesdeterminedfromFUSEdata.Theseabundancemeasurementsdonotincreasewithtemperature,withnocarbonabundanceex-ceeding10−4thatofhydrogen,whichisclosetothepredictionofChayer,Fontaine,&Wesemael(1995).Thenitrogenabundanceswerepoorlyconstrainedforanumberoftheobjects,andtherewasnoobvioustrendwithtemperature.Althoughoxygenlineswereidentiﬁedinallthespectra,ﬁtstothoselineswere,ingen-eral,verypoor,makingtheabundancesunreliable.Siliconabun-danceswerefoundtoincreasewithtemperatureuptoamaximumof∼10−4thatofhydrogen,anddonotshowaminimumat70000K,aspredictedbyChayer,Fontaine,&Wesemael(1995).However,approximatelyhalftheﬁtswereofpoorquality,asdeﬁnedbyχ2
+red>2.IronabundancesweresimilartothosemeasuredforDAsbyBarstowetal.(2003)andnotrendwithtemperaturewas seen.Aswithsilicon,approximatelyhalftheﬁtswerepoorqual-ity.Nickelabundanceswerepoorlyconstrainedwithanumberofnon-detections,andnotrendswithtemperaturewereevident.Fornoneoftheelementsweretrendswithgravityorheliumabundancefound.Ingeneral,itwasfoundthattheabundancesmeasurementsthatusedtheparametersdeterminedfromFUSEdatawerehigherthanthosethatusedtheopticallyderivedparametersbyfactorsbe-tween1-10.SatisfactoryﬁtswereachievedinapproximatelyequalnumberfortheopticalandFUSEabundancemeasurements.TheabilityofthemodelstoreproducetheobservedlinestrengthswasslightlybetterforthemodelsthatusedtheopticallyderivedTeﬀ,loggandlogHe
+Hforoxygenandforthecarbon,nitrogenandoxygenlinesofthoseobjectswithFUSEtemperaturegreaterthan120000K.However,thereverseistruefortheironlines.FortheexampleoftherelativestrengthofNIIIandNIVlinesinthespec-trumofoneoftheobjectsforwhichtheopticalandFUSEtem-peraturesdiffer,themodelwiththeFUSEtemperaturewasbetter.However,foroneoftheobjectswithextremeFUSEtemperatures,neithermodelwassuccessfulatreproducingthelines.Thefailureofthemodelstoreproducethelinestrengthsmightbecausedbytheassumptionofchemicalhomogeneity.Theuseofstratiﬁedmodels,suchasthosedevelopedbySchuh,Dreizler,&Wolff(2002)mighthelptoresolvethediscrepancies.Inaddition,theinabilityofthemodelstoreproducethelinesmightbeinﬂuencedbytheﬁttingtechniqueused,inwhichtheabundanceofallelementswerevar-iedtogether.Intheidealcase,theabundanceofallelementswouldbemeasuredsimultaneously.Overall,noneofthemeasuredabundancesexeededtheex-pectedlevelssigniﬁcantly,exceptforsilicon.Fornoneoftheel-ements,exceptsilicon,weretheabundancesforthelowertem-peratureDAOssigniﬁcantlydifferenttothoseforthehotterstars,despitethedifferentevolutionarypathsthroughwhichtheyarethoughttoevolve.Theabundanceswerealsonotmarkedlydiffer-entfromtheabundancemeasurementsfortheDAs,apartfromwhatmightbeexplainedbythehighertemperatures.
+ACKNOWLEDGMENTS
+BasedonobservationsmadewiththeNASA-CNES-CSAFarUltravioletSpectroscopicExplorer.FUSEisoperatedforNASAbytheJohnsHopkinsUniversityunderNASAcontractNAS5-32985.SAG,MAB,MRBandPDDweresupportedbyPPARC,UK;MRB
+acknowledgesthesupportofaPPARCAdvancedFellowship.JBHwishestoacknowledgesupportfromNASAgrantsNAG5-10700
+andNAG5-13213.AllofthedatapresentedinthispaperwereobtainedfromtheMultimissionArchiveattheSpaceTelescopeScienceInstitute(MAST).STScIisoperatedbytheAssociationofUniversitiesforResearchinAstronomy,Inc.,underNASAcontractNAS5-26555.SupportforMASTfornon-HSTdataisprovidedbytheNASAOf-
+ﬁceofSpaceScienceviagrantNAG5-7584andbyothergrantsandcontracts.
+REFERENCESArnaudK.A.,1996,ADASS,5,17c2004RAS,MNRAS000,1–15
+HeavyelementabundancesinDAOs15BarstowM.A.,BannisterN.P.,HolbergJ.B.,HubenyI.,Bruh-weilerF.C.,NapiwotzkiR.,2001,MNRAS,325,1149BarstowM.A.,GoodS.A.,BurleighM.R.,HubenyI.,HolbergJ.B.,LevanA.J.,2003,MNRAS,344,562BarstowM.A.,GoodS.A.,HolbergJ.B.,HubenyI.,BannisterN.P.,BruhweilerF.C.,BurleighM.R.,NapiwotzkiR.,2003,
+MNRAS,341,870BarstowM.A.,HolbergJ.B.,FlemingT.A.,MarshM.C.,KoesterD.,WonnacottD.,1994,MNRAS,270,499Barstow,M.A.,Burleigh,M.B.,Bannister,N.P.,Holberg,J.B.,Hubeny,I.,Bruhweiler,F.C.andNapiwotzki,R.,inProceedingsofthe12thEuropeanWorkshoponWhiteDwarfStars,Provencal,J.L.,Shipman,H.L.,MacDonald,J.andGoodchild,S.(eds),ASPConferenceSeries,226,2001BarstowM.A.,HolbergJ.B.,HubenyI.,GoodS.A.,LevanA.J.,MeruF.,2001,MNRAS,328,211BarstowM.A.,HubenyI.,HolbergJ.B.,1998,MNRAS,299,520BarstowM.A.,HubenyI.,HolbergJ.B.,1999,MNRAS,307,884BergeronP.,SafferR.A.,LiebertJ.,1992,ApJ,394,228
+BergeronP.,WesemaelF.,BeauchampA.,WoodM.A.,Lamon-tagneR.,FontaineG.,LiebertJ.,1994,ApJ,432,305BloeckerT.,1995,A&A,297,727
+ChayerP.,LeBlancF.,FontaineG.,WesemaelF.,MichaudG.,VennesS.,1994,ApJ,436,L161ChayerP.,FontaineG.,WesemaelF.,1995,ApJS,99,189
+ChayerP.,OliveiraC.,DupuisJ.,MoosH.W.,WelshB.,2003,inWhiteDwarfs,ProceedingsoftheNATOAdvancedResearch
+WorkshoponWhiteDwarfs2002,deMartino,D.,Silvotti,R.,
+Solheim,J.E.andKalytis,R.(eds),KluwerDobbieP.D.,BarstowM.A.,BurleighM.R.,HubenyI.,1999,A&A,346,163DriebeT.,SchoenbernerD.,BloeckerT.,HerwigF.,1998,A&A,339,123FontaineG.,WesemaelF.,1987,IAUColloq.95:SecondConfer-enceonFaintBlueStars,319-326GoodS.A.,BarstowM.A.,HolbergJ.B.,SingD.K.,BurleighM.R.,DobbieP.D.,2004,MNRAS,355,1031HolbergJ.B.,WesemaelF.,WegnerG.,BruhweilerF.C.,1985,ApJ,293,294HubenyI.,LanzT.,1995,ApJ,439,875
+KoesterD.,WeidemannV.,SchulzH.,1979,A&A,76,262
+McCandlissS.R.,2003,PASP,115,651
+MoosH.W.etal.,2000,ApJ,538,L1
+NapiwotzkiR.,Sch¨onbernerD.,1993,In:BarstowM.(ed)8thEuropeanWorkshoponWhiteDwarfs,KluwerAcademicPublishers,p.99SahnowD.J.etal.,2000,ApJ,538,L7
+SchuhS.L.,DreizlerS.,WolffB.,2002,A&A,382,164
+UnglaubK.,BuesI.,1998,A&A,338,75
+UnglaubK.,BuesI.,2000,A&A,359,1042
+VennesS.,PelletierC.,FontaineG.,WesemaelF.,1988,ApJ,331,876WesemaelF.,GreensteinJ.L.,LiebertJ.,LamontagneR.,FontaineG.,BergeronP.,GlaspeyJ.W.,1993,PASP,105,761c2004RAS,MNRAS000,1–15
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。

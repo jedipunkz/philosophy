@@ -5,7 +5,7 @@ vault:
 scrape:
   interval: 24h
   user_agent: philosophy-scraper/0.1 (+https://github.com/jedipunkz/philosophy)
-  max_results: 10
+  max_results: 50
   max_pdf_chars: 50000
   max_pdf_bytes: 20971520
   request_timeout: 20s
@@ -29,7 +29,7 @@ sources:
     enabled: true
     type: api
     base_url: https://export.arxiv.org/api/query
-    search_url: https://export.arxiv.org/api/query?search_query=all:{query}&start=0&max_results=10
+    search_url: https://export.arxiv.org/api/query?search_query=all:{query}&start=0&max_results=50
 
 keywords:
   - name: ハンナ・アーレント
@@ -52,3 +52,17 @@ keywords:
       - arxiv
     tags:
       - 現代思想
+  - name: ニーチェ
+    queries:
+      - Friedrich Nietzsche
+      - Nietzsche Thus Spoke Zarathustra
+      - Nietzsche Beyond Good and Evil
+      - Nietzsche genealogy of morals
+      - Nietzsche will to power
+    sources:
+      - philarchive
+      - arxiv
+    tags:
+      - 近代思想
+      - 実存主義
+      - ニヒリズム

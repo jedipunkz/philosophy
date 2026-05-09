@@ -7,7 +7,7 @@ publication: ""
 download: "https://philarchive.org/archive/DELDSA-10"
 pdf: "https://philpapers.org/archive/DELDSA-10.pdf"
 captured_at: "2026-05-09T08:07:55Z"
-updated_at: "2026-05-09T11:39:17Z"
+updated_at: "2026-05-09T12:59:27Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
@@ -24,6 +24,13 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/DELDSA-10)
 - ダウンロード: https://philarchive.org/archive/DELDSA-10
 - PDF: https://philpapers.org/archive/DELDSA-10.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ユング-現代研究動向|ユング-現代研究動向]]
+- キーワード: [[ユング]]
+- 関連分野: [[現代思想]]
+- 関連タグ: #現代思想
 
 ## Abstract
 
@@ -233,36 +240,30 @@ Gustav Jung
 ha generado lenguajes
 extraordinariamente ricos para describir la experiencia subjetiva, pero solo de forma
 parcial ha logrado traducir esa riqueza a un plano estructural que permita evaluar
-cómo funciona el sistema que sostiene dicha experien
-cia. La intuición: quizá el
+cómo funciona el sistema que sostiene dicha experien cia. La intuición: quizá el
 problema no esté en lo que se ha visto, sino en el lugar donde se ha puesto el foco; tal
 vez sea necesario desplazarlo desde el significado hacia la estructura.
 
-Jung ofreció una cartografía simbólica de la psique que difícilment
-e puede ser
+Jung ofreció una cartografía simbólica de la psique que difícilment e puede ser
 reemplazada: sombra, ánima, ánimus, self o individuación siguen siendo hoy
 dispositivos conceptuales capaces de iluminar territorios de la vida psíquica que otros
-enfoques tienden a pasar por alto. Sin embargo, esta potencia descriptiva ha veni
-do
+enfoques tienden a pasar por alto. Sin embargo, esta potencia descriptiva ha veni do
 acompañada de una ambigüedad epistemológica persistente: con frecuencia no se
 diferencia con claridad entre lo que se describe, lo que se interpreta y lo que se asume
 como real. La consecuencia es conocida: contenidos fenomenológicos
 —
 una imagen,
-una vo
-z interna, una presencia sentida
+una vo z interna, una presencia sentida
 —
 
 son tratados a veces como entidades con
 existencia propia, y las interpretaciones simbólicas pasan a funcionar como
 explicaciones estructurales sin haber sido sometidas a un análisis funcional.
 
-La Teoría de la Habitabilida
-d Dinámica de la Conciencia (THDC) surge precisamente
+La Teoría de la Habitabilida d Dinámica de la Conciencia (THDC) surge precisamente
 de la necesidad de abordar esta ambigüedad. Su punto de partida no es la crítica del
 símbolo, sino su reubicación: el símbolo se reconoce como herramienta descriptiva de
-primer orden, pero deja de ocupa
-r el lugar de modelo estructural y de ontología
+primer orden, pero deja de ocupa r el lugar de modelo estructural y de ontología
 implícita. La pregunta deja de ser
 “
 ¿qué significa esta experiencia?
@@ -283,8 +284,7 @@ imágenes, emociones, narrativas
 —
 ,
 la define por su capacidad para sostener ese
-contenido en el tiempo sin per
-der coherencia, regulación ni continuidad. A esa
+contenido en el tiempo sin per der coherencia, regulación ni continuidad. A esa
 capacidad la denomina habitabilidad (H) y la entiende como una propiedad emergente
 del campo consciente, dependiente de la configuración conjunta de varias variables
 estructurales: coherencia integrativa
@@ -295,17 +295,14 @@ corporal (B) y amplitud temporal subjetiva (Ts).
 
 Este cambio de foco permite introducir distinciones que, aunque intuitivamente
 presentes en muchas tradiciones, rara vez se formulan de manera explícita. La más
-im
-portante es la separación entre intensidad e habitabilidad. La experiencia intensa ha
+im portante es la separación entre intensidad e habitabilidad. La experiencia intensa ha
 sido a menudo tomada como sinónimo de experiencia profunda o transformadora; la
 THDC discute esta equivalencia. Un estado puede ser muy intenso y, al mismo tiempo,
-reduci
-r la habitabilidad del sistema, del mismo modo que procesos de apariencia
+reduci r la habitabilidad del sistema, del mismo modo que procesos de apariencia
 relativamente modesta pueden incrementar de forma significativa la capacidad del
 campo consciente para sostener su propia dinámica.
 
-Sobre este trasfondo se articula el diálogo con Ju
-ng. La obra no pretende invalidar el
+Sobre este trasfondo se articula el diálogo con Ju ng. La obra no pretende invalidar el
 modelo junguiano ni sustituirlo por completo, sino someterlo a una operación de
 traducción estructural. La sombra deja de ser un
 “
@@ -314,24 +311,17 @@ lugar interior
 para convertirse en el
 conjunto de contenidos cuya activación reduce
 Φ
-h p
-or debajo de los rangos que el
+h p or debajo de los rangos que el
 sistema puede sostener sin perder H. Ánima y ánimus se reformulan como funciones
 de reorganización del campo consciente
 —
-afectivo
--
-imaginal y cognitivo
--
-estructurante
+afectivoimaginal y cognitivoestructurante
 —
 
-que pueden aumentar o disminuir la habitabilidad según su m
-odo de
+que pueden aumentar o disminuir la habitabilidad según su m odo de
 funcionamiento. El self se redistribuye: no es ya una entidad central, sino un régimen
 emergente de alta habitabilidad caracterizado por estabilidad dinámica, flexibilidad
-estructural y baja entropía funcional. La individuación se describe como proc
-eso
+estructural y baja entropía funcional. La individuación se describe como proc eso
 dinámico de incremento de H mediante la integración progresiva de contenidos
 previamente no sostenibles, sin necesidad de postular un estado final teleológico.
 
@@ -340,8 +330,7 @@ una parte
 , obliga a distinguir con rigor entre fenomenología y estructura: entre lo que
 se vive y las relaciones funcionales que hacen posible ese vivir. Por otra, introduce un
 criterio explícito para discriminar entre transformación y desorganización. La THDC
-prop
-one que la diferencia no reside en el tipo de símbolos que aparecen ni en la
+prop one que la diferencia no reside en el tipo de símbolos que aparecen ni en la
 intensidad de las crisis, sino en la evolución de la habitabilidad del sistema: hay
 transformación allí donde H aumenta de forma sostenida bajo perturbación, y
 desorganización all
@@ -362,20 +351,15 @@ adoptar una delimitación epistemológica estricta entre
 observación, interpretación,
 hipótesis y modelo, para evitar que las lecturas simbólicas se conviertan
 inadvertidamente en ontologías de la psique. La segunda es formalizar el campo
-consciente como sistema dinámico, describiendo sus componentes, propiedad
-es y
+consciente como sistema dinámico, describiendo sus componentes, propiedad es y
 variables estructurales sin recurrir de entrada a una matemática ficticia, pero sin
-renunciar a una precisión pre
--
-matemática rigurosa. La tercera es introducir la
+renunciar a una precisión prematemática rigurosa. La tercera es introducir la
 habitabilidad como criterio de segundo orden que permita evaluar configuraciones del
-sis
-tema más allá de la descripción de su contenido.
+sis tema más allá de la descripción de su contenido.
 
 El lector encontrará, por tanto, un texto que se mueve deliberadamente entre dos
 exigencias: conservar la riqueza fenomenológica y simbólica de la tradición junguiana,
-y al mismo tiempo someterla a una reesc
-ritura estructural que la haga compatible con
+y al mismo tiempo someterla a una reesc ritura estructural que la haga compatible con
 enfoques contemporáneos en ciencias cognitivas, neurociencia y teoría de sistemas.
 El resultado no es una síntesis definitiva, sino una propuesta de marco: una forma de
 mirar la conciencia en la que el símbolo
@@ -390,8 +374,7 @@ vive sin fragmentarse. Si este libro logra ofrecer al lector herramientas para p
 trabajar sobre esa capacidad
 —
 para discernir mejor entre intensificación y
-transf
-ormación, entre interpretación y evaluación estructural
+transf ormación, entre interpretación y evaluación estructural
 —
 ,
 habrá cumplido su
@@ -406,8 +389,7 @@ COMO SISTEMA HABITABLE
 
 1.1 El problema de origen: entre descripción e interpretación
 
-El estudio de l
-a conciencia ha estado históricamente atravesado por una tensión no
+El estudio de l a conciencia ha estado históricamente atravesado por una tensión no
 resuelta entre dos enfoques principales: por un lado, la descripción fenomenológica de
 la experiencia y, por otro, la interpretación de su significado. Tradiciones como la
 psicología analí
@@ -421,8 +403,7 @@ simbólica e imaginal.
 
 Sin embargo, esta riqueza fenomenológica ha venido acompañada de una
 ambigüedad epistemológica persistente. En numerosos casos, no se distingue con
-suficiente claridad entre lo que s
-e experimenta, lo que se interpreta y lo que se asume
+suficiente claridad entre lo que s e experimenta, lo que se interpreta y lo que se asume
 como real. Así, por ejemplo, una persona puede relatar:
 “
 siento una presencia detrás
@@ -462,8 +443,7 @@ Thompson y Rosch, 19
 
 persiste la dificultad de articular con precisión la relación
 entre experiencia, estructura y función. La consecuencia puede formularse de manera
-concisa: la conciencia s
-e describe y se interpreta, pero rara vez se evalúa en términos
+concisa: la conciencia s e describe y se interpreta, pero rara vez se evalúa en términos
 de su capacidad para sostenerse como sistema. Es precisamente este vacío
 evaluativo el que la Teoría de la Habitabilidad Dinámica de la Conciencia (THDC)
 pretende abordar.
@@ -473,8 +453,7 @@ una delimitación epistemológica estricta
 
 Para reducir esta ambigüedad es necesario introducir una separación rigurosa entre
 diferentes niveles de análisis y de discurso. El primer nivel es el de la observación,
-entendida como la descripción directa de la e
-xperiencia tal como aparece, sin
+entendida como la descripción directa de la e xperiencia tal como aparece, sin
 atribución causal ni interpretación añadida. Ejemplos de observación serían el registro
 de la aparición de una emoción intensa, la recurrencia de una imagen o la percepción
 de una determinada sensación corporal.
@@ -490,18 +469,15 @@ funcionales y que, por
 tanto, puede ser evaluada en términos de coherencia interna,
 consistencia y capacidad explicativa. Finalmente, el cuarto nivel es el del modelo,
 concebido como una construcción sistemática que articula múltiples hipótesis en un
-marco teórico coherente y re
-lativamente unificado.
+marco teórico coherente y re lativamente unificado.
 
 La confusión entre estos niveles ha constituido uno de los principales obstáculos en el
 estudio de la conciencia. Cuando la interpretación se presenta como si fuera
-explicación estructural, el análisis pierde precisión y se vuelve de
-pendiente del
+explicación estructural, el análisis pierde precisión y se vuelve de pendiente del
 lenguaje utilizado, de sus metáforas y de sus presupuestos implícitos. En ese
 contexto, la THDC propone que cualquier teoría rigurosa de la conciencia debe
 comenzar por una delimitación epistemológica estricta, que mantenga diferenciados
-obse
-rvación, interpretación, hipótesis y modelo, e impida convertir de manera
+obse rvación, interpretación, hipótesis y modelo, e impida convertir de manera
 inadvertida las lecturas simbólicas en ontologías de la psique.
 
 1.3 El problema de la ontologización del símbolo
@@ -515,8 +491,7 @@ configuración del sistema que lo produce. Este fenómeno es especialmente visib
 la lectura literal de conceptos simbólicos.
 
 En el caso de Jung, figuras como la sombra o el ánima se utilizan originalmente como
-descripciones de patrones experienciales re
-currentes. Por ejemplo, puede describirse
+descripciones de patrones experienciales re currentes. Por ejemplo, puede describirse
 que un individuo reacciona con una irritación desproporcionada ante rasgos que
 reconoce en otros pero no en sí mismo, o que sueña de forma reiterada con figuras
 que encarnan aquello que él rechaza conscientemente.
@@ -526,8 +501,7 @@ sombra
 ”
 es un modo abreviado de nombrar ese conjunto de experiencias y
 tendencias. Sin embargo, en muchas interpretaciones posteriores, estas descripciones
-pasan a entenderse como entidades con supuesta realidad autónoma, situad
-as en una
+pasan a entenderse como entidades con supuesta realidad autónoma, situad as en una
 especie de
 “
 espacio interno
@@ -551,12 +525,10 @@ mi ánima se enfada
 ”)
 y se oscurece la pregunta por
 las condiciones estructurales que hacen posible su aparición, su persistencia o su
-transformación. La THDC propone un
-a corrección explícita de este punto: todo
+transformación. La THDC propone un a corrección explícita de este punto: todo
 contenido debe ser tratado como una configuración del campo consciente, no como
 una entidad independiente. Esta reformulación no invalida la fenomenología simbólica
-ni su potencia descriptiva, pero delimita con pr
-ecisión su alcance: el símbolo señala
+ni su potencia descriptiva, pero delimita con pr ecisión su alcance: el símbolo señala
 modos de organización de la experiencia, no objetos ontológicos internos.
 
 1.4 Limitaciones del análisis basado en contenido
@@ -570,23 +542,19 @@ constituye una base
 fiable para la comparación entre casos. Un individuo puede
 experimentar su conflicto interno como una figura amenazante en sueños, mientras
 que otro lo vive como una sensación difusa de ansiedad sin imágenes asociadas; en
-ambos casos, la estructura subyace
-nte puede ser funcionalmente equivalente.
+ambos casos, la estructura subyace nte puede ser funcionalmente equivalente.
 
 En segundo lugar, el contenido no informa de manera directa sobre la organización del
 sistema; la presencia de una emoción intensa, por ejemplo, no permite inferir si el
-sistema está integrado, en proceso de reorga
-nización o en estado de desorganización.
+sistema está integrado, en proceso de reorga nización o en estado de desorganización.
 Un estallido de llanto puede acompañar tanto a una descarga desregulada como a un
 proceso de integración profunda, y el contenido por sí mismo no basta para
 distinguirlos.
 
-En tercer lugar, el contenido introduce ses
-gos interpretativos significativos. Las
+En tercer lugar, el contenido introduce ses gos interpretativos significativos. Las
 experiencias más intensas tienden a ser percibidas como más profundas, auténticas o
 transformadoras, aunque desde el punto de vista de la THDC puedan corresponder a
-estados de baja habitabilidad, caracterizados por i
-nestabilidad y degradación
+estados de baja habitabilidad, caracterizados por i nestabilidad y degradación
 estructural. Por ejemplo, un episodio de euforia mística puede vivirse subjetivamente
 como
 “
@@ -598,8 +566,7 @@ en un régimen de alta reactividad R y baja coherencia h,
 vulnerable al colapso
 posterior. Estos límites hacen necesario un desplazamiento conceptual: del análisis
 basado en contenido hacia un análisis primordialmente estructural, en el que el foco se
-sitúe en las relaciones funcionales del sistema y en su capac
-idad para sostener
+sitúe en las relaciones funcionales del sistema y en su capac idad para sostener
 determinadas configuraciones de experiencia.
 
 1.5 La conciencia como sistema dinámico
@@ -609,8 +576,7 @@ sistema dinámico de integración de información. En este punto, el modelo se
 sitúa en
 línea con diversas aproximaciones contemporáneas, como la teoría del espacio global
 (Dehaene, 2014) o la teoría de la información integrada (Tononi, 2008), si bien
-introduce un foco distinto. Mientras estos marcos se orientan principalmente a expl
-icar
+introduce un foco distinto. Mientras estos marcos se orientan principalmente a expl icar
 las condiciones de aparición de la conciencia
 —
 esto es, cuándo y cómo ciertos
@@ -620,8 +586,7 @@ procesos se vuelven conscientes
 la THDC se centra en las condiciones que
 determinan la viabilidad de la experiencia consciente una vez que esta ha emergido.
 
-Este desplazam
-iento resulta crucial. El problema central ya no es únicamente por qué
+Este desplazam iento resulta crucial. El problema central ya no es únicamente por qué
 hay experiencia, sino bajo qué condiciones dicha experiencia puede sostenerse sin
 degradarse, sin conducir a colapso estructural o a una pérdida significativa de
 integridad del sistema.
@@ -632,12 +597,10 @@ reorganización ante distintos tipos de perturbación.
 
 1.6 Introducción del concepto de habitabilidad
 
-En este conte
-xto se introduce el concepto central del modelo: la habitabilidad. Se
+En este conte xto se introduce el concepto central del modelo: la habitabilidad. Se
 define habitabilidad como la capacidad del sistema consciente para sostener su
 dinámica en el tiempo sin pérdida de coherencia, regulación o continuidad
-experiencial. A diferencia de otr
-as variables, la habitabilidad no describe un
+experiencial. A diferencia de otr as variables, la habitabilidad no describe un
 componente particular del sistema, sino su viabilidad global como totalidad organizada.
 
 Este punto requiere cierta precisión adicional. La habitabilidad no es equivalente a
@@ -666,12 +629,10 @@ Del mismo modo, dos estados con intensidad experiencial comparable pueden tener
 un impacto estructural opuesto: una sesión de trabajo terapéutico donde se sostienen
 emociones intensas en un marco regulado puede incrementar la habitabilidad,
 mientras que un episodio de desbordamiento sin contención puede reducirla de forma
-significati
-va. La habitabilidad no se deduce directamente a partir de la experiencia
+significati va. La habitabilidad no se deduce directamente a partir de la experiencia
 fenomenológica tal como es vivida. El valor específico del concepto no reside en
 describir estados particulares, sino en permitir una distinción que otras teorías
-raramente formaliza
-n con precisión: la diferencia entre experiencias que el sistema
+raramente formaliza n con precisión: la diferencia entre experiencias que el sistema
 puede sostener sin degradarse y experiencias que, aunque puedan resultar intensas o
 significativas, contribuyen a la pérdida de viabilidad estructural.
 
@@ -681,12 +642,10 @@ P
 ara evitar formas sutiles de circularidad, el modelo introduce una separación explícita
 entre tres niveles analíticos. En primer lugar, las variables estructurales describen el
 estado del sistema en un momento dado (por ejemplo, coherencia integrativa,
-urg
-encia, reactividad, presencia corporal o amplitud temporal subjetiva). En segundo
+urg encia, reactividad, presencia corporal o amplitud temporal subjetiva). En segundo
 lugar, la habitabilidad H evalúa la viabilidad de ese estado como propiedad emergente
 que depende de la configuración conjunta de dichas variables. En tercer lugar, la
-trayec
-toria del sistema describe su evolución en el tiempo, incluyendo procesos de
+trayec toria del sistema describe su evolución en el tiempo, incluyendo procesos de
 transformación, desorganización y eventual estabilización.
 
 Esta separación permite definir la noción de transformación de manera no circular. En
@@ -694,8 +653,7 @@ el marco de la THDC, transformació
 n no es sinónimo de intensidad ni de cambio de
 contenido, sino un cambio en la trayectoria del sistema caracterizado por un aumento
 sostenido de habitabilidad bajo perturbación. Un estado puede ser intenso y, sin
-embargo, no ser transformador en este senti
-do; del mismo modo, una transición de
+embargo, no ser transformador en este senti do; del mismo modo, una transición de
 aparente menor relevancia fenomenológica puede corresponder a una mejora
 sustancial en la capacidad del sistema para sostener su propia dinámica.
 
@@ -704,32 +662,26 @@ sustancial en la capacidad del sistema para sostener su propia dinámica.
 El lenguaje del modelo incorpora t
 érminos como variables, funciones y umbrales, lo
 que podría sugerir una formalización matemática estricta. No obstante, es necesario
-delimitar con cuidado su alcance. La THDC se sitúa en un nivel de formalización pre
--
-matemático riguroso: define variables y
+delimitar con cuidado su alcance. La THDC se sitúa en un nivel de formalización prematemático riguroso: define variables y
 
 relaciones direccionales entre ellas, establece
 umbrales conceptuales y permite llevar a cabo una evaluación estructural
 relativamente precisa, pero no propone aún una función cuantitativa cerrada para la
 habitabilidad.
 
-Este posicionamiento intermedio cum
-ple una doble función. Por un lado, permite ganar
+Este posicionamiento intermedio cum ple una doble función. Por un lado, permite ganar
 precisión conceptual y operativa sin recurrir a una formalización numérica que, en el
 estado actual del modelo, sería ficticia. Por otro, mantiene abierto el camino para una
-eventual traducción matemática f
-utura, una vez que se disponga de criterios empíricos
+eventual traducción matemática f utura, una vez que se disponga de criterios empíricos
 suficientes para parametrizar las variables y sus relaciones.
 
 1.9 Implicación epistemológica central
 
 El desplazamiento propuesto tiene una consecuencia epistemológica fundamental. El
-análisis de la conc
-iencia debe pasar de centrarse prioritariamente en la interpretación
+análisis de la conc iencia debe pasar de centrarse prioritariamente en la interpretación
 del significado a privilegiar la evaluación de la estructura. Esto no implica eliminar la
 fenomenología ni desestimar la riqueza del lenguaje simbólico, sino situarlos en su
-lugar adecuad
-o: como descripciones valiosas de la experiencia que requieren, para
+lugar adecuad o: como descripciones valiosas de la experiencia que requieren, para
 volverse operativas, una traducción a términos estructurales.
 
 Desde esta perspectiva, la fenomenología deja de ser el punto de llegada y pasa a ser
@@ -745,12 +697,10 @@ experimenta de determinada manera.
 El presente capítulo ha establecido las bases epistemológicas de la Teoría de la
 Habitabilidad Dinámica de la Conciencia. Se ha identificado el problema de la
 ontologización del contenido fenomenológico, se han delimitado los niveles de análisis
-nece
-sarios para evitar confusiones entre observación, interpretación, hipótesis y
+nece sarios para evitar confusiones entre observación, interpretación, hipótesis y
 modelo, y se ha introducido el concepto de habitabilidad como criterio central de
 evaluación estructural. A partir de este punto, la obra desarrollará una formalización
-progresiv
-a del campo consciente como sistema dinámico y una reinterpretación
+progresiv a del campo consciente como sistema dinámico y una reinterpretación
 estructural de los conceptos junguianos clásicos, utilizando la habitabilidad como eje
 organizador de la teoría.
 
@@ -773,12 +723,10 @@ orden para evaluar la viabilidad de la experiencia, distinguiendo entre estados 
 sistema puede sostener y estados que degradan su funcionamiento.
 
 El presente capítulo tiene como objetivo formalizar la noción de campo consciente
-como sistema d
-inámico, definiendo sus componentes, sus propiedades y las
+como sistema d inámico, definiendo sus componentes, sus propiedades y las
 relaciones funcionales que lo organizan. Esta formalización constituye un paso
 necesario para que el concepto de habitabilidad adquiera consistencia operativa, ya
-que sin un modelo explícito del ca
-mpo consciente resulta imposible evaluar de manera
+que sin un modelo explícito del ca mpo consciente resulta imposible evaluar de manera
 rigurosa su habitabilidad.
 
 A diferencia de otros modelos contemporáneos
@@ -789,18 +737,15 @@ como la teoría del espacio global
 —
 
 que se
-centran principalme
-nte en explicar la emergencia de la conciencia, la THDC dirige su
+centran principalme nte en explicar la emergencia de la conciencia, la THDC dirige su
 atención a la organización interna del sistema una vez que la experiencia está
 presente. El foco se sitúa, por tanto, en las condiciones que determinan su estabilidad
-o degradación, en su ca
-pacidad de reorganización ante perturbaciones y en los límites
+o degradación, en su ca pacidad de reorganización ante perturbaciones y en los límites
 funcionales que hacen que determinadas experiencias resulten sostenibles o no.
 
 2.2 Definición formal del campo consciente
 
-En el marco de la THDC, el campo consciente se define como un sistema d
-inámico de
+En el marco de la THDC, el campo consciente se define como un sistema d inámico de
 integración de información constituido por múltiples variables interdependientes cuya
 configuración en un instante dado determina la experiencia subjetiva. Esta definición
 enfatiza tres elementos: su carácter sistémico, su naturaleza dinámica y
@@ -811,8 +756,7 @@ configuración global del conjunto.
 2.2.1 Componentes funcionales
 
 El campo consciente se compone, como mínimo, de cinco dimensiones funcionales
-que permiten describir la div
-ersidad de la experiencia:
+que permiten describir la div ersidad de la experiencia:
 
 
 
@@ -822,15 +766,13 @@ lo que se vive o elaborar juicios.
 
 
 
-Dimensión afectiva: comprende los estados em
-ocionales y las modulaciones
+Dimensión afectiva: comprende los estados em ocionales y las modulaciones
 del tono afectivo, desde variaciones leves de ánimo hasta emociones intensas.
 
 
 
 Dimensión somática: abarca las sensaciones corporales e interoceptivas, como
-tensión muscular, ritmo respiratorio, sensaciones viscerales o cambios e
-n la
+tensión muscular, ritmo respiratorio, sensaciones viscerales o cambios e n la
 temperatura corporal.
 
 
@@ -841,8 +783,7 @@ experiencia.
 
 
 
-Dimensión narrativa: se refiere a la construcción de continuid
-ad y significado
+Dimensión narrativa: se refiere a la construcción de continuid ad y significado
 experiencial, es decir, a las historias explícitas o implícitas mediante las cuales
 el sistema organiza lo que le ocurre en el tiempo.
 
@@ -851,12 +792,10 @@ acoplado. Un cambio en la
 dimensión afectiva, por ejemplo, tiende a modificar el
 contenido del pensamiento, las sensaciones corporales y la forma de interpretar un
 mismo estímulo perceptivo. La hipótesis central es que la experiencia subjetiva no es
-atribuible a ninguna dimensión a
-islada, sino a la configuración global del sistema en un
+atribuible a ninguna dimensión a islada, sino a la configuración global del sistema en un
 momento dado. Sentir miedo, por ejemplo, implica simultáneamente ciertos patrones
 cognitivos (anticipación de peligro), afectivos (activación ansiosa), somáticos (aumento
-de frecuencia cardíaca), per
-ceptivos (sesgo hacia señales de amenaza) y narrativos
+de frecuencia cardíaca), per ceptivos (sesgo hacia señales de amenaza) y narrativos
 (relatos sobre vulnerabilidad o riesgo).
 
 2.3 Propiedades estructurales del campo
@@ -873,8 +812,7 @@ fisiológicas) y externas (eventos
 
 Este principio es consistente con modelos dinámicos en neurociencia, donde la
 actividad cerebral se describe como un sistema en evolución continua (Friston, 2010).
-Desde la perspectiva de la experiencia, esto se manif
-iesta en la sucesión constante de
+Desde la perspectiva de la experiencia, esto se manif iesta en la sucesión constante de
 estados: un mismo estímulo puede vivirse de forma distinta en momentos diferentes, y
 una emoción no permanece indefinidamente en la misma forma, sino que se
 transforma, se disipa o se reorganiza en nuevos patrones.
@@ -884,8 +822,7 @@ o linealidad
 
 La segunda propiedad es la no linealidad. Se define como la característica por la cual
 cambios en una variable pueden producir efectos desproporcionados en el sistema. Un
-incremento leve en urgencia (U), por ejemplo, puede desencadenar una res
-puesta
+incremento leve en urgencia (U), por ejemplo, puede desencadenar una res puesta
 significativa en reactividad (R) y una disminución abrupta de coherencia integrativa
 (Φ
 h).
@@ -905,18 +842,15 @@ funcionamiento.
 2.3.3 Interdependencia
 
 La tercera propiedad es la interdependencia. Se define como la relación funcional por
-la cua
-l el estado de cada variable afecta y es afectado por el estado de las demás. No
+la cua l el estado de cada variable afecta y es afectado por el estado de las demás. No
 existe modificación aislada: toda intervención o perturbación tiene efectos sistémicos.
 
 Por ejemplo, una práctica de respiración que modifica la dimensión somática puede
-reduc
-ir la urgencia (U) y la reactividad (R), lo que a su vez favorece un aumento de la
+reduc ir la urgencia (U) y la reactividad (R), lo que a su vez favorece un aumento de la
 coherencia integrativa
 (Φ
 h) y una reorganización del relato narrativo sobre la situación.
-De manera inversa, una interpretación catastrofista puede incrementar U y R, altera
-r la
+De manera inversa, una interpretación catastrofista puede incrementar U y R, altera r la
 percepción del entorno y desorganizar parcialmente la experiencia corporal.
 
 2.3.4 Dominancia
@@ -929,8 +863,7 @@ global.
 
 Así, en un episodio de ansiedad, la dimensión afectiva y determinados patrones
 cognitivos pueden volverse dominantes, reconfigurando la percepción (todo parece
-amenaz
-ante) y la narrativa
+amenaz ante) y la narrativa
 (“
 no voy a poder manejar esto
 ”).
@@ -1017,15 +950,13 @@ sé que estoy a salvo
 ”
 al tiempo que experimenta
 una activación fisiológica y emocional que corresponde a una amenaza extrema. Esta
-discrepancia sostenida es i
-ndicativa de coherencia integrativa reducida.
+discrepancia sostenida es i ndicativa de coherencia integrativa reducida.
 
 2.4.2 Urgencia (U)
 
 La urgencia (U) se define como el nivel de presión interna que impulsa al sistema
 hacia la acción inmediata. U elevada reduce la capacidad deliberativa y favorece la
-aparición de respuestas a
-utomáticas. La experiencia subjetiva asociada incluye
+aparición de respuestas a utomáticas. La experiencia subjetiva asociada incluye
 sensaciones de prisa, necesidad apremiante de resolver algo, dificultad para sostener
 la espera o tolerar la incertidumbre.
 
@@ -1042,8 +973,7 @@ favorecen configuraciones reactivas menos integradas.
 
 2.4.3 Reactividad (R)
 
-La reactividad (R) s
-e define como la intensidad de la respuesta del sistema ante
+La reactividad (R) s e define como la intensidad de la respuesta del sistema ante
 estímulos internos o externos. R elevada implica una amplificación de los estados
 emocionales o cognitivos ante perturbaciones relativamente pequeñas.
 Fenomenológicamente, esto puede manifestarse
@@ -1053,15 +983,13 @@ respuestas desproporcionadas a eventos menores o dificultad para modular la
 intensidad de lo que se siente.
 
 La reactividad no es intrínsecamente negativa: una cierta sensibilidad a los cambios
-puede ser adaptativa. Sin emba
-rgo, cuando R se mantiene en niveles muy altos, el
+puede ser adaptativa. Sin emba rgo, cuando R se mantiene en niveles muy altos, el
 sistema se vuelve más vulnerable a la desorganización y a la pérdida de coherencia
 integrativa.
 
 2.4.4 Presencia corporal (B)
 
-La presencia corporal (B) se define como el nivel de integración entre el sistem
-a
+La presencia corporal (B) se define como el nivel de integración entre el sistem a
 consciente y la experiencia somática. B elevada implica una percepción clara de las
 señales corporales, así como la capacidad de utilizarlas como recursos de
 autorregulación (por ejemplo, notar la respiración y modularla intencionalmente).
@@ -1078,8 +1006,7 @@ más amplio.
 
 2.4.5 Amplitud temporal subjetiva (Ts)
 
-La amplitud temporal subjetiva (Ts) se define como la capacid
-ad del sistema para
+La amplitud temporal subjetiva (Ts) se define como la capacid ad del sistema para
 integrar pasado, presente y futuro en una experiencia continua. Ts elevada implica
 continuidad narrativa y contextualización de la experiencia: lo que ocurre ahora puede
 situarse en relación con lo que ha ocurrido antes y con lo que se
@@ -1088,8 +1015,7 @@ anticipa después.
 Cuando Ts es muy baja, la experiencia se fragmenta temporalmente: el presente se
 vive como desconectado del resto de la biografía, o el sujeto queda atrapado en
 episodios pasados o futuros sin poder anclarse en el momento actual. Esta
-fra
-gmentación limita la capacidad de integrar la experiencia en un sentido más amplio
+fra gmentación limita la capacidad de integrar la experiencia en un sentido más amplio
 y puede reducir significativamente la habitabilidad.
 
 2.5 No linealidad funcional de las variables
@@ -1103,27 +1029,21 @@ Por ejemplo, B
 excesivamente elevado puede generar hiperfijación somática, donde la
 atención queda atrapada en señales corporales específicas (latidos, respiración,
 tensiones) sin capacidad de integrar el conjunto, lo que puede aumentar U y R. De
-manera similar, Ts exces
-ivamente amplio puede favorecer la rumiación, al extender de
+manera similar, Ts exces ivamente amplio puede favorecer la rumiación, al extender de
 forma desproporcionada la ventana temporal de análisis y reactivación de experiencias
 pasadas o anticipaciones futuras. Por otro lado, U extremadamente bajo puede
-asociarse a pasividad disfuncion
-al, con dificultad para activar respuestas necesarias y
+asociarse a pasividad disfuncion al, con dificultad para activar respuestas necesarias y
 sostener la implicación en la vida cotidiana.
 
 La implicación es clara: la habitabilidad no depende de maximizar las variables
-estructurales, sino de mantenerlas dentro de rangos que permitan flexibili
-dad,
+estructurales, sino de mantenerlas dentro de rangos que permitan flexibili dad,
 regulación y coherencia.
 
 2.6 Relaciones funcionales entre variables
 
 Además de su comportamiento individual, las variables del modelo mantienen
 relaciones funcionales específicas. Estas relaciones no agotan la complejidad del
-sistema, pero ofrecen dire
-ctrices para comprender cómo se co
--
-determinan:
+sistema, pero ofrecen dire ctrices para comprender cómo se codeterminan:
 
 
 
@@ -1136,8 +1056,7 @@ R: se propone la hipótesis de una relación inversa entre
 coherencia integrativa y reactividad. A medida que
 Φ
 h aumenta, el sistema
-tiende a requerir respuestas menos intensas para manejar perturb
-aciones, lo
+tiende a requerir respuestas menos intensas para manejar perturb aciones, lo
 que reduce R.
 
 
@@ -1170,17 +1089,11 @@ Relación Ts
 –
 
 Φ
-h: se po
-stula que la continuidad temporal favorece la
-coherencia integrativa. Poder situar una experiencia en un eje pasado
--
-presente
--
-futuro facilita que se integre en un relato más amplio, reduciendo la
+h: se po stula que la continuidad temporal favorece la
+coherencia integrativa. Poder situar una experiencia en un eje pasadopresentefuturo facilita que se integre en un relato más amplio, reduciendo la
 fragmentación.
 
-Estas relaciones permiten generar hipótesis es
-tructurales concretas sobre cómo
+Estas relaciones permiten generar hipótesis es tructurales concretas sobre cómo
 intervenir sobre el sistema y qué cambios cabe esperar al modificar determinadas
 variables.
 
@@ -1194,8 +1107,7 @@ una determinada combinación de valores en
 h, U, R, B y Ts, y puede describirse en
 términos de su nivel de habitabilidad.
 
-A nivel conceptual, pueden distinguirse al menos dos tipos de co
-nfiguración
+A nivel conceptual, pueden distinguirse al menos dos tipos de co nfiguración
 prototípica:
 
 
@@ -1225,8 +1137,7 @@ Ts continuo
 
 Esta configuración describe un sistema capaz de sostener experiencias
 diversas sin perder coherencia, con buena regulación y sensación de
-continuida
-d temporal.
+continuida d temporal.
 
 
 
@@ -1255,8 +1166,7 @@ Ts fragmentado
 
 Aquí el sistema presenta conflicto interno, presión constante hacia la
 acción, respuestas desproporcionadas, desconexión corporal y ruptura
-de la continuidad e
-xperiencial.
+de la continuidad e xperiencial.
 
 En la práctica, la mayoría de estados se sitúan en posiciones intermedias entre estos
 extremos, pero la distinción conceptual permite orientar el análisis y la intervención.
@@ -1268,25 +1178,21 @@ La estabilidad del sistema se define como
 la capacidad para mantener una
 configuración sin degradación estructural. Un sistema estable puede atravesar
 perturbaciones sin perder su organización básica, mientras que un sistema inestable
-tiende a colapsar o a entrar en dinámicas caóticas ante cambio
-s relativamente
+tiende a colapsar o a entrar en dinámicas caóticas ante cambio s relativamente
 pequeños.
 
 Es importante diferenciar entre estabilidad adaptativa y rigidez. La estabilidad
 adaptativa permite el cambio sin pérdida de coherencia: el sistema puede modificar su
-configuración en respuesta al contexto y, sin embargo, conserva
-r un nivel suficiente de
+configuración en respuesta al contexto y, sin embargo, conserva r un nivel suficiente de
 habitabilidad. La rigidez, en cambio, limita la capacidad de adaptación; el sistema
 mantiene una configuración a costa de reducir su flexibilidad, lo que a largo plazo
-puede disminuir la habitabilidad al impedir reorganizaciones ne
-cesarias.
+puede disminuir la habitabilidad al impedir reorganizaciones ne cesarias.
 
 2.9 Síntesis del capítulo
 
 En este capítulo se ha formalizado el campo consciente como un sistema dinámico
 compuesto por variables interdependientes. Se han definido sus componentes
-funcionales, sus propiedades estructurales (dinamicidad, no linea
-lidad,
+funcionales, sus propiedades estructurales (dinamicidad, no linea lidad,
 interdependencia, dominancia y capacidad de integración), sus variables básicas
 (Φ
 h,
@@ -1299,8 +1205,7 @@ capítulo siguiente, donde se abordará H como propiedad emergente del sistema.
 2.10 Transición
 
 El siguiente capítulo desarrollará la formalización de la habitabilidad como propiedad
-emergente del campo consciente, definiendo su función, sus umbrales y s
-us
+emergente del campo consciente, definiendo su función, sus umbrales y s us
 implicaciones operativas para el análisis y la intervención sobre el sistema.
 
 CAPÍTULO 3
@@ -1312,8 +1217,7 @@ HABITABILIDAD DE LA CONCIENCIA
 3.1 Introducción
 
 El capítulo anterior ha formalizado el campo consciente como un sistema dinámico
-compuesto p
-or variables interdependientes. Sin embargo, la mera descripción de estas
+compuesto p or variables interdependientes. Sin embargo, la mera descripción de estas
 variables
 —
 su definición, sus propiedades y sus relaciones
@@ -1321,13 +1225,11 @@ su definición, sus propiedades y sus relaciones
 
 no es suficiente para
 evaluar el estado del sistema en términos de viabilidad. Saber que un sujeto presenta
-alta reactivid
-ad o baja presencia corporal, por ejemplo, describe su configuración en
+alta reactivid ad o baja presencia corporal, por ejemplo, describe su configuración en
 un momento dado, pero no indica todavía si esa configuración puede sostenerse sin
 degradación estructural.
 
-El presente capítulo introduce y formaliza el concepto de habitabilidad (H) c
-omo
+El presente capítulo introduce y formaliza el concepto de habitabilidad (H) c omo
 propiedad emergente que permite evaluar la viabilidad estructural del campo
 consciente. A diferencia de enfoques centrados en el contenido o en el significado de
 la experiencia, la habitabilidad no describe qué se experimenta, sino que determina si
@@ -1349,16 +1251,14 @@ para convertirse en
 esto, y puede sostenerlo sin degradarse?
 ”.
 
-3.2 Definición for
-mal de habitabilidad
+3.2 Definición for mal de habitabilidad
 
 En el marco de la THDC, la habitabilidad (H) se define del siguiente modo:
 
 La habitabilidad (H) es la capacidad del campo consciente para sostener su dinámica
 en el tiempo sin pérdida de coherencia integrativa
 (Φ
-h), regulación funciona
-l ni
+h), regulación funciona l ni
 continuidad temporal (Ts).
 
 Esta definición articula tres condiciones simultáneas:
@@ -1374,8 +1274,7 @@ cognitivos, afectivos, somáticos, perceptivos y
 narrativos
 —
 
-sin contrad
-icciones internas sostenidas.
+sin contrad icciones internas sostenidas.
 
 2.
 
@@ -1384,8 +1283,7 @@ reactividad no se sitúan en niveles que desborden la capacidad de integración.
 
 3.
 
-Continuidad experiencial (Ts no fragmentado): la experiencia puede inscr
-ibirse
+Continuidad experiencial (Ts no fragmentado): la experiencia puede inscr ibirse
 en una secuencia temporal con sentido, sin rupturas radicales en la vivencia de
 pasado, presente y futuro.
 
@@ -1395,8 +1293,7 @@ Desde el punto de vista estructural, H no es una variable independiente. No exis
 “
 componente de habitabilidad
 ”
-sepa
-rado del resto del sistema. Más bien, H es una
+sepa rado del resto del sistema. Más bien, H es una
 propiedad emergente derivada de la configuración conjunta de las variables
 estructurales definidas en el capítulo 2
 (Φ
@@ -1430,19 +1327,16 @@ n y la continuidad del sistema.
 
 La habitabilidad se concibe como un criterio de segundo orden cuya función es evaluar
 la viabilidad estructural del sistema, no describir su contenido ni su intensidad.
-Mientr
-as que
+Mientr as que
 Φ
 h, U, R, B y Ts describen el estado del campo consciente en distintos
 ejes, H evalúa si ese estado puede sostenerse sin degradación a lo largo del tiempo.
 
 Esta distinción tiene un valor diferencial importante. La habitabilidad permite
-discriminar e
-ntre configuraciones que otras teorías tienden a confundir, especialmente
+discriminar e ntre configuraciones que otras teorías tienden a confundir, especialmente
 en lo relativo a intensidad, complejidad y transformación. Por ejemplo, dos
 experiencias pueden ser igualmente intensas, pero en un caso la configuración del
-sistema favorece un aume
-nto de H (mayor integración, mejor regulación), mientras
+sistema favorece un aume nto de H (mayor integración, mejor regulación), mientras
 que en el otro conduce a su disminución (desorganización, fragmentación, colapso).
 Sin un criterio de segundo orden, ambas experiencias podrían describirse como
 “
@@ -1452,12 +1346,9 @@ o
 “
 transformadoras
 ”,
-cuand
-o estructuralmente sus efectos son opuestos.
+cuand o estructuralmente sus efectos son opuestos.
 
-3.4 Separación de niveles analíticos (anti
--
-circularidad)
+3.4 Separación de niveles analíticos (anticircularidad)
 
 Para evitar formas de circularidad conceptual, el modelo distingue tres niveles
 analíticos claramente diferenciados:
@@ -1494,24 +1385,21 @@ incluyendo procesos de transformación, estabilización, desorganización o
 colapso.
 
 Esta separación tiene una consecuencia crítica: la transformación no define H; la
-transformación es el cambio en H bajo per
-turbación. Dicho de otro modo, no se
+transformación es el cambio en H bajo per turbación. Dicho de otro modo, no se
 considera que un proceso sea
 “
 transformador
 ”
 por el simple hecho de ser intenso o
 significativo según el relato del sujeto, sino porque se asocia a un aumento sostenido
-de H cuando el sistema se enfrenta a nuevas pertur
-baciones. De este modo se corrige
+de H cuando el sistema se enfrenta a nuevas pertur baciones. De este modo se corrige
 la circularidad habitual en la que se define transformación por sus contenidos o
 vivencias, y luego se usan esos mismos contenidos para justificar que algo ha sido
 transformador.
 
 3.5 Función de habitabilidad
 
-En términos ge
-nerales, la habitabilidad puede representarse mediante una función:
+En términos ge nerales, la habitabilidad puede representarse mediante una función:
 
 H(t) = f(
 Φ
@@ -1519,8 +1407,7 @@ h, U, R, B, Ts)
 
 Esta expresión no pretende ser, en el estado actual del modelo, una función
 matemática plenamente especificada, sino una notación que recoge la dependencia de
-H r
-especto a la configuración conjunta de las variables estructurales en un tiempo t.
+H r especto a la configuración conjunta de las variables estructurales en un tiempo t.
 
 3.5.1 Relaciones direccionales
 
@@ -1534,8 +1421,7 @@ h
 ↑ →
 H
 ↑:
-el incremento de coherencia inte
-grativa tiende a aumentar la
+el incremento de coherencia inte grativa tiende a aumentar la
 habitabilidad.
 
 
@@ -1554,8 +1440,7 @@ R
 H
 ↓:
 niveles muy elevados de reactividad incrementan la vulnerabilidad a
-la desor
-ganización.
+la desor ganización.
 
 
 
@@ -1577,29 +1462,25 @@ Ts
 H
 ↑:
 una amplitud temporal subjetiva que permita
-continuidad sin caer en rumiación tiende a aume
-ntar H.
+continuidad sin caer en rumiación tiende a aume ntar H.
 
 Fenomenológicamente, esto puede ilustrarse con un ejemplo: un sujeto que atraviesa
 una situación difícil puede experimentar un aumento de
 Φ
 h al comprender de forma
 más integrada lo que le ocurre, una reducción de U y R al ampliar su margen de
-respu
-esta, un incremento de B al anclarse en el cuerpo y una expansión moderada de
+respu esta, un incremento de B al anclarse en el cuerpo y una expansión moderada de
 Ts al situar su experiencia en una narrativa más amplia. El resultado combinado sería
 un aumento de H.
 
 3.5.2 No linealidad
 
-La función H es no lineal y dependiente de rangos funci
-onales. No existe una
+La función H es no lineal y dependiente de rangos funci onales. No existe una
 maximización simple de variables que garantice la habitabilidad: incrementar
 Φ
 h más
 allá de ciertos límites puede volverse rígido; aumentar B en exceso puede derivar en
-hiperfijación somática; expandir Ts sin regulación puede favorece
-r la rumiación.
+hiperfijación somática; expandir Ts sin regulación puede favorece r la rumiación.
 
 La implicación es que H depende de configuraciones específicas, no de la
 maximización indiscriminada de sus componentes. Esto obliga a pensar la intervención
@@ -1611,6 +1492,8 @@ más de lo mismo
 má
 s coherencia), sino como un ajuste fino de rangos funcionales en función del estado
 del sistema.
+
+3.6 Umbrales de habitab
 
 <!-- PDF text truncated by scrapem max_pdf_chars. -->
 

@@ -1,0 +1,672 @@
+---
+source: "https://arxiv.org/abs/1208.3637v2"
+title: "Constructing spoke subfactors using the jellyfish algorithm"
+author: "Scott Morrison, David Penneys"
+year: "2012"
+publication: "arXiv preprint / math.OA"
+download: "https://arxiv.org/pdf/1208.3637v2"
+pdf: "https://arxiv.org/pdf/1208.3637v2"
+captured_at: "2026-05-09T13:03:26Z"
+updated_at: "2026-05-09T13:03:26Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Nietzsche Thus Spoke Zarathustra"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# Constructing spoke subfactors using the jellyfish algorithm
+
+- 著者: Scott Morrison, David Penneys
+- 年: 2012
+- 掲載情報: arXiv preprint / math.OA
+- 情報源: [arxiv](https://arxiv.org/abs/1208.3637v2)
+- ダウンロード: https://arxiv.org/pdf/1208.3637v2
+- PDF: https://arxiv.org/pdf/1208.3637v2
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+Using Jones' quadratic tangles formulas, we automate the construction of the 4442, 3333, 3311, and 2221 spoke subfactors by finding sets of 1-strand jellyfish generators. The 4442 spoke subfactor is new, and the 3333, 3311, and 2221 spoke subfactors were previously known.
+
+## PDF Text
+
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHMSCOTTMORRISONANDDAVIDPENNEYSAbstract.UsingJones'quadratictanglesformulas,weautomatethecon-structionofthe4442,3333,3311,and2221spokesubfactorsby�ndingsetsof1-strandjelly�shgenerators.The4442spokesubfactorisnew,andthe3333,3311,and2221spokesubfactorswerepreviouslyknown.1.IntroductionInthispaper,weconstructanumberofsubfactorsbygivingexplicitgen-eratorsandrelationsforthecorrespondingplanaralgebras.Inparticular,weuseJones'analysisofquadratictanglestosystematicallyderive`jelly�shrela-tions',whicharestraightforwardtoanalyze.Weconstructonenewsubfactoraswellasthreepreviouslyknownsubfactors.Themainresultofthepaperis:Theorem1.1.Thereisa`4442'subfactoratindex3+p
+5withprincipalgraphs�
+;
+�:Atthispoint,thereareverystrongnumbertheoreticandcombinatorialconstraintsonthepossibleprincipalgraphsofsubfactors.Indeed,whenwe�ndagraphthatsatis�esalltheseconstraints,wereasonablysuspectthatthereareactuallysubfactorswiththatprincipalgraph.Nevertheless,the�nalstepofactuallyconstructingsuchsubfactorsremainsverydi�cult.Itisknownthateverysubfactorplanaralgebraembedsinthegraphpla-naralgebraofitsprincipalgraph[JP11,MW].Thus,astandardapproachtoconstructingaplanaralgebraistoidentifysomecandidateelementsintheappropriategraphplanaralgebra,thenprovethatthesubalgebratheygener-ateisasubfactorplanaralgebrawiththedesiredprincipalgraph.Inmanycases,itisnotthatdi�culttoobtainthecandidateelements,forexample,bysolvingcertainpolynomialequationsinthegraphplanaralgebra,or�ndingatelementsinthegraphplanaralgebrawithrespecttosomeconnection.Notethattheexistenceofatelementsdoesnotimplytheconnectionitselfisat;theatelementscouldgenerateasubfactorplanaralgebrawithdi�erentprincipalgraphs.Thus,givensomecandidategenerators,thechallengeistoshowthattheseelementsgeneratethedesiredplanaralgebra.Aninitialdi�cultstepistoshowthattheygenerateanevaluableplanaralgebra;thatis,everycloseddiagramisamultipleoftheemptydiagram(equivalently,thezeroboxspaceis1-dimensional).Ofcourse,ifweobtainedourelementsasatelementswithrespecttoaconnection,thisstepisautomatic.Oncewehaveestablished1
+arXiv:1208.3637v2 [math.OA] 21 Feb 2013
+2SCOTTMORRISONANDDAVIDPENNEYStheplanaralgebraisevaluable,wehavesomesubfactorplanaralgebra.Weneedtoidentifyitscombinatorialinvariants.Often,theanalysisofsomesmallprojectionsinthesubalgebraandsomecombinatorialargumentssu�cetodeterminetheprincipalgraph.In[BMPS12],Bigelow-Morrison-Peters-SnyderconstructedtheextendedHaagerupplanaralgebra,whichhadlongbeenexpectedtoexist,withprincipalgraphs�
+;
+�:Theessentialinsightwasthejelly�shalgorithm,introducedtherein,whichprovidesapowerfulframeworkforprovingaplanaralgebraisevaluableandhasthedesiredsupertransitivity(thelengthoftheinitialarmoftheprincipalgraph).Supposewehaveasetofelementsinaplanaralgebra,eachalowestweightrotationaleigenvector,whichwearethinkingofasgenerators.A`jelly�shrelation'isanidentityinwhichthelefthandsideissimplyasinglegeneratorwithsomenumberofstrandsbetweenitandthestarredpointontheboundary,andtherighthandsideissomelinearcombination,ineverytermofwhicheverygeneratorisadjacenttothestarredpointontheboundary.In[BMPS12],thereweretwojelly�shrelations(heren=4correspondstotheHaagerupplanaralgebra,andn=8correspondstotheextendedHaagerupplanaralgebra):
+2n
+�S
+?
+f(2n+2)
+?
+=p
+[n][n+2]
+[n+1]
+n�1
+n+1
+n+1
+S
+S
+?
+?
+f(2n+2)
+?
+2n
+S
+?
+f(2n+4)
+?
+=[2][2n+4]
+[n+1][n+2]
+n�1
+n�1
+n+1
+2
+n+1
+S
+S
+S
+?
+?
+?
+f(2n+4)
+?
+Theseareactually box jelly�sh relations;itiseasyenoughtoseethatbyexpandingouttheJones-WenzlidempotentonthelefthandsideintermsofTemperley-Liebdiagrams,andmovingallnon-identitytermstotheright,thattheserelationsbecomejelly�shrelationsasdescribedabove.SeeSubsection2.5formoredetails.Inak-strandjelly�shrelation,thelefthandsidehaskstrandsabovethegenerator.Above,wehaveaone-strandjelly�shrelationfor�S,theFouriertransform,andatwo-strandjelly�shrelationforS.Acompletesetofjelly�shrelationsisonesuchthatbyrepeatedapplication,wecanrewriteanydiagramasalinearcombinationofdiagramsinwhicheverygeneratorisadjacenttothe`outside'starredregion.Wepicturesquelyrefertothisprocessas`thejelly�shalgorithm':wegraduallyoatallthejelly�shtothesurfaceoftheocean,possiblycreatingnewjelly�shalongtheway.Thepairofrelationsaboveisacompleteset:theone-strandrelationremovesallthe
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM3instancesof�S,thenthetwo-strandrelationallowsustooatalltheinstancesofStothesurface.Itistypicallyeasytoseethatanycloseddiagramwithallgeneratorsad-jacenttotheboundaryisevaluablebyiteratively�ndinganadjacentpairofgeneratorswhichareconnectedbysu�cientlymanystrands.Theentirejelly�shalgorithmissomewhatunusualamongstalgorithmsforsimplifyingaplanardiagram;atintermediatesteps,itrequiresmakingthediagrammuchmorecomplicated.Inthispaper,wepresentasystematicapproachtoidentifyingjelly�shre-lationsusingJones'paperanalyzingquadratictangles[Jon03].Inparticular,weshowhowto�ndall1-strandjelly�shrelationsforwhichtherighthandsideinvolvesatmosttwogeneratorsineachterm.We�ndthatforquiteanumberofpotentialprincipalgraphs,thejelly�shrelationsobtainedinthiswayconstituteacompleteset.Thisassuresusthatwehaveconstructedsomesubfactorplanaralgebra,andalittleseparateworkineachcaseidenti�estheprincipalgraphastheintendedgraph.Itisworthnoting,however,thatthisapproachisfarfromuniformlysuc-cessful!In[BMPS12],theauthorsneeded2-strandjelly�shrelations.In-deed,aresultofBigelowandPenneys[BP12]showsthathavingacom-pletesetof1-strandjelly�shrelationsimpliesthatboththeprincipalanddualprincipalgraphsarespokegraphs.Thusbythetriplepointobstruction[Haa94,MPPS12],anysubfactorwithprincipalgraphsbeginningwithatriplepointcannothaveacompletesetof1-strandjelly�shrelations.Weanticipatetheresultsof[BP12]givingstrongconstraintsonsubfactorswhoseprincipalgraphsarenotbothspokes.Evenwiththeselimitations,wedohaveanumberofinterestingexamples.Wegiveajelly�shpresentationofthenew4442subfactoralongwiththe3311subfactor[GdlHJ89],the2221subfactorconstructedin[Izu01](reproducingalltheworkofHan'sthesis[Han10],inanentirelyautomatedfashion!),andoneofthe3333subfactorspreviouslyconstructedbyIzumiinunpublishedwork.ThesegraphsappearinFigure1.
+;
+;
+:Figure1.Theprincipalgraphsofthefoursubfactorswecon-structinthispaper.Ineachcase,thedualprincipalgraphisthesameastheprincipalgraph.Immediatelyafterhearingaboutourconstructionofa4442subfactor,Izuminoticedthata4442subfactorcanbeconstructedusingaZ=3Zquotientofthe3333subfactor.Thiswillappearinoneofhisforthcomingpapers.Conversely,weconstructedthe3333subfactoronlyafterhearingIzumi'sconstruction.Inadditiontogivingageneratorsandjelly�shrelationspresentationofeachofthesefoursubfactorplanaralgebras,weshowthatthe4442,3333,and2221subfactorsareeachself-dual,andmoreoversymmetricallyself-dual.Thisessentiallymeansthatonecanignoretheshadingintheplanaralgebras,
+4SCOTTMORRISONANDDAVIDPENNEYSandthusthereexistfusioncategorieswiththesameprincipalgraphs.Wewillinvestigatethisfurtherinafuturepaper[MPP12].Acknowledgements.TheauthorswouldliketothankVaughanJonesandMasakiIzumiformanyhelpfulconversations.Weappreciatedthereferee'scarefulreadingofthemanuscriptandmanyhelpfulcriticisms.BothauthorsweresupportedbyDOD-DARPAgrantsHR0011-11-1-0001andHR0011-12-1-0009.ScottMorrisonwasattheMillerInstituteforBasicResearchandtheAustralianNationalUniversitywhilewritingthispaper,andinpartsupportedbytheARCDECRAgrantDE120100232.DavidPenneyswasalsosupportedbyNSFgrantDMS-0856316.1.1.TheFusionAtlas.Thispaperreliesonsomesubstantialcalculations.Inparticular,oure�ortsto�ndthegeneratorsinthevariousgraphplanaralgebrasmadeuseofavarietyoftechniques,somead-hoc,someapproximate,andsomecomputationallyexpensive.Thispaperessentiallydoesnotaddressthatwork.Instead,wemerelypresentthediscoveredgeneratorsandverifysomerelativelyeasyfactsaboutthem.Inparticular,theproofspresentedinthispaperrelyonthecomputerinamuchweakersense.WeneedtocalculatecertainnumbersoftheformTr(STR),whereS,T,andRareratherlargemartrices,andthecomputerdoesthisforus.WealsoenteredalltheformulasderivedinthispaperintoMathematica,andhadthecomputerautomaticallyevaluatethevariousquantitieswhichappearinourderivationofjelly�shre-lations.Asareadermaybeinterestedinseeingtheseprograms,weincludeabriefinstructionon�ndingandrunningtheseprograms.ThearXivsourcesofthisarticlecontaininthecodesubdirectoryanumberof�les,including:�Generators.nb,whichreconstructsthegeneratorsfromourtersede-scriptionsoftheminAppendixA.�QuadraticTangles.nb,whichcalculatestherequisitemomentsofthesegenerators,andperformsthelinearalgebranecessarytoderivethejel-ly�shrelations.�GenerateLaTeX.nb,whichtypesetseachsubsectionofSection4foreachplanaralgebra,andmanymathematicalexpressionsinAppendicesAandB.TheMathematicanotebookGenerators.nbcanberunbyitself.The�nalcellsofthatnotebookwritethefullgeneratorstothedisk;thismustbedonebeforerunningQuadraticTangles.nb.TheQuadraticTangles.nbnotebookreliesontheFusionAtlas,asubstantialbodyofcodetheauthorshavede-velopedalongwithEmilyPeters,NoahSnyderandJamesTenertoperformcalculationswithsubfactorsandfusioncategories.Toobtainalocalcopy,you�rstneedtoensurethatyouhaveMercurial,thedistributedversioncontrolsystem,installedonyourmachine.Withthat,thecommandhgclonehttps://bitbucket.org/fusionatlas/fusionatlaswillcreatealocaldirectorycalledfusionatlascontainingthelatestversion.IntheQuadraticTangles.nbnotebook,youwillthenneedtoadjustthepathsappearinginthe�rstinputcelltoensurethatyourlocalcopyisincluded.After
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM5that,runningtheentirenotebookreproducesallthecalculationsdescribedbelow.WeinviteanyinterestedreaderstocontactuswithquestionsorqueriesabouttheuseofthesenotebooksortheFusionAtlaspackage.2.Background2.1.Graphplanaralgebraembedding.A�nitedepthsubfactorplanaralgebraembedsinthegraphplanaralgebraofitsprincipalgraph[JP11,MW].Webeginbyassumingthatthedesiredplanaralgebraisn�1supertransitive,soPk;+=TLk;+fork=0;:::;n�1andisgeneratedbytheorthogonalcomplementPn;+ TLn;+oftheTemperley-Liebalgebrainthen-boxspace.Ifthisorthogonalcomplementhasdimensionk,wesaythattheplanaralgebraisn�1supertransitiveofexcessk.Theexcesscanbereado�fromtheprincipalgraph;it'sthesumofthesquaresofthemultiplicitiesoftheedgesimmediatelybeyondthebranchpoint,minusone(orsimplytwolessthanthevalenceofthebranchpoint,inthesimplylacedcase).Toconstructthesubfactorplanaralgebrasinthesepapers,we�rst�ndaconnection onthedesiredpairofprincipalgraphs(�;�0).Wedosoby�rstcomputinganumericalapproximationtohighprecision,thenguessingtheexactsolutionusingMathematica'sRootApproximantfunction,and�nallyverifyingusingexactarithmeticinanumber�eldthatthecandidateexactsolutionsatis�esthenecessaryequations.Asweusethisnumericalmethod,wecannotsaywithcertaintyhowmanyconnectionsexistonthesegraphs.However,Izumihasdeterminedallsuchconnections,andwebelieveourlistofpossibleconnectionscoincideswithhis.Asthemaingoalofthispaperistoconstructthenew4442subfactorbythedevelopmentofmethodsforderivingjelly�shrelations,ratherthanprovinguniqueness,werestrictourattentiontoasingleconnection.Usingthisconnection,itispossibletodiscovertherotationaleigenval-uesofthedesiredgeneratorsvia[IJMS11,Theorem1.7];inacertaingauge,tr(UUt)=2+P!,whereUisthe`branchmatrix'ofconnectionentriesgoingthroughthebranchpoint,andthesumisoverthekrotationaleigenvalues!,withmultiplicity,ofthelowestweightvectorsinthen-boxspace.Wethencomputetheequationsforatnessand�ndkatn-boxeswithrespecttotheconnection.(Notethattheseatelementsarenotnecessarilyself-adjointasin[Jon03].)However,merelyhavingatelementsforaconnectiondoesnotimplythattheconnectionitselfisat.Theplanaralgebrageneratedbytheatn-boxesisnecessarilyevaluable,andindeedasubfactorplanaralgebra,whichwedenotebyP��.Thuswehaveconstructedsomesubfactorby[Ocn88,EK98,Jon11,MW].Thissubfactor,however,neednothavetheprincipalgraphswestartedwith;indeed,itcouldhavesmallersupertransitivity.Determiningeventhesupertransitivityoftheprincipalgraphofthesubfactorplanaralgebragener-atedbytheatn-boxesrequiressomeknowledgeoftheskeintheoryoftheplanaralgebra,whichisofcomparabledi�cultywithdirectlycomputingjel-ly�shrelations.Infact,byLemma5.1,havingjelly�shrelationsensuresthe
+6SCOTTMORRISONANDDAVIDPENNEYSsupertransitivityiscorrect.Onecouldattempttoverifytheconnectionitselfisat,whichwouldalsoensurethesupertransitivityiscorrect,butthisisextremelycomputationallyexpensive.Thepointofthispaperistoavoidthisworkusingplanaralgebrasandthejelly�shalgorithm.Hence,westillneedtoanalyzethesubfactorplanaralgebraP��.Intheanal-ysiswhichfollows,weneverrelyonthefactthatweobtainedtheseelementsasatelementswithrespecttosomeconnection.Inparticular,nothingthatfollowsreliesonthecorrectnessofthemethoddescribedaboveforguessingthegenerators!First,weneedtocalculatetheprincipalgraphsofP��(whichwearehopingarethegraphswestartedwith,(�;�0)).Second,wewouldliketoknowhowtoevaluatecloseddiagramsinthegenerators.Forthespokegraphsweconsiderinthispaper,�and�0alwayscoincide,andaredrawnfromthesetf4442;3333;3311;2221g(seeFigure1),wherethenumbersrefertothelengthofthespokesemanatingfromthecentralvertex.By[BP12],ifsuchsubfactorplanaralgebrasweretoexistwiththedesiredprincipalgraphs,theywouldhave
+1-strand jelly�sh generatorsatdepthn.WeuseJones'quadratictanglestechniques[Jon03]to�ndthese1-strandjelly�shrelationsinP��.WethenusethegeneratorstodeterminethatP��hasthecorrectprincipalgraph.2.2.Quadratictangles.In[Jon03],Jonesusesquadratictanglestechniquestoproveanumberofformulasaboutplanargeneratorsinasubfactorplanaralgebra.Infact,manyoftheformulasthereholdinmoregenerality.Notation2.1.RecallthattheFouriertransformFisgivenbyF=
+?
+?
+���
+:ForarotationaleigenvectorS2Pn;�correspondingtoaneigenvalue!S=˙2S,wede�neanotherrotationaleigenvector�S2Pn;�by�S=˙�1SF(S).NotethatF(�S)=˙SS,so��S=S.De�nition2.2.SupposeP�isanotnecessarilyevaluable�-planaralgebra,i.e.,wedon'tknowifdim(Pn;�)<1orifdim(P0;�)=1.WecallP�unitary ifforalln�0,theP0;�-valuedsesquilinearformonPn;�givenbyhx;yi=Tr(y�x)ispositivede�nite(intheoperator-valuedsense).De�nition2.3.SupposeP�isaunitary,spherical,shadedplanaralgebrawithmodulus�>2whichisnotnecessarilyevaluable.A�nitesetBˆPn;+iscalleda set of generatorsiftheelementsofBarelinearlyindependent,self-adjoint,low-weighteigenvectorsfortherotation,i.e,forallS2B,�S=S�,�Sisuncappable,and�ˆ(S)=!SSforsomen-throotofunity!S.
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM7GivenasetofgeneratorsB,wegetasetofdualgenerators�B=��S��S2B .WesayasetofgeneratorsBhas scalar momentsifTr(R);Tr(RS);Tr(RST)andTr(�R);Tr(�R�S);Tr(�R�S�T)arescalarmultiplesoftheemptydiagraminP0;+andP0;�respectivelyforeachR;S;T2B.IfasetofgeneratorsBhasscalarmoments,wesayitis orthonormalifforallS;T2B,hS;Ti=Tr(ST)=�S;T.Notation2.4.Since�>2,givenageneratorR2B,theannulartangles
+?
+?
+���
+�R
+[0(R);
+?
+?
+���
+R
+[1(R);
+?
+?
+���
+�R
+[2(R);
+?
+?
+���
+R
+[3(R);:::areabasisforAn+1(R),theannularconsequencesofRinsidePn+1;+[Jon01,Jon03].Onecalculatesthedualannularbasis�b[i(R)��i=0;:::;2n+1 fromhb[i(R);[j(R)i=�i;j,wheretheinnerproductislinearonthe right.SeeDe�nition4.2.6of[Jon03]foranexplicitformula.Theorem2.5.Alltheformulasofx4of[Jon03]holdinanyunitary,spherical,shadedplanaralgebrawithmodulus�>2foranyorthonormalsetofgeneratorsBwithscalarmoments.Proof.Jonesexplicitlyrestrictstoanevaluableplanaralgebra(infact,hesays`subfactor,'butevaluableistheonlyconditionwe'renowleavingo�)beforeprovingtheseformulas,butuponreadingthroughtheproofs,itisclearthatthegeneratorshavingscalarmomentsissu�cienttoworkinthegeneralityweneedhere.�2.3.Sphericalandlopsidedplanaralgebras.In[MP12],MorrisonandPetersdescribethe sphericaland lopsidedconventionsforplanaralgebras.Inthesphericalconvention,bothshadedandunshadedcontractibleclosedloopscountforamultiplicativefactorof�;however,inthelopsidedconven-tion,shadedcontractibleclosedloopscountfor1whileunshadedcontractibleclosedloopscountfor�2.Themainadvantageofworkinginthelopsidedplanaralgebraisthattherearefewersquareroots,soarithmeticiseasier.Inparticularthenumber�eldinwhichwecalculateismuchsmaller.Henceweusethelopsidedplanaralgebratocomputethemomentsofourgenerators.Themap\:Pspherical�!Plopsided�from[MP12]isnotaplanaralgebramap,butitcommuteswiththeactionoftheplanaroperaduptocertainscalars.Whenwedrawourtanglesinthestandardformwhereeachinputandoutputdiskisarectanglewiththedistinguishedintervalontheleftandthesamenumberofstringsattachtothetopandbottomofeachrectangle,thenthereisapowerof��1foreachcriticalpointwhichisshadedabove,andthepowerof�correspondstothesignofthecriticalpoint:
+!�
+!��1:
+8SCOTTMORRISONANDDAVIDPENNEYSExample2.6.Wewillworkoutthecorrectionfactorarisingwhencommuting\andF.NotethatF(S)=
+?
+?
+���
+S
+=8>>>>>>>>><>>>>>>>>>:
+S
+���
+���
+ifniseven
+S
+���
+���
+ifnisodd.Hencewehave\F=(F\ifniseven��1F\ifnisodd.Example2.7.SimilarlyonecancalculatethatTr(S)=\Tr(S)=(Tr(\S)ifniseven�Tr(\S)ifnisoddTr(�S)=\Tr(�S)=(Tr(\�S)ifniseven��1Tr(\�S)ifnisodd.HenceifS1;:::;Sk2B,wecomputethemomentTr(F(S1)���F(Sk))=(��kTr(F(\S1)���F(\Sk))ifniseven��1Tr(F(\S1)���F(\Sk))ifnisoddwhichimpliesTr(�S1����Sk)=(��kTr(\�S1���\�Sk)ifniseven��1Tr(\�S1���\�Sk)ifnisodd.2.4.Thejelly�shalgorithm.The jelly�sh algorithmwasinventedin[BMPS12]toconstructtheextendedHaagerupsubfactorplanaralgebrawithprincipalgraphs�
+;
+�:Oneusesthejelly�shalgorithmtoevaluatecloseddiagramsonasetofgener-ators.Therearetwoingredients:(1)ThegeneratorsinPn;�satisfy jelly�sh relations,i.e.,foreachgeneratorS;T,j(�S)=
+2n
+�S
+?
+;j2(S0)=
+2n
+T
+?
+canbewrittenaslinearcombinationsof trains,whicharediagramswhereanyregionmeetingthedistinguishedintervalofagenerator
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM9meetsthedistinguishedintervaloftheexternaldisk,e.g.,
+?
+?
+?
+?
+���
+T
+S1
+S2
+S`
+k k
+2n
+2n
+2n whereS1;:::;S`aregenerators,andTisasingleTemperley-Liebdia-gram.(Notethatj(S);j(�S)meansthesamethingas[0(S);[0(�S),butwewillusethejnotationtoemphasizeitsimportancetothejelly�shalgorithm.)(2)ThegeneratorsinPn;�areuncappableandtogetherwiththeJones-Wenzlprojectionf(n)formanalgebraundertheusualmultiplicationST=
+T
+?
+S
+?
+n n
+n
+=XR�RS;T
+R
+?
+n n
+:(NotethattheMathematicapackageFusionAtlasmultipliesinthisorder;readingfromlefttorightinproductscorrespondstoreadingfrombottomtotopinplanarcomposites.)Giventhesetwoingredients,onecanevaluateanycloseddiagramusingthefollowingtwostepprocess.(1)PullallgeneratorsStotheoutsideofthediagramusingthejelly�shrelations,possiblygettingdiagramswithmoreS's.(2)Useuncappabilityandthealgebrapropertytoiterativelyreducethenumberofgenerators.Anynon-zerotrainwhichisacloseddiagramiseitheraTemperley-Liebdiagram,hasacappedgenerator,orhastwogeneratorsS;Tconnectedbyatleastnstrings,givingST.Section3isdevotedtoourprocedureforcomputingthejelly�shrelationsnecessaryforthe�rstpartofthejelly�shalgorithm,whilethesecondpartisrathereasy.OnecanseethatiffA;B;f(n)gspanasubalgebraofPn;+,theirstructurecoe�cientsmustbegivenby�RS;T=Tr(STR)
+Tr(R2);andthusdeterminedbythemomentsgiveninAppendixB.WecheckthatthealgebrageneratedbyfA;B;f(n)gisclosedundermultiplicationdirectlyinthegraphplanaralgebra,inLemma4.1.Notethatifwehaveanorthonormalsetofgenerators,thenintheno-tationof[Jon03],�RS;T=Tr(STR)=aSTR.Therearesimilareasycalcula-tionstodeterminethestructurecoe�cients�RS;Tofthealgebrageneratedbyf�A;�B;�f(n)gˆPn;�,andintheorthonormalcase,�RS;T=bSTR.
+10SCOTTMORRISONANDDAVIDPENNEYSIn[BMPS12],theyfound
+2-strand jelly�sh relations,i.e.,j(�S)andj2(S)lieinthespanofthetrainsofS.Forspokesubfactors,wecan�nd
+1-strand jelly�sh relationsby[BP12],i.e.,foreachS2Band�S2�B,j(�S)liesinthespanofthetrainsfromB,andj(S)liesinthespanofthetrainsfrom�B.These1-strandjelly�shrelationsaresu�cienttoevaluateallcloseddiagramsfromourgenerators,andthusBgeneratessomesubfactorplanaralgebra.Weneedfurtherargumentstoprovethattheresultingsubfactorplanaralgebrahasthedesiredprincipalgraphs.Itturnsoutthatattherelativelylowindexof3+p
+5theseargumentsareeasy.2.5.Jelly�shtoboxjelly�shandbackagain.Givenasetofjelly�shrelations,wemaywritetheminamorecompactforminwhichwemultiplythediagramsbyaJones-Wenzlidempotenttogetridofsimplerdiagrams.Wepresenttheargumentsbackandforthinthecaseofonegenerator,anditisclearhowtogeneralizetothemulti-generatorcase.Ifweknowj(�S)=
+2n
+�S
+?
+=S;S
+n�1
+n+1
+n+1
+S
+S
+?
+?
++2n+1Xi=1S;i[0i(S)+XwhereX2TLn+1;+withallstringsturneddown,and[01(S)=
+2n
+S
+?
+;[0i(S)=
+i�1
+2n�i+1
+S
+?
+;and[02n+1(S)=
+2n
+S
+?
+(notethatthe[0i(S)'sfori=1;:::;2n+1canbeobtainedfromthe[j(S)'sforj=1;:::;2n+1byapplyingsuitablepowersoftherotationandmultiplyingbysuitablepowersof˙S),applyingtheJones-Wenzlf(2n+2)tothebottomofthediagramgivesthesimpler box jelly�sh relationf�j(�S)=
+2n
+�S
+?
+f(2n+2)
+?
+=S;S
+n�1
+n+1
+n+1
+S
+S
+?
+?
+f(2n+2)
+?
+:Conversely,givenaboxjelly�shrelationoftheaboveform,wegetajelly�shrelationbyexpandingtheJones-Wenzlidempotents.(1)First,notethatthecoe�cientoftheidentityintheJones-Wenzlidem-potentf(2n+2)is1.Thistermgivesusaj(�S)onthelefthandsideandanS�Sontherighthandside.(2)Onthelefthandside,allothertermsoftheJones-Wenzleithercapo�the�S,givingzero,orthereisexactlyonecuponthetopandonecaponthebottom,andthecuponthetopisbetweenthe1-stand2-ndstringsorthe(2n+1)-thand(2n+2)-thstrings.Inthiscase,wegetascalarmultipleofanannularconsequenceofS(whichisnotj(�S)),andthesetermscanbesubtractedo�totherighthandsideoftheequation.
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM11(3)Ontherighthandside,thereareafewmoreoptions.First,ifanySiscappedo�,wegetzero.Otherwisethereisacupbetweenthe(n+1)-thand(n+2)-thstrings,andwegetananS2whichcanbewrittenasalinearcombinationofSandTemperley-Liebdiagrams.NowiftherearemorecupsontopofthetermintheJones-Wenzl,theStermvanishes,andwegetaTemperley-Liebdiagram.Iftherearenoextracups,thenweareleftwithsomeTemperley-LiebdiagramsandsomescalarmultipleofanannularconsequenceofS(whichisnotj(�S)).Hencewegetajelly�shrelation.3.ComputingjellyfishrelationswithquadratictanglesInSubsection2.1,weexplainedhowweobtainedthesubfactorplanaralge-braP��generatedbytheatelementsatdepthnwithrespecttosomecon-nectioninthegraphplanaralgebraof�.Wenowdescribehowtocalculate1-strandjelly�shrelations.Thecalculationsinthesesubsections,basedonthetechniquesfrom[Jon03],relyonknowingthecubicmomentsofthegeneratorsandthestructurecoef-�cientsforthealgebrageneratedbyfA;B;f(n)g.Thisrequiresacomputercalculation,butitisnomoredi�cultthanmultiplyingsomelargematrices,withentriesina�xednumber�eld,thentakingatrace.ThesemomentsaregiveninAppendixB.Weperformthreecalculationstoderivethejelly�shrelations.InSubsec-tion3.1,we�ndthoselinearcombinationsofthequadratictangleswhichlieinannularconsequencesofthegenerators.InSubsection3.2,weexpressthesequadratictanglesinthebasisofannularconsequencesofourgenera-tors.FinallyinSubsection3.3,weinverttherelationsfoundinSubsection3.2toexpresstherelevantannularconsequencesbackintermsofthequadratictangles.Remark3.1.InSubsections3.1through3.3,ourformulasarefororthonormalsetsofself-adjointgenerators.However,theprogramsintheMathematicanotebookQuadraticTangles.nbareslightlymoregeneralandincludethenecessarycorrectionfactorsallowingustoworkwithorthogonalgeneratorswitharbitrarynormsaswell.InSubsection3.4,wedescribetwowaysthatweverifyourformulas.Sincethecomputerisdoingthearithmetic,weliketoverifyourcalculationsinasmanywaysthatwecanthinkof.3.1.Identifyquadratictanglesinannularconsequences.GivenoursetofgeneratorsB=fA;BgˆPn;+,wehavethedualgenerators�B=f�A;�BgˆPn;�,andBand�Beachgive4quadratictangles:fA�A;A�B;B�A;B�BgˆPn+1;+andf�A��A;�A��B;�B��A;�B��BgˆPn+1;�;
+12SCOTTMORRISONANDDAVIDPENNEYSwhereS�T=
+n�1
+n+1
+n+1
+S
+T
+?
+?
+:Sinceweexpectthesegeneratorstogiveasubfactorplanaralgebrawiththeprincipalgraphbeingtheunderlyinggraphofthegraphplanaralgebrainwhichtheywerefound,wehopethatsomelinearcombinationsofthesequa-dratictangleslieinthespaceA(A;B;;)ofannularconsequencesofA;B,andtheemptydiagram(theannularconsequencesoftheemptydiagramarethediagramsinTemperley-Lieb),andthesameforthecheckedgenerators:QTAC=A(A;B;;)\span(fA�A;A�B;B�A;B�Bg)QTAC_=A(�A;�B;;)\span(f�A��A;�A��B;�B��A;�B��Bg)(QTACstandsfor\quadratictanglesinannularconsequences").Remark3.2.InournotationA(A;B;;)includesTemperley-Lieb.WhenwerefertotheannularconsequencesofA;Bonly,wewillcallthisspaceA(A;B)(whichiswhatisreferredtosimplybyAin[Jon03]).Example3.3.Startingwithour2generatorsfoundinthegraphplanaralgebrasofthe4442or3333principalgraphs,since4442and3333eachhaveannularmultiplicites�22,wehopethatdim(QTAC)=dim(QTAC_)=2,i.e.,thequadratictanglesareaslinearlyindependentaspossible.Example3.4.Startingwithour2generatorsfoundinthegraphplanaralgebraofthe3311principalgraph,since3311hasannularmultiplicites�20,wehopethatdim(QTAC)=dim(QTAC_)=4.Example3.5.Startingwithour2generatorsfoundinthegraphplanaralgebraofthe2221principalgraph,since2221hasannularmultiplicites�21,wehopethatdim(QTAC)=dim(QTAC_)=3.Weuseformulasfrom[Jon03]tocalculatebasesforQTACandQTAC_.We�rstdescribehowto�ndabasisforQTAC.First,wecalculatethe4�4matrixofinnerproductsmodulotheannularconsequencesofA;B:�h[S�T�PA(A;B)(S�T)];P�Qi�(S;T);(P;Q)2B2:Theinnerproductsaregivenbythefollowingformulas,wherethesecondcomesfromProposition4.4.2of[Jon03]:hS�T;P�Qi=1
+[n]Tr(QT)Tr(SP)hPA(A;B)S�T;P�Qi=XR2B1
+WRˆ�
+aSTRaPQR+˙T
+˙S˙Q˙P
+bSTRbPQR��!�1R+[2n+2]�+(�1)n+1˙R�
+˙Q˙P
+aSTRbPQR+˙T
+˙S
+bSTRaPQR��2!�1R[n+1]�˙;
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM13whereaSTR=Tr(RST),bSTR=Tr(�R�S�T),andWR=q2n+2+q�2n+2�!R�!�1R.Here,q>1suchthat�=[2]=q+q�1.TakingabasisforthenullspaceofthismatrixgivesusabasisforQTAC.Remark3.6.TocalculateabasisforQTAC_,onepassestothedualplanaralgebraofthegraphplanaralgebra(thesameplanaralgebra,butwiththeshadingreversed),andusesthesameformulasabove.Thisamountstoswitch-ingaSTRandbSTR,sinceSand�ShavethesamechiralityforeachS2B.3.2.Findthejelly�shmatrices.NowwewanttowriteeachbasiselementofQTACorQTAC_asalinearcombinationofthe[i(R);[i(�R)'sforR2B;�R2�Brespectively.WedescribetheprocessforthebasiselementsofQTAC,andthecheckedversionsareagaincomputedbypassingtothedualasinRemark3.6.UsingProposition4:4:1:iin[Jon03],wehave(3.1)PA(A;B)(S�T)=XR2B˙nRaSTRb[n+1(R)+˙�1T˙SbSTRb[0(R):Wecanexpressb[n+1(R);b[0(R)(inthedualannularbasis)intermsoftheannularbasis[i(R)forR2B,usingtheformulasfromProposition4.2.9of[Jon03]:b[0(R)=1
+WR�[2n+2][0(R)+((�˙)n+1+(�˙)�n�1)[n+1][n+1(R)+X�b[n+1(R)=1
+WR�[2n+2][n+1(R)+((�˙)n+1+(�˙)�n�1)[n+1][0(R)+Y�whereX;Y2
+A(R)=spanf[i(R)ji6=0;n+1g.Remark3.7.Ourcalculations,availablebundledwiththearXivsourcesforthispaperintheMathematicanotebookQuadraticTangles.nb,areslightlymorecomplicated;wedon'tactuallyusetheformulasfromProposition4.2.9above,butinsteaddirectlycomputethechangeofbasismatrixfromthedualannularbasistotheannularbasisasanextracheckoftheseformulas.Thechangeofbasismatrixiscomputedasfollows.First,lettingUandbUbethecolumnvectorscorrespondingtothebasiselements[i(R)andb[i(R),thereissomematrixV2M2n+2(C)suchthatVU=bU.Fromtheformulashb[i(R);[j(R)i=�i;jandWi;j=h[i(R);[j(R)i=8><>:�ifi=j˙�1Rifj=i�10else,wehaveV=
+W�1(rememberthattheinnerproductislinearonthe right).Puttingitalltogether,wecanexpressvinourbasisofQTACasalin-earcombinationof[0(A);[0(B);[n+1(A);[n+1(B),plusanotherelementin
+14SCOTTMORRISONANDDAVIDPENNEYS
+A(A;B;;)=TLn+1;��span(f[i(R)jR2Bandi6=0;n+1g).v=XS;T2BS;T
+n�1
+n+1
+n+1
+S
+T
+?
+?
+=�A
+2n
+�A
+?
++�B
+2n
+�B
+?
++�A
+n n
+A_n
+?
++�B
+n n
+B_n
+?
++Z;whereZ2
+A(A;B;;)andS_n=(Sifniseven�Sifnisodd�S_n=(�SifnisevenSifnisodd.Givensuchanequation,wecanmultiplybyaJones-Wenzlidempotentintwowaysto�ndthefollowingrelations,fromwhichwewillderivethedesiredboxjelly�shrelations:(1)Wecanmultiplybyf(2n+2)onthebottomtoisolatethe[0(A);[0(B):XS;T2BS;T
+n�1
+n+1
+n+1
+S
+T
+?
+?
+f(2n+2)
+?
+=�A
+2n
+�A
+?
+f(2n+2)
+?
++�B
+2n
+�B
+?
+f(2n+2)
+?
+asanycapontopoff(2n+2)giveszero.(2)Wecanbendf(2n+2)aroundthetoptoisolatethe[n+1(A);[n+1(B):XS;T2BS;T
+n�1
+n+1
+n+1
+S
+T
+?
+?
+f(2n+2)
+=�A
+n n
+f(2n+2)
+?
+A_n
+?
++�B
+n n
+f(2n+2)
+?
+B_n
+?
+whichisequivalenttoXS;T2BS;T˙1�nS˙n�1T
+n�1
+n+1
+n+1
+�S_n
+�T_n
+?
+?
+f(2n+2)
+?
+=�A
+2n
+A_n
+?
+f(2n+2)
+?
++�B
+2n
+B_n
+?
+f(2n+2)
+?
+:Remark3.8.Thesecondrelationaboveisactuallysuperuous.Itsu�cestoconsidertherelationsaboveofthe�rsttypeforbothBand�B.Ontheotherhand,thecomputerisdoingthearithmetic,soweprefertogetaniceconsistencycheckonallourformulaswithlittleextrawork.
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM15Notation3.9.ForS;T2B;�B,weusethenotationj(S)=
+2n
+S
+?
+;f�j(S)=
+2n
+S
+?
+f(2n+2)
+?
+;andf(S�T)=
+n�1
+n+1
+n+1
+S
+T
+?
+?
+f(2n+2)
+?
+:De�nition3.10.Supposefv1;:::;vkgˆQTAC;f�v1;:::;�vkgˆQTAC_arebases(inourexamples,2�k�4).First,weusetheabovemethodtocalculatecoe�cients�iA;�iB;��iA;��iBsothatvi=XS;T2BiS;Tf(S�T)=�iA[f�j(�A)]+�iB[f�j(�B)]and�vi=X�S;�T2�B�iS;Tf(�S��T)=��iA[f�j(A)]+��iB[f�j(B)]:The jelly�sh matricesarethematricesJ;�Jwhosei-throwsare��iA�iB�,���iA��iB�respectively.The quadratic tangles matricesarethematricesK;�Kwhosei-throwsare�iA;AiA;B;iB;A;iB;B�,��iA;A�iA;B;�iB;A;�iB;B�respectively.NotethatK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCA=J�f�j(�A)f�j(�B)�;andsimilarlyforthecheckedversion.3.3.Invertthejelly�shmatricestogetboxjelly�shrelations.Giventhejelly�shmatricesJ;�J,wecheckiftheyhaverank2.Iftheydo(andweknowtheyshouldby[BP12]),thenwe�ndaleftinversebytheformulaJL=(J�J)�1J�(andsimilarlyfor�J),sinceJ�J2M2(C)hasrank2.WethenuseJL;�JLtogettheboxjelly�shrelations
+�f�j(�A)f�j(�B)�=JLK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCAwhichexpressf�j(�A);f�j(�B)aslinearcombinationsofquadratictangles,andsimilarlyforthecheckedversions.3.4.Checkingourformulas.AsemphasizedinRemarks3.7and3.8,sincethecomputerisdoingthearithmetic,weliketocheckourformulasinasmanywaysaswecanthinkof.Weperformtwoextrachecksoftheformulasobtainedfromtheabovecalculations.
+16SCOTTMORRISONANDDAVIDPENNEYS(1)GivenoursetofgeneratorsBinthegraphplanaralgebra,wecancomputetheannularbasesforA(A),A(B)andthequadratictanglesS�TforS;T2Bdirectlyfromthegraphplanaralgebra.WecanthenusenumericallinearalgebratocomputeanapproximatebasisforQTAC,andwecancomparetheseresultswiththoseobtainedinSubsection3.1.Wedoasimilarcheckfor�BandQTAC_.Similarly,wecancomputenumericalapproximationsforthecoe�-cientsofthequadratictanglesinannularconsequenceswithrespecttotheannularbasisdirectlyinthegraphplanaralgebra.WecomparethesenumberswiththosecomputedfromEquation(3.1)usingRemark3.7.Finally,wecannumerically�ndthejelly�shformulasJLK;�JL�KdirectlyfromthegeneratorsinthegraphplanaralgebraandcomparethemwiththeJLK;�JL�KcomputedinSubsection3.2.AllofthesechecksarecarriedoutinQuadraticTangles.nb,inthe\QTDirect"sectionsforthegraphs3333,3311,and2221.(2)Itwouldbebene�cialtochecktheactualjelly�shformulasdirectlyinthegraphplanaralgebra.SincetheJones-Wenzlidempotent,writteninthegraphplanaralgebra,isexpensivetocompute,thisisonlyfea-sibleforthesmallestgraph2221,andeventhen,weneedaclevertrickintroducedin[BMPS12]byStephenBigelow.First,notethat n�1
+n+1
+n+1
+f(n+1)
+f(2n+2)
+?
+?
+=0;whichimpliesthatforS;T2Bandall,f(S�T)=
+n�1
+n+1
+n+1
+S
+T
+?
+?
+f(2n+2)
+?
+=
+n�1
+n+1
+n+1
+S
+T
+?
+?
+f(2n+2)
+?
+�
+n�1
+n+1
+n+1
+f(n+1)
+f(2n+2)
+?
+?
+:NotethatST�Tr(ST)
+[n+1]2f(n)isuncappableasitliesinspanfA;Bg.Henceapplyinganytwocapswhichdonotenclose?toS�T�Tr(ST)
+[n+1][n+2]f(n+1)giveszero,andthereforef(S�T)isequalto n�1
+n+1
+n+1
+S
+T
+?
+?
++
+n�1
+n+1
+n+1
+S
+T
+?
+?
+f(2n+2)1�cup
+?
+�Tr(ST)
+[n+1][n+2]
+n�1
+n+1
+n+1
+f(n+1)
+f(2n+2)1�cup
+?
+?
+wheref(2n+2)1�cupisthesumofalltermsintheJones-Wenzlf(2n+2)withexactlyonecuponthetopandonecuponthebottom.Aformulaforthe1-cupJones-WenzlintermsofTemperley-Liebdiagramscanbe
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM17deducedeasilyfrom[Rez07,Mor]:f(k)1�cup=�k�2Xa=0[a+1][k�a�1]
+[k]
+���
+���
+|{z}a
++Xa+b+c=k�2c>0(�1)c+1[a+1][b+1]
+[k]0@
+���
+���
+���
+|{z}a
+|{z}b
+|{z}c
++
+���
+���
+���
+|{z}a
+|{z}b
+|{z}c
+1A:Notethatthenumberoftermsinthe1-cupJones-Wenzlgrowslin-early,whereasthenumberoftermsintheJones-Wenzlidempotent,givenbyCatalannumbers,growsexponentially.Usingthistrick,wenumericallycheckthejelly�shformulascalcu-latedinSection4.4inthegraphplanaralgebraof2221.4.GeneratorsandrelationsWenowhaveasubsectionforeachofoursubfactorplanaralgebras.Thethreelemmasineachsectionshowtheresultsofthecalculationsdescribedabove.Theproofsaresimplysubstitutingtheappropriatequantities(mo-ments,chiralities,etc.)intotheformulasabove.Youcanverifyallthesecal-culationsusingtheMathematicanotebooksincludedwiththearXivsourcesofthispaper.Throughout,thenotation�(z)an;:::;a0denotestherootofthepolynomialPiaixiwhichisclosesttotheapproximaterealnumberz.(Thedigitsofprecisionofzareineachcasechosensothatthisunambiguouslyidenti�estheroot.)Thusforexample�(0:3278)1024;0;�864;0;81denotestherootof1024x4�864x2+81whichisclosestto0:3278.Inthissection,A;Bdenotethespeci�cgeneratorsdenotedbyA;Bgivenintheappendixforeachrespectivegraph.Lemma4.1.Foreachofthegraphs�=4442;3333;3311or2221,theele-mentsA;Bandf(n)inthe(n;+)-boxspaceofthegraphplanaralgebraareclosedundermultiplication,andtheirstructurecoe�cientsST=�AS;TA+�BS;TB+�fS;Tf(n)aregiventhefollowingratioofmoments:�RS;T=Tr(STR)
+Tr(R2):Asimilarresultholdsfortheelements�A;�Bandf(n)inthe(n;�)-boxspace.Proof.TheprogramVerifyClosedUnderMultiplicationintheMathematicanotebookQuadraticTangles.nbveri�esthatthealgebrageneratedbythesetff(n);A;Bgisclosedundermultiplicationdirectlyinthegraphplanaralgebra.Onceweknowthis,theformulaclaimedforthestructurecoe�cientsfollowsbytakinginnerproducts.�
+18SCOTTMORRISONANDDAVIDPENNEYS4.1.4442.Lemma4.2.ThelinearcombinationsK0BB@A�AA�BB�AB�B1CCAand�K0BB@�A��A�A��B�B��A�B��B1CCAlieinannularconsequences,whereK= 100�101�(0:809+0:588i)1;�1;1;�1;10!and�K= 100�101�(0:809+0:588i)1;�1;1;�1;10!:Lemma4.3.Inparticular,wehaveK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCA=J�f�j(�A)f�j(�B)�and�K0BB@f(�A��A)f(�A��B)f(�B��A)f(�B��B)1CCA=�J�f�j(A)f�j(B)�;whereJ=0BBBBBBBBB@�(7:275)109;0;�5770;0;25�(�7:275)109;0;�5770;0;25�(6:745+2:191i)11881;0;�966285;0;30007665;0;1366875;0;164025�(6:745+2:191i)11881;0;�966285;0;30007665;0;1366875;0;1640251CCCCCCCCCAand�J=0BBBBBBBBB@�(7:275)109;0;�5770;0;25�(�7:275)109;0;�5770;0;25�(6:745+2:191i)11881;0;�966285;0;30007665;0;1366875;0;164025�(6:745+2:191i)11881;0;�966285;0;30007665;0;1366875;0;1640251CCCCCCCCCA:
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM19Lemma4.4.TheelementsAandBsatisfytheboxjelly�shrelations�f�j(�A)f�j(�B)�=JLK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCAand�f�j(A)f�j(B)�=�JL�K0BB@f(�A��A)f(�A��B)f(�B��A)f(�B��B)1CCAwhereJLK=0BBBBBBBBBBBBBBBBB@�(0:06872)400;0;�23080;0;109�(0:067054�0:021787i)41990400;0;87480000;0;480122640;0;�3865140;0;11881�(0:067054+0:021787i)41990400;0;87480000;0;480122640;0;�3865140;0;11881�(�0:06872)400;0;�23080;0;109�(�0:06872)400;0;�23080;0;109�(0:067054�0:021787i)41990400;0;87480000;0;480122640;0;�3865140;0;11881�(0:067054+0:021787i)41990400;0;87480000;0;480122640;0;�3865140;0;11881�(0:06872)400;0;�23080;0;1091CCCCCCCCCCCCCCCCCAand�JL�K=0BBBBBBBBBBBBBBBBB@�(0:06872)400;0;�23080;0;109�(0:067054�0:021787i)41990400;0;87480000;0;480122640;0;�3865140;0;11881�(0:067054+0:021787i)41990400;0;87480000;0;480122640;0;�3865140;0;11881�(�0:06872)400;0;�23080;0;109�(�0:06872)400;0;�23080;0;109�(0:067054�0:021787i)41990400;0;87480000;0;480122640;0;�3865140;0;11881�(0:067054+0:021787i)41990400;0;87480000;0;480122640;0;�3865140;0;11881�(0:06872)400;0;�23080;0;1091CCCCCCCCCCCCCCCCCA:4.2.3333.Lemma4.5.ThelinearcombinationsK0BB@A�AA�BB�AB�B1CCAand�K0BB@�A��A�A��B�B��A�B��B1CCAlieinannularconsequences,whereK=�1001
+6��3�p
+5�0110�
+20SCOTTMORRISONANDDAVIDPENNEYSand�K=�1001
+6��3�p
+5�0110�:Lemma4.6.Inparticular,wehaveK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCA=J�f�j(�A)f�j(�B)�and�K0BB@f(�A��A)f(�A��B)f(�B��A)f(�B��B)1CCA=�J�f�j(A)f�j(B)�;whereJ=�1
+8�p
+5�1�1
+4��2�p
+5�1
+8��3�3p
+5�1
+8�1�p
+5��and�J= �(�1:102)1024;0;�1344;0;121�(�0:2860)1024;0;�96;0;1�(�0:3278)1024;0;�864;0;81�(1:102)1024;0;�1344;0;121!:Lemma4.7.TheelementsAandBsatisfytheboxjelly�shrelations�f�j(�A)f�j(�B)�=JLK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCAand�f�j(A)f�j(B)�=�JL�K0BB@f(�A��A)f(�A��B)f(�B��A)f(�B��B)1CCAwhereJLK=�1
+2�p
+5�2�1
+4��1�p
+5�1
+4��1�p
+5�1
+12�1�p
+5�1
+4�3�3p
+5�1
+2�2�p
+5�1
+2�2�p
+5�1
+4�1+p
+5��and�JL�K= �(�0:8422)64;0;�216;0;121�(�0:2185)64;0;�24;0;1�(�0:2185)64;0;�24;0;1�(0:7349)5184;0;�3024;0;121�(�0:2504)64;0;�1296;0;81�(0:8422)64;0;�216;0;121�(0:8422)64;0;�216;0;121�(0:2185)64;0;�24;0;1!:4.3.3311.Lemma4.8.ThelinearcombinationsK0BB@A�AA�BB�AB�B1CCAand�K0BB@�A��A�A��B�B��A�B��B1CCA
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM21lieinannularconsequences,whereK=0BBBB@10000100001000011CCCCAand�K=0BBBB@10000100001000011CCCCA:Lemma4.9.Inparticular,wehaveK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCA=J�f�j(�A)f�j(�B)�and�K0BB@f(�A��A)f(�A��B)f(�B��A)f(�B��B)1CCA=�J�f�j(A)f�j(B)�;whereJ=0BBBBB@01
+33��7�3p
+3��(�0:7113i)144;0;312;0;1211
+6�1�p
+3��(0:7113i)144;0;312;0;1211
+6�1�p
+3�01
+12�7p
+3�9�1CCCCCAand�J=0BBBBB@�(�0:1888)7776;0;�3672;0;121�(�0:0621864)58806;0;�486;0;1�(�0:2832i)1536;0;1632;0;121�(0:4953i)864;0;216;0;1�(0:2832i)1536;0;1632;0;121�(�0:4953i)864;0;216;0;1�(0:860)24576;0;�2414976;0;1771561�(0:2832)1536;0;�1632;0;1211CCCCCA:Lemma4.10.TheelementsAandBsatisfytheboxjelly�shrelations�f�j(�A)f�j(�B)�=JLK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCAand�f�j(A)f�j(B)�=�JL�K0BB@f(�A��A)f(�A��B)f(�B��A)f(�B��B)1CCA
+22SCOTTMORRISONANDDAVIDPENNEYSwhereJLK= 0�(0:7029i)121;0;78;0;9�(�0:7029i)121;0;78;0;90�137208�77672p
+3
+172163�33708�32332p
+3
+172163�33708�32332p
+3
+17216352626+80142p
+3
+172163!and�JL�K=0BBBBBBBBB@�(�0:205052)1559184260929;0;�65569974336;0;497664�(0:27984i)3872;0;648;0;27�(�0:27984i)3872;0;648;0;27�(0:93378)1559184260929;0;�1362157739172;0;2305430424�(�0:11725)1559184260929;0;�23898282768;0;33872256�(�0:850i)512;0;4896;0;3267�(0:850i)512;0;4896;0;3267�(0:53393)3118368521858;0;�1989820501362;0;3138267164671CCCCCCCCCA:4.4.2221.Lemma4.11.ThelinearcombinationsK0BB@A�AA�BB�AB�B1CCAand�K0BB@�A��A�A��B�B��A�B��B1CCAlieinannularconsequences,whereK=0BBBBBBBBBBBBBBBBBBBB@1001
+50��23�7p
+21�010�(1:050�1:818i)625;0;2300;0;10464;0;�7360;0;6400001�(1:050+1:818i)625;0;2300;0;10464;0;�7360;0;64001CCCCCCCCCCCCCCCCCCCCA
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM23and�K=0BBBBBBBBBBBBBBBBBBBB@1001
+50��23�7p
+21�010�(1:050�1:818i)625;0;2300;0;10464;0;�7360;0;6400001�(1:050+1:818i)625;0;2300;0;10464;0;�7360;0;64001CCCCCCCCCCCCCCCCCCCCA:Lemma4.12.Inparticular,wehaveK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCA=J�f�j(�A)f�j(�B)�and�K0BB@f(�A��A)f(�A��B)f(�B��A)f(�B��B)1CCA=�J�f�j(A)f�j(B)�;whereJ=0BBBBBBBBBBBBBBBBBBBB@1
+3��6�p
+21��(1:326)225;0;�393;0;�5�(1:680�4:996i)2025;0;90855;0;1616571;0;931200;0;160000�(�0:6319�1:0945i)9;9;12;�3;1�(1:680+4:996i)2025;0;90855;0;1616571;0;931200;0;160000�(�0:6319+1:0945i)9;9;12;�3;11CCCCCCCCCCCCCCCCCCCCA
+24SCOTTMORRISONANDDAVIDPENNEYSand�J=0BBBBBBBBBBBBBBBBBBBB@1
+3��6�p
+21��(1:326)225;0;�393;0;�5�(1:680�4:996i)2025;0;90855;0;1616571;0;931200;0;160000�(�0:6319�1:0945i)9;9;12;�3;1�(1:680+4:996i)2025;0;90855;0;1616571;0;931200;0;160000�(�0:6319+1:0945i)9;9;12;�3;11CCCCCCCCCCCCCCCCCCCCA:Lemma4.13.TheelementsAandBsatisfytheboxjelly�shrelations�f�j(�A)f�j(�B)�=JLK0BB@f(A�A)f(A�B)f(B�A)f(B�B)1CCAand�f�j(A)f�j(B)�=�JL�K0BB@f(�A��A)f(�A��B)f(�B��A)f(�B��B)1CCAwhereJLK=0BBBBBBBB@1
+51�33�8p
+21��(0:034194+0:063236i)4228250625;0;18810887175;0;36065983311;0;203997780;0;960400�(0:034194�0:063236i)4228250625;0;18810887175;0;36065983311;0;203997780;0;960400659p
+21�2049
+2550�(0:3277)2601;0;885;0;�125�(�0:1561+0:1682i)2601;4896;18981;5700;925�(�0:1561�0:1682i)2601;4896;18981;5700;925�(�0:07717)65025;0;1149168;0;�68451CCCCCCCCAand�JL�K=0BBBBBBBB@1
+51�33�8p
+21��(0:034194+0:063236i)4228250625;0;18810887175;0;36065983311;0;203997780;0;960400�(0:034194�0:063236i)4228250625;0;18810887175;0;36065983311;0;203997780;0;960400659p
+21�2049
+2550�(0:3277)2601;0;885;0;�125�(�0:1561+0:1682i)2601;4896;18981;5700;925�(�0:1561�0:1682i)2601;4896;18981;5700;925�(�0:07717)65025;0;1149168;0;�68451CCCCCCCCA:5.Self-dualityandcalculatingprincipalgraphsWenowknowthatourelementsA;B2PA(�)generateanevaluableplanarsubalgebraP��,andhenceasubfactorplanaralgebra.Bythenextlemma,we
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM25knowthattheprincipalgraphshavethedesiredsupertransitivitysincewehave1-strandjelly�shrelations.Lemma5.1.SupposeaplanaralgebraP�isgeneratedbyuncappableelementsA1;:::;Ak2Pn;+suchthat(1)theAj'ssatisfy1-strandjelly�shrelations,and(2)thecomplexspanoffA1;:::;Ak;f(n)gformsanalgebraundertheusualmultiplication.ThenP�is(n�1)supertransitive.Proof.Supposex2Pn�1;+.Usethejelly�shrelationstogetalinearcombina-tionofdiagramsinjelly�shform.UsethefactsthattheAj'sareuncappableandthattheAj'sandf(n)formanalgebratoreducethelinearcombinationofdiagramssothatnotwogeneratorsareconnectedbymorethannstrands,andnogeneratorisconnectedtoitself.Sincethereareonly2n�2externalboundarypoints,itiseasytoseethatthediagramsintheresultinglinearcombinationhavenogenerators,i.e.,x2TLn�1;+.�WenowshowthattheprincipalgraphsoftheP��planaralgebraare,infact,(�;�).5.1.Selfduality.Inthissubsection,weshowthatP4442�;P3333�andP2221�areself-dual,i.e.,thereisaplanaralgebraisomorphism�:P�!P_�whereP_�isthedualplanaralgebraobtainedfromP�byreversingtheshading.Notethatthismeansforallk,thereisamap�k;�:Pk;�!P_k;�=Pk;�,andthesemapscommutewiththeactionoftheplanaroperad.Infact,thesethreesubfactorplanaralgebrasaremorethanself-dual;theyare symmetrically self-dual,i.e.,foreveryn,�n;���n;�=1n;�.Henceby[MPP12],wecanlifttheshadingtoget fantastic planar algebras,i.e.,un-shaded,spherical,evaluableC�-planaralgebras.GivenafantasticplanaralgebraP�,wehaveanassociatedrigidC�-tensorcategoryCP�whoseobjectsaretheprojectionsofP�andamorphisminHomC(p!q)isanelementx2P�suchthatx=pxq(see[MPS10]formoredetails).NotefurtherthatCP�isgeneratedbyasingleself-dualobjectX(thestrand),andCP�isZ=2-graded.ThefusiongraphwithrespecttoXisexactlytheprincipalgraphofP�.Ifthefusiongraphis�nite,thenCP�isaunitaryfusioncategory.HencethesubfactorplanaralgebrasP4442�;P3333�;P2221�giverisetoZ=2-gradedunitaryfusioncategoriesgeneratedbyasingleself-dualobjectwithfusiongraphs4442;3333;2221respectively.Notethatafusioncategorywithfusiongraph2221haspreviouslybeenconstructedbyOstrikintheappendixto[CMS11].Theorem5.2.ThemapP44425;+$P44425;�exchangingA$�AandB$�Bgivesasymmetricself-dualityofplanaralgebras.Proof.BythesymmetryofthemomentsinAppendixB.1,themapclearlypreservesthemoments.Hencetheboxjelly�shrelationsofSubsection4.1arepreservedunder�.Moreover,thestructurecoe�cientsinthealgebraP5;�are
+26SCOTTMORRISONANDDAVIDPENNEYSalsopreserved,sobythejelly�shalgorithmthemappreservestheevaluationofallcloseddiagramssoisanisomorphism.�Theorem5.3.Themap�3;+:P33334;+!P33334;�by�AB�7!M��A�B�whereM=0@p
+5
+2
+2p
+3+p
+5
+43p
+3�p
+5
+4�p
+5
+2
+21Agivesasymmetricself-dualityofplanaralgebras.Remark5.4.Itmightbepossibletochoosegeneratorssothat(A;B)7!(�A;�B)isalreadyasymmetricself-dualityofplanaralgebras,butitseemsthatonewouldhavetoworkinalargernumber�eldforthistobepossible.Proof.OnecaneasilyverifythatthismappreservesthemomentsgiveninAppendixB.2,sotheargumentfromtheproofofTheorem5.2applies.(Infact,wedothisveri�cationintheMathematicanotebookQuadraticTangles.nb.)Finally,notethatM2=1,so�n;���n;�=1n;�.�Theorem5.5.ThemapP22213;+$P22213;�swappingA$�AandB$�Bgivesasymmetricself-dualityofplanaralgebras.Proof.SimilartotheproofofTheorem5.2.�Note,however,thattheresultisnottruefor3311.Thisresulthasbeenknownsince[Kaw95],andwegiveanotherproofforcompleteness.Theorem5.6.P3311�isnotself-dual.Proof.Supposetherewereaself-duality�.Since�isamapofplanaralgebras,�mustpreservetheTemperley-LiebplanarsubalgebrasTLk;�andalsothelowweightspacesfortherotationinP33114;�.Sincetherotationaleigenvaluesare!A=�1and!B=1,weknowthat�(A)=��Aforsome�2C�.However,thisclearlyviolatesTr(A3)=1
+27��6�4p
+3�andTr(�A3)=0(seeAppendixB.3).�5.2.Identifyingprincipalgraphs.Theorem5.7.TheprincipalgraphsofP4442�are�
+;
+�:Proof.First,notethatthemodulusofthegivensubfactorplanaralgebraisp
+3+p
+5'2:28825.Let�denotetheprincipalgraph.UsingthemomentscalculatedfromourgeneratorsinAppendixB.1,we�ndallsolutionstotheequation(aA+bB+cf(5))2=aA+bB+cf(5)
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM27togetthattheminimalprojectionsonepastthebranchpointaregivenbytheequations:(a;b;c)=8>>>>>>>>>>>>>>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>:�(0:042252+0:036141i)332150625;�7418030625;60616258875;�208296167625;266656517775;�15736631400;328666680;13223880;190096;�(�0:011821�0:010111i)332150625;�7418030625;60616258875;�208296167625;266656517775;�15736631400;328666680;13223880;190096;1
+5��5+3p
+5��(�0:011821�0:010111i)332150625;�7418030625;60616258875;�208296167625;266656517775;�15736631400;328666680;13223880;190096;�(0:042252+0:036141i)332150625;�7418030625;60616258875;�208296167625;266656517775;�15736631400;328666680;13223880;190096;1
+5��5+3p
+5��(�0:030431�0:026030i)2025;45225;274635;16620;436;�(�0:030431�0:026030i)2025;45225;274635;16620;436;1
+5�15�6p
+5�:Notethatthedimensionsoftheseprojectionsagreewiththedimensionsoftheverticesonthe4442graph,soallthearmsontheprincipalgraph�mustcontinue.Twobranchescannotmergesince
+ˇ2:33743;nobranchcansplitsince
+ˇ2:31725;andnobranchcanhaveadoubleedgesince
+ˇ2:4761;andallofthesenumbersarealreadytoolarge.Henceallbranchescontinuesimply.BycountingFrobenius-Perrondimensions,onearmmuststop,buttheothertwomustcontinue.Again,thebranchescannotmergeorsplitas
+ˇ2:32033;
+ˇ2:29079;and
+ˇ2:41976:Again,bothbranchesmustcontinuesimply.Oncemorebycountingdimen-sions,thetworemainingarmsmustcontinue,andagaintheycannotmergeorsplitas
+ˇ2:30231;
+ˇ2:29193;and
+ˇ2:37309:
+28SCOTTMORRISONANDDAVIDPENNEYSWeconcludebycountingdimensionsagainthat�is4442.Thedualprincipalgraphisalso4442byTheorem5.2.Todeterminethedualdata,weruntheprogramFindGraphPartnersonthegraph whichdeterminesallpossiblepairsofprincipalgraphsanddualdataforwhichoneofthegraphsis4442.Theonlypossibilitiesforwhichtheprincipalanddualprincipalgraphareboth4442are�
+;
+�and�
+;
+�:Weruleoutthesecondpairbynotingthatthedimension1bimodulesformagroup,andthustheverticesatthefarrightmustbedualtoeachother.�IfwealreadyknewP4442�was�nitedepth,wecouldgiveanalternativeargumentidentifyingtheprincipalgraphas4442asfollows.Weomitdetails,asthisisredundantwiththeargumentinTheorem5.7.Theorem5.8.Theonly�nitedepthsubfactorprincipalgraphswithindex3+p
+5startinglike4111are4442.Proof.Ifanyoftheedgesabovethequadruplepointendimmediately,thatvertexhasdimensionwhichisnotanalgebraicinteger(arootof81�126x2+4x4).Otherwise,graphenumerationinthestyleof[MS12]showsthattwoofthelegsend,withlengths2,2orwithlengths2,3.Insecondcase,there'sadimensionwhichisn'tanalgebraicinteger.Intheothercase,thegraphcontains4422.(Therearetwopossibilitiesforthedualdata.)Wecanlookforconnectionsonthisgraph(withoutassumingthatitends),andshowthattherearenobi-unitaryconnections.�Theorem5.9.TheprincipalgraphsofP3333�are�
+;
+�:Proof.TheproofissimilartothatofTheorem5.7.Again,themodulusisp
+3+p
+5'2:28825,andwe�ndthattheminimalprojectionsonepastthebrancharegivenbyaA+bB+cf(4)where(a;b;c)=8>>>>>>><>>>>>>>: 1
+4��1+p
+5�;�p
+5
+6;1
+3!��1
+2;1
+12��3+p
+5�;1
+3��1
+4�3�p
+5�;1
+12�3+p
+5�;1
+3�:SinceTr(f(4))=6+3p
+5,alltheminimalprojectionshavetrace2+p
+5,whichagreewiththeFrobenius-Perrondimensionsoftheverticesof
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM29atdepth4.Onceagain,countingFrobenius-Perrondimensionsandnotingthat
+ˇ2:33441;
+ˇ2:31384;
+ˇ2:47485;
+ˇ2:31725;
+ˇ2:29813;and
+ˇ2:41856yieldstheresult.Thedualprincipalgraphisalso3333byTheorem5.3.Todeterminethedualdata,werunFindGraphPartnersasintheproofofTheorem5.7onthegraph
+:Theonlypossibilitiesforwhichtheprincipalanddualprincipalgraphareboth3333are�
+;
+�and�
+;
+�:Since!A=!B=1(seeAppendixA.2),thetwoclickrotationˆmustbetheidentityonP33334;+ TL4;+,andthusallverticesatdepth4mustbeself-dual.�Theorem5.10.TheprincipalgraphsofP3311�are�
+;
+�:Proof.SimilartotheproofsofTheorems5.7and5.9.Themodulusisp
+3+p
+3'2:17533,andtheminimalprojectionsaregivenbyaA+bB+cf(4)where(a;b;c)=8><>:��p
+3
+2;1
+11�4�3p
+3�;1
+11�1+2p
+3���1
+4�3�p
+3�;1
+22�7+3p
+3�;1
+11�5�p
+3���1
+4��3+3p
+3�;1
+22��15+3p
+3�;1
+11�5�p
+3��:SinceTr(f(4))=4+3p
+3,thetracesoftheminimalprojectionsare2+p
+3;1+p
+3;1+p
+3respectively,whichagreewiththeFrobenius-Perrondimensionsoftheverticesof
+30SCOTTMORRISONANDDAVIDPENNEYSatdepth4readingfrombottomtotop.Finally,
+ˇ2:33441;
+ˇ2:23607and
+ˇ2:47485:Hencetheprincipalgraphis3311.Forthedualgraph,notethattheminimalprojectionsinP4;�aregivenby�a�A+�b�B+�c�f(4)where(�a;�b;�c)=8>>>>>><>>>>>>:�0;1
+11q
+2�27�p
+3�;1
+11�1+2p
+3����1
+2q
+3
+2�3�p
+3�;�1
+11q
+1
+2�27�p
+3�;1
+11�5�p
+3���1
+2q
+3
+2�3�p
+3�;�1
+11q
+1
+2�27�p
+3�;1
+11�5�p
+3��:SinceTr(�f(4))=Tr(f(4)),thesameargumentasaboveapplies,andthedualprincipalgraphis3311.Todeterminethedualdata,wenotethereareonlytwopossibilitiesforeachgraph:eitherthesinglyvalentverticesatdepth4areself-dualortheyaredualtoeachother.Since!A=�1and!B=1(seeSubsectionA.3),weknowthatˆ2=1onP33114;+ TL4;+.Hencethesinglyvalentverticesmustbeselfdual.�Theorem5.11.TheprincipalgraphsofP2221�are�
+;
+�:Proof.SimilartotheproofofTheorems5.7,5.9,and5.10.Themodulusisq
+(5+p
+21)=2ˇ2:1889,andtheminimalprojectionsaregivenbyaA+bB+cf(3)where(a;b;c)=8>>>>>>>>>>>>>>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>:�(�0:0476+0:2030i)729;�4374;9477;�8586;2943;�270;153;�6;1;�(0:010242�0:025430i)455625;364500;1293975;�439020;1378809;119772;31257;�570;25;1
+10��1+p
+21��(0:02010�0:08568i)729;�4374;9477;�8586;2943;�270;153;�6;1;�(�0:05749+0:14274i)455625;364500;1293975;�439020;1378809;119772;31257;�570;25;1
+10��1+p
+21��(0:02753�0:11731i)9;54;66;�3;1;�(0:04725�0:11731i)225;�180;�294;27;�5;1
+5�6�p
+21�:
+CONSTRUCTINGSPOKESUBFACTORSUSINGTHEJELLYFISHALGORITHM31SinceTr(f(3))=p
+19+4p
+21,thetracesoftheminimalprojectionsareq
+5
+2+p
+21
+2;q
+5
+2+p
+21
+2;p
+3respectively,whichagreewiththeFrobenius-Perrondimensionsoftheverticesof atdepth3readingfrombottomtotop.Finally,
+ˇ2:32437;
+ˇ2:22158;and
+ˇ2:46991:Thedualprincipalgraphisalso2221byTheorem5.5.Finally,sincethedimensiononebimodulesformagroup,thedualdatamustbeasclaimed.�AppendixA.GeneratorsinthegraphplanaralgebraSpecifyinganelementofthegraphplanaralgebraofalargegraphcanbeasomewhatcumbersomeprocess;theelementisafunctiononloopsofacertainlengthonthegraph,andweneedtospecifyeachvalue.Fortunately,iftheelementisalowestweightvector,thiscanbesigni�cantlyabbreviated.Throughoutthissection,weassumethat�isaspokegraphwithm+1arms,andtheinitialarmisatleastaslongasanyoftheotherarms.(Thisobviouslyholdsforthegraphsinwhichweareinterested.)LemmaA.1.(1)AlowestweightvectorinA2G(�)n;+isdeterminedbyitsvalueson`collapsed'loopswhichstaywithindistanceoneofthecentralvertex.(2)Infact,itisdeterminedbyitsvaluesonsuchloopswhichneverenteroneofthespokesofourchoice.(3)Further,thevalueonanyloopwhichhasmorethan2k+1consecutiveverticeswhicheitherlieonaparticulararmofthegraphoflengthk�1orarethecentralvertexiszero.Proof.We'llworkinthesphericalgraphplanaralgebra,asitissomewhateasiertostatetherequisiteformulasthere.Obviouslythelemmaholdsinth
+
+<!-- PDF text truncated by scrapem max_pdf_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。

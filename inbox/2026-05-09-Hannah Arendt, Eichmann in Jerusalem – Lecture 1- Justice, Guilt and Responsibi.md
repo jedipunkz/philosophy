@@ -7,7 +7,7 @@ publication: ""
 download: "https://philarchive.org/archive/BUEHAE"
 pdf: "https://philpapers.org/archive/BUEHAE.pdf"
 captured_at: "2026-05-09T07:25:17Z"
-updated_at: "2026-05-09T11:36:38Z"
+updated_at: "2026-05-09T13:12:49Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
@@ -26,6 +26,15 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/BUEHAE)
 - ダウンロード: https://philarchive.org/archive/BUEHAE
 - PDF: https://philpapers.org/archive/BUEHAE.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ハンナ・アーレント-現代研究動向|ハンナ・アーレント-現代研究動向]]
+- キーワード: [[ハンナ・アーレント]]
+- 関連分野: [[政治哲学]]
+- 関連分野: [[現代思想]]
+- 関連分野: [[全体主義]]
+- 関連タグ: #政治哲学 #現代思想 #全体主義
 
 ## Abstract
 
@@ -170,8 +179,7 @@ and judging
 
 Today
 ’
-s lecture is divided into f
-our
+s lecture is divided into f our
 
 sections. First, we briefly review Arendt
 ’
@@ -211,17 +219,14 @@ was
 Hannah Arendt? Hannah Arendt was born
 to a Jewish family
 
-i
-n Hannover
+i n Hannover
 (Germany)
-i
-n 1906
+i n 1906
 .
 
 She studied
 
-at Marburg University where she me
-t
+at Marburg University where she me t
 
 Karl Jaspers
 who
@@ -231,15 +236,12 @@ her PhD supervisor.
 Karl Jaspers
 was
 
-well
--
-known German existentialist
+wellknown German existentialist
 philosopher
 who first studied psychiatry before turning to philosophy.
 From 1926 to 1927,
 Arendt was a
-student at Freiburg University where she me
-t
+student at Freiburg University where she me t
 
 Martin Heidegger
 
@@ -251,8 +253,7 @@ she had a love affair
 
 In 1929,
 Arendt
-complet
-e
+complet e
 d
 
 her doctoral dissertation on the concept of love in Saint
@@ -268,8 +269,7 @@ the Nazis came to power
 and Arendt was arrested in Berlin.
 But
 
-she manage
-d
+she manage d
 
 to
 
@@ -288,12 +288,9 @@ politics
 by becoming
 
 a
-secretary
--
-general of Youth Aliyah, a Zionist project
+secretarygeneral of Youth Aliyah, a Zionist project
 
-that help
-ed
+that help ed
 
 European Jews
 
@@ -309,16 +306,14 @@ was
 
 again
 detained
-i
-n
+i n
 1940
 .
 
 L
 uckily
 , she
-escape
-d
+escape d
 
 to New York
 
@@ -333,8 +328,7 @@ in
 For 10 years,
 
 Arendt
-live
-d
+live d
 
 as a
 
@@ -353,8 +347,7 @@ statelessness is central to her thinking.
 Once an American citizen in 1951
 , she
 
-start
-ed
+start ed
 
 working
 at several
@@ -379,19 +372,15 @@ this short
 biography in mind,
 
 let us recall some of
-her major w
-ritings
+her major w ritings
 . Arendt
 was
-incredibly pro
-lific
+incredibly pro lific
 
 throughout her academic career.
 Her
 
-most well
--
-known
+most wellknown
 books
 
 include,
@@ -468,12 +457,9 @@ Arendt
 ’
 s Methodology
 
-The Death of Socrates, Jacques
--
-Louis David (1787)
+The Death of Socrates, JacquesLouis David (1787)
 
-How did Arend
-t
+How did Arend t
 
 approach
 her
@@ -484,8 +470,7 @@ these
 subjects?
 
 In other words
-, w
-hat
+, w hat
 
 was her
 method
@@ -524,11 +509,9 @@ an interview with G
 ü
 nther Gaus, a German journalist,
 Arendt
-reveal
-ed
+reveal ed
 that she
-d
-id
+d id
 
 not consider herself
 
@@ -552,8 +535,7 @@ philosopher, nor do I believe that I
 have been accepted in the
 [profession of
 
-philosoph
-y]
+philosoph y]
 , as you so
 
 kindly
@@ -561,9 +543,7 @@ kindly
 suppose
 
 […] I
-have said good
--
-bye to
+have said goodbye to
 philosophy once and for all
 
 […]
@@ -590,8 +570,7 @@ tension that does
 
 not exist in natural philosophy, for example. Like everyone else, the
 
-philosopher can be objective with regard t
-o
+philosopher can be objective with regard t o
 
 nature, and when he says
 
@@ -604,8 +583,7 @@ regard to politics. Not since Plato!
 […]
 There is a kind of enmity against all politics in most
 
-philosophers, with very few exceptions. Kant is an exception. This enmity is ex
-tremely
+philosophers, with very few exceptions. Kant is an exception. This enmity is ex tremely
 important for the whole problem, because it is not a
 
 personal question. It lies in the
@@ -670,8 +648,7 @@ offending the Gods and
 corrupting the youth
 ,
 Socrates was
-ultimatel
-y
+ultimatel y
 
 sentenced
 to death
@@ -710,15 +687,13 @@ politicians
 
 but by
 
-philosopher
-s
+philosopher s
 
 instead
 .
 
 For Arendt, the tragedy of the trial lay in the fact that Socrates, who believed in the
-i
-nterrelationship
+i nterrelationship
 
 between philosophy and politics, could neither convince the polis of the
 benefits of philosophy nor
@@ -740,8 +715,7 @@ split
 between philosophy and politics
 (Arendt, 1960b, p. 024807)
 .
-Arguably, t
-his
+Arguably, t his
 split
 
 still exists today, when philosophy
@@ -800,8 +774,7 @@ In response, Jaspers
 recommended
 her
 
-to not be too c
-ontroversial
+to not be too c ontroversial
 .
 
 Knowing Arendt and
@@ -834,8 +807,7 @@ between political philosophy and political theory
 
 a step further
 . She
-differentiate
-s
+differentiate s
 ‘
 philosophers
 ’
@@ -846,8 +818,7 @@ from political theorists, arguing that the former
 
 since
 
-Plat
-o
+Plat o
 –
 
 not
@@ -859,9 +830,7 @@ They
 also
 ]
 
-want to impose non
--
-political standards on politics
+want to impose nonpolitical standards on politics
 ”
 
 (Arendt, 1965, p. 023453)
@@ -876,8 +845,7 @@ p. 023453)
 .
 
 To understand
-th
-is difference,
+th is difference,
 it is helpful to examine Arendt
 ’
 s conception of politics.
@@ -920,9 +888,7 @@ public space
 
 into which
 
-each of the free
--
-men could
+each of the freemen could
 insert himself by word and deed
 ”
 
@@ -942,12 +908,9 @@ in communal life
 
 So,
 
-what are the non
--
-political standards that philosophers
+what are the nonpolitical standards that philosophers
 like Plato
-want
-ed
+want ed
 
 to impose
 on politics?
@@ -979,8 +942,7 @@ concept of politics
 
 Socrates
 
-accept
-ed
+accept ed
 his
 
 death
@@ -988,8 +950,7 @@ sentence
 
 to
 
-preserv
-e
+preserv e
 
 the common
 public space
@@ -1000,9 +961,7 @@ philosophers and, on the other hand, the polis
 .
 
 Rather than freedom Plato
-s
-ough
-t
+s ough t
 
 justice
 and
@@ -1029,14 +988,12 @@ hile
 political theorists
 describe their political experience
 
-a
-nd judge the conditions under which
+a nd judge the conditions under which
 they come
 about
 ,
 
-political philosoph
-ers
+political philosoph ers
 
 engage in
 
@@ -1059,13 +1016,11 @@ wanted to teach wisdom
 . You can
 ’
 t demand the same standards of consistency because
-this is not important from them. There is an atmosphere and a con
-sistency of thinking,
+this is not important from them. There is an atmosphere and a con sistency of thinking,
 
 6
 
-approaching things; there are fundamental convictions but there are no system
-s
+approaching things; there are fundamental convictions but there are no system s
 ”
 
 (Arendt, 1965, p. 023453)
@@ -1169,22 +1124,14 @@ and historical materialism, which belong
 –
 
 but: Can we find
-from their deeds and the occasi
-onal accompanying words the underlying theoretical
+from their deeds and the occasi onal accompanying words the underlying theoretical
 assumptions? Where do we find this? In the sources.
 
 What are the sources:
 1. Official
-p
-ronouncements
+p ronouncements
 […]
-. 2. Not
--
-so
--
-official pronouncements: Table
--
-talks
+. 2. Notsoofficial pronouncements: Tabletalks
 –
 
 discussion at
@@ -1217,11 +1164,9 @@ spelled out but clouded in ideological propaganda
 .
 
 Following
-th
-ese
+th ese
 
-distinction
-s
+distinction s
 ,
 Eichmann in Jerusalem
 
@@ -1257,8 +1202,7 @@ Sassen and Eichmann
 .
 Besides consulting written documents,
 Arendt also
-spen
-t
+spen t
 
 29 out of 121 days at the trial
 
@@ -1279,8 +1223,7 @@ Liberation of Auschwitz Concentration Camp (27 January 1945)
 
 Before discussing the first two chapters of
 Eichmann in Jerusalem
-, l
-et me
+, l et me
 
 offer some
 broader reflections on Arendt
@@ -1290,11 +1233,9 @@ s work
 Arendt
 argues
 
-that the Shoa
-h
+that the Shoa h
 
-mark
-s
+mark s
 
 a
 
@@ -1307,15 +1248,12 @@ the Western
 philosophical
 
 tradition.
-This is because t
-he
-horro
-r
+This is because t he
+horro r
 s
 
 committed by
-the Nazis were s
-o
+the Nazis were s o
 brutal
 
 that all previous
@@ -1324,8 +1262,7 @@ philosophy
 needed to be questioned
 .
 For
-Arend
-t
+Arend t
 ,
 it seemed impossible to
 
@@ -1334,8 +1271,7 @@ the Shoah
 
 by
 merely
-re
-lying on
+re lying on
 
 the traditional
 
@@ -1356,14 +1292,12 @@ is
 
 convinced that
 
-w
-e need to think anew.
+w e need to think anew.
 
 For her
 ,
 the Shoah
-demand
-s
+demand s
 
 a reorientation of philosophy: the question
 of evil
@@ -1411,8 +1345,7 @@ argued
 ,
 
 with
-re
-gard,
+re gard,
 
 to
 
@@ -1442,8 +1375,7 @@ of the Foundation of the State of Israel
 
 Foundation of the State of Israel (14 May 1948)
 
-Despite these difficulties Arendt did not shy away from judg
-ement
+Despite these difficulties Arendt did not shy away from judg ement
 .
 Eichman was not her
 only target.
@@ -1453,10 +1385,7 @@ Jewish complicity.
 To better understand the
 great controversy this triggered, it is important to understand that Arendt had already
 previously alienated the Jewish public. Contrary to prevailing Jewish opinion, she strongly
-rejected a sovereign Jewish nation
--
-state based on t
-he ideas of Theodor Herzl
+rejected a sovereign Jewish nationstate based on t he ideas of Theodor Herzl
 . She was
 
 instead
@@ -1481,9 +1410,7 @@ eternal
 
 global antisemitism and
 therefore in the
-“[…] absolute necessity of a full
--
-fledged sovereign Jewish state […]
+“[…] absolute necessity of a fullfledged sovereign Jewish state […]
 
 [
 whereas
@@ -1586,11 +1513,9 @@ s failure to come to terms with the past
 
 The
 big
-c
-ontroversy
+c ontroversy
 centred
-on t
-he first three
+on t he first three
 and primarily the third theme.
 
 Arendt
@@ -1638,8 +1563,7 @@ In
 her
 
 view
-, m
-any of the points raised in
+, m any of the points raised in
 
 the trial
 were
@@ -1650,9 +1574,7 @@ the trial
 was set up
 with the aim
 of
-state
--
-building
+statebuilding
 
 (Renz,
 2021, p. 80 ebook)
@@ -1662,9 +1584,7 @@ For
 Arendt,
 
 state politics and justice
-mus
-t, however, b
-e
+mus t, however, b e
 
 separated
 .
@@ -1712,8 +1632,7 @@ sphere
 .
 
 Moreover,
-Arendt also criticise
-s
+Arendt also criticise s
 
 the exaggeration of Eichmann
 ’
@@ -1773,9 +1692,7 @@ What was the role of other nations?
 
 and
 ‘
-What was the extent of co
--
-responsibility on the side of the Allies?
+What was the extent of coresponsibility on the side of the Allies?
 ’
 
 of
@@ -1821,9 +1738,7 @@ who stands
 before us.
 She goes on: “
 On trial are his deeds, not the sufferings of the Jews, not the German people
-nor mankind, not even anti
--
-Semitism and racism… And justice… proves to be a much
+nor mankind, not even antiSemitism and racism… And justice… proves to be a much
 sterner master than the Prime Minister with all his power”
 
 (Arendt, 2022, p. 60 ebook)
@@ -1839,14 +1754,11 @@ stance
 and moved
 
 from
-non
--
-engagement to intervention. In “Personal Responsibility under Dictatorship”, she
+nonengagement to intervention. In “Personal Responsibility under Dictatorship”, she
 writes:
 “[a]s this went on, however, and as, especially in its later stages, there were more
 and more voices who not only attacked me for what I had never said but, on the contrary,
-began to defend me for it, it dawned on me that there might be more to this slight
-ly eerie
+began to defend me for it, it dawned on me that there might be more to this slight ly eerie
 
 exercise than sensation or entertainment. It seemed
 to me also that more than
@@ -1863,9 +1775,7 @@ authentic breakdown of communication between author and reader
 –
 
 and
-more too than the distortions and falsi
-fi
-cations of interest groups
+more too than the distortions and falsi fi cations of interest groups
 
 […]. The controversy
 invariably raised all kinds of strictly moral issues, many of which had never occurred to
@@ -1875,8 +1785,7 @@ account
 of the trial, and even the book
 ’
 s subtitle, A Report on the Banality of Evil, seemed
-to me so glaringly borne out by the facts of the case t
-hat I felt it needed no
+to me so glaringly borne out by the facts of the case t hat I felt it needed no
 
 further
 explanation. […] I had somehow taken it for granted that we all still believe with Socrates
@@ -1902,14 +1811,12 @@ judgement
 She tries to make sense of this crisis by posing two
 
 questions
-: First, h
-ow can
+: First, h ow can
 one judge
 an event from the past
 
 at which one was not
-present, and second, h
-ow can one
+present, and second, h ow can one
 tell right from wrong when everyone else believes in one answer
 ?
 (Arendt, 2009a, p. 69
@@ -1936,8 +1843,7 @@ better.
 
 However, the
 
-cris
-i
+cris i
 s
 does
 
@@ -1954,8 +1860,7 @@ it
 
 has its
 
-primary source i
-n
+primary source i n
 
 the
 
@@ -1964,8 +1869,7 @@ concept of collective guilt
 that
 Eichmann
 regularly
-appeal
-ed
+appeal ed
 to
 
 in the trial
@@ -1996,8 +1900,7 @@ nobody is. Guilt unlike responsibility always singles out; it is strictly person
 
 But this wasn’t the first time Arendt expressed this idea.
 Eighteen years before the
-Eichmann trial, s
-he
+Eichmann trial, s he
 had
 already attempted
 
@@ -2016,8 +1919,7 @@ in the last analysis can be judged
 and
 thus,
 
-justice can
-not
+justice can not
 prevail
 
 (Arendt, 1994, p. 265
@@ -2028,8 +1930,7 @@ The essay
 ,
 
 which
-first appeared i
-n the journal Jewish Frontier,
+first appeared i n the journal Jewish Frontier,
 starts with a
 
 stark
@@ -2060,8 +1961,7 @@ dilute their
 own personal responsibility.
 For
 her
-, this strategy w
-as
+, this strategy w as
 successful
 
 for three reasons.
@@ -2084,30 +1984,25 @@ dissidents
 (Arendt, 1994, p. 259 ebook)
 ;
 
-s
-econd, because their
+s econd, because their
 control
 was so totalitarian that
 many
 individuals
 
-w
-ere
+w ere
 
 coerced
 
 to commit the most heinous crimes
 ;
 
-and t
-hird, because the
-Allies fell for this narrative a
-nd contributed
+and t hird, because the
+Allies fell for this narrative a nd contributed
 
 to it
 
-with generalising slogan
-s
+with generalising slogan s
 
 such as
 “O
@@ -2118,12 +2013,10 @@ dead German is a good German
 (Arendt, 1994, p. 260 ebook)
 .
 
-After laying out th
-e
+After laying out th e
 
 three
-reasons, s
-he concludes: “
+reasons, s he concludes: “
 These are the real political conditions which underlie the
 charge of collective guilt of the German people”
 
@@ -2137,12 +2030,9 @@ collective guilt is based
 
 on the
 “
-c
-og in the
-s
-ystem”
-a
-rgument
+c og in the
+s ystem”
+a rgument
 . She offers and discusses
 three different formulations. First, as
 
@@ -2150,8 +2040,7 @@ everyone is merely a replaceable cog in the system,
 no one bears personal responsibility.
 
 Her
-respon
-se to the first formulation is as follows:
+respon se to the first formulation is as follows:
 
 if the accused appeals to the
 “cog in the system”
@@ -2168,14 +2057,11 @@ The second formulation is
 that
 ,
 
-i
-n dictatorship
-s
+i n dictatorship s
 ,
 
 all personal responsibility lies solely with
-the leader. Arendt also rejects this formulation, because dictatorship
-s
+the leader. Arendt also rejects this formulation, because dictatorship s
 
 require
 obedience, and
@@ -2198,11 +2084,9 @@ individual freedoms
 
 by dictators give them free reign
 .
-For her, dictator
-s
+For her, dictator s
 
-cannot achieve much without th
-is
+cannot achieve much without th is
 
 tacit
 support of the masses
@@ -2251,8 +2135,7 @@ victims of our circumstances
 .
 
 Although Arendt
-acknowledges the relevance of circumstances for judg
-e
+acknowledges the relevance of circumstances for judg e
 ment, she argues that
 circumstances only mitigate,
 
@@ -2261,20 +2144,17 @@ but do
 not eliminate, personal responsibility.
 Due to its
 focus on the
-persona
-l
+persona l
 
 dimension
 , Arendt considers legal
-jud
-g
+jud g
 ements
 ,
 if not politically
 hijacked
 , to be a good reference framework for moral
-jud
-g
+jud g
 ements
 
 (Arendt, 2009a, p. 74
@@ -2299,8 +2179,7 @@ She
 
 works out
 
-t
-hree
+t hree
 
 necessary
 
@@ -2312,8 +2191,7 @@ the former concept
 (Arendt, 2009a, p. 293 ebook)
 :
 
-o
-ne
+o ne
 bears collective responsibility, (1) if one
 did not
 commit the wrongdoing oneself
@@ -2349,12 +2227,10 @@ includes the community
 s past actions
 
 (Arendt, 2009a, p. 84 ebook)
-, i
-t
+, i t
 has also
 become a
-natural
-ised
+natural ised
 
 burden
 .
@@ -2365,9 +2241,7 @@ bear
 this responsibility simply by being born.
 In
 a world
-of nation
--
-states
+of nationstates
 ,
 
 only some
@@ -2384,8 +2258,7 @@ for anything
 While
 everyone else
 
-bear
-s
+bear s
 
 collective responsibility under Arendt’s conception
 , this does not
@@ -2426,13 +2299,11 @@ when
 
 German
 
-soldier
-s
+soldier s
 
 commit
 
-crime
-s
+crime s
 .
 Second, the
 political
@@ -2458,11 +2329,9 @@ claiming to act
 
 on behalf of all
 
-German
-s
+German s
 
-commit
-s
+commit s
 
 a crime.
 
@@ -2500,8 +2369,7 @@ as well as responsible
 without
 
 being guilty,
-he
-r
+he r
 
 claim that someone can be guilty without
 being
@@ -2540,8 +2408,7 @@ statement
 that
 all Europeans
 who
-applaud
-ed
+applaud ed
 
 the Nazis were responsible.
 Arendt
@@ -2556,8 +2423,7 @@ responsibility here.
 The former can be understood
 to
 
-characteris
-e
+characteris e
 
 a deed that would not
 render someone guilty
@@ -2568,8 +2434,7 @@ but only because it demonstrates support
 for
 someone
 
-who i
-s guilty of a crime
+who i s guilty of a crime
 
 and therefore bears direct
 
@@ -2588,21 +2453,17 @@ types
 First, the
 guilty: e.g., Eichmann, who
 committed a wrongdoing by
-organi
-sing
+organi sing
 
 the transports to the
 concentration camps. Second, the innocent: e.g., Jaspers, who
 
 gave up his professorship
-in an act of non
--
-participation
+in an act of nonparticipation
 
 instead of
 
-swear
-ing
+swear ing
 
 allegiance to the Nazis. Third, the
 heroes: e.g., the Scholl siblings, who, as part of the
@@ -2640,18 +2501,14 @@ participate
 However
 , for her,
 
-non
--
-participation does not
+nonparticipation does not
 equal resistance
 
 (Arendt, 2009a, p. 305 ebook)
 ;
 most of the time
 , those who do not
-participate simply need to remain passive. Their non
--
-participation has moral, not
+participate simply need to remain passive. Their nonparticipation has moral, not
 political, reasons: they do not want to commit
 a wrongdoing
 themselves.
@@ -2682,8 +2539,7 @@ active
 
 resistance, even if
 this
-c
-ould
+c ould
 mean their
 
 own death
@@ -2696,9 +2552,7 @@ a prerequisite
 
 for
 active
-resistance, non
--
-participation in
+resistance, nonparticipation in
 wrongdoing
 
 lies
@@ -2720,8 +2574,7 @@ Referring to
 Socrates, Arendt argues that the
 standard for moral judgement is the self
 :
-i
-f we follow our
+i f we follow our
 conscience, we morally reject killing because we do not want to live with a murderer
 
 (Arendt, 2009a, p. 113f. ebook)
@@ -2732,8 +2585,7 @@ the
 
 most
 morally
-reliabl
-e
+reliabl e
 individuals
 are not those who
 follow every
@@ -2777,8 +2629,7 @@ this made his
 
 evil
 
-banal. We will explore th
-is
+banal. We will explore th is
 
 idea further in our
 next lecture.
@@ -2890,10 +2741,7 @@ r Begriffsgeschichte
 189.
 
 Renz, W. (2021)
-ad Hannah Arendt
--
-
-Eichmann in Jerusalem: Die Kontroverse um den
+ad Hannah ArendtEichmann in Jerusalem: Die Kontroverse um den
 Bericht
 ‘
 von der Banalit

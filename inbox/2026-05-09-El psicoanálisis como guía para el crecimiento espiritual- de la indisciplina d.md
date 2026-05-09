@@ -7,7 +7,7 @@ publication: "Dilemas Contemporáneos: Educación, Política y Valores (1) ( 202
 download: "https://philarchive.org/archive/RODEPC-5"
 pdf: "https://philpapers.org/archive/RODEPC-5.pdf"
 captured_at: "2026-05-09T08:07:45Z"
-updated_at: "2026-05-09T11:39:07Z"
+updated_at: "2026-05-09T12:59:09Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
@@ -25,6 +25,13 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/RODEPC-5)
 - ダウンロード: https://philarchive.org/archive/RODEPC-5
 - PDF: https://philpapers.org/archive/RODEPC-5.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ユング-現代研究動向|ユング-現代研究動向]]
+- キーワード: [[ユング]]
+- 関連分野: [[現代思想]]
+- 関連タグ: #現代思想
 
 ## Abstract
 
@@ -73,8 +80,7 @@ del 20
 TÍTULO:
 
 El psicoanálisis como guía para el crecimiento espiritual:
-d
-e la indisciplina del cuerpo
+d e la indisciplina del cuerpo
 hacia la vida en sociedad
 .
 
@@ -88,8 +94,7 @@ AUTOR:
 RESUMEN
 :
 
-Es
-ta
+Es ta
 
 investigación intenta compartir la experiencia de la enseñanza del psicoanálisis
 como autoayuda y crecimiento espiritual
@@ -116,8 +121,7 @@ Psicoanálisis, Freud, Alfred Adler, Jung, crecimiento espiritual.
 TITLE:
 
 Psychoanalysis as a guide for spiritual growth:
-f
-rom the indiscipline of the body to life in
+f rom the indiscipline of the body to life in
 society
 .
 
@@ -130,9 +134,7 @@ aster
 
 ABSTRACT:
 
-This research tries to share the experience of teaching psychoanalysis as self
--
-help and
+This research tries to share the experience of teaching psychoanalysis as selfhelp and
 spiritual growth for both the teacher and the student. To do this,
 it
 
@@ -163,45 +165,35 @@ en otras palabras, debe fungir el profesor como el mesías de lo que enseña
 no existe otra forma
 verdaderamente efectiva. Evidentemente, existen ciertos saberes que permiten un grado de
 distanciamiento, pero cuando la asignatura atañe al conocimiento del alma, tal empresa es imposible.
-Comparto en esta investigación mis experienc
-ias como profesor de la asignatura Filosofía y
+Comparto en esta investigación mis experienc ias como profesor de la asignatura Filosofía y
 Psicoanálisis. En especial intentaré demostrar cómo la pregunta por el fundamento del accionar
 humano en el psicoanálisis se puede reflejar en el autoconocimiento del estudiante: desde la
-indisciplina de las p
-ulsiones hasta la vida en sociedad.
+indisciplina de las p ulsiones hasta la vida en sociedad.
 
 Si bien la hipótesis de la importancia del otro en psicoanálisis es ampliamente trabajada por Lacan
 (Fink, 1996)
-, y por s
-us discípulos
+, y por s us discípulos
 (Laplanche, 1992)
 , es menos investigado el movimiento desde el
 egoísmo pulsional freudiano hasta teorías de profunda determinación social en Alfred Adler y Carl
 G
 ustav Jung. Si bien existe abundante literatura tanto de psicología individual (Adler) como de
 psicología analítica (Jung), se suelen presentar ya sea como escuelas independientes o como parte del
-psicoanálisis. El enfoque que se propone acá no es ni uno n
-i otro, sino presentar a ambos sistemas
+psicoanálisis. El enfoque que se propone acá no es ni uno n i otro, sino presentar a ambos sistemas
 como consecuencia de la visión naturalista y reduccionista de Freud, que reduce lo social a mero
 epifenómeno del dualismo pulsional
 ; o
 
 sea, esta investigación se enfrenta al problema de cómo
-presentar la cura psicote
-rapéutica de Adler y Jung como alternativa a la psicoterapia reduccionista de
+presentar la cura psicote rapéutica de Adler y Jung como alternativa a la psicoterapia reduccionista de
 Sigmund Freud.
 
 La íntima relación entre las teorías de Freud, Adler y Jung, es una asignatura pendiente para los
 estudiosos de la psicología profunda. Si bien con respecto
 al
-dif
-erendo Freud
--
-Jung existe literatura
+dif erendo FreudJung existe literatura
 (Vandermeersch, 1991)
-, no se puede afirmar lo mismo con respecto al diferendo Freud
--
-Adler, ni
+, no se puede afirmar lo mismo con respecto al diferendo FreudAdler, ni
 mucho menos con
 respecto a una investigación que proponga a Adler y Jung en alianza teórica para
 superar las limitaciones biologicistas del psicoanálisis.
@@ -213,8 +205,7 @@ Ellenberger
 (
 1976)
 
-desde su invest
-igación arroja algunas pistas del carácter social que le
+desde su invest igación arroja algunas pistas del carácter social que le
 imprimen tanto Jung como Adler a su cura de las neurosis. También
 Hillman
 
@@ -226,8 +217,7 @@ síntesis de los principales elementos comunes entre ambos, solo que desde el pu
 propia psicología como superación de las
 anteriores
 . Otros textos con este enfoque propuesto, son
-bastante escasos, entre otras cosas, porque no ex
-iste un consenso de qui
+bastante escasos, entre otras cosas, porque no ex iste un consenso de qui
 é
 nes son los disidentes del
 psicoanálisis y quiénes son sus padres fundadores. El propio
@@ -237,19 +227,15 @@ Hillman
 2012, p. 247)
 
 reconoce, por
-e
-jemplo, la poca importancia que se le da a Adler como elemento central de
+e jemplo, la poca importancia que se le da a Adler como elemento central de
 lo
 que él llama el
 “triunvirato” de la psicología profunda.
 
-Por todo lo anterior, es bastante difícil construir un estado del arte de este tema tan poco estudia
-do
+Por todo lo anterior, es bastante difícil construir un estado del arte de este tema tan poco estudia do
 ;
 
-n
-o obstante, las p
-ropias teorías de los pensadores aportarán la evidencia necesaria para observar el
+n o obstante, las p ropias teorías de los pensadores aportarán la evidencia necesaria para observar el
 distanciamiento con respecto a Freud, así como su importancia pedagógica para el crecimiento
 espiritual del individuo que las estudia.
 
@@ -274,8 +260,7 @@ así como
 a
 
 su
-crítica sobre la conce
-pción naturalista de la etiología de las neurosis en Freud. En la asignatura
+crítica sobre la conce pción naturalista de la etiología de las neurosis en Freud. En la asignatura
 Filosofía y Psicoanálisis, el ámbito de acción es mucho más amplio, pero la relación entre dichas
 teorías constituye la columna esencial sobre la cual se levanta
 
@@ -285,21 +270,17 @@ autocrecimiento espiritual del
 estudiante.
 
 En primer lugar,
-s
-e debe ofrecer un estudio detallado de la etiología de las neurosis en Sigmund Freud.
+s e debe ofrecer un estudio detallado de la etiología de las neurosis en Sigmund Freud.
 El enfoque propuesto es filosófico
 ;
 
 si bien se está tratando con temas concernientes a la psiquiatría,
-la fi
-losofía solo se puede acercar a ellos desde el punto de vista de las consecuencias epistemológicas,
+la fi losofía solo se puede acercar a ellos desde el punto de vista de las consecuencias epistemológicas,
 ontológicas y éticas (entre otras) del fenómeno del psicoanálisis. Otro tanto se puede decir de las
-neurosis que solo interesan aquí como manifestaciones de
-l desequilibrio de la naturaleza interna del
+neurosis que solo interesan aquí como manifestaciones de l desequilibrio de la naturaleza interna del
 hombre y las convenciones sociales (ambas de particular determinación en cada uno de los tres
 pensadores). Tal enfoque, independientemente del aporte de Adler y Jung, queda también resumido
-en la obra del psicól
-ogo marxista Erich Fromm en sus obras (principalmente) Psicoanálisis de la
+en la obra del psicól ogo marxista Erich Fromm en sus obras (principalmente) Psicoanálisis de la
 sociedad contemporánea
 (Fromm, 1964)
 
@@ -310,12 +291,10 @@ Este es el enfoque propuesto en esta investigación respecto al concepto de neur
 
 …la misma
 persona que se considera sana en las categorías de un mundo enajenado, desde el punto de vista
-humanístico parece la más enferma, aunque no de una enfermedad ind
-ividual, sino de un defecto
+humanístico parece la más enferma, aunque no de una enfermedad ind ividual, sino de un defecto
 socialmente moldeado. La salud mental, en el sentido humanista, se caracteriza por la capacidad para
 amar y para crear, por la liberación de los vínculos incestuosos con la familia y la naturaleza, por un
-sentido de identidad ba
-sado en el sentimiento del yo que uno tiene como sujeto y agente de sus
+sentido de identidad ba sado en el sentimiento del yo que uno tiene como sujeto y agente de sus
 potencias, por la captación de la realidad interior y exterior a nosotros
 ;
 
@@ -335,23 +314,19 @@ incestuosos con la familia y la naturaleza (Freud y el psicoanálisis)
 ,
 
 se debe pasar también a fomentar
-el sentimie
-nto del yo y sus potencialidades (Adler y su psicología individual)
+el sentimie nto del yo y sus potencialidades (Adler y su psicología individual)
 ,
 
 y sobre todo, a un
 correcto discernimiento de la realidad interior y exterior (Jung y la psicología analítica); todo con el
-objetivo de lograr una salud mental y un genuino sentido humani
-sta que fomente la capacidad de
+objetivo de lograr una salud mental y un genuino sentido humani sta que fomente la capacidad de
 amar y crear, quizás el más íntimo y constitutivo sentido de la condición humana.
 
 Aclaradas entonces
 las
 
 cuestiones terminológicas, esta investigación se levantará desde el edificio
-freudiano, argumentando que el pilar funda
-mental de
-l
+freudiano, argumentando que el pilar funda mental de l
 
 psicoanálisis es su “Teoría de las Pulsiones”.
 Si un olfato filosófico decide buscar tesoros de valor en el psicoanálisis se puede sentir tentado a
@@ -362,19 +337,16 @@ Freud, 1986a)
 
 pero pronto concluirá que dicha teoría metaconceptual y universalizadora no recorre
 todo el dramático camino del psicoanálisis, sino que recoge un momento de transición entre dualismos
-pulsionales que va
-n
+pulsionales que va n
 
-desde 1914 hasta 1919. Si bien la concepción metaps
-icológica es un eje
+desde 1914 hasta 1919. Si bien la concepción metaps icológica es un eje
 fundamental, en realidad descansa sobre la teorización acerca de las pulsiones que existía, incluso, en
 el período neurofisiológico
 
 (pre psicoanalítico)
 
 de Freud
-; p
-or ello
+; p or ello
 ,
 
 el concepto fundamental
@@ -390,8 +362,7 @@ su Proyecto de Psicología
 
 de 1895
 (Freud, 1986e)
-. Aquí, desde una p
-osición cercana a lo que el siglo XIX llamó “mitología del
+. Aquí, desde una p osición cercana a lo que el siglo XIX llamó “mitología del
 cerebro”
 (Ellenberger, 1976, p. 541)
 , elabora una visión fisiologista del fenómeno psíquico
@@ -401,8 +372,7 @@ los sentidos, pero no puede evitar lo que Freud llama “Q endógenas” que se 
 sed, y pulsión sexual
 .
 
-Esta concepción hallará su expr
-esión acabada en el primer dualismo pulsional
+Esta concepción hallará su expr esión acabada en el primer dualismo pulsional
 de 1905.
 
 Con Tres ensayos de teoría sexual
@@ -416,19 +386,16 @@ Freud
 dividirá en embate pulsional entre “pulsiones de
 autoconservación” y “
 pulsiones sexuales”
-; e
-n donde las primeras tendrán meta y objeto fijo, pero las
+; e n donde las primeras tendrán meta y objeto fijo, pero las
 segundas, en su variabilidad de meta y objeto, constituyen “la única fuente energética constante de
 las neurosis (p. 148)
-, q
-uedando así definida la neurosis (a groso modo) como
+, q uedando así definida la neurosis (a groso modo) como
 
 un desequilibrio entre
 las pulsiones de autoconservación (que de una forma general condensan las exigencias sociales) y las
 pulsiones sexuales que buscan descargarse de la manera más eficientemente posible,
 sin importar
-cuánto atenten con la autoconservac
-ión del individuo en sociedad.
+cuánto atenten con la autoconservac ión del individuo en sociedad.
 
 Si bien con los Tres Ensayos, la teoría psicoanalítica tenía cierta completitud y capacidad heurística
 (Haute
@@ -442,8 +409,7 @@ del Narcisismo
 
 se comienza a evidenciar que este dualismo pulsional propuesto no
 es tan efectivo como se pensaba. Se reconoce ahora una cierta cantidad de libido (suerte de energía
-sexual en Freud) en el yo en dos momentos: en el “narcisismo primario”, un momento necesa
-rio en
+sexual en Freud) en el yo en dos momentos: en el “narcisismo primario”, un momento necesa rio en
 el proceso de desarrollo sexual
 ,
 
@@ -457,8 +423,7 @@ Pontalis, 1996, pp. 230
 232)
 . Con esta acotación, el psicoanálisis abre el
 mencionado proceso de conceptualización metapsicológica, y aún desde aquí, todos los elementos
-psicoan
-alíticos podían ser evidenciados en la clínica
+psicoan alíticos podían ser evidenciados en la clínica
 , en la práctica psicoanalítica.
 
 C
@@ -492,8 +457,7 @@ Simanke, 2011)
 Por fortuna, aquello que se convierte en un problema en el psicoanálisis, es una bendición para la
 filosofía
 
-y para su en
-señanza en relación con el psicoanálisis
+y para su en señanza en relación con el psicoanálisis
 ,
 pues
 
@@ -508,18 +472,15 @@ cultura
 
 (Freud, 1986d)
 
-de 1927 y 1929 respectivamente. Con ellas se c
-ierra el sistema freudiano, y la
+de 1927 y 1929 respectivamente. Con ellas se c ierra el sistema freudiano, y la
 infelicidad de los hombres estará dada por el fatalismo biológico de ser portadores de una lucha
 ontológica entre el Eros y la pulsión de muerte.
 
-Sobre este magnífico edificio se levanta la crítica de Adler y Jung al proble
-ma de las neurosis, y su
+Sobre este magnífico edificio se levanta la crítica de Adler y Jung al proble ma de las neurosis, y su
 insistencia en su carácter social presente, quedando definidas por Jung (Adler coincide desde su
 propio discurso) como un fenómeno que trasciende la clínica:
 El punto de vista clínico por sí solo no
-es ni puede ser justo con la nat
-uraleza de una neurosis, porque una neurosis es más un fenómeno
+es ni puede ser justo con la nat uraleza de una neurosis, porque una neurosis es más un fenómeno
 psicosocial que una enfermedad en sentido estricto. Nos obliga a extender el término “enfermedad”
 más allá de la idea de un cuerpo individual
 ,
@@ -542,16 +503,14 @@ cómo
 
 su causa estriba más en una relación defectuosa con el
 otro, que en una cuestión biológicamente constitutiva. Aunque reconocerán dichas limitaciones
-constitutivas del hombre, Adler desde la “inferioridad de órgano” y Jung desde e
-l embate arquetípico,
+constitutivas del hombre, Adler desde la “inferioridad de órgano” y Jung desde e l embate arquetípico,
 considerarán que el hombre puede sobreponerse ante ellos ya sea desde el coraje (Adler)
 o
 
 desde la
 integración con la sombra y el proceso de individuación (Jung).
 
-En el caso de Alfred Adler, una opinión de un contemporáneo evidencia q
-ue sus teorías se alejan de
+En el caso de Alfred Adler, una opinión de un contemporáneo evidencia q ue sus teorías se alejan de
 las de un médico generalista y se acercan más a la filosofía: “
 La principal herramienta de Adler es la
 intuición y sus convicciones su única prueba. Las obras de Adler son "ingeniosas"
@@ -590,17 +549,13 @@ Ellenberger
 (
 1976, 605)
 , dos vínculos entre Adler y el psicoanálisis:
-p
-rimero, que la
-compensación en una zona erógena puede provocar un brote neuróti
-co por sobre atención, ya que no
+p rimero, que la
+compensación en una zona erógena puede provocar un brote neuróti co por sobre atención, ya que no
 existe inferioridad de órgano sin inferioridad sexual; y segundo, aunque reconoce el concepto de
 libido, insiste en que hay una pulsión agresiva cuyas causas van más allá de la libido frustrada (aun
-Freud no había elaborad
-o su segundo dualismo pulsional). Por otra parte, secunda la concepción de
+Freud no había elaborad o su segundo dualismo pulsional). Por otra parte, secunda la concepción de
 Freud del hermafroditismo constitucional y la bisexualidad inherente al ser humano. Sobre esa base
-elabora su concepto de “protesta masculina”, si bien existen características secun
-darias del sexo
+elabora su concepto de “protesta masculina”, si bien existen características secun darias del sexo
 opuesto, en fenómeno común en hombres neuróticos percibir esa parte femenina como pasivo, y de
 ahí a desarrollar una suerte de complejo de inferioridad: la protesta masculina.
 
@@ -627,19 +582,16 @@ profunda significación en el sistema adleriano
 
 Para Adler, estas ficciones de Vaihinger
 son
-inter
-pretadas por el ser humano
+inter pretadas por el ser humano
 
 como normas ideales de vida: “la verdad absoluta” o “lógica absoluta
 de vida social”. Esta lógica, en conformidad con las demandas sociales, es el camino ético a seguir,
-mientras que las neurosis son las desviaciones de ese camin
-o
+mientras que las neurosis son las desviaciones de ese camin o
 (Ellenberger, 1976, p. 606)
 .
 
 Aunque su teoría de las neurosis parte de la inferioridad de órgano, lo nuevo aquí es que esta
-inferioridad puede, y ge
-neralmente
+inferioridad puede, y ge neralmente
 ,
 
 es sentida y no constitutiva: el factor social es el principal
@@ -653,9 +605,7 @@ neurosis y sus defectos sociales
 
 Siguiendo a Vaihinger, considera que una neurosis evoluciona como una de las ficciones del
 neokantiano:
-p
-rimero, se propo
-ne un modelo ficticio en el que
+p rimero, se propo ne un modelo ficticio en el que
 ,
 
 en realidad, no se cree; luego, se
@@ -670,8 +620,7 @@ Este proceso, que Adler llama “sustanciación”
 
 lleva al neurótico a serios conflictos, porque
 eventualmente esta ficción neurótica se enfrenta con la realidad, generando así esta línea causal:
-ficción, sustanciación, confrontación crítica con la rea
-lidad.
+ficción, sustanciación, confrontación crítica con la rea lidad.
 
 Hacia 1927
 ,
@@ -687,18 +636,15 @@ de uno mismo y los otros. Para Adler, imponemos al mundo ciertos axiomas básico
 ,
 
 como sí fueran
-la rea
-lidad
+la rea lidad
 (Ellenberger, 1976, p. 609)
 :
-p
-rimero, a diferencia de Freud
+p rimero, a diferencia de Freud
 (
 y junto a Jung
 )
 , considera que
-el hombre es una unidad indivisible de pasado, prese
-nte y futuro, alejándose así de la ambivalencia
+el hombre es una unidad indivisible de pasado, prese nte y futuro, alejándose así de la ambivalencia
 freudiana: este es el principio de unidad.
 
 Segundo, el principio de dinamismo, la vida es movimiento, y no importa tanto la causa (como las
@@ -736,19 +682,16 @@ cosmos. El cuarto principio es el principio de la estructuración espontánea de
 la mente se organiza y equilibra sobre la base de las metas que escogemos libremente. El quinto
 
 es el
-principio de acción y reacción, si bien el hombre de
-ja una huella en el mundo, el mundo también deja
+principio de acción y reacción, si bien el hombre de ja una huella en el mundo, el mundo también deja
 una huella en el hombre; esto es especialmente cierto en el hombre y su grupo social.
 De ahí que:
 “…La psicología de Adler es esencialmente una dinámica de relaciones interpersonales. Nunca
-considera al indi
-viduo en una situación aislada y estática, sino que lo ve a la luz de sus acciones y de
+considera al indi viduo en una situación aislada y estática, sino que lo ve a la luz de sus acciones y de
 las reacciones de su entorno
 ”
 (Ellenberger, 1976, p. 610)
 .
-Y s
-exto, la ley de la verdad absoluta: es el
+Y s exto, la ley de la verdad absoluta: es el
 conjunto de normas que el individuo crea como compromiso entre los requerimientos de la
 comunidad y los propios.
 Como ya se dijo, la absoluta verdad es el recto compromiso a este principio,
@@ -769,14 +712,11 @@ individuo tiene una meta oculta a sí mismo. Para los adlerianos
 ,
 
 se hace necesario ahondar en los
-hitos de vida, de tal forma de poder predecir comportamientos fut
-uros y definir el “estilo de vida” de
+hitos de vida, de tal forma de poder predecir comportamientos fut uros y definir el “estilo de vida” de
 la persona. La cura en la psicología individual tiene varios pasos:
-p
-rimero, se debe tener un
+p rimero, se debe tener un
 conocimiento del paciente y sus problemas. Segundo, se le hace conocer al paciente su meta ficticia
-y su estilo de vida, y d
-e cómo están en contradicción con la vida y el interés social.
+y su estilo de vida, y d e cómo están en contradicción con la vida y el interés social.
 T
 ercero, la decisión
 del paciente de cambiar su estilo de vida o no. El paciente está curado, según Adler, cuando puede
@@ -799,8 +739,7 @@ pleno, y que sus deseos
 estén en concordancia con los de la comunidad.
 
 El profundo sentimiento de comunidad y humanismo
-que asiste a Adler no es gratuito, casado con una trotskista y siendo socialista e
-n
+que asiste a Adler no es gratuito, casado con una trotskista y siendo socialista e n
 
 su juventud, es lógico
 que la savia buena del humanismo marxista penetrara en él, sin que por ello dejara de criticar los
@@ -843,8 +782,7 @@ s nimia realidad humana
 
 Desde 1900 ya tenía seguro que su objetivo era el estudio científico del alma, y su “realidad
 psicológica” el punto de partida
-, p
-ero no desde la ciencia psicológica de su tiempo, sino desde el
+, p ero no desde la ciencia psicológica de su tiempo, sino desde el
 andar existencial de la vida diaria.
 A
 l respecto nos dice
@@ -860,8 +798,7 @@ el mundo
 (Jung, 2014, p. 6982)
 .
 
-Es
-a
+Es a
 
 es, exactamente,
 la mejor definición de Jung
@@ -877,8 +814,7 @@ Jung, tanto como Adler, tuvo un período psicoanalítico. Planetas menores en la
 
 órbita de Freud, se
 mantuvieron siempre críticos a su sistema, y elaboraron teorías propias
-, p
-ero incluso
+, p ero incluso
 ,
 
 antes del
@@ -894,8 +830,7 @@ fenómenos ocultos
 (Jung, 2014a)
 
 de 1902, donde intenta dar una explicación científica al espiritismo.
-Ya en el propio periodo bajo Freud elabora sus Símbolos de trasformac
-ión de la l
+Ya en el propio periodo bajo Freud elabora sus Símbolos de trasformac ión de la l
 í
 bido
 (Jung, 2014c)
@@ -916,15 +851,13 @@ etiología infantil de las neurosis.
 Lo reconoce asi
 Ellenberger (1976, p. 697)
 ,
-pues Jung …n
-o acepta
+pues Jung …n o acepta
 el principio de que las raíces de la neurosis se encuentran en la infancia remota, sino en las situaciones
 presentes
 ”.
 Efectivamente, al igual que Adler, está más preocupado del presente que de enraizar las
 neurosis a las pulsiones de muerte.
-Como ya se mencionó, l
-as neurosis, que definirá como “un sistema
+Como ya se mencionó, l as neurosis, que definirá como “un sistema
 enfermo de relaciones sociales”, será también un eje central en su
 sistema, que estará más cercano a
 Adler que a Freud en este aspecto.
@@ -935,11 +868,9 @@ de toda neurosis
 
 y
 al contrario, considera que es mucho más probable que la neurosis brote en la edad
-escolar o en el matr
-imonio, porque son estos eventos los que insertan (o los que hacen interpretar) al
+escolar o en el matr imonio, porque son estos eventos los que insertan (o los que hacen interpretar) al
 individuo en un sistema enfermo de relaciones sociales. Para Jung (en esto se asemeja a Adler), el
-problema es el presente: ¿Qué tarea quiere evitar el paciente? ¿De qué dif
-icultad busca escapar?
+problema es el presente: ¿Qué tarea quiere evitar el paciente? ¿De qué dif icultad busca escapar?
 (Ellenberger, 1976, p. 698)
 , y
 
@@ -949,8 +880,7 @@ La no adherencia al complejo de Edipo y la desexualización de la libido hacen q
 Freud y se abra un período intermedio de maduración de su sistema desde 1913 hasta 1921 con la
 publicación de Tipos Psicológicos
 (Jung, 2014b)
-. Aquí presenta las divergencias d
-e personalidad
+. Aquí presenta las divergencias d e personalidad
 sobre la base de dos predisposiciones anímicas fundamentales: introversión y extroversión, y las
 utiliza para explicar divergencias entre filósofos célebres, ya que tal relación muestra una suerte de
 dialéctica de las motivaciones humanas
@@ -959,8 +889,7 @@ dialéctica de las motivaciones humanas
 
 Hacia el último capítulo de la obra, Jung define finalmente su psicología analítica. Estos son sus
 principales elementos:
-p
-r
+p r
 imero, el concepto de energía psíquica y sus diferencias con la l
 í
 bido
@@ -983,8 +912,7 @@ de ego,
 inconsciente
 
 personal e
-incon
-sciente
+incon sciente
 
 colectivo (el seno de los principales arquetipos). Cuarto,
 el concepto de individuación, el proceso mediante el cual el individuo domeña el embate de los
@@ -995,21 +923,18 @@ colectivo y los integra a su personalidad completándola.
 
 Este
 
-proc
-eso de individuación
+proc eso de individuación
 es
 el eje central de la terapia junguiana
 (Ellenberger, 1976, pp. 713
 -
 715)
 , ya que usualmente llega a
-detener su c
-urso
+detener su c urso
 
 en los neuróticos, y es labor del analista hacerlo
 continuar
-; p
-ara ello, lo primero es traer al paciente al conocimiento de su situación presente y los
+; p ara ello, lo primero es traer al paciente al conocimiento de su situación presente y los
 peligros físicos y psíquicos que le amenazan (proceso semejante al de Adler). Después
 ,
 
@@ -1019,24 +944,16 @@ y este es el punto interesante, basado en qué tan profundo sea el problema Jung
 ,
 
 escoge el tipo de
-terapia a dar: si el problema no es tan severo, utiliza el tratamiento analítico
--
-reductivo (Freud y Adler),
+terapia a dar: si el problema no es tan severo, utiliza el tratamiento analíticoreductivo (Freud y Adler),
 pero si es de naturaleza compleja (usualmente problemas religiosos o filosóficos), utiliza directamente
-su método sintético
--
-herme
-néutico. En todo momento ofrece al paciente lecturas de las tres escuelas,
+su método sintéticoherme néutico. En todo momento ofrece al paciente lecturas de las tres escuelas,
 de tal forma que pueda escoger su vía de sanación.
 
 En conclusión, este es el método de Jung de integración de los arquetipos en el proceso de
 individuación:
-e
-n primer lugar, la somb
-ra, todo aquello de nuestra personalidad que no aceptamos y
+e n primer lugar, la somb ra, todo aquello de nuestra personalidad que no aceptamos y
 proyectamos en los otros. En segundo lugar, el ánima y animus, la parte del sexo opuesto que tenemos
-en nosotros, y que debe ser integrada. En tercer lugar, la sabiduría interna en el individuo, q
-ue se
+en nosotros, y que debe ser integrada. En tercer lugar, la sabiduría interna en el individuo, q ue se
 expresa en forma del viejo sabio o la gran madre
 , y
 
@@ -1044,8 +961,7 @@ finalmente, el reconocimiento y asimilación de
 todos los arquetipos en el arquetipo unificador del “sí mismo”. Este arquetipo, expresado
 simbólicamente en la figura de
 C
-risto (en realidad en cualqui
-er símbolo de completitud), reúne al
+risto (en realidad en cualqui er símbolo de completitud), reúne al
 resto
 ,
 
@@ -1054,8 +970,7 @@ y una vez asimilado
 
 presenta a una persona que ha completado su camino de individuación: ha
 descendido a sus propios infiernos para ascender renovado y completo. La terapia junguiana busca
-que cada persona conti
-núe ese proceso de individuación. Sobre todo, y este es su valor social, porque
+que cada persona conti núe ese proceso de individuación. Sobre todo, y este es su valor social, porque
 desde entonces el mundo no le va a parecer extraño y alienado, sino que va a reconocer en él su obra,
 y otro no le va a parecer tal, sino parte de sí mismo.
 
@@ -1070,14 +985,12 @@ aunque en sus textos finales de ética considere
 ,
 
 que a la larga, el Eros triunfa sobre la
-pulsión de muerte; la sombra tánica aso
-lará por siempre la cálida urdimbre de la madeja del amor. El
+pulsión de muerte; la sombra tánica aso lará por siempre la cálida urdimbre de la madeja del amor. El
 psicoanálisis de Freud, visto como filosofía, es la filosofía del egoísmo, del desenfreno del cuerpo, es
 una filosofía que viola la máxima moral kantiana. En el psicoanálisis freudiano
 ,
 
-e
-l
+e l
 
 otro, por mucho
 que la consciencia se resista, nunca dejará de ser un mero objeto para la descarga pulsional.
@@ -1086,15 +999,11 @@ Con Freud
 ,
 
 el estudiante reconoce que el cuerpo es necesario, con Adler y Jung reconoce que es
-necesario, pero no suficiente. Al cóctel de la ex
-istencia se necesita añadir amor, autocontrol y
+necesario, pero no suficiente. Al cóctel de la ex istencia se necesita añadir amor, autocontrol y
 sentido
 de la otredad; todo lo cual podemos encontrar en estos dos pensadores. El proceso de desarrollo del
-psicoanálisis es, siguiendo la etimología, un análisis del alma: de ahí la importancia de su enseñan
-za
-en clase, pues se constituye en un ejercicio ético
--
-docente. El estudiante vive el drama vital de los
+psicoanálisis es, siguiendo la etimología, un análisis del alma: de ahí la importancia de su enseñan za
+en clase, pues se constituye en un ejercicio éticodocente. El estudiante vive el drama vital de los
 pensadores, y junto a ellos, reconoce
 que en la existencia práctica y teoría están entrelazados, tanto
 como lo están el aula con la existencia exterior.
@@ -1110,9 +1019,7 @@ Company.
 
 2.
 
-Adler, A. (2003). The Mind
--
-Body Connection Social Activism
+Adler, A. (2003). The MindBody Connection Social Activism
 
 & Sexuality (H. T. Stein, Ed.;
 Vol. 2). Alfred Adler Institute.
@@ -1204,9 +1111,7 @@ Rinehart and Winston.
 
 17.
 
-Haute, P. V., & Westerink, H. (2017). Deconstructing normativity?: Re
--
-reading Freud’s 1905
+Haute, P. V., & Westerink, H. (2017). Deconstructing normativity?: Rereading Freud’s 1905
 three essays. Routledge.
 
 18.
@@ -1236,8 +1141,7 @@ University Press.
 
 23.
 
-Jung, C. G. (2014). Two Essays in Analytical Psychology (G. Adle
-r, Ed.; Vol. 7).
+Jung, C. G. (2014). Two Essays in Analytical Psychology (G. Adle r, Ed.; Vol. 7).
 Princeton
 University Press.
 
@@ -1265,9 +1169,7 @@ Practical and Religious Fictions of Mankind. Routledge and Kegan Paul.
 
 28.
 
-Vandermeersch, P. (1991). Unresolved questions in the Freud
--
-Jung debate
+Vandermeersch, P. (1991). Unresolved questions in the FreudJung debate
 .
 Louven University
 Press.
@@ -1289,8 +1191,7 @@ C
 ontemporáneo en la Universidad de La Habana.
 
 Cuba.
-Co
-rreo
+Co rreo
 electrónico
 : arianrdguez@gmail.com
 
@@ -1302,8 +1203,7 @@ APROBADO:
 2
 1
 
-de ju
-n
+de ju n
 io del 2022.
 
 ## Notes

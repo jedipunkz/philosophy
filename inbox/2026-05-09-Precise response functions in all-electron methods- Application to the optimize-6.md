@@ -1,0 +1,443 @@
+---
+source: "https://arxiv.org/abs/1205.6335v1"
+title: "Precise response functions in all-electron methods: Application to the optimized-effective-potential approach"
+author: "Markus Betzinger, Christoph Friedrich, Andreas Görling, Stefan Blügel"
+year: "2012"
+publication: "arXiv preprint / cond-mat.mtrl-sci"
+download: "https://arxiv.org/pdf/1205.6335v1"
+pdf: "https://arxiv.org/pdf/1205.6335v1"
+captured_at: "2026-05-09T12:40:47Z"
+updated_at: "2026-05-09T12:40:47Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Friedrich Nietzsche"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# Precise response functions in all-electron methods: Application to the optimized-effective-potential approach
+
+- 著者: Markus Betzinger, Christoph Friedrich, Andreas Görling, Stefan Blügel
+- 年: 2012
+- 掲載情報: arXiv preprint / cond-mat.mtrl-sci
+- 情報源: [arxiv](https://arxiv.org/abs/1205.6335v1)
+- ダウンロード: https://arxiv.org/pdf/1205.6335v1
+- PDF: https://arxiv.org/pdf/1205.6335v1
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+The optimized-effective-potential (OEP) method is a special technique to construct local Kohn-Sham potentials from general orbital-dependent energy functionals. In a recent publication [M. Betzinger, C. Friedrich, S. Blügel, A. Görling, Phys. Rev. B 83, 045105 (2011)] we showed that uneconomically large basis sets were required to obtain a smooth local potential without spurious oscillations within the full-potential linearized augmented-plane-wave method (FLAPW). This could be attributed to the slow convergence behavior of the density response function. In this paper, we derive an incomplete-basis-set correction for the response, which consists of two terms: (1) a correction that is formally similar to the Pulay correction in atomic-force calculations and (2) a numerically more important basis response term originating from the potential dependence of the basis functions. The basis response term is constructed from the solutions of radial Sternheimer equations in the muffin-tin spheres. With these corrections the local potential converges at much smaller basis sets, at much fewer states, and its construction becomes numerically very stable. We analyze the improvements for rock-salt ScN and report results for BN, AlN, and GaN, as well as the perovskites CaTiO3, SrTiO3, and BaTiO3. The incomplete-basis-set correction can be applied to other electronic-structure methods with potential-dependent basis sets and opens the perspective to investigate a broad spectrum of problems in theoretical solid-state physics that involve response functions.
+
+## PDF Text
+
+arXiv:1205.6335v1 [cond-mat.mtrl-sci] 29 May 2012
+Preciseresponsefunctionsinall-electronmethods:Applicationtotheoptimized-eﬀective-potentialapproachMarkusBetzinger,1,∗ChristophFriedrich,1AndreasGörling,2andStefanBlügel11PeterGrünbergInstitutandInstituteforAdvancedSimulation,ForschungszentrumJülichandJARA,D-52425Jülich,Germany2LehrstuhlfürTheoretischeChemie,UniversitätErlangen-Nürnberg,Egerlandstr.3,D-91058Erlangen,GermanyTheoptimized-eﬀective-potential(OEP)methodisaspecialtechniquetoconstructlocalKohn-Shampotentialsfromgeneralorbital-dependentenergyfunctionals.Inarecentpublication[M.Bet-zinger,C.Friedrich,S.Blügel,A.Görling,Phys.Rev.B83,045105(2011)]weshowedthatun-economicallylargebasissetswererequiredtoobtainasmoothlocalpotentialwithoutspuriousos-cillationswithinthefull-potentiallinearizedaugmented-plane-wavemethod(FLAPW).Thiscouldbeattributedtotheslowconvergencebehaviorofthedensityresponsefunction.Inthispaper,wederiveanincomplete-basis-setcorrectionfortheresponse,whichconsistsoftwoterms:(1)acorrectionthatisformallysimilartothePulaycorrectioninatomic-forcecalculationsand(2)anumericallymoreimportantbasisresponsetermoriginatingfromthepotentialdependenceofthebasisfunctions.ThebasisresponsetermisconstructedfromthesolutionsofradialSternheimerequationsinthemuﬃn-tinspheres.Withthesecorrectionsthelocalpotentialconvergesatmuchsmallerbasissets,atmuchfewerstates,anditsconstructionbecomesnumericallyverystable.Weanalyzetheimprovementsforrock-saltScNandreportresultsforBN,AlN,andGaN,aswellastheperovskitesCaTiO3,SrTiO3,andBaTiO3.Theincomplete-basis-setcorrectioncanbeappliedtootherelectronic-structuremethodswithpotential-dependentbasissetsandopenstheperspectivetoinvestigateabroadspectrumofproblemsintheoreticalsolid-statephysicsthatinvolveresponsefunctions.
+PACSnumbers:71.15.-m,71.15.Mb,71.20.-b,31.15.E-I.INTRODUCTIONDensity-functionaltheory(DFT)1,2intheKohn-Sham(KS)formalism3hasdevelopedintoastandardmethodforcomputationalcalculationsofelectronicproperties duetoitstheoreticalandnumericalsimplicitythatgoes alongwiththerequiredaccuracyforalargerangeof materials.Inthistheory,themany-bodyexchangeand correlationeﬀectsthatmakethemicroscopicquantummechanicaldescriptionofmany-electronsystemssocomplicatedarehiddeninaformallysimplelocalpotential, theexchange-correlation(xc)potential.Togetherwith theclassicalelectrostaticpotentialcreatedbytheelectronicandnuclearcharges,itformsthelocaleﬀectivepotentialforaﬁctitioussystemofnon-interactingelectrons,theKSsystem,whoseelectrondensity,byconstruction, coincideswiththatoftherealsystem.Physicalquantities,suchasthetotalenergy,inter-atomicforces,dipole andmagneticmoments,etc.,arethencalculatedasfunctionalsoftheelectrondensity.However,themathematicalformofthexcenergyfunc-tional,fromwhichthexcpotentialderives,isunknown, andonemustresorttoapproximationsinpractice.Surprisingly,alreadysimpleapproximations,suchasthe local-density(LDA)4,5andgeneralizedgradientapprox-imations(GGA),6,7givereliableresultsforawiderangeofmaterialsandproperties.However,asthefunctionalshavebeenapplied,overtheyears,tomoreandmore complexmaterialsandproperties,shortcomingshavebecomeapparent:Thespuriousself-interactionerror,inherenttotheLDAandGGAfunctionals,leadstoanunphysicaldescriptionoflocalizedstates,whichasaresultappeartoohighinenergyandgiverisetoerroneoushybridizationeﬀects.Second,theLDAandGGA
+xcfunctionalsdonotexhibitaderivativediscontinuityatintegralparticlenumbersleadingtosemiconductorbandgapsthatareunderestimatedby40%ormore withrespecttoexperiment.8,9Furthermore,theyshowthewrongasymptoticbehaviorwhenexchangeandcorrelationeﬀectsofspatiallyseparatebutinteractingpartsofamany-electronsystemareinvestigated.Orbital-dependentfunctionalsformanewclassofxcfunctionals.10,11Alreadytheformallysimpleexact-exchange(EXX)functional,12–14whichtreatselectronexchangeexactlybutneglectscorrelationaltogether, remediestheaforementioneddeﬁcienciesofthemoreconventionallocalorsemi-localfunctionals.Ithasbeen shownthattheEXXfunctionalleadstoKSbandgaps thatareinmuchbetteragreementwithexperiment.15–20Bydeﬁnition,theKSbandgapsdonotcontainthe derivativediscontinuity,9,21whichindicatesthattheef-fectofneglectingcorrelationisroughlyofthesamemagnitudeasthediscontinuitybutofdiﬀerentsign.22,23Also,localizedd-andf-electronstatesappearatlargerbindingenergiescomparedtolocalorsemilocalfunctionals,which isaresultoftheexactlycompensatedself-interactionerror.Thexcpotentialisgivenbythefunctionalderivativeofthexcenergyfunctionalwithrespecttotheelectrondensity.InthecaseoftheconventionalLDAorGGAfunctionals,thefunctionalderivativetranslatesintoaderiva-tiveofafunctionandisevaluatedstraightforwardly.In
+2thecaseoforbital-dependentfunctionals,suchasthe exact-exchange(EXX)functional,theconstructionofthe localxcpotentialismuchmoreinvolved,becausethese functionalsonlydependimplicitlyonthedensitythrough theorbitals,andachain-rulemustbeappliedtoevaluatethefunctionalderivativeleadingtotheoptimizedeﬀective-potential(OEP)equation.11,14Thisintegralequationinvolvestwokindsofresponsefunctions,onefortheelectrondensityandoneforthe
+KSwavefunctions,aswellasanonlocalterm,which correspondstotheHartree-Fockpotentialinthecaseof theEXXfunctional.Theformerresponsefunction,on whichwewillfocusinthefollowing,describesthelinear responseoftheelectrondensitywithrespecttochanges intheKSeﬀectivepotentialandisusuallycalculatedby standardperturbationtheoryasasumoveroccupiedand unoccupiedstates.Thus,incontrasttotheHartree-Fockmethod,theOEPapproachinvolvesthewholespectrumofunoccupiedstates.Physically,theunoccupiedstatesprovide variationalfreedomfortheelectrondensitytorespond tothechangesoftheeﬀectivepotential.Inpracticalabinitiocalculations,oneﬁndsthatsingle-particlestatesuptohighenergieshavetobetakenintoaccount,which callsforabasissetthatisabletoyieldaccuratewave functionsoveraverywideenergyrange,spanningfrom theoccupiedregionuptohigh-lyingunoccupiedstates.
+Thisplacesamuchhigherdemandonthebasisthanin conventionalLDA,GGA,orhybrid-functionalcalculations,whereonlytheelectrondensitymustbedescribed accurately,whiletheOEPapproachrequiresasuﬃ-
+cientlyaccuratedescriptionoftheresponsefunctions, aswell.Thisisaseriousissueinall-electronmethods usingso-calledlinearizedbasissetsthatareoptimized foracertainenergyregionbyconstructionandinvolve atom-centerednumericalbasisfunctionsthatareadapted tothelocaleﬀectivepotentialatpre-deﬁnedenergies.
+Examplesarethefull-potentiallinearizedaugmentedplane-wave(FLAPW)24–26andlinearizedmuﬃn-tinor-bital(LMTO)27–29method,butalsomethodsthatrelyonpre-calculatedandtabulatedbasissetsconstructed fromatomiccalculations.30–33Asimilarproblemarisesinpseudopotentialapproachesduetothepseudizedform ofthepotentialaroundtheatomicnuclei,whichyields accuratestatesonlyinaﬁniteenergyregion.Inarecentpublication,20wereportedanimplementa-tionoftheEXX-OEPapproachwithintheall-electron
+FLAPWmethod.24–26Weemployedthemixedproductbasis(MPB)34–36toreformulatetheOEPintegralequa-tionintermsofamatrixequationthatcanbesolvedby standardnumericallinearalgebratools.Thisapproach alsoenablestheconstructionofthelocalEXXpotential withoutshapeapproximations.Wefoundthatthebasis setsarenotindependent:theLAPWbasismustbeconvergedwithrespecttoagivenMPB.Thisbalanceconditionisadirectconsequenceofthesum-over-statesproblemdescribedabove.OnlyahighlyconvergedLAPW
+basis,whichcorrespondstoalargenumberofunoccu-piedstates,lendsthedensityenoughﬂexibilitytoreact adequatelytothechangesofthepotential,thusleading toawellconvergedresponsefunction.Asdemonstrated inRef.20,comparedtoconventionalLDAorGGAcalculations,thenumberofbasisfunctionshadtobeincreasedtypicallybyafactoroffourorﬁve,whichfroma practicalpointofview,cannotbeaviableapproachand eﬀectivelyrestrictsthemethodtoverysmallsystems.A
+similarbehaviorwasobservedforGaussianbasissets.37Inthispaper,wepresentanumericalcorrectionfortheresponsefunctions,withwhichthebalanceconditionis achievedwithaconsiderablysmallerLAPWbasisleadingtomuchfasterandnumericallymorestablecalculations.Furthermore,muchfeweremptybandsareneeded fortheconstructionoftheresponsefunctions.ThecorrectionreliesontheobservationthattheLAPWbasisis explicitlypotentialdependentandoptimizedforagiven eﬀectivepotential.Anychangeinthispotential(other thanamereconstant)willrenderthebasissub-optimal oreveninadequate.Onewaytodealwiththisissueis crankinguptheLAPWbasissuchthatitcandescribethe
+Hilbertspacesfortheunperturbedandperturbedpotentialsatthesametime–leadingtolargecomputational costsaswehaveseeninRef.20.Inthispaper,wepursue adiﬀerentapproach,whichimprovestheprecisionofthe calculatedresponsefunctionsconsiderablywithoutthe needofusinglargerbasissetsandattheexpenseofonly asmallcomputationaloverhead.Wederiveanumerical correctionbytakingexplicitlyintoaccountthechanges oftheLAPWbasisinducedbytheperturbations.These changesdirectlyfollowfromthepotentialdependenceof thebasisfunctionsandarecalculatedbysolvingradial scalar-relativisticSternheimerequationsinthemuﬃntinspheres.Similarly,theresponseofthecorestates obeysfullyrelativisticSternheimerequations.Addition-ally,wetakeaccountofthefactthattheeigenfunctions ofaHamiltonianrepresentedinaﬁnitebasissetarenot exacteigenfunctionsoftheHamiltonianoperator,ingeneral.Bothcorrectionsvanishinthelimitofaninﬁnite, completebasis.Astheycorrectfordiﬀerentaspectsof theincompletenessofaﬁnitebasisset,werefertothem astheincomplete-basis-setcorrection.Similarcorrectionsareemployed,forexample,whenshiftsoftheBlochvectorareconsideredink·ppertur-bationtheory,38whenthemagneticmomentisrotated,39andwhenatomicpositionsarevaried,i.e.,incalculations ofatomicforces40,41andphononbandstructures.42,43Whileintheformercasestheeﬀectivepotentialremains unchanged,itdoeschangeinthelattercaseinprinciple, whichshouldgiverisetocorrespondingvariationsinthe muﬃn-tinbasisfunctions.Nonetheless,thiseﬀecthasalwaysbeenneglected(rigidbasisapproximation)arguing thatitissmall,andonetakesonlyvariationsintoaccountthatarerelatedtothespatialdisplacementsofthe atom-centeredbasisfunctions.Thepotential-dependent variationsintheMTbasisfunctionsarethuscomplementarytotheincomplete-basis-setcorrectionknownfrom forcecalculationsandpotentiallyimprovetheaccuracy
+3ofatomicforces,too.Weintendtotestthisconjecture inafuturework.Thepaperisorganizedasfollows.SectionsIIandIIIgiveabriefintroductionintotheOEPformalismand theFLAPWmethod.Afterashortrecapitulationofthe
+EXX-OEPimplementation,wedeveloptheincompletebasis-setcorrectionindetailinSectionIII.AsapracticalexamplewewillusetheEXXfunctionalforthecalculations.However,wenotethatthenumericalcorrections fortheresponsequantitiesaregenerallyapplicable,irrespectiveoftheemployedorbital-dependentfunctional.
+Theincomplete-basis-setcorrectionfacilitatestheconstructionoftheEXXpotentialconsiderably,interms ofbothcomputationaleﬃciencyandnumericalstability, aswewilldemonstrateinSec.Vforthecaseofscandiumnitride.InSec.VIweshowresultsforthenitrides
+BN,AlN,andGaN,aswellastheperovskitesCaTiO3,SrTiO3,andBaTiO3.Finally,wedrawourconclusionsinSec.VII.II.THEORYTheKSformalismofDFTreliesonthemappingoftheinteractingelectronsystemontoanoninteractingsystem ofKSelectrons.TheseﬁctitiousparticlesmoveinaneffectivepotentialVeﬀ(r)thatisdeﬁnedinsuchawaythattheelectrondensitiesofthetwosystemscoincide.The equationofmotionforthenoninteractingKSelectrons thusreads−1
+2∇2+Veﬀ(r)ϕnk(r)=nkϕnk(r)(1)withtheKSwavefunctionsϕnk(r)andenergiesnkfortheBlochvectorkandbandindexn.Hereandinthefol-lowingwerestrictourselvestothespin-unpolarizedcase anduseHartreeatomicunitsunlessstatedotherwise.
+Thegeneralizationtothespin-polarizedcaseisstraightforward.Theeﬀectivepotentialconsistsoftheclassicalelec-trostaticpotentialcreatedbytheelectronicandnuclear chargesinthesystemandthexcpotentialVxc(r)=δExc[n]
+δn(r)(2)withthexcenergyfunctionalExc[n].InthecaseofLDA(GGA),theenergyfunctionalisgivenasasimple functionoftheelectrondensityn(r)=2Pocc.nk|ϕnk(r)|2(anditsgradient),andthefunctionalderivative[Eq.(2)]
+isevaluatedstraightforwardly.However,inthemore generalcaseofanorbital-dependentfunctional,which isonlyanindirectfunctionalofthedensity,theapplicationofthechainruleforfunctionalderivativesis requested.11,14Thisleads,aftermultiplicationwiththeKSsingle-particleresponsefunction44χs(r,r0)=δn(r)
+δVeﬀ(r0)=4Xkocc.Xnϕ∗
+nk(r)δϕnk(r)
+δVeﬀ(r0),(3)totheOEPequationinintegralformˆχs(r,r0)Vxc(r0)d3r0=4XkXnˆδExc
+δϕnk(r0)δϕnk(r0)
+δVeﬀ(r)d3r0,(4)wherethesumsoverkandnrunoverallstates.Solv-ingthisequationyieldstheoptimizedlocalxcpotential
+Vxc(r).Wenotethatadditionaltermsoccurontheright-handsideifExcexhibitsanexplicitdependenceontheKSeigenvalues,aswell.Inthiswork,wewillemploytheEXXfunctionalEx=−Xk,qocc.Xn,n0x×ϕ∗
+nk(r)ϕn0q(r)ϕ∗
+n0q(r0)ϕnk(r0)
+|r−r0|d3rd3r0(5)asapracticalexample,whosefunctionalderivativewith respecttothewavefunctionsyieldstheexpressionδEx
+δϕnk(r)=ˆϕ∗
+nk(r0)VNLx(r0,r)d3r0(6)withthenonlocalexchangepotentialVNLx(r0,r)=−2Xqocc.Xnϕnq(r0)ϕ∗
+nq(r)
+|r0−r|.(7)III.FLAPWMETHODIntheall-electronFLAPWmethod,24–26spaceispar-titionedintononoverlapping,atom-centeredmuﬃn-tin
+(MT)spheresandtheremaininginterstitialregion(IR).
+Thetightlyboundcorestatesarecompletelyconﬁned tothespheresandarecalculatedbysolvingthefullyrelativisticradialDiracequationforthesphericallyaveragedlocaleﬀectivepotentialVaeﬀ,0(r),whererismea-suredfromthespherecenteratRaandaisanatomindex.Thevalence-electronwavefunctionsarerepresentedbylinearcombinationsofbasisfunctionsϕnk(r)=XGzG(n,k)φkG(r)(8)withthereciprocallatticevectorsG.ForthebasisfunctionsφkG(r),weemployabi-partitionedrepresentation:27,45planewavesintheinterstitialregionwithamomentumcutoﬀ|k+G|≤Gmaxandnumericalfunctionsua lp(r)Ylm(r)intheMTsphereofatomawiththesphericalharmonicsYlm(r)andacutoﬀvaluelmaxfortheangular-momentumquantumnumberl.Thetwosetsoffunctionsdenotedbyp=0,1arematchedinvalueandﬁrstradialderivativeattheMTsphereboundaries toyieldtheLAPWbasisfunctions
+4φkG(r)=
+
+
+
+1
+√
+Ωexp[i(k+G)·r]ifr∈IRlmaxXl=0lXm=−l1Xp=0Aa lmp(k,G)ua lp(|r−Ra|)Ylm(\r−Ra)ifr∈MT(a)(9)withtheunit-cellvolumeΩandthematchingcoeﬃcientsAa lmp(k,G)=4π
+√
+ΩilY∗lm(k+G)exp[i(k+G)Ra](−1)p
+[ua l1(Sa),ua l0(Sa)][ua l
+p(Sa),jl(|k+G|Sa)],(10)
+where p=1−p,SaistheradiusoftheMTsphereofatoma,jl(x)arethesphericalBesselfunctions,andthesquarebracketdenotestheWronskian[f(r),g(r)]=f(r)dg(r)
+dr−df(r)
+drg(r).(11)Inthefollowing,werestrictourselvestothenonrelativisticequations.Thescalar-relativistictreatmentisdeferredtoAppendixA.Theradialfunctionua l0(r)isthesolutionoftheradialSchrödingerequationha lrua l0(r)=a lrua l0(r)(12)withapre-deﬁnedenergyparametera landtheradialHamiltonianha l=−1
+2∂2
+∂r2+l(l+1)
+2r2+Vaeﬀ,0(r).(13)Itsenergyderivativeua l1(r)=∂ua l0(r)/∂a lisobtainedfromha lrua l1(r)=a lrua l1(r)+rua l0(r).(14)Theenergyparametersa laretypicallyplacedinthecen-terofgravityofthel-projecteddensityoftheoccupiedstates.Theenergyderivativeua l1(r)providesforvariationalfreedomaroundtheseenergyparameters.Whilestates closetotheenergyparametersarethusaccuratelydescribed,thebasisbecomeslessadequateforstatesthat areenergeticallyfurtheraway,e.g.,semicoreandhighlyingunoccupiedstates.Forthesestates,wemayextend theLAPWbasiswithlocalorbitals.46–49Thesearelinearcombinationsofua l0(r),ua l1(r),andsolutionsofEq.(12),ua lp(r)andp≥2,withdiﬀerentenergyparametersei-therﬁxedatthesemicorelevelorathigherenergiesfor theunoccupiedstates.Thelinearcombinationsaresuch thattheyvanishattheMTsphereboundaryinvalueand radialderivative.Thus,thelocalorbitalsarecompletely conﬁnedtotheMTsphereandneednotbematchedto aplanewaveoutside.IV.IMPLEMENTATIONInRef.20,weshowedthattheOEPequation[Eq.(4)]canbecastintoanalgebraicmatrixequationifthequantitiesareformulatedintermsofanauxiliarybasisthatisdesignedtorepresentwave-functionproducts.Forthis purposeweintroducedtheMPB,34–36whichisbuiltfromproductsofLAPWbasisfunctions,givingrisetoplane wavesexp(iG·r)/√
+ΩintheinterstitialregionandMTfunctionsMaLP(r)YLM(r)intheMTsphereofatomawithcutoﬀvalues|G|≤G0ΩmaxandL≤Lmax,respec-tively.(Forthepresentpurpose,theMPBfunctionsare independentofkbecauseoftheperiodicityofthelo-calpotential.)TheradialpartsMaLP(r)areconstructedfromtheproductsua lp(r)ua l0p0(r)with|l−l0|≤L≤l+l0andalsoincludetheatomicEXXpotential.Wefurther formlinearcombinationsofthesefunctionssuchthat theyarecontinuousinvalueandradialderivativeatthe
+MTsphereboundariesaswellasorthogonaltoaconstant function.(Thelatterisnecessarytomakethedensityresponsefunctionχsinvertible.)Formathematicaldetails,wereferthereadertoRefs.34–36.Forthepresentwork, wehavefurtherincorporatedtheboundaryconditionof zeroslopefortheMPBfunctionsattheatomicnuclei.
+ThisismotivatedbytheobservationthatthelocalEXX
+potentialsalwaysshowthisbehavior(cf.EXXpotentials inRefs.50–52).InSec.VIwewilldemonstratethatthis constraintimprovestheshapeoftheEXXpotentialin theimmediatevicinityoftheatomicnuclei.Inthisway,theOEPequation[Eq.(4)]fortheEXXfunctionalcanbeexpressedasXJχs,IJVx,J=tI,(15)whereIisusedtoindextheMPBfunctions,χs,IJ=xM∗I(r)χs(r,r0)MJ(r0)d3rd3r0(16)isthesingle-particleresponsematrix,andtI=2Xkocc.XnxδEx
+δϕnk(r0)δϕnk(r0)
+δVeﬀ(r)M∗I(r)d3rd3r0(17)denotesthevectoroftherighthandside.Inversionof
+Eq.(15)yieldsthevectorVx,J.Thelocalexchangepo-tentialisthenﬁnallygivenbyVx(r)=XJVx,JMJ(r).(18)
+5A.Incomplete-basis-setcorrectionBoththesingle-particleresponsefunction[Eq.(16)]andtheright-handsideoftheOEPequation[Eq.(17)]
+involvethederivativeδϕnk(r)/δVeﬀ(r0),whichdescribesthelinearresponseofthewavefunctionϕnk(r)withre-specttochangesoftheeﬀectivepotential.Eqs.(3),(16), and(17)showthatinourformalismthesechangesare parametrizedbytheMPBfunctions{MI(r)}.Wedenotethelinearresponseofthewavefunctionwithrespectto
+MI(r)byϕ(1)
+nk,I(r)=ˆδϕnk(r)
+δVeﬀ(r0)MI(r0)d3r0.(19)Accordingtoﬁrst-orderperturbationtheory,ϕ(1)
+nk,I(r)obeysthenormalizationconditionˆϕ∗
+nk(r)ϕ(1)
+nk,I(r)d3r=0(20)andtheinhomogeneousdiﬀerentialequation[H−nk]ϕ(1)
+nk,I(r)=h(1)
+nk,I−MI(r)iϕnk(r)(21)with(1)
+nk,I=hϕnk|MI|ϕnkiandH=−1
+2∇2+Veﬀ(r).Equation(21),theso-calledSternheimerequation,53fol-lowsfromlinearizingEq.(1)withrespecttochangesof thepotential.Left-multiplicationwiththecomplexconjugatesofallothereigenstatesϕn0k(r)(n06=n),inte-grationoverspace,andsummingovern0yieldthewell-knownexpressionϕ(1)
+nk,I(r)=Xn0(6=n)hϕn0k|MI|ϕnki
+nk−n0kϕn0k(r)(22)andthusδϕnk(r)
+δVeﬀ(r0)=Xn0(6=n)ϕ∗
+n0k(r0)ϕnk(r0)
+nk−n0kϕn0k(r),(23)wherethesumrunsovertheinﬁnitenumberofeigenstatesofH.AsthediagonalizationofEq.(1)inabasisrepresenta-tionyieldsawholespectrumofKSwavefunctionsϕnk(r)andenergiesnk,comprisingtheoccupiedandalargenumberofunoccupiedstates,theresponseisstraightforwardlycalculatedusingEq.(23),andoneusuallyemploysthisequationforanumericalimplementation.However,thenumberofavailablewavefunctionsNislimitedinpractice–itcannotexceedthenumberofbasis functionsNLAPW–sothatthesuminEq.(23)istrun-cated(n0≤N≤NLAPW)leadingtoalossofaccuracy.Equation(23)thenonlyaccountsforthatpartoftheresponsethathappenstolieintheHilbertspacespanned bytheﬁnitenumberofwavefunctions.Asapragmaticsolution,onecanincreasethenumberofbasisfunctions and,thus,thenumberofeigenstates.However,asalreadymentioned,weobservedthatEq.(23)converges veryslowlywithrespecttothesizeoftheLAPWbasis.Suﬃcientconvergenceisattainedonlywithbasis setsthatareconsiderablylargerthanthestandardone usedinGGAorLDAcalculations(uptoﬁvetimeslarger evenforthesimpleexampleofdiamond),entailinghigh computationalcostsrenderinginpartthecalculations impractical.Thediﬃcultyofconvergencecanbeovercomebytwodistinctcorrectionstothelinearresponseofthewave function:(i)Thenecessityforexpandingthewavefunctions,inpractice,intoaﬁnite,incompletebasissetimpliesthatthewavefunctionsϕnk(r)arenotpointwiseexactsolutionsofEq.(1).Thefactthat(H−nk)ϕnk(r)doesnotvanishidenticallyforallrintheunitcellwillgiverisetoasmallcorrectionthatformallyresemblesthe
+Pulayterminatomic-forcecalculations.(ii)Moreimportantly,though,theincompletenessofthebasisleadsto aneglectofimportantresponseeﬀects,inparticularin theMTspheres,wherethestandardLAPWbasisisoptimizedforbandenergiesclosetotheoccupiedstates, whileforhigher-lyingbandsthebasisbecomesinadequate.(Thisisgenerallytrueforlinearizedmethods.In thepseudopotentialapproach,ontheotherhand,itisthe one-particlepotentialitselfthatisconstructedfortheoc-cupiedstates,makingitinappropriateforhighenergies.)
+Inshort,theMTfunctionsofthestandardLAPWbasis formapoorbasisforthewave-functionresponse.This isnotsurprisingsinceitshouldbeeasytoﬁndaperturbationoutofthemanyfunctionsMI(r)thatrotatestheresultingwavefunctionoutoftheHilbertspacespanned bythebasisfunctions.Infact,eachoftheMPBfunctions(exceptfortheconstantfunction)willhavethis eﬀecttosomeextent.Havingsaidthis,thequestion ariseswhetheritisnotpossibletolettheHilbertspace itselfrotateinthesamewayasthewavefunctionϕnk(r)doessothatϕ(1)
+nk(r)remainsintheco-rotatingHilbertspace.Inotherwords,weseektheresponseofthebasisfunctionssubjecttoagivenperturbingpotential,i.e.,δφkG(r)/δVeﬀ(r0).Indeed,itwillturnoutthatthisre-sponseisstraightforwardlycalculatedintheMTspheres.WestartthederivationbylettingaperturbationδVeﬀ(r0)actonthewavefunctioninEq.(8),whichfor-mallygivesδϕnk(r)
+δVeﬀ(r0)=XGδzG(n,k)
+δVeﬀ(r0)φkG(r)+zG(n,k)δφkG(r)
+δVeﬀ(r0).(24)(Localorbitalsandcorestateswillbediscussedlater.)
+ThesecondtermarisesfromthefactthatthebasisfunctionsφkG(r)dependexplicitlyontheeﬀectivepotentialthroughEqs.(12)and(14).Itcontainswhatwehave termedbasis-functionresponseabove.Wewillnowconstructthissecondtermexplicitlyandthenseehowit combineswiththeﬁrstterm.Asthebasisfunctionsdependonthepotentialonlyin
+6theMTspheres,theirlinearresponsewithrespecttoa changeofthepotentialisnonzeroonlywithinthespheres.LinearizingEq.(9)gives
+φ(1)
+kG,I(r)=
+
+0ifr∈IRXlmphAa lmp(k,G)ua(1)lp,I(|r−Ra|)+Aa(1)lmp,I(k,G)ua lp(|r−Ra|)iYlm(\r−Ra)ifr∈MT(a),(25)
+wherethequantitiesφ(1)
+kG,I(r),ua(1)lp,I(r),andAa(1)lmp,I(k,G)denotethelinearchangesoftheLAPWbasisfunction, theradialfunction,andmatchingcoeﬃcients,respectively,inanalogytoEq.(19).Here,werestrictourselves toMTfunctionsMI(r)=MI(r)withangularmomen-tumL=0.(Forsimplicity,thefunctionMI(r)isalreadyscaledwithY00(ˆr)=1/√
+4π.)Ofcourse,theradialfunc-tionsua lp(r)canalsorespondtononsphericalperturba-tions(L6=0)ofthepotential.Then,thelinearresponseconsistsofasuperpositionof|l−L|,...,l+Lfunctions.Wedeferthismoregeneralandmorecomplicatedcase toalaterpublicationandnotethatthecaseL=0givesthemostimportantcontribution.Thefunctionsua(1)lp,I(r)areobtainedfromlinearizingEqs.(12)and(14),whichyieldsSternheimerequations fortheradialfunctions[ha l−a l]rua(1)l0,I(r)=ha(1)l,I−MI(r)irua l0(r)(26)and[ha l−a l]rua(1)l1,I(r)=ha(1)l,I−MI(r)irua l1(r)+rua(1)l0,I(r).(27)Thevariationoftheenergyparameterisgivenbythe expectationvaluea(1)l,I=hua l0|MI|ua l0i.(28)Thescalar-relativisticversionsareagaindeferredto
+AppendixA.Theradialinhomogeneousdiﬀerential
+Eqs.(26)and(27)areeasilysolvedbyintegratingfrom theoriginr=0totheMTboundaryr=Sa.There-sultingspecialsolutionsarenotuniquelydeﬁnedsince wemayalwaysaddthehomogeneoussolutionua lp(r)oramultipleofit.Thisfreedomisremovedbyrequiring thatua l0(r)isnormalized,whichleadstotheadditionalconditionsˆdrr2ua l0(r)ua(1)l0,I(r)=0(29)andˆdrr2ua l0(r)ua(1)l1,I(r)=−ˆdrr2ua l1(r)ua(1)l0,I(r).(30)TheEqs.(29)and(30)togetherwithEq.(28)ensurethat ua(1)lp,I(r)vanishesforconstantvariationsofthepotential.Asanexample,weshowinFig.1(a)theradialbasisre-sponsefunctions,uSc(1)Ω00,I(r)anduSc(1)Ω01,I(r),fortheScatomofrock-saltScNandforl=0asobtainedfromEq.(26)and(27)togetherwiththecorrespondingperturbingpotentialMI(r).ForcomparisontheconventionalLAPWsfunctionsuScΩ00(r)anduScΩ01(r)arepresentedinFig.1(b).AccordingtoEq.(29),thefunctionuSc(1)Ω00,I(r)isorthog-onaltouScΩ00(r)and,asobviousfromFig.1(a)and(b),itisclearlydiﬀerentfromuScΩ01(r)bymorethanafac-tor.Asaconsequence,itliesoutsidetheHilbertspace formedbythetwobasisfunctionsandwillcontributeto theincomplete-basis-setcorrection.AsimilarobservationholdsforthefunctionuSc(1)Ω01,I(r).ThelinearchangeofthematchingcoeﬃcientsAa lmp(k,G)isstraightforwardlyobtainedfromdiﬀerenti-atingEq.(10)withrespecttothepotential.Thisﬁnally givesrisetoAa(1)lmp,I(k,G)=(−1)p+1[ua l
+p(Sa),Pp0Aa lmp0(k,G)ua(1)lp0,I(Sa)]
+[ua l1(Sa),ua l0(Sa)].(31)ThecoeﬃcientsAa(1)lmp,I(k,G)guaranteethattheresultingfunctionsφ(1)
+kG,I(r),asdeﬁnedinEq.(25),andtheirra-dialderivativescontinuouslygotozeroattheMTsphere boundaries.Wenotethattherestofthederivationappliesgener-allytospherical(L=0)andnonsphericalperturbations(L6=0).Oncetheφ(1)
+kG,I(r)areconstructed,linearcom-binationswiththewave-functioncoeﬃcients˜ϕ(1)
+nk,I(r)=XGzG(n,k)φ(1)
+kG,I(r)(32)yieldthesecondtermofEq.(24)forvariationsthatscale withMI(r)accordingtoEq.(19).TheﬁrsttermofEq.(24),inthefollowingdenotedbyˆϕ(1)
+nk,I(r),liescompletelyintheHilbertspacespannedbytheLAPWbasisset.Accordingly,ˆϕ(1)
+nk,I(r)canbeexpandedintermsoftheunperturbedKSwavefunctionsˆϕ(1)
+nk,I(r)=Xn0hϕn0k|ˆϕ(1)
+nk,Iiϕn0k(r).(33)
+7(a)
+-4
+-2
+0
+2
+4
+6
+8
+10
+0
+0.5
+1
+1.5
+2
+r (a0)u(1)00(r)
+u(1)01(r)
+MI(r)
+Sc
+(b)
+-4
+-2
+0
+2
+4
+6
+8
+10
+0
+0.5
+1
+1.5
+2
+r (a0)u00(r)
+u01(r)
+Sc
+Figure1:(ColorOnline)(a)NormalizedradialbasisresponsefunctionsuSc(1)
+00(r)[(red)solidline]anduSc(1)
+01(r)[(blue)dashedline]asobtainedfromEqs.(26)and(27)forangular momentuml=0calculatedintheMTsphereoftheScatominrock-saltScN.TheperturbingpotentialMI(r)isshownasthe(green)dottedline.(b)CorrespondingradialLAPW
+basisfunctionsuSc
+00(r)[Eq.(12)][(red)solidline]anduSc
+01(r)[Eq.(14)][(blue)dashedline].
+Theprojectioncoeﬃcienthϕn0k|ˆϕ(1)
+nk,Iiisobtainedbyex-ploitingthefactthatϕ(1)
+nk,I(r)=ˆϕ(1)
+nk,I(r)+˜ϕ(1)
+nk,I(r)isthesolutionofEq.(21).AfterleftmultiplicationofEq.(21)
+withϕ∗
+n0k(r)(n06=n)andintegrationoverspaceoneyields(n0k−nk)hϕn0k|ˆϕ(1)
+nk,I+˜ϕ(1)
+nk,Ii+hDn0k|ˆϕ(1)
+nk,I+˜ϕ(1)
+nk,Ii=hϕn0k|(1)
+nk,I−MI|ϕnki,(34)whereweadditionallyallowfordeviationsofthecalculatedwavefunctionsϕn0k(r)fromthetrueeigenfunctionsoftheoperatorHbyexplicitlytreatingDn0k(r)=(H−n0k)ϕn0k(r)asanonzeroquantity.Usinghϕn0k|ϕnki=0andhDn0k|ˆϕnk,Ii=0leadstohϕn0k|ˆϕ(1)
+nk,Iiforn6=n0.Theexpansioncoeﬃcientforn=n0followsfromthenormalizationconditionEq.(20).Byaddingupˆϕ(1)
+nk,I(r)and˜ϕ(1)
+nk,I(r)weﬁnallyendupwiththeinstructiveresultϕ(1)
+nk,I(r)=Xn0≤Nn0(6=n)"hϕn0k|MI|ϕnki
+nk−n0k+hϕn0k|H−n0k|˜ϕ(1)
+nk,Ii
+nk−n0k#ϕn0k(r)+ˆd3r0
+δ(r−r0)−Xn0≤Nϕn0k(r)ϕ∗
+n0k(r0)
+˜ϕ(1)
+nk,I(r0).(35)Theﬁrsttermcontainstheusualexpressionfromﬁrstorderperturbationtheory[Eq.(22)]andacorrectionthat takesintoaccountthatthewavefunctionsarenotexact eigenfunctionsoftheHamiltonianoperatorHduetotheincompletenessofthebasis.Wecallthiscorrectionthe
+Pulayterminanalogytoacorrespondingterm–thePulayforce–inatomic-forcecalculations.40,41,54Asal-readydiscussed,theﬁrsttermisinaccuratebecauseof thetruncationofthesum(n0≤N).Thisinaccuracyiscorrectedbythesecondtermthatarisesfromtheexplicitvariationofthebasisduetoachangeintheeﬀectivepotential.Wecallthistermthebasis-response(BR)correction.Inthelimitofacompletebasis(withanin-
+ﬁnitenumberofstates)thePulayandBRtermwould vanish,andthestandardperturbationtheory(SPT)expressionwouldgivetheexactresult.Thesumoverstates intheBRpartcanbeinterpretedasadouble-counting correctionthatsubtractsresponsecontributionsalready containedintheﬁrstterm.Sofar,wehaverestrictedthederivationtotheaug-mentedplanewavesdeﬁnedinEq.(9).Corresponding correctionscanbederivedforthelocalorbitalsandthe corestates.Whilethederivationfortheformerclosely followsthestepsalreadypresented,thecorestatesrequiresomediﬀerentconsiderations.Incontrasttothe basisfunctions,theyfulﬁlltheboundaryconditionthat theyapproachzeroforr→∞.Thisboundarycondi-tionisusedtodeterminetheenergiesofthecorelevels, whichincontrasttotheconstructionoftheLAPWbasis functionsarenotchosenasparametersbutresultfrom anatomiceigenvalueproblem.Therefore,weuseaﬁnitediﬀerenceapproach:wesolvetheatomiceigenvalueproblemsfortheperturbedpotentialsVeﬀ,0(r)+λ
+2MI(r)andVeﬀ,0(r)−λ
+2MI(r)withλ=0.0001,takethediﬀerenceoftheresultingcorewavefunctions,anddividebyλ,whichdirectlyyieldsthelinearresponseofthecorestate.As thefullyrelativisticDiracequationisemployedforthe corestates,theﬁnite-diﬀerenceapproachyieldsthesolutionofthefullyrelativisticSternheimerequation.FinallyweuseEq.(35)toconstructthedensityre-sponsematrix[Eq.(16)]andtheright-handsideofthe
+OEPequation[Eq.(17)];alsoconsiderEqs.(3)and(19).
+Asaresult,
+8χs,IJ=4occ.Xnkunocc.Xn0≤NhMIϕnk|ϕn0kihϕn0k|ϕnkMJi
+nk−n0k+hMIϕnk|ϕn0kihϕn0k|H−n0k|˜ϕ(1)
+nk,Ji
+nk−n0k#+4occ.Xnk
+hMIϕnk|˜ϕ(1)
+nk,Ji−Xn0≤NhMIϕnk|ϕn0kihϕn0k|˜ϕ(1)
+nk,Ji
+,(36)andtI=4occ.Xnkunocc.Xn0≤NhMIϕnk|ϕn0ki
+nk−n0khϕn0k|VNLx|ϕnki+h˜ϕ(1)
+nk,I|H−n0k|ϕn0ki
+nk−n0khϕn0k|VNLx|ϕnki#+4occ.Xnk
+h˜ϕ(1)
+nk,I|VNLx|ϕnki−Xn0≤Nh˜ϕ(1)
+nk,I|ϕn0kihϕn0k|VNLx|ϕnki
+.(37)areagaingivenasasumoveranSPT,Pulay,andBR
+term.Initspresentform,theexpressioninEq.(36)breakstheHermiticityofχs,IJbecausetheadditionaltermisformallyasymmetricintheindicesIandJ.However,thenumericaldeviationfromHermiticityissmall.To eliminatetheseinaccuracies,wetaketheaverage(χs,IJ+χ∗Ωs,JI)/2.V.PERFORMANCEOFTHEIBCWehaveimplementedtheincomplete-basis-setcor-rection(IBC),asdescribedintheprevioussection,in theFleurprogrampackage,55whichisbasedontheFLAPWmethod.Beforeshowingresultsforthenitrides
+BN,AlN,GaN,InN,andScNaswellastheperovskitesΩCaTiO3,SrTiO3,andBaTiO3inthenextsection,weﬁrstanalyzeindetailhowtheconvergencepropertiesof thesingle-particleresponsefunction[Eq.(36)],thelocalexchangepotential,andthebandgapareimproved bytheIBCfortheexampleofrock-saltscandiumnitride.Theimprovementsaretwofold:(1)thespherical responsefunctionconvergeswithmuchsmallerLAPW
+basissetsthanbefore;(2)foragivenLAPWbasismuch fewerunoccupiedstatesareneededforitsconstruction.Unlessnotedotherwise,theLAPWcutoﬀparametersGmax=3.8a−10andlmax=8wereusedforthecalcu-
+-1
+-0.9
+-0.8
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0
+1
+2
+3
+4
+5
+6
+tr(χs)nLO
+ScN
+-0.918
+-0.9175
+-0.917
+-0.9165
+-0.916
+0
+1
+2
+3
+4
+5
+6
+Figure2:(ColorOnline)ConvergenceofthetraceofχsforScNasafunctionofthenumberoflocalorbitalsnLOperlquantumnumber(0≤l≤4)andatom.TheSPT[(green)dashed],BR[(blue)dotted],andPulayterm[(orange)dotdashed]aswellastheirsum[(red)solidline]areshown,respectively.WeonlyconsidersphericalMPBfunctions,and the(constant)contributionofcorestatesisneglected.
+lationsofrock-saltScNattheexperimentallatticecon-stantof8.50a0(a0istheBohrradius).TheSc1s,2s,and2pstatesaswellastheN1sstatearetreatedascorestates.Allotherstates–includingthe3sand3psemi-corestatesofSc–aretreatedasvalence.TheBrillouin zoneissampledwitha4×4×4k-pointmesh.A.ResponsefunctionWeremindthereaderthattheIBCconsistsoftwoterms,thePulayandtheBRterm,whicharederivedas acorrectionfortheexpressionofstandardperturbation theoryabbreviatedbySPT.Inprinciple,thecorestates areincludedinEq.(36)aspartofthesumovertheoccupiedstates.ThisisreminiscentofthefactthattheIBC
+notonlycorrectsfortheincompletenessofthebasis,but alsocomprisestheexactcore-stateresponse,whichwill giveanumericallyimportantcontribution,butonlya nearlyrigidshiftoftheconvergencecurves.Tosimplify thediscussion,wewillleavethecontributionofthecore statesoutuntillater.Figure2showstheconvergenceofthetraceofthematrixχs,IJ[Eq.(36)]aswellasitsSPT,Pulay,andBRcontributionsforScNasafunctionofthenumber oflocalorbitalsnLOaddedtotheLAPWbasisforeachlmchannelwith0≤l≤4and|m|≤l(inadditiontolocalorbitalsalreadyusedforthesemicore3sand3pstatesofscandium).Theaddedlocalorbitalsareplacedatenergiesintheconductionbandaccordingto therecipeofRef.20.Forsimplicity,wehaveemployed thesamenumberofadditionallocalorbitalsforScand
+N.InthiscasetheMPBconsistsof13sphericalfunctions,sevenattheScatomandsixattheNatom.The tracetr(χs)=PIχs,IIisrestrictedtothesefunctions.
+9
+-1
+-0.9
+-0.8
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0
+50
+100
+150
+200
+250
+300
+350
+400
+tr(χs)Number of unoccupied statesnLO= 0nLO= 0nLO= 0nLO= 0nLO= 6nLO= 6nLO= 6nLO= 6
+ScN
+Figure3:(ColorOnline)ConvergenceofthetraceofχsforScNasafunctionofthenumberofunoccupiedstatesN−Nel/2.TheSPT[(green)opensymbols],BR[(blue)ﬁlledsymbols],andPulayterm[(orange)hall-ﬁlledsymbols]aswellastheirsum[(red)opensymbols]areshown,respectively.
+CirclesandsquaresareusedtodistinguishthecasesnLO=0andnLO=6.TheslowconvergenceoftheSPT[dashed(green)line]is adirectconsequenceofthelowﬂexibilityoftheLAPW
+basisintheMTsphereswithrespecttochangesofthe eﬀectivepotential.Thedotted(blue)anddot-dashed
+(orange)lineshowthecorrespondingbehavioroftheBR
+andPulay-term,respectively.Asexpected,bothcorrectionsbecomesmallerasthebasissetbecomesmoreand morecompletetowardnLO=6.ThemajorpartofthecorrectionoriginatesfromtheBRterm,whilethePulay termissigniﬁcantonlyfornLO=0and,eventhere,ac-countsformerely10%ofthetotalIBC.FornLO≥1,itrapidlyapproacheszero.TheBRtermismuchmore importantnumerically.Infact,thedotted(blue)and dashed(green)linesappeartobemirrorimagesofone another,showingthattheBRcorrectioncompensates nearlyexactlyforwhatismissingintheSPTterm.The sumofalltermsproducesthesolid(red)line,whichappearstobeconstantonthescaleofthediagram.From theinset,whichshowsthecurveonamuchﬁnerscale, weseethatthevariationsarebelow0.05%,anaccuracy thatwecouldneverhopetoachievewithouttheIBC.For thisparticularcase,wethusdonothavetoemployadditionallocalorbitals(i.e.,nLO=0)fortheunoccupiedstates.Uptonow,wehavediscussedhowtheIBCaﬀectstheconvergenceofthesingle-particleresponsefunctionwith respecttothequalityoftheLAPWbasis.Aperhaps moreobviousconvergenceparameteristhenumberof statesNincludedintheevaluationofEq.(36).Allthreeterms,SPT,Pulay,andBR,involvesummations overtheunoccupiedstatesuptothemaximalbandindexN.KeepinginmindthatthesumintheBRpartcanbeinterpretedasadouble-countingcorrection,one canhopethatthefunction˜ϕ(1)
+nk,I(r)obtainednonpertur-bativelyfromdirectintegrationoftheSternheimerequa-tionalreadycontains,toacertaindegree,information aboutthewholeinﬁnitespectrumofunoccupiedstates.
+Asamatteroffact,thisconjectureissubstantiatedby
+Fig.3,whichshowstheconvergenceofthetraceofχsfortwodiﬀerentLAPWbasissetswithnLO=0(circles)andnLO=6(squares)asafunctionofthenumberofunoccupiedstatesN−Nel/2,whereNelisthenumberofvalenceelectronsperunitcell(Nel=16forScN).(ThereciprocalcutoﬀvalueoftheLAPWbasishasbeenincreasedtoGmax=5.5a−10togenerateupto450bands.)SimilarlytoFig.2,theSPTterm[(green)opensymbols]
+showsaveryslowconvergencewithrespecttothenumberofunoccupiedstates.WenotethatinthenLO=0case[(green)opencircles]alargepartoftheresponseis actuallymissingintheSPTtermresultinginafalseconvergencebehaviorofthecurve,whichseemstoconverge, buttowardawrongvalue.Asabove,theBRterm[(blue)
+ﬁlledsymbols]ismuchmoreimportantthanthePulay term[(orange)half-ﬁlledcircles]andcounterbalancestheﬁrsttermalmostexactly.WhilethePulaytermispracticallyzerointhecasenLO=6,alsocompareFig.2,itissigniﬁcantinthecasenLO=0andyieldsasmallbutimportantcontributiontothesumofallterms.In fact,thissumnearlyfollowsthesamecurve[(red)open symbols,circlesandsquarescorrespondtonLO=0andnLO=6,respectively]inthetwocases,showingagainthatwiththeIBCwecanrestrictourselvestotheconventionalLAPWbasis,i.e.,nLO=0.Thetotalsumcon-vergesextremelyfast,thankstotheBRterm,inwhich theinﬁnitespectrumofeigenstatesisalreadyincorporatedtoalargeextent.Withoutshowingfurtherresults wenotethattheIBCaﬀectstheconvergenceoftheright handside[Eq.(37)]inasimilarlybeneﬁcialway.Sofar,wehavenotdiscussedthecontributionofthecorestatestothedensityresponseχs.ForthecorestateresponsewesolveafullyrelativisticSternheimerequationbyaﬁnite-diﬀerenceapproachasdiscussedinSec.IVA.
+Theresultingsolutionembodiesthefullinﬁnitespectrum ofunoccupiedstatesbyconstructionandcan,therefore, beconsideredtorepresentalreadytheexactcore-stateresponse(uptonumericalerrorsconnectedwiththeﬁnitediﬀerenceapproach,whichcanbemadearbitrarilysmall, though).Therefore,wecansetNtothenumberofoccu-piedstatesinEq.(36).Theﬁrsttermisthenzero,and onlytheBRtermremains.Thecontributionofthecorestatestotheresponsefunctionisnumericallyimportant.InthecaseofScN
+itismorethanfourtimeslargerthanthevalencecontribution.However,itshouldbenotedthattheeﬀective quantityfortheconstructionofthelocalexchangepotentialisnottheresponsefunctionitself,butitsinverse
+[seeEq.(4)].Therefore,largeeigenvaluesofχsbecomecomparativelyunimportantinχ−1s.Thisisconﬁrmedbythefollowingobservation.WeﬁndthattheSPTexpressionaloneisincapableofdescribingthecore-state response.EvenwithnLO=6andN=450,onlyabout20%ofthecontributionofthecorestatesisaccountedfor,whichmanifeststhehardlysurprisingfactthatthe
+10LAPWvalencebasisisunsuitabletodescribechangesin thecorestates.However,thisshortcomingaﬀectsthe resultingexchangepotentialandKStransitionenergies onlyslightly,aswewillseebelow.B.LocalexchangepotentialFigure4showsthelocalexactexchangepotentialbe-tweenneighboringscandiumandnitrogenatomsforthree calculations,allofthemwithoutanylocalorbitalsforthe unoccupiedstates.ForthesecalculationsanMPBwith
+G0Ωmax=2.8a−10andLmax=4isemployed,andtheIBCisappliedtobothcoreandvalenceelectrons.Without theIBC(greendashedline)weobtainanunphysical, stronglyvaryingpotentialthateventendstoanunreasonablepositivevalueatthepositionofthenitrogennucleus.InRef.20weshowedthatthespuriousoscillations canbeavoidedbyaugmentingtheLAPWbasiswithlocalorbitalsleadingtoasmoothandphysicalpotential, attheexpenseofaverycostlycalculation.Asshownin
+Fig.4,thesamesmoothshapeofthelocalexactexchange potentialisrealizedbyemployingtheIBCwithaconsiderablysmallercomputationaloverhead.Weemphasize thatnolocalorbitalsareusedinthiscalculation.Whenonewatchesclosely,onestillseesveryslightanomaliesofthedottedcurveattheatomicnuclei,here morepronouncedatthenitrogennucleus(alsocf.the insets).TheseresultfromthefactthattheradialMT
+potentialenterswithafactorr2intotheequations.Theregionclosetothenucleihasonlylittleweightandis thereforediﬃculttoconverge.Ontheonehand,forsmall rthetotaleﬀectivepotentialisdominatedbythepoten-tialofthenucleus−Z/raswellasthecentrifugalkineticenergybarrierl(l+1)/(2r2)suchthatslightinaccura-ciesatthenucleiprovetobeirrelevantinthecalculation oftheelectronicstructure.Ontheotherhand,wecan
+ﬁndasimpleremedybyanadditionalconstraintforthe sphericalfunctions(L=0)oftheMPB,whichhastheadditionalbeneﬁtofreducingtheirnumberbyonefor eachatomintheunitcell.Werequirethegradientof thesefunctionstovanishatr=0.AsalreadymentionedinSec.III,thisbehaviorhasbeenobservedforthelocal exactexchangepotentialinpreviouspublications.50–52Thus,theconstraintdoesnotinduceerrors.Withsuch amodiﬁedMPBtheanomaliesofVx(r)atthenucleidis-appear,andweobtaintheredsolidlineshowninFig.4.
+Wealsonotethatthenumericalstabilitybeneﬁtsfrom thismodiﬁcation.Asalreadypointedout,theIBCispresentlyonlyap-pliedtosphericalvariationsofthepotential.Toconverge thenonsphericalcontributionsproperlywestillneeda fewlocalorbitals.Figure5(a)showsthiseﬀect,whichis strongestclosetotheatomicnucleusofSc.Usingasingle setoflocalorbitals,i.e.,nLO=1,givesaslightcorrec-tionofthepotential,whichgivesrisetochangesinsingleparticletransitionenergiesintheorderof0.10−0.15eV.(WehaveconsideredthegaptransitionsΓ→Γ,Γ→X,
+-16
+-12
+-8
+-4
+0
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+Vx (htr)r (a0)
+-16
+-12
+-8
+-4
+0
+0.0001
+0.01
+1
+Sc
+-6
+-4
+-2
+0
+0.0001
+0.01
+1
+N
+ScN
+Figure4:(ColorOnline)LocalEXXpotentialforScNona lineconnectingtheneighboringScandNatoms.Wehave usedaconventionalLAPWbasiswithoutlocalorbitalsfor theunoccupiedstates.The(blue)dottedand(green)dashed curvescorrespondtocalculationswithandwithouttheIBC.
+Forthe(red)solidcurvewehaveemployedanadditional constraintfortheMPB(seetext).Eq.(4)deﬁnesthepotentialonlyuptoaconstant.Here,weusetheconvention
+´Vx(r)d3r=0.andΓ→L.)FornLO=2changesarelessthan0.03eV.Itisimportanttonotethatthecalculationsalwaysconvergetothesameresult,irrespectiveofwhetherornot theIBCisused.WeexpectthatoncetheIBCisextendedtothenonsphericalMPBfunctions,noextralocal orbitalsarerequiredanymore.Asalreadydiscussed,takingintoaccounttheexactcoreresponseyieldsanumericallyimportantcontributiontothesingle-particleresponsefunction.Todemonstratetheeﬀectonthelocalexchangepotential,we switchtheIBCforthecorestatesoﬀ.Figure5(b)shows thatthishasonlyacomparativelysmalleﬀectonthe shapeoftheresultingpotential.Atﬁrstsight,theincurredchangesinthepotentialaremorepronouncedthan inFig.5(a),but,incontrasttoFig.5(a),theymostlyaffecttheregionclosetothenucleus,wheretheeﬀective potentialisdominatedbythepotentialofthenucleus andtheangularkineticenergy.Infact,thesingle-particletransitionenergiesareinﬂuencedonlylittle:theychange bylessthan0.04eV.However,itshouldbenotedthat theexactcoreresponseisevaluatedatvirtuallynoextra cost.C.KSbandgapAfterdiscussingtheeﬀectoftheIBContheingredi-entsoftheOEPintegralequationandthelocalexact exchangepotential,wenowturntotheKSbandgap.As wehavepresentlyderivedtheIBConlyforthespherical
+MPBfunctions,weemploythecutoﬀLmax=0forthistestcalculationinordertohighlighttheimprovements resultingfromtheIBC.Thiswillproduceapotential
+11(a)
+-18
+-16
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+0.0001
+0.01
+1
+Vx (htr)
+Scr (a0)
+(b)
+-18
+-16
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+0.0001
+0.01
+1
+Vx (htr)
+Scr (a0)
+Figure5:(ColorOnline)(a)ComparisonofVx(r)closetotheatomicnucleusofScforcalculationswith[(green)dashedline,nLO=1]andwithout[(red)solidline,nLO=0]localorbitals.(b)Vx(r)with[(red)solidline]andwithout[(green)dashedline]thecoreresponseoftheIBC.
+Vx(r)thatispurelysphericalinthemuﬃn-tinspheres.Wenoteagainthatageneralizationtononsphericalfunctions(L>0)ispossible,butnotyetimplemented.Fur-thermore,werestricttheinterstitialexchangepotential toaconstantforsimplicity.Figure6showsthedirect(Γ→Γ)gapofScNforthisspeciﬁcnumericalsetupasafunctionofthenumberoflocalorbitalsperlchanneladdedtotheLAPWbasis.ThecasenLO=6correspondsto300additionalbasisfunctions.Itisknownthatsmallinaccuraciesin thebandgapcanoccurduetothelinearizationerrorof theLAPWbasis(inthecasenLO=0).Toeliminatethispurebasis-seteﬀect,wehavetakentwomeasures:
+(1)wehaveperformedonlyasingleEXX-OEPiteration
+(startingfromaPBE7groundstate),and(2)theﬁnaldi-agonalizationoftheKSHamiltonianwasperformedwith themostaccuratebasisset(nLO=6).ThevaluenLOshownontheabscissathuscorrespondstothebasisused insolvingtheOEPequation,andvariationsintheband gapcanbeattributedexclusivelytotheprecisionofthe localexchangepotentialwithoutadditionalbasis-seteffects.Wenotethat,inspiteoftheverysmallMPBused hereandinspiteofperformingonlyoneiteration,the resultingbandgapissurprisinglyclosetothefullyconvergedone(seeTab.I).WithouttheIBC[(green)dashedcurve]foursetsoflocalorbitals(nLO=4)arenecessarytoobtainadirectgapwithanaccuracyof0.05eV(wenotethat,judgingfromtheformofthecurve,theaccuracyatnLO=3seemstobeduetoafortuitouscancellationoferrors).
+Ontheotherhand,thecalculationwiththeIBCyieldsa reliablegapwithanaccuracyof0.007eValreadywithoutanylocalorbitalsfortheunoccupiedstates(nLO=0).Bothcurvesconvergetothesameband-gapvalue,while theconvergenceoftheIBCvaluesishardlyvisibleonthe scaleofthediagram.Wehaveindicatedthecomputation
+4.4
+4.6
+4.8
+5
+5.2
+5.4
+5.6
+0
+1
+2
+3
+4
+5
+6
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+Egap (eV)Γ-ΓComputation time (s)nLO
+ScN
+Figure6:(ColorOnline)ConvergenceofthedirectgapofScN
+withrespecttothenumberoflocalorbitals(nLO)addedtotheLAPWbasisforone-shotEXXcalculationswith[(red)
+solidline]andwithout[(green)dashedline)]theIBC.The computationtimeisshownontherightscale.
+timeontherightscale.Thecomputationaloverheadof theIBCcalculationsisduetotheadditionalevaluation ofthePulayandBRterm,inparticularforthematrix elementshϕnk|VNLx|˜ϕnk,IiinEq.(37).Itisdiﬃculttocomparetheeﬃciencyofthecalculations,sincetheleast accuratecalculationwiththeIBCisstillmoreaccurate thanthemostaccurateonewithout.Ifwetakeanaccuracyof0.05eVasacriterion,onewoulddeduceanaccelerationofthecodebyafactoroffour.Usingless unoccupiedstates(cf.Fig.3)couldfurtherreducethe computationtime.VI.RESULTSANDDISCUSSIONInTableIwereportKStransitionenergies,i.e.,KSeigenvaluediﬀerences,fortheIII-Vnitridesinthe zincblendestructureandforrock-saltScN,calculated withtheEXXandEXXcfunctionals.ThelattercontainsadditionallytheLDAcorrelationfunctionalinthe parametrizationofPerdewandZunger.56Whiletheground-statecrystalstructureoftheIII-Vnitridesis wurtzite,theycanbesynthesizedinthemetastable zincblendestructurebyepitaxialgrowthtechniques.All calculationswereperformedattheexperimentallattice constants(ScN,8.50a0;BN,6.84a0;AlN,8.26a0;GaN8.50a0;InN9.41a0)withan8×8×8k-pointsamplingandwithlocalorbitalsforthecompletesemicoreshell
+(e.g.,2sand2pstatesofAl).Thenumericalcutoﬀpa-rametersGmax,G0Ωmax,lmax,andLmaxaswellasthenumberoflocalorbitalsaredeterminedsuchthatthe transitionenergiesareconvergedtowithin10meV.Wecompareourresultswithplane-wavepseudopotentialcalculationsandexperimentalvaluesfromtheliterature.TheEXXandEXXcfunctionalsgiveKStransitionenergiesthataremuchclosertotheexperimentalvalue
+12thanLDA.InNandScN,whicharemetallicinLDA,are correctlypredictedtobesemiconductors.Theinclusion oftheLDAcorrelationfunctionalinEXXcincreasesthe valuesbyabout0.01−0.2eV,butdoesnotyieldasys-tematicimprovementwhencomparedtoexperiment.For
+AlNandScNourEXXcvaluesagreewellwiththosefrom thepseudopotentialstudies.Thediﬀerencesaremostly ofthesameorderasthediﬀerencesintheLDAtransition energies.InthecaseofGaNandInNthesituationismorecom-plexbecauseofthesemicoredstates.Inpseudopotentialcalculationstheycanbetreatedapproximatelyasatomic corestatesinthepseudopotentialor,ataconsiderably largercomputationalexpense,asvalenceelectronswithin theplane-wavebasis.Therefore,TableIliststwovalues foreachsystemandfunctionalfromcalculationswhere thedsemicoreelectronsaretreatedasvalence("withd")ornot("nod").Theformervalues,whicharesystemat-icallysmallerthanthelatter,mustbeconsideredtobe moreaccurate.Ofcourse,wedonothavetomakesuch adistinctioninourcalculations,becausetheFLAPW
+methodtreatsvalenceandcoreelectrons,downtotheΩ1sstate,onanequalfooting.Indeed,ourLDAtran-sitionenergiescomparebetterwiththepseudopotential calculations"withd".However,weﬁndamuchlargerdiscrepancyfortheEXXcfunctional.Inallcasestheallelectronvaluesfallin-betweenthetwopseudopotential results,oftenbeingequallyfarawayfromeithervalue.
+EngelandSchmid57pointedoutforthecaseoftransi-tionmetalmonoxidesthatthecompletesemicoreshell, comprisingthe3s,3p,and3dstates,mustbetreatedasvalencetoobtainaccurateEXXvalueswithinthepseudopotentialapproach.Itistobeexpectedthatthisalso holdsforGaNandInN,whichwouldexplainthediscrepanciesobservedforthepseudopotentialcalculationswith respecttotheall-electronresults.TableIIshowstheenergeticpositionsofthedlevelsinGaNandInNwithrespecttotheFermilevel,which isﬁxedatthevalencebandedge.Itiswellknownthat theLDAunderbindsthe3dstates,whichisusuallyat-tributedtotheself-interactionerrorofLDA.However, inspiteofthefactthattheEXX(c)isfreeofthiserror, thepositionofthedbandsishardlyimproved.WhileinGaAsthedlevelsareloweredbyabout1eV,theyre-mainnearlyatthesameenergyinInN.Incomparison totheexperimentalvalues,17.7eV(GaN)and14.9eV(InN;measuredforwurtzitestructure),thisishardlyan improvementoverLDA.Ontheotherhand,weﬁndthat theHFmethodyieldsd-bandpositionsat21.28eV(GaN)and18.22eV(InN),respectively,i.e.,evenbelowtheex-periment.AstheHFandEXX-OEPmethodsemploy thesameenergyfunctional,thequestionariseswhythe d-bandpositionsappearatdiﬀerentenergies.Inshort,whatisthemeaningoftheEXX-OEPsingle-particleenergies?AccordingtoKoopmans’theorem,66thesingle-particleenergiesintheHFapproachcanbeunderstood astotal-energydiﬀerencesbetweenanexcitedstateand thegroundstate,neglectingorbitalrelaxationeﬀects.Forthedstates,∆E=EN−1d−EN0=hd|hHF|di=HF
+d,wherethetwototalenergiescorrespondtothemanybodystateswithandwithoutaholeinadlevel,HF
+distheHFsingle-particleenergyofthatdlevel,andhHFistheHFsingle-particleHamiltonian.TheOEPapproachwasoriginallyintendedasaproceduretosimplifythesolutionoftheHFequationsbyintroducinga localpotentialthatminimizestheHFtotalenergy.In fact,theEXX-OEPandHFground-statetotalenergies arenearlyidentical.20,37Thisindicatesthattheslightdiﬀerenceinshapeofthesingle-particlewavefunctions onlyhasanegligibleeﬀectontheground-statetotalenergyEN0,astatementthatshouldalsoholdforthehole-stateenergyEN−1d.UsingKoopman’stheoremagainwiththeEXX-OEPwavefunctionsinsteadoftheHF
+ones,weshouldobtainpracticallythesame∆E.How-ever,asseeninTableII,theHFeigenvalueHF
+ddiﬀersfromthecorrespondingEXX-OEPeigenvalueEXX
+dby∆=HF
+d−EXX
+d=hd|VNLx−Vx|di.Asaconsequence,theunderbindingofthedbandsinLDA–andalsoinEXX(c)–cannotbesolelyascribedtotheself-interaction errorcontrarytocommonbelief.Partofthisunderbindingisduetotheforcedlocalityoftheeﬀectivepotential,whichgivesrisetoanonzeroenergyshiftthatisvery similarinspirittothederivativediscontinuity9,21ofthexcfunctional.Evenwiththeexactfunctionalwecannot expectthatthed-bandpositionslieattheexperimentalpositionsinthesamewayaswecannotexpecttheKS
+bandgaptoequaltheexperimentalgap.Finally,wereportresultsfortheelectronicstructureoftheperovskitetransition-metaloxidesCaTiO3,SrTiO3andBaTiO3.Wehavecalculatedthematerialsintheidealcubicstructureatexperimentallatticeconstants
+(CaTiO3,7.35a0;SrTiO3,7.46a0;BaTiO3,7.60a0)andwiththefunctionalsLDA,EXX,andEXXc.TheTi3sand3pstatesaswellastheﬁrstsubshellofthecations(Ca,3s3p;Sr,4s4p;Ba5s5p)havebeentreatedwithlocalorbitals.Theelectronicstructuresofthethreesystemsareverysimilar.Theyaresemiconductorswithan indirectbandgapbetweentheRandtheΓpointandadirectgapattheΓpoint.WecomparetheLDAandEXXbandstructuresanddensitiesofstatesofCaTiO3inFig.7.TheEXXfunctionalshiftstheTi3dconductionbandsawayfromtheO2pvalencebandsandthusopensthebandgap,whilethebanddispersionsremainnearly unaﬀected.Thevalencebandwidthisslightlydecreased, though.KStransitionenergiesarereportedinTableIII.TheLDAunderestimatestheenergiesbyroughly50%.Al-thoughtheEXX(c)functionalsyieldvaluesthatare closertoexperiment,weobserveapronouncedoverestimationbyabout25%.Thismightbeduetotworeasons:(1)Thefortuitouserrorcancellationarisingfromtheneglectofcorrelationontheonehandandofthederivative discontinuityontheotherhanddoesnotworkforthese transition-metaloxides.(2)Theidealcubicstructure usedinourstudydoesnotcorrespondtotheexperimentallymeasuredsystems.Itisknownthattheseperovskite
+13TableI:KStransitionenergies(ineV)obtainedwiththeLDA,EXX,andEXXcpotentialsfortheIII-VnitridesandScN.An8×8×8k-pointsamplinghasbeenemployedforallcalculations.Forcomparison,plane-wavepseudopotentialresultsandexperimentalvaluesfromtheliteraturearegiven.
+ThisworkPlane-wavePP
+LDAEXXEXXcLDAEXXcExpt.ScNΓ→Γ2.354.414.422.34c4.59c,4.7d3.8dΓ→X−0.141.581.67−0.15c1.7c,1.6d1.3dX→X0.792.482.560.75c2.59c,2.9d2.40dBNΓ→Γ8.689.809.88Γ→L10.1810.8810.95Γ→X4.345.425.586.4eAlNΓ→Γ4.205.465.594.27b5.66a,5.74b5.93fΓ→L7.248.428.557.25b8.58bΓ→X3.224.774.963.27b5.03a,5.06b5.3fnod withd
+
+<!-- PDF text truncated by scrapem max_pdf_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。

@@ -1,0 +1,497 @@
+---
+source: "https://arxiv.org/abs/2111.03654v2"
+title: "Asymptotically Good Quantum and Locally Testable Classical LDPC Codes"
+author: "Pavel Panteleev, Gleb Kalachev"
+year: "2021"
+publication: "arXiv preprint / cs.IT"
+download: "https://arxiv.org/pdf/2111.03654v2"
+pdf: "https://arxiv.org/pdf/2111.03654v2"
+captured_at: "2026-05-09T12:13:15Z"
+updated_at: "2026-05-09T12:13:15Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Nietzsche Beyond Good and Evil"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# Asymptotically Good Quantum and Locally Testable Classical LDPC Codes
+
+- 著者: Pavel Panteleev, Gleb Kalachev
+- 年: 2021
+- 掲載情報: arXiv preprint / cs.IT
+- 情報源: [arxiv](https://arxiv.org/abs/2111.03654v2)
+- ダウンロード: https://arxiv.org/pdf/2111.03654v2
+- PDF: https://arxiv.org/pdf/2111.03654v2
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+We study classical and quantum LDPC codes of constant rate obtained by the lifted product construction over non-abelian groups. We show that the obtained families of quantum LDPC codes are asymptotically good, which proves the qLDPC conjecture. Moreover, we show that the produced classical LDPC codes are also asymptotically good and locally testable with constant query and soundness parameters, which proves a well-known conjecture in the field of locally testable codes.
+
+## PDF Text
+
+arXiv:2111.03654v2 [cs.IT] 21 Jan 2022
+AsymptoticallyGoodQuantumandLocallyTestableClassicalLDPCCodesPavelPanteleevandGlebKalachev∗January24,2022AbstractWestudyclassicalandquantumLDPCcodesofconstantrateobtainedbytheliftedproductconstructionovernon-abeliangroups.WeshowthattheobtainedfamiliesofquantumLDPCcodesareasymptoticallygood,whichprovestheqLDPCconjecture.Moreover,weshowthattheproducedclassicalLDPCcodesarealsoasymptoticallygoodandlocallytestablewithconstantqueryandsoundnessparameters,whichprovesawell-knownconjectureintheﬁeldoflocallytestablecodes.IntroductionΩClassicallow-densityparity-check(LDPC)codes[
+1
+],aswellastheirquantumcounterparts[
+2
+],havemanyimportantapplicationsintheoryandpractice.Thesecodesarerepresentedbysparseparity-checkmatrices,wherethetermsparseusuallymeansthatthecorrespondingTannergraphsareofboundeddegree.Besidesnumerousapplicationsindatastorageandtransmissionsystems,suchcodesareoftenusedtoconstructclassicalandquantumlocallytestablecodes[
+3
+–
+5
+],wherethesparsenessofacodeensurestheconstant-queryproperty,alsoknownastheconstantlocality.Informallyspeaking,aclassicallocallytestablecode(LTC)isacodethatcomeswithaneﬃcientnon-deterministicprocedurethatallowstotestwithhighprobabilitywhetheragivensequenceisclosetosomecodewordbylookingataverysmall,usuallyconstant,numberofrandomlychosenbitsfromthissequence.ThereareseveralwayshowonecanformallydeﬁneLTCs[
+6
+].Inthispaper,weadoptaverysimplecombinatorialdeﬁnition(see[
+7
+,Deﬁnition11])thatimpliesaratherstrongformoflocaltestability.Accordingtothisdeﬁnition,alinearcodeC⊆Fn qiscalled(ω,s)-locallytestableifithasaparity-checkmatrixH∈Fm×nqwithrowsofweightatmostωsuchthatforanyvectorx∈Fn qwehave1
+m|Hx|>s nd(x,C),whered(x,C):=minc∈Cd(x,c),andwedenotebyd(·,·)and|·|theHammingdistanceandtheHammingweigh.Theparametersωandsarepositiverealnumberscalledthelocalityandsound-ness,respectively.Aswealreadymentionedabove,thisdeﬁnitionimpliesastrongformoflocaltestability.Indeed,ifourtestprocedurepicksuniformlyatrandomarowfromHandﬁndsthe
+∗PavelPanteleevandGlebKalachevarewiththeFacultyofMechanicsandMathematics,MoscowStateUniversity,Moscow,Russia.1
+correspondingsyndromecomponent,thentheprobabilityofrejectionrejH(x)=1
+m|Hx|growsatleastlinearlywiththenormalizedminimumdistanceδ(x,C):=1
+nd(x,C)fromthetestedvectorx∈Fn qtothecodeC.Infact,foranyfamilyofLDPCcodeswithm=Θ(n)wherethetheweightsofrowsandcolumnsinHareboundedfromabovebyω(suchcodesarecalledω-limited),itfollowsthat1
+m|Hx|cannotgrowmorethanlinearlywithδ(x,C)sinceforeveryparity-checkmatrixHweget|Hx|6ω·d(x,C).Inthecaseofquantumlocallytestablecodes(qLTCs)introducedin[
+4
+],onecangiveasimilartotheabovedeﬁnitionifasparseparity-checkmatrixHisreplacedbyalocalHamiltonianHdeﬁningthequantumcode.However,foraquantumCSScodeQ(see[
+8
+,
+9
+]),obtainedfromapairofclassicalcodesCXandCZ,itispossible[
+4
+,
+7
+]toinferthelocaltestabilityofQfromthelocaltestabilityofCXandCZ.LetusrecallthataquantumCSScodeQofdimensionkisdeﬁnedbyapairofclassicallinearcodesCX,CZ⊆Fn qsuchthatC⊥Z⊆CX,andk=dimCX/C⊥Z.Itsminimumdistancedisdeﬁnedasmin(dX,dZ),wheredXanddZaretheminimalHammingweightsofthevectorsfromCX\C⊥ZandCZ\C⊥X,respectively.Inthiscase,weoftensaythatQisanJn,k,dKqcode.ThecodesCX,CZareusuallyrepresentedrespectivelybyparity-checkmatricesHX,HZ,andtheconditionC⊥Z⊆CXisequivalenttoHXH∗Z=0,whereH∗ZisthetransposeofHZ.Itwasshownin[
+7
+,Lemma13]thatifaCSScodeQisdeﬁnedbytwoclassical(ω,s)-locallytestablecodeswithparity-checkmatricesHX,HZ,thenthequantumcodeQis(ω,s0)-locallytestable,wheres0:=sminmX
+mX+mZ,mZ
+mX+mZ,andmX(resp.mZ)isthenumberofrowsinthematrixHX(resp.HZ).ClassicalandquantumLTCshavemanyinterestingapplicationsintheoreticalcomputersciencesincetheyareintimatelyrelatedtoanumberofimportantproblemsincomplexitytheory[
+4
+,
+10
+].Amajoropenproblemiswhethertherearesuchcodesofconstantlocalityω,constantrate,andconstantnormalizedminimumdistance,sometimesalsoknownasthec3-conjecture(inthecontextofclassicalcodes[
+11
+])andqLTCconjecture(inthequantumcase[
+4
+]).Inthisrespect,thesituationforclassicalLTCsismuchbetterthanfortheirquantumcounterpartssinceclassicalLTCsofalmostconstantratehavebeenknownforalongtime[
+12
+].However,inthequantumcase,evenifthepropertyoflocaltestabilityisnotrequired,itisstillawidelyopenproblem,knownastheqLDPCconjecture[
+13
+],toobtainanasymptoticallygoodfamilyofquantumLDPC(qLDPC)codes
+1
+,i.e.,withtheconstantrateandnormalizedminimumdistance.Upuntilveryrecently[
+16
+–
+19
+],thebestprovablelowerboundsonthedistancesofqLDPCcodeswere,uptopolylogarithmicfactors,atmostoftheorder√
+nasthenumberofqubitsn→∞[
+20
+–
+25
+].Atthesametime,asymptoticallygoodfamiliesofclassicalLDPCcodeshavebeenknownsincetheirintroductionbyRobertGallagerinthe1960s[
+1
+].Inthecurrentwork,weshowtheexistenceofclassicalLTCsofconstantrate,constantlocality,andconstantnormalizedminimumdistance.Inparticular,weprovethefollowingtheorem,whichgivesapositiveanswertothec3-conjecture.LetusrecallthataclassicallinearcodeC⊆Fn qhastheparameters[n,k,d]qifk=dimCandd=minc∈C\{0}|c|.Theorem1.ForeverynumberR∈(0,1/2)andﬁniteﬁeldFqitispossibletoﬁnduniversalconstantssandωsuchthatthereexistsanexplicitfamilyof(ω,s)-locallytestableclassicalLDPCcodeswiththeparameters[n,k>Rn,d=Θ(n)]qasn→∞.Inthequantumcase,weobtainedasomewhatweakeranalogoftheabovetheorem,given
+1NotethatifonegoesbeyondthestandarddeﬁnitionofaquantumLDPCcodethencodeswithverygoodparameterswerealreadyknowntoexist[
+14
+,
+15
+].2
+below,whichshowstheexistenceofasymptoticallygoodfamiliesofqLDPCcodes,notnecessarilythelocallytestableones.ThisgivesanaﬃrmativeanswertotheqLDPCconjecture.Theorem2.ForeverynumberR∈(0,1)andﬁniteﬁeldFqthereexistsanexplicitfamilyofquantumLDPCcodesoverFqwiththeparametersJn,k>Rn,d=Θ(n)Kqasn→∞.Remark1.InthecaseofclassicalcodesfromTheorem
+1
+,itisrelativelyeasytoshowthatanal-gorithm,similartothebit-ﬂippingalgorithm,correctsinlineartimeanyerrorofweightuptotheconstantfractionofthecodelengthn.AsforthequantumcodesfromTheorem
+2
+,weconjec-turethatitisalsopossiblewithavariantofthesmall-set-ﬂipdecodingalgorithmfrom[
+26
+](seealso[
+24
+]).Thecodesfromtheabovetwotheoremsareobtainedusingtherecentlyintroducedliftedproductconstruction[
+17
+],whichcanbeseenasageneralizationofthe(tensor)productconstructionforclassicalcodes[
+27
+,
+28
+]andthehypergraphproductconstructionforquantumcodes[
+29
+].Thisproductoperationisaspecialcaseofthebalancedproductfrom[
+18
+]andbestunderstoodintermsofhomologicalalgebra
+2
+.Letusbrieﬂyrecallthatachaincomplexisasequence···∂i+1−−−→Ci∂i−→Ci−1∂i−1−−−→···ofabeliangroupsandmorphismscalledboundarymapssuchthat∂i◦∂i+1=0foralli∈Z.ThetermCiinacomplexCiscalledthegroupofi-chainsandtheassertion∂i◦∂i+1=0isequivalenttoim∂i+1⊆ker∂i,whichallowsustoconsiderforeveryi∈ZthequotientgroupHi(C)=ker∂i/im∂i+1calledthei-thhomologygroupofthecomplexC.TheabeliangroupsinacomplexoftencomewithsomeadditionalalgebraicstructurethatmakesthemvectorspacesoveraﬁeldFormodulesoveraringR,inwhichcaseitisfurtherassumedthatallboundarymapsarelinearmaps.Inthecontextoferrorcorrectingcodes,weareinterestedinthecomplexeswithτnon-zeroterms(τ-termcomplexes)whereeachtermCicanbenaturallyidentiﬁedwithFniqandinterpretedasaspaceofnisymbolsoverFq(codesymbolsorparity-checksofthecode).Insuchcases,itisnaturaltorepresentanτ-termcomplexCbythecorrespondingτ-partitegraphcalleditsTannergraph,wheretheedgesconnectonlythepartscorrespondingtoadjacenttermsCi,Ci−1andtheconnectionisgovernedby∂i∈Fni−1×niqconsideredasabiadjacencymatrixifwereplaceeachnon-zeroentryby1.GiventwoclassicallinearcodesinvariantunderafreeactionofagroupGontheirindexsets
+3
+,wecanrepresentthemby2-termchaincomplexesA:RnaA−→RmaandB:RnbB−→RmboverthegroupalgebraR=FqG,whereA∈Rma×na,B∈Rmb×nbarethecorrespondingparity-checkmatrices
+4
+.TheliftedproductoverRisdeﬁnedasthetensorproductcomplex
+5
+C=A⊗RBovertheringR,
+2Inthistext,weassumethatthereaderisfamiliarwiththestandardnotionsofhomologicalalgebrasuchasa(co)chaincomplexandthecorresponding(co)homologygroups.SeeAppendix
+A
+fortherelevantdeﬁnitionsand[
+30
+]forashortintroductionintothissubject.3AclassicallinearcodeC⊆Fn qisinvariantunderanactionofagroupGontheindexset[n]ifforeveryg∈Gand(ci)i∈[n]∈Citfollowsthat(cπg(i))i∈[n]∈C,whereπgisthepermutationcorrespondingtotheactionofgon[n].IftheactionofGisfreetheneachorbithas|G|elements,andCcanbeconsideredasasubspaceofRs,whereR=FqGisthegroupalgebraoverFqforG,ands:=n/|G|.IfGisacyclicgroupthensuchcodescorrespondtotheclassofquasi-cycliccodes,whichcontainsclassicalcycliccodesasaspecialcasewhens=1.4IfGisnon-abelianthenwhenwemultiplyavectoroverR=FqGbythematrixA(resp.B),weassumethatwemultiplybytheelementsfromRfromtheright(resp.fromtheleft).SeeAppendix
+B
+formoredetailsonthedeﬁnitionoftheliftedproductintermsoftheparity-checkmatrices.5ThegeneraldeﬁnitionofthetensorproductcomplexA⊗RBoveranarbitraryringRcanbefoundin[
+30
+,p.7].3
+i.e.,the3-termcomplexRnanb∂2−→Rnamb⊕Rmanb∂1−→Rmambwiththeboundarymap∂:C→CgivenbythefollowingdiagramRnambRmambRnanbRmanb
+A⊗Rid
+−id⊗RB
+A⊗Rid id⊗RB,whichmeansthat∂2:=hA⊗Rid−id⊗RBi,∂1:=[A⊗Rid,id⊗RB].Onecaneasilycheckthat∂1◦∂2=A⊗RB−A⊗RB=0,andCisindeedachaincomplex.Nowwecanconsidertheclassicalcodeker∂2withtheparity-checkmatrix∂2andthequantumCSScodeQ(∂1,∂∗2)whereCX:=ker∂1andCZ:=ker∂∗2.WecannaturallyidentifythesecodeswiththesecondhomologygroupH2(C)andtheﬁrsthomologygroupH1(C)ofthecomplexC,andweusethemtoobtaintheclassicalcodesfromTheorem
+1
+andthequantumonesfromTheorem
+2
+,respectively.NotethatwhenGisatrivialgroup,i.e.,|G|=1,thenR∼Ω=Fq,andonecanseethatker∂2andQ(∂1,∂∗2)arerespectivelythetensorproductandthehypergraphproductofthetwoclassicalcodeskerAandkerB.HencetheliftedproductcomplexA⊗RB,whichwealsosometimesdenotebyLP(A,B),canbeseenasageneralizationofthesetwoconstructions,whereinsteadofindividualsymbolsfromFqwehaveblocksof|G|symbolsrepresentedbyelementsfromFqG∼Ω=F|G|q.Infact,liftedproductcanalsobeusedwitharbitraryﬁnite-dimensionalassociativealgebraRoverFq,notnecessaryequaltoFqG.Inthecurrentpaper,ifR=FqGwecallthisoperationliftedproductoverGorG-liftedproductanddenotethecorrespondingliftedproductcomplexbyA⊗GB.Theideaoftheliftedproductwasusedrecentlyin[
+17
+]toobtaintheﬁrstfamilyofqLDPCcodeswithalmostlineardistance.Inthefollow-uppaper[
+18
+],wheresomeoftheideasfrom[
+17
+]weredevelopedindependently,averysimilarconstructioncalledbalancedproductwasusedtogetqLDPCcodesofverylargedistances
+6
+.Asinthecaseofliftedproduct,thebalancedproductA⊗GBoftwochaincomplexesAandBcanalsobeconsideredasthetensorproductcomplexA⊗RBoverthethegroupalgebraR=FqG,butthistimeAandBarearbitrary(i.e.,notnecessaryfree)R-modules.Asitwasshownin[
+18
+],theG-liftedproductandthebalancedproductcanbothbeviewedasinstancesofevenmoregeneraltopologicalideacalledaﬁberbundle,proposedasawaytoconstructqLDPCcodesinthebreakthroughpaper[
+16
+],whichﬁrstbrokethen1/2polylog(n)barrieronthedistanceofqLDPCcodes.Itisalsointerestingtonotethatthecodesthatwereactuallyusedtogetthemainresultsin[
+16
+–
+18
+]areequivalenttoLP(A,b)whereAisasparsematrixoverR=F2C`,andb∈R,whereC`isthecyclicgroupoforder`.Thismorerestrictedclassofliftedproductcodeswerepreviouslystudiedin[
+31
+]underthenameGHPcodesandshowntohavesurprisinglygooderror-correctingperformanceundertheBP-OSDdecoder.Averyimportantingredientoftheconstructionsfrom[
+17
+,
+18
+]isexpandercodes[
+32
+],whicharetheTannercodes[
+33
+]obtainedfromspectralexpandergraphs.TheindividualsymbolsoftheexpandercodeT(Γ;h)areassignedtotheedgesofthecorrespondinggraphΓ,andwegetacodewordpreciselywhenforeachvertexvfromΓthesymbolsassignedtotheedgesconnectedtovformacodewordofthelocalcodekerh.In[
+17
+]expandergraphsΓareobtainedasG-lifts(i.e.,
+6Notethatthecodesfrom[
+17
+]areCSScodes,whilethecodesfrom[
+18
+]areingeneralfromawiderclassofquantumcodescalledsubsystemcodes.4
+regular|G|-foldcovers)ofsomesmallbasegraphs,whereGisaverylargegroup
+7
+.ItisnothardtoseethattheobtainedinthiswayexpandercodesareinvariantunderthefreeactionofG,andthustheyarefreemodulesoverthegroupalgebraFqG.ThereforesuchcodescanbeusedwiththeG-liftedproducttoobtaina3-termchaincomplexC,whichcanalsobeconsideredasaquantumCSScode.Itisshownin[
+17
+,Example3]thatusingaG-liftedproductoftwoclassicalcodesitispossibletoobtainqLDPCcodesofconstantrate
+8
+.Inparticular,ifρ:=1−m/nisthedesignrateofaclassicalcodekerArepresentedbythecomplexA:=RnA−→Rm,thentherateofthecorrespondingquantumcoderepresentedbyA⊗GA∗isatleast(n−m)2
+n2+m2=ρ2
+1+(1−ρ)2.HereA∗:=RmA∗−−→RnisthedualchaincomplexforA,i.e.,A∗isthetransposeoftheparity-checkmatrixA,consideredasamatrixoverFq.HencetherateofthequantumcodesobtainedfromA⊗GA∗canbearbitrarycloseto1asρ→1.Moreover,someparticularexamplesofsuchcodes[
+17
+,Example4],indicatethattheymayalsohaveverylargeminimaldistances,closetothedistancesoftheclassicalcodeskerAusedintheliftedproduct.However,ifthegroupGisabelian,thentheupperboundontheminimumdistanceofsuchclassicalcodes[
+17
+,Eq.24]providesstrongevidencethattoobtainanasymptoticallygoodfamilyofqLDPCcodesbyaG-liftedproductonehastousenon-abeliangroups.Oneparticularconstructionofbalancedproductcodes,analogoustotheaforementionedG-liftedproductA⊗GA∗,fornon-abeliangroupG,wasconjecturedin[
+18
+]togiveanasymptoticallygoodfamilyofqLDPCcodes.Unfortunately,ourproofstrategydoesnotworkforcomplexesA⊗GA∗,andwecannotprovethisconjecturewiththemethodsdevelopedhere.Instead,weconsidersimilarcomplexesA⊗GB∗,whereAandBarerespectivelytheexpandercodesT(Γ;h)andT(Γ;h0)deﬁnedforthesameexpandergraphΓbutfordiﬀerentlocalcodeskerhandkerh0.Itisverysimpletoshowbycountingthenumberofthecodesymbolsandparity-checksintheLTCandtheqLDPCcodeobtainedfromA⊗GB∗thatthesecodeshaveconstantrate.However,forourproofofTheorems
+1
+and
+2
+towork,thepairoflocalcodesusedinA⊗GB∗cannotbearbitraryandshouldsatisfysomespecialpropertywecallproduct-expansion,whichissimilartotherobusttestabilitypropertyoftenusedinthecontextofLTCs[
+28
+,
+34
+].Weprovethatapairofrandomlinearcodeshastheproduct-expansionpropertywithhighprobability.Informallyspeaking,theproduct-expansionofthepairoflocalcodescorrespondstothelocalexpansioninthecomplexA⊗GB∗,buttogetthemainresultwealsoneedtheglobalexpansionpropertyofthegraphΓ,whichconnectsthelocalcodesattachedtoitsvertices.Ourmaintechnicalresult(Proposition
+1
+)showsthatthegeneralconstructionA⊗GB∗canbeusedwitharbitraryregulargraphsΓobtainedasG-liftsiftheyaresuﬃcientlygoodsmallsetexpanders
+9
+.Weprovethatspectralexpandergraphsandtheirﬁnitecoversaregoodsmallsetexpanders.HencewecanletthegraphΓtobethebipartitedouble-coverofaCayleygraphforsomeﬁnitegroupG.ThisisimportantfortheG-liftedproductconstructionsincesuchgraphsΓcanbealsorepresentedasG-lifts
+10
+.Inparticular,weusetheRamanujanCayleygraphs[
+35
+,
+36
+],whichwerealsousedintheoriginalconstructionoftheexpandercodes[
+32
+]andinthementionedearlierconjecturefrom[
+18
+].ThemaintechnicaltoolinourproofofTheorems
+1
+and
+2
+isthenotionofalocallyminimal
+7In[
+17
+]thisgeneralideawasappliedtocyclicgroupstoobtainthemainresult.8Asimilarobservationaboutbalancedproductsisalsomade(withoutaproof)in[
+18
+].9Informallythismeansthateverysuﬃcientlysmallsetofverticeshasalotofoutgoingedges.SeeSubsection
+2.2
+fortherelevantdeﬁnitionsandresults.10NotethatinmostcasesaCayleygraphwithwgeneratorscanalsobeviewedasaG-liftofthew-bouquetgraphBw.However,thisisnottrueifwehaveanorder2generator.5
+(co)chain,oftenusedinthecontextofhigh-dimensionalexpanderstoshowexpansionpropertiesinsimplicialcomplexes[
+37
+].Itisknownthatsuchexpansionpropertiescanbeusedtoshowlocaltestabilityofaclassicalcode[
+38
+]andtogivealowerboundontheminimumdistanceofaquantumcode[
+24
+].Inthecurrentwork,weextendtheseideastoamuchmoregeneralcontextof(co)chaincomplexeswithlocalsystemofcoeﬃcients,whichcanbeconsideredashigh-dimensionalanalogsoftheTannercodes,similartotheonesstudiedin[
+39
+].InsteadofgraphssuchgeneralizedTannercodesaredeﬁnedonhigh-dimensionalcomplexes.SincetheG-liftedproductisdeﬁnedforarbitrarycomplexes,itcannaturallybeappliedtographs,viewedas1-dimensionalcomplexes.IfweconsidergraphsΓandΓ0astopologicalspaces,theirG-liftedproduct(asatopologicalspace)canbeviewedasthebalancedproductΓ×GΓ0ofthesespaces[
+18
+].Infact,itcanbeshownthattheproductsΓ×GΓ0areexamplesofawell-knownclassof2-dimensionalcomplexescalledcompletesquarecomplexes[
+40
+].Thedeﬁningpropertyofacompletesquarecomplexisthatthelinksofallitsverticesareisomorphictoacompletebipartitegraph.Sincecompletebipartitegraphsareperfectexpanders,then,insomesense,thispropertyisanalogoustothepropertyofotherhigh-dimensionalexpanderstohavelinksthataregoodexpanders[
+37
+].UsingthediscussedaboveG-liftedproductsofexpandercodesovernon-abeliangroupsGweshowthatitispossibletoobtainqLDPCcodeswiththeparametersasinTheorem
+2
+.Thisgivesapositiveanswertothequestionsposedin[
+17
+,Conclusion]andin[
+18
+,Conjecture]ofwhetherrespectivelyliftedandbalancedproductsofclassicalcodescangiveanasymptoticallygoodfamilyofqLDPCcodes.Moreover,wealsoshowthat,undersomeadditionalassumptions,ifHXandHZaretheparity-checkmatricesofsuchqLDPCcodes,thentheclassicalcodekerH∗ZislocallytestablewiththeparametersasinTheorem
+1
+.Remark.AftertheﬁrstdraftofthismanuscriptwaspublishedwebecameawarethataresultsimilartoourTheorem
+1
+forthecaseofbinaryﬁeldF2wasindependentlyclaimedin[
+41
+].The3-termcomplexusedin[
+41
+]togetthemainresultisequivalenttothebalancedproductoverGoftheexpandercodes[
+13
+,
+18
+],deﬁnedontwodiﬀerentCayleygraphsforthesamegroupG.ItisinterestingtonotethatthisconstructionissimilartotheliftedproductconstructionweconsiderinRemark
+5
+,whereinsteadoftheproductA⊗GB∗weproposetousetheproductA⊗GBandconjecturethatthiswayitisstillpossibletogetasymptoticallygoodLTCs.ThediagramsforA⊗GBandA⊗GB∗areshownbelowA⊗GB:=RnambRmambRnanbRmanb
+A⊗Rid
+−id⊗RB
+A⊗Rid id⊗RB,A⊗GB∗:=RnambRmambRnanbRmanb
+A⊗Rid
+−id⊗RB∗
+A⊗Rid id⊗RB∗.Infact,theTannergraphsofthecomplexesA⊗GBandA⊗GB∗areisomorphic.WhatisdiﬀerentistheinterpretationoftheTannergraphverticesascodesymbolsandparity-checkswhenwemakeacodeoutofthecomplex.Insomesense,theproductA⊗GBisbettersuitedforLTCssinceitgivesclassicalcodesofratearbitrarycloseto1(please,seeRemark
+5
+).Henceitisaninterestingopenquestionwhethertheapproachusedin[
+41
+]canalsosucceedonourcodesfromRemark
+5
+.Atthesametime,theconstructionA⊗GB∗,whichweusetoprovethemainresults,ismuchbettersuitedforqLDPCcodessinceitsymmetric.ThissymmetryallowsustoprovethelowerboundontheZ-distanceofourqLDPCcodeinthesamewayasfortheX-distance.Besides,wecangetequalnumberofX-checksandZ-checks,whichgivesqLDPCcodesofratesarbitrarycloseto1.6
+1Preliminaries
+1.1ChaincomplexesΩInrecentyears,ideasfromhomologicalalgebrafoundmanyinterestingapplicationsintheﬁeldofclassicalandquantumcodes[
+38
+,
+42
+,
+43
+].Acommonapproachistoconsidersomebased
+11
+(co)chaincomplexofﬁnite-dimensionalvectorspacesoveraﬁniteﬁeldFq,anduseittodeﬁneacodewiththedesiredparameters.Forexample,a2-termchaincomplexFn q∂1−→Fm qcanbeidentiﬁedwiththeclassicallinearcodeker∂1deﬁnedbytheparity-checkmatrixH:=∂1.Here,thespaceFn qof1-chainscorrespondstothenbits,whilethespaceFm qof0-chainstothemchecks.Atthesametime,a3-termchaincomplexC:=FmZq∂2−→Fn q∂1−→FmXqcanbeidentiﬁedwiththequantumCSSJn,k,dKqcodeQ=Q(HX,HZ)deﬁnedbytheparity-checkmatricesHX:=∂1andHZ:=∂∗2,where∂∗2:Fn q→FmZqisthetransposeofthemap∂2:FmZq→Fn q.Inthiscase,thespaceFn qof1-cellscorrespondstothenqubits,andthespaceFmXqof0-cells(resp.thespaceFmZqof2-cells)totheX-checks(resp.Z-checks).ThelengthofQisequalton=dimFn q,whileitsdimensionkisequaltothedimensionoftheﬁrsthomologygroupH1(C):=ker∂1/im∂2=CX/C⊥Z,whereCX:=ker∂1andCZ:=ker∂∗2.Theminimumdistanced=d(Q)canalsobedescribedinthelanguageofhomologygroupsifweconsiderthequotientvectorspaceH1(C)asametricspace,wherethedistanced(A,B)betweenhomologyclassesA,B∈H1(C)isdeﬁnedasd(A,B):=|A−B|usingthecorrespondingquotientHammingnorm|A|:=mina∈A|a|.Itiseasytoseethatd=min(d(H1(C),d(H1(C∗)),whereC∗:=FmXq∂∗1−→Fn q∂∗2−→FmZqisthedualchaincomplexforC.Thedistancesd(H1(C))andd(H1(C∗))aresometimescalledthe1-systolicand1-cosystolicdistancesofC.1.2LiftedproductΩInthiswork,weconsiderseveralnewfamiliesofclassicalandquantumLDPCcodesofconstantratebasedontheintroducedrecentlyliftedproductconstruction[
+17
+],whichgeneralizesmanyknownconstructionsofquantumLDPCcodes[
+2
+,
+29
+,
+43
+–
+46
+].Thisconstructioncanbedeﬁnedintermsofparity-checkmatrices(seeAppendix
+B
+)andintheabstractlanguageofhomologicalalgebra,whichwepreferinthecurrentwork.Beforeweproceed,letusbrieﬂyremindsomestandarddeﬁnitionsfromalgebra.ConsidersomeringR.AleftR-moduleMiscalledfreeifthereexistsasetofelements{m1,...,mr}⊆Mcalledbasissuchthateverym∈Misuniquelyrepresentedas:m=a1m1+...+armr,
+11Thetermbasedmeansthatthevectorspacesofa(co)chaincomplexcomewithsomedistinguishedbases.IfinavectorspaceVweﬁxabasis˜V⊆V,wecanidentifyVanditsdualspaceV∗withthecoordinatespaceFdimVqinthestandardway.Thisalsoallowsustoidentifylinearmapsbetweensuchspaceswiththecorrespondingmatrices.7
+wherea1,...,ar∈R,andtheparameterriscalledtherank
+12
+ofM.HenceM∼Ω=Rr,andiftheringRisaﬁeld,thenMisjustanr-dimensionalvectorspaceoverR.AcanonicalexampleofafreeR-moduleofrankristhemoduleRSofformalR-linearcombinationsoftheelementsofsomesetS,where|S|=r.OnecanalsodeﬁnefreerightR-modulesinasimilarway.Deﬁnition.Supposewehaveaﬁnite-dimensionalassociativealgebraRoverFqwithsomeﬁxedbasis˜R⊆R.ConsidertwochaincomplexesA=Lm i=0AiandB=Ln j=0BjoverFqsuchthatthevectorspacesAiandBjarealsofreeR-moduleswithsomedistinguishedbases(overR)˜AR⊆Aand˜BR⊆B,andtheboundarymaps∂A:A→A,∂B:B→BareR-linear.IfthealgebraRisnotcommutative,thenwefurtherassumethatRactsfromtherightonAandfromtheleftonB,i.e.,AisarightfreeR-module,andBisaleftfreeR-module.TheliftedproductofAandBoverRistheirtensorproductcomplexA⊗RB(see[
+30
+,p.7]),wherefork=0,1,...,m+nthespaceofk-chains(A⊗RB)kisequaltoLi+j=kAi⊗RBj,whiletheboundarymap∂:A⊗RB→A⊗RBisdeﬁnedfora∈Ai,b∈Bjas
+13
+∂(a⊗Rb):=∂Aa⊗Rb+(−1)ia⊗R∂Bb,(1)andextendedbylinearity.Furthermore,wealwaysassumethattheliftedproductC=A⊗RBisabasedchaincomplexofvectorspacesoverFq.Bydeﬁnitionitsdistinguishedbasis(overFq)isgivenby˜C:={a·r·b|a∈˜AR,b∈˜BR,r∈˜R},whereweusedashort-handnotation:a·r·b:=ar⊗Rb=a⊗Rrb.(2)Fromthepropertiesofthetensorproduct⊗Ritfollowsthatthemap(a,r,b)7→a·r·bisFq-multilinear,whichmeansthatforeverya,a0∈A,b,b0∈B,andr,r0∈Rwehave:(a+a0)·r·b=a·r·b+a0·r·b,a·(r+r0)·b=a·r·b+a·r0·b,a·r·(b+b0)=a·r·b+a·r·b0,andforeveryλ∈Fqweget:(λa)·r·b=a·(λr)·b=a·r·(λb)=λ(a·r·b).WeshouldnotethatifR=Fq,thentheliftedproductisequivalenttotheproductconstructionfrom[
+43
+],whileif,inaddition,wehavem=n=1,thenitisthesameasthehypergraphproduct[
+29
+].Moreover,ifm=n=1andR=F2[x]/(x`−1),itisessentiallyequivalenttothehyperbicyclecodesconstruction[
+46
+].Itisalsoimportanttonotethatwhenm=n=1thecomplexesA:=A1A−→A0andB:=B1B−→B0
+12Notethattherearesomeinﬁnitenon-commutativeringsRsuchthatRm∼
+=Rnwhenm6=n.However,alltheringsweconsiderhereareeitherﬁniteorcommutative,andhencehavetheinvariantbasisnumber(IBN)propertythatimpliesthatthisneverhappens.13Weshouldnotethatthesign(−1)iinthisdeﬁnitionisonlyrelevantinthecaseofﬁniteﬁeldsofoddcharacteristic.8
+areuniquelydeﬁnedbythecorrespondingmatricesA,BoverR.Inthiscase,wedenotetheliftedproductA⊗RBasLP(A,B)andusuallyidentifyitwiththecorrespondingCSScode.Notethatthiscodealsohasaconcisedescriptionintermsoftheparity-checkmatricesHXandHZ(see[
+17
+,Eq.12]andEq.
+13
+fromAppendix
+B
+).Thoughtheliftedproductcanbedeﬁnedoveranarbitraryﬁnite-dimensionalassociativealge-braR,themostinterestingcase[
+17
+,
+18
+]iswhenRisthegroupalgebraFqGforsomeﬁnitegroupG.TheelementsofFqGareformalsumsPg∈Gαgg,whereαg∈Fq.Considerelementsa=Pg∈Gαggandb=Pg∈GβggfromFqG.Theirsuma+bandproductabaredeﬁnedasfollows:a+b:=Xg∈G(αg+βg)g,ab:=Xg∈G
+Xhr=gαhβr
+g.Inthiscase,theconditionthatthevectorspacesAandBoverFqarefreeFqG-modulesisequivalenttotheconditionthatthegroupGhasafreeaction
+14
+onthetheirbasesoverFq(fromtherightforAandfromtheleftforB),whichisextendedbylinearitytoAandB.Moreover,theboundarymap∂isFqG-linearif‌fitisanFq-linearmapthatcommuteswiththeactionofthegroupG.Thereforeinwhatfollows,intensorproductsoverR=FqGinsteadof⊗Rwewrite⊗G,andassumethat˜R:=G.Let˜AG=Fi∈Z˜AG,iand˜BG=Fj∈Z˜BG,jberespectivelythedistinguishedbases(overFqG)ofthethefreeFqG-modulesA=Li∈ZAiandB=Lj∈ZBj.Itisclearthattheelementsag(resp.gb),wherea∈˜AG,i,g∈G,b∈˜BG,j,constitutethebasisforAi(resp.Bj),consideredasavectorspaceoverFq.Moreover,wesee,usingshort-handnotation(
+2
+),thatthedistinguishedbasisofA⊗GBoverFqconsistsoftheelementsa·g·b,wherea∈˜AG,i,g∈G,b∈˜BG,j;i,j∈Z.Furthermore,wecanexpresstheboundaryoperatorgiveninequation(
+1
+)asfollows:∂(a·g·b):=(∂Aa)·g·b+(−1)ia·g·(∂Bb).(3)Wecanalsoexpresstheboundaryoperator∂as∂:=∂A⊗Gid+id⊗G∂Bif,bydeﬁnition,assumethat(∂A⊗Gid)(a·g·b):=(∂Aa)·g·band(id⊗G∂B)(a·g·b):=(−1)ia·g·(∂Bb).Remark2.ForanychaincomplexCwecanconsideritsdualchaincomplexC∗obtainedfromCifwereplacetheboundarymap∂ofCbyitstransposemap∂∗(seeAppendix
+A
+).ItisnothardtoseethatifCisaleft(resp.right)G-module,thenC∗isaright(resp.left)G-module.ThereforeifchaincomplexesAandBarerightG-modules,wecanconsidertheG-liftedproductA⊗GB∗.Infact,foranysetSwithaleftaction(g,s)7→g·s(resp.arightaction(s,g)7→s·g)ofagroupGwecanalsoconsiderthecorrespondingright(resp.left)actionofGdeﬁnedas(s,g)7→g−1·s(resp.(g,s)7→s·g−1).ThereforeifagroupGhasarightfreeactiononachaincomplexC,thenitalsohasthecorrespondingleftfreeactiononC,andviceversa.ThisallowsustoapplyG-liftedproductA⊗GBtotworightG-modulesAandB,ifweusethecorrespondingleftactionofGonB.
+14Aleft(resp.right)actionofagroupGonasetSiscalledfreeifforeveryg∈Gwhenwehavegs=s(resp.sg=s)forsomes∈S,thengistheidentityelementofG.Notethatthesizesofallorbitsofafreeactionarethesameandequalto|G|.9
+Remark3.LetusnotethatG-liftedproductisaspecialcaseofbalancedproductfrom[
+18
+],whereanon-freeactionofthegroupGisalsoallowed.WeshouldalsoemphasizethattheﬁrstexamplesoftheliftedproductsoverR=F2Gforanon-abeliangroupGwerealsoconsideredin[
+18
+],whilein[
+17
+]alltheexampleswereonlyfortheabeliancase.Inthecurrentwork,wealsogivenewexamplesofnon-abelianliftedproductsbasedonthedouble-coverofaCayleygraph,whicharesimilar,thoughnotequivalent,tothehorizontalsubsystemcodesmentionedintheConjecturefrom[
+13
+].Generallyspeaking,thetermG-liftedproduct,usedinthecurrentwork,mayseemredundantsinceitisjustaspecialcaseofthebalancedproduct.However,wethinkthatthisspecialcasedeservesitsownnamesincethefreeactionofGimpliesthattheobtainedcomplexhasamuchmoreregularstructurethaninthegeneralcase.Insomesense,therelationoftheG-liftedproducttothemoregeneralbalancedproductissimilartotherelationofCayleygraphstoSchreiergraphs.Whilethelatteraremoregeneral,theformerareusuallymucheasiertodescribeandstudy.
+1.3ExpandergraphsandliftsToproducelinearmapsϕ:Fn q→Fm qwithgoodexpansionandcoexpansionpropertiesitwasproposedin[
+17
+,
+18
+]touseexpandercodes[
+32
+],i.e.,theTannercodes[
+33
+]deﬁnedonsomespectralexpandergraph.Beforewemoveon,letusrecallsomestandarddeﬁnitionsrelatedtoexpandergraphsandTannercodes.LetΓbeagraph
+15
+withthesetofverticesV(Γ)andthesetofedgesE(Γ).Ifverticesv,v0∈V(Γ)areconnectedbyanedgee∈E(Γ),wecallv,v0adjacentanddenotethisfactbyv↔v0orbyv↔ev0whenwewanttoemphasizetheedgee.AgraphΓiscalledd-regularifallitsverticeshavedegreed.TheadjacencymatrixofagraphΓwithV(Γ)={v1,...,vn}isthematrixA(Γ)=(aij)n×n,whereaijisthenumberofedgese∈E(Γ)suchthatvi↔evj.SinceA(Γ)isasymmetricmatrix,ithasnreal-valuedeigenvaluesλ1>···>λn.Letλ2(Γ):=λ2,andλ(Γ):=max(|λ2|,|λn|).Itisobviousthatλ2(Γ)6λ(Γ).Wecallann-vertexd-regulargraphΓan(n,d,λ)-expanderifλ(Γ)6λ.ThetermexpanderheremeansthatthegraphΓhasaverygoodconnectivity,whichcanbequantiﬁedbyitsCheegerconstant.ConsiderasubsetofverticesS⊆V(Γ)inthegraphΓ.Wecalltheset∂S:={e∈E(Γ)|v↔ev0,v∈S,v0/∈S}theedgeboundary,whichisthesetofalledgesthatgooutsideofS.TheCheegerconstanth(Γ)ofthegraphΓisdeﬁnedasfollows:h(Γ):=min0<|S|61
+2|V(Γ)|S⊆V(Γ)|∂S|
+|S|.Sinceford-regulargraphsitisknown[
+47
+,Theorem4.11]thath(Γ)>1
+2(d−λ2(Γ)),thenthesmallerthevalueofλ2(Γ),thehighertheCheegerconstant.However,theAlon-Boppanabound[
+47
+,Theorem5.3]impliesthatford-regulargraphswithnverticeswehaveλ2(Γ)>2√
+d−1−on(1)asn→∞.Thereareanumberofdiﬀerentconstructionsthatalmostattainthislowerbound.Infact,itwasshownin[
+48
+]thatforanyﬁxedε>0,arandomd-regulargraphwithnverticeshasλ2(Γ)<2√
+d−1+εwithhighprobabilityasn→∞.Ad-regulargraphΓthatsatisfythe
+15Itmayhaveloopsandmultipleedges.10
+v v0
+basegraphΓ
+ˆv1
+...
+ˆv`
+ˆv01...
+ˆv0`
+π∈S``-liftˆΓofΓFigure1:LiftingofthebasegraphΓ.conditionλ(Γ)62√
+d−1iscalledRamanujan
+16
+.Thereareanumberofexplicitconstructionsofsuchgraphs[
+35
+,
+36
+]thatuseCayleygraphsofsomenon-commutativegroups(see[
+49
+]foragoodsurvey).WewillseelaterthatTannercodeswithsuchRamanujangraphs(ortheirdouble-covers)canbeusedwiththeliftedproductconstruction.Theobtainedchaincomplexes,whichwecanalsoconsiderasCSScodes,haveveryinterestingexpansionproperties,similartotheonesstudiedinthetheoryofhigh-dimensionalexpanders(HDXs)[
+50
+].Wewillshowlaterthatsomeofthestandarddeﬁnitionsfromthistheory(e.g.,thelocalminimalityof(co)chains)canbenaturallyextendedtoamorebroadcontextofbased(co)chaincomplexes.In[
+17
+],thegraphˆΓfortheTannercodewasobtainedasan`-liftofasmallbasegraphΓusingvoltageassignments[
+51
+]withthecyclicgroupC`asthevoltagegroup.Recallthatan`-lift(alsocalledan`-foldcover)ofabasegraph
+17
+ΓisagraphˆΓobtainedifwereplaceinthebasegrapheachvertexv∈V(Γ)with`replicasˆv1,...,ˆv`,andreplaceeachedgee∈E(Γ)thatconnectsverticesv,v0∈V(Γ)with`replicasˆe1,...,ˆe`suchthatˆeiconnectsinˆΓtheverticesˆviandˆv0π(i),whereπ∈S`issomepermutationontheset{1,...,`}(seeFig.
+1
+).Notethatthepermutationsfordiﬀerentedgesmaybediﬀerentandareusuallydeﬁned[
+51
+]byavoltageassignmentusingsomegroupG,inwhichcasewecalltheobtainedgraphaG-liftofΓ.AvoltageassignmentforagraphΓwithavoltagegroupGisamapγ:E(Γ)→G.Letusﬁxsomeorientationoftheedges,i.e.,afunctiono:E(Γ)→V(Γ)×V(Γ),whichtellsusthattheedgeeisorientedfromvtov0ifo(e)=(v,v0).Foranyvoltageassignmentγ,wecanobtaintheG-liftˆΓofthebasegraphΓcalledthe(left)derivedgraphforΓandγ,whichwedenotebyD(Γ;γ).TodeﬁneˆΓ=D(Γ;γ)weﬁrstletV(ˆΓ):=V(Γ)×G,E(ˆΓ):=E(Γ)×G,andintroducethefollowingshort-handnotations:ˆvg:=(v,g),ˆeg:=(e,g),wherev∈V(Γ),e∈E(Γ),g∈G.Now,ifinthebasegraphΓanedgee∈E(Γ)connectsverticesv,v0∈V(Γ),ando(e)=(v,v0),theninthederivedgraphˆΓ,foreveryg∈G,theedgeˆegconnectstheverticesˆvgandˆv0γ(e)g.Onecanalsodeﬁnetherightderivedgraphiftheedgeˆegconnectstheverticesˆvgandˆv0gγ(e).WecalltheG-liftsobtainedfromtheleftandrightderivedgraphsleftandrightrespectively.NotethataG-liftˆΓobtainedbyavoltageassignmentfromabasegraphΓisusuallycalledaregularliftoraregularcoverofΓ.IfagroupGhasaright(resp.left)freeactionontheverticesandedgesofagraph,andtheconditionv↔ev0impliesvg↔egv0g(resp.gv↔gegv0)foreveryverticesv,v0,edgee,andg∈G,thenwesaythatGhasaright(resp.left)freeactiononthis
+16Inthisworkweconsideronlynon-bipartiteRamanujangraphs.17MultipleedgesandloopsareusuallyallowedinthebasegraphΓ.11
+graph.OnecaneasilycheckthatforanyleftG-liftwecandeﬁnearightactionofGifforeveryˆvg∈V(ˆΓ),ˆeg∈E(ˆΓ),andh∈Gweputˆvgh:=ˆvgh,ˆegh:=egh.Inwhatfollows,weconsideronlyleftG-liftsandomittheword“left”.NotethatwhenthegroupGisabelian,thenthereisnodiﬀerencebetweenleftandrightG-lifts.WhenthevoltagegroupisacyclicgroupC`,thenthecorrespondingderivedgraphsarealsocalledshift`-liftsandtheassignedvoltagesarecalledshifts.Inthespecialcasewhen`=2,andweassigntoeachedgeeofthebasegraphΓthenon-identityshiftfromC2,weobtainthebipartitegraph¯Γcalledthe(bipartite)double-coverofG.Since¯ΓisthetensorproductofΓandthecompletegraphK2,thenitisnothardtoshowthatλ2(¯Γ)=λ(Γ).Hencethisparticular2-liftalmostpreservesthespectralexpansionproperties.NotethatifΓisabipartitegraphthen¯Γisadisconnectedgraph.Hence,itdoesnotmakealotofsensetoapplythissimpleconstructionmorethanoncesinceontheseconditerationoneinevitablyobtainsadisconnectedgraph.However,thesituationisnotthatbadifweapplyalargeshift`-liftonlyonce.AsitwasshowninTheorem1.2from[
+52
+],ifthebasegraphΓhasgoodspectralexpansionproperties,thenbyusingrandomshiftstheobtainedgraphˆΓalsohasgoodexpansionproperties,evenwhentheliftsize`isverylarge.In[
+17
+],suchgraphsˆΓwereusedtoconstructquasi-cyclicexpandercodesofverylargeliftsize`suchthatthecorrespondingparity-checkmatrixHanditstransposeH∗havegoodexpansionproperties.Inthecurrentwork,wealsoobtaingraphsˆΓusingvoltageassignments.WestartfromaverysmallbasegraphΓsuchasthebouquetgraphBw(onevertex,wloops)orthegraphDw(twoverticesconnectedbywmultipleedges).ThenweconsideraﬁnitegroupGwithsomeﬁxedw-elementsetofgeneratorsS⊆GandassigneachgeneratorfromS={s1,...,sw}toexactlyoneofthewedges(seeFig.
+2
+).ItisnothardtoseethatthederivedgraphsforBwcorrespondtoCayleygraphsCay(G,S)ifthegeneratingsetSissymmetric,i.e.S={s−1|s∈S},andtherearenogeneratorss∈Ssuchthats=s−1.Letusremindthat,givenaﬁnitegroupGwithsomesymmetricgeneratingsetS,thecorresponding(left)CayleygraphisthesimplegraphCay(G,S)withthesetofverticesV(Γ):=GandthesetofedgesE(Γ):={{g,sg}|g∈G,s∈S}.NowifweassigntheelementsofasymmetricgeneratingsetSofsomeﬁnitegroupGone-to-onetothewedgesofthegraphDw(theorientationisshowninFig.
+2
+),thenweobtainthegraphCay2(G,S),whichisthedouble-coverofCay(G,S).ThegraphCay2(G,S)hasthesetofverticesV(Γ):=G×{0,1}andthesetofedges:E(Γ):={{(g,0),(sg,1)}|g∈G,s∈S}.NotethatthefreerightactionofthegroupGonthisgraphisdeﬁnedas(g,a)h:=(gh,a)and{(g,0),(sg,1)}h:={(gh,0),(sgh,1)},whereh,g∈G,s∈S,anda∈{0,1}.Example1.Letusnowconsidertheinﬁnitefamilyof(p+1)-regularnon-bipartiteRamanujangraphsXp,qfrom[
+35
+],wherepandqaretwounequalprimessuchthatq>2√
+p,p≡q≡1(mod4),andp(q−1)/2≡1(modq).ThegraphXp,qisobtainedin[
+35
+]astheCayleygraphCay(G,Sp,q),where
+18
+G:=PSL(F2
+q)andSp,qissomespeciﬁcsymmetricsetofp+1generators.Denoteby¯Xp,qthecorrespondingdouble-coverCay2(G,Sp,q).Hence¯Xp,qisa(p+1)-regularbipartitegraphwithn=2|G|vertices,where|G|=q(q2−1)/2.Sinceitisprovedin[
+35
+]thatλ(Xp,q)62√
+p,thenwealsohaveλ2(¯Xp,q)62√
+p.Moreover,thegraph¯Xp,qisaG-liftofthebasegraphDp+1fromFig.
+2
+,andthegroupGhasafreerightactionon¯Xp,q.
+18ThegroupPSL(F2
+q)istheprojectivespeciallineargroupforF2
+q,i.e.thequotientofthegroupofmatricesA∈F2×2qwithdetA=1moduloitssubgroup{±(10
+01)}.12
+...
+s1
+s2
+swGraphBw v1
+v2...
+s1
+s2
+swGraphDwFigure2:VoltageassignmentsforthegraphsBwandDw.ThederivedgraphforBwcorrespondstoCay(G,S),whilethederivedgraphforDwisthedouble-coverofCay(G,S).Thesmallarrowsshowstheorientationthatweﬁx.
+1.4ClassicalcodesΩInthissubsectionwereviewsomestandarddeﬁnitionsandterminologyrelatedtoclassicallinearcodes.Alinear[n,k]qcodeisak-dimensionalsubspaceC⊆Fn q,wheretheparametersnandkarecalledthelengthandthedimensionofC,respectively.WedenotethedimensionkofthecodeCbydimC.TherateofthecodeCisequaltok/n.TheelementsofCarecalledcodewords.Theminimaldistanced(C)ofthecodeCistheminimalweightofanon-zerocodewordfromC,andd(C):=∞whenk=0.Whenalinear[n,k]qcodeChasminimaldistanced,wesaythatCisan[n,k,d]qcode.Alinear[n,k]qcodeisusuallydeﬁnedeitherastherowspaceofamatrixGcalledthegeneratormatrix,orasthekernelofamatrixHcalledtheparity-checkmatrix.ItiseasytoseethatGH∗=0,rkG=k,andrkH=n−k.Thecodedeﬁnedbyaparity-checkmatrixHisdenotedbykerH.ThevectorspaceFn qusuallycomeswiththestandardscalarproducthx,yi=x1y1+···+xnyn.ThedualcodeC⊥foralinear[n,k]qcodeCisthe[n,n−k]qcodeC⊥={x∈Fn q|hx,yi=0forally∈C}.ItisnothardtoseethatageneratormatrixforCisaparity-checkmatrixforC⊥andviceversa.Remark4.Notethatinthecurrentworkitisconvenienttoconsideraslightlymoregeneralcase,whereinsteadofFn qwehaveanarbitrarybasedn-dimensionalvectorspaceMoverFqequippedwithsomedistinguishedbasis˜M={m1,...,mn}⊆M.Inthiscase,M∼Ω=Fn q,andwecanconsidersubspacesC⊆Maslinearcodes,andapplyalltheterminologyweintroducedabovetothiscaseaswell.Inwhatfollows,wewilloftenusethefollowingimportantdeﬁnitions.Deﬁnition.ConsidertwolinearcodesC⊆MandC0⊆M0,whereMandM0aretwon-dimensionalvectorspaceoverFqwithdistinguishedbases˜Mand˜M0respectively.WesaythatCandC0are(permutation)equivalentandwriteC∼C0ifthereexistsalinearmapπ:M→M0suchthatπ(˜M)=π(˜M0)andπ(C)=π(C0).Wealsosaythattwom×nmatricesAandBare(permutation)equivalentandwriteA∼Bifwecanobtainonefromanotherbysomerow/columnpermutations.ItisclearthatifA∼BthenkerA∼kerB.13
+1.5ExpandercodesΩInthissubsection,wedescribeexpandercodes,whichareTannercodesobtainedfromexpandergraphs.Weadoptaveryconvenientway,usedin[
+39
+],[
+18
+]torepresentthesecodesinthelanguageofchaincomplexesandlocalsystems.IfFissomeabeliangroupandXissomen-elementset,thenwedenotebyFXtheabeliangroupofallformallinearcombinationsPx∈Xaxxoftheelementsx∈Xwithcoeﬃcientsax∈F.Whenn=1,andX={x},weusuallywriteFxinsteadofF{x}.IfF=FqthenthegroupFXisisomorphictothevectorspaceFn q.WhenF=Fm q,thegroupFXcanbeidentiﬁedwiththevectorspaceFmn qofblockvectors(v1,...,vn)withtheblocksvi∈Fm q,i∈[n].IfS⊆Xanda=Px∈Xaxx,thena|S:=Px∈Saxx.Nowletusintroducethefollowingimportantdeﬁnition.
+Deﬁnition.ConsideragraphΓ=(V,E)andacollection(∂(v))v∈Voflinearmaps∂(v):FqEv→Fr qvcalledlocalboundarymaps,whereEvisthesetofedgesincidenttothevertexv∈V.ATannerchaincomplexT=T•(Γ;(∂(v))v∈V)isachaincomplexFqE∂1−→Fr qVsuchthatforeverye∈Ethatconnectsvandv0wehave:∂e:=∂(v)e+∂(v0)e.(4)AnyTannercomplexTdeﬁnesthegloballinearcodeC:=ker∂1,alsoknownastheTannercode,andanumberoflocallinearcodesCv:=ker∂(v),v∈V,alsoknownassubcodes.Weseethatc∈Cif‌fc|Ev∈Cvforallv∈V.Inwhatfollows,weconsiderTannercomplexeswherethematricesofalllocalboundarymaps∂(v)areequivalenttoonematrixh∈Fr×wq.HencealllocalcodesCvarealsoequivalenttothesamelinear[n,k,d]qcodekerh.WedenotetheclassofallsuchTannercomplexesonthegraphΓasT(Γ;h).WecanliftTannercomplexesinasimilarwayasweliftgraphsusingvoltageassignments.ConsideraTannercomplexT=T•(Γ;(∂(v))v∈V)forthegraphΓ.ForanyG-liftˆΓ=(ˆV,ˆE),obtainedfromΓbyavoltageassignmentγ:E(Γ)→G,wecandeﬁnetheG-liftedTannercomplexˆT=D(T;γ).ItisconvenienttorepresentˆTasthecomplexFqE⊗FqGˆ∂1−→Fr qV⊗FqG,wherebythetensorproduct⊗wemeanthetensorproductoverFq.SinceFr qV⊗FqG∼Ω=Fr qˆVandFqE⊗FqG∼Ω=FqˆE,wecanassumethatv⊗g=(v,g)ande⊗g=(e,g)andstillconsiderˆTasaTannercomplexFqˆEˆ∂1−→FqˆVforthegraphˆΓ.Theboundarymapˆ∂ofthiscomplexisdeﬁnedforeveryg∈Gande∈Ewitho(e)=(v,v0)asˆ∂(e⊗g):=∂(v)e⊗g+∂(v0)e⊗γ(e)g,andextendedbylinearity(cf.Equation(
+4
+)).LetˆΓ=D(Γ;γ)beaG-liftofagraphΓ.WedenotebyTG(ˆΓ;h)theclassofallG-liftedTannercomplexesˆT=D(T;γ)whereT∈T(Γ;h).SincetheG-liftedTannercomplexˆTisarightG-module
+19
+,wecanuseanysuchcomplexwiththeG-liftedproductconstructiondiscussedearlier.Letusnowconsideralocal[w,k,d]qcodekerh
+19Wecanmultiplyfromtherightonitsbasisasfollows:(e⊗g)h:=e⊗gh,(v⊗g)h:=v⊗gh.14
+withtheparity-checkmatrixh∈Fr×wq,andtheTannercomplexT(h):=FqE(Dw)∂1−→Fr qV(Dw)withtheboundarymapdeﬁnedas∂ei:=hiv1+hiv2,whereE(Dw)={e1,...,ew},V(Dw)={v1,v2},andhiisthei-thcolumnoftheparity-checkmatrixh.ItiseasytoseethatthetwolocalcodesCv1andCv2ofT(h)arebothequivalenttokerh.Asitwasalreadymentioned,wecanobtainthedouble-coverΓ:=Cay2(G,S)ofanyCayleygraphCay(G,S)astheG-liftofDw,wherew:=|S|,byaone-to-oneassignmentofthewgeneratorsfromStotheedgesofDw(seeFig.
+2
+).ThuswecanconsidertheliftedTannercomplexT(Γ;h):=D(T(h);γ),whereγisthecorrespondingvoltageassignmentmap:γ(ei):=si,i∈[w].Itisnothardtocheckthattheboundarymapˆ∂ofthisliftedcomplexactsonitsbasesasfollows:ˆ∂(ei⊗g)=hiv1⊗g+hiv2⊗sig,i∈[w].LetusremindthatthechaincomplexT(Γ;h)isaG-module.LetusﬁxagraphΓ=Cay2(G,S)andtwoparity-checkmatricesh∈Fr×wq,h0∈Fr0×wq.Wecandeﬁnethefollowing3-termchaincomplexesusingtheG-liftedproductconstruction:C•(Γ;h,h0):=T(Γ;h)⊗GT∗(Γ;h0),C0•(Γ;h,h0):=T(Γ;h)⊗GT(Γ;h0).Remark5.Let¯Xw−1,t=Cay2(G,Sw−1,t)bethew-regulargraphfromExample
+1
+,whereG=PSL(F2
+t).ConsiderthechaincomplexesC•(¯Xw−1,t;h,h0)andC0•(¯Xw−1,t;h,h0)respectively.Inthecurrentwork,weusetheﬁrstcomplextoshowtheexistenceoftwoasymptoticallygoodfamiliesofcodes:quantumLDPCcodesandclassicalLTCs.However,aswecanseefromTheorem
+1
+,therateoftheobtainedLTCsisboundedaboveby1/2.Weconjecture
+20
+thatthecomplexC0•(¯Xw−1,t;h,h0)canbeusedtoobtainasymptoticallygoodLTCsofratearbitrarycloseto1.Forexample,ifh,h0∈Fr×wq,thentherateoftheclassicalcodesker∂2obtainedfromC0•(¯Xw−1,t;h,h0)isatleast1−4r/wsincewehavew2|G|codesymbolsand4wr|G|parity-checks.Henceiftherateofthelocalcodesgoesto1,thesamehappenswiththerateoftheobtainedLTCs.1.6PosetsandincidencechaincomplexesΩInthissubsection,weconsiderbasedchaincomplexesIwithintegercoeﬃcients
+21
+andcalltheelementsfromthecorrespondingdistinguishedbasis˜Icells.WesaythatIisanincidencechaincomplexifthematrixofitsboundarymap∂containsonlyelementsfrom{−1,0,1},andforeverysuchacomplexwealsodeﬁneitscellposet,whichcanbeviewedasacombinatorialstructurethatrepresentstheincidencerelationbetweenthecells.Insomesense,onecanviewthecellposetwiththecorrespondingincidencechaincomplex
+22
+asanabstractcellcomplex(see,e.g.[
+53
+,Section2.12]),whichgeneralizesthenotionofanabstractsimplicialcomplexandanabstractpolytope[
+54
+].LetXbeaposet,i.e.,asetwithapartialorder6.Wesaythatanelementa∈Xcoversanelementb∈Xandwritea≺borbaifa<b,andthereisnoelementc∈Xsuchthat
+20Notethataconstructionsimilartothiscomplexwasusedin[
+41
+]toproduceasymptoticallygoodclassicalLTCs.21ChaincomplexeswithintegercoeﬃcientareoftenusedinalgebraictopologytostudytheintegralhomologygroupsofCW-complexes22Infact,ifthereaderisonlyinterestedinthecodesoverﬁniteﬁeldofevencharacteristic,thenthesignsinthematrix∂arenotrelevant,andwecanrepresenteveryabstractcellcomplexbythecorrespondingcellposet.15
+a<c<b.Itiseasytoseethatanyﬁniteposetcanbeuniquelydeﬁnedbyitscoveringrelation≺ifweleta6bif‌fthereexistsasequencec0≺c1≺···≺cnofelementsfromXsuchthatc0=a,cn=b,andn>0.LetCbeabasedchaincomplexoversomering
+23
+R.Wecandeﬁnethepartialorder6onthedistinguishedbasis˜Cifforeverytwocellsc,c0∈˜Cweputc0≺cif‌fc0∈supp∂c.Wecalltheposet˜Cwiththerelation6thecellposetofC.AgradedposetisaposetXequippedwithamapρ:X→Zcalledarankfunctionsuchthatforanya,b∈Xthefollowingconditionshold:1.ifa6bthenρ(a)6ρ(b);2.ifa≺bthenρ(b)=ρ(a)+1.IfXisaﬁnitegradedposet,thenitisnothardtoseethatitcanbedecomposedasX=X(s)tX(s+1)t···tX(t),wherethesubsetX(i):={a∈X|ρ(a)=i}iscalledthei-thlevelofX,i∈[s,t]∩Z.ItisclearthatalltheelementsfromX(s)(resp.X(t))areminimal(resp.maximal)elementsinX.Itisalsotrivialtocheckthatthecellposet˜Cofabased(co)chaincomplexCisagradedposet,wherethelevelscorrespondtothecellsofthesamedimension.Anotherexampleofagradedposet,oftenstudiedinthecontextofHDXs,isan(abstract)simplicialcomplexonaﬁnitenon-emptysetV,whichisdeﬁnedasaclosedundertakingsubsetsfamilyX⊆2V.Inthiscase,thepartialorder6isjustthesetinclusionrelation⊆,andρ(x):=|x|−1foreveryx∈X.Theelementsx∈Xwithρ(x)=iarecalledi-dimensionalfacesorjusti-faces.ThehighestdimensionofthefacesfromthesimplicialcomplexXiscalleditsdimension.Letusnotethatasimplegraphcanberepresentedasa1-dimensionalsimplicialcomplex,wherethe0-facesandthe1-facescorrespondrespectivelytotheverticesandtheedgesofthegraph.HencewecanalsoviewanundirectedgraphΓasthegradedposetwiththelevelsV(Γ)andE(Γ),whereforeveryv∈V(Γ)ande∈E(Γ)wehavev≺ewhenevervisincidenttoe.Infact,2-levelposetsareequivalenttotheincidencesystems,andthuscanbeusedtorepresentundirectedmultigraphsandhypergraphsaswell.Inthiswork,itisconvenienttodeﬁneobjectssuchasgraphs,incidencesystems,andsimplicialcomplexesbythecorrespondingbasedchaincomplexesoverZ.Insomeway,wecanviewsuchcomplexeswithintegercoeﬃcientsasavastgeneralizationoftheseobjects.Forexample,forany2-levelposetXwiththelevelsVandE,wecandeﬁnethebasedchaincomplexC•(X):=ZE∂1−→ZVwiththedistinguishedbases˜C0:=V,˜C1:=E,where∂e:=Xv≺ev∈Vv.Thematrixof∂1isazero–onematrixusuallycalledtheincidencematrixofX.Forexample,sinceweviewanundirectedgraphΓasa2-levelposet,wecanconsiderthecorrespondingchaincomplexC•(Γ).NowletXbeasimplicialcomplexwithsomeﬁxedlinearorder<VonitssetofverticesV=X(0).ThenwecandeﬁnethechaincomplexC•(X)bythefollowingdiagramZX(n)∂n−→···∂1−→ZX(0)∂0−→ZX(−1),
+23Inthissection,weareinterestedinonlytwocases:R=ZandR=Fq.16
+whereforeveryk-facex={v0,...,vk}∈Xsuchthatv0<V···<Vvktheboundarymap∂:ZX→ZXisdeﬁnedas∂x:=Pk i=0(−1)ix\{vi},andthenextendedbylinearitytoallchainsfromZX.Aswecansee,theintegercoeﬃcientsinthematrixoftheboundarymapsforC•(Γ)andC•(X)arefromtheset{−1,0,1}.LetuscallanybasedchaincomplexIwiththisproperty
+24
+anincidencecomplex.LetIbesomeincidencecomplexwithadistinguishedbasisX.Itisclearthatitsboundarymap∂:ZX→ZXactsonacellx∈Xas∂x=Xxx0x0∈X[x:x0]x0,(5)wherethecoeﬃcient[x:x0]∈{−1,+1}iscalledtheincidencenumberforx,x0∈X.Itisalsoconvenienttoassumethat[x:x0]=0wheneverx6x0.Letusnotethatsince∂2=0,thenforeveryx,x00∈XweobtainXxx0x00x0∈X[x:x0][x0:x00]=0.(6)1.7ProductsofgraphsandposetsΩByinterpretingobjectslikegraphs,hypergraphs,ormoregenerallyabstractcellcomplexesasthecorrespondingincidencecomplexesallowsustodeﬁnetheliftedproductofsuchobjects.WesaythatagroupGactsonaposetPifitactsonPasonaset,andforeveryg∈Gifx6ythengx6gy(resp.xg6yginthecaseofarightaction).ItisreadilyseenthatanactionofagrouponagraphΓisalsoanactiononΓasa2-levelposet.ThereforeifIXandIYareincidencecomplexeswithcellposetsXandY,respectively,whereagroupGactsfreely(fromtherightonXandfromtheleftonY),thenwecandeﬁnetheliftedproductX×GYofXandYoverGasthecellposetofthecomplexIX⊗GIY.Infact,theliftedproductX×GYcanbedeﬁnedforarbitraryﬁniteposetsXandYwithafreeactionofagroupG.RecallthatifwehaveafreeactionofagroupGonasetS,thenthesizeofeachorbitisequalto|G|,andwecanidentifySwith(S/G)×G,whereS/GisthesetofallorbitsundertheactionofG.WedeﬁnetheposetX×GYastheset(X/G)×G×(Y/G)intermsofthecoveringrelationsasfollows:wehave(x,g,y)(x0,g0,y0)if‌feitherx=x0and(y,g)Y(y0,g0)or(x,g)X(x0,g0)andy=y0.IftheposetsXandYaregraded,thenwecanalsodeﬁnetherankfunctionρ(·)forX×GYintermsoftherankfunctionsofXandYasfollows:ρ(x,g,y):=ρX(x,g)+ρY(y,g).If|G|=1wedenotetheposetX×GYsimplybyX×Y.Remark6.IfXandYaretwographs(consideredas2-levelposets),thenfromthegeometricalpointofviewtheposetX×YcorrespondstothedirectproductofXandY(astopologicalgraphs).Atthesametime,thegeometricalinterpretationoftheposetX×GYcanbegivenintermsofthebalancedproduct
+25
+ofgraphs[
+18
+].Notethatthe1-skeletonofX×Y,i.e.,itsrestrictiontotheﬁrsttwolevels,isthe2-levelposetrepresentingthegraphX2Y,whichisusuallycalledtheCartesianproductofthegraphsXandY.RecallthatforeveryG-liftedgraphΓthegroupGacts
+24Infact,sometimesitisalsoconvenienttoconsiderarbitraryintegercoeﬃcients.Butthismoregeneralcaseisnotcoveredhere.25Ageometricrealizationofagraphcanbeconsideredasatopologicalspace.ThebalancedproductoftwotopologicalspacesXandYwithagroupGactingontherightonXandontheleftonYisthequotientspaceX×GY:=X×Y/∼,wheretheequivalencerelation∼isinducedby(xg,y)∼(x,gy)forx∈X,y∈Y,g∈G.17
+freelyonΓ.Hence,wecanalsodeﬁnetheG-liftedCartesianproductˆX2GˆYforG-liftsˆX,ˆYofbasegraphsX,Yasthe1-skeletonofˆX×GˆY.ItisnothardtocheckthatthegraphˆX2GˆYisa|G|-foldcoverforthestandardCartesianproductX2Y.Furthermore,ifGisabelian,thenthiscoverisregular,i.e.,ˆX2GˆYisaG-liftofX2Y.SupposethatˆΓisaG-liftofsomebasegraphΓ.Considerthecellposet˜X:=ˆΓ×GˆΓ,andletusrepresentitselementsbytriplesx·g·y,wherex,y∈V(Γ)∪E(Γ),g∈G.Fromthedeﬁnitionoftheposet˜Xitfollowsthatx0·g0·y0x·g·yif‌foneofthefollowingconditionshold:1.ˆx0
+g0ˆΓˆxgandy=y0;2.x=x0andˆy0g0ˆΓˆyg;whereˆΓisthecoveringrelationinthegraphˆΓconsideredasa2-levelposet,i.e.,itsincidencerelation.Itisconvenienttointerprettheposet˜Xasa2-dimensionalgeometricobject.Anelementx·g·y∈˜Xiscalled:•avertexifx∈V(Γ),y∈V(Γ);•ahorizontaledgeifx∈E(Γ),y∈V(Γ);•averticaledgeifx∈V(Γ),y∈E(Γ);•afaceifx∈E(Γ),y∈E(Γ),andthecorrespondingsubsetsofelementsaredenotedasV=V(˜X),E→=E→(˜X),E↑=E↑(˜X),andF=F(˜X).WealsodeﬁnethesetE(˜X)=E→(˜X)∪E↑(˜X).IfPisaposetwedenotebyP∗thedualposet,i.e.,x6P∗ywhenevery6Px.Inwhatfollows,wewillalsoneedaposetX:=ˆΓ×GˆΓ∗,whichisdeﬁnedonthesamesetas˜X=ˆΓ×GˆΓbuthasdiﬀerentpartialorderandrankfunction.ThismeansthatthegradingofXisdiﬀerentfrom˜X.Itiseasytocheckthatthecellposet˜Xhas3levels:˜X(0):=V,˜X(1):=E↑∪E→,and˜X(2):=E→,whilethelevelsforXareasfollows:X(0):=E↑,X(1):=F∪V,andX(2):=E→.Remark7.AswewillseeinSection
+2.3
+,theposetX=ˆΓ×GˆΓ∗correspondstotheliftedproductcomplexT(Γ;h)⊗GT∗(Γ;h0),whichweusetoshowthemainresult.HoweverthelevelsintheposetXdonotcorrespondtothenaturalgeometricaldimensionofthecells,andintheproofofourmainresultitismoreconvenienttoworkwiththeposet˜X=ˆΓ×GˆΓdeﬁnedonthesamesetasX,butgivingitanaturalgeometricalinterpretationasa2-dimensionalcomplex.Tothisendwedeﬁnetheincidencerelationinc(·,·)onthesetV∪E→∪E↑∪Finastandardgeometricalsense,i.e.,weassumethatinc(x,y)if‌fx6yory6x,where6isthepartialorderoftheposet˜X=ˆΓ×GˆΓ.Forexample,everyfacecanberepresentedgeometricallyasasquareincidenttotwohorizontaledges,twoverticaledges,andtofourvertices.Ifx∈XandS,T⊆X,thenwealsousethefollowingnotations:Sx:={y∈S|inc(x,y)},ST:={y∈S|inc(x,y)forsomex∈T}.HenceSxisthesubsetoftheelementsfromXincidenttox,andSTisthethesubsetoftheelementsfromSincidenttosomeelementfromT.Forexample,Xv={v}∪Ev∪Fvisthesetofallcellsincidenttovcalledthestarofv,whereEv(resp.Fv)isthesetofedges(resp.faces)incidenttov.18
+Fortheproofofourmainresultwewillalsoneedthe1-skeletonΛ:=ˆΓ2GˆΓofˆΓ×GˆΓwiththesetofverticesV(Λ):=V(˜X)andthesetofedgesE(Λ):=E(˜X).Remark8.IntheproofofthemainresultinSection
+2
+,whenwementionsetsV,E,E→,E↑,ForagraphΛ,werefertothecorrespondingsetsandthegraphdeﬁnedfortheposetˆΓ×GˆΓinthissectionunlessotherwisestated.
+1.8LocalsystemsΩInthissubsection,weconsiderageneralizationofbasedchaincomplexeswithcoeﬃcientsfromsomeﬁeldorringtothecomplexeswithlocalsystemofcoeﬃcients,wherethechainsareformallinearsumsofcellswithcoeﬃcientsinarbitraryabeliangroups.Infact,inthiswork,weareinterestedinthecasewhenalltheseabeliangroupsarevectorspacesoverthesameﬁniteﬁeldFq,andthusthecorrespondingchaincomplexescanbestillconsideredascomplexesofvectorspacesoverFq.Insomesense,acomplexwithlocalcoeﬃcientsgivesusahigh-levelviewofthecorrespondingcomplexoverFq.LetXbesomeﬁniteset,whichwearegoingtouseasanindexset.IfavectorspaceCisthedirectsumLx∈XFxofacollectionofvectorspacesF=(Fx)x∈X,thenwecanconsidertheelementsofCasformalsumsPx∈XaxxofelementsfromX,whereforeveryx∈XthecoeﬃcientaxisfromthevectorspaceFxcalledthelocalcoeﬃcientspaceofx.Insuchcases,wealsodenotethevectorspaceCbyFXorbyAXwhenallthelocalcoeﬃcientspacesareequaltothesamespaceA.IfeachlocalcoeﬃcientspaceFxcomeswithadistinguishedbasis˜Fx,thenweassumethatthedistinguishedbasisforFXistheset{ax|a∈˜Fx,x∈X},inwhichcasewesaythatFXisbased.Deﬁnition.GivenaposetXwesaythatFisalocalsystemofcoeﬃcientsforXiftoeachx∈XweassignavectorspaceFx,andtoeachx,x0∈Xwherex>x0weassignanFq-linearmapFx→x0:Fx→Fx0suchthatwheneverx>x0>x00wehave:Fx0→x00◦Fx→x0=Fx→x00.Remark9.NotethatinthelanguageofcategorytheorywecanviewFasafunctorfromaposetXtothecategoryofvectorspacesoverFq.HereweconsidertheposetXasasmallcategory,wheretheobjectsaretheelementsofX,andwehaveanarrowx→x0wheneverx>x0.GivenanincidencechaincomplexIwithsomelocalsystemFonitscellposetX:=˜I,wecanconsiderthechaincomplexC•(I;F)asthevectorspaceFXoverFqwiththeboundarymap∂:FX→FXdeﬁnedontheelementsax∈FX,where
+
+<!-- PDF text truncated by scrapem max_pdf_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。

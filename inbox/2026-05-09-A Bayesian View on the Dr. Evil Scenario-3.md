@@ -1,0 +1,316 @@
+---
+source: "https://arxiv.org/abs/2103.12429v2"
+title: "A Bayesian View on the Dr. Evil Scenario"
+author: "Feraz Azhar, Alan H. Guth, Mohammad Hossein Namjoo"
+year: "2021"
+publication: "arXiv preprint / physics.hist-ph"
+download: "https://arxiv.org/pdf/2103.12429v2"
+pdf: "https://arxiv.org/pdf/2103.12429v2"
+captured_at: "2026-05-09T12:35:14Z"
+updated_at: "2026-05-09T12:35:14Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Nietzsche Beyond Good and Evil"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# A Bayesian View on the Dr. Evil Scenario
+
+- 著者: Feraz Azhar, Alan H. Guth, Mohammad Hossein Namjoo
+- 年: 2021
+- 掲載情報: arXiv preprint / physics.hist-ph
+- 情報源: [arxiv](https://arxiv.org/abs/2103.12429v2)
+- ダウンロード: https://arxiv.org/pdf/2103.12429v2
+- PDF: https://arxiv.org/pdf/2103.12429v2
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+In "Defeating Dr. Evil with Self-Locating Belief", Adam Elga proposes and defends a principle of indifference for self-locating beliefs: if an individual is confident that his world contains more than one individual who is in a state subjectively indistinguishable from his own, then he should assign equal credences to the hypotheses that he is any one of these individuals. Through a sequence of thought experiments, Elga in effect claims that he can derive the credence function that should apply in such situations, thus justifying his principle of indifference. Here we argue, using a Bayesian approach, that Elga's reasoning is circular: in analyzing the third of his thought experiments, he uses an assertion that is justifiable only if one assumes, from the start, the principle of indifference that he is attempting to justify. We agree with Elga that the assumption of equal credences is a very reasonable principle, in the absence of any reason to assign unequal credences, but we do not agree that the equality of credences can be so derived.
+
+## PDF Text
+
+arXiv:2103.12429v2 [physics.hist-ph] 26 Dec 2022
+ABayesianViewontheDr.EvilScenarioFerazAzhar
+∗
+DepartmentofPhilosophy,UniversityofNotreDame,NotreDame,IN46556,USAandBlackHoleInitiative,HarvardUniversity,Cambridge,Massachusetts02138,USAAlanH.Guth
+†
+DepartmentofPhysics,LaboratoryforNuclearScience,andCenterforTheoreticalPhysics,MassachusettsInstituteofTechnology,Cambridge,MA02139
+MohammadHosseinNamjoo
+‡
+SchoolofAstronomy,InstituteforResearchinFundamentalSciences(IPM),Tehran,Iran(Dated:December19,2022)
+InDefeatingDr.EvilwithSelf-LocatingBelief,AdamElgaproposesanddefendsaprincipleofindiﬀerenceforself-locatingbeliefs:ifanindividualisconﬁdentthathisworldcontainsmorethanoneindividualwhoisinastatesubjectivelyindistinguishablefromhisown,thenheshouldassignequalcredencestothehypothesesthatheisanyoneoftheseindividuals.Throughasequenceofthoughtexperiments,Elgaineﬀectclaimsthathecanderivethecredencefunctionthatshouldapplyinsuchsituations,thusjustifyinghisprincipleofindiﬀerence.Hereweargue,usingaBayesianapproach,thatElga’sreasoningiscircular:inanalyzingthethirdofhisthoughtexperiments,heusesanassertionthatisjustiﬁableonlyifoneassumes,fromthestart,theprincipleofindiﬀerencethatheisattemptingtojustify.WeagreewithElgathattheassumptionofequalcredencesisaveryreasonableprinciple,intheabsenceofanyreasontoassignunequalcredences,butwedonotagreethattheequalityofcredencescanbesoderived.ContentsI.Introduction
+1
+II.ReanalysisofElga’sthoughtexperiments
+3
+III.ABayesianapproach
+5
+IV.Conclusion
+7
+Acknowledgments
+8
+A.GeneralizingElga’sFootnote8
+8
+References
+10
+I.INTRODUCTIONSelf-locatingbeliefs—namely,thosebeliefsthatsituateanagentatalocationoratime—arecommonplace.Youacquireaself-locatingbeliefwheneveryoucometolearnofthetimebyglancingatyourwatchorifyoulearnofyourlocationbyobservingastreetsign.Theconversesituationcan
+∗Emailaddress:fazhar@nd.edu†Emailaddress:guth@ctp.mit.edu‡Emailaddress:mh.namjoo@ipm.ir alsoarise,inwhichyoumaybeinitiallycertainaboutsomeself-locatingbelief(suchasthetime)butthenyougainanewpieceofevidence(thatyourwatchisbroken),renderingyouuncertainabouttheself-locatingbelief(
+Bradley
+,
+2007
+).Moregenerally,thequestionarisesastohowoneshoulddistributeone’scredenceoverself-locatingbeliefsaboutwhichoneisuncertain.InDefeatingDr.EvilwithSelf-LocatingBelief,
+Elga
+(
+2004
+)defendsaresponsetothisquestion.Theresponseamountstoaversionoftheprincipleofindiﬀerence—where,underspeciﬁedcircum-stances,oneshouldspreadone’scredenceequallyoverthevarioushypotheses.Morespeciﬁcally,theversionoftheprincipleofindiﬀerencethatElgadefendsisasfollows:Indifference:Similarcenteredworldsdeserveequalcredence(
+Elga
+,
+2004
+,p.387).Acenteredworldisapossibleworldwithadesignatedindividualandadesignatedtime.Itcanbespeciﬁedasatriple(w;i;t),wherewisapossibleworld,iissomeindividualinw,andtisatime.Similarcenteredworldssatisfytwoconditions:(i)theyagreeontheﬁrstargumentofthetriple(butnotnecessarilyonthelattertwo);(ii)theindividualsthatexistineachcenteredworldareinsubjectivelyindistinguishablestates.1Notethatwhileprinciplesofindiﬀerencehavebeenextensivelydiscussed,theformulationin
+Elga
+(
+2004
+)hasbeenparticularlyinﬂuential.2InjustifyingIndifference,Elgaconsidersasequenceofthree(related)thoughtexperiments:Duplication,Toss&Duplication,andComa.WeclaimthatElga’sanalysisoftheComascenarioisﬂawed,relyingonanassertionwhichcanbejustiﬁedonlybyassumingthetruthofthepropositionthatheistryingtodemonstrate.WearenotdisputingtheclaimthatIndifferenceisreasonable—indeed,inanupcomingpaperwewillmakeuseofsuchaprincipleinassessingcertaincosmologicaltheories.OurremarksheretargetonlythejustiﬁcationthatElgaprovidesforIndifference.Forus,Indifferenceisaprinciplethatonecanreasonablyadopt,basedonsomesortofappealtotheabsenceofanyreasontoassignunequalcredences,butnotbasedonanydeterminativecalculationofthesortpresentedbyElga.3Ourplanforthispaperisasfollows.InSec.
+II
+wesummarizeElga’sthoughtexperiments,anddescribeourclaimthattheanalysisofComaisﬂawed.Sec.
+III
+describesaBayesiancalculationthatshowsindetailhowwebelievetheComascenarioshouldbeanalyzed.WesummarizeourargumentinSec.
+IV
+.Inanappendix,wereexaminestep-by-stepacrucialfootnotefromElga’spaper,showinghowtheconclusionsfoundtherearemodiﬁedbyouranalysisofComa.
+1Indifferencecanbecontrastedwiththeclaimthattwotriplesinwhichthepossibleworldsthemselvesarediﬀerent(butwheretheindividualsareinsubjectivelyindistinguishablestates)shouldreceiveequalcredence—aclaimthatElgaholdstobeabsurd,sincetwopossibleworldscanhaveverydiﬀerentlevelsofplausibility.2Forexample,BradleydevotesanentirechapterofhisPh.D.thesis[
+Bradley
+(
+2007
+)]andanentiresectionofapaper[
+Bradley
+(
+2011
+)]todefendingElga’sformulationofindiﬀerenceagainstcriticismsby
+Weatherson
+(
+2005
+).
+Birch
+(
+2013
+)—inhisrefutationofBostrom’s(
+2003
+)argumentthatwemayverywellbelivinginacomputersimulation—exploresElga’sformulationofindiﬀerenceasapossiblejustiﬁcationofBostrom’sassumptions.
+Wilson
+(
+2017
+)describestheapplicabilityoftheprincipleofindiﬀerenceinEverettianquantummechanics,employingElga’sformulationthroughout.
+SebensandCarroll
+(
+2018
+)viewtheirworkasapplyingElga’sprincipleofindiﬀerencetoEverettianquantummechanicstoshowthatitleadstotheBornruleforprobabilitiesoftheoutcomesofmeasurements.AndtheproofthatElgaprovidesforhisformulationoftheprincipleofindiﬀerencehasalsobeenpersuasive.
+CarrollandSebens
+(
+2015
+,p.4)declarethatElga...hasgivenconvincingargumentsinfavorofindiﬀerenceinthecaseofidenticalclassicalob-servers.Crucially,thisresultisnotsimplypostulatedasthesimplestapproachtotheproblem,butratherderivedfromseeminglyinnocuousprinciplesofrationalreasoning.3SinceweagreethatIndifferenceisareasonableprinciple,wealsoagreewithElga’sconclusionthatDr.Eviloughttosurrender,assumingthatthefearoftortureoutweighsthethrillofhisevilplans!2
+II.REANALYSISOFELGA’STHOUGHTEXPERIMENTSElga’sﬁrstthoughtexperimentdescribestwosimilarcenteredworldsinwhichapersonnamed“Al”isduplicated.Theexperimentisdescribedasfollows.Duplication:AfterAlgoestosleepresearcherscreateaduplicateofhiminadu-plicateenvironment.Thenextmorning,Alandtheduplicateawakeninsubjectivelyindistinguishablestates(
+Elga
+,
+2004
+,p.388).TheissueatstakeishowAlshoulddistributehiscredencebetweenthehypothesisthatheisAlandthehypothesisthatheistheduplicate.InordertojustifywhyAlshoulddistributehiscredenceevenlybetweenthetwohypotheses(whichisindeedwhatwouldbeimpliedbyIndifference),Elgaintroducestwofurtherexperiments:Toss&DuplicationandComa(thelatterwillbedescribedshortly).Toss&Duplication:AfterAlgoestosleep,researcherstossacointhathasa10%chanceoflandingheads.Then(regardlessofthetossoutcome)theyduplicateAl.Thenextmorning,Alandtheduplicateawakeninsubjectivelyindistinguishablestates(
+Elga
+,
+2004
+,p.388).Inourdiscussionwewillgeneralizethechanceofthecoinlandingheadsfromthespeciﬁedvalueof10%toanarbitraryP0(H),assumingonlythatP0(H)isnotequalto0or1.Elgaclaims(andweagree)that...Al’sstateofopinion(whenheawakens)astowhetherheisAlortheduplicateoughttobethesameinToss&DuplicationasitisinDuplication.SoinordertoshowthatinDuplication,AloughttodividehiscredenceevenlybetweenthehypothesisthatheisAlandthehypothesisthatheistheduplicate,itisenoughtoshowthatheoughttodosoinToss&Duplication(
+Elga
+,
+2004
+,pp.388–389).ToshowthatAloughttodividehiscredenceevenlybetweenthehypothesisthatheisAlandthatheistheduplicate(inToss&Duplication),Elgastatesthreeclaims,whichwe(re)describehere.Following
+Elga
+(
+2004
+)and
+Weatherson
+(
+2005
+),wewillusethefollowingabbreviations:H:thecoinlands‘heads’;T:thecoinlands‘tails’;A:IamAl;D:IamDup(Al’sduplicate).ThecredencefunctionthatAloughttohaveimmediatelyuponawakeningwillbedenotedbyP(·).Elga’sthreeclaimscanbestatedasfollows:(C1)Al’scredenceinHoughttobeequaltothechanceofthecoinlandingheads:P(H)=P0(H).(1)(C2)Al’scredenceinH,given((HandA)or(TandA)),oughttobeequaltohiscredenceinH:P(H|HAorTA)=P0(H).(2)3
+(C3)Al’scredenceinH,given((HandA)or(TandD)),oughttobeequaltohiscredenceinH:P(H|HAorTD)=P0(H).(3)Claim(C3)(whichElgaindeeddeemstobecontroversial)isestablishedbyconsideringanotherthoughtexperiment,viz.Coma.Coma:AsinToss&Duplication,theexperimenterstossacoinandduplicateAl.Butthefollowingmorning,theexperimentersensurethatonlyonepersonwakesup:Ifthecoinlandsheads,theyallowAltowakeup(andputtheduplicateintoacoma);ifthecoinlandstails,theyallowtheduplicatetowakeup(andputAlintoacoma)(
+Elga
+,
+2004
+,p.390–391).Elgathenclaims(aclaimwithwhichweagree)thatonecandeterminethevalueoftheleft-handsideofEq.(
+3
+)byconsideringwhatAl’scredenceinHshouldbeinComa.Thatis,whenAlawakensinComa,werehetoindeedawaken,hissituationwouldbeexactlyasitwouldhavebeeninToss&Duplication,butthenupdatedbythenewinformation(HAorTD).Thus,Al’scredencefunctioninComa,ifheawakens,oughttobegivenbyPComa(·)=P(·|HAorTD).(4)Inparticular,PComa(H)=P(H|HAorTD).(5)Al’scredenceinHinComaisascertained,byElga,usingthefollowingargument(onp.392)4:BeforeAlwasputtosleep,hewassurethatthechanceofthecoinlandingheadswasP0(H),andhiscredenceinHshouldhaveaccordedwiththischance:ittooshouldhavebeenP0(H).Whenhewakesup,hisepistemicsituationwithrespecttothecoinisjustthesameasitwasbeforehewenttosleep.Hehasneithergainednorlostinformationrelevanttothetossoutcome.SohisdegreeofbeliefinHshouldcontinuetoaccordwiththechanceofHatthetimeofthetoss.Inotherwords,hisdegreeofbeliefinHshouldcontinuetobeP0(H).Inshort,Elga’sclaimisthatinComa,ifAlawakens,heoughttocontinuetosethiscredenceinthecoinlandingheadstotheknownchanceofheads,P0(H).Givenclaims(C1),(C2),and(C3),Elga(correctly)concludesthatP(A)=P(D)=1/2inToss&Duplicationandthus(bythereasoningdescribedabove)inDuplication.We,however,takeissuewiththejustiﬁcationprovidedforclaim(C3).Fromourpointofview,Elgaappearstobeusingcircularreasoningin(C3),whereheclaimsthatAl’scredenceinHshouldremainequaltoP0(H)whenheawakensinComa.Inparticular,itisnotthecasethatwhenAlwakesup“hisepistemicsituationwithrespecttothecointossisjustthesameasitwasbeforehewenttosleep.Hehasneithergainednorlostinformationrelevanttothetossoutcome.”WecontendthatAlhasbothgainedandlostinformationrelevanttothetossoutcome:
+4Here,wehavemodiﬁedtheexactquotetoaccordwithournotation,changing“HEADS”toHand“10%”toP0(H).4
+(i)Hehaslostinformationasregardshisidentity:beforeAlwenttosleephewassurethathewasAl;afterheawakens,thepossibilityarisesthatheisDup.Noamountofintrospection(oraninspectionofhisexternalenvironment)canrevealtohimwhetherheisAlorDup.(ThisiswhatwetaketobethemeaningoftheassumptionthatAlandDupwouldbein“subjectivelyindistinguishable”states.)(ii)Hehasgainedtheinformationthatheisnowinapredicamentinwhichhisidentity(again,aboutwhichheisnowunsure)isperfectlycorrelatedwiththetossoutcome.Al’suncertaintyabouthisidentity[asdescribedin(i)]isdirectlyrelevanttohisbeliefaboutthetossoutcome[asdescribedin(ii)].Inparticular,whenAlawakensinToss&Duplication,hehasnowayofknowingifheisAlorDup.IfheadoptsIndifference,hewillconcludethatheshouldgiveequalcredencetoeachpossibility.However,sinceElgaistryingtodemonstrateIndifference,circularitycanbeavoidedonlyifweallowAltoadoptaninitialcredencethatisnotequalto1/2.HencewesetP(A),Al’scredencethatheisAluponawakeninginToss&Duplication,equaltosomearbitrary‘prior’credencePrA,whichAlisfreetochoose.5InComa,asdiscussedjustaboveEq.(
+4
+),Al(ifandwhenheawakens)beginswiththesamecredencesasinToss&Duplication,whicharethenupdatedbythenewinformation(HAorTD).TheroleofPrAisimportant,becauseifPrAisnotequalto1/2,thenclearlyAl’scredenceinHisaﬀectedbythenewinformation.Forexample,ifPrAisnearlyone,thenhiscredenceinHshouldobviouslyincreaseonawakeninginComa,sinceifheisAl,thenthecoinmusthavelandedheads.Thisissueiswell-describedbyastandardBayesiananalysis,whichwegiveinthenextsection.WewillseethatAl’scredenceinHuponawakeninginComashouldremainP0(H)ifandonlyifAlassumesthatPrA=1/2.ThismeansthatElga’sconclusionisvalidifandonlyifoneassumesIndifferencefromthestart.6III.ABAYESIANAPPROACHInthissectionweapplyBayes’theoremtodeterminehowAlshouldupdatehiscredenceinH,usingthenewinformation,(HAorTD),thatheacquiresonawakeningintheComascenario.TodeterminehowAlshouldupdatehiscredenceinH,wewillcomputetheright-handsideofEq.(
+5
+),recallingthatP(·)isthecredencefunctioninToss&Duplication.OurderivationwillmakeuseofthefactthatinToss&DuplicationtheH/Tchoiceisinde-pendentoftheA/Dchoice,whichfollowsasaconsequenceofclaim(C2)(withwhichwedonot
+5Forsomebackgroundon‘prior’credencefunctions,seeforexample
+Meacham
+(
+2016
+),
+DorrandArntzenius
+(
+2017
+),and
+Isaacs,Hawthorne,andRussell
+(
+2022
+).Incontrasttosomewaysofunderstandingsuchapriorcredencefunction,inthepresentsettingP(·)isnottobeunderstoodasthecredencefunctionofanagentwhohasnoevidencewhatsoever.Al,forexample,doesknow(amongotherthings)thatheisinascenarioinwhichhehasbeenduplicated.6Notethat
+Weatherson
+(
+2005
+)hasalsoobjectedtoElga’sclaim(C3),butmakesnomentionofcircularityoranythingsimilar.Hisprimaryobjection(althoughheraisesothersaswell)reliesontheviewthatonemustdistinguishbetweenriskypropositions,forwhich“wehavegoodreasontoassignaparticularprobability,”andpropositionswhichareuncertain,forwhichwe“aren’treallyinapositiontoassignanythinglikeaprecisenumericalprobability.”WeathersonarguesthatAl’squestionabouthisidentityfallsinthecategoryofuncertainty.TheresultofthecointosswasriskybeforeAlwenttosleep,butwhenheawakensintheComascenario,theresultofthecointossbecomescorrelatedwithAl’sidentity,whichchangesitfromriskytouncertain.ThusWeathersonquestionswhetherAlcanassignanycredence,whenheawakens,tothecoinhavinglandedheads,andsuggeststhatmaybeassigningarangeofcredenceswouldbemoreappropriate.5
+takeissue).ThisindependencefollowsfromthesamewordsthatElgausestojustifyclaim(C2):“SoAlshouldcountthetossoutcomeasirrelevanttowhoheis”(
+Elga
+,
+2004
+,p.389).Formally,theindependenceofHandAcanbederivedfromclaim(C2)bynotingthat(HorT)istrue,soP(H|HAorTA)=P(H|A),andtherefore(C2)impliesthatP(H|A)=P0(H).ThisisofcourseawayofstatingthatAandHareindependent.UsingBayes’theorem,thisstatementisequivalenttoP(A|H)=PrA.RecallingthatP(H)=P0(H)istheinitiallyspeciﬁedchancethatthecoinlandedheads,Bayes’theoremcanbeusedtorewritetheright-handsideofEq.(
+5
+)asfollows:P(H|HAorTD)=P(HAorTD|H)
+P(HAorTD)P0(H)(6a)=P(A|H)
+P(HA)+P(TD)P0(H)(6b)=PrA
+P0(H)PrA+P0(T)PrDP0(H)(6c)≡FP0(H),(6d)wherePrD≡1−PrAisAl’spriorcredenceinToss&DuplicationthatheisDup,andF≡PrA
+P0(H)PrA+P0(T)PrD.(7)InEq.(
+6c
+)wehaveusedtheindependenceofHandA(andthatofTandD).Asweclaimedattheendoftheprevioussection,Al’scredenceinHafterawakeninginComa,whichisequaltoP(H|HAorTD),remainsequaltoP0(H)onlyifF=1.ByrewritingFasF=1
+1+P0(T)
+PrAPrD−PrA,(8)onecaneasilyseethatF=1onlyifthepriorcredencesPrAandPrD(whichmustsumto1)areeachtakentobe1/2.7Thus,takingintoaccounttheimplicationsofBayes’theorem,claim(C3)shouldbemodiﬁedtoanewclaim,whichwewilldenoteby(C30):(C30)Al’scredenceinHifheawakensinComa,PComa(H),whichisequaltoP(H|HAorTD),oughttobeequaltotheproductofF[giveninEq.(
+7
+)]andhiscredenceinheadsP(H)=P0(H)asheawakens,beforeheupdateshiscredenceswiththenewinformation(HAorTD):PComa(H)=P(H|HAorTD)=FP0(H).(9)Notethat(C30)agreeswith(C3)onlyifPrAisassumedtobe1/2.Inhisfootnote8,Elgausesclaims(C1),(C2),and(C3)toshowthatP(A)=P(D),whichcompleteshisdemonstrationthatIndifferenceistrueforthissituation.(Inanappendix,he
+7RecallthatwehaveassumedthatP0(H)isnotequaltozeroorone.IfwehadallowedP0(H)=0,thenFP0(H)wouldequalP0(H)foranyﬁnitevalueofF.IfwehadallowedP0(H)=1(andhenceP0(T)=0),thenEq.(
+7
+)showsthatFwouldequal1foranynonzerovalueofPrA.6
+generalizestheargumenttodefendarbitraryinstancesofIndifference.)Sincewehavearguedthat(C3)shouldbereplacedby(C30),theconclusionwillofcoursebealtered.InderivingEq.(
+9
+),wecalculatedP(H|HAorTD),andhenceF[seeEqs.(
+6
+)and(
+7
+)],assumingthatPrAandP0(H)weregiven.Wecouldimagine,however,thatweweregiventhevaluesofFandP0(H),andwereaskedtoinferthevalueofP(A),Al’scredenceinbeingAlwhenheawakensinToss&Duplication.Equation(
+7
+)wouldstillhold[replacingPrAandPrDbygenericquantitiesP(A)andP(D)],sowecouldthenﬁndP(A)directlyfromEq.(
+7
+),recallingthatP(D)=1−P(A)andP0(T)=1−P0(H).TheresultwouldbePinferred(A)=FP0(T)
+1−F+2FP0(T),(10)whereweusethespecialnotationPinferred(A)todenotethevalueofP(A)thatisinferredfromassumptions(C1),(C2),and(C30).ThiscalculationisaversionofElga’sderivationinfootnote8,whichisshorterthanElga’sargumentandallowsanarbitraryvalueforF.WecanseeimmediatelythatifweassumethatF=1,asinclaim(C3),werecoverElga’sresultthatPinferred(A)=1/2.However,ifweusetheversionoftheclaimbasedonBayesianreasoning,namely(C30),weﬁndinstead[bysubstitutingEq.(
+7
+)intoEq.(
+10
+)]thetrivialconclusionthatPinferred(A)=PrA.(11)Thatis,Al’scredenceinbeingAluponawakeninginToss&Duplication,asinferredbyconsid-eringtheexperimentinComa,isexactlyequaltowhateverpriorcredencePrAthatheassumed.AlwillconcludethatPinferred(A)=1/2onlyifheassumedapriorcredencePrAequalto1/2.TheargumentaboveisanabbreviatedversionofElga’sfootnote8,modiﬁedtouse(C30)insteadof(C3).InanappendixweshowindetailthatifthestepsofElga’sfootnote8arefollowedexactly,butwhereFisintroducedasinEq.(
+9
+),weretrieveexactlytheresultofEq.(
+10
+).ThusweseethatoncethecircularityinElga’sformulationisremoved,thedemonstrationofthetruthofIndifferencedisappears.Indifferencecanstillbeadoptedasareasonableprinciple,butElga’sderivationofitisﬂawed.
+IV.CONCLUSION
+Elga
+(
+2004
+)discussesaspeciﬁcversionoftheprincipleofindiﬀerence,whichappliestoasituationwhereapossibleworldincludestwoormoreindividualswho,atsomespeciﬁedtimeforeachofthem,areinsubjectivelyindistinguishablestates.HeillustratesthissituationwithanexamplecalledDuplication,inwhichsomeonenamedAlisduplicatedwhilehesleeps,alongwithhisenvironment,sothatAlandhisduplicateawakeninsubjectivelyindistinguishablestates.Throughasequenceofthreethoughtexperiments,ElgaarguesthatwhenAlawakens,heoughttoassignequalcredencetobeingtheduplicateortobeingAl.Inthispaperwehavearguedthat,whileitisperfectlyreasonableforAltoassumethatheisequallylikelytobetheduplicate,heisnotcompelledtomakethisassumption.ThereasoningthatElgaused,webelieve,iscircular.Speciﬁcally,wediﬀerintheanalysisofthethirdthoughtexperiment,calledComa,inwhichacoinwitha10%chanceoflandingheadsistossedwhileAlsleeps,andthentheduplicationtakesplaceasbefore.Ifthecoinlandsheads,onlyAlisallowedtowakeup,withtheduplicateremaininginacoma;butifthecoinlandstails,onlytheduplicateisallowedtowakeup.OurdisagreementcentersonthecredencethatAlshouldhave,when(andif)heawakens,inthecoinhavinglandedheads.Elga’sconclusionsarebasedontheclaimthat7
+Al’scredenceinheadswhenheawakensshouldremain10%.Weargue,however,thatthisclaimistrueifandonlyifAlassumesthatheisequallylikelytobeAlortheduplicate,whichisexactlytheconclusionthatElgaistryingtodemonstrate.IfAldoesnotmakethisassumption,thenhemight,forexample,assumethatheismuchmorelikelytobeAlthantheduplicate.Inthatcase,hiscredenceinheadsshouldbeincreaseduponlearningthathehaswokenup.WecarriedoutaBayesiananalysisofthisthoughtexperiment,andshowedthatAlmayassumeanypriorcredenceinhisbeingAl,andnoinconsistenciesarise.AslongasAlhasnoreasontobelievethatheismorelikelytobeeitherAlortheduplicate,thenweagreethatitisreasonabletoquantifythisabsenceofevidencebyadoptingthedefaultpropositionthatheisequallylikelytobeeither.Elga’sargument,however,didnotrelyonadoptingadefaultproposition.Instead,ElgaclaimedtoshowdirectlyfromthedescriptionsofthethoughtexperimentsthatAlcoulddeducethatheshouldhaveequalcredenceinbeingAlorDup.Attheendofhisargument,Elgaproclaimed“So,Indifferenceistrue.”Thus,ElgawasarguingthatIndifferenceismorethanareasonableproposition,butisinsteadalogicallycompellingconclusion.Wemaintain,however,thatthisargumentisﬂawed.InanemailexchangewithAdamElga,hepointedoutthatcircularitycouldbeavoidedbyaccepting(C3)asan“undefendedpremiseintheargument.”Toensuretheabsenceofcircularity,itisimportantthat(C3)has“independentappeal—credibilitythatdoesnotderivefromanantecedentcommitmenttoIndifference.”Wecompletelyagreethatifonedoesnotprovidesupportfor(C3),butinsteadacceptsitasapremise,thenthereisnocircularity.ForElga,(C3)hasappealthatisindependentofIndifference.Forus,however,(C3)hasnosuchappeal;butthereisnocausefordebate,sincethestatusofElga’sargumentturnsonwhether(C3)hassuchappeal,andweandElgaagreethatthereisnoreasonwhyintelligentfolksshouldnecessarilyagreeabouttheappealofanundefendedpremise.Nevertheless,fromourpointofview,Elga’soriginalargumentremainscircular.
+AcknowledgmentsWethankAdamElgaforaveryinterestingandhelpfulemailexchangeandforhispermis-siontoincludethesummaryofthisexchangethatappearsintheﬁnalparagraphofSec.
+IV
+.WealsothankRobertAudi,JeremyButterﬁeld,KrisMcDaniel,andNicholasTehforhelpfuladvice.F.A.acknowledgessupportfromtheBlackHoleInitiativeatHarvardUniversity,whichisfundedthroughagrantfromtheJohnTempletonFoundationandtheGordonandBettyMooreFoun-dation.A.H.G.’sworkwassupportedinpartbytheU.S.DepartmentofEnergyunderContractNo.DE-SC0012567.Theviewspresentedinthispaperdonotnecessarilyreﬂectthoseofanypersonorfundingagencymentionedabove.
+AppendixA:GeneralizingElga’sFootnote8InSection
+III
+,wedeﬁnedFtobetheBayesianupdatefactorwithwhichAl’scredenceinHismultipliedwhenheacquiresthenewinformation(HAorTD),thatis,whenhelearnsthateitherheisAlandthecoinlandedheads,orelseheistheduplicate(Dup)andthecoinlandedtails.InEq.(
+10
+),weinvertedtheBayesianupdateformulatodeterminePinferred(A),Al’scredenceinbeingAl,intermsofFandP0(T).[RecallthatweareusingthespecialnotationPinferred(A)andPinferred(D)forAl’scredenceinbeingAl,orinbeingDup,whenexpressedasafunctionofFandP0(T)≡1−P0(H).]ThisformulashowsthatifoneassumesthatF=1,thenoneconcludesthatPinferred(A)=1/2.ElgaassumedthatF=1,withoutjustiﬁcationinouropinion,andconcluded8
+thatPinferred(A)=1/2.Elga’sdemonstrationthattheclaims(C1),(C2),and(C3)implythatP(A)=P(D)=1/2isgiveninhisfootnote8,whichdoesnotuseBayes’theorem.SinceElga’sderivationisratherdiﬀerentfromourderivationofEq.(
+10
+),areadercouldsuspectthatElga’sderivationmightuncovermoreinformationthanourEq.(
+10
+).Hereweshowthatthisisnotthecase:ifElga’sderivationisgeneralizedtoallowFtobearbitrary(ratherthanassumingthatF=1),theﬁnalresultisthesameasEq.(
+10
+).Tomakethisclear,wewillgothroughtheequationsofElga’sfootnote8stepbystep,butallowingforanarbitraryvalueofF.Ateachstep,Elga’sequationcanbeobtainedbysettingF=1.WewillindenttheremainderofthisparagraphtoindicatethatwearefollowingElga—forthemostpartusinghislanguage,tofacilitatethecomparison.Elgabeginsbysettingtheleft-handsidesofEqs.(
+2
+)and(
+3
+)equaltoeachother.UsingEq.(
+9
+)insteadofEq.(
+3
+),thisgivesP(H|HAorTA)=1
+FP(H|HAorTD).(A1)RewritingEq.(
+A1
+)usingthedeﬁnitionofconditionalprobability,weobtainP(HA)
+P(HAorTA)=P(HA)
+FP(HAorTD).(A2)SomealgebrathengetsusthatP(HAorTA)=FP(HAorTD).(A3)SinceHA,TA,andTDarealldisjoint,P(TA)=FP(TD)+(F−1)P(HA).(A4)SinceP(TA)andP(TD)adduptoP0(T),P(TA)=F
+1+FP0(T)−1−F
+1+FP(HA),(A5)P(TD)=1
+1+FP0(T)+1−F
+1+FP(HA).(A6)Nowsettheleft-handsidesofEqs.(
+1
+)and(
+2
+)(inthemaintext)equaltoeachother:P0(H)=P(HA|HAorTA).(A7)ItfollowsthatP0(T)=P(TA|HAorTA).(A8)Dividingtheﬁrstequation[Eq.(
+A7
+)]bythesecondequation[Eq.(
+A8
+)],weobtainP0(H)
+P0(T)=P(HA|HAorTA)
+P(TA|HAorTA).(A9)9
+Usingthedeﬁnitionofconditionalprobability,wethusobtainP0(H)
+P0(T)=P(HA)
+P(TA).(A10)Rearranging,wegetthatP(HA)=P0(H)P(TA)
+P0(T),(A11)whichinturncanbewrittenasP(HA)=FP0(T)
+1−F+2FP0(T)P0(H),(A12)whereP(TA)wasreplacedusingEq.(
+A5
+).So,sinceP(HD)andP(HA)adduptoP0(H)[andP0(H)+P0(T)=1],P(HA)=FP0(T)
+1−FP0(H)P(HD).(A13)CombiningthiswiththefactthatP(TA)=FP0(T)
+1−FP0(H)P(TD),(A14)[asaresultofEqs.(
+A4
+)and(
+A10
+)],wehavethatP(HAorTA)=FP0(T)
+1−FP0(H)P(HDorTD).(A15)Elga’sfootnote8endswiththeequationcorrespondingtoEq.(
+A15
+),buttheargumentcanbespelledoutbynotingthatsince(HorT)istrue,Eq.(
+A15
+)canberewrittenasPinferred(A)=FP0(T)
+1−FP0(H)Pinferred(D).(A16)InthisformwecanseeimmediatelythatifweweretoassumethatF=1,wewouldrecoverElga’sresult,thatis,Pinferred(A)=Pinferred(D).Moregenerally,however,sincePinferred(D)+Pinferred(A)=1,Eq.(
+A16
+)impliesthatPinferred(A)=FP0(T)
+1−F+2FP0(T),(A17)inagreementwithEq.(
+10
+).References
+Birch,J.(2013).Onthe‘SimulationArgument’andSelectiveScepticism.
+Erkenntnis78,95–107
+.Bostrom,N.(2003).AreWeLivinginaComputerSimulation?
+PhilosophicalQuarterly53,243–255.
+Bradley,D.(2007).BayesianismandSelf-LocatingBeliefsorTomBayesmeetsJohnPerry.DoctoralDisser-tation(StanfordUniversity,CA,USA).10
+Bradley,D.(2011).ConﬁrmationinaBranchingWorld:TheEverettInterpretationandSleepingBeauty.
+BritishJournalforthePhilosophyofScience62,323–342
+.Carroll,S.M.andSebens,C.T.(2015).ManyWorlds,theBornRule,andSelf-LocatingUncertainty.
+arXive-prints:1405.7907[gr-qc]
+.Updatedversionofapaperin:
+QuantumTheory:ATwo-TimeSuccessStory.YakirAharonovFestschrift.
+D.C.StruppaandJ.M.Tollaksen(eds.)Milan:Springer,(2014),pp.157–169.Dorr,C.andArntzenius,F.(2017).Self-LocatingPriorsandCosmologicalMeasures.In:
+ThePhilosophyofCosmology.
+K.Chamcham,J.Silk,J.D.Barrow,andS.Saunders(eds.)Cambridge:CambridgeUniversityPress,pp.396–428.Elga,A.(2004).DefeatingDr.EvilwithSelf-LocatingBelief.
+PhilosophyandPhenomenologicalResearchLXIX(2),383–396
+.Isaacs,Y.,Hawthorne,J.,andRussell,J.S.(2022).MultipleUniversesandSelf-LocatingEvidence.
+Philo-sophicalReview,131(3),241–294
+.Meacham,C.J.G.(2016).Ur-Priors,Conditionalization,andUr-PriorConditionalization.
+Ergo3(17),444–492
+.Sebens,C.T.andCarroll,S.M.(2018).Self-locatingUncertaintyandtheOriginofProbabilityinEverettianQuantumMechanics.
+BritishJournalforthePhilosophyofScience69,25–74
+.Weatherson,B.(2005).ShouldweRespondtoEvilwithIndiﬀerence?
+PhilosophyandPhenomenologicalResearchLXX(3),613–635
+.Wilson,A.(2017).TheQuantumDoomsdayArgument.
+BritishJournalforthePhilosophyofScience68,597–615
+.11
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。

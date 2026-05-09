@@ -7,7 +7,7 @@ publication: ""
 download: "https://philarchive.org/archive/KEPDTG"
 pdf: "https://philpapers.org/archive/KEPDTG.docx"
 captured_at: "2026-05-09T08:07:40Z"
-updated_at: "2026-05-09T11:39:03Z"
+updated_at: "2026-05-09T12:59:03Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
@@ -24,6 +24,13 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/KEPDTG)
 - ダウンロード: https://philarchive.org/archive/KEPDTG
 - PDF: https://philpapers.org/archive/KEPDTG.docx
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ユング-現代研究動向|ユング-現代研究動向]]
+- キーワード: [[ユング]]
+- 関連分野: [[現代思想]]
+- 関連タグ: #現代思想
 
 ## Abstract
 

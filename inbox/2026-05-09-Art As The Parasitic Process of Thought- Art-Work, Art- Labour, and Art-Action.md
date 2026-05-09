@@ -7,11 +7,11 @@ publication: "Hannah Arendt . Net 14 (1):119–137 ( 2025 )"
 download: "https://philarchive.org/archive/LEWAAT-10"
 pdf: "https://philpapers.org/archive/LEWAAT-10.pdf"
 captured_at: "2026-05-09T07:13:55Z"
-updated_at: "2026-05-09T11:37:45Z"
+updated_at: "2026-05-09T13:12:22Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
-query: "Hannah Arendt The Human Condition"
+query: "Hannah Arendt"
 tags:
   - "政治哲学"
   - "現代思想"
@@ -27,6 +27,15 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/LEWAAT-10)
 - ダウンロード: https://philarchive.org/archive/LEWAAT-10
 - PDF: https://philpapers.org/archive/LEWAAT-10.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ハンナ・アーレント-現代研究動向|ハンナ・アーレント-現代研究動向]]
+- キーワード: [[ハンナ・アーレント]]
+- 関連分野: [[政治哲学]]
+- 関連分野: [[現代思想]]
+- 関連分野: [[全体主義]]
+- 関連タグ: #政治哲学 #現代思想 #全体主義
 
 ## Abstract
 
@@ -69,8 +78,7 @@ In
 The Human
 Condition,
 Arendt places art at the end of the chapter entitled “Work”.
-The discussion of art is short but dens
-e, with art reoccurring throughout her writings
+The discussion of art is short but dens e, with art reoccurring throughout her writings
 often in a central and pivotal role. She returned to the concept of art in
 Between Past and
 Future
@@ -110,20 +118,17 @@ Ibid, 27.
 3
 Hannah Arendt, “Hannah Arendt on Hannah Arendt,” in
 Hannah Arendt: The Recovery of the Public World
-,
-ed. Melvyn A. Hill (New York: StMartin’s Press, 1979),
+, ed. Melvyn A. Hill (New York: StMartin’s Press, 1979),
 323.
 4
 This is the subject of her essay “What is Authority”, as she felt “the very term has become clouded by
-controversy and confusion” because “authority has vanished from the modern world”. As such, she believed it
-important to define what authority had been, so that we could better contextualize its loss. Quite simply, the
+controversy and confusion” because “authority has vanished from the modern world”. As such, she believed it important to define what authority had been, so that we could better contextualize its loss. Quite simply, the
 concept of authority had been forgotten, and only the word remained, and thus was used awkwardly and
 unclearly. P.91
 5
 Her essays “The Concept of History: Ancient and Modern” as well as “What is Freedom” exist for this
 purpose. In both instances, while history and freedom, unlike authority, remain in the world, the shifts in
-their meanings overtime, as well as their use as synonymous with other concepts, and metaphorical use being
-taken as literal had to Arendt muddled their disclosing quality as words. This is one of Arendt’s favorite
+their meanings overtime, as well as their use as synonymous with other concepts, and metaphorical use being taken as literal had to Arendt muddled their disclosing quality as words. This is one of Arendt’s favorite
 methodologies, and one heavily used throughout
 The Human Condition
 .
@@ -139,8 +144,7 @@ not surprising that Arendt also felt that the concept of art had a precise and u
 meaning. However, it is of great note that while most of Arendt’s writing on art is from
 the earlier part of her career, the concept still occupied her and required more thinking
 and clarification late in life. Notably in 1970 she wrote in her Thinking Diary “What gives
-artworks their permanence is perhaps their origin – they were born on the non-time track
-of thinking.”
+artworks their permanence is perhaps their origin – they were born on the non-time track of thinking.”
 6
 It is surprising then to find Arendt writing so confidently in
 The Human
@@ -176,8 +180,7 @@ accessed December 1, 2024,
 https://www.wolfgang-heuer.com/denkraum/eng/centenary.htm
 .
 7
-I hope it does not seem harsh that I speak of Arendt’s confusion, or that I claim she made a mistake regarding
-the workings of her own formulation. When I claim she made a mistake, I am doing my best to contextualize
+I hope it does not seem harsh that I speak of Arendt’s confusion, or that I claim she made a mistake regarding the workings of her own formulation. When I claim she made a mistake, I am doing my best to contextualize
 her work within the framework and methodology she herself used to approach words’ meanings and related
 concepts.
 She said in her own appraisal of
@@ -269,8 +272,7 @@ yet even a poem, no matter how long it existed as a living spoken word in the re
 of the bard and those who listened to him, will eventually be ‘made’, that is written down
 11
 It is worth noting several things within this quote. First, it is very clear that the
-judgement of the quality of the poem is not what creates the poem, that the poem pre-
-exists judgment of it as a piece of art. Second, that the poem is produced through
+judgement of the quality of the poem is not what creates the poem, that the poem preexists judgment of it as a piece of art. Second, that the poem is produced through
 “condensation” not fabrication. This already indicates that the poem comes into existence
 through something other than what Arendt calls work. Lastly, Arendt seems very aware
 9
@@ -320,8 +322,7 @@ Arendt was determined, against the standard
 reading, to derive from Kant’s aesthetic judgement “a general ‘faculty of judgment’ that,
 while not political in and of itself, would be on the side of politics.”
 13
-This judging requires
-both thinking and communication, but does not privilege genius or intellect, instead
+This judging requires both thinking and communication, but does not privilege genius or intellect, instead
 privileging the appeal of each action, or object, to the spectator who judges.
 14
 It is this
@@ -345,8 +346,7 @@ This, however, is not the creation of the work of art.
 For while we could conceive that anything is art if it is judged by the collective to be
 so and accepted as such, we can see clearly here that judging is something done to art and
 is not that process that makes art itself. While it may be that good art must be judged to
-be beautiful, it would appear that art is not less art if it is not judged beautiful. It may only
-be bad art, which is not the same thing as being less or not art.
+be beautiful, it would appear that art is not less art if it is not judged beautiful. It may only be bad art, which is not the same thing as being less or not art.
 Likewise, this judgment
 cannot be confused with value, as art is “not exchangeable” and thus defies “equalization
 12
@@ -392,8 +392,7 @@ homo faber
 , the fabricator of the world, and all worldly objects. She writes, “if mortals
 need [
 homo faber’s
-] help to erect a home on earth, acting and speaking men need the help
-of
+] help to erect a home on earth, acting and speaking men need the help of
 homo faber
 in his highest capacity, that is, the help of the artist, of poets, of
 historiographers, of monument-builders or writers, because without them the only
@@ -408,8 +407,7 @@ symphony by a great conductor, are as quickly gone from this world as action or 
 At very least, Mary McCarthy believed that perishables still amounted to Arendtian art.
 She explained, “a birthday cake, elaborately decorated, is experienced not
 just
-as a cake to
-be consumed, and we almost have the sense that it
+as a cake to be consumed, and we almost have the sense that it
 ought
 to be preserved”.
 22
@@ -468,8 +466,7 @@ transcendental ‘arts’ that should be collected and restaged and which works 
 as “things” created out of boredom, or due to frustration”.
 25
 We see in Pang a note of
-recognition that it is indeed partly through judgement that we decide what is art and what
-is not. Indeed, as these art-works “were so overwhelmingly defined by the [Hong Kong]
+recognition that it is indeed partly through judgement that we decide what is art and what is not. Indeed, as these art-works “were so overwhelmingly defined by the [Hong Kong]
 occupation” none had any use left, if they had had any before, and were prime examples
 of how for Arendt often “art is the artifact”.
 26
@@ -485,8 +482,7 @@ existence of the
 art
 process, but only places it as one among two ways in which art
 becomes art. As we shall see, it is not the dominant factor.
-She writes in an essay on Walter Benjamin, “inasmuch as collecting can fasten on any
-category of objects [not just art objects] …and thus, as it were,
+She writes in an essay on Walter Benjamin, “inasmuch as collecting can fasten on any category of objects [not just art objects] …and thus, as it were,
 redeem the object as a
 thing
 since it now is no longer a means to an end but has its intrinsic worth” we can
@@ -578,8 +574,7 @@ In this it differs greatly from cognition "by which we acquire and store up
 knowledge,” and is chiefly manifested in the form of the sciences.
 38
 Cognition is focused
-and “always pursues a definite aim, which can be set by practical considerations as well as
-by ‘idle curiosity’.”
+and “always pursues a definite aim, which can be set by practical considerations as well as by ‘idle curiosity’.”
 39
 However, just like its chief relation, fabrication, “once this aim is
 28
@@ -629,8 +624,7 @@ The Problems of Fabrication
 It is high time we properly address fabrication. This is how Arendt believes art is
 made. Art-work to her is itself the result of the same process that makes the ladder or the
 hammer. Instead of directly defining here fabrication, we shall show, through a series of
-its roles, its incompatibility with art. This is not to say that fabrication is a flawed concept,
-because it proves inapplicable to the art it is supposed to encompass, as indeed it is
+its roles, its incompatibility with art. This is not to say that fabrication is a flawed concept, because it proves inapplicable to the art it is supposed to encompass, as indeed it is
 exactly what happens when an object of sustained utility is created.
 41
 It is only that the
@@ -654,8 +648,7 @@ their changes over time. Art today cannot be said to be accurately portrayed by 
 ancient definition of art as craftwork. Process artists like Pollock, Eva Hesse, or Robert
 Morris
 44
-are simply too involved in the process of art for the idea of an end result, a model
-to be achieved, to have any significance. Moreover, the end result, the art-work, is not of
+are simply too involved in the process of art for the idea of an end result, a model to be achieved, to have any significance. Moreover, the end result, the art-work, is not of
 paramount importance to process art, the art for them is the process, not the result. This
 can be further noted in 20
 th
@@ -767,25 +760,21 @@ https://www.hannaharendt.net
 sovereignty through the necessity of the inclusion of the public.
 52
 If we consider our other
-prime example, the conductor of a symphony they did not write. This artist both produces
-and displays their art in the same instant. It is a performance, and there is no sovereign
+prime example, the conductor of a symphony they did not write. This artist both produces and displays their art in the same instant. It is a performance, and there is no sovereign
 space or time.
 It is also notable that within the course of the work chapter Arendt changes the
-nature of the fabricated object. For use-objects and fabrication in general at the beginning
-of the chapter she focuses on “physical durability”, but in the section on art she replaces
+nature of the fabricated object. For use-objects and fabrication in general at the beginning of the chapter she focuses on “physical durability”, but in the section on art she replaces
 the concept with permanence, “which is a function of the “memorability” of tangible
 things”.
 53
 However, both these traits, it will be shown, are not necessarily inherent to art,
 though the later as Arendt has shown is a trait of art-work.
 Arendt writes thought, “although it inspires the highest worldly productivity of
-homo
-faber
+homo faber
 , is by no means his prerogative; it begins to assert itself as his source of inspiration
 only where he overreaches himself, as it were, and begins to produce useless things”.
 54
-For
-as the reader will recall, she has already denoted cognition, not thought, as the cognitive
+For as the reader will recall, she has already denoted cognition, not thought, as the cognitive
 process which corresponds to the fabrication process. However, it must be noted that
 use
 
@@ -793,8 +782,7 @@ is a difficult term to define in relation to Arendt. It is no doubt tied to the 
 category of the
 homo faber
 ; however, it also appears physically defined, in that use is
-related to wear and depletion, as we will come to see. Still, it is never effectively dealt with
-in Arendt, and while I suspect a definition could be arrived at, it remains outside the
+related to wear and depletion, as we will come to see. Still, it is never effectively dealt with in Arendt, and while I suspect a definition could be arrived at, it remains outside the
 scope of this paper. I instead trust for now in the reader’s socialized conception of use,
 insofar as we can conceptualize in our daily professional and personal interactions that
 one can be used or not used. If we accept that thought creates art, and not cognition,
@@ -856,8 +844,7 @@ is not missing from Arendt’s work. It is only muddled. In “The Achievement o
 Herman Broch” she writes of the modern novel that the intention is “to involve the reader
 in something which is at least as much a process of thought as of artistic invention.”
 58
-It is,
-of course, unnamed, but here she is discussing
+It is, of course, unnamed, but here she is discussing
 art.
 It is given the title of artistic invention.
 Likewise in “Society and Culture”, Arendt writes despairingly of “those who no longer
@@ -945,8 +932,7 @@ dichotomy. She uses goodness as an example of this, as an extreme example, which
 go into absolute hiding and flee all appearance if it is not to be destroyed”.
 65
 If this is true,
-then art must have a space in the world. Markell rightly notes that it would make no sense
-for art to be with the fabricated world in private, and notes that art not only must but
+then art must have a space in the world. Markell rightly notes that it would make no sense for art to be with the fabricated world in private, and notes that art not only must but
 already in Arendt
 does
 have its own zone:
@@ -969,8 +955,7 @@ Still, however, we have not laid out exactly what
 art
 is. We are aware it is a parasitic
 process, which mimics or alters other processes so that their end result is art. Further, we
-know that this is the result of thinking, however, this process still requires a more in-
-depth examination. Arendt writes, “men of action and the lovers of results in sciences
+know that this is the result of thinking, however, this process still requires a more indepth examination. Arendt writes, “men of action and the lovers of results in sciences
 have never tired of pointing out how entirely ‘useless’ thought it—as useless, indeed, as
 the works of art it inspires.”
 68
@@ -1018,8 +1003,7 @@ but what we must realize is that works “of art are thought things, but this do
 prevent their being things.”
 71
 
-Yet here we run into a problem. Art, while it may have its own location, does not have
-its own process in the same way labour, work, or action do. The sheer variety of what we
+Yet here we run into a problem. Art, while it may have its own location, does not have its own process in the same way labour, work, or action do. The sheer variety of what we
 call art proves this and it is not something Arendt overlooked. For, while she primarily
 insisted on artworks, and their involvement in fabrication, she admitted that even in this
 strict limitation fabrication as the art process had its limits: “Poetry, whose material is
@@ -1042,11 +1026,8 @@ fabrication, or action does not fully meet the qualifications inherent to labour
 action.
 Art and Art-Work
 This section need not be lengthy as much of its subject matter has already been
-covered in the section devoted to the problems of fabrication. However, it is worthwhile to
-state that many of the issues inherent in fabrication are not necessarily as untrue of art-
-work as they are of art in general. For instance, the work of a classical sculptor or painter
-is much more likely to have something akin to a model than say the work of Chris Burden,
-whose performance, depending on the piece, is either art-labour or art-action rather than
+covered in the section devoted to the problems of fabrication. However, it is worthwhile to state that many of the issues inherent in fabrication are not necessarily as untrue of artwork as they are of art in general. For instance, the work of a classical sculptor or painter
+is much more likely to have something akin to a model than say the work of Chris Burden, whose performance, depending on the piece, is either art-labour or art-action rather than
 art-work.
 73
 
@@ -1103,8 +1084,7 @@ they are the worldliest of all things”.
 Here, however, we must give a word of caution. For
 this potential immortality
 is
-true for all art, but is only ensured by the physicality of art-
-works. That is to say, it is the fabrication process, not
+true for all art, but is only ensured by the physicality of artworks. That is to say, it is the fabrication process, not
 art
 that provides the durability that
 can translate to immortality.
@@ -1123,8 +1103,7 @@ of their processes made useless will result in durability. However, despite the 
 durability, the uniqueness inherent in art
 79
 ensures that it has the potential to be
-immortal regardless. However, this immortality is similar to that of action, in that it relies
-on art-work to record its occurrence.
+immortal regardless. However, this immortality is similar to that of action, in that it relies on art-work to record its occurrence.
 74
 Arendt,
 The Human Condition
@@ -1199,8 +1178,7 @@ not escape.
 However, if such an activity, that was as constant in its requirements as the
 life process were shown as useless to the life-process, done for beauty’s sake, then would
 it not be art-labour? To explore this, let us look to Pang’s article on Arendtian art applied
-to Hong Kong’s occupation art. Pang argues that it was a continuous and conscious art-
-labour when occupants transformed the public toilet, “a ‘non-place’—a space that cannot
+to Hong Kong’s occupation art. Pang argues that it was a continuous and conscious artlabour when occupants transformed the public toilet, “a ‘non-place’—a space that cannot
 be defined as relational or historical or concerned with identity” into “a piece of
 installation art, demonstrating conviviality and serendipity” by cleaning it, and
 personalizing it, and “turning it from a standardized, cold, and transitory site into a cozy
@@ -1232,8 +1210,7 @@ https://www.hannaharendt.net
 common room, filled with cleansers, lotions, face masks, small decorations, and sanitary
 napkins”.
 86
-We can conceptualize this art-labour found in the task of cleaning a bathroom,
-as never complete, and this seems intrinsic to the art. Thus, the art work is consumed as
+We can conceptualize this art-labour found in the task of cleaning a bathroom, as never complete, and this seems intrinsic to the art. Thus, the art work is consumed as
 quickly as it is created, and is maintained only through repeated
 art
 .
@@ -1253,17 +1230,14 @@ be continuous, thereby making it art-labour. Of course, it could now be claimed 
 bathroom and the plants did not outlast the occupation, thereby bringing into question
 their status as art. However, while it is true that they did not outlast the occupation, they
 did indeed last long enough to be preserved in art-work, in so far as Pang’s work, as well
-as the other documentation is art-work, including this piece. To this extent, these art-
-labours have been deemed beautiful enough to preserve, and thus, have the potential
+as the other documentation is art-work, including this piece. To this extent, these artlabours have been deemed beautiful enough to preserve, and thus, have the potential
 immortality of all art.
 To turn our gaze to more traditional art forms, let us consider dance. It is difficult to
-say whether dance belongs to art-labor or to art-action, however it clearly is not an art-
-work. Once it is complete, it has no physical permanence except what is created by other
+say whether dance belongs to art-labor or to art-action, however it clearly is not an artwork. Once it is complete, it has no physical permanence except what is created by other
 forms. For the time, I am tentatively placing it within art-labor. This categorization is
 primarily due to its rehearsed nature. The case could be made that each independent
 performance is an art-action, however, various dance recitals are not commonly talked
-about as being different in this manner. One might ask whether you have seen said dance,
-but not what specific recital you went to, unless the asker is wondering if they were at the
+about as being different in this manner. One might ask whether you have seen said dance, but not what specific recital you went to, unless the asker is wondering if they were at the
 same performance as you. Generally, it is not a discussion of difference. Likewise, the
 non-public rehearsals, that are surely necessary, might very well count as hobby. Thus, as
 in dancers’ relation to their body, and the requirements of physical training as well as
@@ -1272,7 +1246,7 @@ even if one rejects “modern art”, we can still see art-labor in the traditio
 Art and Art-Action
 We thus arrive at art-action, which may be the most elusive of the three to find
 examples of, as it is so uncommon that we find an action with no effect on the world that
-is still great eno
+is still great enough to warrant
 
 <!-- PDF text truncated by scrapem max_pdf_chars. -->
 

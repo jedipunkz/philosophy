@@ -7,7 +7,7 @@ publication: "Oxford Studies in Metaphysics 34 (21):12 ( 2026 )"
 download: "https://philarchive.org/archive/KARFAJ"
 pdf: "https://philpapers.org/archive/KARFAJ.pdf"
 captured_at: "2026-05-09T08:07:21Z"
-updated_at: "2026-05-09T11:38:43Z"
+updated_at: "2026-05-09T12:58:34Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
@@ -25,6 +25,13 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/KARFAJ)
 - ダウンロード: https://philarchive.org/archive/KARFAJ
 - PDF: https://philpapers.org/archive/KARFAJ.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ユング-現代研究動向|ユング-現代研究動向]]
+- キーワード: [[ユング]]
+- 関連分野: [[現代思想]]
+- 関連タグ: #現代思想
 
 ## Abstract
 
@@ -128,8 +135,7 @@ wisdom, guidance, and transpersonal knowledge; the Trickster — the amoral, sha
 
 figure who disrupts order and facilitates transformation; the Puer Aeternus — the eternal
 
-youth, the archetype of possibility and renewal; and the Hero — the figure of ego-
-development, of the struggle against inertia and unconsciousness. These are not merely
+youth, the archetype of possibility and renewal; and the Hero — the figure of egodevelopment, of the struggle against inertia and unconsciousness. These are not merely
 
 interesting metaphors. Jung believed they were genuine psychological realities — objective
 
@@ -242,8 +248,7 @@ and in the violences we inflict on others in the name of our own righteousness. 
 
 Shadow conscious — to recognize it, to own it, to enter into relationship with it — is not to
 
-become evil but to become whole. It requires an honesty that the ego, invested in its self-
-image, finds profoundly uncomfortable. But without it, the energy locked in the Shadow
+become evil but to become whole. It requires an honesty that the ego, invested in its selfimage, finds profoundly uncomfortable. But without it, the energy locked in the Shadow
 
 remains unavailable for creative use, and the individual is condemned to project their own
 

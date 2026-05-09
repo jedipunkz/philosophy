@@ -7,7 +7,7 @@ publication: ""
 download: "https://philarchive.org/archive/CARSIA-27"
 pdf: "https://philpapers.org/archive/CARSIA-27.pdf"
 captured_at: "2026-05-09T08:07:36Z"
-updated_at: "2026-05-09T11:38:58Z"
+updated_at: "2026-05-09T12:58:57Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
@@ -24,6 +24,13 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/CARSIA-27)
 - ダウンロード: https://philarchive.org/archive/CARSIA-27
 - PDF: https://philpapers.org/archive/CARSIA-27.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ユング-現代研究動向|ユング-現代研究動向]]
+- キーワード: [[ユング]]
+- 関連分野: [[現代思想]]
+- 関連タグ: #現代思想
 
 ## Abstract
 

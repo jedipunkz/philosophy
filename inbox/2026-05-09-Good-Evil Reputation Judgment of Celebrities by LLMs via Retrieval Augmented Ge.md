@@ -1,0 +1,769 @@
+---
+source: "https://arxiv.org/abs/2503.14382v2"
+title: "Good/Evil Reputation Judgment of Celebrities by LLMs via Retrieval Augmented Generation"
+author: "Rikuto Tsuchida, Hibiki Yokoyama, Takehito Utsuro"
+year: "2025"
+publication: "arXiv preprint / cs.CL"
+download: "https://arxiv.org/pdf/2503.14382v2"
+pdf: "https://arxiv.org/pdf/2503.14382v2"
+captured_at: "2026-05-09T12:11:26Z"
+updated_at: "2026-05-09T12:11:26Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Nietzsche Beyond Good and Evil"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# Good/Evil Reputation Judgment of Celebrities by LLMs via Retrieval Augmented Generation
+
+- 著者: Rikuto Tsuchida, Hibiki Yokoyama, Takehito Utsuro
+- 年: 2025
+- 掲載情報: arXiv preprint / cs.CL
+- 情報源: [arxiv](https://arxiv.org/abs/2503.14382v2)
+- ダウンロード: https://arxiv.org/pdf/2503.14382v2
+- PDF: https://arxiv.org/pdf/2503.14382v2
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+The purpose of this paper is to examine whether large language models (LLMs) can understand what is good and evil with respect to judging good/evil reputation of celebrities. Specifically, we first apply a large language model (namely, ChatGPT) to the task of collecting sentences that mention the target celebrity from articles about celebrities on Web pages. Next, the collected sentences are categorized based on their contents by ChatGPT, where ChatGPT assigns a category name to each of those categories. Those assigned category names are referred to as "aspects" of each celebrity. Then, by applying the framework of retrieval augmented generation (RAG), we show that the large language model is quite effective in the task of judging good/evil reputation of aspects and descriptions of each celebrity. Finally, also in terms of proving the advantages of the proposed method over existing services incorporating RAG functions, we show that the proposed method of judging good/evil of aspects/descriptions of each celebrity significantly outperform an existing service incorporating RAG functions.
+
+## PDF Text
+
+Good/EvilReputationJudgmentofCelebritiesbyLLMsviaRetrievalAugmentedGeneration
+*
+RikutoTsuchidaHibikiYokoyamaTakehitoUtsuroDeg.Prog.Sys.&Inf.Eng.,Grad.Sch.Sci.&Tech.,UniversityofTsukuba{s2110466,s2320808}_@_u.tsukuba.ac.jp,utsuro_@_iit.tsukuba.ac.jpAbstractThepurposeofthispaperistoexaminewhetherlargelanguagemodels(LLMs)canunderstandwhatisgoodandevilwithrespect tojudginggood/evilreputationofcelebrities.Speciﬁcally,weﬁrstapplyalargelanguagemodel(namely,ChatGPT)tothetask ofcollectingsentencesthatmentionthetargetcelebrityfromarticlesaboutcelebrities onWebpages.Next,thecollectedsentences arecategorizedbasedontheircontentsby
+ChatGPT,whereChatGPTassignsacategory nametoeachofthosecategories.Thoseassignedcategorynamesarereferredtoasaspectsofeachcelebrity.Then,byapplyingtheframeworkofretrievalaugmentedgeneration(RAG),weshowthatthelargelanguagemodelisquiteeffectiveinthetaskof judginggood/evilreputationofaspectsand descriptionsofeachcelebrity.Finally,also intermsofprovingtheadvantagesofthe proposedmethodoverexistingservicesincorporatingRAGfunctions,weshowthat theproposedmethodofjudginggood/evilof aspects/descriptionsofeachcelebritysigniﬁ-
+cantlyoutperformanexistingserviceincorporatingRAGfunctions.1IntroductionThispaperproposesamethodofjudginggood/evilreputationofcelebritiesbasedoninformationcollectedfromWebpagesbyemployinglargelanguagemodels(LLMs,inparticularChatGPT)viaretrievalaugmentedgeneration(RAG)(
+Lewisetal.
+,
+2020
+).EffortshavebeenmadetoensurethatChatGPTdoesnotoutputinsultsaboutpeople,butitremainsunclearwhetheritcandistinguishbetweengoodandevilorunderstandthedegreeofevilnessinitscontent.Thus,thispaper showsthatChatGPTcanjudgegood/evilreputa-
+*ThisworkhasbeensubmittedtotheIEEEforpossiblepublication.Copyrightmaybetransferredwithoutnotice,af-terwhichthisversionmaynolongerbeaccessible.tionofcelebritiesbasedontheiraspectsanddescriptions.WealsoshowthatChatGPTcanfurther distinguishthedegreeofevilnesssuchasillegalor legalbutunethical.However,gatheringinformationaboutcelebri-tiesusingChatGPTalonedoesnotnecessarilyyieldthelatestinformation.ThisisbecauseChatGPTcannotgraspeventsthatoccurredafter itstrainingdatacut-off.Therefore,thispaper proposesamethodwhereinformationobtained fromexternalsourcesisprovidedtoalargelanguagemodelsuchasChatGPT,allowingitto considereventsthathappenedafteritstraining datacut-offwhengeneratingresponses.Thisapproachisknownasretrievalaugmentedgeneration(RAG)(
+Lewisetal.
+,
+2020
+).Alsoinpre-viousresearch(
+Yokoyamaetal.
+,
+2024
+),impres-sionsregardingcelebritieswerecollectedandaggregatedfrompostsonplatformX.Theaspects referstowhattheimpressionsareabout.Incontrast,thispaperproposesanovelmethodofextractingaspectsofcelebritiesfromWebpagesand aggregatingdetaileddescriptionsofthoseaspects.Throughtheexperimentalevaluation,intermsofthevarietyofaggregatedaspects/descriptions,we showedthatthisnovelapproachisespeciallyeffectiveinthecaseofcelebritieswhohaveencounteredacertainkindofscandals.Finally,acomparisonismadewithMicrosoftCopilot
+1
+developedbyMicrosoftCorporation.Mi-crosoftCopilotcombinesChatGPTwithRAG
+technology,whileitscomparisonwiththemethod proposedinthispaperrevealsthefollowing: i.e.,theproposedmethodoutperformsMicrosoft
+Copilotbothinthenumberofaggregatedaspects/descriptionsofcelebritiesaswellastheir accuracy.Thisismainlybecausetheproposed methodcollectsmuchlargernumberofWebpages beforeaggregationandthenidentiﬁesmuchlarger
+1
+https://www.microsoft.com/ja-jp/microsoft-copilot/organizations arXiv:2503.14382v2 [cs.CL] 10 Jul 2025
+numberofaspects/descriptionscomparedwithMicrosoftCopilot.Thefollowingsgivethecontributionofthispaper:Weproposedamethodforwidelycollectinginformationoncelebrities.WiththehelpofRAGfunction,weshowedthatChatGPTcandistinguishbetweengood andevilandunderstandthedegreeofevilness ofcelebritiesbasedontheiraspectsanddescriptions.Weshowedtheadvantagesoftheproposedmethodcomparedtoexistingservices,MicrosoftCopilotbycomparingresultsof good/evilreputationjudgment.2RelatedWork
+Researchoninformationaggregationofcelebrities includes
+Yokoyamaetal.
+(
+2024
+)asmentionedintheprevioussection,aswellasresearchondeterminingtherelationshipbetweencelebritiesand impressionsinMicroblogs(
+Nozakietal.
+,
+2022
+),andtheworkonextractingimpressionsabout celebrities’aspectsfromMicroblogs(
+SugawaraandUtsuro
+,
+2022
+).However,thesestudiesdonotaddresscelebritieswhohavebeeninvolvedinpast controversies.Thispaperresolvestheissuesthat arisewhensuchcelebritiesareincludedassubjects.Inthispaper,weutilizeretrievalaugmentedgen-eration(RAG)(
+Lewisetal.
+,
+2020
+),whichhelpstoreducehallucinationsinlargelanguagemodels(LLMs)andstabilizeoutputbyreferencingexter-nallyobtainedinformation.Relatedresearchon
+RAGincludesretrieval-augmentedlanguagemodels(
+Rametal.
+,
+2023
+)andimprovementsinre-liability,adaptability,andattributioninretrievalaugmentedlanguagemodels(
+Asaietal.
+,
+2024
+).Additionally,researchrelatedtoChatGPTencom-passesentitylinking(
+PeetersandBizer
+,
+2023
+),di-alogueanalysis(
+Finchetal.
+,
+2023
+),andextractivesummarization(
+Zhangetal.
+,
+2023
+).Furthermore,animportantfeatureofthispaperisthejudgmentbetweengoodorevilofcelebrities’
+careersusingLLMs.ResearchinvolvingLLMs andthelegalﬁeldincludesstudiesverifyingthe effectivenessofLLMsinthelegalﬁeld(
+Shauryaetal.
+,
+2023
+).3AggregatingImpressionsonCelebritiesandtheirReasonsfrom
+MicroblogPostsandWebSearch
+Pages(
+Yokoyamaetal.
+,
+2024
+)ThispaperbuildsonpriorresearchoutlinedinSec-tion
+1
+,speciﬁcallytheevaluationofRAGinag-gregatingreasonsforpostsexpressingimpressions aboutcelebrities(
+Yokoyamaetal.
+,
+2024
+).Inthatstudy,postscontainingimpressionsoncelebritieswerecollectedfromXusingthelargelanguagemodelChatGPT.Fromthesecollectedposts,impressionsregardingwhataspectsofcelebritiesare extractedasthecelebrity’saspect.Thereasons forthecelebrity’saspect+impressionextracted atthisstagearecollectedandaggregatedusing
+RAG(
+Lewisetal.
+,
+2020
+).Webpagesaresearchedusingcelebrity’saspect+impressionasqueries,andtheresultingWebpagesareprovidedtoChatGPTtoidentifyreasonsfortheimpressionsfrom them.ThereasonforusingRAG(
+Lewisetal.
+,
+2020
+)inthisprocessisthattheinformationob-tainedsolelyfrompostsrarelycontainsadetailed explanationofthereasons,evenifimpressionsare present.Therefore,itisnecessarytoobtaininformationaboutthereputationofcelebritiesfromexternalWebpages.ThedetailsareshowninFigure
+3
+intheAppendix
+A.1
+.However,inthepreviousstudy(
+Yokoyamaetal.
+,
+2024
+),onlycelebritieswhohadnotcausedanyscandalinthepastwereconsidered.Therefore,whendatawascollectedandaggregatedonawidervarietyofcelebrities,itwasfoundthatpostsrelatedtocelebritieswhohadencounteredscandalsinthepastoftenlackedaclearaspects,makingextractiondifﬁcult.Thissituationisillustrated inFigure
+4
+intheAppendix
+A.1
+.Inotherwords,theapproachofthepreviousstudyisonlyeffectiveforindividualswithnopasttroublesnorscandals,butitisconsideredineffectiveforcelebritieswhohavenegativeimpressionssuchastroublesandscandalsintheirpast.Addressingtheseissues,thispaperaimstostudycelebritieswhohaveencounteredscandals inthepastandtoextracttheaspectsthatarenot clearlydepictedinposts.
+4ProposedApproach:SkippingMicroblogPostsbutAggregating
+Celebrities’Aspects/Descriptions directlycollectedfromWebPagesInordertosolvetheproblemscausedinthepreviousstudymentionedintheprevioussection,this paperproposesamethodthatretrievesallaspects relatedtocelebritiesfromWebpages,withoutextractingthemfrommicroblogposts.
+4.1CollectingWebPages
+First,20Webpagesarecollectedbysearchingwithcelebrityname.Inthepreviousstudy(
+Yokoyamaetal.
+,
+2024
+),thequeryforthesearchwascelebrity’saspects+impression,soonlyWebpagesrelatedtotheinformationcollectedinthemicroblogpostscouldberetrieved.
+However,byrevisingthequeryasabove,awide rangeofinformationcanberetrieved.Table
+1
+showsthelistofcelebritiestargetedinthispaper.TherearetenJapanesecelebrities,
+ﬁveofwhomwereoriginallyincludedinthepre-viousstudy(
+Yokoyamaetal.
+,
+2024
+)andhavenopreviousproblems.Theremainingﬁvearenew celebritiesforstudyinthispaper,whohavehad problemsinthepastandhavebeeninactive.In addition,ﬁveadditionalnon-Japanesecelebritieswhohadcausedproblemswerealsotargeted.Forallofthosecelebritiesforstudyinthispaper,we examinedJapaneseWebpagesonly,butnottheWebpagesofanyotherlanguageincludingEn-glishWebpages
+2
+.4.2ExtractingandAggregatingCelebrities’AspectsandtheirDescriptionsNext,fromthelargenumberofsentencesonthe collectedWebpages,sentencethatmentionthetargetcelebrityarecollected,andsincesomeofthe collectedsentencehaveoverlappingcontents,so theyarecategorizedaccordingtothecontents.In thisprocess,weaskChatGPTtodeterminewhat thetopicisaboutthecelebrityandnameitasa categoryname.Thecategorynamegeneratedhere
+2WhencollectingWebpageswitheachoftheﬁvenon-Japanesecelebrities’namesasthequery,weusetheJapanesekatakanacharactersusedforthoseforeignnames,i.e.,
+·çüóû³àº(ShoonKomuzu)forSeanCombs,±ô£óû¹Ú¤·ü(KevinSpeisii)forKevinSpacey,¸çËüûÇÃ×(JoniiDeppu)forJohnnyDepp,¦£ÎÊûé¤Àü(UinonaRaidaa)forWinonaRyder,and¸ã¹Æ£óûÆ£óÐüì¤¯(JasuteinTeinbaareiku)forJustinTimberlake.
+Yokoyamaetal.
+(
+2024
+)
+onlyinthispaper
+RyosukeYamada
+Huwa-chan
+KazunariNinomiya
+PierreTaki
+HumaKikuchi
+YuichiNakamura
+SyunOguri
+NoriyukiMakihara
+GoAyano
+HiroyukiMiyasako
+
+SeanCombs
+
+KevinSpacey
+
+JohnnyDepp
+
+WinonaRyder
+
+JustinTimberlake
+Table1:CelebritiesforStudyinThisPaper celebrity’sname recall precision
+Huwa-chan
+0.75(6/8)
+1.00(6/6)
+PierreTaki
+0.53(8/15)
+1.00(8/8)
+YuichiNakamura
+0.64(9/14)
+0.90(9/10)
+HiroyukiMiyasako
+0.60(6/10)
+1.00(6/6)
+NoriyukiMakihara
+0.82(9/11)
+1.00(9/9)
+RyosukeYamada
+0.78(7/9)
+1.00(7/7)
+SyunOguri
+0.50(5/10)
+1.00(5/5)
+GoAyano
+0.71(10/14)
+0.83(10/12)
+KazunariNinomiya
+0.63(5/8)
+0.83(5/6)
+HumaKikuchi
+0.86(6/7)
+1.00(6/6)
+SeanCombs
+0.86(6/7)
+1.00(6/6)
+KevinSpacey
+0.63(5/8)
+0.83(5/6)
+JohnnyDepp
+0.60(6/10)
+1.00(6/6)
+WinonaRyder
+0.83(5/6)
+1.00(5/5)
+JustinTimberlake
+0.78(7/9)
+0.78(7/9)
+macroaverage
+0.70
+0.94
+Table2:EvaluationResultsofExtractedandAggre-gatedAspectsandDescriptions becomescelebrity’saspects.Finally,variousdescriptionsrelatedtothecelebrity’saspectsareaggregated.Theentireprocessofcollectingsentencesthatmentioncelebrities,categorizingthemandcreatingcategorynames,andextractingthecelebrity’s aspectsisdoneusingChatGPT.Themodelof
+ChatGPTusedisgpt-4o,andthesamemodelis usedinallthelatersituationswhereChatGPTis used.Figure
+1
+showstheprocessfromcollectionofWebpagestoextractionofaspectsforJustinTimberlakeasanexampleofatargetcelebrity.4.3EvaluationTheresultsobtainedbyChatGPTarecompared withmanuallyextractedandaggregatedreferenceaspectsanddescriptionsforeachcelebrityname.
+ChatGPT’sresultswereconsideredamatchifboth theaspectsanddescriptionswereidenticalorsimFigure1:AnExampleofExtractingandAggregatingAspectsandDescriptionsforJustinTimberlake
+
+Aspects/Impressions/Reasonsby
+Yokoyamaetal.
+(
+2024
+)
+Aspects/DescriptionsbytheProposedMethod
+Aspects/DescriptionsandAspects/Impressions/Reasonsoverlapping betweenthetwomethods remarks/criticism,rants/criticism,
+ﬂaming/criticism,ﬂaming/sympathy, dislike/sympathy,dislike/criticism, disliked/sympathy,disappeared/criticism inappropriateremarksandhiatus
+Aspects/descriptionsandAspects/Impressions/Reasonsnotoverlapping betweenthetwomethods
+None careerandactivities, languageskillsandeducationalbackground, relationshipswithfriends fashionandinﬂuence, mediaappearances
+Table3:Aspects/Impressions/Reasonsby
+Yokoyamaetal.
+(
+2024
+)andAspects/DescriptionsbytheProposedMethod(byChatGPT,forHuwa-chan)
+ilarincontenttoreference
+3
+.Whenthesetofthehuman-handledaspectsanddescriptionsisR(c)andthesetoftheChat-GPTaspectsanddescriptionsisS(c)foracertaincelebrityc,wedeﬁnerecallandprecisionasthefollowingformulas.recall=|R(c)∩S(c)|/|R(c)|,precision=|R(c)∩S(c)|/|S(c)|EvaluationresultsareshowninTable
+2
+.Recallisapproximately70%,andprecisionis90%or more,indicatingthattheextractionandaggregationareperformedaccurately.
+4.4Comparisonwith
+Yokoyamaetal.
+(
+2024
+)Someoftheaspectsanddescriptionsextracted bytheproposedmethodoverlapwiththeaspects,
+3Inalltheresultsoftheexperiment,whentheaspectisidenticalorsimilartothereference,itisalsothecaseforthedescription.
+Figure2:Good/EvilJudgmentofaCelebrity’sAspects/Descriptions(e.g.,forJustinTimberlake)
+impressions,andreasonsextractedby
+Yokoyamaetal.
+(
+2024
+).Here,however,thereexistthosethatareextractedonlybytheproposedmethod,while conversely,othersareextractedonlyby
+Yokoyamaetal.
+(
+2024
+).Therefore,wemanuallymaptheas-pects+impressions+reasonsforimpressionsobtainedby
+Yokoyamaetal.
+(
+2024
+)tothoseaspects+descriptionsobtainedbytheproposedmethod,
+
+Aspects/Impressions/Reasonsby
+Yokoyamaetal.
+(
+2024
+)
+Aspects/DescriptionsbytheProposedMethod
+Aspects/DescriptionsandAspects/Impressions/Reasonsoverlapping betweenthetwomethods
+5.67
+2.00
+Aspects/DescriptionsandAspects/Impressions/Reasonsthatnotoverlapping betweenthetwomethods
+2.67
+5.83
+Total
+8.33
+7.83
+Table4:NumbersofAspects/Impressions/Reasonsby
+Yokoyamaetal.
+(
+2024
+)andAspects/DescriptionsbytheProposedMethod(byChatGPT,averagedover10Celebrities)
+celebrity’sname
+ChatGPT
+MicrosoftCopilot zero-shot few-shot zero-shot few-shot
+Huwa-chan
+1.00(6/6)
+1.00(6/6)
+0.70(7/10)
+0.80(8/10)
+PierreTaki
+0.86(7/8)
+1.00(8/8)
+0.60(3/5)
+0.60(3/5)
+YuichiNakamura
+0.78(7/9)
+1.00(9/9)
+0.83(5/6)
+0.83(5/6)
+HiroyukiMiyasako
+0.83(5/6)
+0.67(4/6)
+0.80(4/5)
+0.80(4/5)
+NoriyukiMakihara
+1.00(9/9)
+1.00(9/9)
+0.50(2/4)
+0.50(2/4)
+RyosukeYamada
+1.00(7/7)
+1.00(7/7)
+
+
+SyunOguri
+1.00(5/5)
+1.00(5/5)
+
+
+GoAyano
+1.00(10/10)
+1.00(10/10)
+
+
+KazunariNinomiya
+1.00(5/5)
+1.00(5/5)
+
+
+HumaKikuchi
+1.00(6/6)
+1.00(6/6)
+
+
+macroaverage
+0.95
+0.97
+0.67
+0.71
+Table5:EvaluationResultsofGood/EvilJudgmentofaCelebrity’sAspects/Descriptionsandexaminedtheiroverlap.Table
+3
+showstheresultobtainedforHuwa-chan.Huwa-chanisaJapanesecomedianand hasbeencriticizedforhisviolentoutburstsagainst othercelebritiesonsocialnetworkingsitesandis currentlyonhiatus.Table
+3
+showsthattherearenoaspect,impression,norreasonthatcanbeobtainedonlyby
+Yokoyamaetal.
+(
+2024
+).Onthecontrary,thereexistplentyofaspectsanddescriptionsthatcanbeobtainedonlybytheproposed method,whichmeansthatthemethodproposed inthispaperiscapableofmorewidelycollecting celebrities’aspectsandtheirdescriptions.ThedetailsareprovidedinFigure
+5
+ofAppendix
+A.3
+Theoverallresultofthemappingfor10celebri-tiesisshowninTable
+4
+.Onthesideof
+Yokoyamaetal.
+(
+2024
+),thenumberofoverlappingaspects,impressions,andreasonsis5.67,whichismuch largerthanthatofnotoverlappingones.Onthesideoftheproposedmethod,ontheother hand,themagnituderelationofoverlappingandnotoverlappingnumbersareopposite,wherethenotoverlappingnumberismuchlargerthantheoverlappingnumber.Thisresultagainindicatesthatthemethodproposedinthispaperiscapable ofmorewidelycollectingcelebrities’aspectsand theirdescriptions.
+5Good/EvilJudgmentofaCelebrity’sAspects/DescriptionsNext,ajudgmentbetweengoodandevilismade fortheaspectsextractedinSection
+4.2
+.Thepur-poseofthisjudgmentistodeterminewhethera large-scalelanguagemodel,whichhasnotbeen trainedspeciﬁcallyforlegalknowledge,canaccuratelymakeﬁne-grainedjudgments.
+5.1TheProcedureJudgmentbytheChatGPTismadeintwostagesasshowninFigure
+2
+.First,thecelebrities’aspectsanddescriptionsareclassiﬁedintotwocategories:evilornotparticularlyevil,andthentheas-pectsanddescriptionsjudgedtobeevilarefurtherclassiﬁedintothreecategoriesasbelow:notparticularlyevil
+evil
+
+predictedbyChatGPT
+
+illegal legalbutunethical legalandethicalbutunpopularandcriticized notparticularlyevil total reference illegal
+2Makihara/Taki
+0
+0
+0
+2
+legalbutunethical
+1Miyasako
+2Huwa/Nakamaru
+0
+0
+3
+legalandethicalbutunpopularandcriticized
+0
+0
+1Miyasako
+0
+1
+notparticularlyevil
+0
+1
+0
+64
+65
+total
+3
+3
+1
+64
+71
+Table6:ConfusionMatrixofGood/EvilJudgmentofCelebrities’Aspects/Descriptions(for10Celebrities)illegallegalbutunethicallegalandethical butunpopularandcriticizedInparticular,withregardtothethreecategoriesofevil,illegalisdeﬁnedtobeapersonwhoclearlyviolatesalaw,legalbutunethicalisdeﬁnedtobeapersonwhodoesnotviolateanylawbutdoes sayordoessomethingethicallyproblematicand iscriticizedbythepublic,andlegalandethicalbutunpopularandcriticizedisdeﬁnedtobeaper-sonwhodoesnothingparticularlyevilbuthasa poorreputationamongothers.WewillinvestigatewhetherChatGPTcanrecognizethecleardistinc-tionamongthosedeﬁnitions.Inaddition,beforejudgment,ChatGPTisinputwiththeaspectsanddescriptionsofthecelebri-tiesextractedandaggregatedinsection
+4.2
+,andthejudgmentismadebyreferringtothoseinformation.Figure
+2
+showsthejudgmentmadeonScandalsandlegalproblems,oneoftheaspectsextractedwhenJustinTimberlakewasthetarget.InFigure
+2
+,theaspectofScandalsandlegalproblemsareenteredintoChatGPTtogetherwith theaggregateddescription,andChatGPTjudgeswhereitﬁtsintheclassiﬁcationbyreferringtotheaggregateddescription.Intheﬁrststage,Scandalsandlegalproblemswasjudgedtobeevilat theﬁrststage,andastheresultofthesecondstage ofthejudgment,ScandalsandlegalproblemsofJustinTimberlakewasjudgedtobeillegal.Thesedecisionsweremadebyzero-shotandfew-shot.Theexamplesusedinthepromptarenot relatedtotheactualcelebritiesforstudy.Oneexamplewascreatedforeachofthefourcategories, foratotaloffourexamplesandareusedasthe four-shot.5.2EvaluationResults
+Foreachoftheextractedandaggregatedaspects anddescriptionsfromancelebrity,weexaminedwhethertheresultsoftheChatGPTmatchedthere-sultsofmanualreferenceforgood/eviljudgments.Table
+5
+showstheevaluationresultsforeachofthe10celebritiesforstudy.Inaddition,aconfusionmatrixsummarizingtheresultsforthe10celebritiesisshowninTable
+6
+.InTable
+6
+,thenamesofthecelebritieswhoseaspects/descriptionsareclassiﬁedintooneofthethreeevilcategoriesare shown.Outofthe10celebrities,alloftheﬁve showninTable
+6
+havebeensuspendedfromtheen-tertainmentindustryduetoscandals.Thus,itcan besaidthataccuratejudgmentshavebeenmade
+4
+.6Good/EvilJudgmentperCelebrity(notperaspect/description)Intheprevioussection,weextractandaggregate aspectsanddescriptionsofthecelebritiesandlet
+ChatGPTjudgethedistinctionofgoodandevilof eachaspect.Insteadofmakingthisjudgmentfor eachaspect,thissectionperformsgood/eviljudgmentpercelebrity,butnotperaspect/description.
+Furthermore,wecomparethejudgmentresultsof
+ChatGPTwithoutRAGwiththoseofChatGPTwithRAG,andshowthattheuseofRAGimprovestheaccuracyofjudgment.
+6.1TheProcedureTheinformationgiveniseachcelebrity’saspectsanddescriptionsasdescribedinSection
+4.2
+.Eachcelebrity’saspectsanddescriptionsaregivento
+ChatGPTaspriorinformationasthecelebrity’s
+4Asthefew-shot,fourmoreexampleswereadded,foratotalofeightexamplesasfew-shot,wheretheresultsdidnotchange.Therefore,theresultsinalltablesareonfourexam-plesasfew-shot.
+celebrity’sname(Theyearthescandaloccurred,orinthecaseofnoscandal)
+withoutRAG
+withRAG
+reference
+YamaguchiTatsuya(2018/2020)
+T/illegal
+T/illegal illegal
+PierreTaki(2019)
+T/illegal
+T/illegal illegal
+HiroyukiMiyasako(2019)
+T/legalbutunethical
+T/legalbutunethical legalbutunethical
+NoriyukiMakihara(2020)
+T/illegal
+T/illegal illegal
+JohnnyKitagawa(September2023)
+T/illegal
+T/illegal illegal
+HitoshiMatsumoto(December2023)
+F
+/notparticularlyevil
+T/legalbutunethical legalbutunethical
+SinjiSaito(December2023)
+F
+/notparticularlyevil
+T/illegal illegal
+ToshihumiHujimoto(2024)
+F
+/notparticularlyevil
+T/illegal illegal
+Huwa-chan(2024)
+F
+/notparticularlyevil
+T/legalbutunethical legalbutunethical
+YuichiNakamura(2024)
+F
+/notparticularlyevil
+T/legalbutunethical legalbutunethical
+MasahiroNakai(2024)
+F
+/notparticularlyevil
+F
+/legalbutunethical illegal
+RyosukeYamada()
+T/notparticularlyevil
+T/notparticularlyevil notparticularlyevil
+KazunariNinomiya()
+T/notparticularlyevil
+T/notparticularlyevil notparticularlyevil
+GoAyano()
+T/notparticularlyevil
+T/notparticularlyevil notparticularlyevil
+HumaKikuchi()
+T/notparticularlyevil
+T/notparticularlyevil notparticularlyevil
+SyunOguri()
+T/notparticularlyevil
+T/notparticularlyevil notparticularlyevil
+Kuro-chan()
+T/legalandethicalbutunpopularand criticized
+T/legalandethicalbutunpopularand criticized legalandethical butunpopular andcriticized
+WinonaRyder(2001)
+T/illegal
+T/illegal illegal
+JohnnyDepp(2016)
+T/notparticularlyevil
+T/notparticularlyevil notparticularlyevil
+KevinSpacey(2017)
+T/illegal
+T/illegal illegal
+SeanCombs(2024)
+F
+/notparticularlyevil
+T/illegal illegal
+JustinTimberlake(2024)
+F
+/notparticularlyevil
+T/illegal illegal totalaccuracy
+0.64(14/22)
+0.95(21/22)
+
+Table7:Comparisonofwith/withoutRAGinGood/EvilJudgmentperCelebritybyChatGPTreputation.Again,themodelusedinChatGPTis gpt-4o.Thedetaileddeﬁnitionsoftheclassiﬁcationsusedforgood/eviljudgmentaregiveninSection
+5
+.Furthermore,inordertoclarifythatthedate/yearofthescandalhaveinﬂuenceonthe judgmentresult,severalcelebritieswereaddedto theﬁvecelebritiesstudiedintheprevioussection.ThesamesurveywasalsoconductednotonlyonJapanesebutalsoonforeigncelebrities.6.2EvaluationResultsTheresultsareshowninTable
+7
+.InTable
+7
+,ifthecorrectjudgmentwasmadeincomparisonwithreference,aTwasentered,andotherwise,aFwasentered.InTable
+7
+,inthecaseofJustinTimberlake,theresultofjudgmentwith-outusingRAGisnotparticularlyevil,whichis differentfromthecorrectlabelgivenbyhuman hand.Here,theresultofhavingChatGPTmake ajudgmentafterprovidingitwiththereputation onJustinTimberlakecollectedandaggregated fromWebpages,theclassiﬁcationresultchanged fromnotparticularlyeviltoillegal,andtheincorrectclassiﬁcationwasrevisedtothecorrect classiﬁcationbyusingRAG.Theresultsofothercelebritiesshowthat,forseveralcelebrities,accuratejudgmentsweremade evenwithoutRAG,theresultsarealsothesamewithRAG.Itisinterestingtonoteherethatthosecelebritieswithcorrectjudgmentsevenwithout
+RAGhaveencounteredtheirscandalsintheyear of2023orbefore.Inotherwords,theChatGPT
+canmakeaccuratejudgmentsaboutscandalsthat occurredwithinthetimeperiodofthedataused totrainChatGPT,becausetheinformationiscontainedinit.Ontheotherhand,ChatGPThasno knowledgeofinformationaftertheperiodoftrainingdata,soitmakesincorrectjudgmentswithout anyappropriatetraininginformation.Sincethe modelusedinthisstudy,gpt-4o,wastrainedon datauptoOctober2023,asshowninTable
+7
+,itcanbeseenthattheclassiﬁcationwithoutRAGis incorrectforcelebritieswhohadscandalsafterOctober2023.Fromtheabove,itcanbesaidthattheuseofRAGhasbeneﬁtsonimprovingtheaccuracyof thejudgment.Inotherwords,itcanbesaidthat whencollectingandaggregatingthereputationsofcelebrities,theuseofRAGmakesitpossibleto betterguaranteetheiraccuracyandtoobtainthe correctoutputwhenjudgingdistinctionbetween goodandevil.
+7ComparisonwithExistingServices
+Finally,extractedandaggregatedaspectsanddescriptionsintheproposedmethodarecomparedwiththeresultsofexistingserviceswithRAGfunctiontodemonstratetheadvantagesoftheproposedmethod.MicrosoftCopilotisusedforthe comparison.MicrosoftCopilotisacombination ofthesearchenginesBing
+5
+andgpt-4o,whichwereprovidedbyMicrosoftCorporation.Inother words,whengpt-4oisusedalone,theoutputcon-cerningthelatestinformationisnotstableand incorrectanswersaregiven,asdescribedinSection
+3
+andSection
+6
+.However,thissituationcanbeavoidedthroughRAG.MicrosoftCopilotcreatessearchqueriesfromtheinputtext,andanswersthequestionsbyreferringtotheinformation ontheretrievedWebpages.SinceMicrosoftCopilotusestheRAG(
+Lewisetal.
+,
+2020
+)technology,onlytheinitialinputisdonebyahuman,andthe searchqueriesandtheselectionofWebpagesto beretrievedarealldoneautomatically.
+7.1TheProcedure
+Inthegood/eviljudgmentconductedinSection
+5
+,Webpagessearchedwiththequerycelebritynamewerecollected,andaspectsanddescrip-tionsrelatedtothequerycelebritywereextracted.
+Inthiscontext,MicrosoftCopilotwasﬁrsttaskedwithreferencingcelebrityWebpagestolisttop-icsrelatedtothequerycelebrity.Then,using zero-shotorfew-shot,itwasaskedtojudgeon thosetopics.Theexamplesusedforfew-shotwere thesameasthoseusedinFigure
+6
+intheAp-pendix
+A.2
+.Additionally,asummaryoftheresultsofzero-shot/few-shotispresentedinTable
+5
+.Eventhoughthenumberofexamplesusedforfew-shotwasincreasedtoeight,nochangeswereobservedintheresults,soTable
+5
+recordstheresultsfromusingfourexamples.Furthermore,thejudgment byMicrosoftCopilotwasconductedsolelyonthe celebritieslistedinTable
+1
+whohadencounteredsomeformofscandal.
+5
+https://www.bing.com/?cc=jp
+7.2ComparisonResultsThepercentageofcorrectanswersbyMicrosoftCopilotinTable
+5
+showsthattheoverallpercent-ageofcorrectanswershasdroppedsigniﬁcantly.
+OnereasonforthisisthatMicrosoftCopilotretrievesfewerWebpages.Althoughweinstructed
+MicrosoftCopilottoretrieve20Webpages,asin thecaseoftheproposedmethod,itactuallyretrievedonlyabout2or3pages,whichmayhaveresultedinbiasedinformation.Inaddition,although detailedinformationoneachtopicisnecessaryfor anaccuratedistinctionbetweengoodandevil,a fewWebpageswerenotenoughtoobtainsufﬁ-
+cientinformation.Ontheotherhand,ittookonlyafewsecondsforMicrosoftCopilottocollectinformationon onecelebrity,whileittookabout10minutesfor ourproposedmethod.Thisisbecausethispaper’s methodrequiresreadingsentencesfromalarge numberofWebpages,whichistime-consuming,whileMicrosoftCopilotisdesignedtobeaccessedfromallovertheworld,soitcannotreadasmany as20pages,butonly1or2pages.Inotherwords,MicrosoftCopilotusesRAGtechnologysothatgpt-4ocanrefertothelatestinformation,anditismuchfasterthanthemethodin thispaper.However,intermsofdepthandbreadth ofthecollectedinformation,ascanbeseenfromTable
+5
+,themethodinthispaperisabletocollectmoredetailedinformation.
+8Conclusion
+ByapplyingtheframeworkofRAG,weshowed thatalargelanguagemodel(i.e.,ChatGPT)is quiteeffectiveinthetaskofjudginggood/evil reputationofaspectsanddescriptionsofeach celebrity.Especiallycomparedwiththemethod of
+Yokoyamaetal.
+(
+2024
+),intermsofthevari-etyofaggregatedaspects/descriptions,weshowed thatournovelapproachiseffectiveinthecaseof celebritieswhohaveencounteredacertainkind ofscandals.Finally,wecomparedourmethodwithMicrosoftCopilot,whichprovidesgpt-4ous-ingRAG.TheresultsshowedthatwhileMicrosoft
+Copilotwassuperiorintermsoffasteroutputby utilizingRAG,ourmethodexcelledintheexplorationofdetailedinformationandthebreadthof information.
+References
+A.Asai,Z.Zhong,D.Chen,P.W.Koh,L.Zettlemoyer,H.Hajishirzi,andW.T.Yih.2024.
+Reliable,adapt-able,andattributablelanguagemodelswithretrieval
+.https://arxiv.org/abs/2403.03187.S.E.Finch,E.S.Paek,andJ.D.Choi.2023.Lever-aginglargelanguagemodelsforautomateddialogue analysis.InProc.24thSIGDIAL,pages202215.P.Lewis,E.Perez,etal.2020.Retrieval-augmentedgenerationforknowledge-intensiveNLPtasks.InProc.34thNeurIPS,pages483498.Y.Nozaki,K.Sugawara,Y.Zenimoto,andT.Utsuro.2022.Tweetreviewminingfocusingoncelebrities byMRCbasedonBERT.InProc.36thPACLIC,pages757766.R.PeetersandC.Bizer.2023.UsingChatGPTforen-titymatching.arXivpreprintarXiv:2305.03423.O.Ram,Y.Levine,I.Dalmedigos,D.Muhlgay,A.Shashua,K.Leyton-Brown,andY.Shoham.2023.
+In-contextretrieval-augmentedlanguagemodels
+.https://arxiv.org/abs/2302.00083.V.Shaurya,Z.Atharva,D.Somsubhra,S.Anurag,B.Upal,N.ShubhamKumar,G.Shouvik,R.Koustav,andG.Kripabandhu.2023.LLMsthegood, thebadortheindispensable?:Ausecaseonlegal statutepredictionandlegaljudgmentpredictionon
+Indiancourtcases.InFindingsofEMNLP,pages1245112474.K.SugawaraandT.Utsuro.2022.Developingadatasetforminingreviewsintweetsfocusingoncelebrities’
+aspects.InProc.7thABCSS,pages466472.H.Yokoyama,R.Tsuchida,K.Buma,S.Miyakawa,T.Utsuro,andM.Yshioka.2024.
+Aggregatingim-pressionsoncelebritiesandtheirreasonsfrommicroblogpostsandwebsearchpages
+.InProc.3rdWorkshoponKnowledgeAugmentedMethodsforNLP,pages5972.H.Zhang,X.Liu,andJ.Zhang.2023.SummIt:Iter-ativetextsummarizationviaChatGPT.InFindingsofEMNLP,pages1064410657.AAppendix
+A.1PreviousstudyThemethodusedinpreviousresearch(
+Yokoyamaetal.
+,
+2024
+)isillustratedinFigure
+3
+.Figure
+4
+usesJustinTimberlakeasanexam-pletoshowthatpostsaboutpeoplewhohave causedproblemsinthepastdonotclearlyindicate theaspects.A.2Setofpromptsused
+Figure
+6
+showstheexamplesandconcretepromptsusedinSection
+5.1
+.TheexactpromptsprovidedareshowninFig-ure
+7
+onjudgmentbyMicrosoftCopilot,andtheresultsoftheevaluationfocusingonthecelebrityJustinTimberlakeareshowninFigure
+8
+.A.3CorrespondencebetweenAspects/DescriptionsobtainedbytheMethodofThisPaperandAspects/Impressions/Reasonsobtainedby
+Yokoyamaetal.
+(
+2024
+)Figure
+5
+showscorrespondencebetweenas-pects/descriptionsobtainedbythemethodofthis
+Paperandaspects/impressions/reasonsobtained by
+Yokoyamaetal.
+(
+2024
+).A.4TheresultsofjudgmentofgoodorevilbyChatGPTandMicrosoftCopilotTable
+8
+andTable
+9
+showadetailedviewoftheﬁvecelebritieswhohaveencounteredacertain kindofscandals,downtotheiraspectsandthe resultsoftheirjudgmentsinSection
+5
+.More-over,Table
+8
+andTable
+9
+showtheaspectsofeachcelebritythatMicrosoftCopilotidentiﬁed andtheirjudgmentresultsevaluatedinSection
+7
+.
+celebrityname
+ChatGPT
+MicrosoftCopilot aspects resultsofjudgment aspects resultsofjudgment
+Huwa-chan inappropriateremarks andhiatus
+T/legalbutunethical pastproblematicbehavior
+T/legalbutunethical careerandactivities
+T/notparticularlyevil freelanceactivities
+T/notparticularlyevil languageskillsandeducationalbackground
+T/notparticularlyevil prowrestlingdebut
+T/notparticularlyevil relationshipswith friends
+T/notparticularlyevil statementsonsocialmedia cancausecontroversy
+T/legalandethicalbutunpopularandcriticized fashionandinﬂuence
+T/notparticularlyevil uniquefashion
+F
+/legalandethicalbutunpopularandcriticized
+(→notparticularlyevil)
+mediaappearances
+T/notparticularlyevil activitiesonTVshows
+T/notparticularlyevil movingabroadandlifethere
+T/notparticularlyevil commercialappearancesand theirimpact
+T/notparticularlyevil thecreationandsuccessofaYouTubechannel
+T/notparticularlyevil dismissedduetotroublewith thetalentagency
+F
+/illegal(→legalandethicalbutunpopularandcriticized)
+PierreTaki drugincidentandits impact
+T/illegal violationofthenarcoticscon-trolact
+T/illegal musicalactivities
+T/notparticularlyevil musicalactivities
+T/notparticularlyevil actingactivitiesand rolesinproductions
+T/notparticularlyevil family-oriented
+T/notparticularlyevil comebackandreceptionafterarrest
+T/notparticularlyevil mediacoverage
+F
+/legalbutunethical(→notparticularlyevil)
+impactoftelevision andmovies
+T/notparticularlyevil impactafterarrest
+F
+/legalandethicalbutunpopularandcriticized otheractivities
+T/notparticularlyevil
+(→notparticularlyevil)
+hobbies
+T/notparticularlyevil writingactivities
+T/notparticularlyevil
+Table8:ResultsofGood/EvilJudgmentsonCelebrities’AspectsandDescriptions(1)
+celebrityname
+ChatGPT
+MicrosoftCopilot aspects resultsofjudgment aspects resultsofjudgmen
+YuichiNakamaru scandal
+T/legalbutunethical graduatedfromWaseda
+University
+T/notparticularlyevil mangaartist
+T/notparticularlyevil humanbeatbox
+T/notparticularlyevil
+YouTubeactivities
+T/notparticularlyevil
+YouTubeactivities
+T/notparticularlyevil activitiesasamemberof
+KAT-TUN
+T/notparticularlyevil reportsofasecretmeetingwithafemalecollegestu-dent
+T/legalbutunethical beinglate
+T/legalandethicalbutunpopularandcriticized beinglate
+T/legalandethicalbutunpopularandcriticized specialskills
+T/notparticularlyevil desiretoreturnafterinﬁ-
+delityreports
+F
+/legalandethicalbutunpopularandcriticized educationalbackground
+T/notparticularlyevil
+(→notparticularlyevil)
+marriage
+T/notparticularlyevil activitiesonTVshow
+T/notparticularlyevil
+HiroyukiMiyasako
+YouTubeactivities
+T/notparticularlyevil
+YouTubeactivities
+T/notparticularlyevil restaurantmanagement
+T/notparticularlyevil activitiesasabusinessperson
+T/notparticularlyevil problemofunderground businessdealings
+F
+/illegal(→legalbutunethical)
+problemofunderground businessdealings
+F
+/illegal(→legalbutunethical)
+humanrelationships
+T/notparticularlyevil allegationsofinﬁdelity
+T/legalbutunethical musicactivities
+T/notparticularlyevil statementsonYouTube
+T/legalandethicalbutunpopularandcriticized
+TVappearancesandcomeback
+F
+/legalbutunethi-cal(→notparticularlyevil)
+NoriyukiMakihara musicalactivitiesandhit songs
+T/notparticularlyevil musicalactivities
+T/notparticularlyevil legalproblemsandarrest record
+T/illegal arrestedforviolatingthe stimulantdrugscontrol act
+T/illegal musicproductiontechniques
+T/notparticularlyevil druguse
+F
+/legalbutunethical(→illegal)
+evaluationbyotherartists
+T/notparticularlyevil arrestrecord
+F
+/legalandethicalbutunpopularandcriticized transfer
+T/notparticularlyevil
+(→illegal)
+personalinformation
+T/notparticularlyevil animallover
+T/notparticularlyevil resumptionofactivities
+T/notparticularlyevil albumandreviews
+T/notparticularlyevil
+Table9:ResultsofGood/EvilJudgmentsonCelebrities’AspectsandDescriptions(2)
+Figure3:CollectingandAggregatingAspects,Impressions,andReasonsforImpressionsinthePreviousStudy(
+Yokoyamaetal.
+,
+2024
+)
+Figure4:AnExampleofExtractingandAggregatingAspectsforJustinTimberlakefromMicroblogPosts
+Figure5:AnExampleofCorrespondencebetweenAspects/DescriptionsobtainedbytheMethodofThisPaperandAspects/Impressions/Reasonsobtainedby
+Yokoyamaetal.
+(
+2024
+)forHuwa-chan
+Figure6:ThePromptofChatGPTforGood/EvilJudgmentofaCelebrity’sAspects/Descriptions(e.g.,forJustinTimberlake)
+Figure7:ThePromptofMicrosoftCopilotforGood/EvilJudgment(e.g.,forJustinTimberlake)
+Figure8:AnExampleofResultsbyMicrosoftCopilotforJustinTimberlake
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。

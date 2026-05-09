@@ -1,0 +1,443 @@
+---
+source: "https://arxiv.org/abs/math/0606313v2"
+title: "Genealogy of catalytic branching models"
+author: "Andreas Greven, Lea Popovic, Anita Winter"
+year: "2006"
+publication: "arXiv preprint / math.PR"
+download: "https://arxiv.org/pdf/math/0606313v2"
+pdf: "https://arxiv.org/pdf/math/0606313v2"
+captured_at: "2026-05-09T12:14:12Z"
+updated_at: "2026-05-09T12:14:12Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Nietzsche genealogy of morals"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# Genealogy of catalytic branching models
+
+- 著者: Andreas Greven, Lea Popovic, Anita Winter
+- 年: 2006
+- 掲載情報: arXiv preprint / math.PR
+- 情報源: [arxiv](https://arxiv.org/abs/math/0606313v2)
+- ダウンロード: https://arxiv.org/pdf/math/0606313v2
+- PDF: https://arxiv.org/pdf/math/0606313v2
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+We consider catalytic branching populations. They consist of a catalyst population evolving according to a critical binary branching process in continuous time with a constant branching rate and a reactant population with a branching rate proportional to the number of catalyst individuals alive. The reactant forms a process in random medium. We describe asymptotically the genealogy of catalytic branching populations coded as the induced forest of $\mathbb{R}$-trees using the many individuals--rapid branching continuum limit. The limiting continuum genealogical forests are then studied in detail from both the quenched and annealed points of view. The result is obtained by constructing a contour process and analyzing the appropriately rescaled version and its limit. The genealogy of the limiting forest is described by a point process. We compare geometric properties and statistics of the reactant limit forest with those of the "classical" forest.
+
+## PDF Text
+
+arXiv:math/0606313v2 [math.PR] 12 Aug 2009
+TheAnnalsofAppliedProbability
+2009,Vol.19,No.3,1232–1272
+DOI:
+10.1214/08-AAP574
+c
+InstituteofMathematicalStatistics
+,2009GENEALOGYOFCATALYTICBRANCHINGMODELS1ByAndreasGreven,LeaPopovicandAnitaWinterUniversityErlangen–Nurnberg,ConcordiaUniversityandUniversityErlangen–NurnbergWeconsidercatalyticbranchingpopulations.Theyconsistofacatalystpopulationevolvingaccordingtoacriticalbinarybranchingprocessincontinuoustimewithaconstantbranchingrateandareactantpopulationwithabranchingrateproportionaltothenumberofcatalystindividualsalive.Thereactantformsaprocessinrandommedium.WedescribeasymptoticallythegenealogyofcatalyticbranchingpopulationscodedastheinducedforestofR-treesusingthemanyindividuals—rapidbranchingcontinuumlimit.Thelimitingcontin-uumgenealogicalforestsarethenstudiedindetailfromboththequenchedandannealedpointsofview.Theresultisobtainedbycon-structingacontourprocessandanalyzingtheappropriatelyrescaledversionanditslimit.Thegenealogyofthelimitingforestisdescribedbyapointprocess.Wecomparegeometricpropertiesandstatisticsofthereactantlimitforestwiththoseofthe“classical”forest.1.Introduction.ItiswellknownthatFeller’sbranchingdiﬀusionand,moregenerally,continuousstatebranchingprocessesappearasweaklim-itsofabroadrangeofsuitablyrescaledGalton–Watsonprocesses(see,e.g.,[
+18
+]).Providedoneintroducesasuitabletopology,therescaledfamilyforestsoftheseGalton–WatsonprocessesconvergetolimitforestswhichcanberepresentedbypathsofareﬂectedBrownianmotion,andmoregenerallyareﬂectedL´evyprocesswithoutnegativejumps(see[
+1
+,
+2
+,
+3
+,
+11
+,
+19
+]andreferencestherein).Theseinvarianceprinciplesarethemaintoolforanalyz-ingtheasymptoticbehaviorofgenealogiesofGalton–Watsonprocesses.Forexample,onecanconcludethattheheightofaGalton–Watsontreewithtotalpopulationsizenbehavesindistribution,asn→∞,as2√
+ntimestheheightofastandardBrownianexcursion.
+ReceivedJune2006;revisedOctober2008.1SupportedbyDFG-Forschergruppe498throughGrantGR876/13-1.
+AMS2000subjectclassiﬁcations.
+60J80,60K37,60B11,92D25.Keywordsandphrases.Catalyticbranching,randomtrees,contourprocess,genealog-icalpointprocesses,R-trees,Gromov–Hausdorﬀtopology,randomevolution.
+Thisisanelectronicreprintoftheoriginalarticlepublishedbythe
+InstituteofMathematicalStatistics in
+TheAnnalsofAppliedProbability
+,
+2009,Vol.19,No.3,1232–1272
+.Thisreprintdiﬀersfromtheoriginalinpaginationandtypographicdetail.
+1
+2A.GREVEN,L.POPOVICANDA.WINTEROneofthenextimportantstepsistoinvestigategenealogiesofmulti-typebranchingmodelswithpossibleinteractionsbetweenpopulations.Forneutraltwo-typebranchingmodelstherearethreeuniversalityclassesofbehavior:independentbranching,(one-sided)catalyticbranchingandmu-tuallycatalyticbranching.Lossofindependenceinthetwolattermodelsgeneratesmanynewfeaturesandcausesgreattechnicaldiﬃcultiesforitsanalysis.Inthepresentpaperwefocusondescribingthegenealogyofacatalyticbranchingdiﬀusion.Thisisthemanyindividualfastbranchinglimitofanin-teractingbranchingparticlemodelinvolvingtwopopulations,inwhichonepopulation,the“catalyst,”evolvesautonomouslyaccordingtoaGalton–Watsonprocess,whiletheotherpopulation,the“reactant,”evolvesaccord-ingtobranchingdynamicsthataredependentonthenumberofcatalystparticles.Weshowthatthesequenceofsuitablyrescaledfamilyforestsforthere-actantpopulationconvergesinGromov–Hausdorﬀtopologytoalimitforestandwecharacterizethedistributionofthislimit.Weﬁrstdescribethelimitofthereactantfamilyforestcutoﬀataheightwherethecatalystfallsbe-lowacertainthreshold.Weshowthatitscontourprocessisgivenbyapathofareﬂecteddiﬀusionprocess.Fromthatpathwederiveacollectionofpointprocesseseachdescribingthemutualgenealogicaldistancesbetweenallindividualsinthepopulationaliveatacertaintime.Westarttheanalysisfroma“quenched”pointofview,thatis,weﬁrstﬁxarealizationofthecatalystpopulationasanautonomousbranchingprocess,andconsiderthereactantpopulationasabranchingprocessinagivenmedium.Wethenchangetoan“annealed”pointofviewandshowthatthejointlawoftherescaledcatalystandthereactantpopulationconvergestoalimit.Finally,wediscussdiﬀerencesbetweenthereactantlimitforestandtheclassicalcontinuumrandomforestwhichisknowntobeassociatedwithareﬂectedBrownianmotion.ThepointprocessesexhibitthediﬀerenceingenealogicalstructurebetweenthereactantpopulationfamilyforestsandtheclassicalBrowniancontinuumrandomtree.Thediﬀerencesareduetotwodiﬀerenteﬀects:thevanishingbranchingrateoncethecatalystbecomesextinctandthetemporalinhomogeneityofthebranchingrates.Thediﬀer-encesareroughlyasfollows.Ifwepickfromthepopulationofthereactantattimettwoindividualsatrandom,theirchanceofbeingfromdiﬀerenttreesissmallerthanintheclassicalcase(withasuitablechoiceofthebranchingrate).Furthermorethetotaltreelengthbecomesinﬁniteinastrongersense,namelyinsteadofhavingHausdorﬀdimension2withﬁniteHausdorﬀmea-surefunction,wenowhaveaHausdorﬀmeasurefunctionthatgrowsfasterthanasquare.Asaconsequence,withpositiveprobabilitythereactantlimitforestcannotbeassociatedwiththepathofadiﬀusion.
+GENEALOGYOFCATALYTICBRANCHINGMODELS3Outline.Therestofthepaperisstructuredasfollows.InSection
+2
+weprovidetheunderlyingspacesandthetopologieswewillneedforrepresent-ingthegenealogicalforestsofourbranchingmodel.InSection
+3
+wedeﬁneourcatalyticparticlemodel,itsgenealogicalforests,theassociatedcontourprocesses,thegenealogicalpointprocessesandthesuitablyrescaledversionsofalloftheseobjects.InSection
+4
+westateourresultsforthereactantlimitforestanditsdiﬀerencesfromtheclassicalBrownianforest.Subsequentsec-tionscontainproofsoftheseresults.InSection
+5
+weshowthatthefamilyofsuitablyrescaledcatalystforestshasalimitforest.InSection
+6
+weprovethestatementonthelimitofthereactantcontourprocesses.InSection
+7
+weusethelimitcontourprocesstouniquelycharacterizethedistributionofthelimitforest.InSection
+8
+weproveresultsonthelimitreactantge-nealogicalpointprocessgiventhecatalystmedium.InSection
+9
+weshowthatthejointlawofcatalystandreactanttreeconverges.FinallySection
+10
+containscalculationsestablishingthediﬀerencesbetweenthereactantandtheclassicalforest.2.Preliminariesontreesandtheirrepresentations.Inthissectionweintroducetherelevantspacesandtopologiesforboththeparticlemodelanditsdiﬀusionlimit.Thestandardwayofrepresentinggenealogicalrelationshipsbetweenindi-vidualsinabranchingpopulationiswithafamilyforest.Thefamilyforestconsistsofasmanytreesastheinitialnumberofindividuals.Eachindivid-ualinabranchingprocesshasanedgeassociatedtoitwhoselengthisequaltoitslifetime.Whenanindividualgivesbirththeedgebranchesintotwonewedges,whileitsdeathturnsitsedgeendintoaleaf.Inparticular,timeinthebranchingprocesscorrespondstoheightinthefamilyforestwhichismeasuredintermsofthedistancetotheroots.Afamilyforestcanbeembeddedinaplane.Aplanarembeddingimplic-itlyrequiresalinear(total)orderingtobeplacedonindividuals,providingeachwithalabel.Alexicographiclabeling,alsocalledtheUlam–Harrisla-beling,giveseachindividualalabelfromthesetNn,wheren∈{1,2,...}isthenumberofancestorstheindividualhashadfromthestartoftheprocess.Theinitialindividualsaregivenlabelsbetween1andtheinitialpopulationsize,distributedinarandomordertothem.Eachparentsubsequentlygivesalabeltoitschildrenthatconsistsofitsownlabelfollowedbyanumberbetween1andthetotalnumberofitschildren,distributingtheserandomlyamongitschildren.SeeFigure
+2
+formoredetail,and[
+21
+]or[
+11
+]foraformaldeﬁnition.Aplanarrepresentationandalexicographicorderarethemostconvenientwaytovisualizeafamilyforestwithalinearorder.However,theappropriatespaceforfamilytreesingeneralisthesetofallrootedR-treeswithalinearorderonthem.
+4A.GREVEN,L.POPOVICANDA.WINTERRootedlinearlyorderedR-trees.Ametricspace(T,d)iscalledanR-treeifitispath-connectedandsatisﬁestheso-called“fourpointcondition,”thatis,d(x1,x2)+d(x3,x4)≤max{d(x1,x3)+d(x2,x4),d(x1,x4)+d(x2,x3)},forallx1,...,x4∈T.Wealsoreferthereaderto[
+6
+,
+8
+,
+9
+,
+10
+,
+27
+]forabackgroundonR-trees.ArootedR-tree,(T,d,ρ),isanR-tree(T,d)withadistinguishedpointρ∈Tthatwecalltheroot.AforestisjustacollectionofrootedR-trees,andwecanalwaysassociateaforestofrootedR-treeswithanR-treewiththerootbeingofdegreegreaterthan1bygluingtogetheralltheroots.InourpaperwewillthinkofaforestasarootedR-treewhoserootwillhavedegree1orlarger.LetTrootdenotethecollectionofallroot-invariantisometryclassesofrootedcompactR-trees,wherewedeﬁnearoot-invariantisometrytobeanisometryi:(T1,dT1,ρT1)→(T2,dT2,ρT2)whichinadditionsatisﬁesi(ρT1)=ρT2.LetT={ι}denotethepointsofametricspace(T,d,ρ)∈Troot.Forallt≥0,let∂Qtdenotethesetofindividualsaliveattimetinthebranchingpopulation.Deﬁnethegenealogicaldistancemetricfor(T,d,ρ)bysettingforanyt1,t2≥0andanyι1∈∂Qt1,ι2∈∂Qt2d(ι1,ι2):=t1+t2−2τ(ι1,ι2),whereτ(ι1,ι2)denotesthedeathof,orsplittingtimefromthe“mostrecentcommonancestor”oftheindividualsι1andι2aliveattimest1andt2,respectively.Moreover,foranytwoρ,ρ0∈∂Q0byourconventionwehaved(ρ,ρ0)=0.ForanR-tree(T,d)therootρ∈Tdeﬁnesapartialorder≤onT.Forally∈T,let[ρ,y]denotetheuniqueclosedarcbetweenthem,thatis,theimageoftheuniquegeodesicbetweenρandy.Wedeﬁnex≤yifx∈[ρ,y].Alinearorder(totalorder)relation≤linonarootedorderedR-treeisatotalorderwhichiscompatiblewiththepartialorder[condition(i)]andfulﬁllsthefollowing[condition(ii);seeFigure
+1
+]:(i)Forallx,y∈Tifx≤y,thenx≤liny.(ii)Forallx,y∈Twithx≤liny,ifx0,y0∈Taresuchthatx∧y≤x0∧xandx∧y≤y0∧ythenx0≤liny0.
+Fig.1.Illustratescondition(ii):ifx≤liny,x0isinthesame“subtreeabove”x∧yasx,andy0isinthesame“subtreeabove”x∧yasy,thenx0≤liny0.
+GENEALOGYOFCATALYTICBRANCHINGMODELS5Then(T,d,ρ,≤lin)isarootedR-treewithalinearorder.LetTroot,linde-notethesetofallroot-and-linearorderinvariantisometryclassesofcom-pactR-trees,wherewedeﬁnearoot-and-linearrootorderinvariantisom-etryi:(T,dT,ρT,≤lin
+T)→(T0,dT0,ρT0,≤lin
+T0)tobearootinvariantisome-tryi:(T,dT,ρT)→(T0,dT0,ρT0)whichinadditionsatisﬁesi(u)≤lin
+T0i(u0)iﬀu≤lin
+Tu0.Remark2.1.ForanyelementofTroot,linthereisaplanarrepresentativeofthisisometryclass.Itisvisuallyconvenienttouseitasourcanonicalrepresentativewhendescribingafamilyforest.Contourprocesses.ThereisalongtraditionofcodingR-treesviaex-cursions(see[
+3
+,
+11
+,
+19
+])whichwebrieﬂyrecall.WriteC0R+[0,∞)forthespaceofcontinuousfunctionse:[0,∞)→R+withe(0)=0.Weassociateeache∈C0R+[0,∞)withanR-treeasfollows.Deﬁneanequivalencerela-tion∼eonR+bylettingu1∼eu2iﬀe(u1)=infu∈[u1∧u2,u1∨u2]e(u)=e(u2).Considerthefollowingpseudo-metricon[0,1]:dTe(u1,u2):=e(u1)+e(u2)−2infu∈[u1∧u2,u1∨u2]e(u),whichbecomesatruemetriconthequotientspaceTe:=R+|∼e.ThenbyLemma3.1in[
+14
+],foreache∈C0R+[0,∞)withsup{t≥0:e(t)>0}<∞themetricspace(Te,dTe)isacompactorderedR-tree.Fore∈C0R+[0,∞),let[0]:={u∈[0,∞):e(u)=0}anddeﬁnethemapT:C0R+[0,∞)→Troot,lin,(2.1)
+whichmapsanexcursiontoarootedlinearlyorderedR-treebyT(e):=(Te,dTe,[0],≤lin e),withthelinearorder≤lin edeﬁnedbyu1≤lin eu2iﬀinf[u1]≤inf[u2],here[u]isthesetofelementsequivalenttou.ThemapTiscontin-uous(Lemma3.1,[
+14
+]).Arootedlinearlyorderedtreeisﬁniteifithasﬁnitelymanybranchpointsandleaves.LetTroot,linﬁndenotethesubspaceinTroot,linofﬁniterootedlinearlyorderedtrees,andﬁxaspeedσ>0.Thelinearorderallowsonetodeﬁneadepth-ﬁrstsearchonthesetofitsleavesandbranchpoints.Depth-ﬁrstsearchisafunctionthatstartingfromtherootvisitseverypointofthistreewhilerespectingitslinearorderbytraversingthetreeinsuchawaythatitsﬁrstvisittoxcomesbeforeitsﬁrstvisittoyifx≤liny.Ifoneassociatesaspeedσwiththistraversalandassignsafunctionwhichrecordstheheightofthetreeateverytimepointofthetraversal,thenasaresultoneobtainsafunctione∈C0R+[0,∞).ThisdeﬁnesacontourprocessmapC(·;σ):Troot,linﬁn→C0R+[0,∞),whichassociateswitheachT∈Troot,linﬁnanexcursionC(T;σ)∈C0R+[0,∞).Itiseasiesttoseethecorrespondenceofaﬁniterootedlinearlyorderedtreeanditscontourprocessfromitsplanarrepresentative(seeFigure
+2
+).Typically,onesetsthespeedσ=2,andforallσwehaveT◦C=id,C◦T=id.AformaldescriptionofthecontourprocesscanbefoundinSection6.1in[
+21
+].
+6A.GREVEN,L.POPOVICANDA.WINTERGenealogicalpoint-processes.Wenextconsiderﬁniterootedlinearlyor-deredtreesspannedbyapopulationaliveataﬁxedtime.Suchtreesarebalanced,thatis,havealltheleavesatthesameheight.Givenafamilytreeofabranchingprocessandaﬁxedtimet>0thisisthesubtreeofthefam-ilytreecontainingonlyinformationaboutthegenealogyoftheindividualsaliveattimet.Thatis,itisdeﬁnedbythecollectionofmutualdistancesbetweentheindividualsaliveattimet.Thiscollectionofdistancesformsanultra-metricspace,thatis,forallx1,x2,x3withd(ρ,x1)=d(ρ,x2)=d(ρ,x3)wehaved(x1,x3)≤d(x1,x2)∨d(x2,x3).Foraﬁxedt>0wecanrecordthesedistancesinapointprocess.Thelinearordergivesalinearorderontheindividualsaliveattimet.Wecanrepresenttheseindividualsaspointsalongalineatheighttwithequalspacingbetweenthem.Wecanrecordthemutualdistancebetweeneachneighboringpairofindividualsasapointequallydistantfromthepointsinthispairataheightsmallerthant.Moreformally,givent>0and(T,ρ)∈Troot,linﬁn,letQt(T,ρ):={x∈T:d(x,ρ)≤t}(2.2)
+and∂Qt(T,ρ):={x∈T:d(x,ρ)=t}.DeﬁneamapPt(·;ς)whichsendsanelementinTroot,linﬁntoapointprocesson[0,∞)×[0,∞)asfollows.Given(T,ρ)∈Troot,linﬁn,∂Qt(T,ρ)isanorderedﬁniteset,sowecanwrite∂Qt(T,ρ):={x1,...,x#∂Qt(T,ρ)}assumingthatx1≤linx2≤lin···≤linx#∂Qt(T,ρ).LetPt((T,ρ);ς):={(iς,t−1
+2d(xi,xi+1));i=1,...,#∂Qt(T,ρ)−1}.ThesetPt((T,ρ);ς)isapoint-processrepresentationofthetree∂Qt(T,ρ).Typicallythespacingbetweenthepointsisς=1.Notethatmutualdistancesofallneighboringpairsissuﬃcienttorecon-structmutualdistancesbetweenallpairs.Foranyxi,xl∈∂Qt(T,ρ)such
+Fig.2.Illustratesmappingofaﬁnitelinearlyorderedtreetoanexcursion.
+GENEALOGYOFCATALYTICBRANCHINGMODELS7thatxi≤linxjthedistanced(xi,xl)=infi≤j<k≤l{d(xj,xk)}.Moredetaileddescriptionofthepoint-processrepresentationcanbefoundin[
+22
+].Lettingthetimet>0vary,thiscollectionofsubtreesofindividualsaliveattimetdeﬁnesthefullfamilytree.ThatisthesetT=St≥0∂Qt(T,ρ)withthelinearorderanddistancemetricof(T,d,ρ,≤lin)preservedinthesubtreesspannedby∂Qt(T,ρ).Hence,thecollectionofpointprocess{Pt((T,ρ);ς)}t≥0givesacompleterepresentationofthemetricspace(T,d,ρ,≤lin).Gromov–Hausdorﬀdistance.WeﬁnallyrecalltheappropriatemeasureofdistancebetweentwoR-trees.TheHausdorﬀdistancebetweentwocom-pactsubsetsK1andK2ofacompletemetricspace(E,r)isdeﬁnedasdH(K1,K2):=inf{ε>0:Kε1⊇K2,Kε2⊇K1},whereforε>0andK⊆Eclosed,Kε:={x∈E:r(x,K)<ε}.TherootedGromov–HausdorﬀdistancebetweentworootedR-trees(T1,ρT1)and(T2,ρT2)isthendeﬁnedasdGHroot((T1,ρT1),(T2,ρT2)):=infd(Z,dZ)H(T01,T02)∨dZ(ρ0
+T1,ρ0
+T2),(2.3)
+wheretheinﬁmumistakenoverallrootedR-trees(T01,ρ0
+T1)and(T02,ρ0
+T2)thatareroot-invariantisomorphicto(T1,ρT1)and(T2,ρT2),respectively,andthatare(asunrootedtrees)subspacesofacommonmetricspace(Z,dZ).ByTheorem2in[
+13
+],(Troot,dGHroot)isaPolishspace.Notationalconventions.Throughouttherestofthepaperthesymbol=⇒n→∞willalwaysdenoteconvergenceindistributionintheunderlyingprocessspaces.Theseare:⊗•forpopulationsize/totalmassprocesses:c´adl´agpathswithSkorohodtopol-ogy;•forforest-valuedprocesses:(Troot,dGHroot)of(isometryclassesof)compactrootedR-treeswithrootedGromov–Hausdorﬀtopology[compare(
+2.3
+)];•forcontourprocesses:nonnegativecontinuousfunctionswiththetopologyofuniformconvergenceoncompactsets;•forpointprocess:locallyﬁnitemeasureson[0,∞)×[0,∞)withtheweaktopology(i.e.,thetopologygivenbyconvergenceofallboundedcontinu-ousfunctions).3.Catalyticbranchingmodel.Inthissectionweintroducethemodelandthefamilyforestswiththeircontourprocessesandpoint-processrep-resentationthatwillbeusedtoobtainourresults.WebegininSection
+3.1
+bydeﬁningthecatalyticbranchingparticlemodelandthefamilyforestsofitstwopopulations.Wedeﬁnethecontourprocessandthecollectionofpoint-processesassociatedwiththeseﬁnitefamilyforests.WethendeﬁneinSection
+3.2
+thesuitablyrescaledversionsoftheseprocesses,andthediﬀu-sionlimitsofinterest.Finally,inSection
+3.3
+werecallsomeknownresultsfortheseprocesseswhicharemainlyforthecatalyticpopulation.
+8A.GREVEN,L.POPOVICANDA.WINTER3.1.Deﬁnitionofthemodelanditsfamilyforests.Thecatalyticbranch-ingmodelconsistsoftwodiﬀerentpopulationsofdistinctindividuals:thecatalystpopulationandthereactantpopulation.Thepairofpopulations(η,ξ)evolvesasaMarkovprocess(ηt,ξt)t≥0accordingtothefollowingrules.Thecatalystpopulationηisaclassicalcontinuous-timecriticalbranchingprocess:everyindividualhasanexponentiallifetimewithparameterb1af-terwhichitisreplacedby0or2oﬀspringwithequalprobability.Thereactantpopulationξevolvesanalogouslyexceptthattheexponentiallife-timedistributionofeachindividualisreplacedbyalifetimedistributionF(t)=1−exp(−Rs+tsb(u)du)wheresisthebirthtimeofthisindividualandb(u)equalsb2timesthetotalnumberofcatalystindividualsattimeu.Thetotalnumberofindividualsinthecatalyst,reactantpopulationisacontinuous-timeMarkovprocesswithvaluesin(mN)2ifweassociatemassmwithanindividual.Typicallyonesetsthemassofasingleparticlem=1.However,toobtainareasonablelimitoftherescaledcatalyticbranchingmodelwewillneedtoscaledownasingleparticle’smasscontribution.Definition3.1(Totalmassprocesses).•Thecatalysttotalmassprocessηtot=(ηtott)t≥0isacriticalbinaryGalton–Watsonprocesswithconstantbranchingrateb1ηtott≡(ηtott;m)7−→(ηtott+m,eachatrate1
+2b1ηtott m,ηtott−m,•givenηtot,thereactanttotalmassprocessξtot=(ξtott)t≥0isacriticalbinaryGalton–Watsonprocesswithtime-inhomogeneousbranchingrateb2ηtottξtott≡(ξtott;m)7−→(ξtott+m,eachatrate1
+2b2ηtottξtott m.ξtott−m,WeintroducetherandomfamilyforestsofthecatalyticbranchingparticlepopulationsencodedaselementsinTrootasfollows:Definition3.2(Forest-valuedcatalyticbranchingparticlemodels).Letηfor:=[t∈R+,ι∈∂Qη
+t{ι},dη,ρη,ξfor:=[t∈R+,ι∈∂Qξ
+t{ι},dξ,ρξ.
+GENEALOGYOFCATALYTICBRANCHINGMODELS9Remark3.1.Recallthatcriticalityofthecatalystprocessimpliesthatηtotwillalmostsurelygetabsorbedat0.LetT0,1:=inf{t≥0:ηtott=0}.Noticethatafterthecatalystmassprocessisabsorbedat0,thereactantmassprocessgetsabsorbedaswell.Thatis,inthereactantfamilytreethemostrecentcommonancestorofanytwopointsatheightgreaterthanorequaltoT0,1hasheightsmallerthanT0,1,orequivalently,afterT0,1thebranchessimplyextendto∞.InthefollowingweimposetheconventiontocutoﬀallthebranchesofξforatheightT0,1,thatis,ξforisthesubspaceofthereactantfamilyforestconsistingofallpointsinthereactantfamilyforestwhosedistancetotherootisatmostT0,1.Theforestsηforandξfor(withtheconventiongiveninRemark
+3.1
+)haveﬁnitelymanyleavesandbranchpoints,almostsurely.Wedeﬁnetheircon-tourprocessrepresentation:Definition3.3(Contourprocessesoftheﬁnitefamilyforests).LetB:=(Bu)u≥0≡C(ηfor;σ),C:=(Cu)u≥0≡C(ξfor;σ).Forthecollectionofgenealogicalpointprocessesofthefamilyforestsinthecatalyticbranchingmodelwedeﬁne:Definition3.4(Genealogicalpointprocesses).LetΠ={Πt}t≥0,Πt≡Pt(ηfor;ς),Ξ={Ξt}t≥0,Ξt≡Pt(ξfor;ς).3.2.Rescalingofthemodel.Wenowconsiderafamily(˜ηn,˜ξn)ofcat-alyticbranchingparticlemodelsindexedbyn,wheretheparameternmeansthattheinitialnumberofindividualsisincreasedbyafactornandthebranchingrateofthecatalystisspedupbyafactorn.Wewilldeﬁnefortherescaledmodelthetotalmassprocess,thefamilyforest,thecontourprocessandthecollectionofpointprocesses.Webeginwiththerescaledtotalmassprocesses.Definition3.5(Rescaledmassprocesses).Therescaledtotalmasspro-cess(˜ηtot,n,˜ξtot,n)isacontinuous-timeMarkovchainwith(˜ηtot,n0,˜ξtot,n0)=(1,1)and(˜ηtot,n,˜ξtot,n)7→
+
+
+
+
+
+˜ηtot,n±1
+n,˜ξtot,n,atrate1
+2n2b1˜ηtot,n,˜ηtot,n,˜ξtot,n±1
+n,rate1
+2n2b2˜ηtot,n˜ξtot,n.
+10A.GREVEN,L.POPOVICANDA.WINTERTherescaledpopulationprocessesalsohaveassociatedfamilyforestsforwhichweusethefollowingnotation:Definition3.6(Rescaledforest-valuedprocesses).Let˜ηfor,nbethefamilyforestofrootedR-treesassociatedwith˜ηn,andlet˜ξfor,nbethefamilyforestofrootedR-treesassociatedwith˜ξn.Recallthatweimposedtheconventionthatthebranchesof˜ξfor,narecutoﬀaboveheight˜T0,n:=inf{t≥0:˜ηtot,nt=0}.(3.1)Sincethebranchingrateoftherescaledpopulationprocessisacceleratedbyafactorofn,theedgelengthsintheforestareshortenedtypicallybyafactorof1
+n.Remark3.2.Sincewecanalwaysrescaletimebyaconstantwithoutanyeﬀectontheshapeofaforestweshallhenceforthassumethatb1=1.Formanypurposes,inparticularifthecatalystmediumisgiven,wealsomayassumethatb2=1.WithprobabilityoforderO(1
+n)theheightofaGalton–WatsontreeisoforderO(n),andgivenaGalton–WatsonprocessisstillaliveatatimeoforderO(n)itspopulationsizeatthattimeisoforderO(n).Hence,startinginitiallywithnparticlesandspeedinguptimebyafactorofnyieldsinthelimitaPoissonnumberoftrees,eachhavingtotalpopulationsizeoforderO(n2).Furthermore,sincebranchingisspedupbyafactorofnalledgesareoforderO(1
+n).Asaconsequence,inordertoﬁndanontriviallimitcontour,inthenthapproximationstepweneedtotraversetherescaledforests˜ηfor,nand˜ξfor,natspeedσ=2n.Definition3.7(Rescaledcontourprocesses).Let˜Bn=(˜Bnu)u≥0≡C(˜ηfor,n;2n),˜Cn=(˜Cnu)u≥0≡C(˜ξfor,n;2n).Furthermore,tokeepthegenealogicalpointprocessesrepresentingtherescaledforests˜ηfor,nand˜ξfor,ninacompactset,weneedtoletthespacingbeς=1
+n.Definition3.8(Rescaledgenealogicalpointprocesses).Let˜Πn={˜Πt,n}t≥0,˜Πt,n≡Pt˜ηfor,n;1
+n,˜Ξn={˜Ξt,n}t≥0,˜Ξt,n≡Pt˜ξfor,n;1
+n.
+GENEALOGYOFCATALYTICBRANCHINGMODELS113.3.Limitofthemassprocessesandofthecatalystfamilyforest.Someoftherescalinglimitsfortheintroducedobjects,inparticularallthosewhichareassociatedwiththecatalystprocess,arewellknown.Wenextrecalltheseresults.WithstandardtechniquesonecanshowthatthereexistsaMarkovprocess(X,Y)withpathsinDR+×R+[0,∞)suchthat(˜ηtot,n,˜ξtot,n)=⇒n→∞(X,Y)(3.2)
+(see,e.g.,[
+16
+]).Moreover,(X,Y)istheuniquestrongsolutiontothefol-lowingsystemofstochasticdiﬀerentialequationsdXt=p
+XtdWXt,(3.3)dYt=p
+XtYtdWYtwithinitialvalue(X0,Y0):=(1,1),andwhereWX=(WXt)t≥0andWY=(WYt)t≥0aretwoindependentstandardBrownianmotionsontherealline.Wereferto(X,Y)asthecatalyticFellerdiﬀusion.AnotherusefulfactaboutthecatalyticFellerdiﬀusionprocessisgivenbyanexplicitexpressionfortheprobabilitythat(X,Y)willhitthey-axisbeforethex-axis.Letforδ≥0τδ:=inf{t≥0:Xt=δ},(3.4)ρ0:=inf{t≥0:Yt=0}.Then,ascalculatedin[
+20
+],P{ρ0<τ0}=4b1
+b2Y0
+X20+1−1/2.(3.5)Nextwerecallwhatisknownaboutthegenealogicalforestofthecatalyst.Itwasshownin[
+1
+,
+2
+,
+3
+]thatasuitablyrescaledfamilyofGalton–Watsontrees,conditionedtohavetotalpopulationsizen,convergesasn→∞totheBrowniancontinuumrandomtree(CRT).Withsimilarargumentsonecangetaresultforthesuitablyrescaledcatalystforests;infact,ourproofherecontainsthisasaspecialcase.Also,allthelimitsofthecontourprocessandgenealogicalpointprocesseshavebeenidentiﬁedearlier,thatwebrieﬂyrecall.Let|β|=(|β|u)u≥0beareﬂectedBrownianmotionand`=(`u)u≥0itslocaltimeatlevel0.Let`−1(t)=inf{u≥0:`u=t}denotetheinverseofthelocaltimeof|β|atlevel0.Wehave˜Bn=⇒n→∞2|β|·∧`−1(1).(3.6)
+Itfollowsfrom(
+3.6
+)thatthereexistsXfor∈Trootwithηfor,n=⇒n→∞Xfor.(3.7)
+12A.GREVEN,L.POPOVICANDA.WINTERMoreover,XforequalsindistributionT(2|β|·∧`−1(1))[recallthatthemapT:C0R+[0,∞)→Troot,linsendsanexcursiontoarootedlinearlyorderedcom-pactR-tree].NotethatifX0=1thenXfortconsistsofaPoisson(1
+t)numberoffamilytrees.FortheassociatedgenealogicalpointprocessthistranslatesintoaPoisson(1
+t)−1numberofpointsatdepthatleasttseparatingthesetreesintheforest.ForasingletreethefollowingisknownbyTheorem5in[
+22
+],{tn}issuchthattn−→n→∞tforsomet∈R+then˜Πtn,n=⇒n→∞πβ,t.Thedistributionofπβ,tisthemixtureoverthelawofXtofaPoissonpointprocesswhoseintensitymeasure,foragivenvalueofXt,isℵβ,t(d`×dh)=1[0,Xt]d`⊗1(0,t)dh
+(t−h)2.(3.8)4.Results.Inthissectionwestatelimitingresultsforthepairoffamilyforestsofrescaledcatalyticbranchingpopulations.Sinceevolutionofthere-actantdependsonlyontheevolutionofthecatalysttotalmassprocess,wecananalyzetheconditionaldistributionofthereactantfamilyforestgiventhevaluesofthecatalystmassprocess.Thisisanalogoustoa“quenched”analysisforaprocessinrandomenvironment—thecatalysttotalmasspro-cessplayingtheroleoftherandomenvironment.WestartSection
+4.1
+withtheclaimthatthefamilyofrescaledreactantforestsgiventhecatalysttotalmassprocesshasalimitforest.Todetermineitsdistribution,andtherebycharacterizeauniquereactantlimitforest,weﬁrstconsidertheenvironmentuptothetimeinwhichthecatalyststaysaboveanarbitrarypositivethreshold.Wederivethelimitoftherescaledand“truncated”contourprocesses,andwedescribethereactantlimitcontourfromthisfamilyofdiﬀusions.Basedonthelatterwederivetherescaledgenealogicalpointprocessesofthereactant.Section
+4.2
+givestheresultonjointconvergenceofthecatalystandreactantfamilyforeststoalimitingpairofforests.Finally,inSection
+4.3
+wediscussthecorediﬀerencesbetweenthegenealogicalstructuresofthesetwolimitingforests.4.1.Reactantinaﬁxedcatalyticbackground.By(
+3.2
+),wecanrealizetherescaledcatalysttotalmassprocessesandthelimitingFellerdiﬀusionX=(Xt)t≥0onacommonprobabilityspacesuchthatforallT>0supt≤T|˜ηtot,nt−Xt|−→n→∞0.(4.1)
+GENEALOGYOFCATALYTICBRANCHINGMODELS13Hence,branchingratesofthereactantprocesses˜ξtot,nwillbegivenbyasequenceoffunctionsinSkorohodspacewhichconvergeuniformlyoncom-pactatoacontinuouslimitfunctionX.Westudythebehavioroftherescaledreactantforests˜ξfor,nunderassumption(
+4.1
+).Theﬁrstresultstatesthatgiventhecatalystmedium,thefamilyofrescaledreactantforestshaslimitpoints.Weuse(;·)todenotethecondi-tionallawforthereactantwithﬁxedrealizationofthecatalystenvironment.Proposition4.1(Existenceofreactantlimitforests).Let˜ηtot,nandXsatisfy(
+4.1
+).Thenthefamily{(˜ξfor,n;˜ηtot,n);n∈N}isrelativelycompact.Tocharacterizethelimit(Yfor;X)offorests{(˜ξfor,n;˜ηtot,n),n∈N}weusethecontourprocessandgenealogicalpointprocessrepresentations.4.1.1.Thereactantlimitcontourinaﬁxedcatalystmedium.Inordertoobtainconvergenceoftherescaledcontourprocessestoadiﬀusionprocesswerestrictourconsiderationonlyuptotheﬁrsttimethecatalystmassfallsbelowanarbitrarilysmallthresholdδ>0.Let˜Tδ,n:=inf{t≥0:˜ηtot,nt≤δ}.(4.2)
+RecallthatQtdeﬁnedin(
+2.2
+)takesaforestandcutsoﬀtheportionthatliesaboveheightt.Let˜ξfor,δ,ndenotethereactanttreesofthe˜ξfor,ncutoﬀat˜Tδ,n(ratherthanat˜Tδ,0)˜ξfor,δ,n:=Q˜Tδ,n(˜ξfor,n)and˜Cδ,nitscontourprocess˜Cδ,n=(˜Cδ,nu)u≥0:=C(˜ξfor,δ,n;2n).TheﬁrstresultdescribesthebehaviorofthelimitoftherescaledreactantforestsinacatalyticenvironmentthatisstoppedatTδ,n.Theorem1(Limitofthereactantcontourprocess).Assume(
+4.1
+),andﬁxδ>0.Considertheoperator(Aδ,D(Aδ))withAδf(c):=21
+Xcf00(c)(4.3)
+withreﬂectionontheboundary,thatiswithdomainD(Aδ):=f∈C1([0,τδ]):1
+X·f0∈C2([0,τδ]),f0|{0,τδ}≡0.(4.4)
+Thenthefollowingholds:
+14A.GREVEN,L.POPOVICANDA.WINTER(i)The(Aδ,D(Aδ))-martingaleproblemiswellposed.(ii)Ifζδisthesolutionofthe(Aδ,D(Aδ))-martingaleproblemthen(˜Cδ,n;˜ηtot,n)=⇒n→∞(ζδ;X).(4.5)Remark4.1.Bystandardarguments(see,e.g.,[
+25
+])anoperatorindivergenceformsuchasAδspeciﬁesauniquediﬀusionζδwithawelldeﬁnedlocal-timeprocess`t(ζδ):=(`t u(ζδ))u≥0atalllevelst≥0.RecallthatT:C0R+[0,∞)→Troot,linmapsanexcursiontoarootedlin-earlyorderedcompactR-tree.TogetherwithTheorem
+1
+wecanimmediatelyconcludethefollowing.Corollary4.2.Forallδ>0,andlimitpointsYforof{(˜ξfor,n;˜ηtot,n);n∈N}(Qτδ(Yfor);X)d=T(ζδ;X).(4.6)Thisallowsustouniquelyidentifythereactantlimitforest.Theorem2(Thereactantlimitforestexists).ThereexistsYfor∈Trootsuchthat(˜ξfor,n;˜ηtot,n)=⇒n→∞(Yfor;X).Thisnowraisesthequestionwhetherwecouldletδ→0andobtainalimitingdiﬀusion.Recallfrom(
+3.4
+)thatτ0istheﬁrsttimethecatalystbecomesextinct,andρ0istheﬁrsttimethereactantbecomesextinct.Asstatedin(
+3.5
+),theprobabilityofthereactantgoingextinctbeforethecat-alystispositive.Incasethereactantdiesbeforethecatalyst{ρ0<τ0},thereactantisalwaysinastrictlypositivecatalyticbackground.Hence,onthisevent,thelimitingcontourprocessiswelldeﬁnedbyXt∈(0,∞),forallt∈[0,ρ0],asadiﬀusionwithgeneratorAf(c):=21
+Xcf00(c),f∈D(A),onthedomainD(A):=f∈C1([0,τ0]):1
+X·f0∈C2[0,τ0][0,∞),f0(0)=0.However,ontheeventthatthecatalystdiesbeforethereactant{ρ0>τ0},itisclearthattheredoesnotexistawell-deﬁnedlimitingoperatorforAδasδ→0.AswillbeshowninCorollary
+4.7
+,onthiseventitisnotpossibletodeﬁneadiﬀusionprocessζ0suchthatthetreebelowitspathhasthedistributionofthelimitingforestYfor.
+GENEALOGYOFCATALYTICBRANCHINGMODELS154.1.2.Thelimitreactantpointprocessinaﬁxedcatalyticmedium.Thepointprocessrepresentationofthegenealogyisusefulinthosecaseswhenwecangiveasimpledescriptionofitsdistribution.ForboththecatalystandreactantgenealogyonecanshowthatgiventhetotalmassitcanberepresentedbyaPoissonpointprocesswithaspeciﬁedintensitymeasure.Ournextresultdescribesthereactantlimitgenealogicalpointprocess.Theorem3(Thereactantlimitgenealogicalpointprocess).Assume(
+4.1
+).Foranyt>0,andanysequence(tn>0)n∈Nsuchthattn−→n→∞t,(˜Ξtn,n;˜ηtot,n)=⇒n→∞(πt;X),whereforagivenpathX=(Xt)t≥0,thepointprocessπtconsistsof:–rate(Rt0Xsds)−1Poissonpointprocessatheight0whosepointsrepre-sentaseparationofdistincttreesintheforest,–PoissonpointprocessonR+×R+whoseintensitymeasureconditionedonYtisℵζ,t[d`×dh]=1[0,Yt](`)d`⊗1(0,t∧τ0∧ρ0)(h)Xh
+(RthXsds)2dh.(4.7)WehaveonlyconstructedamapPt(·;ς)whichsendsanexcursionofﬁnitelymanylocalmaximatoagenealogicalpointprocess.Toextendthismaptoexcursionsofinﬁnitelymanylocalmaximaonewouldeitherproceedviaalimitprocedureorlookatthepointprocessofmaximaldepthsofdownwardexcursions.Wenextrelatethereactantlimitgenealogicalpointprocesstothepointprocessofdepthsofdownwardexcursionscorrespondingtothelimitcontour.Proposition4.3(Relationbetweenthelimitpointprocessandζδ).Fixδ>0,andletζδbethesolutionofthewell-posedmartingaleproblem(Aδ,D(Aδ)).GivenX:=(Xs)s≥0,δ>0andt∈(0,τδ),thepointprocessπtequalsindistributionthepointprocessofmaximaldepthsofdownwardexcursionsofζδbelowleveltindexedbythelocal-timeprocess(`t u(ζδ))u≥0ofζδ.4.2.Jointlawofthecatalystandreactant.TheresultofTheorem
+2
+canbeextendedtojointconvergenceofthecatalystandreactantrescaledforests,whereforpairsofforestsweusetheproductofGromov–Hausdorﬀtopologies.Theorem4[Limitof(catalyst,reactant)-forest].Wehave(˜ηfor,n,˜ξfor,n)=⇒n→∞(Xfor,Yfor).(4.8)
+16A.GREVEN,L.POPOVICANDA.WINTERTheresultinTheorem
+4
+becomesrelevant,forexample,ifwewanttosamplegroupsofindividualsfrombothpopulationsandtoinvestigatethepairofmatricesofmutualgenealogicaldistancesofsampledindividuals.4.3.Diﬀerencesbetweenthereactantand“classical”forest.Let|β|=(|β|u)u≥0beareﬂectedstandardBrownianmotion,andforallt≥0,`t:=(`t u)u≥0itslocaltimeatlevelt.Asbeforelet`−1(s):=inf{u≥0:`0
+u=s}.InthefollowingwerefertoZfor:=T(2|β|·∧`−1(1))astheBrownianforest.Recallfrom(
+3.6
+)togetherwith(
+3.7
+)thatZforequalsindistributionthecatalystforestXfor.WenowdiscussthequalitativediﬀerencebetweenthelimitingforestYfor(withstochasticallyevolvingbranchingrates),andtheBrownianforestZfor(i.e.,withﬁxedbranchingrates).Weshallfocusonthefollowingaspects:•diﬀerencesinthetreestructureduetoinhomogeneityoftherandomen-vironment(evolvingbranchingrates);•behavioroftheforestYforattimeτ0ofextinctionoftherandomenvi-ronment(giventhereactantsurvivesthecatalyst).Thesetwoitemscanbeconsideredfromquenchedandannealedpointsofview.Ofcourse,forastatisticianobservingpopulationstheannealedpointofviewismorerelevant.4.3.1.Diﬀerencesduetotheinhomogeneousenvironment.Weﬁrstde-scribehowinthequenchedpicturethereactantforestYforcanbeobtainedfromthestandardBrownianforestZforbyheightdependent“stretching”ofthetreemetricexpressedintermsofthetotalmassprocessoftheﬁxedcatalystmediumX.Thenextresultcomparesthedistributionofgenealog-icaldistancesusingthepoint-processrepresentation.Recallfrom(
+3.4
+)thatτ0istheﬁrsttimethatZforbecomesextinct.Thepropositioncomparesinlawthedistancesbetweenpointsataﬁxedleveltinareactantforest∂Qt(Yfor),withthedistancesatanotherlevelst(t)inastandardBrownianforest∂Qst(t)(Zfor).Proposition4.4(Stretchingthetreemetric).AssumewearegivenaBrownianforest(Zfor,dZfor).Foranyτ0∈(0,∞)andcontinuousfunc-tionx:[0,τ0)→R+,foraﬁxedt∈(0,τ0)deﬁneanincreasingfunctionsx t:[0,t]→[0,Rt0xsds]bysx t(h):=Ztt−hxsds
+GENEALOGYOFCATALYTICBRANCHINGMODELS17andlet(sx t)−1:[0,Rt0xsds]→[0,t]beitsinverse.Thenthefollowingholds:((∂Qt(Yfor),dYfor);X=x)d=(∂Qsx t(t)(Zfor),2·(sx t)−1(1
+2dZfor)).Theorem
+3
+allowsustocomparecertainstatisticsofthereactantlimitforestwiththoseofa“classical”Brownianforest.Thelatterappearsasthescalinglimitoftheuniformdiscreteforestwithaﬁxednumberofverticesasthenumberofverticestendstoinﬁnityandmaythereforebeseenastheuniformlydistributedcompactrootedforest.Thefollowingresultstatesthatprovidedwecomparethereactantlimitforestwiththe“classical”Brownianforestwhichhasthesameexpectednumberoftrees,thereactantlimitforesthasasmallerprobabilitythattwo“randomly”pickedindividualsataﬁxedtimebelongtodiﬀerentfamilytreesthaninthe“classical”forest.Whatdoesitmeanto“pickindividualsatrandom?”RecallthatthemapTtakesanexcursionandsendsittoarootedcompactR-tree.Fix(T,ρ)∈Troot,andleth(T,ρ)denotetheheightofTintermsofthelargestdistanceofpointsinTfromtheroot.Assumethatthereexistsanexcursionζ∈C0R+[0,∞)withT(ζ)=(T,ρ)suchthatthelocal-timeprocesses`t(ζ)=(`t(ζ)s)s≥0existforallt∈(0,h(T,ρ)),anddenotetheinverseby(`t(ζ))−1,thatis,(`t(ζ))−1(x):=inf{u≥0:`t u(ζ)≥x}.LetLt(ζ):=lims→∞`t s(ζ)<∞.DeﬁneHt:[0,1]→TandµtbyHt(u):=(`t(ζ))−1(u·Lt(ζ)),µt:=(Ht)∗λ,whereλisLebesguemeasureon[0,1]andHt∗λdenotesthepushforwardoftheLebesguemeasureunderHt.Obviously,µtcanbethoughtofasthe“uniform”distributionontheset∂Qt(T,ρ).Proposition4.5(Comparisonofthereactantwiththeclassicaltree).Let(Xfor,Yfor)bethecatalyticbranchingforestswithbranchingratesb1=b2=1,andletZforbetheforestassociatedwithastandardreﬂectedBrown-ianmotion2|β|stoppedat`−1(z)=inf{u≥0:`u(2|β|)=z}forsomez≥0.Fixt∈(0,h(Yfor)∧h(Zfor)),andletYt=Ztandµt,Yandµt,Zbethe“uni-form”distributionson∂Qt(Yfor)and∂Qt(Zfor),respectively.Assumefur-therthattheexpectednumberoftreesaliveatheighttarethesameinYforandZfor,i.e.thatz(t)−1=E[(Rt0Xsds)−1].ThenEZ(∂Qt(Yfor))2(µt,Y)⊗2(du,du0)1{dYfor(u,u0)=2t}≤EZ(∂Qt(Zfor))2(µt,Z)⊗2(du,du0)1{dZfor(u,u0)=2t}.
+18A.GREVEN,L.POPOVICANDA.WINTER4.3.2.Ontopofthereactantlimittree.Intheregionwherethecatalyticenvironmentisabouttogoextinctthereactanthasveryfewbranchingevents.HencethestructureoftheforestcannotbecomparedtotheBrow-nianforestbyaﬁnitemapofdistancestretching.Asaconsequencethereactantlimitforestwillhaveinﬁnitel2-lengthwhichisincontrasttotheBrownianforestwhichisknowntohaveﬁnitel2-length.Tobemoreprecise,letforagiven(T,d)∈TandaﬁnitesubsetT0⊆T,el2((T,d),T0):=Xa,b∈T0:]a,b[∩T0=∅(d(a,b))2.Wethensaythat(T,d)isofﬁnite(inﬁnite)l2-lengthifthereexistsaﬁnite(inﬁnite)randomvariablel2((T,d))suchthatforeverysequence(T0n)n∈NofﬁnitesubsetsofTwithinf{ε>0:(T0n)ε=T}−→n→∞0,el2((T,d),T0n)−→n→∞l2((T,d))inprobability,(4.9)
+whereAεdenotestheε-neighborhoodofA⊆T.Lemma4.6(Inﬁniteversusﬁnitel2-length).Let(Xfor,Yfor)bethecat-alyticforestswithbranchingratesb1=b2=1,andZforastandardBrownianforest.ThenP{l2(Yfor)=∞}=P{τ0≤ρ0}>0,whilel2(Zfor)<∞,a.s.FromLemma
+4.6
+weimmediatelyconcludethattherecannotbeadiﬀu-sionζ0suchthattheforestbelowthepathofarealizationofζ0equalsindistributionthereactantlimitforest.Corollary4.7.LetYforbethereactantlimitforest,andζbearandomelementinC0R+[0,∞)withsup{t≥0:ζ(t)6=0}<∞,a.s.,suchthatT(ζ)equalsindistributionYfor.Thengiventhat{τ0≤ρ0}thetotalquadraticvariationofζisinﬁnite.Inparticular,ontheevent{τ0<ρ0},Yforcannotbeassociatedwiththepathofadiﬀusionprocess.4.4.Extensionstomoregeneralprocesses.Inthispaperwearemainlyinterestedinthecatalyticbranchingmodelasoneofthethreeprincipaltypesofneutralbranchingmodels,aspointedoutinthe
+Introduction
+.IfoneassumedaperspectiveofbranchingprocessesinarandommediumonecouldplacetheemphasisdiﬀerentlyandstartwithmoregeneralMarkoviandynamicsforthecatalystprocess.Onewouldassumethatthescalinglimit
+GENEALOGYOFCATALYTICBRANCHINGMODELS19ofthetotalmassofthecatalystanditsgenealogicaltreeexistandthatthelimitprocessesofthetotalmassofboththecatalystandreactanthavepathsinC[0,∞)([0,∞))withcompactandconnectedsupport.Undertheseassump-tionsthetechniqueswedevelopedinourproofswouldimplyconvergenceofthequenchedtotalmassprocessofthereactanttoalimitdiﬀusionprocess,convergenceofitsquenchedgenealogicalforesttoalimitforest,aswellastheconvergenceoftheannealedbivariateobjects.Similarly,Proposition
+4.4
+onstretchingofthetreemetricalsoremainsvalid.Interestingexamplescouldbeprovidedbycatalystswhicharetotalmassdependentbranchingprocesses,thatistimeinhomogeneousmodelswithbranchingrateh(ηtott)whereh[0,∞)→[0,∞)isalocallyLipschitzfunctionwithh(0)=0.Ifwearewillingtogiveupresultsonthebivariatedynamics,wecouldalsoallowforthefollowing.Supposewearegiventhedynamicsofaprocessofmassesconvergingtoacontinuouspathlimitandstillhaveallquenchedresultsforthereactantforest.Thatis,assumethatwehavesomescalingfunctionr:N→R+suchforallT>0supt≤T|ηtot,nr(n)t−Xt|−→n→∞0holdsforsomeX∈C[0,∞)([0,∞))withX−1{(0,∞)}almostsurelyaﬁniteinterval.ThenTheorems
+1
+,
+2
+and
+3
+holdagainaswellasProposition
+4.4
+.Moregenerallythebranchingrateofthereactantcouldbeg(ηtot,nr(n))forcontinuousfunctionsfvanishingatmostatzero.5.Proofoftightness(Proposition
+4.1
+).Throughoutthissectionweas-sumethatrealizationsof˜ηtot,n,n∈N,andofXonasingleprobabilityspaceareﬁxedsuchthat(
+4.1
+)holds.TopreparetheproofofProposition
+4.1
+wespecifyacompactsetofrootedcompactR-treeswhichwewilluseforprovingtightness.Itwillbehelpfulheretousegenealogicalterminology.Foreach(T,ρ)∈Trootdenoteby∂T:=T\Sx∈T[ρ,x[thesetofleavesofT,andbyh(T,ρ):=supx∈Td(ρ,x)theheightofthetree.WeintroducethesetAt t−ε(T,ρ)ofancestorsofthetimetpopulationatimeεbackasfollows:forallε>0letSε(T,ρ):={ρ}∪{x∈T:∃y∈T,withx∈[ρ,y],andd(x,y)≥ε}beanε-trimmingofthetree(T,ρ).Inparticular,ifh(T,ρ)≤εthenSε(T,ρ)={ρ}.Thenforgiven(T,ρ)∈TrootletAt t−ε(T,ρ):=Sε(Qt(T,ρ))∩∂Qt−ε(T,ρ)bethesetofancestorsattimet−εofthoseindividualsthatarealiveattimet.ItfollowsfromLemma2.6in[
+13
+]thatSε(T,ρ)∈Troot
+ﬁnandhence#At t−ε(T,ρ)<∞.
+20A.GREVEN,L.POPOVICANDA.WINTERThefollowingresultsaysthatthefamilyofrootedcompactR-treeswhosenumberofancestorsapositivetimeεbackareuniformlyboundedispre-compact.Lemma5.1(AcompactsetofrootedR-trees).Fixafamily{Lm;m∈N}ofpositiveintegers.ThenthesetΓ:=(T,ρ)∈Troot;(5.1)X1≤k≤b2(m+1)h(T,ρ)c#Ak/2m+1(k−1)/2m+1(T,ρ)≤Lm,∀m∈NiscompactinTroot.Proof.RecallfromLemma2.5in[
+13
+]thatafamilyΓispre-compactin(Troot,dGHroot)ifforeveryε>0thereexistsapositiveintegern(ε)<∞suchthateachT∈Γhasanε-netwithatmostn(ε)points.Fixε>0andlet(T,ρ)∈Γ.Thenwithm0:=m0(ε)=b−log2(ε)c,N(ε):=[k∈NAk2−(m0+1)(k−1)2−(m0+1)(T,ρ)isanε-net.Indeed,ifx∈T,thenforBε(x):={y∈T:d(x,y)<ε}x∈Bε(A2−(m0+1)b2(m0+1)h(x)c2−(m0+1)b2(m0+1)h(x)−1c).Moreover,sinceT∈Γ,#N(ε)≤Lm0=n(ε).SinceΓisclosed,compactnessfollows.ProofofProposition
+4.1
+.Weneedtoshowthatforallγ>0,wecanﬁndacompactsetΓ:=Γγ⊂Trootsuchthatforalln∈N,P({˜ξfor,n∈Γ}|˜ηtot,n)≥1−γ,(5.2)
+providedthat˜ηtot,nandXsatisfy(
+4.1
+).Ascandidatesforsuchacompactsetweconsidersetsoftheform(
+5.1
+).Toverify(
+5.2
+)calculateforﬁxednondecreasingpositiveintegers{Lm;m∈N},PX1≤k≤b2(m+1)˜T0,nc#A2−(m+1)k2−(m+1)(k−1)(˜ξfor,n)≤Lm,∀m∈N
+
+˜ηtot,n≥1−Xm≥1PX1≤k≤b2(m+1)˜T0,nc#Ak2−(m+1)(k−1)2−(m+1)(˜ξfor,n)≥Lm
+
+˜ηtot,n≥1−Xm≥11
+LmEX1≤k≤b2(m+1)˜T0,nc#Ak2−(m+1)(k−1)2−(m+1)(˜ξfor,n)
+
+˜ηtot,n.
+GENEALOGYOFCATALYTICBRANCHINGMODELS21ByTheorem5.1in[
+7
+],(#At t−ε;˜ηtot,n)ε≥0isthenumberofblocksinatime-inhomogeneousKingmancoalescentatrate1/˜ηtot,nt−ε.Moreover,ifK:=(Ks)s≥0isthenumberofblocksinaKingmancoalescentthenlimε↓0εKε=2almostsurelyaswellaslimε↓0εE(Kε)=2,seepage27of[
+4
+].Hencethereexistsaconstantc>0suchthatPX1≤k≤b2(m+1)˜T0,nc#A2−(m+1)k2−(m+1)(k−1)(˜ξfor,n)≤Lm,∀m∈N
+
+˜ηtot,n≥1−cXm≥11
+LmX1≤k≤b2(m+1)˜T0,nc1
+Rk2−(m+1)(k−1)2−(m+1)˜ηtot,nsds(5.3)≥1−cXm≥11
+Lm2(m+2)mins∈[0,˜T0,n−2−(m+2)]˜ηtot,ns−1b2(m+1)˜T0,nc−→n→∞1−cXm≥11
+Lm2(m+2)mins∈[0,τ0−2−(m+2)]Xs−1b2(m+1)τ0c.Herewehaveusedthatforallm∈Nandk∈{1,...,b2(m+1)˜T0,nc},Zk2−(m+1)(k−1)2−(m+1)˜ηtot,nsds≥Zk2−(m+1)−2−(m+2)(k−1)2−(m+1)˜ηtot,nsds≥2−(m+2)·mins∈[0,˜T0,n−2−(m+2)]˜ηtot,ns.Sinceτ0<∞andmins∈[0,τ0−2−(m+2)]Xs>0,forallm∈Nandallreal-izationsofX,wecanchoosethefamilyofpositiveintegers{Lm,m∈N}suitablylarge,forexample,Lm>(4/q)m(mins∈[0,τ0−2−(m+2)]Xs)−1with0<q=γ/(γ+1)<1/2,suchthattheright-handsideof(
+5.3
+)isgreaterthanorequalto1−γ,and(
+5.2
+)follows.6.Proofofthelimitforthereactantcontour(Theorem
+1
+).Inthissec-tionwegivetheproofofTheorem
+1
+.WeﬁrstshowthatgivenarealizationofthecatalysttotalmassprocessthereactantcontourprocessisassociatedwithaMarkovprocess,andwederiveitsgenerator.Wealsogivearepre-sentationofthisMarkovprocessasarandomevolutionprocess.Bythiswemeanthatitmovesatconstantvelocityforarandomtime,thenchangesthesignofitsvelocityandproceedsatconstantvelocityforarandomtimeagain.Weusethisrepresentationtoprovethatthesuitablyrescaledcontourprocessesofthetruncatedreactantforestconvergetowardalimitcontourprocesswhichischaracterizedasthesolutionofawell-posedmartingaleproblem.
+22A.GREVEN,L.POPOVICANDA.WINTERThroughoutthissectionarealizationηtot:=(ηtots)s≥0∈DN[0,∞)ofthecatalystpathisﬁxed.RecallthereactantcontourprocessC:=(Cu)u≥0fromDeﬁnition
+3.3
+,andletitsslopeprocessV:=(Vu)u≥0bedeﬁnedbyVu:=1
+2slope(Cu)∈EslopewithEslope:={−1,+1},Econt:=[0,T0,1],wheretheslopeoftheroot,branchpointsandleavesaredeﬁnedinsuchawaythat(Vu)u≥0hasc´adl´agpathsandT0,1:=inf{t≥0:ηtott=0}.ThenextresultstatesthatthefunctionalpairingoftheheightofthecontourwithitsslopeisaMarkovprocess.Lemma6.1(Markovpropertyofthecontourprocess).Theprocess(C,V):=(Cu,Vu)u≥0onEcont×EslopeisaMarkovprocesswhosegeneratoristheclo-sureoftheoperatorAf(c,v)=2v∂
+∂cf(c,v)+ηtotc[f(c,−v)−f(c,v)](6.1)
+forallf∈D(A),whereD(A)=f∈C1,0(Econt×Eslope):∂f
+∂c
+
+∂(Econt)×Eslope≡0.(6.2)Proof.RecallthatC(·;σ):Troot,linﬁn→CR+[0,∞)mapsarootedR-treetoanexcursionfromFigure
+2
+.Weﬁrstshowthatthelengthsofthelinesegmentsofthecontourprocessaredistributedasasequenceofindependentvariablesstoppedattheﬁrsttimetheiralternatingsumfallsbelow0,andthenweusethistoobtaintheMarkovpropertyandtoidentifythegenerator.Step1(Sequenceoflengthsofthelinesegments).RecallfromFigure
+2
+theassignmentofacontourprocesstotherepresentativeofaGalton–Watsonfamilyforestembeddedintheplane.Eachpieceofthecontourprocesswithconstantslopesigncorrespondstoasumofanumberoflife-times,sothedistributionalrelationshipbetweenthediﬀerentlinesegmentsisnotobvious.Weshallmakeuseofthefactthatthereactantprocesscanberepresentedintwowayswithoutchangingthedistributionofitsto-talmassprocessorthegenealogicaldistancesbetweenindividuals,eitherascontinuous-timebinaryGalton–Watsonprocess,orasabirth-and-deathprocess:•Inthecontinuous-timeGalton–Watsonprocessthebranchpointsoccuratrateηtott,andthenumberofoﬀspringateachbranchpointis0or2withequalprobability.
+GENEALOGYOFCATALYTICBRANCHINGMODELS23•Inthebirth-and-deathprocesseachindividualdiesatrate1
+2ηtott,andduringitslifetimegivesbirthtonewoﬀspringatrate1
+2ηtott.IfintheGalton–Watsonprocessateachbirthtimewechoosetoidentifythelifeofoneoftheoﬀspringasacontinuationofthelifeofitsparent,weobtainthebirth-and-deathprocess.ThefamilyforestoftheGalton–WatsonprocesshasacanonicalplanarembeddingcomingfromalinearorderonitsverticesinducedbythelinearorderofthetreeasinFigure
+3
+(a),whilethefamilyforestofabirth-and-deathprocesswiththatsamelinearorderontheverticeshastwocanonicalplanarembeddings.InFigure
+3
+(b)wealwayschoosetoidentifythecontinuationofthelifeoftheparentwiththelifeoftheoﬀspringofhigherlinearorder,andthebranchoftheoﬀspringisalwaysdrawntotheleftofthebranchoftheparent.InFigure
+3
+(c)wealwayschoosetoidentifythecontinuationofthelifeoftheparentwiththelifeoftheoﬀspringoflowerlinearorder,andthebranchoftheoﬀspringisalwaysdrawntotherightofthebranchoftheparent.Thekeyobservationnowisthatsinceallthreeplanarembeddingsrespectthesamelinearorderontheverticestheyalsohavethesamecontourprocess(compareFigure
+2
+).Inthebirth-and-deathprocessthelinesegmentsofconstantslopecorre-spondtoalifetimeofexactlyoneindividual.WiththeparentidentiﬁcationasinFigure
+3
+(b)eachlinesegmentsofnegativeslopecorrespondstoalife-timeofanindividual,whileintheparentidentiﬁcationasinFigure
+3
+(c)eachlinesegmentofpositiveslopecorrespondstoalifetimeofanindivid-ual.Sincelifetimesofindividualsareindependentthisimpliestheconstantslopelinesegmentsinthecontourprocessaredistributedasasequenceofindependentvariablesstoppedwhentheiralternatingsumﬁrstfallsbelow0.
+Fig.3.Illustratesthreediﬀerentplanarembeddingsofthereactantfamilyforestwiththesamelinearorderandacommoncontourprocess.
+24A.GREVEN,L.POPOVICANDA.WINTERStep2(Identiﬁcationofthegenerator).Giventhebranchrates(ηtott)t≥0,thelawofthelengthlofalifetimeofanindividualisP{l>t}=e−Rt∗+tt∗ηtotsds,wheret∗isthetimeofbirthofthatindividual.HencethelawofthelengthofeachsegmentisthelawoftheﬁrstpointofaPoissonprocesswithrate(ηtott)t≥t∗or(ηtott)t≤t∗iftheslopeofthelinesegmentis+2and−2,re-spectively.ThealternatingsignofVuchangesatrateηtotCuwhereCuisthecurrentvalueofthecontourprocess.InbetweenthejumpsofVu,Cumoveswithspeedof2unitsinthedirectiondeterminedbyVu.Hence,thecontourprocesspairedwithitsslopeisMarkovian,andfurthermoreitsgeneratoragreesonD(A)withtheoperatorgivenin(
+6.1
+)and(
+6.2
+).SinceDisdenseinC(Econt×Eslope)thegeneratoristheclosureoftheoperator(A,D).Wenextnoticethat(C,V)isarandomevolution,thatis,aMarkovpro-cessmovingatconstantspeedinadirectionwhosesignchangesstochas-tically.Speciﬁcally,forthepair(C,V)thechangeinspeedisacountingprocesswhoserateisgovernedbythecatalystmassprocessηtot.Lemma6.2(Randomevolutionrepresentation).LetN:=(N(u))u≥0beaunitratePoissonprocess,andconsiderthefollowingsystemCu=Zu02Vvdv,Vu=(−1)N(Ru0ηtotCvdv)(6.3)
+inint(Econt)×Eslopeandwithreﬂectionon∂(Econt)×Eslope.Thereexistsauniquerandomevolutionsatisfyingthissystem,anditsdistributionisthesameasthedistributionofthecontourprocessanditsslope(C,V).Proof.SeeChapter12of[
+12
+]forthedeﬁnitionofarandomevolution.Existenceanduniquenessofarandomevolutionsatisfyingthesystem(
+6.3
+)followfromstandardtheoremsonexistenceandsolutionsofasystemofstochasticdiﬀerentialequationswithcontinuouslocalmartingalesasdiﬀer-entials(seeTheorem3.15in[
+23
+]).Equalityindistributionofthisrandomevolutionwiththecontourprocessanditsslopefollowsbysimplycompar-ingthegeneratorofthissystemtothegeneratorobtainedinthepreviouslemma.Wewillalsoneedthefollowingeasyconsequenceoftheabovearguments.Fixδ>0,andrecallthatTδ,1from(
+4.2
+)istheﬁrsttimethatthecatalystprocessstartedfrom1individualdropsbelowδ.AlsorecallthatQTδ,1from(
+2.2
+)isthemapthattakesatreeandcutstheportionofitsbranchesthatlieaboveheightTδ,1.
+GENEALOGYOFCATALYTICBRANCHINGMODELS25Corollary6.3(Truncatedprocess).IfthecontourC(ξfor;1)solves(
+6.3
+)thenC(QTδ,1(ξfor);1)solves(
+6.3
+)butwiththestatespaceEcontre-placedbyEδcont=[0,Tδ,1].Wenextshowthattherescaledrandomevolutionsconvergetothesolu-tionofthewell-posedmartingaleproblemstatedinTheorem
+1
+.Werelyonaveragingtechniquesestablishedforrandomevolutions.Throughoutweﬁxrealizationsof˜ηtot,n,n∈NandXonasingleprobabilityspacesuchthat(
+4.1
+)holdsandwechooseatruncationparameterδ>0.Step0(Therescaledrandomevolutionsystem).Recalltherescaledreactantcontourprocess˜Cδ,nfromDeﬁnition
+3.7
+.Let˜Eδ,ncont:=[0,˜Tδ,n],anddeﬁneitsrescaled1
+2-slopeprocess˜Vδ,n:=1
+2sign(slope(˜Cδ,n·)).ThenLemma
+6.1
+appliedtotherescaledreactantpopulationsimpliesthat(˜Cδ,n,˜Vδ,n)isaMarkovprocesswhosegeneratoristheclosureoftheoperator˜Aδ,nf(c,v)=2nv∂
+∂cf(c,v)+n2˜ηtot,nc[f(c,−v)−f(c,v)],(6.4)
+actingonallf∈D(˜Aδ,n),whereD(˜Aδ,n)=f∈C1,0(˜Eδ,ncont×Eslope):∂f
+∂c
+
+{0,˜Tδ,n}×Eslope≡0.Furthermore,theanalogousargumenttothatofLemma
+6.2
+impliesthatthedistributionofthepair(˜Cδ,n,˜Vδ,n)hasthesamedistributionastherandomevolutionwhichistheuniquesolutiontothesystem˜Cδ,nu=nZu02˜Vδ,nvdv,˜Vδ,nu=(−1)N(n2Ru0˜ηtot,n˜Cδ,nvdv),(6.5)
+whereNisaunitratePoissonprocess.Inotherwords,therescaledprocess˜Cδ,nevolvesdeterministicallywithspeed2n,andchangesthesignatraten2timesacountingprocesswhoserateisgovernedbytherescaledcatalystmassprocess˜ηtot,n.Step1(Thevelocityprocess).TheconvergenceresultstatedinThe-orem
+1
+reliesonthefactthatthevelocitycomponent˜Vδ,nevolvesmuchfasterthanthecontourcomponent˜Cδ,n,asisitclearfrom(
+6.5
+).Henceinthelimitthevelocityprocesswillaverageoutandcanbereplacedwithitsstationarymeasure.IfΓnistheoccupation-timemeasureof˜Vδ,nonEslope,thatis,foru≥0,andv∈EslopeΓn([0,u]×{v}):=Zu01{v}(˜Vδ,nu0)du0,(6.6)
+26A.GREVEN,L.POPOVICANDA.WINTERthenitisclearfromthedescription(
+6.5
+)of˜Vδ,nthatΓn=⇒n→∞Γ=λ⊗π,whereλdenotesLebesguemeasureon[0,∞),andπ({1})=π({−1})=1
+2.Inthelimitthecontourcomponentwillhavespentonaveragehalfthetimeincreasingandhalfthetimedecreasing.Step2(Averagingformartingaleproblems).TheproofofTheorem
+1
+willrelyonthefollowingresulttakenfromTheorem2.1in[
+17
+]andadaptedtoourspeciﬁcsituationinwhichthestatespacesarecompact.Proposition6.4(Stochasticaveraging).SupposethereisanoperatorAδ:D(Aδ)⊆C0([0,τδ])→C0([0,τδ]×{−1,1})suchthat:(i)forallf∈D(Aδ)thereisaprocessεδ,f,nforwhichf(˜Cδ,nt)−Zt0(Aδf)(˜Cδ,ns,˜Vδ,ns)ds+εδ,f,n tt≥0(6.7)
+isamartingale,(ii)D(Aδ)isdenseinC0([0,τδ])withrespecttotheuniformtopologyand(iii)forf∈D(Aδ)andT>0thereexistsp>1suchthatsupnEZT0|Aδf(˜Cδ,ns,˜Vδ,ns)|pds<∞(6.8)
+andlimn→∞Ehsupt≤T|εδ,f,n t|i=0.(6.9)ThenforΓndeﬁnedasin(
+6.6
+){(˜Cδ,n,Γn)}n∈NisrelativelycompactinD([0,∞)×M([0,∞)×{−1,1})),whereM([0,∞)×{−1,1})isthespaceofallmeasureson[0,∞)×{−1,1}forwhichµ([0,u)×{−1,1})=u,andforanylimitpoint(ζδ,π)thereexistsaﬁltrationsuchthatf(ζδt)−Zt0Xv∈{−1,1}Aδf(˜Cδ,ns,v)dsπ{v}t≥0isamartingalewithrespecttothisﬁltration,forallf∈D(Aδ).Step3(Theaveraging-martingaleproblem).Recalltheoperator(Aδ,D(Aδ))from(
+4.3
+)and(
+4.4
+)whichisthegeneratorfortherescaledcontourprocess˜Cδ,n.Ourgoalistoshowthatallthreeassumptions(i)–(iii)ofProposition
+6.4
+abovearesatisﬁed.
+GENEALOGYOFCATALYTICBRANCHINGMODELS27(i)Weﬁrstshowthatwecandeﬁnesmallerrorprocesses{εδ,f,n;f∈D(Aδ)}suchthatf(˜Cδ,nt)−Zt0Aδf(˜Cδ,ns,v)ds+εδ,f,n tt≥0isamartingaleforallf∈D(Aδ).Noticethatf∈D(Aδ)ifandonlyifthereexistsafunctiong∈C2([0,τδ])withg(0)=g(τδ)=0suchthatf(x)=f(0)+Zx0Xsg(s)ds(6.10)
+forallx≥0.Letf∈D(Aδ)beoftheform(
+6.10
+)andlet˜fn(c):=f(0)+Zc0˜ηtot,nsg˜Tδ,n
+τδsds.Applytheoperator(˜Aδ,n,D(˜Aδ,n))from(
+6.4
+)tofunctionsfngivenbyfn(c,v):=˜fn(c)+v n˜ηtot,nc(˜fn)0(c)toget˜Aδ,nfn(c,v)=2nv(˜fn)0(c)−2n2˜ηtot,ncv n˜ηtot,nc(˜fn)0(c)+2v21
+˜ηtot,nc(˜fn)00(c)=21
+˜ηtot,nc(˜fn)00(c).Letthenforallt≥0,εδ,f,n t:=˜fn(˜Cδ,nt)−f(˜Cδ,nt)+˜Vδ,nt n˜ηtot,n˜Cδ,nt(˜fn)0(˜Cδ,nt)+Zt0(Aδf−˜Aδ,nfn)(˜Cδ,ns,˜Vδ,ns)ds.Sincefn(˜Cδ,nt,˜Vδ,nt)−Rt0˜Aδ,nfn(˜Cδ,ns,˜Vδ,ns)isamartingaleforallfn∈D(˜Aδ,n),itfollowsthat(
+6.7
+)holdsforallf∈D(Aδ).(ii)WenextshowthatthedomainD(Aδ)isdenseinthespaceofcon-tinuousfunctionson[0,τδ].Lemma6.5(Densedomain).Fixδ>0andX∈C0([0,τδ]).ThenthesetoffunctionsFdeﬁnedbyF:=f:f(c)=C+Zc0Xc0g(c0)dc0;C∈R,g∈C2([0,τδ]),g|{0,τδ}≡0isdenseinC0([0,τδ]).
+28A.GREVEN,L.POPOVICANDA.WINTERProof.Itiswellknownthateachcontinuousfunctionon[0,τδ]canbeapproximatedbypiecewiselinearfunctions.ItisthereforeenoughtoshowthatanypiecewiselinearfunctioncanbeapproximatedbyfunctionsinF.ThisfollowsbycontinuityofXandthefactthatXu≥δ,forallu∈[0,τδ].(iii)Weﬁnallyverifythelastpoint.Itisstandardtoshowthat(
+6.8
+)holdsforallf∈D(Aδ),T>0andp>1.Moreover,since1/˜ηtot,n˜Cδ,ntisboundedby1
+δ,forallt≥0,˜fn→f,andk˜Aδ,nfn−Aδfk≤|τδ−Tδ,n|kg0k+|1−Tδ,n
+τδ|kg00k−→n→∞0,(
+6.9
+)issatisﬁedaswell.AltogetherwecanapplyProposition
+6.4
+totheeﬀectthatthefamilyofrescaledcontours{˜Cδ,n;n∈N}i
+
+<!-- PDF text truncated by scrapem max_pdf_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。

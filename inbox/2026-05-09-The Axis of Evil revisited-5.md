@@ -1,0 +1,187 @@
+---
+source: "https://arxiv.org/abs/astro-ph/0611518v2"
+title: "The Axis of Evil revisited"
+author: "Kate Land, Joao Magueijo"
+year: "2006"
+publication: "arXiv preprint / astro-ph"
+download: "https://arxiv.org/pdf/astro-ph/0611518v2"
+pdf: "https://arxiv.org/pdf/astro-ph/0611518v2"
+captured_at: "2026-05-09T12:55:22Z"
+updated_at: "2026-05-09T12:55:22Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Nietzsche Beyond Good and Evil"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# The Axis of Evil revisited
+
+- 著者: Kate Land, Joao Magueijo
+- 年: 2006
+- 掲載情報: arXiv preprint / astro-ph
+- 情報源: [arxiv](https://arxiv.org/abs/astro-ph/0611518v2)
+- ダウンロード: https://arxiv.org/pdf/astro-ph/0611518v2
+- PDF: https://arxiv.org/pdf/astro-ph/0611518v2
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+In light of the three-year data release from WMAP we re-examine the evidence for the ``Axis of Evil'' (AOE). We discover that previous statistics are not robust with respect to the data-sets available and different treatments of the galactic plane. We identify the cause of the instability and implement an alternative ``model selection'' approach. A comparison to Gaussian isotropic simulations find the features significant at the 94-98% level, depending on the particular AOE model. The Bayesian evidence finds lower significance, ranging from ``substantial'' at $Δ(\ln E)\sim 1.4$, to no evidence for the most general AOE model.
+
+## PDF Text
+
+arXiv:astro-ph/0611518v2 21 Mar 2007
+Mon.Not.R.Astron.Soc.000,1–7(2006)Printed13September2018(MNLATEXstyleﬁlev2.2)TheAxisofEvilrevisited
+KateLand1andJo˜aoMagueijo2,3,41Astrophysics,UniversityofOxford,DenysWilkinsonBuilding,KebleRoad,OxfordOX13RH,UK2PerimeterInstituteforTheoreticalPhysics,31CarolineStN,WaterlooN2L2Y5,Canada3CanadianInstituteforTheoreticalAstrophysics,60StGeorgeSt,TorontoM5S3H8,Canada4TheoreticalPhysicsGroup,ImperialCollege,PrinceConsortRoad,LondonSW72BZ,UKEmailcontact:krl@astro.ox.ac.uk,jmagueijo@perimeterinstitute.caAcceptedxxx.Receivedxxx;inoriginalformxxxABSTRACT
+Inlightofthethree-yeardatareleasefromWMAPwere-examinetheevidenceforthe“AxisofEvil”(AOE).Wediscoverthatpreviousstatisticsarenotrobustwithrespecttothedata-setsavailableanddiﬀerenttreatmentsofthegalacticplane.Weidentifythecauseoftheinstabilityandimplementanalternative“modelselection”approach.AcomparisontoGaussianisotropicsimulationsﬁndthefeaturessigniﬁcantatthe94-98%level,dependingontheparticularAOEmodel.TheBayesianevidenceﬁndslowersigniﬁcance,rangingfrom“substantial”at∆(lnE)∼1.4,tonoevidenceforthemostgeneralAOEmodel.
+Keywords:cosmicmicrowavebackground1INTRODUCTION
+TheWilkinsonMicrowaveAnisotropyProbe(WMAP)has producedspectacularhighresolutionall-skyobservationsoftheCosmicMicrowaveBackground(CMB),whichhave bolsteredthecasefortheΛCDMconcordancecosmologicalmodel(Spergeletal.2003,2006).Afterthereleaseoftheﬁrst-yearresults(Bennettetal.2003)there wasaﬂurryofstudiesintotheGaussianityandstatisticalisotropyofthedata,asthesearefundamental predictionsofinﬂationtheories.Reportsofsomething awryhavebeenobtainedusingavarietyoftechniques
+(e.g.,Park(2004);Eriksenetal.(2004a);Hansenetal.(2004);Donoghue&Donoghue(2005);Land&Magueijo
+(2005a);Hansenetal.(2004);Eriksenetal.(2004b);
+Vielvaetal.(2004)).Inthispaperwefocusonanomaliesinthelargestscalemodes,afteritwasﬁrstnoted thatthequadrupole(`=2)andoctopole(`=3)ap-pearedtobecorrelated(deOliveira-Costaetal.2004),and theirpowerissuspiciouslylow.Muchworkhasfocussed onthealignmentand“planarity”ofthesetwomultipoles(Copietal.2006;Schwarzetal.2004;Ralston&Jain
+2004);butinLand&Magueijo(2005b)itwasseenthatthe alignmentactuallyextendstothefourmultipoles`=2−5,alongtheaxis(b,l)≈(60,−100).Thisfeaturehasbeendubbedthe“axisofevil”(AOE).TobemoreprecisetheAOEexpressionhascometosignifyvariousdiﬀerentthings.Generallyitisintendedtodenoteanyformofstatisticalanisotropy,i.e.,afeatureintheCMBﬂuctuationswhichpicksapreferreddirection.This canberealizedinmanywayse.g.,multipoleplanarity(thedominanceofm=±`modesalongthepreferredaxis),oramoregeneralformofm-preference.Inthisrespectitmustbesaidthatwhileeveryoneagreesonthepresenceofthe
+“axisofevil”inthedata,itsextentisstilldebated.Theexpressionisalsosometimesassociatedwiththelowpower inthelow`s.Thisisquiteinappropriate:whilelowpowermayberelatedtotheAOE(seeLand&Magueijo(2006))
+thereisnothing“axial”oranisotropicinapowerspectrum anomalyperse.Therearetwopossiblefaultlinesintheanalysisleadingtothe“axisofevil”eﬀect.Theﬁrstconcernstheintegrity ofthedataitself,i.e.,contaminationfromnoise,system-aticsandforegrounds.Comparisonbetweentheﬁrst-year
+(WMAP1)andthird-year(WMAP3)datareleasesshows thattherawdatahashardlychangedonlargescales.Howeverthereareseveral“all-sky”renditionsofthedataand thesedoleadtosigniﬁcantdisparities:inthispaperweshowthatthisistrueregardingtheintensityoftheAOE,sothat discussionsshouldemphasisenotsomuch1stV’s3rdyear data,butthevarioustreatmentsofthegalacticplaneregion.Thesecondfaultlineconcernsthe“meaning”ofthedetection,andbythiswemeantherobustnessofthestatisticsused,andwhetherthereissupportforplanarityormore generalm-preference.Thefrequentistformalismprovidesnocleanwaytopenaliseforextraparametersortoweigh-up thedetectionsagainsteachother,orthenullhypothesis.In-steadsimulationsareusedtoassesshowlikelyitistoget suchafeatureinaGaussianstatistcallyisotropic(SI)CMB
+sky,butselectioneﬀects(bywhichwemeanthetuningof thestatisticormodeltothedata)arehardtoaccountfor.c2006RAS
+2KateLand&Jo˜aoMagueijoHeretheconfrontationofBayesianismandfrequentismbecomesaverypracticalmatter.Wecarryoutthisprojectasfollows.InSection2were-examinetheoriginalfrequentistAOEresultsforvariousren-ditionsoftheWMAP1andWMAP3data,andwediscuss furtherthelimitationsoftheoriginalfrequentistmethod,suchasitslackofrobustness,atleastwithregardstom-preferenceAOE(asopposedto“planarity”).InSection3we followamodelcomparisonapproach,andﬁndthatthisis muchmorerobustwhenconfrontedwiththediﬀerentdatasets.Furtherwecomparetheevidenceforthemodels;planarityandmorecomplexm-preference.InSection4wesum-mariseanddiscusstheresults.
+2INSTABILITIESOFTHEFREQUENTISTSTATISTICSToassignanaxistoeachmultipole,deOliveira-Costaetal.
+(2004)proposedthefollowingstatistic:q`=maxn"Xmm2|a`m(n)|2#,(1)wherethea`msarecomputedintheframewithz-axisindirectionn.Thisselectstheframedominatedbytheplanarm=±`modes.InLand&Magueijo(2005b)wegeneralizedthisstatis-tictoallowforanymdomination,i.e.,notrestrictingour-selvestoplanarconﬁgurations,withthestatistic:r`=maxmn»C`m(n)
+P|a`m0|2–,(2)whereC`0(n)=|a`0|2,andC`m(n)=2|a`m|2form>0(noticethat2modescontributeform6=0),forthea`mscomputedintheframewithz=n.Thisproducesthreeimportantquantitiesforeachmultipole:thedirectionn`,the“shape”m`,andtheratior`ofthemultipole’spowerabsorbedbythemodem`inthedirectionn`.WeextendtheworkofLand&Magueijo(2005b)byapplyingthisstatistictothefollowingdata-sets:
+•TheWMAPmission(Bennettetal.2003)producedfullskyCMBmapsfromtendiﬀerencingassemblies(DAs).
+Theyalsoproducedan“internallinearcombination”(ILC)
+map.Thisassumesnoexternalinformationaboutthe foregroundsandcombinessmoothedfrequencymapswith weightschosentominimizethermsﬂuctuations,usingseparatesetsofweightsfor12disjointskyregions.Inthe
+ﬁrst-yeardatareleasetheWMAPcollaborationadvised thattheILCmapbeusedonlyasavisualtool.However,forthethird-yearreleaseathorougherroranalysisoftheILCmapwasperformed,andabiascorrectionimplemented(Hinshawetal.2006).Theresultingthird-yearILC
+map(hereinWMAP3)isexpectedtobecleanenoughon scales`<
+∼10tobeusedwithoutamask.WMAPdataisavailablefromhttp://lambda.gsfc.nasa.gov.
+•Third-partymapsincludethoseofTegmarketal.(2003),whoproducedtheirownILCmap.Likeabove,an“internal”
+methodisemployedassumingonlyablack-bodyspectrum fortheCMB,butnowtheweightsdependonscale(inharmonicspace)aswellasgalacticlatitude.Thisisadvantageousbecausediﬀerentsourcesofcontaminationdominate atdiﬀerentscales-foregroundsatlargescales,andnoiseatsmallerscales.Aswellasthecleanedmap,aWienerﬁlteredmapisproducedthat,throughacomparisonwiththe
+WMAPbestestimatesoftheoreticalC`,adjuststhepowerofthemapsotosuppressnoisyﬂuctuations.Weusetheirﬁrst
+(TOH1)andthird-year(TOH3)cleaned-maps,allavailable fromwww.hep.upenn.edu/max/wmap.html.
+•InananlaysisoftheILCmap-makingmethod,Eriksenetal.(2004)proposedafasteralgorithmforthecomputationoftheweights,thatemploys
+Lagrangianmultiplierstolinearizetheproblem.Although thisproducesidenticalresultstothatoftheWMAP
+team,andisindeedthemethodemployedbytheWMAP
+collaborationfortheirthird-yearmap,theauthorsappliedittotheﬁrst-yeardatausingslightlydiﬀerentregions,thusproducingaslightlydiﬀerentILCmap(hereinLILC1), availableathttp://lambda.gsfc.nasa.gov.Thereareofcoursetheoriginalfrequencymaps,whichrequireamask.However,forthetaskofassessingstatisticalisotropywerequirefullskyinformation,andthusweonly employtheseILCmaps.InTable1welisttheresultsobtainedwithfrequen-tistAOEstatistic(2)forthevariousdata-sets.Itisclear thatthisstatisticisnotrobust-verysimilarmapscan
+ﬁndverydiﬀerentresultsasindicatedbytheﬁnalcolumn.Theexpectedinter-angleforisotropicaxesis1radian
+(∼57◦),thusameanof∼22◦isremarkablylowandacomparisontosimulationsputsthisatthe99.9%conﬁdence level(Land&Magueijo2005b).However,thisresultonly holdsfortwoofthemaps,andasmallﬂuctuationinjust onemultipolemakesthen`jumpelsewhere.Thishighlightsoneweaknessofthisstatistic-itsdiscontinuousnature.InFig.1wevisualizehow“closecalls”mayarise,ex-plainingthediscontinuitiesoftheresultsinTable1.For thequadrupoleandoctopoleoftheTOH1map,weplotthe powerratioatthepositionnR`(n)=maxmC`m(n)
+P|a`m0|2.(3)Thusthe“axisofevil”statistic(2)picksoutn`asthepo-sitionofthehottestspotfromthesemaps(notethedegeneracybetweenm=1,2for`=2-weavoidthisinpracticebytakingjustthem=2solution).BelowtheR`mapsweplottheassociatedmpickedbyR`foragivenn.WecannowdiagnosetheinstabilitiesinTable1,byidentifyingclosecallsinthecompetitionforthehottestspot.
+Forthequadrupolethem=0andm=2modes,andfortheoctopolethem=1andm=3modesareﬁghtingaclosebattle.Theoverallmeaninter-angle(whichmeasures thestrengthoftheAOE)dependscloselyonthisbattle, andthustheinstabilityofthisstatistic.Weshouldstress thattheinstabilitiesidentiﬁedheredonotseemtoplague statisticsforplanarity(Magueijo&Sorkin2006).
+3MODELCOMPARISON
+Theinstabilitiesdiscoveredappeartobecuredbyamodel comparisontreatment,whichallowsforanevaluationofthe evidenceform-preferencein`=2−5,oversimplepla-narityfor`=2,3.Ratherthancomputingastatisticfromthemaps(e.g.,themeaninter-anglebetweenthenforthevarious`),theideaistoassessthe“evidence”foramodelc2006RAS,MNRAS000,1–7
+TheAxisofEvilrevisited3
+`=2`=3`=4`=5Mean
+Map(b,l)m(b,l)m(b,l)m(b,l)minter-θ
+LILC1(0.9,156.7)0(63.0,-126.9)3(56.7,-163.7)2(48.6,-94.7)351.4TOH1(58.5,-102.9)2(62.1,-120.6)3(57.6,-163.3)2(48.6,-93.4)322.4
+TOH3(76.5,-134.0)2(27.0,51.9)1(35.1,-130.6)1(47.7,-94.7)353.8WMAP3(2.7,-26.5)0(62.1,-122.6)3(34.2,-131.2)1(47.7,-96.0)353.7
+Table1.Then`axes,ingalacticcoordinates(b,l),andmthatmaximise(2)forthemultipoles`=2−5,forvariousall-skyrenditionsoftheﬁrstandthird-yearWMAPdata.Notethelowmeaninter-anglevaluesfortheTOH1map,whichindicateastrongcorrelationbetweenthemultipoles(iti.e.,AOE).Thedicontinuousnatureofthestatisticcausestheresultstovarywidely.
+Figure1.ThepowerratioR`(n)inthedominatingmmode(above),andthemvalue(below)forthequadrupole(left)andoctopole(right).The“axisofevil”statisticin(2)searchesforthehottestspotinthesemaps.WecanseetheclosecallsthatcausetheresultstovarywidelyinTable1.PlottedingalaticcoordinatesandMollweideprojection.encodingm-preferenceorplanarity,comparedtothebasemodelofstatisticalisotropy.Weﬁrstoutlinethegeneral formalism.LetLbethelikelihoodofthedatagivenamodel,andkthenumberofparametersofthismodel.Theparametersshouldbetunedsotomaximizethelikelihood,orequivalently,tominimizetheinformationinthedatagiventhe theory(deﬁnedasI(D|T)=−ln(L)).Howevertherealev-idenceshouldrefertotheinformationinthedataandthetheory:I(D∩T)=I(D|T)+I(T),wheretheinformationinthetheory,I(T),providesapenalizationrelatedtothenumberofparameters.Thismatterisbehindthe“Occam’s razor”rationale(Magueijo&Sorkin2006),andtheinformationcriteria(Liddle2004).AccordingtotheAikaikeinfor-maitoncriteria(AIC),theinformationinatheoryissimply thenumberofparameters,k.Infact,wewilluseamoreac-curateform,whichisespeciallyimportantforsmallsample size,IAIC=k+k(k+1)
+N−k−1,whereNisthenumberofdatapointsbeingﬁt(Burnham&Anderson2006).AnalternativeapproachtotheproblemofpenalizationistocomputetheBayesianevidence,E=ZL(D|θ,M)Π(θ)dθ=P(D|M),(4)whereΠarethepriorsontheparametersθforthemodelinquestion(seee.g.,Trotta(2005)forareview).Bayestheo-remtellsushowthisisrelatedtotheprobabilityofamodel
+P(M|D),anditprovidesaneﬀectivepenalizationbycom-putingtheaverageofthelikelihoodoverthisexpandedpa-rameterspace.Asanapproximationtothelogarithmofthe
+Bayesfactor,B≡E1/E0,wewillcomputetheBayesianin-formationcriteria(BIC),IBIC=k
+2lnN(confusinglythisisnotactuallyrelatedtoinformation-theoreticmethods).TheevidenceHforatheoryT1isthendeﬁnedasthedecreaseintheinformationofdataandtheorywhenitis comparedwithanullhypothesisT0:H=I(D∩T0)−I(D∩T1)≡Hf−Hp,(5)c2006RAS,MNRAS000,1–7
+4KateLand&Jo˜aoMagueijo
+Data-set(bl)HfHAICHBIClnB
+LILC163-120.0426.512.012.781.36
+TOH161-113.0327.482.983.751.85
+TOH374-129.0186.972.473.241.27
+WMAP364-123.0436.491.992.761.32
+Table2.Themaximumlikelihoodimprovement,Hf,andbest-ﬁttingparametersfortheplanaritymodel(i.e.,3extraparam-eters),fromvariousall-skyrenditionsoftheWMAPdata.We considertheevidencefromAICandBICmethodsaswellasthe
+Bayesfactor(lnB≡∆lnE).whereHfmeasurestheimprovementintheﬁtHf=ln(L1)−ln(L0),andHpistheextrapenalizationwehaveinournewtheory.InthelanguageoftheJeﬀreys’scale(Jeﬀreys1961;Liddleetal2006)ln(B),orH,between1and2.5signalssubstantialevidence,between2.5and5signalsstrongevidence,and“decisive”evidencerequiresln(B)>5.However,fortheserulesofthumbtoapplytotheICmethods,various conditionsshouldbemet.ForexampletheAICassumes
+Gaussianityofthelikelihoodwithrespecttotheparameters,whiletheBICassumesindependentidenticallydistributeddatapoints.WewillthereforecomparetheseresultstothosefromstatisticallyisotropicGaussiansimulations,inSection3.3.WewillalsocomputetheBayesfactor,forcomparisonwiththeBICapproximation,andthefrequentist results.
+3.1Planaritymodel
+ItwasshowninMagueijo&Sorkin(2006)thattheplanarity ofthe`=2,3multipolesissupportedbyaBayesiananal-ysis.Themodelusedtoassesstheevidenceforplanarityis basedonthediagonalcovariancematrix:h|a`m|2i(n)=c``δ`|m|+(1−δ`|m|)´(6)wherenandarethefreeparametersofthemodel(inad-ditiontoc`thatiscommonwiththeisotropicmodel,butofadiﬀerentvalue),with61.Weusethesameandnforbothmultipoles,sothatk=3,N=12,HAICp=4.5,andHBICp=3.73.InTable2welisttheparametervaluesthatmaximizethelikelihood,togetherwithHfandHfollowingtheAICandBICmethods.WealsocomputetheBayesianevidenceandrecordln(B)inTable2.Wedothisviabruteforceintegration,andforthebasemodel(˙|a`m|2¸=c`)weuseauniformprioronc`;06c``(`+1)/(2π)63000µK2.Forthepla-naritymodelweuseuniformpriorson∈[0,1],andonc`;06c``(`+1)/(2π)6(2`+1)×3000µK2,withthefur-therconstraint¯c``(`+1)/(2π)63000µK2where¯c`istheaverage¯c`=Pm˙|a`m|2¸/(2`+1).Asbefore(Magueijo&Sorkin2006)weﬁndthatvaria-tionsbetweendiﬀerentgalacticplanetreatmentsleadtoonlysmallvariationinHf.However,diﬀerentevidencemeasuresreachdiﬀerentconclusions.Allthemeasuresﬁndatleast substantialevidencefortheplanaritymodel,howeverthe
+AICandBICappeartosigniﬁcantlyoverestimatethisevidencecomparedtotheln(B)result.WerefertoSection3.3
+`m0(bl)Hf
+2061570.0273.47
+2259-1030.0303.09
+3362-1200.0255.06
+4258-1630.0415.07
+4043-980.0434.02
+5349-930.0267.65
+Table3.Themaximumlikelihoodimprovement,Hf,foradom-inatingm-modemodelintheTOH1map,whereeachmultipolecanselectitsownaxis,,andm0.Wherethereisaclosecall,therunnerupm0isalsolisted.forafrequentistassessmentofsigniﬁcance,throughananal-ysisofHffromsimulations.3.2Generalm-preferencemodelUsingthesameformalismwenowrevisitthedebateonthe extentoftheAOE,i.e.,m-preferenceasopposedtopla-narity.IntheBayesianformalismthemattercanbeaddressedbyreplacingthethecovariancematrix(6)byh|a`m|2i(n)=c`(δm0|m|+(1−δm0|m|))(7)wheren,andm0(`)arethefreeparametersofthemodel,with61.Weﬁndthatifweanalyzeeach`separatelywerediscovertheinstabilitiesreportedinSection2.InTable3wetakeTOH1fordeﬁniteness,andpresentthewinningm0,itsassociated(b,l)andHf;andalsotherunnerupincaseswherewegetclosecallsinmaximisingHf.WeseethattheBayesiananalysis,inthissetup,merelyconﬁrmsthe`=2,m0=0,2andthe`=4,m0=0,2instabilities.However,atotallynewperspectiveintotheseinstabili-tiesnowmakesitselfknown.Hfonlybecomestherealevi-denceHafteritisdegradedbythepenalizationHp,relatedtothenumberofparametersofthemodel.Ifwealloweach
+`tochooseitsownparametersthentheoverallHfislarge(thesumtotal)butthepenalizationisprohibitiveaseach multipolehas3parameters.ThusinoptimizingHwewishtoreducethenumberofparametersbyalwaysseekinga commonaxisnforall`in(7).Thisimmediatelyremovestheinstabilitiesfoundinthefrequentistformalism,byeﬀec-tivelypenalizingforjumpingbetweenclosecalls,whenone choiceleadstoabettercommonsetofparameters.Takeforexample`=2.Wehavethatm0=0,2areclosecompetitorsintheoptimizationofHf;howeveronlym0=2picksanaxisthatisroughlyalignedwiththepreferredaxis fortheothermultipoles.Soonlym0=2permitsalargesavinginHp(Hp=2peraxis,using,say,theAIC)withonlysmalldeteriorationinHf.Aninstabilitywouldonlyariseifm0=0improvedHfbyanextra2whencomparedwithm0=2.Thepenalizationforcesthemultipolestochosecommonparameters,attheriskofdecreasingtheﬁtalittle.
+Thus,inordertomaximizeH—andnotonlyHf—weshouldselectacommonnfor`=2−5,andthecompleteresult(forthesamedata-set)ispresentedinTable4.InordertomimicthefulltreatmentinMagueijo&Sorkin(2006)weshouldalsoseeka common,thusreducingthenumberofparametersfurther.c2006RAS,MNRAS000,1–7
+TheAxisofEvilrevisited5
+`m0(bl)Hf
+2249-960.0522.33
+3349-960.1082.01
+4049-960.0583.21
+5349-960.0287.34
+2-5—49-96——14.89
+Table4.Themaximumlikelihoodim-provement,Hf,foradominatingm-modeintheTOH1map,whereeachmultipole canselectitsownandm0,butacommonfavouredaxisisfound.
+Data-set(bl)m’sHfHAICHBIClnBlnB23
+LILC148-100.077230311.462.13-0.67-1.43-0.17
+TOH149-96.051230314.545.212.410.800.11
+TOH348-97.073230311.572.24-0.56-1.15-0.21
+WMAP348-100.072230312.102.77-0.03-1.01-0.18
+Table5.Themaximumlikelihoodimprovement,Hf,forthem-preferencemodelwithacommonaxisandcommonbetweenthefourmultipoles`=2−5,andthevariablem0,forvariousdata-sets(i.e.,7extraparameters).WeconsidertheevidenceHusingAIC,BICmethods,aswellastheBayesfactor(lnB).WealsocomputetheBayesfactorforjust`=2,3.ThiscanbedoneviathemethodofLagrangemultipliers, i.e.,bymaximizingHTf=X`,iN`i
+2»σ2S`i
+σ2`i+lnσ2`i–−λ1[σ221σ232−σ231σ222]−λ2[σ231σ242−σ241σ232]−λ3[σ241σ252−σ251σ242](8)wherei=1,2indexesthesub-samplesforthem-modeswiththelargeandsmallvariancerespectively,withN`imodesandsamplevarianceσS`i.Thesolutionsforthevarianceσ`iareconstrainedsuchthatσ`2/σ`1=,toﬁtwithourmodel(7).Thishassolutionσ2`i=σ2S`i
+1−2α`i
+N`iwithα2i=±A,α3i=±(−A+B),α4i=±(−B+C)andα5i=∓C,whereA,B,Caresolutionsofthe3quadraticequationsexpressing2=3=4=5.TheresultsarepresentedinTable5.Forallofthedata-setsthechoicem0sarethesame(asopposedtothefrequen-tiststatistics),andthepreferredcommonaxisisremarkablyrobust.ThecommonparameterandHfarealsoreason-ablystable.ThusasfaraschoiceofstatisticsV’savailabledata-setsareconcernedwehavefoundanimprovedformalismandarobustsetofbest-ﬁttingparametervalues.TocomputetheBayesfactorweusethesamepriorsasbefore,withuniformpriorsontheadditional{m0}pa-rameters,andwerecordln(B)inTable5.TheAICandBICintroducepenalizationsof9.33and12.13respectively.Regrettablyatthispointweseethattheoptionsforpenalizationspoiltheparty,withtheBayesfactorandBIC
+ﬁndingnoevidenceforthem-preferencemodel(exceptforTOH1),whiletheAICfavorsthem-preferencemodeloverthebasemodel,andtheplanaritymodel(exceptforTOH3).
+Weshouldperhapsnotbeoverlydisheartenedbyallthis discord.ItisfarfrompeculiartotheAOEeﬀect:seeforexampletheratherdisparateconclusionsregardingevidence againstscale-invariance(nS=1)asreportedinLiddle(2007).WenotethattheBICgivesusasimpletooltoex-aminetheeﬀectofpriors.If,forexample,themodelhasa builtinpositivemirrorparity(deOliveira-Costaetal.1996;Starobinsky1993;Land&Magueijo2005c),thenumberof possiblem0valuesisreduced,leadingtoalowerpenaliza-tion(10.12)forthesameHf(onlymirrorpositivemodesarefoundinthedata).Thisimprovementof2intheHBICvalueswillpushtheBIC(andprobablytheln(B))resulttofavorthisparticular“positivereﬂectionparity”modeloverthebasemode.Butsuchapriorshouldbephysicallymotivated.
+3.3Simulations
+Toassess(inafrequentistway)thesigniﬁcanceofthemaximumlikelihoodvalues,Hf,inTables2and5wecompareourresultstothosefromsimulations.Westressthatthisis analternativetotheBayesianmethod,forwhichtheevidenceiscompletelysummarisedbytheBayesfactor,ln(B),withsigniﬁcancedeterminedbytheJeﬀreys’scale.Thefre-quentistapproachtomodelselectioninthiscaseinvolvessimulatingdataforthebasemodel(Gaussianstatistically isotropic(SI)CMB)andcomputingourHf“goodnessofﬁt”statisticfortheproposedmodels(Eqns(6)and(7)).
+WethenobtainfrequencyplotsforHfwhichindicatehowwellonewouldexpecttheproposedmodelstoﬁtGaussian
+SICMBdata.IftheWMAPdataﬁndsasigniﬁcantlybetter
+ﬁtthenwecanconcludethatthedataisunlikelytobefrom aGaussianSImodel,atsomeconﬁdencelevel(CL).Weuse10,000GaussianSIsimulations,withthelatestWMAPbestﬁtΛCDMpowerspectrum,toﬁndthedistributionofHffortheplanaritymodelandthem-preferencemodel.WeplothistogramsoftheresultsinFig.2.ThisapproachprovidesuswithanalternativemeasureofthesigniﬁcanceofourHfvalues,andinFig.2welistthepercent-ageofthesimulationsthatﬁndahigherHfvalue.Weseethattheplanaritymodelconsistentlyﬁndssigniﬁcanceat the98%level.Them-preferencemodelgenerallyhaslowersigniﬁcance,atthe94-96%level,exceptfortheTOH1map whichﬁndsverystrongevidenceforthem-preferencemodel,at>99%level.Notethatitisthismapthatﬁndsthem-preferenceAOEwiththeoriginalstatistic(seeTable1).TheseresultsareinagreementwiththeBayesianap-proach(ln(B)andBIC),astheplanaritymodelisfavouredoverthemoregeneralm-preferencemodelexceptforTOH1.However,theBayesianapproachgenerallyﬁndslowerevidenceforthesemodelscomparedtothebasemodel,and itactuallyﬁndsnoevidenceforthem-preferencemodel(exceptforTOH3).Thisreﬂectsthewellknownfactthat theBayesianapproachtomodelselectiontendstoseta higherthresholdthanfrequentistapproaches(e.g.,Trotta(2005);Mukherjeeetal.(2006);Linder&Miquel(2007)).
+Whichresultismore“correct”isamatterofpersonalopinion,howeverthemoreconservativeBayesianapproachis oftenpreferredintheﬁeldofcosmologicalmodelselection.c2006RAS,MNRAS000,1–7
+6KateLand&Jo˜aoMagueijo
+Data-setHPf%Hmf%
+LILC16.512.6911.466.90
+TOH17.481.3714.540.53
+TOH36.972.0211.576.35
+WMAP36.492.7112.104.21
+Figure2.ThedistributionofHfreturnedby10,000Gaussianandisotropicsimulationsfortheplanaritymodel(left)andthegeneralm-preferencemodel(middle).WealsoplottheresultobtainedbytheWMAP3map(shortdashedline).IntheTablewelistthepercentageofsimulationsthatﬁndhigherHxfvaluesfortheplanaritymodel(P)andthem-preferencemodel(m).Westressthatthisapproachdoesnottakeaccountoftherelativecomplexitiesofthemodels.AdisadvantageoftheBayesianapproachisitssensitiv-itytopriors,anditsinsensitivitytouselessparametersthatareunconstrainedbythedata.However,thefrequentistapproachcaninvolvealargeamountofcomputationaltime andcanbepronetoselectioneﬀects(i.e.,usingastatis-ticpre-tunedbythedata).Considerthatwecouldalwayschoosesomeconvolutedcomplexstatisticforwhichourdata returnsanomalouslyhigh(orlow)values,comparedtothe simulations.OnlytheBayesianapproachcanhelpherein imposingasuitablepenalization,byaveragingthelikelihoodovertheextraparameterspace.Thisensuresthatamodelis preferredonlyiftheimprovementintheﬁtmeritsopening upthisextradimensionofparameterspace.TheICmethodprovidesanotherwayofpenalizingfortheextraparameters,howeverweseethattheAICgenerally prefersthem-preferencemodel(withthemostparameters)totheplanarityorbasemodel-indisagreementwithboth theBayesianandfrequentistapproach.
+4CONCLUSIONS
+WehavehighlightedweaknesseswiththeoriginalAOE
+statistic(2)thatprobedm-preferencefor`=2−5.Theseareprimarily:1)lackofrobustness:smallchangesinthe dataproduceverydiﬀerentbest-ﬁttingparametervalues, i.e.,thestatisticsarediscontinuous;2)variationswithdata-set:itishardtoconnectvaryingresultstoimperfectionsinthedataorthestatistic;3)theneedforsimulationstoassesssigniﬁcance:nowayofpenalizingforextraparameters orcomparingcompetingtheoriesonanequalfooting,e.g.,planarityV’sgeneralm-preference.Wehavefoundanimprovedformalismbyemployingamodelselectionapproach,whichcurestheinstabilitiesby favouringcommonparametersbetweenthemultipoles.The originalinstabilitieswereduetotheexistenceofmultiplesolutionsforagivenmultipole.Butbringinginapenalizationrelatedtothenumberofparametersofthemodel enforces“OccamsRazor”andselectssolutionswhereparametersarecommonbetweenthemultipoles.Wenowﬁnd thebest-ﬁttingparametervaluesarerobust.ThemodelselectionapproachalsoallowsassessmentoftherelativeBayesianevidence(lnB)fortheplanaritymodel(correlationbetween`=2,3,m0=`modes)andthem-preferencemodel(acorrelationbetween`=2−5,m0notrestricted).ThisextendstheworkofMagueijo&Sorkin(2006)wherethelow-`low-powerevidencewasassessed,aswellasplanarityforsomedata-sets.UsingtheBayesfactor,andtheBICapproximation,weﬁndthatthereissubstantialevidencefortheplanarity model,butnoevidenceforthem-preferencemodel.Wealsotakeafrequentistapproachtotheproblem,andcompare the“goodnessofﬁt”(Hf)tothosefromGaussianSIsim-ulations.InagreementwiththeBayesianapproach,weﬁnd strongerevidencefortheplanaritymodel(∼98%CL),thanforthem-preferencemodel(∼95%CL).TheseresultsareincontradictionwiththeAICapproachwhichﬁndsevidence forbothmodels,andgenerallystrongerevidenceforthem-preferencemodel.Wethinkthisdemonstratesaweaknessof thiscrudestatistic,thatdoesnotappeartopenalizeenoughforextraparameters.Them-preferencemodelisamoregeneralversionoftheplanaritymodel.Itisthereforenotsurprisingthatthe evidencefortheplanaritymodelishigher,astheparameter spaceissmallerwhilestillincludingthebestﬁttingmodel
+(m0=`).Likewise,wecouldrestrictthem0parameterstopositivemirrorparitymodesandﬁndahigherBayesfactor.
+Butwithoutatheoreticalmotivationforrestrictingthem0parameterstothesevaluesitcouldbearguedthatthisapproachinvolvestuningourmodel(orequivalently-thepriors)toﬁtthedata.Therefore,thelowersigniﬁcance(∼95%)resultforthem-preferencemodelisourmoreconservativeresultforthesigniﬁcanceoftheAOEintheWMAPthirdyeardata.NotethattheBayesfactorﬁndsnosupportfor thismodel,inmultipoles`=2−5,norforjust`=2,3(seelastcolumnofTable5).Thehighersigniﬁcancereturnedbythesimulations,comparedtotheBayesfactor,highlightsanimportantdifferencebetweentheBayesianandfrequentistapproaches tomodelcomparison.Forsomeconﬁdencelevel,theln(B)thresholdandfrequentistHfthresholdcandisagree,withtheBayesianapproachtendingtobethemoreconservative
+-aphenomenonnotunheardofwhendiscussing“2-sigma”
+results.
+ACKNOWLEDGEMENTS
+Wethankthemanypeoplewhopestereduswiththequestion“isitstillthere?”,andprovidedusefulconversations,mostnotablyAndrewLiddle,AndrewJaﬀe,OferLahav,
+PeterColesandCarloContaldi.Wearealsogratefulto thereferee,HansKristianEriksen,forhavingsuggestedthec2006RAS,MNRAS000,1–7
+TheAxisofEvilrevisited7approachinSec.3.3,andchampioningthemeritsofthe
+Bayesianevidence.OurcalculationsmadeuseoftheHEALPixpack-age(Gorskietal.1998)andwereperformedonCOSMOS, theUKcosmologysupercomputerfacility.KRLisfunded bytheGlasstonefellowship.
+REFERENCESBennettC.,etal.,2003,Astrophys.J.Suppl.,148,1
+BernuiA.,etal.,2006,astro-ph/0601593
+BurnhamK.P.,AndersonD.R.,2004,SociologicalMethods&Research,33,261-304CopiC.,HutererD.,SchwarzD.,StarkmanG.,2006,Mon.Not.Roy.Astron.Soc.,367,79deOliveira-CostaA.,SmootG.,StarobinskyA.,1996,As-trophys.J.,468,457deOliveira-CostaA.,TegmarkM.,ZaldarriagaM.,Hamil-tonA.,2004,Phys.Rev.,D69,063516DonoghueE.,DonoghueJ.,2005,Phys.Rev.,D71,043002
+EriksenH.,BandayA.,GorskiK.,LiljeP.,2004,Astro-phys.J.,612,633EriksenH.,etal.,2004a,Astrophys.J.,605,14
+EriksenH.,etal.,2004b,Astrophys.J.,612,64
+GorskiK.,HivonE.,WandeltB.,1998,astro-ph/9812350
+HansenF.,BandayA.,GorskiK.,2004,astro-ph/0404206
+HansenF.,CabellaP.,MarinucciD.,VittorioN.,2004,Astrophys.J.,607,L67HinshawG.,etal.,2006,astro-ph/0603451
+JeﬀreysH.,1961,’TheoryofProbability’,OUPLandK.,MagueijoJ.,2005a,Mon.Not.Roy.Astron.Soc.,357,994LandK.,MagueijoJ.,2005b,Phys.Rev.Lett.,95,071301
+LandK.,MagueijoJ.,2005c,Phys.Rev.,D72,101302
+LandK.,MagueijoJ.,2006,Mon.Not.Roy.Astron.Soc.,367,1714LiddleA.,2004,Mon.Not.Roy.Astron.Soc.,351,L49
+Liddle,A.,Mukherjee,P.,Parkinson,D.,2006,Astron.Geophys.,47,4.30LiddleA.,2007,astro-ph/0701113
+LinderE.V.,MiquelR.,2007,astro-ph/0702542
+MagueijoJ.,SorkinR.,2006,astro-ph/0604410
+Mukherjee,P.,Parkinson,D.,Liddle,A.R.,2006,Astro-phys.J.,638,L51Mukherjee,P.,Parkinson,D.,Corasaniti,P.S.,Liddle,A.R.,Kunz,M.,2006,Mon.Not.Roy.Astron.Soc.,369,
+1725ParkC.,2004,Mon.Not.Roy.Astron.Soc.,349,313
+RalstonJ.,JainP.,2004,Int.J.Mod.Phys.,D13,1857
+SchwarzD.,StarkmanG.,HutererD.,CopiC.,2004,Phys.Rev.Lett.,93,221301SpergelD.,etal.,2003,Astrophys.J.Suppl.,148,175
+SpergelD.,etal.,2006,astro-ph/0603449
+StarobinskyA.,1993,JETPLett.,57,622
+TegmarkM.,deOliveira-CostaA.,HamiltonA.,2003,Phys.Rev.,D68,123523TrottaR.,2005,astro-ph/0504022
+VielvaP.,Martinez-GonzalezE.,BarreiroR.,SanzJ.,CayonL.,2004,Astrophys.J.,609,22c2006RAS,MNRAS000,1–7
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。

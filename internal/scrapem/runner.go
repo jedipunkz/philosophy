@@ -9,10 +9,16 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/jedipunkz/philosophy/internal/config"
 )
+
+type sourceQuery struct {
+	keyword config.KeywordConfig
+	query   string
+}
 
 type Runner struct {
 	cfg          config.Config
@@ -56,65 +62,100 @@ func (r *Runner) Run(ctx context.Context) error {
 		return err
 	}
 
-	total := 0
+	jobs := map[string][]sourceQuery{}
 	for _, keyword := range r.cfg.Keywords {
 		for _, sourceName := range keyword.Sources {
-			source, ok := r.sources[sourceName]
-			if !ok {
-				log.Printf("source %q is not defined; skipping", sourceName)
-				continue
-			}
-			if !source.Enabled {
-				log.Printf("source %q is disabled; skipping", sourceName)
-				continue
-			}
 			for _, query := range keyword.Queries {
-				items, err := r.search(ctx, source, query)
-				if err != nil {
-					log.Printf("search failed source=%s query=%q: %v", source.Name, query, err)
-					continue
-				}
-				if len(items) > r.cfg.Scrape.MaxResults {
-					items = items[:r.cfg.Scrape.MaxResults]
-				}
-				for _, item := range items {
-					if err := r.enrich(ctx, &item); err != nil {
-						log.Printf("detail fetch failed url=%s: %v", item.URL, err)
-					}
-					if err := r.enrichPDF(ctx, &item); err != nil {
-						log.Printf("pdf fetch failed url=%s pdf=%s: %v", item.URL, item.PDF, err)
-					}
-					if seen.Has(item.URL) && !r.cfg.Scrape.RefreshExisting {
-						continue
-					}
-					item.Keyword = keyword.Name
-					item.Query = query
-					item.Tags = keyword.Tags
-					item.SourceName = source.Name
-					var err error
-					if seen.Has(item.URL) {
-						err = updateMarkdownBySource(inbox, item)
-					} else {
-						_, err = writeMarkdown(inbox, item)
-					}
-					if err != nil {
-						log.Printf("write failed url=%s: %v", item.URL, err)
-						continue
-					}
-					if !seen.Has(item.URL) {
-						seen.Add(item.URL)
-					}
-					total++
-				}
+				jobs[sourceName] = append(jobs[sourceName], sourceQuery{
+					keyword: keyword,
+					query:   query,
+				})
 			}
 		}
 	}
+
+	var (
+		wg    sync.WaitGroup
+		mu    sync.Mutex
+		total int
+	)
+
+	for sourceName, queries := range jobs {
+		source, ok := r.sources[sourceName]
+		if !ok {
+			log.Printf("source %q is not defined; skipping", sourceName)
+			continue
+		}
+		if !source.Enabled {
+			log.Printf("source %q is disabled; skipping", sourceName)
+			continue
+		}
+
+		wg.Add(1)
+		go func(source config.SourceConfig, queries []sourceQuery) {
+			defer wg.Done()
+			r.runSource(ctx, source, queries, inbox, seen, &mu, &total)
+		}(source, queries)
+	}
+
+	wg.Wait()
 
 	if err := seen.Save(statePath); err != nil {
 		return err
 	}
 	log.Printf("scrape completed: wrote %d new notes", total)
 	return nil
+}
+
+func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, queries []sourceQuery, inbox string, seen *Seen, mu *sync.Mutex, total *int) {
+	for _, sq := range queries {
+		items, err := r.search(ctx, source, sq.query)
+		if err != nil {
+			log.Printf("search failed source=%s query=%q: %v", source.Name, sq.query, err)
+			continue
+		}
+		if len(items) > r.cfg.Scrape.MaxResults {
+			items = items[:r.cfg.Scrape.MaxResults]
+		}
+		for _, item := range items {
+			if source.Type != "api" {
+				if err := r.enrich(ctx, &item); err != nil {
+					log.Printf("detail fetch failed url=%s: %v", item.URL, err)
+				}
+			}
+			if err := r.enrichPDF(ctx, &item); err != nil {
+				log.Printf("pdf fetch failed url=%s pdf=%s: %v", item.URL, item.PDF, err)
+			}
+
+			item.Keyword = sq.keyword.Name
+			item.Query = sq.query
+			item.Tags = sq.keyword.Tags
+			item.SourceName = source.Name
+
+			mu.Lock()
+			alreadySeen := seen.Has(item.URL)
+			if alreadySeen && !r.cfg.Scrape.RefreshExisting {
+				mu.Unlock()
+				continue
+			}
+			var werr error
+			if alreadySeen {
+				werr = updateMarkdownBySource(inbox, item)
+			} else {
+				_, werr = writeMarkdown(inbox, item)
+			}
+			if werr != nil {
+				mu.Unlock()
+				log.Printf("write failed url=%s: %v", item.URL, werr)
+				continue
+			}
+			if !alreadySeen {
+				seen.Add(item.URL)
+			}
+			*total++
+			mu.Unlock()
+		}
+	}
 }
 
 func (r *Runner) search(ctx context.Context, source config.SourceConfig, query string) ([]Item, error) {
@@ -127,7 +168,11 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 		return nil, err
 	}
 	req.Header.Set("User-Agent", r.cfg.Scrape.UserAgent)
-	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+	if source.Type == "api" {
+		req.Header.Set("Accept", "application/atom+xml,application/xml;q=0.9,*/*;q=0.8")
+	} else {
+		req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+	}
 
 	resp, err := r.client.Do(req)
 	if err != nil {
@@ -138,6 +183,9 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 		return nil, fmt.Errorf("unexpected status %s", resp.Status)
 	}
 
+	if source.Type == "api" {
+		return parseArxivFeed(resp.Body)
+	}
 	return parseSearchResults(resp.Body, resp.Request.URL)
 }
 

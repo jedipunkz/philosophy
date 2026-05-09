@@ -7,7 +7,7 @@ publication: "Berlin / Münster / Zürich: LIT ( 2019 )"
 download: "https://philarchive.org/archive/ZWAPOT"
 pdf: "https://philpapers.org/archive/ZWAPOT.pdf"
 captured_at: "2026-05-09T08:07:26Z"
-updated_at: "2026-05-09T11:38:48Z"
+updated_at: "2026-05-09T12:58:44Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
@@ -25,6 +25,13 @@ status: raw
 - 情報源: [philarchive](https://philarchive.org/rec/ZWAPOT)
 - ダウンロード: https://philarchive.org/archive/ZWAPOT
 - PDF: https://philpapers.org/archive/ZWAPOT.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ユング-現代研究動向|ユング-現代研究動向]]
+- キーワード: [[ユング]]
+- 関連分野: [[現代思想]]
+- 関連タグ: #現代思想
 
 ## Abstract
 
@@ -85,8 +92,7 @@ field. By transforming into an
 experimental discipline, psychology emancipated
 from philosophy and during the twentieth century (the era of behaviorism,
 cognitive psychology and neuroscience), the distance between psychology and
-philosophy significantly increased. While psychology evolv
-ed into an
+philosophy significantly increased. While psychology evolv ed into an
 experimental research practice of immense proportions, conducted in laboratories
 worldwide, philosophy drifted into the margins of academic life. Currently,
 however, we experience a drive towards dialogue and convergence. Philosophy
@@ -94,12 +100,9 @@ has taken an
 
 empirical turn and is becoming increasingly interested in the tools
 and methods of psychology as a social science, while both aim to be more than
-academic pursuit
-s
+academic pursuit s
 
-and aspire to address real
--
-life challenges and urgent issues of
+and aspire to address reallife challenges and urgent issues of
 human and social existence.
 
 1900 was a decisive year (an
@@ -120,12 +123,8 @@ while the discovery of the electron by Joseph John Thomson in 1897 and of the
 virus by Martinus Beijerinck in 1898 was also part of
 
 the constellation. The
-quantum concept paved the way for elementary particle physics, anti
--
-matter and
-the Large Hadron Collider at CERN (where the hunt for the inexorable Higgs
--
-boson was launched), while the rediscovery of Mendel inaugurated the birth of
+quantum concept paved the way for elementary particle physics, antimatter and
+the Large Hadron Collider at CERN (where the hunt for the inexorable Higgsboson was launched), while the rediscovery of Mendel inaugurated the birth of
 genetics, thereby setting the scene for the rise of molecular biology and the
 sequencing of the human genome.
 
@@ -143,24 +142,20 @@ as well (although it actually appeared in 1899)
 ,
 
 heralded the commencement of
-psychoanaly
-sis: an intellectual event destined to have a tremendous impact,
+psychoanaly sis: an intellectual event destined to have a tremendous impact,
 not
 only on psychotherapy, but on the humanities as well.
 Meanwhile, in St.
 Petersburg, Ivan Pavlov discovered the conditioned reflex. As indicated,
-however, during the decades to follow, phi
-losophy and psychology diverted from
+however, during the decades to follow, phi losophy and psychology diverted from
 one another. While philosophy split into “continental” author studies and
 “analytical” problem solving, psychology evolved into “human resource
 management”, as Jacques Lacan phrased it. Time has now come to reconsider
-t
-heir common ground.
+t heir common ground.
 
 This series builds on the conviction that, to address the complex societal
 and cultural challenges we are facing today, philosophers and psychologists must
-work together. To understand the disruptive and transformative impact of scienc
-e
+work together. To understand the disruptive and transformative impact of scienc e
 and technology in a globalising world, methods and concepts of both philosophy
 PDF-Muster
 LIT Verlag 28/01/19
@@ -174,8 +169,7 @@ and psychology are necessary
 
 as complementary (rather than as incompatible)
 approaches. More specifically, this series aims to contribute to a revitalisation of
-research trad
-itions which evolved in the boundary zone between philosophy and
+research trad itions which evolved in the boundary zone between philosophy and
 psychology and
 still
 
@@ -187,34 +181,24 @@ shifting its focus increasingly
 to the “context of discovery” (where new technologies generate new forms of
 experience and affect the way in which knowledge is actually fabricated),
 an
-assess
-ment of
+assess ment of
 
-the socio
--
-cultural meaning of new technologies requires a detailed
-consideration of their impact on the life
--
-world. We need to re
--
-open the dialogue
+the sociocultural meaning of new technologies requires a detailed
+consideration of their impact on the lifeworld. We need to reopen the dialogue
 between empirical and normative areas of research. A research field such as
 economics, for instance, is not
 
 only about patterns of behaviour and consumer
 choices, but also about responsibility and integrity. In the area of politics and
 governance, the clashes between global economic trends and local identities call
-for a co
-alition
+for a co alition
 
-of social sciences and humanit
-ies approaches. And food production
+of social sciences and humanit ies approaches. And food production
 is not only about health and risks, but also about equity and identity, sustainability
 and global justice.
 
 Special interest will be given to efforts to use “genres of the imagination”
-in coming to terms with the challeng
-es of the present. We are interested in
+in coming to terms with the challeng es of the present. We are interested in
 scholarly publications which see novels, movies, poetry and theatre as
 imaginative laboratories, where emerging societal and technoscientific scenarios
 are probed, enacted and assessed.
@@ -222,17 +206,14 @@ are probed, enacted and assessed.
 This
 monograph
 
-is the first p
-ublication in the series. It envisions a
+is the first p ublication in the series. It envisions a
 psychoanalysis of technoscience, not only by studying science directly, but also
 via “triangulation”,
 i.e.
-by comparing scientific breakthrough
-s
+by comparing scientific breakthrough s
 
 with literary
-highlights, thus fleshing out a “comparative epistemolog
-y” with the help of three
+highlights, thus fleshing out a “comparative epistemolog y” with the help of three
 cases studies: the palaeoanthropology of Eugène Dubois, the conditioning
 experiments of Ivan Pavlov and the vicissitudes of virology as a major twentieth
 century research field.
@@ -251,8 +232,7 @@ I. Psychoanalysis of technoscience: symbolisation, imagination, triangulation
 
 9
 
-Introduction: a di
-agnostic of contemporary technoscience
+Introduction: a di agnostic of contemporary technoscience
 
 ...........................
 
@@ -266,8 +246,7 @@ Why psychoanalysis?
 
 10
 
-The anat
-omy of resistance
+The anat omy of resistance
 
 ................................
 ................................
@@ -306,9 +285,7 @@ Symbolisation and imagination
 
 18
 
-Post
--
-Faustian science
+PostFaustian science
 
 ................................
 ................................
@@ -628,9 +605,7 @@ Salivating Others (bodily secretions as object a)
 
 132
 
-Experimental neurosis as unintended by
--
-product ($)
+Experimental neurosis as unintended byproduct ($)
 
 ................................
 
@@ -700,9 +675,7 @@ Denouement
 
 156
 
-Dignity and de
--
-homunculisation
+Dignity and dehomunculisation
 
 ................................
 ...............................
@@ -785,9 +758,7 @@ X. The cataclysm (emerging collisions)
 
 185
 
-Bio
--
-perversity: the foodscape of Oryx and Crake
+Bioperversity: the foodscape of Oryx and Crake
 
 ................................
 .....
@@ -829,18 +800,15 @@ I.
 
 Psychoanalysis of technoscience:
 
-s
-ymbolisation,
-i
-magination,
+s ymbolisation,
+i magination,
 
 triangulation
 
 Introduction
 : a diagnostic of contemporary technoscience
 
-This volume aims to develop a philosophic
-al
+This volume aims to develop a philosophic al
 diagnostic of the present,
 
 focussing
@@ -863,8 +831,7 @@ of all continental
 philosophers
 .
 For
-Hegel, phil
-osophy
+Hegel, phil osophy
 ’s objective is
 
 to capture the
@@ -911,8 +878,7 @@ legacy of
 Enlightenment,
 
 and
-Michel Foucault (1968/1994), a
-ccording to
+Michel Foucault (1968/1994), a ccording to
 whom
 a diagnostic
 
@@ -926,8 +892,7 @@ formations. This
 same idea (
 that
 
-philosophy should articulate the unconsc
-ious
+philosophy should articulate the unconsc ious
 dimension of technoscience)
 
 was
@@ -935,8 +900,7 @@ also
 a core conviction of the French philosopher
 of science Gaston Bachelard (1884
 -
-1962), one of Foucault’s teacher
-s
+1962), one of Foucault’s teacher s
 
 (
 Foucault
@@ -969,11 +933,9 @@ scientific research, i
 .e. the reliance of scientific
 knowledge practices on precision
 instruments and technological contrivances, arguing that science is a
-“phénoménotechnique”, devoted to producing, manipulating and a
-nalysing
+“phénoménotechnique”, devoted to producing, manipulating and a nalysing
 laboratory phenomena (
-emer
-ging in vitro
+emer ging in vitro
 ), rather than exploring
 
 lifeworld
@@ -983,8 +945,7 @@ technoscience
 conveys the insight that
 science and technology are intimately connected, that
 scientific knowledge
-requires a technological infrastructure to operate, that sci
-ence
+requires a technological infrastructure to operate, that sci ence
 produces
 
 and
@@ -992,21 +953,17 @@ is
 produced
 
 by technology, and vice versa, not only upstream (in the laboratory
-world), but also downstream, where technoscience enters the socio
--
-cultural
+world), but also downstream, where technoscience enters the sociocultural
 lifeworld
 of everyday existence. I
-n the modern world, technoscience has b
-ecome
+n the modern world, technoscience has b ecome
 ubiquitous and pervasive (Zwart 2010)
 .
 This chapter introduces
 psychoanalysis
 of
 
-techno
-science
+techno science
 
 as a subbranch of continental philosophy of science
 ,
@@ -1027,8 +984,7 @@ term
 
 but
 now
-refer
-s
+refer s
 
 to a tradition of authors whose oeuvres reflect a certain
 family likeness, both conceptually and stylistically, and who (notwithstanding
@@ -1037,8 +993,7 @@ family likeness, both conceptually and stylistically, and who (notwithstanding
 
 Das was ist zu begreifen, ist die Aufgabe der Philosophie … [Sie ist] ihre Zeit in
 Gedanken erfasst
-(Georg Wilhelm Friedrich Hege
-l
+(Georg Wilhelm Friedrich Hege l
 
 1821/1970, p. 26)
 
@@ -1049,16 +1004,13 @@ Symbolisation and Imagination
 
 10
 
-multiple differences and d
-isagreements) inhabit a common intellectual landscape
+multiple differences and d isagreements) inhabit a common intellectual landscape
 (
 Critchley 2001;
 Gutting 2005;
 Glendinning 2006;
 Zwart, Landeweerd &
-Lemmens 2016). Rather than seeing philosophy as a purely academic arm
--
-chair
+Lemmens 2016). Rather than seeing philosophy as a purely academic armchair
 endeavour, continental thinkers tend to see themselves as
 
 engaged scholars, and
@@ -1067,9 +1019,7 @@ philosophy as an interactive and dialogical research practice, conducted
 in close
 interaction with the
 
-socio
--
-cultural ambiance.
+sociocultural ambiance.
 
 C
 ontinental philosophers share the conviction
@@ -1088,42 +1038,31 @@ or genres of the imagination (art, literature, drama, music,
 
 etc.)
 . Furthermore
-, te
-chnoscience (as a form of world
+, te chnoscience (as a form of world
 disclosure) is seen as
-profoundly historical, expressing and reflecting the zeitgeist of an epoch, co
--
-evolving with other socio
--
-cultural developments and contributing to a particular
+profoundly historical, expressing and reflecting the zeitgeist of an epoch, coevolving with other sociocultural developments and contributing to a particular
 style of thinking.
 
 Also, continental philosophers tend to see technoscience as a
 transformative practice: not only exploring, but drastically transforming the
 world as well. And continental philosophers tend to see their own research
-practice as a diagno
-stic
+practice as a diagno stic
 
 of the present,
 
-against the backdrop of a broader tempora
-l
+against the backdrop of a broader tempora l
 horizon, so that an assessment
 
 of the here and now inevitably involves an
 anamnesis of the past and a prognostic of the future. Finally,
 continental
 philosophy
-see
-s
+see s
 
 the present as an epoch of profound disruption,
 
 of political and
-techno
--
-scientific change: a me
-taphysical mutation.
+technoscientific change: a me taphysical mutation.
 It
 not only
 aims
@@ -1136,8 +1075,7 @@ Socratic midwife
 
 Let this suffice as a
 provisional
-characteri
-sation
+characteri sation
 .
 The
 next
@@ -1154,45 +1092,34 @@ According to Freud’s famous definition (1922/1940), psychoanalysis is
 :
 
 (a) a
-method for in
-vestigating psychic processes;
+method for in vestigating psychic processes;
 
 (b) a method for treating neurotic
 symptoms
 ;
 
-and (c) a meta
--
-psychological anthropology.
+and (c) a metapsychological anthropology.
 P
 sychoanalysis of
-techno
-science
+techno science
 belongs to the third category
 and falls under
 what Freud refers to
-as “non
--
-medical a
-pplications” of psychoanalysis.
+as “nonmedical a pplications” of psychoanalysis.
 
 What
 is
 
 psychoanalysis of technoscience?
 First of all,
-psychoan
-alysis
+psychoan alysis
 submits
-c
-ontemporary technoscientific discourse
+c ontemporary technoscientific discourse
 to a
 symptomatic reading,
 analysing it
 with
-evenly
--
-poised attention
+evenlypoised attention
 
 and from an
 oblique perspective
@@ -1205,8 +1132,7 @@ primarily
 interested in protons, genes or galaxies
 ,
 but rather
-in the ways in which the
-se
+in the ways in which the se
 
 are disclosed and discussed
 ,
@@ -1215,8 +1141,7 @@ focussing on
 the
 symptomatic terms,
 the
-metapho
-rs and paradoxes at work in technoscientific
+metapho rs and paradoxes at work in technoscientific
 
 discourse
 .
@@ -1224,8 +1149,7 @@ discourse
 S
 ymptomatic features thus
 
-encounter
-ed
+encounter ed
 
 may reflect instances of
 inhibition or resistance
@@ -1256,9 +1180,7 @@ by curiosity
 
 or
 
-world
--
-openness (as is traditionally supposed), but first and
+worldopenness (as is traditionally supposed), but first and
 foremost by resistance
 . Human
 
@@ -1285,8 +1207,7 @@ mechanisms of defence
 
 denial
 )
-. In other words, th
-e
+. In other words, th e
 knowing subject is hampered
 
 by
@@ -1299,15 +1220,13 @@ epistemic
 desire
 .
 
-This also applies to n
-ormal standardised
+This also applies to n ormal standardised
 
 research practices:
 psychoanalytically speaking, they tend to be
 
 inhibited and constrained. In normal
-science, the input from outside that is allowed to enter the knowledge syst
-em is
+science, the input from outside that is allowed to enter the knowledge syst em is
 filtered. Only small samples of reality are
 able
 to enter laboratories
@@ -1318,8 +1237,7 @@ here are moments in the history of science
 , however,
 
 when
-in
-hibitions are suddenly overcome.
+in hibitions are suddenly overcome.
 
 These epistemic events, these moments of truth,
 
@@ -1335,26 +1253,21 @@ third methodological principle therefore
 is the
 
 focus on
-beginning
-s,
+beginning s,
 on
 
-moment
-s of commencement,
+moment s of commencement,
 on the birth of a new paradigm
 
 (Zwart 2000)
 ,
 on
 
-primal scene
-s
+primal scene s
 
-or primal event
-s
+or primal event s
 :
-dawn
-s
+dawn s
 
 of day when resistance is suddenly broken
 and
@@ -1363,27 +1276,21 @@ the desire to know
 
 suddenly
 erupts and
-thrive
-s
+thrive s
 ,
 so that
 , for a brief moment,
 
-the world appe
-ars in a new light. This may give rise to a new way of doing
+the world appe ars in a new light. This may give rise to a new way of doing
 science
 , a new way of looking at
 
-and inter
--
-acting
+and interacting
 
-with th
-e world:
+with th e world:
 
 an
-epistemological rupture. For modern science, primal scenes are con
-nected with
+epistemological rupture. For modern science, primal scenes are con nected with
 revolutionary initiatives, initiating new knowledge practices and
 associated with
 scientific
@@ -1398,15 +1305,13 @@ Newton
 , Mendel, etc.
 
 As Goethe
-phra
-ses it in
+phra ses it in
 Faust
 :
 Im Anfang war die Tat
 .
 
-A fin
-al methodological principle can
+A fin al methodological principle can
 
 be referred to as triangulation
 
@@ -1426,10 +1331,8 @@ of science
 
 We must confront scientific discourse
 
-with an alternati
-ve viewpoint. If
-techno
-scientific
+with an alternati ve viewpoint. If
+techno scientific
 research practices
 
 are driven by
@@ -1439,8 +1342,7 @@ bring these subliminal
 mechanisms to the fore
 ? To do this,
 
-techno
-scientific
+techno scientific
 
 discourse must be
 exposed to
@@ -1451,40 +1353,31 @@ as Freud
 (1900/1942, p. 541)
 
 formulated it. In order to trace
-unconscious motive
-s and
+unconscious motive s and
 inhibitions
 ,
 a therapist may consult a patient’s drawings or dreams
 .
 A
-psychoanalysis of technosci
-ence
+psychoanalysis of technosci ence
 likewise
 requires
 
 an exercise
 
 in
-triangulatio
-n
+triangulatio n
 .
 T
-he
-se
+he se
 
-contrasting scene
-s
+contrasting scene s
 
 may
 
 be provided by novels. For instance, if we want to
 understand
-fin
--
-de
--
-siècle palaeoanthropology and its
+findesiècle palaeoanthropology and its
 
 desire
 to find the “missing
@@ -1495,8 +1388,7 @@ of triangulation
 requires us to consult novels
 about missing links. And if we want to understand the desire to control the
 physiology of an organism via conditioning, our methodological principle
-requires us to consult novels about conditioning. Triangulat
-ion
+requires us to consult novels about conditioning. Triangulat ion
 entails
 the
 mutual
@@ -1505,16 +1397,13 @@ exposure of
 technoscientific research practices
 
 with imaginative experiments
-conducte
-d by literary authors
+conducte d by literary authors
 .
 
 These
 methodological
 principles
-(evenly
--
-poised
+(evenlypoised
 PDF-Muster
 LIT Verlag 28/01/19
 
@@ -1522,8 +1411,7 @@ Symbolisation and Imagination
 
 12
 
-attention, the focus on resistance and primal scenes and the use of triangulat
-ion)
+attention, the focus on resistance and primal scenes and the use of triangulat ion)
 will now be discussed
 
 in more detail.
@@ -1532,15 +1420,13 @@ The anatomy of resistance
 
 According to Sigmund Freud, the human psyche
 is bent on
-maintain
-ing
+maintain ing
 
 homeostasis. We
 
 are
 reluctant to change and
-unpr
-ecedented challenges are faced
+unpr ecedented challenges are faced
 with the intention to neutralise
 or
 
@@ -1548,85 +1434,61 @@ incorporate
 
 them. W
 hereas traditional
-philosophy emphasises world
--
-openness and curiosity as basic features of human
+philosophy emphasises worldopenness and curiosity as basic features of human
 consciousness
 
 and intentionality
 
-and as starting point
-s
+and as starting point s
 
 for knowledge production,
-psychoanalysis rather emphasises the epistemic role of r
-e
+psychoanalysis rather emphasises the epistemic role of r e
 sistance as a mechanism
 
 of defence. This, Freud argues, is underscored by human anatomy (Freud
 1920/1940). Rather than being open to the world, our bodies protect and
-im
-munise us from the threatening R
+im munise us from the threatening R
 eal. We are covered by protective skin (which
-is covere
-d with artificial protective layers known as cloths), while our sense
+is covere d with artificial protective layers known as cloths), while our sense
 organs are miniature apertures whose primary purpose is to provide protection
 against overstimulation (
 Reizschutz
 ). This tendency of living organisms to
-insulate themselves from the outs
-ide world already applies to micro
--
-organisms,
+insulate themselves from the outs ide world already applies to microorganisms,
 coaxed inside their cell membranes. O
 ur vulnerable bodies
-protec
-t themselves
+protec t themselves
 
 against overstimulation, but this applies to our psyche as well. Protection against
-external stimuli is a life task at least as impor
-tant as sensitivity and receptivity
+external stimuli is a life task at least as impor tant as sensitivity and receptivity
 (Freud
 1920/1940, p.
 
 27). Our sense organs are like little antennae that select
 small samples of exteriority, allowing us to assess minute quantities of input. Our
 primary objective is to safeguard our psychic integrity from intrusive traumas.
-According to Freud, this same me
-chanism explains human reluctance to accept
+According to Freud, this same me chanism explains human reluctance to accept
 new
 
 insights (fairly disconcerting and unsettling at times) produced by
 technoscience. Only small samples of
 
-information can be processed and t
-he
-current tsunami of technoscientific knowledge simply seems too ove
-rwhelming.
+information can be processed and t he
+current tsunami of technoscientific knowledge simply seems too ove rwhelming.
 
 One of the reasons why technoscience invokes resistance is that it may
-endanger our self
--
-image
+endanger our selfimage
 in a rather profound way. According to Freud
 (1917/1947
-), this already applied to low
--
-tech research practices such as
-Copernican astronomy (the helio
-centric universe) and Darwinian evolution
-theory. Both theories, Freud argued, en
-tailed a narcissistic insult because they
+), this already applied to lowtech research practices such as
+Copernican astronomy (the helio centric universe) and Darwinian evolution
+theory. Both theories, Freud argued, en tailed a narcissistic insult because they
 reveal
 
-that we are not as exceptional or central as tradi
-tional worldviews suggest.
+that we are not as exceptional or central as tradi tional worldviews suggest.
 This same tendency, however,
-also applies to high
--
-tech research practices of the
-present, su
-ch as genomics, microbiology or
+also applies to hightech research practices of the
+present, su ch as genomics, microbiology or
 
 brain research.
 C
@@ -1643,46 +1505,34 @@ subjects
 of experience and existence,
 
 by
-eluci
-dating how n
-eural network develop a functionality and responsivity
+eluci dating how n eural network develop a functionality and responsivity
 
 of their
 own,
 beyond our control. Brain research makes the concept of autonomy
 questionable by emphasising the extent to which these networks are responsible
 for processes we ourselves (as
-conscious egos) tend to interpret as decision
--
-making and thinking: processes which prove highly susceptible to
-techno
-scientific manipulation
-, with the help of psycho
--
-pharmaceuticals for
+conscious egos) tend to interpret as decisionmaking and thinking: processes which prove highly susceptible to
+techno scientific manipulation
+, with the help of psychopharmaceuticals for
 PDF-Muster
 LIT Verlag 28/01/19
 Psychoanalysis of Technoscience
 
 13
 
-instance. Or, to take another example, contemporary microbiology, buil
-ding on
-high
--
-tech
+instance. Or, to take another example, contemporary microbiology, buil ding on
+hightech
 contrivances
 , reveals that Planet Earth is first and foremost a microbial
-(rather than a human) planet, and that microbes are largely responsible fo
-r
+(rather than a human) planet, and that microbes are largely responsible fo r
 determining the conditions for
 
 life on
 E
 arth,
 by affecting the qualities of the soil,
-the ocea
-ns, the atmosphere and so forth
+the ocea ns, the atmosphere and so forth
 . Moreover, while humans tend to see
 themselves as autonomous beings (as owners and
 masters of their own
@@ -1697,12 +1547,8 @@ as
 well,
 and
 
-contemporary te
-chnoscience reveals how not only human health and
-well
--
-being, but also human c
-ognition is decidedly nourished
+contemporary te chnoscience reveals how not only human health and
+wellbeing, but also human c ognition is decidedly nourished
 
 by our gut
 microbiota, by the microbiome as a “forgotten organ”, composed of bacteria
@@ -1711,21 +1557,13 @@ microbial “collective unconscious” (Dinan et al 2015).
 
 In other words, contemporary technoscience endorses
 the portrayal of
-human self
--
-determination
+human selfdetermination
 
-as a by
--
-product of physiological, biochemical and
-neurological processes, thus undermining our self
--
-image as autonomous beings.
-As Freud (1917/1947) formulated i
-t,
+as a byproduct of physiological, biochemical and
+neurological processes, thus undermining our selfimage as autonomous beings.
+As Freud (1917/1947) formulated i t,
 contemporary technoscience reveals that
-hum
-an egos cannot be considered
+hum an egos cannot be considered
 masters in their
 
 own house.
@@ -1736,8 +1574,7 @@ speaking, the body (the former servant) has
 emancipated, while
 
 the former master
-(the e
-go)
+(the e go)
 seems
 superfluous
 . As Slavoj
@@ -1746,48 +1583,33 @@ i
 ž
 ek (2006/2009,
 p. 175) phrases it,
-technoscientific contrivances (gadgets) and pharmaceuticals are de
--
-centring
-human self
--
-consciousness “from within”. Instead of influencing human beings
+technoscientific contrivances (gadgets) and pharmaceuticals are decentring
+human selfconsciousness “from within”. Instead of influencing human beings
 via texts and images (via culture
 ),
-pills and gadgets purport to influence bio
--
-molec
-ular
+pills and gadgets purport to influence biomolec ular
 and neurological processes
 more directly. This raises the question how
-to re
--
-affirm human agency a
-nd responsibility in an
+to reaffirm human agency a nd responsibility in an
 
 era of technoscience
 .
 
 A
 
-typical response to the challenges coming from technoscie
-nce is
+typical response to the challenges coming from technoscie nce is
 discontent, a basic mood
 
 discussed by
-Fre
-ud as “discontent in civilisation” (Freud
+Fre ud as “discontent in civilisation” (Freud
 1930/1948). Discontent in technoscience is a paradoxical phenomenon. On the
 one hand,
-technoscience is one of the techniques employ
-ed to counteract
+technoscience is one of the techniques employ ed to counteract
 discontent
 , to satisfy
 
 desires, replacing the natural environment
-with a techno
--
-scientific utopia in which natural restrictions are overcome, while
+with a technoscientific utopia in which natural restrictions are overcome, while
 human
 embodiment is
 
@@ -1795,46 +1617,32 @@ drastically optimised and upgraded, eventually transforming
 ourselves into “prosthesis
 
 gods”: a prospect which is bound to elicit a mixed
-response of enth
-usiasm and unease (Freud 1930/1948, cf. Zwart 2017b). In other
-words, technoscience is one of the techniques (besides self
--
-intoxication, pleasure
--
-seeking, artistic creativity, etc.) employed
+response of enth usiasm and unease (Freud 1930/1948, cf. Zwart 2017b). In other
+words, technoscience is one of the techniques (besides selfintoxication, pleasureseeking, artistic creativity, etc.) employed
 to make
 human existence more
-comfortable and less demanding. At t
-he same time, it is clear that technological
+comfortable and less demanding. At t he same time, it is clear that technological
 innovations entail
 (often quite taxing)
-cha
-llenges of their own
+cha llenges of their own
 . Therefore, rather
 than being applauded and endorsed, technoscience may give
 rise to technophobia,
 to
 nostalgic longing
 
-for a pre
--
-technological, more natural and pastoral past: the
+for a pretechnological, more natural and pastoral past: the
 desire to return to (or revivify) a lost, ancestral world (Lacan
 1959
 -
 1960/1986, p.
 107
-). Instead of servin
-g us, technological gadgets
-increasingly dominate our da
-ily
+). Instead of servin g us, technological gadgets
+increasingly dominate our da ily
 lives
-. Instead of guiding u
-s
+. Instead of guiding u s
 to utopia, technoscience may unleash
-self
--
-imposed
+selfimposed
 
 suffering and frustration.
 
@@ -1850,8 +1658,7 @@ maginative laboratories
 
 Another
 methodological principle described above was to focus on beginnings,
-on moments of commencement, on the birt
-h of new paradigms
+on moments of commencement, on the birt h of new paradigms
 , on
 primal
 scenes
@@ -1867,20 +1674,16 @@ Attentat
 ). I
 t is a screen on which phantasies
 
-ar
-e projected
+ar e projected
 and acted out. A primal scene
 
 is basically a myth.
 
-This also applies to primal sce
-nes of
-techno
-science. They are part of the
+This also applies to primal sce nes of
+techno science. They are part of the
 mythology
 of science, involving
-scientific hero
-es. As indicated,
+scientific hero es. As indicated,
 in order to
 analyse them, we must apply a strategy of triangulation, confronting the
 foundational act
@@ -1903,16 +1706,12 @@ provided by
 
 art and
 literature (in the sense
-of belles
--
-lettres).
+of belleslettres).
 
 In
-o
-ther chapters
+o ther chapters
 I will
-focus on literary documents (nov
-els),
+focus on literary documents (nov els),
 but here
 I will use
 a
@@ -1921,27 +1720,21 @@ painting
 as example
 .
 
-Tak
-e
+Tak e
 the introduction of the heliocentric system:
-an importan
-t epistemic
+an importan t epistemic
 event
 ,
-the advent of moder
-n scientific thinking, significantly contributing
+the advent of moder n scientific thinking, significantly contributing
 to
 
-d
-ecentralising
+d ecentralising
 
 the place of
-human
-s in the universe. The
+human s in the universe. The
 
 research strategy adopted
-in t
-his
+in t his
 monograph
 
 is to involve a
@@ -1951,21 +1744,17 @@ as a “third position”,
 
 besides the
 “subject field
-” (psychoa
-nalysis) and the “object field
+” (psychoa nalysis) and the “object field
 ” (in this case: astronomy).
-In order to understand Galileo’s provocative heliocentric innovat
-ion, a
+In order to understand Galileo’s provocative heliocentric innovat ion, a
 psychoanalytic
 approach will develop
-a sideways or obli
-que perspective. T
+a sideways or obli que perspective. T
 his
 can
 
 be done by
-re
-reading Bertolt Brecht’s famous science drama
+re reading Bertolt Brecht’s famous science drama
 Life of Galileo
 
 (1948/1978), for instance,
@@ -1973,37 +1762,31 @@ but here
 
 I will consult
 
-the portrayal of th
-is
+the portrayal of th is
 
 historical
 event by
-Henry
--
-Julien Detouche (
+HenryJulien Detouche (
 painted circa 1900), depicting how Galileo
 demonstrates
 
 his telescope in Venice.
 2
 
-This ar
-t work captures a specific
+This ar t work captures a specific
 
 historical
 moment: Galileo trying to persuade the representatives of the establishment to
 study the
 M
-oon with the hel
-p of
+oon with the hel p of
 a precision instrument:
 
 his
 
 telescope, instead of
 with the naked eye. The location of choice
-for demo
-nstrating this highlight
+for demo nstrating this highlight
 of
 optical technology
 is no coincidence of course
@@ -2015,31 +1798,25 @@ speaking
 establishment (the ancient regime, assembled on the right) act as the “fathers”,
 while the
 M
-oo
-n (the prohibited object,
+oo n (the prohibited object,
 at a safe distance
-, partl
-y visible, hiding
+, partl y visible, hiding
 behind a pillar
 ) represents the
 archetypal mother figure
 . In such a constellation,
-th
-e (extensible) telescope functions
+th e (extensible) telescope functions
 
 as
-a phallic i
-nstrument,
+a phallic i nstrument,
 purporting to bridge
 the gap. A telescope can be made smaller and larger, enabling the development
 of a (hazardous) rapport with the
 
 forbidden but alluring “thing”
 
-loo
-ming in the
-distance. Unprecedented prox
-imity can suddenly be realised.
+loo ming in the
+distance. Unprecedented prox imity can suddenly be realised.
 The
 
 art work
@@ -2048,12 +1825,10 @@ the universe, represented by the metal model
 
 around which the Fathers
 congregate
-) versus t
-he modern view
+) versus t he modern view
 , opened up by optics
 . It is around the
-telescope as an optical contrivance (rather tha
-n around Galileo himself)
+telescope as an optical contrivance (rather tha n around Galileo himself)
 
 that the
 
@@ -2067,17 +1842,12 @@ Psychoanalysis of Technoscience
 
 15
 
-whole scene is centred. The scie
-ntific subject (Galileo)
+whole scene is centred. The scie ntific subject (Galileo)
 
 is
-de
--
-centre
-d by the
+decentre d by the
 technoscientific tool
-. Galileo is staged a
-s
+. Galileo is staged a s
 a
 servant of a new and powerful master:
 modern technology.
@@ -2085,8 +1855,7 @@ modern technology.
 The basic mood of the scene is one of suspicion.
 The
 invitation to glance
-through the telescope (to peer through this optical keyhole into t
-he universe,
+through the telescope (to peer through this optical keyhole into t he universe,
 enabling a close view
 
 of a heavenly body) seems quite appealing.
@@ -2102,8 +1871,7 @@ T
 here is
 reluctance
 
-as well, however: t
-he contrivance may entail an epistemic bias. What
+as well, however: t he contrivance may entail an epistemic bias. What
 are the strengths and weaknesses of the
 naked eye
 
@@ -2113,8 +1881,7 @@ contrivance
 πρῶτον
 
 ψεῦδος
-, th
-e technological bias entailed in
+, th e technological bias entailed in
 telescopes? Will they open up a new
 prolific
 research field
@@ -2123,8 +1890,7 @@ rather prove
 misguiding? Human consciousness was not yet
 familiarised
 with the idea of
-study
-ing the heavens through a telescope.
+study ing the heavens through a telescope.
 
 The painting depicts a
 hazardous
@@ -2140,36 +1906,26 @@ modern astronomy
 .
 
 Galileo
-’s body language s
-uggests
+’s body language s uggests
 
-self
--
-confiden
-ce
+selfconfiden ce
 . The telescope
 enhances his sense of power,
-provides a high
--
-r
-esolution portrayal
+provides a highr esolution portrayal
 ,
 overcoming
 
-the obstacles imposed on science by dista
-nce. Sceptics may argue
+the obstacles imposed on science by dista nce. Sceptics may argue
 
 that the image
 produced by a telescope is technologically mediated and artificial. Strictly
 speaking, the
 new
-ima
-ge is an artefact. Should we trust this optical
+ima ge is an artefact. Should we trust this optical
 novum
 
 rather
-than our o
-wn eyes? Will the
+than our o wn eyes? Will the
 contrivance prove more reliable than
 authoritative
 sources (Aristoteles, Ptolemy, the Bible)
@@ -2183,39 +1939,28 @@ with the world:
 
 the
 telescope versus
-t
-he
+t he
 spherical model.
 
 A psychoanalytic concept applicable
 
 here is the oedipal triangle.
 Galileo’s desire to know is directed
-at the forbidden, inviolab
-le object,
+at the forbidden, inviolab le object,
 
 supposedly beyond his reach. The Fathers have the authority to determine how
 heavenly bodies are to be studied. Galileo
-by
--
-passes
-the obstacle
-s
-impose
-d
+bypasses
+the obstacle s
+impose d
 .
 The
-fin
--
-de
--
-siècle painting
+findesiècle painting
 
 highlights the oedipal
 complex
 
-as a
-n
+as a n
 
 unconscious
 dimension of early modern astronomy
@@ -2228,8 +1973,7 @@ exposure to an art work
 , we notice that
 
 Venice was a
-window into a distant wor
-l
+window into a distant wor l
 d (the Orient, where Ptolemaic astronomy once
 flourished)
 
@@ -2242,8 +1986,7 @@ platform becomes a
 laboratory where conflicting ideas are put to the test.
 P
 sychoanalysis of science
-req
-uires triangulation between
+req uires triangulation between
 a psychoanalytical
 concept
 
@@ -2259,11 +2002,7 @@ scene
 
 (
 a
-fin
--
-de
--
-siècle
+findesiècle
 
 painting).
 
@@ -2278,8 +2017,7 @@ Carl Gustav Jung and Gaston Bachelard on science
 
 Freud, although trained as a scientist,
 wrote psychoanalytic treatises about artists
-(Leonardo, Michel
-angelo,
+(Leonardo, Michel angelo,
 
 Dostoyevsky, Ibsen
 )
@@ -2293,16 +2031,11 @@ or engineer
 .
 
 The
-application of psychoanalysis to twentieth
--
-century scie
-ntific research practices
+application of psychoanalysis to twentiethcentury scie ntific research practices
 gained
 
-more promin
-ence in the work of
-fol
-lowers such as
+more promin ence in the work of
+fol lowers such as
 Carl Gustav
 Jung
 , who
@@ -2312,9 +2045,7 @@ research practices (from alchemy up to quantum physics
 of the self
 
 (
-as exercises in self
--
-formation or
+as exercises in selfformation or
 individuation
 )
 .
@@ -2323,8 +2054,7 @@ While studying
 the
 relationship between alchemy and modern science
 ,
-he focusse
-d
+he focusse d
 
 on the role of
 archetypes and the collective unconscious in scientific discoveries. In his analysis
@@ -2339,21 +2069,17 @@ his
 -
 experience:
 
-the archetypal idea of an inexhaustible sou
-rce of energy
+the archetypal idea of an inexhaustible sou rce of energy
 (fire
 ) at work in nature
 : an overwhelming experience which destroyed his health
 and his career
 .
-Also fam
-o
-u
-s is his analysis
+Also fam o
+u s is his analysis
 of the
 dreams of Nobel laureate
-Wolfgang Pauli, a qu
-antum physicist, but also
+Wolfgang Pauli, a qu antum physicist, but also
 a prolific dreamer
 
 (Jung
@@ -2368,8 +2094,7 @@ Segre
 
 2008
 ). According to Jung, mandalas (archetypes of wholeness) played an
-important role in Pauli’s dream
-life, perhaps to compensate
+important role in Pauli’s dream life, perhaps to compensate
 for
 the disruptive
 impact of quantum physics on established
@@ -2385,8 +2110,7 @@ of
 Gaston Bachelard
 (1884
 -
-1962), a
-ccording to whom
+1962), a ccording to whom
 
 scientific research not only requires
 the
@@ -2401,12 +2125,10 @@ of
 such an
 attitude requires a
 reformation
-, a co
-nversion, an
+, a co nversion, an
 initiation into the
 
-scientific style of thinking, highly dependen
-t on technicity
+scientific style of thinking, highly dependen t on technicity
 
 (Bachelard 1947, p. 23). This
 reformation concurs with what Bachelard refers to
@@ -2416,29 +2138,16 @@ epistemological rupture
 .
 B
 eing in science requires an interminable process
-of self
--
-analysis. Researchers must be willing to subject themselves to a
-permanent regime of “self
--
-su
-rveillance” (1949/1962, p. 7) and
+of selfanalysis. Researchers must be willing to subject themselves to a
+permanent regime of “selfsu rveillance” (1949/1962, p. 7) and
 
-“auto
--
-psychoanalys
-is” (1949/1962, p. 14)
-to rid th
-emselves of epistemic
+“autopsychoanalys is” (1949/1962, p. 14)
+to rid th emselves of epistemic
 obstacles
-, pre
--
-scientific con
-cepts and misleading ideas. The
+, prescientific con cepts and misleading ideas. The
 
 conversion can only be brought
-about in a practical manner, via sustained laborat
-ory labour (1947, p. 50):
+about in a practical manner, via sustained laborat ory labour (1947, p. 50):
 research as therapy,
 as
 a practice of the self. Scientists
@@ -2446,27 +2155,20 @@ a practice of the self. Scientists
 commit
 
 themselves to a
-proces
-s of “perm
-anent catharsis” (1947, p. 18)
+proces s of “perm anent catharsis” (1947, p. 18)
 .
 
 At the same time, to play
 his role as a psychoanalyst of science (not of
-individual researchers, but of scientific disco
-urse as such), Bachelard decided
+individual researchers, but of scientific disco urse as such), Bachelard decided
 
 to
-analyse these pre
--
-scientific conceptions from a psychoana
-lytic (
+analyse these prescientific conceptions from a psychoana lytic (
 notably
 Jungian)
 perspective. According to Bachelard,
 
-these preconc
-eptions
+these preconc eptions
 reflect
 
 archetypal
@@ -2480,13 +2182,11 @@ became
 
 so
 deeply
-in
-volved in this type of research
+in volved in this type of research
 , however,
 
 that his analysis of
-archetypal i
-mages became
+archetypal i mages became
 
 a research program in its own right,
 compensating
@@ -2501,25 +2201,21 @@ systematic
 analysis of the “iconoclastic” tendencies of contemporary
 technoscience. Archetypal conceptions
 
-(such as the Mother Earth archet
-ype
+(such as the Mother Earth archet ype
 or
 the idea
 of fire as a primordial principle)
 continue to inform
 not only
 genres of
-the imagination (novels, poetr
-y and the like), but also
+the imagination (novels, poetr y and the like), but also
 scientific discourse
 as such
 (albeit
 
 subliminally).
 In order to study the archetypes, Bachelard argues,
-psychoanalysts of scien
-ce should not only focus on scienti
-fic research practices
+psychoanalysts of scien ce should not only focus on scienti fic research practices
 as such
 
 but
@@ -2531,19 +2227,14 @@ a different
 stage,
 notably
 the world of literature (
-po
-e
+po e
 try and novels
 ). These
 
 are to science
-what dreams and day
--
-dreaming (
-rever
-ie
-) are to ration
-al consciousness. They
+what dreams and daydreaming (
+rever ie
+) are to ration al consciousness. They
 serve as windows providing access to the unconscious
 ,
 the alchemical
@@ -2553,9 +2244,7 @@ will to know
 
 Two forms of thinking
 
-Bachela
-rd discern
-s
+Bachela rd discern s
 
 a tension
 between the
@@ -2567,11 +2256,9 @@ to replace images by texts,
 words, numbers, concepts, mathematical symbols and
 the like) and the fact that science is a prolific producer of archetypal images in its
 own right (the double helix, the Big Bang, etc.).
-This tens
-ion
+This tens ion
 
-bet
-ween
+bet ween
 iconoclasm
 and imagination
 reflects a basic distinction between two types of thinking, which
@@ -2612,8 +2299,7 @@ symbol
 an alphabet of symbols, bearing a human signature.
 
 This line of reasoning is taken up by Carl Gustav Jung (1911/1968), who
-distinguishes between imaginative and rat
-ional thinking. While imaginative
+distinguishes between imaginative and rat ional thinking. While imaginative
 thinking builds on mental images (Aristotle’s
 φαντάσ
 µ
@@ -2624,30 +2310,22 @@ directed by concepts, words and logic (Aristotle’s
 µµ
 ατα
 ). And whereas
-imaginative thinking is non
--
-directed, spontaneous and free
--
-floating,
+imaginative thinking is nondirected, spontaneous and freefloating,
 
 rational
 thinking operates with the help of linguistic, logical and mathematical operators
-and is therefore more demanding and exhausting. Moreover, whereas im
-aginative
+and is therefore more demanding and exhausting. Moreover, whereas im aginative
 thinking is the older
 
 form of thinking (reflecting the spontaneous functioning of
 the
-human mind), rat
-ional thinking is a more
+human mind), rat ional thinking is a more
 
 recent acquisition
 . Important
 intellectual developments, ranging from the invention of reading and writing via
-scholasticism up to modern science, have contrib
-uted to its current dominance,
-b
-ut logical thinking has
+scholasticism up to modern science, have contrib uted to its current dominance,
+b ut logical thinking has
 never completely replaced or erased
 its imaginative rival
 ,
@@ -2656,14 +2334,11 @@ between the imaginary and the symbolic
 
 continues to exist.
 This
-disti
-nction recurs
-in the wri
-tings of Bachelard, who distinguishes
+disti nction recurs
+in the wri tings of Bachelard, who distinguishes
 
 archetypal
-im
-ages guiding the imagination from
+im ages guiding the imagination from
 
 the iconoclastic tendencies of
 technoscience.
@@ -2674,8 +2349,7 @@ two types of
 thinking resurges in the work
 
 of the
-French forensic psychiatrist and psychoana
-lyst Jacques Lacan (1901
+French forensic psychiatrist and psychoana lyst Jacques Lacan (1901
 -
 1981)
 as the
@@ -2700,8 +2374,7 @@ symbolic
 γρά
 µµ
 ατα
-). Accordin
-g to Lacan, technoscience
+). Accordin g to Lacan, technoscience
 initiates
 
 processes of symbolisation,
@@ -2711,18 +2384,15 @@ imaginary
 realm (of
 images, visual shapes, etc.) to the
 symbolic
-realm (the t
-echnoscientific world of
+realm (the t echnoscientific world of
 measurements, numbers, nomenclature, chemical formulae, mathematical
 operations, methodological standards, ethical requirements, etc.). Technoscience
 amounts to a
 symbolisation of the real
 . Whenever technoscientific processes of
-sy
-mbolisation falter, however, there is a tendency to revert to imaginary
+sy mbolisation falter, however, there is a tendency to revert to imaginary
 explanations. An example of this would be, for instance, the tendency to attribute
-certain features of living organis
-ms to a mysterious life force, a
+certain features of living organis ms to a mysterious life force, a
 
 spark of life (i.e.
 vitalism) which, from a Jungian perspective, echoes the idea of the universal
@@ -2731,8 +2401,7 @@ source of energy (fire, grace, mana, etc.)
 already mentioned above. W
 hereas Jung
 sees archetypes as the basic structural components of the collective
-unconsc
-ious,
+unconsc ious,
 however,
 Lacan (1955/1966)
 emphasises the
@@ -2768,8 +2437,7 @@ the latter should be credited for having
 systematically explored the
 imaginary realm. A
 lthough Jung is more focussed
-on th
-e imaginary and
+on th e imaginary and
 
 Lacan
 on the symbolic, both
@@ -2785,8 +2453,7 @@ of thinking” (Jung), two
 
 Symbolisation and imagination
 
-Technoscience can b
-e defined as the
+Technoscience can b e defined as the
 symbolisation of the real
 , as an effort to
 capture the
@@ -2809,23 +2476,17 @@ These two axes (the axis of
 iconoclastic science
 
 versus the axis of
-activ
-e
+activ e
 imagination
 ) take us in juxtaposed directions (Bachelard 1943, p. 15), but
 psychoanalysis sees them as complementary dimensions (Bachelard 1938/1949,
 p. 10) and even consciously employs them in the context of triangulation. In the
-case of Bachelard, a tw
-ofold oeuvre unfold
-ed
+case of Bachelard, a tw ofold oeuvre unfold ed
 
-in which two sub
--
-oeuvres stand out
+in which two suboeuvres stand out
 as clearly distinguishable discursive pathways, devoted to the symbolic and the
 imaginary respectively. In the case of Jung and Lacan, however, one could argue
-that, whereas Jung’s oeuvre is a system
-atic exploration of the imaginary, Lacan
+that, whereas Jung’s oeuvre is a system atic exploration of the imaginary, Lacan
 consistently focusses on the symbolic (on technoscience as a symbolisation of the
 real). Notwithstanding the divergence discernible between both oeuvres, they will
 PDF-Muster
@@ -2853,15 +2514,10 @@ Freud, Jung, Bachelard and Lacan
 ,
 
 two
-German
--
-speaking and two French
--
-speaking authors
+Germanspeaking and two Frenchspeaking authors
 .
 While
-Bac
-helard is closer to
+Bac helard is closer to
 Jung, Lacan
 returns to
 Freud:
@@ -2874,8 +2530,7 @@ Jung
 
 Lacan
 
-And w
-hile this (introductory) chapter
+And w hile this (introductory) chapter
 entailed
 a
 short discussion of
@@ -2901,8 +2556,7 @@ the strategy of triangulation
 , for instance. I
 n order
 to
-understand the discourse o
-f neurotic patients
+understand the discourse o f neurotic patients
 ,
 Freud already
 reverted to
@@ -2912,43 +2566,30 @@ comparing
 the stories
 of
 his patients with
-fin
--
-de
--
-siècle c
-ultural
+findesiècle c ultural
 anthropology
-, eventually even fabricating a
-n anthropological
+, eventually even fabricating a n anthropological
 
 myth
 
 of his own
 :
-the primordial killin
-g of the father (Freud 1912/1940).
+the primordial killin g of the father (Freud 1912/1940).
 But he also published
 analyses of literary documents by Shakespeare, Ibsen, Dostoyevsky and others,
 emphasising the
 congruence between
 real and
-liter
-ary case histories
+liter ary case histories
 . According
-to Freud, a remarkable affinity can be dis
-cerned between poets (
+to Freud, a remarkable affinity can be dis cerned between poets (
 literary authors)
 and psychoanalysts (
 1908/1941
-). They use the same sources (dreams, day
--
-dreams, symptoms, anxieties, etc.), produce similar insights and allow others
-(patients, c
-haracters) to take the floor to act and speak. P
+). They use the same sources (dreams, daydreams, symptoms, anxieties, etc.), produce similar insights and allow others
+(patients, c haracters) to take the floor to act and speak. P
 oets
-ma
-ke similar
+ma ke similar
 discoveries and may
 
 even claim priority as “precursors” of psychoanalysis.
@@ -2956,8 +2597,7 @@ even claim priority as “precursors” of psychoanalysis.
 
 Jung explored
 
-th
-e guiding visions
+th e guiding visions
 
 of prominent researchers such as
 
@@ -2972,25 +2612,21 @@ their dreams by drawing them
 ,
 dreams and drawings,
 
-psychoanalysi
-s offers
+psychoanalysi s offers
 a methodological Ersatz, namely
 genres of the imagination, notably novels, as opportunities for triangulation. Not
-only the dreams of patients, also the da
-ydreams and reveries of literary authors
+only the dreams of patients, also the da ydreams and reveries of literary authors
 may function as windows into unconscious desires
 . For Jung’s analysis of the
 transition from alchemy to modern science, Goethe’s
 Faust
-was an ind
-ispensable
+was an ind ispensable
 source of insight:
 
 an
 opus alchymicum
 
-“from beginning to en
-d”
+“from beginning to en d”
 (1968, p. 36, p.
 
 3
@@ -3001,12 +2637,13 @@ Freudians
 , as if, in order to enlist
 , distancing oneself from Jung
 
-wa
-s obligatory. The
+wa s obligatory. The
 campaign against Jung, launched by Freud himself, is uncannily reminiscent of show
-trials used by communist organisations to pub
-licly denounce former comrades as
-representatives
+trials used by communist organisations to pub licly denounce former comrades as
+representatives of evil. This monograph evidently follows a different path, focussing on
+the valuable contributions made by Jung to a psychoanalytical understanding of
+techno science, both before and after his breach with F
+reud.
 
 <!-- PDF text truncated by scrapem max_pdf_chars. -->
 

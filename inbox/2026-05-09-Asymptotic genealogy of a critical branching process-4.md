@@ -1,0 +1,370 @@
+---
+source: "https://arxiv.org/abs/math/0503577v1"
+title: "Asymptotic genealogy of a critical branching process"
+author: "Lea Popovic"
+year: "2005"
+publication: "arXiv preprint / math.PR"
+download: "https://arxiv.org/pdf/math/0503577v1"
+pdf: "https://arxiv.org/pdf/math/0503577v1"
+captured_at: "2026-05-09T12:46:21Z"
+updated_at: "2026-05-09T12:46:21Z"
+capture_tool: "scrapem"
+source_name: "arxiv"
+keyword: "ニーチェ"
+query: "Nietzsche genealogy of morals"
+tags:
+  - "近代思想"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# Asymptotic genealogy of a critical branching process
+
+- 著者: Lea Popovic
+- 年: 2005
+- 掲載情報: arXiv preprint / math.PR
+- 情報源: [arxiv](https://arxiv.org/abs/math/0503577v1)
+- ダウンロード: https://arxiv.org/pdf/math/0503577v1
+- PDF: https://arxiv.org/pdf/math/0503577v1
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ニーチェ-現代研究動向|ニーチェ-現代研究動向]]
+- キーワード: [[ニーチェ]]
+- 関連分野: [[近代思想]]
+- 関連分野: [[実存主義]]
+- 関連分野: [[ニヒリズム]]
+- 関連タグ: #近代思想 #実存主義 #ニヒリズム
+
+## Abstract
+
+Consider a continuous-time binary branching process conditioned to have population size n at some time t, and with a chance p for recording each extinct individual in the process. Within the family tree of this process, we consider the smallest subtree containing the genealogy of the extant individuals together with the genealogy of the recorded extinct individuals. We introduce a novel representation of such subtrees in terms of a point-process, and provide asymptotic results on the distribution of this point-process as the number of extant individuals increases. We motivate the study within the scope of a coherent analysis for an a priori model for macroevolution.
+
+## PDF Text
+
+arXiv:math/0503577v1 [math.PR] 25 Mar 2005
+TheAnnalsofAppliedProbability
+2004,Vol.14,No.4,2120–2148
+DOI:
+10.1214/105051604000000486
+c
+InstituteofMathematicalStatistics
+,2004ASYMPTOTICGENEALOGYOFACRITICALBRANCHINGPROCESSByLeaPopovicUniversityofCalifornia,BerkeleyConsideracontinuous-timebinarybranchingprocessconditionedtohavepopulationsizenatsometimet,andwithachancepforrecordingeachextinctindividualintheprocess.Withinthefamilytreeofthisprocess,weconsiderthesmallestsubtreecontainingthegenealogyoftheextantindividualstogetherwiththegenealogyoftherecordedextinctindividuals.Weintroduceanovelrepresentationofsuchsubtreesintermsofapoint-process,andprovideasymptoticresultsonthedistributionofthispoint-processasthenumberofextantindividualsincreases.Wemotivatethestudywithinthescopeofacoherentanalysisforanapriorimodelformacroevolution.1.Introduction.Theuseofstochasticmodelsinthetheoryofmacroevo-lution(originandextinctionofspecies)hasbeencommonpracticeformanyyearsnow.Stochasticmodelshavebeenusedtorecreatephylogenetictreesofextanttaxafrommoleculardata,andtorecreatethetimeseriesofthepastnumberoftaxafromthefossilrecord.However,onlyafewattemptshavebeenmadetomakethetwoanalysesconsistentwitheachother.Insteadofstudyingdata-motivatedmodels(whicharescientiﬁcallymorerealisticforspeciﬁcapplications),thepurposeofthispaperistostudyapurelyrandommodelthatcanaccommodatesuchacoherentanalysis.Westudyamathe-maticallyfundamentalstochasticmodelwhichallowsforinclusionofboththeextantandthefossiltypesofdatainoneanalysis.Asigniﬁcantinterestinevolutionarybiologyisdevotedtoreconstructingphylogeniesbasedonavailabledataontheextantspecies(ofmolecularorothertype).Theassumptionisthatinthedistantpasttherewasacommonancestorfromwhichtheextantspeciesevolvedaccordingtosome(stochas-tic)evolutionarymodel.Onethentriestoﬁndtheancestralhistory(geneal-ogy)oftheextantspecieswhichoptimizessome“bestﬁt”criterion.Using
+ReceivedMarch2003;revisedNovember2003.
+AMS2000subjectclassiﬁcations.
+Primary60J85;secondary60J65,92D15.Keywordsandphrases.Criticalbranchingprocess,Galton–Watsonprocess,randomtree,pointprocess,Brownianexcursion,genealogy.
+Thisisanelectronicreprintoftheoriginalarticlepublishedbythe
+InstituteofMathematicalStatistics in
+TheAnnalsofAppliedProbability
+,
+2004,Vol.14,No.4,2120–2148
+.Thisreprintdiﬀersfromtheoriginalinpaginationandtypographicdetail.
+1
+2L.POPOVICshapesofsuchphylogenetictreesonethenhopestomakesomeinferenceonthediversiﬁcationpropertiesoftheevolutionaryprocess.Westressherethatthenumberofextantspeciesisgiven,althoughthetimefromtheori-ginoftheevolutionaryprocesstothepresentoftenisinferredfromthedataaswell.Ontheotherhand,inferenceofdiversiﬁcationratesbasedonfossildatamostlymakesuseoftimeseriesanalysesoffossilcounts.Onceagainoneassumesanunderlying(stochastic)evolutionaryprocess,thentriestouseﬂuctuationsinthetimeseriesoffossilcountstomakeinferencesonthediversiﬁcationratesoftheprocess.Forthemostpart,however,onlyasmallfractionofthespeciesareretainedwithinthefossilrecord,withvariationinsamplingratesovertime.Itisoftenhardtoestimatepreciselythepropor-tionofspeciesretainedasfossils,althoughitsvariabilitymaybereasonablycapturedbyconsideringthesamplingratetoberandomaswell.Themotivationforthispaperwastoconsiderastochasticprocesswhichwouldincorporatebothsetsofdatawithinoneevolutionarymodel,andtopresentresultsdescribingthegenealogyofthefossilrecordaswell.Ourbasicpremisesarethegiveninformationonthenumberofextantspecies,theamountoftimefromtheoriginoftheprocesstothepresentandthechanceofspeciestoberetainedinthefossilrecord.Itissubsequentlypossibletorandomizetheamountoftimefromtheorigintothepresentday,aswellasthechanceofbeingretainedinthefossilrecord.Detailsofsuchrandomizationunderareasonablechoiceofpriorscanbefoundin[
+17
+].Themodelweproposeisthecontinuous-timecriticalbranchingprocess.Thereasonsforourchoicearethefollowing.Ifoneistoconsideramodelinwhichextinctionsandspeciationsarerandomwithoutsystematictendenciesforthenumberofspeciestoincreaseordecrease,thenforabranchingprocessthistranslatesintothecriticalityoftheprocess(theaveragenumberofoﬀspringofeachindividualis1).Suchamodelcorrespondstoonegeneralviewinevolutionarybiologythat(exceptformassextinctionsandtheiraftermath)theoverallnumberofspeciesdoesnothaveexponentialgrowthnoranexponentialdecrease.Thefundamentalcriticalbranchingprocessespreviouslyemployedinevo-lutionarymodelshavedrawbacksthatexcludetheiruseinourproposedstudy.ThebasicevolutionmodelistheYuleprocess[
+20
+],theelementarycontinuous-timepurebirthprocess[theprocessstartswithoneindividual,eachindividualgivesbirthtooﬀspringaccordingtoaPoisson(rate1)pro-cess].Onecanclearlynotemploythismodel,asitaprioridoesnotinvolvetheextinctionofspecies,hencedoesnotallowforinclusionofthefossilrecord.Thenextcandidatemodel,whichincludestheextinctionofindi-viduals,isthebasicneutralmodelusedinpopulationgenetics.TheMoranmodel[
+7
+]istheprocessofuniformlyrandomspeciationsandextinctionsofindividualsinapopulationofaﬁxedsize[thetotalnumberofindividualsisaﬁxednumber,eachindividuallivesforanExponential(mean1)lifetime,at
+ASYMPTOTICGENEALOGICALPROCESS3theendofwhichitisreplacedbyanoﬀspringchosenuniformlyatrandomfromthetotalpopulationincludingitself].Onecanconsiderthisprocessashavingpersistedfromadistantpasttothepresent,givingimplicitlyagenealogicaltreeoftheextantindividuals.Asymptoticallyinthetotalpop-ulationsize(withsuitablerescaling)thisgenealogicalprocess(backwardintime)isKingman’scoalescentmodel.Althoughitispossibletomakemod-iﬁcationsofthismodeltoallowfornonconstantpopulationsize[
+11
+],thisunfortunatelyrequiresanaprioriassumptionontheevolutionofthetotalpopulationsizeintime.Weareinterestedinconsideringagroupofspeciesthathavesomecom-monancestorattheirorigin.Thiscorrespondstothepracticeinevolution-arybiologyofconsideringmonophyleticgroups.Inthissense,thecriticalcontinuous-timebinarybranchingprocess,inwhichindividualsliveforanExponential(mean1)timeduringwhichtheyproduceoﬀspringatPois-son(rate1)times,isthenaturalbasicmodelforthegivenpurpose.Wewanttostudythegenealogicalstructureoftheprocessconditionedonitspopu-lationsizeatagiventimet.Bygenealogicalstructurewemeanaparticularsubtreeofthebranchingprocessfamilytree.Weconsideralltheextantin-dividualsattimet,andthesubsetoftheextinctindividualseachhavingindependentchancepofbeingsampledintotherecord.Thegenealogicalsubtreeisthesmallestonecontainingallthecommonancestorsoftheex-tantindividualsandallthesampledextinctindividuals.Weintroduceapoint-processrepresentationofthisgenealogicalsubtree,withaconvenientgraphicalinterpretation,andderiveitslaw.Ourmainresultistheasymp-toticbehaviorofsuchpoint-processesandtheirconnectiontoaconditionedBrownianexcursion.TherelationshipbetweenrandomtreesandBrownianexcursionshasbeenmuchexploredintheliterature.Wenoteonlyasmallselectionthatisdi-rectlyrelevanttotheworkinthispaper.NeveuandPitman[
+14
+,
+15
+]andLeGall[
+12
+]notedtheappearanceofcontinuous-timecriticalbranchingpro-cessesembeddedinthestructureofaBrownianexcursion.Abraham[
+1
+]andLeGall[
+13
+]consideredtheconstructionofaninﬁnitetreewithinaBrownianexcursion,whichisinsomesensealimitofthetreesfromtheworkofNeveuandPitman.TheconvergenceofcriticalbranchingprocessesconditionedontotalpopulationsizetoacanonicaltreewithinaBrownianexcursion(thecontinuumrandomtree)wasintroducedbyAldous[
+3
+].Westateaconnectionoftheasymptoticresultsinthispaperwiththeabove-mentionedresults.SomeaspectsofthegenealogyofcriticalGalton–WatsontreesconditionedonnonextinctionhavebeenstudiedbyDurrett[
+6
+],withouttheuseofran-domtrees.Ithasalsobeenstudiedwithinthecontextofsuperprocesses(see,e.g.,[
+13
+]).Wefurthernotethat,inthebiologicalliterature,modelsofevolutionhavebeenmadeoneachleveloftaxonomy(species,generaetc.)separately,whileitiscertainlydesirabletoinsurehierarchicalconsistency
+4L.POPOVICbetweenthem.Anaturalwaytoextendouranalysistothenexttaxonomiclevelistosuperimposeonthebranchingprocessarandomprocessofmarksdistinguishingsomespeciesasoriginatorsofanewhighertaxon.Incollab-orationwithAldous,wehavepursuedthisstudyin[
+4
+],aspartofalargerprojectoncoherentandconsistentstochasticmodelsformacroevolution.Asalastremark,wenotethat,asimpliedbygeneralconvergenceresultsoncriticalbranchingprocesses([
+3
+]andmanyothers),thesameasymptoticgenealogicalprocessobtainedhereshouldinvariablyholdingeneralforanycriticalbranchingprocesswithﬁniteoﬀspringvariance.Thepaperisstructuredintwoparts.InSection
+2
+wegiveaprecisedef-initionofthegenealogicalpoint-processrepresentingthecommonancestryoftheextantindividualsandprovideitsexactlawandasymptoticbehavior(Theorem
+5
+).Then,inSection
+3
+wegivethedeﬁnitionofthecorrespondinggenealogicalpoint-processthatincludesthesampledextinctindividualsaswell,andweprovideitsexactlawandasymptoticbehavior(Theorem
+9
+).2.Genealogyofextantindividuals.LetTbeacontinuous-timecriticalbranchingprocess,withinitialpopulationsize1.InsuchaprocesseachindividualhasanExponential(rate1)lifetime,inthecourseofwhichitgivesbirthtonewindividualsatPoisson(rate1)times,withalltheindividualslivingandreproducingindependentlyofeachother.LetTt,nbetheprocessTconditionedtohavepopulationsizenattimet.Weshallusethesamenotation(TandTt,n)fortherandomtreeswithedge-lengthsthatarethefamilytreesoftheseprocesses.Wedepictthesefamilytreesasrootedplanartreeswiththefollowingconventions.Eachindividualisrepresentedwithasetofedgeswhosetotallengthisequaltothatindividual’slifetime.Eachbirthtimeofanoﬀspringcorrespondstoabranch-pointintheparent’sedge,withthetotallengthoftheparent’sedgeuntilthebranch-pointequaltotheparent’sageatthistime.Thenewindividualisthenrepresentedbytheedgeontheright,whiletheparentcontinuesintheedgeontheleft.Suchtreesareidentiﬁedbytheirshapeandbythecollectionofthebirthtimesandlifetimesofindividuals.Weshalllabeltheverticesinthetreeinadepth-ﬁrstsearchmanner.AnexampleofarandomtreerealizationofTt,nisshowninFigure
+1
+(a).Remark1.TherandomtreeTwedeﬁnedisalmostthesameasthefamilytreeofacontinuous-timecriticalbinary-branchingGalton–Watsonprocess.Thediﬀerencebetweenthetwoisonlyintheidentitiesofthein-dividuals.If,intheGalton–Watsonprocess,ateachbranchingeventwithtwooﬀspringweweretoimposetheidentiﬁcationoftheleftoﬀspringwithitsparent,theresultingrandomtreewouldbethesameasthefamilytreeofourbranchingprocessT.
+ASYMPTOTICGENEALOGICALPROCESS5
+Fig.1.(a)ArealizationofthetreeTt,nwhosepopulationattimetisn=5;theleavesarelabeledindepth-ﬁrstsearchmanner.(b)ThecontourCTt,nprocessofthetreeTt,n;eachlocalmaximumofCTt,ncorrespondstotheheightofaleafofTt,n.LetCTbethecontourprocessinducedbytherandomtreeT.Thecontourprocessofarootedplanartreeisacontinuousfunctiongivingthedistancefromtherootofaunit-speeddepth-ﬁrstsearchofthetree.Suchaprocessstartsattherootofthetree,traverseseachedgeofthetreeonceupwardandoncedownwardfollowingthedepth-ﬁrstsearchorderoftheverticesandendsbackattherootofthetree.Thecontourprocessconsistsoflinesegmentsofslope+1(therises)andlinesegmentsofslope−1(thefalls).Theunitspeedofthetraversalinsuresthattheheightlevelsintheprocessareequivalenttodistancesfromtherootinthetree,inotherwordstothetimesinthebranchingprocess.ThecontourprocessinducedbytherandomtreeTt,ndepictedinFigure
+1
+(a)isCTt,nshowninFigure
+1
+(b).Foraformaldeﬁnitionofplanartreeswithedgelengths,contourprocessesandtheirmanyusefulpropertiesonecanconsulttherecentlecturenotesofPitman([
+16
+],Section6.1).Letthegenealogyofextantindividualsattimetbedeﬁnedasthesmallestsubtreeofthefamilytreewhichcontainsalltheedgesrepresentingthean-cestryoftheextantindividuals.ThegenealogyofextantindividualsattinTt,nisthusann-leaftree,whichwedenotebyG(Tt,n).Figure
+2
+(a)showsthegenealogicalsubtreeofthetreefromFigure
+1
+(a).Wenowintroduceanovelpoint-processrepresentationofthisgenealogicaltreeG(Tt,n).Thuswegetanobjectthatismuchsimplertoanalyzeandgivesmuchclearerasymptoticresultsthanifmadeintheoriginalspaceoftreeswithedge-lengths.
+6L.POPOVIC
+Fig.2.(a)ThegenealogicaltreeG(Tt,n)oftheextantindividualsattimet.(b)Thepoint-processΠt,nrepresentationofG(Tt,n)[thedottedlinesshowthesimplereconstructionofG(Tt,n)fromitspoint-process].Informally,thinkofformingthispoint-processbytakingtheheightsofthebranchingpointsofthegenealogicaltreeG(Tt,n)intheordertheyhaveasverticesinthetree.Forconvenience(inconsideringasymptoticswithtincreasing)wekeeptrackoftheheightsofthebranchingpointsintermsoftheirdistancesfromlevelt.Theverticalcoordinateofeachbranchingpointisthusitsdistancebelowlevelt,whileitshorizontalcoordinateisjustitsindex.Thepoint-processrepresentationofG(Tt,n)fromFigure
+2
+(a)isshowninFigure
+2
+(b).Formally,letai,1≤i≤n−1,bethetimes(distancetotheroot)ofbranch-pointsinthetreeG(Tt,n),indexedinorderinducedfromthedepth-ﬁrstsearchoftheverticesinTt,n,letti=t−aibetheirdistancebelowleveltandlet`i=i.Definition2.Thegenealogicalpoint-processΠt,nistherandomﬁnitesetΠt,n={(`i,ti):1≤i≤n−1,0<ti<t}.(1)Forpracticalpurposesitismostusefultoexploitthebijectionbetweenarandomtreeanditscontourprocess.Wecanobtainthepoint-processΠt,nequivalentlyfromthecontourprocessCTt,nasfollows.Theithindividual
+ASYMPTOTICGENEALOGICALPROCESS7extantattcorrespondstothepair(Ui,Di):oftheithup-crossingtimeUiofleveltbythecontourprocessCTt,nandoftheithdown-crossingtimeDioflevelt.AprecisedeﬁnitionofUiandDiwillbegivenby(
+3
+)and(
+4
+)intheproofofLemma
+3
+.Thebranch-pointsai,1≤i≤n−1,ofG(Tt,n)thencorrespondtothelevelsoflowestlocalminimaoftheexcursionsofCTt,nbelowlevelt,inotherwordsai=inf{CTt,n(u):Di<u<Ui+1}.WenextusethisobservationtogetherwiththedescriptionofthelawofCTt,ntoobtainthelawofΠt,n.WeﬁrstrecalltheresultofNeveu,PitmanandLeGall,regardingthelawofthecontourprocessCTofanunconditionedrandomtreeT(onecanconsulteither[
+12
+]or[
+14
+]foritsproof).Lemma1.InthecontourprocessCTofacriticalbranchingprocessTthesequenceofrisesandfalls(uptothelastfall)hasthesamedistributionasasequenceofindependentExponential(rate1)variablesstoppedonestepbeforethesumofsuccessiverisesandfallsbecomesnegative(thelastfallisthensettoequalthissum).ThefollowingcorollaryisanimmediateconsequenceofLemma
+1
+andthememorylesspropertyoftheexponentialdistribution.Corollary2.ForthecontourprocessCTtheprocessXT=(CT,slope[CT])isatime-homogeneousstrongMarkovprocessonR+×{+1,−1}stoppedwhenitﬁrstreaches(0,−1).Thelawofthegenealogicalpoint-processΠt,ncannoweasilybederivedusingsomestandardexcursiontheoryofMarkovprocesses.Notethatthecontourprocessofawholeclassofbinarybranchingprocessescanbeshowntobeatime-homogeneousMarkovprocessaswell(see[
+9
+]).Inthefollowinglemmaweshowthatthedistancesofthen−1branchingpointsbelowleveltareindependentandidenticallydistributed,withthesamelawasthatoftheheightofarandomtreeTconditionedonitsheightbeinglessthant.Lemma3.Foranyﬁxedt>0,therandomsetΠt,nisasimplepoint-processon{1,...,n−1}×(0,t)withintensitymeasureνt,n({i}×dτ)=dτ
+(1+τ)21+t t.(2)
+Inotherwords,ti,1≤i≤n−1,arei.i.d.variableson(0,t)withthelaw(
+2
+).Proof.Inshorttheproofreliesonthefollowing.ThecontourprocessCTofanunconditionedtreeTis,bythepreviouscorollary,aMarkovprocessconsidereduntilacertainstoppingtime.Hence,itsexcursionsbelowsomeleveltareindependentandidenticallydistributed.Conditioningofthetree
+8L.POPOVICTt,ntranslatessimplyintermsofitscontourprocess,intoconditioningthisMarkovprocesstohaveexactlyn−1excursionsbelowtuntilthisstoppingtime.Further,forthelawoftheseexcursionsitwillfollow,bythesigninvarianceofthelawofCT,thattheirlawisthesameasthatofacopyofCTconditionedtohaveaheightlessthant.ConsidertheMarkovprocessXT=(CT,slope[CT])untiltheﬁrsthittingtimeU(0,−1)=inf{u≥0:XT(u)=(0,−1)},andconsideritsexcursionsfromthepoint(t,+1)usingthedistributionofCTgivenbyLemma
+1
+.Fori≥1letUibethetimesoftheup-crossingsofleveltbyCT,U0=0,Ui=inf{u>Ui−1:XT(u)=(t,+1)},i≥1.(3)
+ClearlyP(t,+1)[inf{u>0:XT(u)=(t,+1)}>0]=1;hencethesetofallvis-itsto(t,+1)attimes{Ui,i≥1}isdiscrete.TheexcursionsofXTfromleveltare,fori≥1,ei(u)=XT(Ui+u),foru∈[0,Ui+1−Ui),(0,+1),else.Thenumberofvisitsinaninterval[0,u]is`(0)=0,`(u)=sup{i>0:u>Ui},u>0,andthetotalnumberpriortoU(0,−1)isL=sup{i≥0:U(0,−1)>Ui}=`(U(0,−1)).IfnistheP(t,+1)-lawofei,andifE<tisthesetofexcursionsfrom(t,+1)thatreturnto(t,+1)withoutreaching(0,−1),andE>tthesetofallothers,thenitisclearthat(e.g.,[
+19
+],2,SectionVI.50)thefollowinghold:(a)P(t,+1)[L≥i]=[n(E<t)]i−1,i≥1,ande1,e2,...areindependent;(b)giventhatL≥i,thelawofe1,e2,...,ei−1isn(·∩E<t)/n(E<t);(c)giventhatL=i,thelawofeiisn(·∩E>t)/n(E>t).Thismakes{(`(Ui),ei),1≤i≤L−1}asimplepoint-process[notethat`(Ui)=i,and`(∞)=L],withthenumberofpointshavingaGeometric(n(E>t))law,andwitheacheihavingthelawn(·∩E<t)/n(E<t).ThisobservationisparticularlyconvenientforanalyzingthelawofCTt,n.SinceCTt,nisjustCTconditionedonL=n,then−1excursionsofCTt,nbelowtareindependentidenticallydistributedwiththelawn(·∩E<t)/n(E<t).Wenextderivethelawoftheirdepthaimeasuredasdistancefromleveltbyti=t−ai.Foreachup-crossingtimeUioflevelt,wehaveadown-crossingtimeDi=inf{u>Ui:XT(u)=(t,−1)},i≥1.(4)
+Forthevaluesofai,i≥1,weareonlyinterestedinthepartoftheexcursionsfrom(t,+1)belowlevelt,e<t i=ei(Di+u),u∈[0,Ui+1−Di)ande<t i(u)=(0,+1)else.
+ASYMPTOTICGENEALOGICALPROCESS9WenotethattheshiftandreﬂectioninvarianceofthetransitionfunctionofCT,aswellasitsstrongMarkovproperty,appliedtothelawnfore<t iimplythatthelawofe+
+i=t−e<t iisthesameasthelawofXTconditionedtoreturnto(0,−1)beforereaching(t,+1).Consequentlythelawoft−inf(e<t i)=sup(e+
+i)isthesamelawasthatofsup(CT)conditionedtobelessthant.Toexplicitlyexpressthelawofsup(CT)wenowrecallclassicalresultsforthebranchingprocessT(e.g.,[
+8
+],SectionXVII.10.11),bywhichthelawofthepopulationsizeN(t)ofTattimetisgivenbyP[N(t)=0]=t
+1+t;P[N(t)=k]=tk−1
+(1+t)k+1fork≥1.(5)
+HenceP[sup(CT)>t]=P[N(t)>0]=1
+1+tfort≥0.(6)
+NowforCTt,nandforeach1≤i≤n−1wehavethatai=inf(e<t i),andthee<t iareindependentwithe<t i∼n(·∩E<t)/n(E<t);henceeachti=t−aihasthelawP[ti∈dτ]=P[sup(CT)∈dτ|sup(CT)<t](7)=dτ
+(1+τ)21+t tfor0≤τ≤t.AsymptoticsforΠt,ncouldnowbeestablishedwitharoutinecalculation.Insteadofconsideringthisresultinisolation,itisfarmorenaturaltoviewitaspartofthelargerpictureconnectingcriticalbranchingprocessesandBrownianexcursions.LetusrecalltheasymptoticresultsforcriticalGalton–Watsonprocessesconditionedona“large”totalpopulationsize.AresultofAldous([
+3
+],Theorem23)saysthatitscontourprocess(whenappropriatelyrescaled)converges,asthetotalpopulationsizeincreases,toaBrownianexcursion(doubledinheight)conditionedtobeoflength1.Notethat,ifNtotisthetotalpopulationsizeofacriticalGalton–Watsonprocess,andN(tn)itspopulationsizeatsomegiventimetn,thentheevents{Ntot=n}and{N(tn)=n|N(tn)>0}arebotheventsof“small”probabilities.Theﬁrsthasasymptoticchancecn−3/2asn→∞,andfor{tn}n≥1suchthattn/n→tasn→∞thesecondhasasymptoticchancec(t)n−1[
+3
+].WhilethetotalpopulationNtotsizecorrespondstothetotallengthofthecontourprocess,thepopulationsizeN(tn)ataparticulartimetncorrespondstotheoccupationtimeofthecontourprocessatleveltn.Hence,itisnaturaltoexpectthatthecontourprocessofacriticalGalton–Watsonprocesscon-ditionedona“large”populationattimetn(whenappropriatelyrescaled)converges,whentn/n→tasn→∞,toaBrownianexcursionconditionedtohavelocaltime1atlevelt.
+10L.POPOVICWewillshowthefollowing.ConsideraBrownianexcursionconditionedtohavelocaltime1atlevelt,asa“contourprocess”ofaninﬁnitetree(inthesenseofthebijectionbetweencontinuousfunctionsandtreesestablishedin[
+3
+]).Considerdeﬁninga“genealogical”point-processfromthisBrownianexcursion,usingthedepthsofitsexcursionsbelowlevelt,inthesameman-nerasusedindeﬁningΠt,nfromthecontourprocessCTt,n,exceptthattheexcursionsarenowindexedbytheamountoflocaltimeatleveltattheirbeginning.Thestate-spaceofsuchapoint-processcanbesimplydescribed,andweshowthatithasquiteasimplelawaswell.Itistheneasytoshowthatthispoint-processispreciselytheasymptoticprocessofappropriatelyrescaledprocessesΠtn,nasn→∞.Weconstructapoint-processfromaBrownianexcursionconditionedtohavelocaltime1atlevelt,inthesamemannerinwhichΠt,nwasconstructedfromthecontourprocessCTt,n.LetB(u),u≥0,beaBrownianexcursion.Foraﬁxedt>0,let`t(u),u≥0,beitslocaltimeatleveltuptotimeuwiththenormalizationoflocaltimeasone-halftheoccupationdensityrelativetoLebesguemeasure(thenormalizationchoiceisanalogoustotheupcrossings-onlycountforthecontourprocessCT).Letit(`),`≥0,betheinverseprocessof`t,inotherwordsit(`)=inf{u>0:`t(u)>`}.LetBt,1(u),u≥0,thenbetheexcursionBconditionedtohavetotallocaltime`tequalto1,where`t=`t(∞)isthetotallocaltimeatt.Considerexcursionse<t
+`ofBt,1belowleveltindexedbytheamountoflocaltime`atthetimeit(`−)oftheirbeginning.Foreachsuchexcursionleta`beitsinﬁmum,andlett`bethedepthoftheexcursionmeasuredfromlevelt,t`=t−a`.Itˆo’sexcursiontheorytheninsuresthattheprocess{(`,t`):it(`−)6=it(`)}iswelldeﬁned.Definition3.Thecontinuumgenealogicalpoint-processπt,1istheran-domcountablyinﬁnitesetπt,1={(`,t`):it(`−)6=it(`)}.(8)Remark4.Thenameoftheprocesswillbejustiﬁedbyestablishingitasthelimitofgenealogicalpoint-processes.Forthestate-spaceofthecontinuumgenealogicalprocessweintroducethenotionofanicepoint-process([
+3
+],Section2.8).Anicepoint-processon[0,1]×(0,∞)isacountablyinﬁnitesetofpointssuchthatthefollowinghold:
+1.foranyδ>0,[0,1]×[δ,∞)containsonlyﬁnitelymanypoints;2.forany0≤x<y≤1,δ>0,[x,y]×(0,δ)containsatleastonepoint.Wenextshowthatthestate-spaceforπt,1isthesetofnicepoint-processes,andweestablishthelawofthisprocessusingstandardresultsofLevy,ItˆoandWilliamsonexcursiontheory.
+ASYMPTOTICGENEALOGICALPROCESS11Lemma4.Therandomsetπt,1isaPoissonpoint-processon[0,1]×(0,t)withintensitymeasureν(d`×dτ)=d`dτ
+τ2.(9)
+Inparticular,therandomsetπt,1isa.s.anicepoint-process.Proof.Thecruxoftheproofliesinthefollowingobservations.AnunconditionedBrownianexcursionBobservedfromtheﬁrsttimeitreachesleveltisjustt—astandardBrownianmotionobserveduntiltheﬁrsttimeitreachest.TheexcursionsofBbelowleveltarethusthepositiveexcursionsoftheBrownianmotion.Byastandardresult,theprocessofexcursionsofBrownianmotionfrom0,indexedbytheamountoflocaltimeat0atthetimeoftheirbeginning,isaPoissonpoint-processwithintensitymeasured`×n,wherenisItˆo’sexcursionmeasure.OnecanshowthattheconditiononBtohavelocaltime1atleveltisequivalenttotheconditionthattheshiftedBrownianmotionhasallitsexcursionsuntillocaltime1ofheightlowerthantandhasoneexcursionatlocaltime1higherthant.Thisthen,bytheindependencepropertiesofPoissonprocesses,allowsforasimpledescriptionofthepoint-processofthedepthsofexcursionsbelowtofBt,1asaPoissonprocessitself,exceptrestrictedtotheset[0,1]×(0,t).Considerthepathofan(unconditioned)BrownianexcursionBaftertheﬁrsthittingtimeoft,Ut=inf{u≥0:B(u)=t},shiftedandreﬂectedabouttheu-axisβ(u)=t−B(Ut+u)foru≥0.(10)
+Let`β
+0(u),u≥0,bethelocaltimeofβatlevel0uptotimeu,andletiβ
+0(`),`≥0,betheinverseprocessofthislocaltime,inotherwordsiβ
+0(`)=inf{u>0:`β
+0(u)>`}.Thentheprocessβ(u),u≥0,isastandardBrownianmotionstoppedattheﬁrsthittingtimeoft,Uβt=inf{u≥0:β(u)=t}.Next,theexcursionsofβfrom0are(withachangeofsign)preciselytheexcursionsofBfromt,andthelocaltimeprocess`β
+0ofβisequivalenttothelocaltimeprocess`tofB.WeareonlyinterestedintheexcursionsofBbelowt,whicharethepositiveexcursionsofβindexedby`suchthatiβ
+0(`−)6=iβ
+0(`)andsup{β(u):iβ
+0(`−)≤u≤iβ
+0(`)}>0,e+
+`=β(iβ
+0(`−)+u),u∈[0,iβ
+0(`)−iβ
+0(`−))ande+
+`(u)=0else.NotethatwethushavethattheinﬁmumofanexcursionofBbelowttobesimplyinf(e<t
+`)=t−sup(e+
+`).StandardresultsofItˆo’sexcursiontheory(e.g.,[
+19
+],2,SectionVI.47)im-plythatforastandardBrownianmotionβtherandomset{(`,sup(e+
+`)):iβ
+0(`−)6=
+12L.POPOVICiβ
+0(`)}isaPoissonpoint-processonR+×R+withintensitymeasured`dτ/τ2(recallourchoiceforthenormalizationoflocaltime).NowletL=inf{`≥0:sup(e+
+`)≥t)}.Thenstopping`β
+0atthehittingtimeLisequivalenttostoppingβatitshittingtimeUβt.LetπtbearandomsetdeﬁnedfromtheunconditionedBrownianexcursionB,inthesamemannerinwhichwedeﬁnedπt,1fromaconditionedBrownianexcursionBt,1.Then,usingtherelationship(
+10
+)ofBandβ,weobservethatπtisequivalenttoarestrictionof{(`,sup(e+
+`)):iβ
+0(`−)6=iβ
+0(`)}ontherandomset[0,L]×(0,t).ThePoissonpoint-processdescriptionof{(`,sup(e+
+`)):iβ
+0(`−)6=iβ
+0(`)}nowimpliesthatπtisaPoissonpoint-processonR+×R+withintensitymeasured`dτ/τ2restrictedtotherandomset[0,L]×(0,t).Next,notethatthecondition{`t=1}forBisequivalenttothecondition{`β
+0(Uβt)=1}forβ,whichisfurtherequivalenttothecondition{L=1}forπt.Wehavethusestablishedthatπt,1d=πt|{L=1}.Further,thecondition{L=1}onπtisequivalenttotheconditionthatπthasnopointsin[0,1)×[t,∞)andhasapointin{1}×[t,∞).However,sinceπtisPoisson,independenceofPoissonrandommeasuresondisjointsetsimpliesthatconditioningπton{L=1}willnotalteritslawontheset[0,1]×(0,t).However,sinceπt,1issupportedpreciselyon[0,1]×(0,t),theaboveresultstogetherimplythatπt,1isaPoissonpoint-processon[0,1]×(0,t)withintensitymeasured`dτ/τ2.Itisnoweasytoseefromtheintensitymeasureofπt,1thatitsrealizationsarea.s.nicepoint-processes,namely:(a)foranyδ>0,RR[0,1]×[δ,∞)d`dτ/τ2=1/δ<∞;(b)forany0≤x<y≤1,andδ>0,RR[x,y]×(0,δ)d`dτ/τ2=(y−x)·∞.Also,sinceπt,1isPoisson,ﬁnitenessofitsintensitymeasureon[0,1]×[δ,∞)impliesthatithasa.s.onlyﬁnitelymanypointsintheset[0,1]×[δ,∞),whileinﬁnitenessofitsintensitymeasureon[x,y]×(0,δ)impliesthatithasa.s.atleastonepointontheset[x,y]×(0,δ).Havingthusobtainedthedescriptionofthecontinuumgenealogicalpoint-processinducedbyaconditionedBrownianexcursion,itisnowasimpletasktoconﬁrmthatitindeedarisesasthelimitofgenealogicalprocesses.TherightrescalingforTt,nistospeedupthetimebynandtoassignmassn−1toeachextantindividual,whichimpliestheappropriaterescalingofeachcoordinateofΠt,nbyn−1.Wehencedeﬁnetherescaledgenealogicalpoint-processasn−1Πt,n={(n−1`i,n−1ti):(`i,ti)∈Πt,n}(11)
+andestablishitsasymptoticbehaviorasn→∞.
+ASYMPTOTICGENEALOGICALPROCESS13Theorem5.Forany{tn>0}n≥1suchthattn/n−→n→∞twehaven−1Πtn,nd=⇒n→∞πt,1.Remark5.Thenotationd=⇒isusedtomeanweakconvergenceofprocesses.ProofofTheorem5.TheproofofthetheoremisajustconsequenceofthefactthatweakconvergenceofPoissonpoint-processesfollowsfromtheweakconvergenceoftheirintensitymeasures.ByLemma
+3
+andtherescaling(
+11
+)wehavethatn−1Πtn,nisasimplepoint-processon{1/n,...,1−1/n}×(0,tn/n)withintensitymeasure1
+nn−1Xi=1δ{i/n}(`)ndτ
+(1+nτ)21+tn tn.(12)
+If{tn}n≥1issuchthattn/n→tasn→∞,thenitisclearthatthesup-portsetoftheprocessn−1Πtn,nconvergesto[0,1]×(0,t),thesupportsetoftheprocessπt,1.Itisalsoclearthattheintensitymeasure(
+12
+)con-vergestod`dτ/τ2,which,byLemma
+4
+,istheintensitymeasureofπt,1.Forsimplepoint-processesthisissuﬃcient(e.g.,[
+5
+],Section12.3)toinsureweakconvergenceoftheprocessesn−1Πtn,ntoaPoissonpoint-processon[0,1]×(0,t)withintensitymeasured`dτ/τ2.ByLemma
+4
+,wethushavethatn−1Πtn,nd=⇒n→∞πt,1.3.Genealogyofsampledextinctindividuals.Wenowwanttoextendtheanalysisoftheancestryofextantindividualstoincludesomeproportionoftheextinctindividualsaswell.Supposethateachindividualinthepasthasindependentlyhadachancepofappearinginthehistoricalrecord.WeindicatesuchsamplingofextinctindividualsbyputtingastarmarkontheleafofTt,ncorrespondingtotherecordedindividual.Anexampleofarealizationofsuchp-samplingisshowninFigure
+3
+(a),andtheinducedsamplinginthecontourprocessisshowninFigure
+3
+(b).Thegoalistocombinetheinformationonthesampledextinctindividualswithouranalysisoftheancestryoftheextantones.Todosoweextendourearliernotionsofthegenealogyoftheextantindividualsandofthegenealogicalpoint-process.Letthep-sampledhistoryofextantindividualsattimetbedeﬁnedasthesmallestsubtreeofthefamilytreewhichcontainsalltheedgesrepresent-ingtheancestrybothoftheextantindividualsandofallofthep-sampledextinctindividuals.Wedenotethep-sampledhistoryofextantindividuals
+14L.POPOVICattinTt,nbyGp(Tt,n).NotethatbydeﬁnitionGp(Tt,n)containsthege-nealogyG(Tt,n)(whichwouldcorrespondtoa0-sampledhistory).ItisinfactconvenienttothinkofGp(Tt,n)asconsistingofthe“maingenealogi-caltree”G(Tt,n)andacollectionof“p-sampledsubtrees”attachedtothismaintreelinkingwithadditionalbranchestheancestryofp-sampledextinctindividuals.Figure
+4
+(a)showsthep-genealogicalsubtreeofthetreefromFigure
+3
+(a).Wenextextendthenotionofthegenealogicalpoint-processtorepresentthisenrichedp-sampledgenealogy.Weconstructapoint-processrepresentationofGp(Tt,n)sothatitcontainsΠt,nasits“mainpoints.”Informally,thinkofextendingthepoint-processΠt,n[representingG(Tt,n)],byaddingsetsrepresentingthep-sampledsubtreesasfollows.Ateachbranch-pointofthemaintreethereisasetofp-sampledsubtreesattachedtotheedgesofthemaintreeontheleftofthisbranchingpoint,andasetofp-sampledsubtreesattachedontherightofthisbranchingpoint[seeFigure
+4
+(a)].Weassociatewitheachbranch-pointatheightaialeftsetLiandarightsetRi,whichshallrepresentthesesetsofsubtrees.EachsuchLiandRineedstocontainthefollowinginformation:theheightsai,L(j)andai,R(j)atwhichthep-sampledsubtreesgetattachedtotheedgesofthemaintree[asbeforeweshallkeeptrackoftheseheightsasdistancesfromleveltintermsofti,L(j)=t−ai,L(j)andti,R(j)=t−ai,R(j)];andtheshapeofthesubtreesΥi,L(j)andΥi,R(j)themselves(theindexingj≥0onthesubtreesisinducedbyadepth-ﬁrstsearchforwardtothebranch-pointataifortheleftsetsandadepth-ﬁrstsearchbackwardtothebranch-point
+Fig.3.(a)ThetreeTt,nwithp-samplingonitsindividuals(thesampledindividualsarerepresentedby∗’s).(b)Thecontourprocessofthistreewiththesamplingonthecorrespondinglocalmaxima.
+ASYMPTOTICGENEALOGICALPROCESS15ataifortherightsets).Thepoint-processrepresentingthep-sampledge-nealogicaltreefromFigure
+4
+(a)isshowninFigure
+4
+(b).Todescribethelawofthep-subtreesitwillalsobeconvenienttokeeptrackoftheheighthi,L(j)andhi,R(j)ofthesubtreesΥi,L(j)andΥi,R(j).Formally,wedeﬁnethepoint-processofGp(Tt,n)fromthecontourpro-cessCTt,n.Thep-samplingonthetreeisrepresentedbythesamplingofthelocalmaximaofCTt,n.FromthedeﬁnitionofΠt,n,wehavetheheightsofthebranch-pointsofG(Tt,n)tobeai=inf{CTt,n(u):Di<u<Ui+1},occurringinthecontourprocessCTt,nattimesBi=argmin{CTt,n(u):u∈(Di,Ui+1)}.ThesetLi,representingthesetofp-subtreesattachingtotheedgesofG(Tt,n)ontheleftofthebranch-pointai,isdeﬁnedfromthepartoftheexcursionofCTt,nbelowtbeforetimeBi.Inotherwordsif,forXTt,n=(CTt,n,slope[CTt,n]),wedeﬁnee<t i,L(u)=XTt,n(Di+u),u∈[0,Bi−Di),thenLiiscompletelydeﬁnedbye<t i,L.AnalogouslyRiisdeﬁnedfromthepartoftheexcursionofCTt,nbelowtaftertimeBi;inotherwordsifwedeﬁnee<t i,R(u)=XTt,n(Ui+1−u),u∈[0,Ui+1−Bi),
+Fig.4.(a)Thep-sampledtreeGp(Tt,n);the“maintree”(inbold)hasthe“p-sampledsubtrees”attachedtoit.(b)Thepoint-processrepresentationΞp t,nofGp(Tt,n);eachofthe“mainpoints”(largedots)hasanassociatedleftsetandarightsetrepresentingthep-sampledsubtreesattachingtotheleftandrightofthatbranch-point.
+16L.POPOVICthenitiscompletelydeﬁnedbye<t i,R(thesubscriptsLandRreﬂectwhethertheentitiesareinvolvedindeﬁningLiorRi).Notethatthee<t i,LrunsforwarduptotimeBi,wherease<t i,Rrunsbackward.Ontheextremeends,wehavethesetofp-subtreesontheleftoftheﬁrstbranchingpointdeﬁnedbythepartofCTt,npriortotheﬁrstup-crossingtimeU1,e<t
+0,R(u)=XTt,n(U1−u),u∈[0,U1).Analogously,thesetofp-subtreesontherightofthelastbranch-ingpointisdeﬁnedbythepartofCTt,nafterthelastdown-crossingtimeDn,e<t n,L(u)=XTt,n(Dn+u),u∈[0,U(0,−1)−Dn),whereU(0,1)=inf{u≥0:XTt,n=(0,−1)}.TodeﬁnethesetsLiandRiwealsoneedtodeﬁnetheprocessesςi,L(u)=inf0≤v≤ue<t i,L(v),u∈[0,Bi−Di),ςi,R(u)=inf0≤v≤ue<t i,R(v),u∈[0,Ui+1−Bi).ThebijectionbetweenthetreeTt,nanditscontourprocessCTt,nimpliesthattheheightsatwhichthep-subtreesareattachedtotheedgesofthemaintreearepreciselythelevelsofconstancyoftheprocessesςi,Landςi,R.Furthermore,thep-subtreesthemselveshaveastheircontourprocessestheexcursionsofe<t i,L−ςi,Lande<t i,R−ςi,Rabovetheselevelsofconstancy(see[
+16
+]foradetaileddescription).Figure
+5
+showse<t i,Ltogetherwithitsinﬁmumprocessς<ti,L.Wedeﬁneai,L(j),j≥0,tobethesuccessivelevelsofconstancyofςi,L,andletti,L(j)=t−ai,L(j)betheirdistancefromlevelt.Foreachlevelofconstancyai,L(j),lete<t i,L(j)betheexcursionofe<t i,L−ςi,Lthatliesabovethelevelai,L(j).Lethi,L(j)betheheightofthisexcursion,hi,L(j)=sup(e<t i,L(j)),andletΥi,L(j)bethetreewhosecontourprocessistheexcur-sione<t i,L(j).Figure
+5
+showsanexcursione<t i,L(j)withthep-subtreeΥi,L(j)itdeﬁnes.Notethatallthestarmarksduetop-samplingarecontainedintheexcursionse<t i,L(j),hencearecontainedinthesubtreesΥi,L(j).Ananal-ogousdeﬁnitionleadstoai,R(j),j≥0,hi,R(j)andΥi,L(j)frome<t i,R(j)andςi,R(j).Witheachpoint(`i,ti)ofΠt,nwenowassociatethesetsLi={(ti,L(j),Υi,L(j))}j≥0andRi={(ti,R(j),Υi,R(j))}j≥0.(13)
+Inaddition,forextremeendswedeﬁneonesetR0frome<t
+0,R,andwedeﬁneasetLnfrome<t n,L.ForeaseoffuturenotationwesetL0=∅,Rn=∅,(`0,t)=(1,t)and(`n,tn)=(n,t).Definition6.Thep-sampledhistoricalpoint-processΞp t,nistherandomsetΞp t,n={(`i,ti,Li,Ri):(`i,ti)∈Πt,n,0≤i≤n}.(14)
+ASYMPTOTICGENEALOGICALPROCESS17
+Fig.5.Thelefthalfe<t i,LofanexcursionofCTt,nbelowt,withitsinﬁmumprocessςi,Lwhoselevelsofconstancyare{ai,L(j)}j,abovewhichliethep-markedsubtrees{Υi,L(j)}jofheights{hi,L(j)}j.Remark7.Wehaveinfactimplicitlydeﬁnedapoint-processrepresen-tationΞt,nofacompletehistoricalpoint-process(whichwouldcorrespondto1-sampling).ThediﬀerencebetweenΞt,nandΞp t,nisonlyinthe∗’sontheleavesinthelatter.Itwill,however,beclearthatforniceasymptoticbehaviorweneedtoconsiderΞp t,nwithp<1;inotherwordswecanonlykeeptrackofaproportionoftheextinctindividuals.Wecannowderivethelawofthepoint-processΞp t,n.Forthisweshallalsoneedthelawofthep-subtreesappearinginthesetsLiandRi.LetTdenotethespaceofﬁniterootedbinarytreeswithedge-lengths,andletΛdenotethelawonTofthetreeT.Then,letΛpdenotethelawonTinducedbythep-samplingonthetreeT.Further,foranyh>0,letΛp hdenotethelawinducedbyrestrictingΛptothetreesTofheighth.TodescribethelawofΞp t,nweuseamorecarefulanddetailedanalysisofthestructureofthecontourprocessCTt,n.FirstweusetheresultofLemma
+3
+,whichgivesusthelawofthemainpointsofΞp t,n.Thenconditionalonthelocationofthemainpoints,wegivethelawofthesetsLiandRiofp-subtrees.WeshowthatthesetsLiandRiareindependentPoissonpoint-processes.Theintensitymeasureofeachsuchsetisgivenbythefollowing.First,chooseti,L(j),thedistancesbelowtatwhichthep-sampledsubtreesaregettingattached,uniformlyoverti,thetotaldistancebelowttotheithbranch-point.Next,choosehi,L(j),theheightforeachp-subtree,accordingtothesamelawasthatoftheheightofatreeTwhoseheightisknowntobelessthanti,L(j).Finally,choosethelawofΥi,L(j),theattachingsubtree,accordingtothelawΛp hdescribedabove.Lemma6.Foranyﬁxed0<p<1,thelawoftherandomsetΞp t,nisgivenbythefollowing:
+18L.POPOVIC(a){(`i,ti):1≤i≤n−1}isthesimplepoint-processΠt,nofLemma
+3
+;(b)given{(`i,ti),1≤i≤n−1},thesetsLiandRiareindependent;andforeach0≤i≤ntherandomsetsLiandRiarePoissonpoint-processesonR+×Twithintensitymeasure1{0<t<ti}dt1{0<h<t}dh
+(1+h)21+t tΛp h.(15)Proof.TheproofreliesonexploitingthealternatingExponential(rate1)stepstructureofthecontourprocessCTt,n.FromLemma
+3
+wehavethattheexcursionsofCTt,nbelowtareindependentandthattheirlawisthesameasthatofCTconditionedonhavingheightlessthant.Wefurthershowthat,whendecomposedintothepartbeforeitslowestpointandapartafterit,thetwopartsoftheseexcursionsareconditionallyindependentgiventheexcursion’sdepth.Infact,iftheformerisrunforwardtothelowestpoint,andthelatterbackwardtothelowestpoint,thesetwopartshavethesameconditionedlaw.Weobtainasimpledescriptionofthelawofthelevelsofconstancyoftheinﬁmumprocessfortheseparts,andtheexcursionsabovetheselevelsofconstancyareshowntobecopiesofCTrestrictedintheirheight.IndependenceofthepairsofsetsLi,Riovertheindexifollowsfromtheindependenceoftheexcursionse<t iofXTt,nbelowleveltasshowninLemma
+3
+.ThestrongMarkovpropertyofXTalsogivestheindependenceofR0andLnfromallthepairsLi,Ri.TheproofofLemma
+3
+alsoshowsthatthelawoftheexcursionst−e<t iisthesameasthatofXTconditionedonsup(CT)<t.Thelefthalft−e<t i,Lofsuchanexcursionisdeﬁnedasthepartoft−e<t iuntilitreachesitsmaximum,andtherighthalft−e<t i,Rasthepartafterthismaximum,runbackwardintime(theu-coordinate).ToderivetheconditionallawofLi,RigiventiwethusneedtoanalyzetheconditionallawofthetwopartsofXToneithersideofitsmaximum,giventhemaximum’svalue.LetusﬁrstconsidertheprocessXTcontinuedpastitsﬁrsthittingtimeof(0,−1).LetSTbeitsmaximumprocessST(u)=sup0≤v≤uCT(v),u≥0,andletusconsidertheprocess(ST,ST−CT),whichclearlycompletelydescribesXT.Theprocess(ST,ST−CT)consistsofanalternatingsequenceofthefollowing:risesofslope1forSTpairedwiththeintervalsat0forST−CT,andlevelsofconstancyforSTpairedwiththeexcursionsfrom0forST−CT.Figure
+6
+(a)showsadecompositionofXTintoSTandST−CT.BecausethealternatingstepsofCTareindependentExponential(rate1)variables,itisnotdiﬃculttoseethatthealternatingstepsof(ST,ST−CT)
+ASYMPTOTICGENEALOGICALPROCESS19areindependent,andthattherisesofSTallhavethesameExponential(rate1)distributionwhiletheexcursionsofST−CTallhavethesamedistributionasXT[stoppedwhenitﬁrsthits(0,−1)].Namely,theﬁrstriseofSTisjusttheﬁrstriseofCT;theXTlawandindependenceofasubsequentexcursionofST−CTisimmediatefromthelawofCT;and,ﬁnally,theExponential(rate1)lawandindependenceofasubsequentriseofSTisjustaconsequenceofthememorylesspropertyofrisesofCT.Considernowthepoint-process{(s,εs)}oflevelsofconstancyofSTpairedwiththeexcursionsofST−CTbelowthem.Theaboveanalysisshowsthat{s(u),u≥0}isaPoisson(rate1)process,andtheexcursionsεsallhavethesamelawasCT.WeshalldenotethelawofCTbyn(asintheproofofLemma
+3
+).Then{(s,εs)}formsaPoissonpoint-processwithinten-sitymeasuredsn.Notethatitwasshownin(
+6
+)thattheheightofCT,andhencetheheightoftheseexcursions,isgivenbyn(sup(·)>h)=1/(1+h),forh≥0.WenowconsiderhowthemaximumofXTinthetimeintervalbeforeitﬁrsthits(0,−1)appearswithinthispoint-process{(s,εs)}.Wedenotetheﬁrsthittingtimeof(0,−1)byU(0,−1)=inf{t:XT=(0,−1)},andthemaximumofinterestbyM=sup{XT(v):v∈(0,U(0,−1))}.Then,onecaneasilynotethats(U(0,−1))=Mandthat∀s∈(0,M),h(εs)<swhereasfors=M,h(εM)≥M.Figure
+6
+(b)depictsarealizationof{(s,εs}).Inotherwords,thepoint(M,εM)istheﬁrstpoint(intermsofthes-coordinate)oftheprocess{(s,εs)}whichfallsoutsidetheset{(s,hs):s≥0,hs≥0,hs<s}.IndependenceofPoissonrandommeasuresondisjointsetsthenimpliesthat,giventhevalueofM=sup{XT(v):v∈(0,U(0,−1))},theconditionallawoftheprocess{(s,εs):s<M}isindependentofthepoint(M,εM)and
+Fig.6.(a)TheprocessXTcontinuedpastitsﬁrsthittingof(0,−1),itsmaximumprocessSTandtheexcursionprocessST−CTbelowthelevelsofconstancyofST;MisthemaximalvalueofXTbeforeitﬁrsthits(0,−1).(b)Thepoint-process{(s,h(εs))}ofthevaluesofconstancyofST,pairedwiththeheightsofexcursionsofST−CTbelowthem.
+20L.POPOVIChasthelawofaPoissonpoint-processwithintensitymeasure10<s<Mds10<h<sdh
+(1+h)2n(·|sup(·)=h).Itisimportantnowtonotethattheprocess{(s,εs):s<M}completelydescribesthepartofXTbeforeitreachesthemaximumM,whilethepoint(M,εM)completelydescribesthepartofXTafteritreachesMandbeforeitﬁrsthits(0,−1).Wecannowtendtothequantitiesofinterestwithintheexcursionst−e<t i.Wehavethattheconditionallawoft−e<t i,L,t−e<t i,RgiventiisthesameastheconditionallawofthepartsofXTbeforeandafteritsmaximumMgiventhatM=ti.Withint−e<t i,Lthelevelsofconstancyti,L(j)andtheassociatedexcursionst−e<t i,L(j)abovetheselevelspreciselycorrespondtothelevelsofconstancysanditsassociatedexcursionsεswithintheprocess{(s,εs):s<ti}.Moreover,t−e<t i,RpreciselycorrespondstothepartoftheexcursionεMbeforeithits(0,−1),reversedintime(cf.Figures
+5
+and
+6
+).Fromouranalysisaboveitthusfollowsthat{(ti,L(j),e<t i,L(j))},thatis,t−e<t i,Landt−e<t i,Rareconditionallyindependentgiventi,andthat{(ti,L(j),e<t i,L(j))}hasthelawofaPoissonpoint-processwithintensitymeasure10<t<tidt10<h<tdh
+(1+h)2n(·|sup(·)=h).NowthestrongMarkovpropertyimpliesthatthep-samplingonthelocalmaximaofthewholecontourprocessCTt,nisforeache<t i,L(j)againaBernoullip-samplingonitslocalmaxima.Thustheconditionallawofthep-sampledtreeΥi,L(j)deﬁnedfrome<t i,j(j)giventheheighthi,L(j)=sup(e<t i,L(j))isΛp hi,L(j).PuttingalltheaboveresultstogetherwehavethatgiventitherandomsetLi={(ti,L(j),Υi,L(j))}j≥0isconditionallyindependentofthesetRi,anditslawisaPoissonpoint-processwithintensitymeasure1{0<t<ti}dt1{0<h<t}dh
+(1+h)2Λp h.ThesameconditionallawofRifollowsfromtimereversibilityofthelawofe<t i.Letusnowconsidertheimplicationsthatthep-samplingofextinctindi-vidualshasintheasymptoticcontext.InSection
+2
+,thegenealogicalpoint-processwasdeﬁnedfromthecontourprocessCTt,n,anditsasymptoticswasidentiﬁedasthecontinuumgenealogicalpoint-processsimilarlydeﬁnedfromaBrownianexcursionBt,1conditionedtohavelocaltime1atlevelt.Nowthe
+ASYMPTOTICGENEALOGICALPROCESS21p-sampledhistoricalprocessisdeﬁnedfromacontourprocessCTt,nwhoselo-calmaximaaresampledindependentlywithequalchancep.Intermsofthe(horizontal)u-coordinateofCTt,nthep-sampledindividualsformarandomsetofmarksonR+.ThefactthatCTisanalternatingsumofindependentExponential(rate1)randomvariablesimpliesthattherandomsetformedbythelocalmaximaofCTisaPoissonprocessofrate1/2onR+,andthesamestillholdsforthesetsformedbythelocalmaximaofeachpartofanexcursionofCTt,nbelowt.IfwefurthersampletheselocalmaximaindependentlywithchancepwehaveaPoissonprocessofratep/2onR+.Now,fortheasymptotics,theappropriaterescaling,asinSection
+2
+,speedsupthetimeaxisofCTt,nbyn.Henceifweconsiderpnsuchthatnpn→pasn→∞,thenasymptoticallythepn-samplingonCTt,nwillconvergetoaPoissonprocessofratep/2.Thispromptsustoconsiderfortheasymptoticsofthep-historicalpoint-processaprocesssimilarlydeﬁnedfromacondi-tionedBrownianexcursionBt,1sampledaccordingtoaPoisson(ratep/2)processalongits(horizontal)u-coordinate.Remark8.Weareinterestedinobtaininganasymptoticpoint-processthathasa.s.ﬁnitelymanyextinctindividualsrecorded.Itisclearthatthustherateofsamplingasymptoticallyhastosatisfynpn→pasn→∞.WedeﬁneaprocessderivedfromaconditionedBrownianexcursionBt,1inthesamemannerthatΞp t,nwasderivedfromthecontourprocessoftheconditionedbranchingprocessCTt,n.RecallthatB(u),u≥0,denotesaBrow-nianexcursion,foraﬁxedt>0;`t(u),u≥0,isitslocaltimeatleveltuptotimeu;it(`),`>0,istheinverseprocessof`t.Also,Bt,1(u),u≥1denotestheexcursionBconditionedtohavetotallocaltimeattequalto1,and(`,e<t
+`)denotesthesetofexcursionsofBt,1belowleveltindexedbythelocaltime`tatthetimeoftheirbeginning.Deﬁnethep-samplingonBt,1tobeaPoisson(ratep/2)processalongtheu-axisofBt,1.WeindicatethisbyputtingastarmarkonthegraphofBt,1atthetimesofthisPoissonprocess.Lete<t
+`beanexcursionofBt,1belowlevelte<t
+`(u)=Bt,1(it(`−)+u),u∈[0,it(`)−it(`−)).Recallthata`=inf(e<t
+`)isitslowestpointoccurringatu`=argmin(e<t(u)),andthatt`=t−a`denotesitsdistancefromlevelt.Foreache<t
+`wedeﬁneitsleftandrightparts(relativetoitslowestpoint)tobee<t
+`,L(u)=Bt,1(it(`−)+u),u∈[0,u`−it(`−)),e<t
+`,R(u)=Bt,1(it(`)−u),u∈[0,it(`)−u`).
+22L.POPOVICNotethate<t
+`,Lrunsforwardtothelowestpointofe<t
+`,wherease<t
+`,Rrunsbackwardintimetoit.Weshallalsoneedtheirrespectiveprocessesofinﬁmaς`,L(u)=inf0≤v≤ue<t
+`,L(v),u∈[0,u`−it(`−)),ς`,R(u)=inf0≤v≤ue<t
+`,R(v),u∈[0,it(`)−u`).Figure
+7
+showse<t
+`,Lande<t
+`,Rwithς`,Landς`,R.Wedeﬁnea`,L(j),j≥0,tobethesuccessivelevelsofconstancyofς`,L,andwelett`,L(j)=t−a`,L(j)betheirdistancetolevelt.Foreachlevelofconstancya`,L(j),lete<t
+`,L(j)betheexcursionofe<t
+`,L−ς`,Lthatliesabovethelevela`,L(j).Leth`,L(j)=sup(e<t
+`,L(j))betheheightofthisexcursion.Notethata.s.allthep-sampledpointsonBt,1lieontheseexcursionse<t
+`,L(j).WedeﬁneatreeΥ`,L(j)inducedbysuchap-sampledexcursione<t
+`,L(j)asthetreewhosecontourprocessisthelinearinterpolationofthesequenceofthevaluesofe<t
+`,L(j)atthep-samplingtimes,alternatingwiththesequenceoftheminimaofe<t
+`,L(j)betweenthep-samplingtimes.Ananalogousdeﬁnition
+Fig.7.(Top)Anexcursione<t
+`ofBt,1belowt,itslefte<t
+`,Landrighte<t
+`,Rparts,withtheirinﬁmumprocesses;(bottom)theprocesse<t
+`,L−ς`,L.
+ASYMPTOTICGENEALOGICALPROCESS23leadstoa`,R(j),j≥0,t`,R(j),j≥0,h`,R(j)andΥ`,L(R)frome<t
+`,R(j)andς`,R(j).Remark9.Thisdeﬁnitionofatreefromanexcursionpathsampledatgiventimeshasbeenexploredfordiﬀerentsamplingdistributionsintheliterature(forsomeexamplessee[
+16
+],Section6).Sinceforeache<t
+`therearea.s.onlyﬁnitelymanyp-sampledpointsthetrees{Υ`,L(j)}j,{Υ`,R(j)}jarea.s.inthespaceTofrootedplanartreeswithedge-lengthsandﬁnitelymanyleaves.Witheachpoint(`,t`)ofπt,1wenowassociatethesetsL`={(t`,L(j),Υ`,L(j))}j≥0andR`={(t`,R(j),Υ`,R(j))}j≥0.(16)
+Wealsodeﬁnetheﬁrst“right”setR0andthelast“left”setL1frompathse<t
+0,RofBt,1beforetheﬁrsthittingtimeoft,ande<t
+1,LofBt,1afterthelasthittingtimeoft.ForeaseofnotationweletL0=R1=∅,t0=t1=t.Definition10.Thep-sampledcontinuumhistoricalpoint-processξpt,1istherandomsetξpt,1={(`,t`,L`,R`):(`,t`)∈πt,1,it(`−)6=it(`)}.(17)Wenextderivethelawofthepoint-processξpt,1.Forthisweshallalsoneedthelawofthetreesinducedbythep-sampledexcursionsofe<t−ς.LetλpdenotethelawonthespaceTinducedbyaBsampledatPoisson(ratep)points(inthesenseofthebijectionbetweensampledcontinuousfunctionsandtrees[
+3
+],sameasthedeﬁnitionofΥ`,L(j)fromthep-samplede`,L(j)).Then,foranyh>0,letλp hdenotethelawinducedbyrestrictingλptothesetofBrownianexcursionsBofheighth.Toderivethelawofξpt,1weexploitinamoredetailedmannerthenicepropertiesofBrownianexcursions.WeﬁrstusetheresultofLemma
+4
+,whichgivesusthelawoftheset{(`,t`):it(`−)6=it(`)}.ThenconditionalonthissetwegivethelawofthesetsL`andR`.Weshowthat{L`,R`}`areindependentPoissonpoint-processes.Theintensitymeasureofeachsuchsetisgivenbythefollowing.First,chooset`,L(j),thedistancesbelowtatwhichthep-sampledsubtreeexcursionsofe<t
+`,L−ς`,Loccuruniformlyovert`,thedistancebelowtofthelowestpointofe<t
+`.Next,chooseh`,L(j),theheightforeachsuchp-sampledexcursion,accordingtothesamelawasthatoftheheightofaBwhoseheightisknowntobelessthant`,L(j).Finally,choosethelawoftheinducedtreeΥ`,L(j)accordingtothelawλp hdescribedabove.Lemma7.Therandomsetξpt,1issuchthatthefollowinghold:
+24L.POPOVIC(a){(`,t`):it(`−)6=it(`)}isthePoissonpoint-processπt,1ofLemma
+4
+;(b)given{(`,t`):it(`−)6=it(`)}thesetsL`andR`areindependent;andforeach`:it(`−)6=it(`),L`andR`arePoissonpoint-processesonR+×Twithintensitymeasure1{0<t<t`}dt1{0<h<t}dh h2λp h.(18)Proof.Theproofproceedsinmanyofthesamestepsastheoneforde-rivingthelawofthep-sampledhistoricalprocessΞp t,n.ThenotablediﬀerenceisthatwenowhavetoresorttomoresophisticatedMarkovianresultsonthedecompositionofaBrownianpath,suchastheWilliamsdecompositionofaBrownianexcursiongivenitsheight,andthePitmantheoremonBesselpro-cesses.Inshort,weconsiderthedecompositionoftheconditionedBrownianexcursionBt,1intoitsexcursionsbelowleveltprovidedbytheLemma
+4
+.Foreachsuchexcursionbelowtgivenitslowestpointatdistancet`belowt,theWilliamsdecompositiongivesustheindependenceandidentityinlawofitsleftandrightparts,aswellasthedescriptionoftheirlawsintermsofathree-dimensionalBesselprocess.Furthermore,wecanusePitman’sthe-oremthatdescribesthelawoftheexcursionsofthisBesselprocessabovethelevelsofconstancyofitsfutureinﬁmum.Aftertakingcareofsomecon-ditioningissues,thisﬁnallygivesusasimpledescriptionoftheseexcursionsabovethelevelsofconstancyassimplyBrownianexcursionsconditionedontheirmaximalheight.TheindependenceofthesetsL`overtheindex`(thesameholdsforthesetsR`)followsfromtheindependenceoftheexcursionsofBt,1belowlevelt.Thisalsoholds(bythestrongMarkovpropertyofB)forthesetsR0andL∞deﬁnedfromthepartsofthepathofBt,1ofitsascenttoleveltanditsdescentfromit.Foreache<t
+`excursionofBt,1belowlevelt,welete+
+`=t−e<t
+`.ByLemma
+4
+,theconditionallawofe+
+`given(`,t`)isthatofaBrownianexcursionBconditionedonthevalueofitssupremumB|{sup(B)=t`}.Letτt`=inf{u>0:e+
+`(u)=t`};thenbytheWilliamsdecompositionofaBrownianexcursionB(e.g.,[
+19
+],1,SectionIII.49),thelawofe+
+`,L=t−e<t
+`,ListhatofaBess(3)(three-dimensionalBessel)processρstoppedtheﬁrsttimeτρt`=inf{u>0:ρ(u)=t`}ithitst`.BytimereversibilityofBtheprocessr`,L(u)=t`−e+
+`,L(τt`−u),u∈(0,τt`),alsohasthelawofthestoppedBess(3)processρ(u),u∈(0,τρt`).Letj`,L(u)=infu≤v≤τt`r`,L,u∈(0,τt`).Then{t`−t`,L(j)}jare(inreversedindexorder)thesuccessivelevelsofconstancyoftheprocessj`,L(u),u∈(0,τt`);{h`,L(j)}j(inreversedindex
+ASYMPTOTICGENEALOGICALPROCESS25order)aretheheightsofthesuccessiveexcursionsfrom0oftheprocessr`,L(u)−j`,L(u),u∈(0,τt`),and{Υ`,L(j)}j(inreversedindexorder)arethetreesinducedbythep-sampledpointsontheseexcursions.Toobtainthelawofj`,Landr`,L−j`,LconsidertheBess(3)processρ(u),u≥0,anditsfutureinﬁmumprocess(u)=infv≥uρ(v),u≥0.Wenotethatthelawofj`,L(u),u∈(0,τt`),isequivalenttothatof(u),u∈(0,τρt`),if(τρt`)=t`;inotherwords,ifρ(u),u≥0,afteritﬁrstreachest`neverreturnstothatheightagain.So,(j`,L,r`,L−j`,L)d=(,ρ−)|{(τρt`)=t`}foru∈(0,τt`).ByPitman’stheorem,thenbyLevy’stheorem(e.g.,[
+18
+],VI,Sections3and6)(,ρ−)d=(ζ,ζ−β)d=(¯`,|¯β|),whereβisastandardBrownianmotion,ζitssupremumprocess;|¯β|isareﬂectedBrownianmotion,¯`itslocaltimeat0(withtheoccupationtimenormalization).Thus,for¯τt`:=inf{u≥0:|¯β|u+¯`u=t`},(j`,L,r`,L−j`,L)d=(¯`,|¯β|)|{¯`¯τt`=t`}foru∈(0,τt`).Thecondition{¯`¯τt`=t`}isequivalenttothecondition{¯`¯τt`=t`,|¯β|¯τt`=0}and{u<¯τt`:¯`u<t`,|¯β|u<t`−¯`u}.Hence,(j`,L,r`,L−j`,L)d=(¯`,|¯β|)|{¯`u<t`,|¯β|u<t`−¯`u;¯`¯τt`=t`,|¯β|¯τt`=0}.(19)
+Since(¯`,sup(|¯β|))isaPoissonpoint-processwithintensitymeasured¯`d¯h/¯h2,thenusingtheindependencepropertyofaPoissonrandommeasureondis-jointsetsin(
+19
+),weobtainfort=t`−¯`that(t`−j`,L,sup(r`,L−j`,L))isaPoissonpoint-processwithintensitymeasure1(0<t<t`)dt1(0<h<t)dh h2.Recalltherelationshipofthevalues{t`,L(j),h`,L(j),Υ`,L(j)}jofL`withtheprocessesj`,Landr`,L−j`,L.TheaboveresultthusimpliesthatL`isaPoissonpoint-processwithintensitymeasure1(0<t<t`)dt1(0<h<t)dh h2λp h,wherethelastfactorcomesfromthefactthatΥ`,L(j)isjustthetreeinducedbythep-sampledexcursionof|¯β|ofheighth`,L(j).Ournextgoalistoshowthattheprocessξpt,1whoselawwehavejustob-tainedisindeedtheasymptoticresultoftheprocessesΞp t,nafterappropriaterescaling.Todoso,weﬁrstmustshowthatthelawsΛpnhonthespaceof
+26L.POPOVICtreesconvergeasn→∞tothelawλp hifnpn→p.WeneedtoconsidermorecloselythetreesΥi,L(j)andΥ`,L(j)inducedbythesampledexcursionsap-pearinginthehistoricalpoint-processesabove.Inbothcaseswehaveanexcursion,CTorB,ofagivenheightandwithmarksonitproducedbyasamplingprocess.Lawsofthetreesinducedbysampledexcursionsofunre-strictedheightcanbeverysimplyandelegantlydescribed(see[
+10
+]forthecaseofB).However,forthetreesfromexcursionsofagivenheightthatweneedtoconsiderhere,thedescriptionismuchmessier.WeshallgivenextarecursivedescriptionthatappliesequallytodeﬁneanΥl,L(j)fromCTofagivenheight,ortodeﬁneΥ`,L(j)fromBofagivenheight.AsimilarrecursivedescriptionofaninﬁnitetreeinducedbyanunsampledBrownianexcursionisgivenbyAbrahamandMazliak[
+2
+].Deﬁnethe“spine”ofthetreetoextendfromtherootofthetreetothepointofmaximalheightintheexcursion.Anequivalentrepresentationofthetreeisoneinwhichthesubtreesofthetreesontheleftandontherightoftheaxisthroughthespineareattachedtothisspine,anexampleofwhichisshowninFigure
+8
+.Weobtainthebranchlevelsatwhichthesesubtreesareattached,aswellasparametersneededforthedescriptionofthesubtreesasfollows.
+Fig.8.The“ﬁrst”setintherecursivedescriptionconsistsofbranchlevels{tL(j)}jatwhichsubtreesinducedbysampledexcursionsofeL−ςLareattachedtothespine;andtheheights{hL(j)}jofthesesubtrees.
+ASYMPTOTICGENEALOGICALPROCESS27W
+
+<!-- PDF text truncated by scrapem max_pdf_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。
