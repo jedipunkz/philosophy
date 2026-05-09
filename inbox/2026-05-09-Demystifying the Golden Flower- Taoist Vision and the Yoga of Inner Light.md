@@ -15,7 +15,7 @@ query: "Carl Gustav Jung"
 tags:
   - "現代思想"
 status: processed
-processed_to: "西洋哲学/現代/ユング-現代研究動向.md"
+processed_to: "研究動向/ユング-現代研究動向.md"
 ---
 
 # Demystifying the Golden Flower: Taoist Vision and the Yoga of Inner Light
