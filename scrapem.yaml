@@ -1,0 +1,45 @@
+vault:
+  root: /vault
+  inbox: inbox
+
+scrape:
+  interval: 24h
+  user_agent: philosophy-scraper/0.1 (+https://github.com/jedipunkz/philosophy)
+  max_results: 10
+  max_pdf_chars: 50000
+  max_pdf_bytes: 20971520
+  request_timeout: 20s
+  request_delay: 2s
+  refresh_existing: true
+
+sources:
+  - name: philarchive
+    enabled: true
+    type: html
+    base_url: https://philarchive.org
+    search_url: https://philarchive.org/s/{query}
+
+  - name: philpapers
+    enabled: false
+    type: html
+    base_url: https://philpapers.org
+    search_url: https://philpapers.org/s/{query}
+
+  - name: arxiv
+    enabled: false
+    type: api
+    base_url: https://export.arxiv.org/api/query
+    search_url: https://export.arxiv.org/api/query?search_query=all:{query}&start=0&max_results=10
+
+keywords:
+  - name: ハンナ・アーレント
+    queries:
+      - Hannah Arendt
+      - Hannah Arendt totalitarianism
+      - Hannah Arendt The Human Condition
+    sources:
+      - philarchive
+    tags:
+      - 政治哲学
+      - 現代思想
+      - 全体主義
