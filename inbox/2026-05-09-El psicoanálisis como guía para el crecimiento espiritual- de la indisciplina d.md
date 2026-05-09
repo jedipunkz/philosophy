@@ -7,7 +7,7 @@ publication: "Dilemas Contemporáneos: Educación, Política y Valores (1) ( 202
 download: "https://philarchive.org/archive/RODEPC-5"
 pdf: "https://philpapers.org/archive/RODEPC-5.pdf"
 captured_at: "2026-05-09T08:07:45Z"
-updated_at: "2026-05-09T08:16:18Z"
+updated_at: "2026-05-09T11:39:07Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"

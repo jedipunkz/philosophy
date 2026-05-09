@@ -7,15 +7,14 @@ publication: ""
 download: "https://philarchive.org/archive/HOPTVL"
 pdf: "https://philpapers.org/archive/HOPTVL.pdf"
 captured_at: "2026-05-09T08:07:16Z"
-updated_at: "2026-05-09T08:15:49Z"
+updated_at: "2026-05-09T11:38:39Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
 query: "Carl Gustav Jung"
 tags:
   - "現代思想"
-status: processed
-processed_to: "研究動向/ユング-現代研究動向.md"
+status: raw
 ---
 
 # PHÂN TÍCH VÔ THỨC THUẬT TOÁN QUA TÂM LÝ HỌC PHÂN TÍCH CỦA CARL JUNG: TỪ LÝ THUYẾT CỔ MẪU ĐẾN HIỆN TƯỢNG PHÓNG CHIẾU TRONG MỐI QUAN HỆ GIỮA AI VÀ CON NGƯỜI

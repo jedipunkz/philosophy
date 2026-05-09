@@ -7,15 +7,14 @@ publication: "Oxford Studies in Metaphysics 34 (21):12 ( 2026 )"
 download: "https://philarchive.org/archive/KARFAJ"
 pdf: "https://philpapers.org/archive/KARFAJ.pdf"
 captured_at: "2026-05-09T08:07:21Z"
-updated_at: "2026-05-09T08:15:54Z"
+updated_at: "2026-05-09T11:38:43Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
 query: "Carl Gustav Jung"
 tags:
   - "現代思想"
-status: processed
-processed_to: "研究動向/ユング-現代研究動向.md"
+status: raw
 ---
 
 # FREUD AND JUNG - ALEXIS KARPOUZOS

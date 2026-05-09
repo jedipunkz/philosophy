@@ -32,17 +32,17 @@ sources:
     search_url: https://export.arxiv.org/api/query?search_query=all:{query}&start=0&max_results=10
 
 keywords:
-  # - name: ハンナ・アーレント
-  #   queries:
-  #     - Hannah Arendt
-  #     - Hannah Arendt totalitarianism
-  #     - Hannah Arendt The Human Condition
-  #   sources:
-  #     - philarchive
-  #   tags:
-  #     - 政治哲学
-  #     - 現代思想
-  #     - 全体主義
+  - name: ハンナ・アーレント
+    queries:
+      - Hannah Arendt
+      - Hannah Arendt totalitarianism
+      - Hannah Arendt The Human Condition
+    sources:
+      - philarchive
+    tags:
+      - 政治哲学
+      - 現代思想
+      - 全体主義
   - name: ユング
     queries:
       - Carl Gustav Jung

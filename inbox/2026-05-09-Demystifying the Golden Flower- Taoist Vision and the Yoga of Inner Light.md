@@ -7,15 +7,14 @@ publication: ""
 download: "https://philarchive.org/archive/KEPDTG"
 pdf: "https://philpapers.org/archive/KEPDTG.docx"
 captured_at: "2026-05-09T08:07:40Z"
-updated_at: "2026-05-09T08:16:14Z"
+updated_at: "2026-05-09T11:39:03Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
 query: "Carl Gustav Jung"
 tags:
   - "現代思想"
-status: processed
-processed_to: "研究動向/ユング-現代研究動向.md"
+status: raw
 ---
 
 # Demystifying the Golden Flower: Taoist Vision and the Yoga of Inner Light

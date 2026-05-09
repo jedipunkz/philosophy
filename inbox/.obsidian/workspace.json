@@ -11,14 +11,10 @@
             "id": "30b919a416ec23cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-05-09-Jung and Existentialism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-09-Jung and Existentialism"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-05-09-Jung and Existentialism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-09-Jung and Existentialismへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-05-09-Jung and Existentialism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-09-Jung and Existentialismからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-05-09-Jung and Existentialism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-09-Jung and Existentialismのアウトライン"
+              "title": "アウトライン"
             }
           }
         ]
@@ -185,6 +178,7 @@
   },
   "active": "30b919a416ec23cb",
   "lastOpenFiles": [
+    "2026-05-09-Jung and Existentialism.md",
     "2026-05-09-FREUD AND JUNG - ALEXIS KARPOUZOS.md",
     "2026-05-09-Hannah.md",
     "2026-05-09-Hannah-3.md",
@@ -196,7 +190,6 @@
     "2026-05-09-El psicoanálisis como guía para el crecimiento espiritual- de la indisciplina d.md",
     "2026-05-09-Demystifying the Golden Flower- Taoist Vision and the Yoga of Inner Light.md",
     "2026-05-09-Structural Inevitability and the Archetypal Psyche- From Predator Logic to Coll.md",
-    "2026-05-09-Jung and Existentialism.md",
     "2026-05-09-Psychoanalysis of technoscience- symbolisation and imagination.md",
     "2026-05-09-PHÂN TÍCH VÔ THỨC THUẬT TOÁN QUA TÂM LÝ HỌC PHÂN TÍCH CỦA CARL JUNG- TỪ LÝ THUY.md",
     "2026-05-09.md",

@@ -7,15 +7,14 @@ publication: "Berlin / Münster / Zürich: LIT ( 2019 )"
 download: "https://philarchive.org/archive/ZWAPOT"
 pdf: "https://philpapers.org/archive/ZWAPOT.pdf"
 captured_at: "2026-05-09T08:07:26Z"
-updated_at: "2026-05-09T08:15:59Z"
+updated_at: "2026-05-09T11:38:48Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
 query: "Carl Gustav Jung"
 tags:
   - "現代思想"
-status: processed
-processed_to: "研究動向/ユング-現代研究動向.md"
+status: raw
 ---
 
 # Psychoanalysis of technoscience: symbolisation and imagination

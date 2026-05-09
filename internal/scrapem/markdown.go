@@ -110,6 +110,7 @@ func renderMarkdown(now time.Time, item Item) string {
 	if item.PDF != "" {
 		fmt.Fprintf(&b, "- PDF: %s\n", item.PDF)
 	}
+	writeObsidianLinks(&b, item)
 	b.WriteString("\n## Abstract\n\n")
 	if item.Abstract == "" {
 		b.WriteString("取得したページに要旨は含まれていない。\n")
@@ -144,6 +145,71 @@ func renderMarkdown(now time.Time, item Item) string {
 	b.WriteString("\n## Notes\n\n")
 	b.WriteString("- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。\n")
 	return b.String()
+}
+
+func writeObsidianLinks(b *strings.Builder, item Item) {
+	links := obsidianLinks(item)
+	tags := obsidianTags(item.Tags)
+	if len(links) == 0 && len(tags) == 0 {
+		return
+	}
+
+	b.WriteString("\n## Obsidian Links\n\n")
+	for _, link := range links {
+		fmt.Fprintf(b, "- %s\n", link)
+	}
+	if len(tags) > 0 {
+		fmt.Fprintf(b, "- 関連タグ: %s\n", strings.Join(tags, " "))
+	}
+}
+
+func obsidianLinks(item Item) []string {
+	seen := map[string]bool{}
+	var links []string
+	add := func(label, target, alias string) {
+		target = strings.TrimSpace(target)
+		if target == "" || seen[target] {
+			return
+		}
+		seen[target] = true
+		if alias == "" || alias == target {
+			links = append(links, fmt.Sprintf("%s: [[%s]]", label, target))
+			return
+		}
+		links = append(links, fmt.Sprintf("%s: [[%s|%s]]", label, target, alias))
+	}
+
+	keyword := strings.TrimSpace(item.Keyword)
+	if keyword != "" {
+		add("研究動向", fmt.Sprintf("研究動向/%s-現代研究動向", keyword), fmt.Sprintf("%s-現代研究動向", keyword))
+		add("キーワード", keyword, "")
+	}
+	for _, tag := range item.Tags {
+		tag = strings.TrimSpace(tag)
+		if tag == "" {
+			continue
+		}
+		add("関連分野", tag, "")
+	}
+	return links
+}
+
+func obsidianTags(tags []string) []string {
+	seen := map[string]bool{}
+	var out []string
+	for _, tag := range tags {
+		tag = strings.TrimSpace(tag)
+		if tag == "" {
+			continue
+		}
+		tag = strings.Join(strings.Fields(tag), "-")
+		if tag == "" || seen[tag] {
+			continue
+		}
+		seen[tag] = true
+		out = append(out, "#"+tag)
+	}
+	return out
 }
 
 func writeYAMLString(b *strings.Builder, key, value string) {

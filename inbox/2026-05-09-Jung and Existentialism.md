@@ -7,15 +7,14 @@ publication: "Studia Universitatis Babes-Bolyai-Philosophia 63 (1):91-103 ( 2018
 download: "https://philarchive.org/archive/STEJAE-3"
 pdf: "https://philpapers.org/archive/STEJAE-3.pdf"
 captured_at: "2026-05-09T08:07:30Z"
-updated_at: "2026-05-09T08:16:04Z"
+updated_at: "2026-05-09T11:38:53Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ユング"
 query: "Carl Gustav Jung"
 tags:
   - "現代思想"
-status: processed
-processed_to: "研究動向/ユング-現代研究動向.md"
+status: raw
 ---
 
 # Jung and Existentialism
