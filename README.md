@@ -17,7 +17,7 @@ philosophy/
 │   ├── インド・仏教/  # ※ファイルが増えた時点でサブフォルダを切る
 │   ├── 中国/          # ※同上
 │   └── 日本/          # ※同上
-├── scrapem.yaml    # スクレイピング対象キーワード・情報源の設定
+├── scrape.yaml    # スクレイピング対象キーワード・情報源の設定
 ├── cmd/            # Go 製 scrapem CLI
 ├── internal/       # scrapem の内部実装
 └── docker-compose.yml
@@ -73,7 +73,7 @@ philosophy/
 この Vault は、手動で書いた哲学ノートに加えて、論文アーカイブから収集した素材を `inbox/` に蓄積する。
 
 ```text
-scrapem.yaml
+scrape.yaml
   ↓
 Go Scraper
   ↓
@@ -86,7 +86,7 @@ Codex / Claude Code
 
 各層の役割:
 
-- `scrapem.yaml`: 人間が関心キーワード、検索クエリ、情報源を指定する
+- `scrape.yaml`: 人間が関心キーワード、検索クエリ、情報源を指定する
 - Go Scraper: PhilArchive などからメタデータ、Abstract、Citation、BibTeX、PDF本文テキストを収集する
 - `inbox/`: 自動収集された未処理素材の作業キュー
 - `西洋哲学/`・`東洋哲学/`: 人間が読む整理済み日本語ノート
@@ -99,8 +99,22 @@ Codex / Claude Code
 単発実行:
 
 ```bash
-docker compose run --rm scraper
+scripts/scrape.sh
 ```
+
+イメージを再ビルドしてから実行する場合:
+
+```bash
+scripts/scrape.sh --build
+```
+
+別の設定ファイルを指定する場合:
+
+```bash
+scripts/scrape.sh --config scrape.yaml
+```
+
+`scripts/scrape.sh` は任意のタイミングで手動実行するための入口であり、実行時点の `scrape.yaml` を読み込んで `inbox/` に収集結果を保存する。
 
 定期実行:
 
@@ -108,7 +122,7 @@ docker compose run --rm scraper
 docker compose up -d scheduler
 ```
 
-現在はテストのため `scrapem.yaml` の `interval` を短くしてよい。運用段階では、哲学論文ソースの更新頻度を考慮し、週1回程度にする。
+現在はテストのため `scrape.yaml` の `interval` を短くしてよい。運用段階では、哲学論文ソースの更新頻度を考慮し、週1回程度にする。
 
 スクレイプ後に `inbox/` をコミットする場合:
 

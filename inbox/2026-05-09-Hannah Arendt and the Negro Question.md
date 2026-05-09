@@ -7,7 +7,7 @@ publication: "Hypatia Reviews Online: A Journal of Feminist Philosophy ( 2014 )"
 download: "https://philarchive.org/archive/HUNHAA"
 pdf: "https://philpapers.org/archive/HUNHAA.pdf"
 captured_at: "2026-05-09T07:25:17Z"
-updated_at: "2026-05-09T07:41:17Z"
+updated_at: "2026-05-09T08:10:25Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
@@ -16,8 +16,7 @@ tags:
   - "政治哲学"
   - "現代思想"
   - "全体主義"
-status: processed
-processed_to: "西洋哲学/現代/ハンナ・アーレント-現代研究動向.md"
+status: raw
 ---
 
 # Hannah Arendt and the Negro Question
@@ -73,7 +72,8 @@ and post-colonial Africa. Gines makes original and significant contributions to 
 applying various feminist and anticolonial strategies, including standpoint theory and multidirectionality, to
 Arendt's political essays and concepts. Feminist critiques of Arendt in general and racial critiques of
 "Reflections on Little Rock" in particular are not new; however,
-Hannah Arendt and the Negro Question offers a novel and comprehensive racial critique of Arendt's major writings. Gines offers a "sustained
+Hannah Arendt and the Negro Question
+offers a novel and comprehensive racial critique of Arendt's major writings. Gines offers a "sustained
 analysis of Arendt's treatment of the Black experience in the United States" (xii), as well as racial violence
 within the contexts of the American, French, and Haitian Revolutions, and French and British imperialism
 and colonialism. In this review I will offer an overview of the book as a whole, before evaluating the extent
@@ -118,7 +118,8 @@ climbing of Black parents rather than as a properly political effort, and sugges
 white racists, defends racial discrimination as a social custom and rejects the legal enforcement of
 desegregation" (37). Whereas Arendt understands the right to marry whomever one pleases as a basic right,
 she also "belittles discrimination in employment, housing, and education as issues of social opportunity
-rather than basic human or political rights" (37). Put into perspective alongside Arendt's insistence that antiSemitism is a political issue, her view that anti-Black racism is a social problem born of private attitudes
+rather than basic human or political rights" (37). Put into perspective alongside Arendt's insistence that anti-
+Semitism is a political issue, her view that anti-Black racism is a social problem born of private attitudes
 seems willfully ignorant, or worse, explicitly racist (123).
 In chapters 4, 5, and 6, Gines reveals other oversights in three of Arendt's major works:
 On Revolution
@@ -155,7 +156,8 @@ colonialism "involved more of an extension of the laws and ideals of the mother 
 territory" (78). Imperialism may have grown out of colonialism, but Arendt sees the former as something
 "radically different and new in the history of political thought and action" (78, referring to Arendt
 1951/1973, 125).
-Chapter 6 examines Arendt's bias concerning violence: that is, her hypercritical stance toward counterviolence used by the oppressed and colonized and her uncritical acceptance of violence used to master
+Chapter 6 examines Arendt's bias concerning violence: that is, her hypercritical stance toward counter-
+violence used by the oppressed and colonized and her uncritical acceptance of violence used to master
 necessity and move into the political realm of speech and action. Arendt empathically describes and often
 defends violence as it pertains to Jewish people in
 Origins of Totalitarianism
@@ -174,7 +176,8 @@ memory throughout chapters 4, 5, and 6 in order to call out Arendt's inability t
 incompatible legacies of victimization are connected. The originality of Gines's approach shines through as
 she challenges Arendt's zero-sum approach to memory, where memories of her own past as a persecuted
 Jewish child erase her ability to understand the plight of African American children. Arendt does not
-recognize that collective memories of slavery and Nazi genocide, imperialism and colonialism, antiSemitism and anti-Black racism are connected. It is a mistake to view such memories as competing rather
+recognize that collective memories of slavery and Nazi genocide, imperialism and colonialism, anti-
+Semitism and anti-Black racism are connected. It is a mistake to view such memories as competing rather
 than cross-referencing (Rothberg 2009, 3).
 Chapter 7 returns to the question of education and the role of violence in making political demands for equal
 opportunity. Gines examines Arendt's misunderstanding of the Black Power movement and concludes that,
@@ -304,9 +307,11 @@ her theory of judgment..does Kathryn Gines go far enough to indict Arendt's phil
 and the Negro Question? The answer is, from my perspective, Yes."
 Powered by
 Drupal
-Hypatia Reviews Online hro@sfsu.edu
+Hypatia Reviews Online
+hro@sfsu.edu
 | 415.338.1596
-Source URL: http://hypatiaphilosophy.org/HRO/reviews/content/242
+Source URL:
+http://hypatiaphilosophy.org/HRO/reviews/content/242
 
 ## Notes
 

@@ -7,7 +7,7 @@ publication: ""
 download: "https://philarchive.org/archive/BUEHAE-3"
 pdf: "https://philpapers.org/archive/BUEHAE-3.pdf"
 captured_at: "2026-05-09T07:25:24Z"
-updated_at: "2026-05-09T07:43:07Z"
+updated_at: "2026-05-09T08:12:14Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
@@ -154,7 +154,8 @@ Bibliography
 
 Introduction
 
-Th is
+Th
+is
 
 third
 
@@ -168,9 +169,11 @@ three main
 
 sections. First, we
 examine
-Arendt’s concept of the “vita activ a
+Arendt’s concept of the “vita activ
+a
 ”,
-which encompasses t he three
+which encompasses t
+he three
 fundamental human conditions: labour, work, and
 action
 . Second, we
@@ -198,7 +201,8 @@ vita activa
 
 (Arendt, 1998, p. 25 ebook)
 .
-The other two are labo u
+The other two are labo
+u
 r and work
 ,
 
@@ -236,14 +240,17 @@ distinguishes in his
 Nicomachean Ethics
 , between which humans can choose, as long as
 they are free from all activities necessary for the maintenance of their bodies. Since
-labo u
+labo
+u
 r and work have this function, they are excluded
 .
 
-According to Arendt, Aristotle defines the autonomous and authentic way s
+According to Arendt, Aristotle defines the autonomous and authentic way
+s
 
 of life of
-humans, in comparison to that of other living beings, as way s
+humans, in comparison to that of other living beings, as way
+s
 
 of life that
 
@@ -301,11 +308,13 @@ study.
 A
 rendt
 
-call s
+call
+s
 the latter the
 “
 vita
-contemplativ a”
+contemplativ
+a”
 
 and
 cites
@@ -331,7 +340,8 @@ While Arendt
 does not
 reject
 
-the vita contemplativ a
+the vita contemplativ
+a
 
 as such, she
 
@@ -346,7 +356,8 @@ and especially with the rise of Christian thought, the view
 became established that
 it
 
-i s the only truly autonomous and authentically human way of
+i
+s the only truly autonomous and authentically human way of
 life
 
 (Arendt, 1998, p. 30 ebook)
@@ -364,7 +375,8 @@ there is a
 clear hierarchy
 between the
 
-philosopher s
+philosopher
+s
 
 and the polis.
 
@@ -422,7 +434,8 @@ boundaries
 
 within the vita activa
 .
-For her, t his tendency
+For her, t
+his tendency
 can
 also be
 
@@ -443,7 +456,8 @@ had a distinct
 meaning
 
 (Arendt, 1998, p. 31f. ebook)
-: w hile
+: w
+hile
 he
 
 associated
@@ -460,7 +474,8 @@ of
 history rather than
 remembrance and thereby the creation of a common world,
 he
-glorified labour by turning it into productiv ity
+glorified labour by turning it into productiv
+ity
 (Arendt, 2018a, p. 418 ebook)
 .
 
@@ -514,11 +529,14 @@ way of life
 
 H
 e was
-merely interest ed
+merely interest
+ed
 
 in the
 freedom of
-propertyowning
+property
+-
+owning
 
 men
 .
@@ -681,7 +699,8 @@ contains an
 element of violence
 ,
 
-f or instance, to produce a chair, we
+f
+or instance, to produce a chair, we
 must
 
 inflict violence
@@ -699,7 +718,8 @@ between means and ends
 inherent to work
 
 (Arendt, 2018a, p. 425 ebook)
-. Instrument s
+. Instrument
+s
 ,
 as the means
 of producing
@@ -715,7 +735,8 @@ applies to
 
 violence;
 
-i t
+i
+t
 , too, depends
 heavily
 on instruments,
@@ -730,7 +751,8 @@ According to
 
 Arendt,
 the opposite of work is
-us e
+us
+e
 ;
 
 O
@@ -771,7 +793,8 @@ Furthermore
 ,
 Arendt
 
-identifies several di fferences between work and labour.
+identifies several di
+fferences between work and labour.
 For
 her
 ,
@@ -921,11 +944,16 @@ a home
 it can overcome the
 sheer functionalism of
 
-the labourconsumption
+the labour
+-
+consumption
 
 and
 
-workuse spiral s
+work
+-
+use spiral
+s
 
 (Arendt, 2018b, p. 431 ebook)
 .
@@ -936,7 +964,8 @@ the objects they create
 but
 also to
 
-their live s
+their live
+s
 
 in general
 
@@ -945,14 +974,16 @@ in general
 Arendt writes: “without action, without the capacity to start something new and thus
 articulate the new beginning that comes into the world with the birth of each human
 being, the life of man, spent between birth and death, would inevitably doomed beyond
-s alvation”
+s
+alvation”
 
 (Arendt, 2018b, p. 436 ebook)
 .
 
 For Arendt, action
 
-a nswers the question of
+a
+nswers the question of
 “W
 ho
 are
@@ -1014,7 +1045,8 @@ we can never be certain what
 consequences our actions will have.
 But
 
-t his does not mean that
+t
+his does not mean that
 we are
 doomed to
 failure
@@ -1024,7 +1056,8 @@ A
 ccording to Arendt,
 action
 
-also offers us a remedy in the form of promis ing
+also offers us a remedy in the form of promis
+ing
 and
 forgiveness.
 
@@ -1032,9 +1065,11 @@ Yet
 both promising and forgiveness, and action and speech
 more generally
 , have their
-precondition s
+precondition
+s
 . Arendt contends that they
-require equality and distinc tness
+require equality and distinc
+tness
 . She writes:
 “If men were not equal, they could neither understand each other and those who came
 before them nor plan for the future and foresee the needs of those who will come after
@@ -1085,7 +1120,8 @@ According to Arendt,
 we find otherness only in innate objects
 
 whereas all
-beings are di stinct
+beings are di
+stinct
 , or, to use a synonym, unique.
 
 With this reconstruction of Arendt
@@ -1093,7 +1129,8 @@ With this reconstruction of Arendt
 
 in mind, we must ask ourselves
 whether the Nazis and Eichmann acted at all. They placed neither value on political
-equality nor on human di stinctness
+equality nor on human di
+stinctness
 . We will focus on this
 
 question
@@ -1128,33 +1165,47 @@ illustrate this point. She writes
 :
 
 “I was engaged in conversation
-with one of those former radicalscommunists, Trotskyites, and the likewhom, I
+with one of those former radicals
+-
+communists, Trotskyites, and the like
+-
+
+whom, I
 suppose we all count among our acquaintances and friends, and I was curious how this
 particular person viewed his own past, how he had come to
 terms with his former
-convictions. At the back of my mind, I had the readymade alternatives into which the
-answer was likely to fallMarxism as an ideology provided a convenient framework
+convictions. At the back of my mind, I had the ready
+-
+made alternatives into which the
+answer was likely to fall
+-
+
+Marxism as an ideology provided a convenient framework
 
 for
 thought and argument. For explanation of the past and for prophecy of the future… or
 presumably the best [answer], the old passionate contempt for the prevailing standards
-of “bourgeois i
+of “bourgeois
+i
 e” society… In all these instances, revolution would have been accepted as
 the only means to bring about a better and happier society… And if we leave out here the
 otherwise very important question of using violence in order to achieve universal
 happiness,
 
-it must be admitted that the revolutionist again had little caus e to
+it must be admitted that the revolutionist again had little caus
+e to
 congratulate himself on being free of commonplace prejudices on which the established
 society rested…To my surprise, the answer of my acquaintance differed from all the
 6
 
 expectations… I was told a story, the story of a … gambler who happened to arrive in a
 strange town and naturally proceeded… to the gambling place. There a native warned him
-the wheel was crooked, whereupon the stranger replied: ‘But there is no other whee l in
+the wheel was crooked, whereupon the stranger replied: ‘But there is no other whee
+l in
 town’. The moral of the story was clear: in those days, my acquaintance implied, if you
 had the itch to do something, you had no other place to go; you went there not for the
-good of society at large, but for your own sake; and even if you went for ot her, presumably
+good of society at large, but for your own sake; and even if you went for ot
+her, presumably
 more honourable motives… it could happen to you that once you were in it you would
 discover… that trying to save your country, you had first saved yourself”
 
@@ -1163,9 +1214,11 @@ p. 304ff. ebook)
 .
 
 In this passage,
-Arendt highlight s
+Arendt highlight
+s
 
-that acti on
+that acti
+on
 
 seems to be tied to
 the
@@ -1184,14 +1237,16 @@ there
 are
 
 two
-t rends
+t
+rends
 
 that
 explain
 
 why
 
-th is
+th
+is
 
 phenomenon
 made
@@ -1214,7 +1269,8 @@ privatisation of happiness
 
 With the rise of
 individualism,
-h appiness was no longer found in concerted action
+h
+appiness was no longer found in concerted action
 ,
 
 but
@@ -1227,7 +1283,8 @@ simply
 in
 consumption.
 
-For Arendt, this t rend
+For Arendt, this t
+rend
 
 was highly problematic
 
@@ -1239,11 +1296,13 @@ tyranny
 and the banishment of
 all citizens from the public sphere
 :
-i n its most
+i
+n its most
 extreme form, the
 tyrant
 
-prohibit s political action in public
+prohibit
+s political action in public
 
 but
 allows
@@ -1268,7 +1327,8 @@ for reflection
 
 and in
 moments of
-joy ful
+joy
+ful
 
 excess,
 
@@ -1278,7 +1338,9 @@ In order to
 
 counteract
 
-th ese two t rends
+th
+ese two t
+rends
 ,
 she
 believes
@@ -1292,7 +1354,8 @@ example
 through
 the act of
 
-deliberat ing
+deliberat
+ing
 in town hall
 
 meetings
@@ -1316,7 +1379,8 @@ They
 perverted action
 
 by
-t ransforming
+t
+ransforming
 
 it
 
@@ -1324,7 +1388,8 @@ into mere participation
 
 and
 
-function ing
+function
+ing
 
 –
 
@@ -1376,9 +1441,11 @@ with the rest
 –
 
 the kind of going along that involves lots of people acting together produces
-power. So lo ng as you’re alone, you’re powerless, however strong you may be. This feeling
+power. So lo
+ng as you’re alone, you’re powerless, however strong you may be. This feeling
 of power that arises from acting together is absolutely not wrong in itself, it’s a general
-human feeling, But it’s not good, either. It’s simply neutral. It’s something that’s s imply
+human feeling, But it’s not good, either. It’s simply neutral. It’s something that’s s
+imply
 …a general human phenomenon… In acting this way, there is an extreme feeling of
 pleasure… And I’d say that the really perverse form of acting is functioning, and in this
 functioning the feeling of pleasure is always there… What you have there is mere
@@ -1400,7 +1467,8 @@ Arendt’s Concept of Conscience
 
 Why
 our
-Action s
+Action
+s
 
 are
 
@@ -1426,7 +1494,8 @@ do
 She writes:
 “[Your
 ]
-c onscience [tells] you, as the divine voice of
+c
+onscience [tells] you, as the divine voice of
 either God or reason, what to do, what not to do, and what to repent of. Whatever the
 voice of conscience may be, it cannot be said to be
 ‘
@@ -1458,7 +1527,8 @@ behaviour
 ,
 not
 our
-action s
+action
+s
 , as
 
 the activity of
@@ -1515,7 +1585,8 @@ What
 ought I to do?
 ’
 
-c oncerns the conduct of the self in its independence of others
+c
+oncerns the conduct of the self in its independence of others
 
 –
 
@@ -1533,14 +1604,18 @@ of immortality
 Kant's insistence on the duties toward
 myself, his insistence that moral duties ought to be free of all inclination and that the
 moral law should be valid not only for men on this planet but for all intelligible beings in
-the universe, restricts this cond ition of plurality to a minimum. The notion underlying all
-three questions is selfinterest, not interest in the world”
+the universe, restricts this cond
+ition of plurality to a minimum. The notion underlying all
+three questions is self
+-
+interest, not interest in the world”
 
 (Arendt, 1992, p. 19f.)
 
 Eichmann’s Conscience
 
-But why did n’t
+But why did
+n’t
 
 Eichmann’s conscience prevent him from participating and functioning
 
@@ -1554,7 +1629,8 @@ as if
 
 Arendt
 
-contradict s
+contradict
+s
 
 herself
 here
@@ -1582,7 +1658,8 @@ done what he had been ordered
 to
 –
 
-to s hip millions of men, women, and children to their death with great zeal and the
+to s
+hip millions of men, women, and children to their death with great zeal and the
 most meticulous care”
 
 (Arendt, 2022, p. 95 ebook [my emphasis])
@@ -1674,7 +1751,8 @@ conscience was
 also
 detached from
 
-r eality. Arendt
+r
+eality. Arendt
 claims:
 
 “if he
@@ -1738,8 +1816,11 @@ Eichmann’s conscience was
 on top of its other failures also
 
 conditioned by
-selfdeception.
-In this regard, s he
+self
+-
+deception.
+In this regard, s
+he
 again
 highlights the
 importance of the use of
@@ -1805,10 +1886,14 @@ evacuation
 
 (Aussiedlung), and
 ‘
-spec ial treatment
+spec
+ial treatment
 ’
 
-(Sonderbehandlung); deportationunless it
+(Sonderbehandlung); deportation
+-
+
+unless it
 involved Jews directed to Theresienstadt, the
 ‘
 old people
@@ -1825,7 +1910,8 @@ change of residence
 
 received
 the names of
-‘r esettlement
+‘r
+esettlement
 ’
 (Umsiedlung) and
 ‘
@@ -1864,7 +1950,8 @@ economic
 vocabulary.
 The
 
-e xtermination
+e
+xtermination
 
 of
 Jews was
@@ -1877,7 +1964,9 @@ a
 
 Fordian
 
-worksystem
+work
+-
+system
 .
 Concentration camps
 resembled
@@ -1889,12 +1978,15 @@ produced
 on
 
 assembly
-line s
-, a nd the murderers were
+line
+s
+, a
+nd the murderers were
 totally alienated from the product of their work.
 
 For Arendt,
-t his also explains
+t
+his also explains
 why
 
 Eichmann’s conscience
@@ -1925,7 +2017,8 @@ was
 very simple and probably very
 effective; it consisted in turning these instincts around, as it were, in directing them
 toward the self. So that instead of saying: What horrible things I did to people!, the
-murderers would be able to say: What horrible thi ngs I had to watch in the
+murderers would be able to say: What horrible thi
+ngs I had to watch in the
 
 pursuance of
 my duties, how heavily the task weighed upon my shoulders!”

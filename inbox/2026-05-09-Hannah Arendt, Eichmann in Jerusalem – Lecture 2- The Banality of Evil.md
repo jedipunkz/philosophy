@@ -7,7 +7,7 @@ publication: ""
 download: "https://philarchive.org/archive/BUEHAE-2"
 pdf: "https://philpapers.org/archive/BUEHAE-2.pdf"
 captured_at: "2026-05-09T07:25:18Z"
-updated_at: "2026-05-09T07:41:42Z"
+updated_at: "2026-05-09T08:10:50Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
@@ -16,8 +16,7 @@ tags:
   - "政治哲学"
   - "現代思想"
   - "全体主義"
-status: processed
-processed_to: "西洋哲学/現代/ハンナ・アーレント-現代研究動向.md"
+status: raw
 ---
 
 # Hannah Arendt, Eichmann in Jerusalem – Lecture 2: The Banality of Evil
@@ -130,7 +129,8 @@ four
 
 sections.
 
-First, w e
+First, w
+e
 discuss
 
 various
@@ -138,7 +138,8 @@ various
 concepts
 
 of evil philosophers have
-advance d over time
+advance
+d over time
 . Second, we
 review
 
@@ -146,13 +147,15 @@ Kant’s
 perversion theory of evil
 .
 Third, we examine Eichmann’s
-mis use of Kant’s
+mis
+use of Kant’s
 categorical imperative.
 Finally,
 we
 reconstruct
 
-Arendt’s concept ion of
+Arendt’s concept
+ion of
 radical
 evil, which
 
@@ -165,7 +168,8 @@ the banality of evil
 
 which
 she
-develop ed
+develop
+ed
 
 in response to the Eichmann trial.
 
@@ -186,7 +190,8 @@ destroyed Lisbon
 
 and claimed
 
-ten s of
+ten
+s of
 
 thousands
 
@@ -198,7 +203,8 @@ of evil
 (Neiman, 2015, p. 3)
 .
 
-Kant wrote three essays on the natu ral causes
+Kant wrote three essays on the natu
+ral causes
 
 of earthquakes
 
@@ -229,12 +235,14 @@ evil
 
 2
 
-While n atural evils
+While n
+atural evils
 are not
 caused by
 
 human conduct,
-m oral evils,
+m
+oral evils,
 in
 
 contrast, are based
@@ -251,7 +259,8 @@ are
 often
 cited as
 
-example s of the latter
+example
+s of the latter
 .
 
 1.
@@ -262,14 +271,16 @@ Natural evil (malum physicum)
 
 In her comprehensive study
 
-o f
+o
+f
 
 the topic
 ,
 Susan
 Neiman
 
-contend s
+contend
+s
 
 that the Lisbon
 earthquake did not only change
@@ -329,17 +340,28 @@ One of the major question religious scholars
 asked themselves was
 how to reconcile the existence of evil with
 the doctrine of an
-allpowerful, allknowing, allgood God
+all
+-
+powerful, all
+-
+knowing, all
+-
+good God
 .
 Manichaean dualism
-, develop ed
+, develop
+ed
 
 in the third century
 AD,
 
-offer ed a
+offer
+ed a
 
-solution to th is socalled
+solution to th
+is so
+-
+called
 
 “
 Theodicy
@@ -349,10 +371,13 @@ problem
 .
 For Manichaeans, God
 was
-neither allpowerful nor the sole creator of the world
+neither all
+-
+powerful nor the sole creator of the world
 . Instead, they
 
-argue d
+argue
+d
 
 that the
 universe
@@ -367,7 +392,8 @@ Restoring the belief that God is the sole creator,
 Neoplatonists such as Augustine
 provided a different solution. They
 
-argue d
+argue
+d
 
 that evil does
 not exist as substance but as a privation / absence of God
@@ -405,12 +431,15 @@ can be used not
 only
 to explain
 
-phe nomen a
+phe
+nomen
+a
 ,
 but
 also to
 justify
-pol icy
+pol
+icy
 .
 
 This was arguably
@@ -435,7 +464,8 @@ associated with the 9/11
 
 terrorist
 
-attack s
+attack
+s
 .
 
 3
@@ -447,12 +477,14 @@ Evil
 
 Before
 this
-re turn
+re
+turn
 
 to Manicheanism
 ,
 
-Kan t
+Kan
+t
 had
 redefined evil
 
@@ -463,12 +495,14 @@ work on
 Religion within
 the Limits of Reason Alone
 . In
-th is book, published in
+th
+is book, published in
 1793,
 
 he
 
-distinguishe s
+distinguishe
+s
 
 three
 types
@@ -484,7 +518,8 @@ smallest to the greatest
 
 Kant
 
-call s
+call
+s
 
 the first
 “frailty”
@@ -494,7 +529,8 @@ evil of frailty is characterised by
 unstable and
 unreliable
 
-moral agen ts.
+moral agen
+ts.
 They want to do what is morally right because
 it is
 
@@ -540,12 +576,15 @@ liked by others.
 Kant
 argues that
 
-f railty
+f
+railty
 is
 better
-than i mpurity since
+than i
+mpurity since
 
-it doe s
+it doe
+s
 
 not involve any
 attempt to corrupt
@@ -569,7 +608,8 @@ perversity
 .
 
 In this case,
-moral agents solely prioritise their own personal interest. In other words, the y
+moral agents solely prioritise their own personal interest. In other words, the
+y
 
 act for the
 wrong reasons
@@ -589,7 +629,8 @@ moral
 evil
 , for instance,
 
-if the y
+if the
+y
 
 merely
 save
@@ -599,7 +640,8 @@ because
 they
 want
 
-to be loved by t hat person
+to be loved by t
+hat person
 .
 In this case,
 the moral
@@ -616,7 +658,8 @@ them at
 
 all
 .
-Instead, the y have
+Instead, the
+y have
 completely
 
 corrupted the
@@ -649,14 +692,16 @@ evil
 ,
 Kant
 never tells his reader what
-parti cular deeds are evil
+parti
+cular deeds are evil
 . He
 merely
 takes a stance on
 
 what
 
-disposition s
+disposition
+s
 
 we
 should not
@@ -666,7 +711,9 @@ others
 .
 
 Second,
-Huaping LuAdler
+Huaping Lu
+-
+Adler
 
 argues that
 
@@ -679,7 +726,9 @@ to be addressed on its own. Rather, he treated it primarily in terms
 of its function in human history
 ”
 
-(LuAdler, 2022, p. 263)
+(Lu
+-
+Adler, 2022, p. 263)
 .
 
 Neiman
@@ -692,7 +741,8 @@ to natural
 
 evils.
 In response to the Lisbon
-catastrophe, h e
+catastrophe, h
+e
 claimed
 
 “that earthquakes sometimes have beneficial consequences
@@ -740,11 +790,14 @@ have
 invoked
 history
 
-as a justifi cation
+as a justifi
+cation
 .
 
 The
-j us tificatory
+j
+us
+tificatory
 
 principle
 
@@ -775,13 +828,17 @@ Kant, moral philosophy was
 concerned with individual moral conduct.
 At best, he
 opposed
-s ome
+s
+ome
 
-mis treatment of slaves
+mis
+treatment of slaves
 
 by individual slaveholders
 
-(LuAdler, 2025, p. 8)
+(Lu
+-
+Adler, 2025, p. 8)
 .
 
 His
@@ -813,7 +870,9 @@ of civilising
 the natives in order to create the conditions for the
 development of reason
 
-(LuAdler, 2025, p. 14)
+(Lu
+-
+Adler, 2025, p. 14)
 .
 
 4
@@ -822,18 +881,21 @@ Today, we find
 a similar
 
 belief in progress
-in the most perverted version s
+in the most perverted version
+s
 
 of the philosophy
 of
-l ongtermism
+l
+ongtermism
 .
 Invoking
 
 the moral relevance of
 future generations
 
-and human s in the
+and human
+s in the
 abstract
 , it
 warrants any
@@ -851,7 +913,8 @@ A perverted
 version of longermism,
 
 for instance, assumes that
-human s
+human
+s
 
 will
 
@@ -870,12 +933,14 @@ and
 death among current generations.
 
 Eichmann’s
-Mis use of Kant’s Categorical Imperative
+Mis
+use of Kant’s Categorical Imperative
 
 Given
 his
 
-action s
+action
+s
 
 seem
 
@@ -884,7 +949,8 @@ to correspond to
 Kant’s perversion theory of evil
 ,
 
-it seems rathe r
+it seems rathe
+r
 ironic that
 
 Eichmann
@@ -892,7 +958,8 @@ Eichmann
 highlighted in a
 police interrogation that
 he
-ha d
+ha
+d
 
 always strived to
 live according to Kant’s categorical imperative.
@@ -910,7 +977,8 @@ day of the trial
 
 Eichmann
 , to the surprise of most spectators,
-g ave
+g
+ave
 
 a fairly accurate definition of
 
@@ -925,7 +993,8 @@ my will must always be such that it can become the principle of universal laws
 ”.
 
 A
-ware that his action s as Nazi officer contradict this principle,
+ware that his action
+s as Nazi officer contradict this principle,
 he
 
 moreover
@@ -933,7 +1002,8 @@ moreover
 claims
 
 that
-o n
+o
+n
 ce
 
 he
@@ -974,7 +1044,10 @@ had not simply dismissed the Kantian
 formula
 
 as no longer applicable, he had distorted it to read: Act as if the principle of your
-actions were the same as that of the legislator or of the law of the landor, in Hans Frank
+actions were the same as that of the legislator or of the law of the land
+-
+
+or, in Hans Frank
 ’
 s
 formulation of
@@ -1017,9 +1090,13 @@ Arendt strongly refutes such a reading
 “Kant, to be sure, had never intended to say anything of the sort; on the contrary, to him
 every man was a legislator the moment he started to act… Much of the horribly
 painstaking thoroughness in the execution of the Final Solution… can be traced to the
-o dd notion, indeed very common in Germany, that to be lawabiding means not merely
+o
+dd notion, indeed very common in Germany, that to be law
+-
+abiding means not merely
 to obey the laws but to act as though one were the legislator of the laws that one obeys.
-Hence the conviction that nothin g less than going beyond the call of duty will do.
+Hence the conviction that nothin
+g less than going beyond the call of duty will do.
 Whatever Kant
 ’
 s role in the formation of
@@ -1040,7 +1117,8 @@ ebook)
 5
 
 Arendt highlights here that many Germans went beyond respect for the
-l aw
+l
+aw
 
 in that they
 
@@ -1063,13 +1141,16 @@ and
 
 obligatory.
 
-Fr om this
+Fr
+om this
 state
 
 of absolute obedience to the
-l aw
+l
+aw
 ,
-s he derives two conclusions
+s
+he derives two conclusions
 :
 First, the most reliable people are the sceptics
 ,
@@ -1086,7 +1167,8 @@ authority of laws
 fundamentally arises not
 
 from it being the
-l aw
+l
+aw
 ,
 
 but from their
@@ -1130,18 +1212,21 @@ is grounded in an
 
 evil will. Instead, it has three characteristics
 .
-Arendt calls the first “s uperfluousness
+Arendt calls the first “s
+uperfluousness
 ”. She
 
 contends that
 
-t he Shoah is
+t
+he Shoah is
 characterised by
 the
 Nazi’s attempt to make Jews
 
 superfluous.
-For her, t hey
+For her, t
+hey
 went beyond the physical
 destruction of life
 
@@ -1151,9 +1236,11 @@ by depriving Jews of their humanity
 The second
 
 characteristic of
-radical evil is that it is u npunishable
+radical evil is that it is u
+npunishable
 . Arendt argues that
-given the sc ale
+given the sc
+ale
 
 and
 gravity
@@ -1183,22 +1270,29 @@ Shoah
 are so
 brutal
 
-that those who commit ted them cannot be forgiven.
+that those who commit
+ted them cannot be forgiven.
 
-In her own words, s he writes: “in their effort to prove that everything is possible,
+In her own words, s
+he writes: “in their effort to prove that everything is possible,
 totalitarian regimes have discovered without knowing it that there are crimes which men
 can neither punish nor forgive. When the impossible was made possible it became the
-unpunishable, unfo rgivable absolute evil which could no longer be understood and
-explained by the evil motives of selfinterest, greed, covetousness, resentment, lust for
+unpunishable, unfo
+rgivable absolute evil which could no longer be understood and
+explained by the evil motives of self
+-
+interest, greed, covetousness, resentment, lust for
 power, and cowardice; and which therefore anger could not revenge, love could not
-en dure, friendship could not forgive. Just as the victims in the death factories… are no
+en
+dure, friendship could not forgive. Just as the victims in the death factories… are no
 longer “human” in the eyes of their executioners, so this newest species of criminals is
 beyond the pale even of solidarity in human sinfulness.
 
 It is inherent in our entire
 philosophical tradition that we cannot conceive of a “radical evil,” and this is true both for
 Christian theology, which conceded even to the Devil himself a celestial origin, as well as
-for Kant, the only philosopher who, in t he word he coined for it
+for Kant, the only philosopher who, in t
+he word he coined for it
 , at least must have
 suspected the existence of this evil even though he immediately rationalized it in the
 concept of a “perverted ill will” that could be explained by comprehensible motives.
@@ -1223,27 +1317,32 @@ terms
 
 At a time
 
-when government s
+when government
+s
 
 are
 
-cut ting
+cut
+ting
 
 public
 
 funding for
-trans gender
+trans
+gender
 
 and disabled
 health care
 , Arendt’s
 
-notion of superfluousness as an element of radic al evil seems as
+notion of superfluousness as an element of radic
+al evil seems as
 relevant
 
 as ever.
 When
-li ves
+li
+ves
 
 are
 
@@ -1272,11 +1371,13 @@ expendable
 A recent study by
 
 the Glasgow
-Centre for Population Health and the University of Glasgo w offers
+Centre for Population Health and the University of Glasgo
+w offers
 evidence
 of
 
-s uch
+s
+uch
 
 moral
 
@@ -1296,8 +1397,10 @@ England, death rates increased by approximately 3%
 … The study adds to the growing
 evidence of the profound and deeply concerning changes to mortality trends observed
 as a result of UK Government economic ‘austerity’ policies. These have slashed billions
-of pounds from our public services and social securi ty system with devastating impacts.
-Without support, people have been swept up by a rising ti de of poverty and dragged under
+of pounds from our public services and social securi
+ty system with devastating impacts.
+Without support, people have been swept up by a rising ti
+de of poverty and dragged under
 by decreased income, poor housing, poor nutrition, poor health and social isolation
 –
 
@@ -1318,7 +1421,8 @@ radical
 
 Confronted with
 
-Eich mann
+Eich
+mann
 ’s
 ordinary
 
@@ -1330,7 +1434,8 @@ that
 it
 
 is not
-radical but banal. Years be fore she spells out this idea
+radical but banal. Years be
+fore she spells out this idea
 , Karl Jaspers had mentioned the
 term
 “banality of things” for the first time
@@ -1338,12 +1443,14 @@ in a letter
 about his
 
 inquiry into the concept of
-guilt. In th is
+guilt. In th
+is
 
 letter, Jaspers
 took the term to mean
 
-that the horrors of the Shoah c ould
+that the horrors of the Shoah c
+ould
 
 be
 described and judged despite their demonic
@@ -1351,17 +1458,21 @@ nature
 .
 
 Arendt
-agree d
+agree
+d
 
 with his assessment.
 She also
-recognis ed
+recognis
+ed
 
 the danger of
 
-mythologi s
+mythologi
+s
 ing
-the Shoah as something beyon d human
+the Shoah as something beyon
+d human
 control
 .
 For
@@ -1369,8 +1480,11 @@ Arendt,
 
 the Shoah
 
-was no t
-Godgiven
+was no
+t
+God
+-
+given
 
 but
 
@@ -1393,7 +1507,8 @@ new concepts were needed
 .
 
 In a response to the philosopher Gershom Scholem in 1963, Arendt
-defines th is new
+defines th
+is new
 concept of
 banal
 evil
@@ -1419,7 +1534,9 @@ precisely because it spreads like a fungus on the surface. It
 
 is
 ‘
-thoughtdefying,
+thought
+-
+defying,
 ’
 
 as I said,
@@ -1458,14 +1575,16 @@ the phrase now stands
 
 –
 
-‘b anality of evil
+‘b
+anality of evil
 ’
 –
 
 it
 
 is contrasted with
-‘r adical evil
+‘r
+adical evil
 ’
 
 (Kant
@@ -1575,12 +1694,14 @@ caused the greatest uproar,
 many
 
 were
-trouble d by her idea of the banality of
+trouble
+d by her idea of the banality of
 evil.
 They mistakenly
 interpreted it as meaning
 
-three things: first, that e vil
+three things: first, that e
+vil
 
 and thus the
 Shoah
@@ -1606,7 +1727,8 @@ an Eichmann in all of us
 and third, that
 the
 
-Jewis h loss of life was
+Jewis
+h loss of life was
 
 banal.
 
@@ -1647,13 +1769,17 @@ Her answer continues with an analysis of how evil comes about and how it can be
 identified. She says:
 “
 We resist evil by not being swept away by the surface of things, by
-stopping ourselves and beginning to thinkthat is, by reaching another dimension than
+stopping ourselves and beginning to think
+-
+
+that is, by reaching another dimension than
 the horizon of everyday life. In other words, the more superficial someone is, the more
 8
 
 likely he will be to yield to evil. An indication of such superficiality is the use of clichés,
 and Eichmann… was a perfect example. Each time he was tempted to think for himself,
-he said: Who am I to judge if all around me… think it is right to murder inn ocent people?
+he said: Who am I to judge if all around me… think it is right to murder inn
+ocent people?
 Or to put it slightly differently: Each time Eichmann tried to think, he thought immediately
 of his career, which up to the end was the thing uppermost on his mind
 ”
@@ -1675,19 +1801,23 @@ one reason why Eichmann
 was willing to
 
 commit wrongdoing was because he
-prioritise d
+prioritise
+d
 
 his
 own personal interest
 , thereby
-corrupt ing
+corrupt
+ing
 
 the moral law.
 
 Eichmann
 
 tried to confirm this
-selfportrayal
+self
+-
+portrayal
 
 several
 times
@@ -1702,7 +1832,9 @@ never
 feel any
 hate toward Jews. While Arendt seemed to belief him
 on this point
-, h istori cal research
+, h
+istori
+cal research
 refutes
 her
 
@@ -1712,10 +1844,13 @@ Eichmann
 had no ill will
 ;
 
-documents show quite c onvincingly
+documents show quite c
+onvincingly
 
 that
-he was fanatical antiS
+he was fanatical anti
+-
+S
 emite
 
 (Krause, 2009, p. 157)
@@ -1773,7 +1908,8 @@ Sassen
 
 the Nazi journalist
 who
-interview ed
+interview
+ed
 
 him in Argentina
 –
@@ -1798,7 +1934,8 @@ story
 2022, p. 131 ebook)
 .
 
-Arendt highlight s
+Arendt highlight
+s
 
 that
 Eichmann
@@ -1833,7 +1970,8 @@ aspect
 of
 
 the
-banal ity of
+banal
+ity of
 
 evil
 
@@ -1889,7 +2027,8 @@ differently
 
 W
 hy
-does n’t
+does
+n’t
 
 their
 
@@ -1902,8 +2041,10 @@ evil
 in the first place
 ?
 
-We will try to answer th ese
-question s
+We will try to answer th
+ese
+question
+s
 
 in our
 next lecture.
@@ -1934,7 +2075,9 @@ The Concept of Evil
 The Stanford
 Encyclopedia of Philosophy
 . Winter 2022. Metaphysics Research Lab, Stanford
-University. Available at: https://plato.stanford.edu/archives/win2022/entries/conceptevil/ (Accessed: 20 June 2025).
+University. Available at: https://plato.stanford.edu/archives/win2022/entries/concept
+-
+evil/ (Accessed: 20 June 2025).
 
 Glasgow Centre for Population Health and University of Glasgow (2022)
 Over 300,000
@@ -1962,12 +2105,21 @@ s Book "March of Nationalism (1926)
 Ernst
 J
 ü
-ngerInterwar Articles
+nger
+-
+
+Interwar Articles
 . Wewelsburg Archives publication
 , pp. 48
 –
 52. Available at:
-https://archive.org/details/ernstjungerinterwararticles/page/n1/mode/2up.
+https://archive.org/details/ernst
+-
+junger
+-
+interwar
+-
+articles/page/n1/mode/2up.
 
 Kant, I. (1799)
 Essays and Treatises on Moral. Political, and Various Philosophical
@@ -1980,7 +2132,9 @@ Kant: Religion Within the Boundaries of Mere Reason: And Other Writings
 Cambridge University Press.
 
 KPMG (2019)
-Futureproofing the University
+Future
+-
+proofing the University
 , pp. 1
 –
 28.
@@ -2003,16 +2157,23 @@ Zeithistorische Forschungen/Studies in Contemporary History
 –
 158.
 
-LuAdler, H. (2022)
+Lu
+-
+Adler, H. (2022)
 ‘
-Kant and SlaveryOr Why he never Became a Racial Egalitarian
+Kant and Slavery
+-
+
+Or Why he never Became a Racial Egalitarian
 ’
 ,
 Critical Philosophy of Race
 , 10(2). Available at:
 https://doi.org/10.5325/critphilrace.10.2.0263.
 
-LuAdler, H. (2025)
+Lu
+-
+Adler, H. (2025)
 ‘
 Slavery and Kant
 ’

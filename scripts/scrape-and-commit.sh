@@ -24,7 +24,7 @@ done
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$repo_root"
 
-docker compose run --rm scraper
+scripts/scrape.sh
 
 if [ -z "$(git status --porcelain -- inbox .scrapem/seen-urls.json)" ]; then
   echo "No scraped inbox changes to commit."

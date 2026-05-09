@@ -20,26 +20,35 @@ sources:
     search_url: https://philarchive.org/s/{query}
 
   - name: philpapers
-    enabled: false
+    enabled: true
     type: html
     base_url: https://philpapers.org
     search_url: https://philpapers.org/s/{query}
 
   - name: arxiv
-    enabled: false
+    enabled: true
     type: api
     base_url: https://export.arxiv.org/api/query
     search_url: https://export.arxiv.org/api/query?search_query=all:{query}&start=0&max_results=10
 
 keywords:
-  - name: ハンナ・アーレント
+  # - name: ハンナ・アーレント
+  #   queries:
+  #     - Hannah Arendt
+  #     - Hannah Arendt totalitarianism
+  #     - Hannah Arendt The Human Condition
+  #   sources:
+  #     - philarchive
+  #   tags:
+  #     - 政治哲学
+  #     - 現代思想
+  #     - 全体主義
+  - name: ユング
     queries:
-      - Hannah Arendt
-      - Hannah Arendt totalitarianism
-      - Hannah Arendt The Human Condition
+      - Carl Gustav Jung
     sources:
       - philarchive
+      - philpapers
+      - arxiv
     tags:
-      - 政治哲学
       - 現代思想
-      - 全体主義

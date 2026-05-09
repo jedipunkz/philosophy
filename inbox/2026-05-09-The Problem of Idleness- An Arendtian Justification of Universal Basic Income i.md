@@ -7,7 +7,7 @@ publication: "Dissertation, University of Ottawa ( 2019 )"
 download: "https://philarchive.org/archive/LEWTPO-47"
 pdf: "https://philpapers.org/archive/LEWTPO-47.pdf"
 captured_at: "2026-05-09T07:25:25Z"
-updated_at: "2026-05-09T07:43:27Z"
+updated_at: "2026-05-09T08:12:34Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
@@ -16,8 +16,7 @@ tags:
   - "政治哲学"
   - "現代思想"
   - "全体主義"
-status: processed
-processed_to: "西洋哲学/現代/ハンナ・アーレント-現代研究動向.md"
+status: raw
 ---
 
 # The Problem of Idleness: An Arendtian Justification of Universal Basic Income in the Face of Mass Automation
@@ -84,7 +83,9 @@ Sophie Bourgault
 
 ___________________________
 
-JeanPierre Couture
+Jean
+-
+Pierre Couture
 
 A Thesis Submitted to the Faculty of Graduate and
 Postdoctoral Studies in Partial Fulfillment of the
@@ -111,7 +112,8 @@ cknowledgements
 iv
 
 Chapter One: A Gap
-i n the Universal Basic Income Literature...........
+i
+n the Universal Basic Income Literature...........
 ...........
 .....
 .....................................................
@@ -146,7 +148,8 @@ A Criticism of Liberalism
 
 1
 .4 ~
-The Problem in the Liberal Ap proach to UBI
+The Problem in the Liberal Ap
+proach to UBI
 ..................
 ...............................................
 ................
@@ -154,7 +157,9 @@ The Problem in the Liberal Ap proach to UBI
 .
 8
 
-1.5 ~ Discussion of the NonLiberal Approaches......................................................................................
+1.5 ~ Discussion of the Non
+-
+Liberal Approaches......................................................................................
 1
 2
 
@@ -256,7 +261,9 @@ An Introduction to the Art Process
 9
 
 ~
-Art and ArtWork
+Art and Art
+-
+Work
 ......................................................
 ...........
 ............................................
@@ -268,7 +275,10 @@ Art and ArtWork
 10
 
 ~
-Art and ArtLabo u
+Art and Art
+-
+Labo
+u
 r
 ..........................................
 ..................................................
@@ -276,7 +286,9 @@ r
 6
 5
 
-2.11 ~ Art and ArtAction......
+2.11 ~ Art and Art
+-
+Action......
 .........................................................................................................................
 6
 8
@@ -350,15 +362,20 @@ The Human
 Condition
 —
 namely, ‘the problem of idleness’. This problem is related to the three types of human Arendt
-identifies as correlated to dominant activities in one’s li fe,
+identifies as correlated to dominant activities in one’s li
+fe,
 animal laborans, homo faber,
 
 and the acting person. It
 explores Arendt’s predictions of an oncoming automation crisis, and the possibility of a corresponding crisis in
 the production
 —
-consumption cycle. The problem of idleness can be understood as the c laim that if people are
-provided freedom from jobholding so that they may pursue other activities, they w ould
+consumption cycle. The problem of idleness can be understood as the c
+laim that if people are
+provided freedom from job
+-
+holding so that they may pursue other activities, they w
+ould
 
 likely
 
@@ -377,7 +394,8 @@ demonstrates what the problem of idleness is, why it is important, and what poss
 contributes to the UBI literature by diagnosing and attempting to solve
 a gap in the literature which I argue
 would cause practical challenges in the implementation and stability of a UBI system. I also contribute to the
-Arendtian literature by problematizing traditional readings of Arendt, and offering a reappraisal of her th ought
+Arendtian literature by problematizing traditional readings of Arendt, and offering a reappraisal of her th
+ought
 on Marx, art, and the social.
 
 Lewicki
@@ -399,16 +417,20 @@ ourgault
 for her insights on Arendt, and her
 meaningful
 early support on the project. J
-eanPierre
+ean
+-
+Pierre
 
 Couture
 
 also deserves a great deal of thanks for his work
 on the committee,
 his insightful and pressing challenges, and ultimately his support. There were also a great
-deal of people behind the scenes aiding me in the process. Whether by providing emotional suppo rt,
+deal of people behind the scenes aiding me in the process. Whether by providing emotional suppo
+rt,
 someone to bounce ideas off, or grammatical insights, they all had a part to play. These people are my family,
-Ken Hicks, Amanda Hicks, Nazanin Zar e
+Ken Hicks, Amanda Hicks, Nazanin Zar
+e
 pour, S
 arah
 
@@ -420,7 +442,8 @@ Amy Parker,
 
 Bruce McKenna,
 and Jasmine Van Schouwen.
-Enfin, je voudrai s remercier l’Université d’Ottawa et l’École d'études politiques.
+Enfin, je voudrai
+s remercier l’Université d’Ottawa et l’École d'études politiques.
 
 Lewicki
 1
@@ -600,7 +623,8 @@ UBI.
 
 It
 
-shou ld
+shou
+ld
 
 be
 
@@ -642,7 +666,9 @@ another
 
 to
 
-preMarxist
+pre
+-
+Marxist
 
 socialism.
 
@@ -704,7 +730,8 @@ a
 
 world
 
-near ly
+near
+ly
 
 unreconcilable
 
@@ -853,7 +880,9 @@ signal
 
 a
 
-meanstested
+means
+-
+tested
 
 system
 
@@ -883,7 +912,9 @@ above
 
 the
 
-povertyline.
+poverty
+-
+line.
 2
 
 Third,
@@ -1280,7 +1311,8 @@ R.Folwell
 
 for
 
-B.Frankli n
+B.Frankli
+n
 
 Bache,
 
@@ -1435,7 +1467,8 @@ Guaranteed
 
 Basic
 
-Incom e,
+Incom
+e,
 
 which
 
@@ -1587,7 +1620,8 @@ territory
 
 or
 
-resour ce.
+resour
+ce.
 
 While
 
@@ -1687,7 +1721,8 @@ make
 
 UBI
 
-unfe asible
+unfe
+asible
 .
 
 The
@@ -1838,7 +1873,8 @@ in
 
 two
 
-wa ys.
+wa
+ys.
 
 First,
 
@@ -1932,7 +1968,8 @@ problem
 
 we
 
-fi rst
+fi
+rst
 
 address.
 
@@ -2061,7 +2098,8 @@ chapter
 
 will
 
-giv e
+giv
+e
 
 an
 
@@ -2099,7 +2137,8 @@ champions
 of UBI ought not merely to think of freedom as
 liberal choice
 , and that activities and their worth must be taken into account, that we must consider what each
-activity is. This is inherently a perfectionist claim; however, I believe it is both Arendt’s in tention, and fully
+activity is. This is inherently a perfectionist claim; however, I believe it is both Arendt’s in
+tention, and fully
 Lewicki
 3
 
@@ -2119,7 +2158,8 @@ to job holding
 exist, and how we may conceptualize them, including what broad reforms I view as necessary
 for achieving them. However
 
-before moving on to these f urther arguments
+before moving on to these f
+urther arguments
 ,
 
 I should examine
@@ -2134,7 +2174,8 @@ basic
 relationship
 
 between societal structure and human activities. As such, my goal for the next
-part of this chapter is to explain this relation, and then, expanding upon it, again bring int o the fold the
+part of this chapter is to explain this relation, and then, expanding upon it, again bring int
+o the fold the
 importance of a UBI
 that promotes
 
@@ -2380,7 +2421,8 @@ the
 
 Digital
 
-Revo lution
+Revo
+lution
 
 Is
 
@@ -2440,7 +2482,8 @@ the
 
 Impact
 
-o f
+o
+f
 
 Automation
 
@@ -2675,7 +2718,8 @@ of
 
 Human
 
-Resou rce
+Resou
+rce
 
 Management
 
@@ -2691,7 +2735,9 @@ no.
 –
 243;
 
-JonArild
+Jon
+-
+Arild
 
 Johannessen,
 
@@ -2752,7 +2798,8 @@ Raton,
 
 FL:
 
-Rou tledge,
+Rou
+tledge,
 
 ©2019,
 
@@ -2987,7 +3034,8 @@ Yampolskiy,
 
 “Corrigendum:
 
-Respon ses
+Respon
+ses
 
 to
 
@@ -3053,7 +3101,9 @@ Alternatives
 
 for
 
-PostIndustrial
+Post
+-
+Industrial
 
 Societies
 ,
@@ -3066,7 +3116,8 @@ of
 
 Political
 
-Ec onomy
+Ec
+onomy
 
 ;
 
@@ -3126,7 +3177,9 @@ she
 
 called
 
-musclepower,
+muscle
+-
+power,
 
 she
 
@@ -3144,7 +3197,9 @@ computers
 
 replacing
 
-brainpower,
+brain
+-
+power,
 
 and
 
@@ -3234,7 +3289,8 @@ us
 
 today.
 
-Hanna h
+Hanna
+h
 
 Arendt,
 
@@ -3295,11 +3351,14 @@ in order to promote certain activities
 . These activities are art, politics, and, perhaps,
 contemplation
 . However, I have not yet clearly expressed the underlying claim that the structure of a society
-can orient people towards or away from certain activities. I will explore this idea later to t he extent that I will
+can orient people towards or away from certain activities. I will explore this idea later to t
+he extent that I will
 talk about Arendt’s fear that we would be freed from labour and work at the very moment when our collective
 mindset no longer knew anything else. Indeed, the idea that societal structure informs individual movement,
-ability, thought a nd desire appears at the heart of the Arendtian distinctions between labour, work, and action,
-and also appears prevalent ly
+ability, thought a
+nd desire appears at the heart of the Arendtian distinctions between labour, work, and action,
+and also appears prevalent
+ly
 
 in her conception of the social and the totalitarian mindsets. Still, I would like to
 make my rather prescriptivist claim as clearly
@@ -3313,7 +3372,8 @@ conception of the work ethic.
 Ahmed
 , who in
 Queer Phenomenology
-, is interested in explori ng the relationship between one’s
+, is interested in explori
+ng the relationship between one’s
 surroundings and one’s interaction with them
 . She
 writes
@@ -3327,7 +3387,8 @@ objects”.
 I would add that it is also to be turned towards certain actions
 ;
 
-h owever, with this claim
+h
+owever, with this claim
 ,
 
 I am not
@@ -3346,14 +3407,16 @@ in
 the person but rather is about whether the person and the thing face each other
 in the right way
 .
-When things are oriented they a re facing the right way: in other words, the objects around the body allow the
+When things are oriented they a
+re facing the right way: in other words, the objects around the body allow the
 body itself to be extended.”
 8
 
 This is to say that an “action is possible when the body and the object “fit”.”
 9
 
-Further, whether an action is possible, which is to say whe n
+Further, whether an action is possible, which is to say whe
+n
 
 the body and the object fit, is dependent upon
 what Ahmed calls the background:
@@ -3420,17 +3483,24 @@ salaried work. In doing so we have placed art, action and thought into the backg
 means less attention can be paid to salaried work. Further, action and
 the creation of
 
-art, and even others’ nonsalaried work (such as priva te care work) is relegated to this background but also sustains salaried work’s
+art, and even others’ non
+-
+salaried work (such as priva
+te care work) is relegated to this background but also sustains salaried work’s
 dominance. One example of this could be the transformation of universities from institutions focused on
-thought and thinking into institutions increasingly oriented towards jobtraining. In Arendtian terms this would
+thought and thinking into institutions increasingly oriented towards job
+-
+training. In Arendtian terms this would
 be the encroachment of the social, but in Ahmed’s terms we can also see that
 this transformation
 
 places the
-original function of the university into the background. Further we could say that once someone has taken u p
+original function of the university into the background. Further we could say that once someone has taken u
+p
 a salaried position, attained in part by having a university degree, the years and effort to achieve the degree
 become the background for the work. In Marxist terms, we could call this ideology. That is, how social structure
-limits and directs our choice s and actions towards objects. However, it works with equal clarity in Ahemd’s
+limits and directs our choice
+s and actions towards objects. However, it works with equal clarity in Ahemd’s
 phenomenological consideration.
 
 How we are all
@@ -3446,7 +3516,8 @@ of certain objects more than others
 Further,
 what
 “is at stake here is not only the relation between the body and ‘what’ is near, but also the relation
-between things that are near. […] The nearness of the objects to eac h other is because they tend towards a
+between things that are near. […] The nearness of the objects to eac
+h other is because they tend towards a
 shared action. Objects might be near other objects as signs of orientation, which shapes the arrangement of
 objects, thereby creating the shape of their gathering”
 .
@@ -3454,7 +3525,8 @@ objects, thereby creating the shape of their gathering”
 
 This gathering,
 
-it must be remembered, exists as b oth
+it must be remembered, exists as b
+oth
 orienting and inherited as the “nearness of objects to each other comes to be lived as what is already given”.
 13
 
@@ -3508,11 +3580,13 @@ Ibid.
 Lewicki
 6
 
-take as given, and which is faci litated by the organization of objects and structures in the background of our
+take as given, and which is faci
+litated by the organization of objects and structures in the background of our
 lives.
 
 To place this both in Arendtian terms, and in relation to this thesis, if we are socially oriented towards
-jobholding, if the structure of our society enforces the mindse t of
+jobholding, if the structure of our society enforces the mindse
+t of
 homo faber,
 
 then what people will wish to do
@@ -3523,13 +3597,15 @@ work, something they no longer can do.
 14
 
 As Kathi Weeks puts it, the “work ethic may invoke the ideal of
-individualism, but the subject of those ideals must be managed in accordance with the strict exigen cies of
+individualism, but the subject of those ideals must be managed in accordance with the strict exigen
+cies of
 capitalist production and reproduction”.
 15
 
 As such, I will argue that in instituting UBI and other reforms, we
 must do so in a way that orients people towards the other activities. Of course, as Ahmed points out, “In order
-to become oriented you mig ht suppose we must first become disoriented”.
+to become oriented you mig
+ht suppose we must first become disoriented”.
 16
 
 This disorientation would be for
@@ -3544,7 +3620,8 @@ be successfully interpellated.”
 17
 
 W
-hile our orientations are to some extent inherited they can also be reje cted
+hile our orientations are to some extent inherited they can also be reje
+cted
 .
 
 Ahmed notes
@@ -3570,7 +3647,8 @@ for her the gay person is queer insofar as they are not oriented towards the nor
 is the opposite sex. She expands on this in a way that is useful to us, writing that
 for
 “a life to count as a good
-life, then it mus t return the debt of its life by taking on the direction promised as a social good, which means
+life, then it mus
+t return the debt of its life by taking on the direction promised as a social good, which means
 imagining one’s futurity in terms of reaching certain points along a life course. A queer life might be one that
 fails to make such gestures of return.”
 19
@@ -3663,7 +3741,8 @@ Weeks,
 
 The
 
-Pro blem
+Pro
+blem
 
 With
 
@@ -3727,7 +3806,8 @@ Interestingly,
 
 Ahmed
 
-conside rs
+conside
+rs
 
 the
 
@@ -3802,7 +3882,8 @@ Phenomenology
 
 Orientations,
 
-Obje cts,
+Obje
+cts,
 
 Others
 
@@ -3858,11 +3939,13 @@ fourth children who you wish to see comfortable with their own jobs before
 
 fifth, retirement (which
 is both a reward, and dreaded inactivity). A queer life, in this context, would
-be one increasingly experience d
+be one increasingly experience
+d
 
 by people, either by force (they did not receive the permanent position or the presumed promotions), or by
 choice (they value other activities more centrally). In this regard, I am rather arguing for a queering or a
-reorient ation from the normativity of the work orientation.
+reorient
+ation from the normativity of the work orientation.
 
 A Criticism of Liberalism
 
@@ -3872,7 +3955,8 @@ What’s the Matter with Liberalism
 B
 einer appeals to a return to a political
 theory that “can specify the basic moral and political needs of human beings, and a repudiation of the formalistic
-preoccupation with rights, interests, and rational preferences. The latter have been the staple of p olitical
+preoccupation with rights, interests, and rational preferences. The latter have been the staple of p
+olitical
 philosophy.”
 20
 
@@ -3880,15 +3964,19 @@ That Beiner places Arendt as central to this project notably puts him in conflic
 modernist reading of Arendt so championed by Benhabib, which claims
 
 “Hannah Arendt’s conception of
-politics and of the political is quite inco nceivable, unintelligible even, without a strongly grounded normative
+politics and of the political is quite inco
+nceivable, unintelligible even, without a strongly grounded normative
 position in universalistic human rights”.
 21
 
 Indeed, it is rather peculiar that Arendt could be championed as
-illiberal considering her support for rights and her work against totalitarian ism. However, as Beiner notes,
+illiberal considering her support for rights and her work against totalitarian
+ism. However, as Beiner notes,
 Arendt is illiberal in at least one, very important, way. Arendt claims a clear telos towards the good life. As such,
 B
-ei ner argues that Arendt is among the most notable among recent theorists “that offer a genuine alternativ e
+ei
+ner argues that Arendt is among the most notable among recent theorists “that offer a genuine alternativ
+e
 to liberalism” through the promotion of a new republicanism.
 22
 
@@ -4014,8 +4102,12 @@ Lewicki
 8
 
 What remains most notable to me about B
-ei ner’s account of Arendt’s antiliberalism is his emphasis
-on the “allocation of priorities in a society”, and the dynamics at work that make these pri orities less connected
+ei
+ner’s account of Arendt’s anti
+-
+liberalism is his emphasis
+on the “allocation of priorities in a society”, and the dynamics at work that make these pri
+orities less connected
 to liberal free will than often emphasized.
 23
 
@@ -4028,14 +4120,21 @@ of
 modern society as quintessentially, a society of laborers or a society of jobholders is an
 
 account of the
-modern regime, of the normenforcing ethos of modernity. By a jobholder’s society, Arendt meant a
+modern regime, of the norm
+-
+enforcing ethos of modernity. By a jobholder’s society, Arendt meant a
 society in which it is dictated that “whatever we do, we are supposed to do for the sake of making a
-living’ ”; a society governed by the “tre nd to level down all serious activities to the status of making a
+living’ ”; a society governed by the “tre
+nd to level down all serious activities to the status of making a
 living.” As she puts it: “Even presidents, kings, and prime ministers think of their offices in terms of a
-job necessary of the life of society.” Again, it is certainly wrong to conceive lib eral society, as it is often
-conceived, as merely offering a neutral grid within which individuals can pursue their selfdefined
+job necessary of the life of society.” Again, it is certainly wrong to conceive lib
+eral society, as it is often
+conceived, as merely offering a neutral grid within which individuals can pursue their self
+-
+defined
 activities. Every society is shaped as the society that it is by an implicit ranking of activities as
-paradigmatically worthy o f pursuit
+paradigmatically worthy o
+f pursuit
 —
 or by the canonization of certain activities as supremely human,
 relative to other activities that are correspondingly stigmatized.”
@@ -4049,22 +4148,28 @@ repeatedly:
 
 with the loss of jobs we face not only an economic problem, but a societal and existential one, and as such, any
 solution, such as UBI, which would solve this problem must also aim to solve its existential aspects. That is to
-say, a liberal app roach to UBI in which one’s worth remains tied to employment, and where jobholding is still
+say, a liberal app
+roach to UBI in which one’s worth remains tied to employment, and where jobholding is still
 the height of the hierarchy, will fail to resolve the central crux of the issue. If there is to be a major automation
-crisis which results in the loss of and nonr eplacement of a majority of our jobs, then we must find activities to
+crisis which results in the loss of and non
+-
+r
+eplacement of a majority of our jobs, then we must find activities to
 occupy ourselves and provide worth and value to us outside of jobholding. As I will argue in this dissertation,
 Arendt has pointed out a few clear options to us in this regard including
 art, action, and thinking. While these
 are worthwhile, they will not necessarily be readily adopted without effort put in to providing them to the
 people, making them both materially available, and existentially desirable. As such, UBI must be instituted
-a longside other connected reforms to revalorize these activities.
+a
+longside other connected reforms to revalorize these activities.
 
 The Problem in the Liberal Approach to UBI
 
 It should
 
 then come as no surprise to the attentive reader, that the major issue with liberal oriented
-UBI is the same problem that Ronald Beiner i dentifies as a central problem in liberal theory
+UBI is the same problem that Ronald Beiner i
+dentifies as a central problem in liberal theory
 :
 
 the liberal UBI
@@ -4118,7 +4223,8 @@ Lewicki
 9
 
 discourse refuses to provide an alternative orientation for UBI than towards work, which is no longer a logical
-or desirable orientation in the face of automation. One of the largest and mos t influential proponents of UBI
+or desirable orientation in the face of automation. One of the largest and mos
+t influential proponents of UBI
 Philippe Van Parijs
 (
 who is not technically a liberal but cited as both a liberal
@@ -4131,19 +4237,23 @@ depending on
 the author
 )
 
-has been instrumental in supporting this orientationless, antiperfectionist UBI, writing that “the
+has been instrumental in supporting this orientationless, anti
+-
+perfectionist UBI, writing that “the
 
 shaping of our social institutions should be not guided by a specific conception of the good life, but by a
 coherent and plausible conception of justice”.
 27
 
 Notably, sometimes the implicit orientation towards work that
-Beiner points out is explicitly state d within the liberal framework, though it is never particularly acknowledged
+Beiner points out is explicitly state
+d within the liberal framework, though it is never particularly acknowledged
 as such, like when Antony Painter and Chris Thoung write that if “you want to incentivise work at every level
 of income then Basic Income is simply the best system.”
 28
 
-Still, the m ajority of the liberal
+Still, the m
+ajority of the liberal
 argumentation in
 favour of
 
@@ -4215,7 +4325,8 @@ Wright,
 
 “Basic
 
-Incom e
+Incom
+e
 
 as
 
@@ -4454,7 +4565,8 @@ Review
 
 of
 
-Intern ational
+Intern
+ational
 
 Social
 
@@ -4781,7 +4893,8 @@ Frances
 
 Fox
 
-Pi ven)
+Pi
+ven)
 
 New
 
@@ -4849,7 +4962,9 @@ no.
 
 ;
 
-VilleVeikko
+Ville
+-
+Veikko
 
 Pulkka,
 
@@ -4949,7 +5064,8 @@ no.
 
 ;
 
-Jur gen
+Jur
+gen
 
 De
 
@@ -5107,7 +5223,8 @@ from
 
 the
 
-aforementione d
+aforementione
+d
 
 Van
 
@@ -5217,9 +5334,11 @@ T
 his
 
 “
-r eal
+r
+eal
 
-f reedom
+f
+reedom
 ”
 
 is
@@ -5412,7 +5531,8 @@ decommodification
 
 of
 
-labo u
+labo
+u
 r.
 35
 
@@ -5434,7 +5554,8 @@ arguing
 
 that
 
-“b asic
+“b
+asic
 
 income
 
@@ -5486,7 +5607,9 @@ as
 
 particularly
 
-anticapitalist
+anti
+-
+capitalist
 ;
 
 it
@@ -5522,7 +5645,8 @@ as
 
 a
 
-some what
+some
+what
 
 Rawlsian
 
@@ -5606,7 +5730,8 @@ purposes,
 
 this
 
-c onception
+c
+onception
 
 does
 
@@ -5650,7 +5775,10 @@ jobless,
 
 or
 
-nearjob less
+near
+-
+job
+less
 ,
 
 future.
@@ -5797,7 +5925,8 @@ Radical
 
 Proposal
 
-f or
+f
+or
 
 a
 
@@ -5968,7 +6097,8 @@ of
 
 a
 
-part ial
+part
+ial
 
 character”.
 38
@@ -6097,7 +6227,8 @@ an
 
 option
 
-“whi ch
+“whi
+ch
 
 has
 
@@ -6220,7 +6351,8 @@ automation
 
 crisis,
 
-n or
+n
+or
 
 does
 
@@ -6264,11 +6396,13 @@ through
 
 a
 
-classica l
+classica
+l
 
 liberal
 
-app roach
+app
+roach
 
 and
 
@@ -6339,7 +6473,8 @@ efficiency
 
 in
 
-way s
+way
+s
 
 that
 
@@ -6557,7 +6692,8 @@ the
 community”.
 43
 
-Jennife r
+Jennife
+r
 
 Mays
 
@@ -6681,7 +6817,8 @@ Pateman,
 
 “Democratizing
 
-Citizensh ip:
+Citizensh
+ip:
 
 Some
 
@@ -7006,7 +7143,8 @@ individual
 
 in
 
-d irect
+d
+irect
 
 opposition
 
@@ -7163,7 +7301,8 @@ this,
 
 we
 
-mu st
+mu
+st
 
 acknowledge
 
@@ -7217,7 +7356,9 @@ socialized
 
 healthcare,
 
-oldage
+old
+-
+age
 
 security,
 
@@ -7273,7 +7414,9 @@ something
 
 as
 
-statecentric
+state
+-
+centric
 
 as
 
@@ -7429,7 +7572,9 @@ of
 
 the
 
-NonLiberal
+Non
+-
+Liberal
 
 Approaches
 
@@ -7447,7 +7592,9 @@ a
 
 fairly
 
-onesided
+one
+-
+sided
 
 picture
 
@@ -7481,7 +7628,9 @@ there
 
 are
 
-nonliberal
+non
+-
+liberal
 
 proponents
 
@@ -7570,7 +7719,8 @@ perfect
 
 categories
 
-a nd
+a
+nd
 
 there
 
@@ -7604,7 +7754,8 @@ with
 
 44
 
-Je nnifer
+Je
+nnifer
 
 M.
 
@@ -7741,13 +7892,16 @@ have
 
 not
 
-selfidentified
+self
+-
+identified
 
 with,
 
 and
 
-t here
+t
+here
 
 are
 
@@ -7833,7 +7987,8 @@ provide
 
 an
 
-altern ative
+altern
+ative
 
 orientation.
 
@@ -7907,7 +8062,8 @@ absence
 
 of
 
-int erference
+int
+erference
 
 by
 
@@ -7988,7 +8144,8 @@ in
 
 more
 
-po sitive
+po
+sitive
 
 terms
 
@@ -8066,7 +8223,8 @@ the
 
 Pettitian
 
-f ramework
+f
+ramework
 
 is
 
@@ -8138,7 +8296,8 @@ hus
 
 clearly
 
-distinguish ed
+distinguish
+ed
 
 from
 
@@ -8302,7 +8461,8 @@ useful
 
 current
 
-wel fare
+wel
+fare
 
 programs.
 
@@ -8320,35 +8480,7 @@ that
 
 the
 
-requirements
-
-for
-
-freedom
-
-do
-
-create
-
-the
-
-necessity
-
-of
-
-a
-
-new
-
-or
-
-revived
-
-form
-
-of
-
-activ
+requir
 
 <!-- PDF text truncated by scrapem max_pdf_chars. -->
 

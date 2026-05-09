@@ -50,8 +50,8 @@ processed_to: "西洋哲学/現代/<反映先ファイル>.md"
 
 ## スクレイパー運用
 
-- スクレイパー設定は `scrapem.yaml`
-- 単発実行は `docker compose run --rm scraper`
+- スクレイパー設定は `scrape.yaml`
+- 単発実行は `scripts/scrape.sh`
 - 定期実行は `docker compose up -d scheduler`
 - 運用段階では論文ソースの更新頻度を考慮し、週1回程度を基本にする。テスト中のみ高頻度でよい
 - `scripts/scrape-and-commit.sh` は `inbox/` と `.scrapem/seen-urls.json` だけを自動コミットするためのホスト側スクリプト

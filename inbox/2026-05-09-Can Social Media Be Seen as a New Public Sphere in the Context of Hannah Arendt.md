@@ -7,7 +7,7 @@ publication: "Londra, Birleşik Krallık: IJOPEC Publication ( 2020 )"
 download: "https://philarchive.org/archive/KARCSM"
 pdf: "https://philpapers.org/archive/KARCSM.pdf"
 captured_at: "2026-05-09T07:25:25Z"
-updated_at: "2026-05-09T07:43:17Z"
+updated_at: "2026-05-09T08:12:24Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
@@ -16,8 +16,7 @@ tags:
   - "政治哲学"
   - "現代思想"
   - "全体主義"
-status: processed
-processed_to: "西洋哲学/現代/ハンナ・アーレント-現代研究動向.md"
+status: raw
 ---
 
 # Can Social Media Be Seen as a New Public Sphere in the Context of Hannah Arendt's Public Sphere Theory?
@@ -61,7 +60,8 @@ Keywords: Hannah Arendt   Public Sphere   Social Media
 IJOPECLondon ijopec.co.uk IstanbulPUBLICATION
 IJOPECLondon ijopec.co.uk IstanbulPUBLICATION
 ABSTRACTS & PROCEEDINGS
-29-30 September 2020, Sakarya / Turkey www.currentdebates.org
+29-30 September 2020, Sakarya / Turkey
+www.currentdebates.org
 CUDES 2020
 
 11. International Congress on Current Debates in Social Science,
@@ -141,7 +141,8 @@ CUDES 2020
 1
 .
 
-International Con gress on Current Debates in Social Sciences
+International Con
+gress on Current Debates in Social Sciences
 )
 
 Abstracts & Proceedings
@@ -150,7 +151,8 @@ IJOPEC Publication Limited
 
 CRN:10806608
 
-60 West meade Close, Cheshunt
+60 West
+meade Close, Cheshunt
 
 Waltham Cross
 
@@ -164,7 +166,9 @@ United Kingdom
 
 www.ijopec.co.uk
 
-EMail:
+E
+-
+Mail:
 info@ijopoc.co.uk
 
 Phone: (+44) 73 875 2361 (UK)
@@ -205,11 +209,13 @@ retrieval system, transmitted in any form or by any
 means electronically without publisher
 ’
 s permission. No responsibility is accepted for the accuracy of
-information contained in the text, illustrations or advertisements. The opinions expressed in these c hapters
+information contained in the text, illustrations or advertisements. The opinions expressed in these c
+hapters
 are not necessarily those of the editors or publisher. The publishing, scientific, ethical, and linguistic
 responsibilities of the chapters in this book belong to the auhors.
 
-A catalogue record for this book is available from Nielsen Book Data, Br itish Library and Google Books.
+A catalogue record for this book is available from Nielsen Book Data, Br
+itish Library and Google Books.
 
 Printed in London.
 
@@ -272,7 +278,9 @@ Adam Safronijevic
 University of
 Belgrade
 
-Alfredo SaadFilho
+Alfredo Saad
+-
+Filho
 
 SOAS University of London
 
@@ -295,7 +303,8 @@ Aqil Mammadov
 Azerbaijan
 
 State Un.of
-Econ omics
+Econ
+omics
 
 Aslı Yüksel Mermod
 
@@ -374,7 +383,8 @@ Bicol University
 
 Hilal Görkem
 
-Çanakkale Onsek iz Mart Uni.
+Çanakkale Onsek
+iz Mart Uni.
 
 Hilal Yıldız
 
@@ -546,7 +556,8 @@ Dibyesh Anand
 
 University of Westminster
 
-Donald F. St aub
+Donald F. St
+aub
 
 B. Onyedi Eylül University
 
@@ -578,7 +589,8 @@ Altınba" University
 
 Erhan Aslanoğlu
 
-Piri Reis Uni versity
+Piri Reis Uni
+versity
 
 Ergün Serindağ
 
@@ -606,7 +618,9 @@ University of St.Gallen
 
 Julienne Brabet
 
-University ParisEst Créteil
+University Paris
+-
+Est Créteil
 
 Kadriye Öztürk
 
@@ -701,7 +715,8 @@ Michigan State University
 
 Senthan Selvarajah
 
-Human Rights and Pe acebuilding
+Human Rights and Pe
+acebuilding
 
 Serkan Esen
 
@@ -717,7 +732,9 @@ Dokuz Eylül University
 
 Shohistahon Uljaeva
 
-Tashkent ChemicalTechnological Institute
+Tashkent Chemical
+-
+Technological Institute
 
 Sinan Alçın
 
@@ -853,7 +870,9 @@ Kırklaereli University
 
 Victor Ojakorotu
 
-NorthWest University
+North
+-
+West University
 
 Yavuz Taşkıran
 
@@ -1041,7 +1060,8 @@ Arzu Özsoy Özmen
 
 24
 
-At tila Fábián
+At
+tila Fábián
 
 ................................
 ......................
@@ -1300,7 +1320,11 @@ Gamze Kargın Akkoç
 
 93
 
-Ghilan AlMadhagy TaufiqHail
+Ghilan Al
+-
+Madhagy Taufiq
+-
+Hail
 
 .......................
 
@@ -2071,17 +2095,22 @@ ahmadmureedp@yahoo.com
 United States
 
 Abstract: The longstanding conflict in Afghanistan has persisted due to complex contestations over honor,
-dignity based partly on ethnolinguistic fragmentation and by extension, sovereignty. While sovereignty
+dignity based partly on ethno
+-
+linguistic fragmentation and by extension, sovereignty. While sovereignty
 and dignity are two
 
 terms that appear prima facie to be separate, they are deeply intertwined in the case of
 Afghan conflict. Thus, different groups of belligerents interpret the concepts of honor and dignity in
-fundamentally different ways, framed by their individual strugg les and resistance. Given this stark division,
+fundamentally different ways, framed by their individual strugg
+les and resistance. Given this stark division,
 an important question arises: can the national state find a middle ground on the dignity of groups, such as
-the Taliban, who continue to defy conventions amenable to freedom and democracy? This article explore s
+the Taliban, who continue to defy conventions amenable to freedom and democracy? This article explore
+s
 what is at stake in this internal conflict is beyond a simple narrative of the two factions. Instead, it is the
 contrasting notions of dignity and sense of honor that continues to play a principal role in the current
-conflict between the national state a nd Taliban movement
+conflict between the national state a
+nd Taliban movement
 CUDES 2020
 
 11. International Congress on Current Debates in Social Science,
@@ -2128,32 +2157,46 @@ Turkish banking sector. As a result of this, the Turkish banking system has ente
 20
 01. The main elements of the Banking Sector Restructuring Program which aims to put the banking sector on a
 solid ground, are applications for public banks, which are seen as a source of instability within the financial system, to
-resolve the problems of b anks within the Savings Deposit Insurance Fund and to provide financial structure. In this
+resolve the problems of b
+anks within the Savings Deposit Insurance Fund and to provide financial structure. In this
 context, with banking sector restructuring program, an environment of trust has been provided for the banking sector
-and necessary legal, financial, structural and o perational arrangements have been made. Especially with the legal
+and necessary legal, financial, structural and o
+perational arrangements have been made. Especially with the legal
 arrangements made within the scope of banking sector restructuring program, the capital adequacy ratio scope of banks
-was expanded and the capital structures of banks were further strengthen ed. On the other hand, in 2008, there was a
+was expanded and the capital structures of banks were further strengthen
+ed. On the other hand, in 2008, there was a
 big financial crisis in the USA caused by the housing market. Financial institutions, which include derivatives based on
-mortgage loans in their portfolios, faced the risk of sinking. The USbased global crisis h as spread to the financial
+mortgage loans in their portfolios, faced the risk of sinking. The US
+-
+based global crisis h
+as spread to the financial
 systems of developed countries. Because the banks of the countries affected by the crisis had derivative products
-exported by the USA. With the global crisis, the depreciation of these securities and even the value of a significa nt
+exported by the USA. With the global crisis, the depreciation of these securities and even the value of a significa
+nt
 majority of them approaching 0 has brought the financial system of developed countries to trouble. However, this has
 not been the case for the Turkish financial system. Because, in accordance with the legislation, Turkish banks cannot
 buy precious paper
 
 from the foreign market and keep them in their portfolios. So the global crisis affect Turkey
 negatively through derivative products has not been said. However, the fact that Turkish banks had significant foreign
-debts before the global crisis created a t roubled situation in the financial system. With the effect of the global crisis,
+debts before the global crisis created a t
+roubled situation in the financial system. With the effect of the global crisis,
 especially in the last quarter of 2008, the profitability performance of the Turkish banking sector decreased. The most
-important reason for this decrease is the receivables t hat banks cannot collect in their maturities. Capital adequacy
+important reason for this decrease is the receivables t
+hat banks cannot collect in their maturities. Capital adequacy
 ratio, which is an important ratio in the banking sector, decreased with the effect of the global crisis. The decrease in
-own funds and the increase of riskweighted assets caused a decrease in
+own funds and the increase of risk
+-
+weighted assets caused a decrease in
 
 capital adequacy ratio. In this period, when the
 risks of the banking system increased, a decrease was observed in the profitability, capital and interest risk indices,
-which are among the indices in determining the soundness of the sector. On the other h and, even though there was
-growth in loans during the global crisis, this value is in a limited total. The aim of this study is to address the importanc e
-of banking sector restructuring program in the Turkish banking system, which is less affected by the g lobal crisis. While
+which are among the indices in determining the soundness of the sector. On the other h
+and, even though there was
+growth in loans during the global crisis, this value is in a limited total. The aim of this study is to address the importanc
+e
+of banking sector restructuring program in the Turkish banking system, which is less affected by the g
+lobal crisis. While
 preparing the study, research, books, articles and newspaper articles on similar topics were examined. In order to come
 to a conclusion in the study, banking indicators covering the years of 2001
 -
@@ -2161,7 +2204,8 @@ to a conclusion in the study, banking indicators covering the years of 2001
 
 and after the global crisis were used. In this context, data from organizati,ons such as Banking Regulation and
 Supervision Agency of Turkey and Association of Turkish banking system holds an important place. Considering the
-previous studies on the subjec t, it was seen that the periods of 2001
+previous studies on the subjec
+t, it was seen that the periods of 2001
 -
 2012 were mostly taken as the examination period.
 In this context, while investigating the effect of the global crisis on the banking sector, 2001
@@ -2243,7 +2287,8 @@ $
 !
 Effects of Covid
 -
-19 Outbreak o n Work Life in Turkey
+19 Outbreak o
+n Work Life in Turkey
 
 LABOUR ECONOMICS & INDUSTRIAL RELATIONS / ÇALI$MA EKONOMİSİ VE ENDÜSTRİYEL İLİ$KİLER
 
@@ -2273,10 +2318,12 @@ ve i"verenin hukuk çerçevesinde uzaktan çalı"ma, kısa çalı"ma ve kısa ç
 uygulamaları, gelir dağılımı ve gelir kaybı ya"amas
 ı gibi i"sizlik, yeni çözüm olarak yapay zeka çalı"maları,
 eğitim ve turizm gibi sektörleri ne beklediği ve ne gibi önlemler alındığı değerlendirilmi"tir. 23 Mart’ta
-ba"layan koronavirüs salgını nedeniyle birçok sınırlamalar getirildi. Çalı"mamızda bazı ve rilere ve rakamlara
+ba"layan koronavirüs salgını nedeniyle birçok sınırlamalar getirildi. Çalı"mamızda bazı ve
+rilere ve rakamlara
 yer verilmi"tir. Özellikle Sağlık Bakanlığı, Milli Eğitim Bakanlığı, Türkiye İstatistik Kurumu ve Yüksek
 Öğretim Kurulu gibi veriler önemli oranda katkı sağlamaktadır. Çalı"manın kapsamında koronavirüs’den
-dolayı gerekli önlemler alınma zsa birçok sektörün, i"yeri ve i"letmenin iflas edeceği ve gelir kaybı sebebiyle
+dolayı gerekli önlemler alınma
+zsa birçok sektörün, i"yeri ve i"letmenin iflas edeceği ve gelir kaybı sebebiyle
 milyonlarca insanın i"siz kalacağı açıktır.
 
 CUDES 2020
@@ -2304,7 +2351,9 @@ Abstracts & Proceedings
 !
 %
 !
-The Political Goal of The EuKosovo Stabilization and Asociation Agreement
+The Political Goal of The Eu
+-
+Kosovo Stabilization and Asociation Agreement
 
 POLITICAL SCIENCES / SİYASET BİLİMİ
 
@@ -2314,7 +2363,9 @@ Afrim Hoti
 University of Pristina "Hasan Prishtina"
 )
 
-afrim.hoti@unipr.edu
+afrim.hoti@uni
+-
+pr.edu
 
 Republic of Kosova
 
@@ -2329,11 +2380,15 @@ Association Agreement with the European Union. This is the first contractual rel
 between the
 European Union and Kosovo, but as the agreement is of different format, then the paper intends to analyse
 what is the political goal of this agreement. For other countries of the Western Balkans that has signed
-Stabilization and Association Agr eement, the main objective was their integration and membership into
+Stabilization and Association Agr
+eement, the main objective was their integration and membership into
 the EU. Such a target is not included in the Stabilization and Association Agreement between Kosovo and
 the European Union. The paper analyses and compare the difference between Kosovo’s
 Stabilization and
-Association Agreement and those of other Western Balkans countries. How the five EU nonrecognition
+Association Agreement and those of other Western Balkans countries. How the five EU non
+-
+
+recognition
 member states are an obstacle in the progress of Kosovo from the EU candidate status. Keywords: EU,
 integration, Kosovo, progress report,
 
@@ -2383,22 +2438,32 @@ The purpose of integrated interethnic education is that pupils learn (get used t
 is necessary for competent living in the multiethnic society to reduce prejudices’ throughout the contact
 with
 
-other ethnic’s/ cultural community members, to increase the cooperationthe activities should be
-developed in a cooperative atmosphere, and not in a competitive one, creating interdependence relationsthe activities’ product to be depended from all the
+other ethnic’s/ cultural community members, to increase the cooperation
+-
+the activities should be
+developed in a cooperative atmosphere, and not in a competitive one, creating interdependence relations
+-
+
+the activities’ product to be depended from all the
 
 joint participation of all pupils, the presence of all pupils,
 and all pupil’s exposure in the content from which they become informed with the others culture ( enabling
-minority cultures to learn for themselves, while the majority culture to learn for t hem too). The aim of this
+minority cultures to learn for themselves, while the majority culture to learn for t
+hem too). The aim of this
 topic is to secure/to provide the respect for others throughout introduction or introducing of/with their
 culture, toinsert through contents of (verbal and illustrated) of the sphere of history, sphere, literature’s,
-music’s, fi gurative art and othersThis paper deals with multicultural equality and ethnic group activities in
+music’s, fi
+gurative art and othersThis paper deals with multicultural equality and ethnic group activities in
 the schools of the city of Gostivar. To provide enabling the work, can be done, but it is not necessary to
-learn through the contacts with others. Securing p ossible work to more joint activities through pupils who
+learn through the contacts with others. Securing p
+ossible work to more joint activities through pupils who
 learn separately according to learning language (e.g. Mac. Alb), or in another base (or. gypsy). When it is
-not possible from learning activities, it can be be possible from extraterrestrial activiti es. It is not important
+not possible from learning activities, it can be be possible from extraterrestrial activiti
+es. It is not important
 what will pupils do, but it is important to do it together, something which is in common interest between
 ethnicities who live in our country.It is important that the product of joint activity (provided from joint
-aim), as it is im portant and the process of coming to the product (through direct interaction).
+aim), as it is im
+portant and the process of coming to the product (through direct interaction).
 
 Key words; Society, education, acitivites, family, human rights.
 
@@ -2446,15 +2511,27 @@ War Strategy. However, this time China is the main rival
 
 of US led west in South Asia, a scenario that has
 created dilemma for Pakistan. Faith Based Organizations (FBOs) under Indirect Political Patronage (IPP)
-of the west have been reactivated against the socalled infidels’ SinoRussoIran Nexus; an alliance
+of the west have been re
+-
+activated against the so
+-
+called infidels’ Sino
+-
+Russo
+-
+Iran Nexus; an alliance
 
 against
 US Imperialism.
 
 The aim of this paper is to discuss the phenomenon of Sectarianism in Pakistan, highlight
-its impact at national level and, suggest sociopolitical strategy to counter this menace.
+its impact at national level and, suggest socio
+-
+political strategy to counter this menace.
 
-Keywords: Pakistan, Sectarianism, SinoUS Conflict
+Keywords: Pakistan, Sectarianism, Sino
+-
+US Conflict
 CUDES 2020
 
 11. International Congress on Current Debates in Social Science,
@@ -2499,7 +2576,8 @@ dealings, poor internal control and diversion of public utilities for private
 benefits and gains. This has
 witnessed unprecedented and distinctive pattern of migration from across Africa region most especially
 from Nigeria in West Africa due to its over population, national insecurity, forced displacement, lack of
-employment opport unities and escalating ethnic conflicts across the region. The pattern of migration in
+employment opport
+unities and escalating ethnic conflicts across the region. The pattern of migration in
 this region is diversifying in more clandestine and in spontaneous manners.
 
 This paper adopt a descriptive
@@ -2510,11 +2588,13 @@ climatic location, the economic performance, political instability and insecurit
 
 mitigating the large scale migration from the Africa regions. It concludes that the complex phenomenon
 cannot be easily reduced to any single factor, but rather results from multiple, overlapping and shifting
-motives of the migrants. Finally, the study a greed that illegal migration of people is still causing serious
+motives of the migrants. Finally, the study a
+greed that illegal migration of people is still causing serious
 global issues such as human smuggling and brain drain syndrome as a result of oppressive regimes and
 pandemic corruption existence in the region.
 
-Keywords: Africa, Nigeria, Europe, Migrati on, and Demographic
+Keywords: Africa, Nigeria, Europe, Migrati
+on, and Demographic
 
 CUDES 2020
 
@@ -2562,7 +2642,13 @@ keya@atu.ac.ir
 
 Iran
 
-The purpose of this paper is to examine the impact of virtual social networksespecially Facebookto
+The purpose of this paper is to examine the impact of virtual social networks
+-
+
+especially Facebook
+-
+
+to
 enhance social capital in the
 community.
 
@@ -2570,14 +2656,16 @@ Problem is to study the actions of Iranian users on Facebook and
 identify indicators of social capital reflects on this site.
 
 The main research question is: Do people with
-higher social capital in the social network Facebook, have more social ca pital in their communities?
+higher social capital in the social network Facebook, have more social ca
+pital in their communities?
 
 The
 main hypothesis of this study are as follows:
 
 There is relation between social capital and social capital in
 Facebook social network. The theoretical framework used include Putnam's social capital theory that
-networks and no rms, the main constituent components of social capital and knows the theory of Pierre
+networks and no
+rms, the main constituent components of social capital and knows the theory of Pierre
 Bourdieu's theory of Francis Fukuyama and the network society Castells. This survey research and tools
 used in the two questionnaires. The study group included 80 people
 randomly selected targeted and
@@ -2617,10 +2705,14 @@ Abstracts & Proceedings
 *
 !
 The Impact
-o f Online Learning
-o n
-t he Education Quality: A Case
-i n Social Studies
+o
+f Online Learning
+o
+n
+t
+he Education Quality: A Case
+i
+n Social Studies
 
 EDUCATION / EĞİTİM
 
@@ -2629,7 +2721,11 @@ Alarussi
 
 (Xiamen University)
 
-Ghilan AlMadhagy TaufiqHail
+Ghilan Al
+-
+Madhagy Taufiq
+-
+Hail
 
 (University Utara)
 
@@ -2648,7 +2744,8 @@ during COVID
 -
 19 outbreak. The students, teachers, educational institutions, and other related
 parties have to deal with the new environment of distance learning. Although this type of learning imposes
-sudden challenges on learning process, the literature h as proven that very few studies attempted to probe
+sudden challenges on learning process, the literature h
+as proven that very few studies attempted to probe
 this issue. Consequently, the main purpose of this study is to empirically examine the impact of online
 learning with its dimensions (i.e. online learning: time, understanding, motivation, interaction, and
 
@@ -2657,7 +2754,12 @@ of students) on the quality of education in undergraduate programs. The study fo
 survey instrument. Data will be collected from accounting and management Chinese students who are
 studying in Malaysia and traveled to China in
 semester break during the pandemic. Descriptive and Partial
-Least SquaredSequential Equation Modeling (PLSSEM) analysis will be used. The results expected to
+Least Squared
+-
+
+Sequential Equation Modeling (PLS
+-
+SEM) analysis will be used. The results expected to
 shadow more insights on the role of online learning dimensions toward the quality of education
 during the
 COVID
@@ -2713,7 +2815,8 @@ Turkey
 
 Our aim in this paper is to evaluate a situation in Victor Hugo’s monumental oeuvre Les Misérables in
 which Jean Valjean tries to decide what to do as an example to show the impossibility of knowing our real
-inc entive even if we sincerely endeavor to act not only in conformity with but also from duty in Kant’s
+inc
+entive even if we sincerely endeavor to act not only in conformity with but also from duty in Kant’s
 sense. First, we will briefly state some factual evidences for thinking Kant and Hugo together in spite of
 many differences in their approaches. According
 
@@ -2723,7 +2826,8 @@ is simply not to act against the law, we are similarly conscious that it is not 
 Conversely, when we act
 not merely in conformity with the letter of the law but also with its spirit, we cannot be sure that our action
 is moral; we can only hope that it is such. We will exemplify these cases by examining Jean Valjean’s
-thoughts and we wi ll make it clear the grounds of the inability to know exactly the real incentive of our
+thoughts and we wi
+ll make it clear the grounds of the inability to know exactly the real incentive of our
 action within Kant’s framework.
 CUDES 2020
 
@@ -2770,15 +2874,18 @@ Kant dü"üncesi çerçevesinde ele alarak bağlantı kurmaya çalı"acağız. F
 doğası
 nedeniyle hissetme yetisine hiç güvenmeyenler bile bu yetide göz ardı edemeyecekleri bir "ey bulmu"lardır.
 Hisleri bilginin tek kaynağı olarak gören ampirist filozofları ayrı tutarsak, Kant’ın hissetmeye yönelik
-tutumunu, bir bilme yetisi olarak his setmenin itibarını iade etme diye tarif etmek haddini a"an bir ifade
+tutumunu, bir bilme yetisi olarak his
+setmenin itibarını iade etme diye tarif etmek haddini a"an bir ifade
 olmayacaktır. Kant’a göre hissetme, dü"ünme yetisi kadar değerli ve kaynak te"kil edici bir bilme yetisidir.
 Bu makalede, hissetme yetisini vazgeçilmez kılan "eylerin, his ile ilgili tek
 "üphe götürmez "ey olan her
 hissin tekliği ile genel olarak kabul edildiği gibi irademizden bağımsızlığı olduğunu tespit edeceğiz. Kant’a
 göre gerçekliğin ne olduğunu ve insan bilgisi bakımından nasıl sadece tezahürlere sınırlandığını açıkladıktan
-sonra, b ir kavramın kaplamı (veya küresi) ile içeriği arasında yaptığı ayrımı ve içeriğin kaplam arttıkça
+sonra, b
+ir kavramın kaplamı (veya küresi) ile içeriği arasında yaptığı ayrımı ve içeriğin kaplam arttıkça
 azalmasını değerlendireceğiz. Son olarak ise, bu ayrımdan hareketle ‘sanal gerçeklik’ olarak kullanıldığında
-gerçeklik kavramının bo"aldığını, anlamını yitird iğini öne süreceğiz.
+gerçeklik kavramının bo"aldığını, anlamını yitird
+iğini öne süreceğiz.
 CUDES 2020
 
 11. International Congress on Current Debates in Social Science,
@@ -2824,23 +2931,28 @@ istediğimizde, kısaca evrenin bir kısmını ya da tamamını sistematik bir "
 zlemler
 ile sınanabilir ya da test edilebilir veriler ortaya koyan entelektüel ve objektif faaliyet olarak tanımlarız. Bu
 ve benzeri bilim tanımlamaları bazı farklılıklar göstermekle birlikte ortak noktaları bilimin objektif bir
-çalı"ma alanı olduğuna yöne lik vurgularıdır. Bu vurgular, bilimsel faaliyeti gerçekle"tiren bilim insanlarının
+çalı"ma alanı olduğuna yöne
+lik vurgularıdır. Bu vurgular, bilimsel faaliyeti gerçekle"tiren bilim insanlarının
 ki"isel, çevresel ve toplumsal bütün etkenlerden aynı derecede etkilendikleri (ya da etkilenmedikleri) ve
-ula"mı" oldukları bilimsel bilgileri ki"isel çıkarlarından izole b ir "ekilde aktardıkları anlamına gelmektedir.
+ula"mı" oldukları bilimsel bilgileri ki"isel çıkarlarından izole b
+ir "ekilde aktardıkları anlamına gelmektedir.
 Bu doğrultuda bilim, bilimsel bilgi ve faaliyetler toplum nezdinde diğer bilgi iddialarına kıyasla daha üst
-bir konuma yerle"tirilmektedir. Hatta öyle ki, toplumda bilimsel bilginin nesnel bir "ekilde elde edil diği
+bir konuma yerle"tirilmektedir. Hatta öyle ki, toplumda bilimsel bilginin nesnel bir "ekilde elde edil
+diği
 dü"üncesinden kaynaklı olarak bilime kar"ı bir güven duygusu geli"mektedir. Ancak son zamanlarda bilim
 felsefesi ve sosyolojisi alanlarında yapılan tartı"malara bakıldığında bilimsel bilginin ona atfedildiği "ekilde
 çok da nesnel bir bilgi türü olmadı
 ğı dü"üncesi ayyuka çıkmı"tır. Bu çalı"mada, bilimsel bilginin nesnel bir
 bilgi olduğuna yönelik iddialar, bilim faaliyetini doğasına uygun bir "ekilde tanımlayamama ve bilimsel
-bilgiyi gereğinden fazla idealize etmesi noktasında ele"tirilmi"tir. Ayrıca bi limsel bilginin nesnelliğinin
+bilgiyi gereğinden fazla idealize etmesi noktasında ele"tirilmi"tir. Ayrıca bi
+limsel bilginin nesnelliğinin
 tartı"ılabilmesi için bilimsel bilginin ortaya konulması sürecindeki sosyal ve toplumsal faktörlerin ayrıntılı
 bir "ekilde incelenmesi gerektiği ortaya konulmu"tur. Belirtmek gerekir ki, bu husus yirminci yüzyılın ikinci
 yarıs
 ında etkisini göstermeye ba"layan bilim sosyolojisi çalı"malarının da en önde gelen çalı"ma
 konularından biridir. Sonuç olarak, bilim, felsefe ve sosyoloji disiplinlerini aynı potada ele alan bu
-çalı"mada, bilim insanlarının ara"tırmalarını yürütme ve bulg ularını payla"ma noktasında ekonomik,
+çalı"mada, bilim insanlarının ara"tırmalarını yürütme ve bulg
+ularını payla"ma noktasında ekonomik,
 kültürel ve sosyal ko"ullara bağlı olarak ki"isel ya da toplumsal çıkarlardan etkilenebilecekleri gözler önüne
 serilmekte ve bilimsel bilginin iddia edildiği gibi tam anlamıyla nesnel bir bilgi olmadığı, Thomas Kuhn,
 D
@@ -2901,7 +3013,8 @@ the role of toxic leadership and work stress on the organizational commitment of
 very
 important to reveal the premises that effect on organizational commitment and impact levels of the premises
 on organizational commitment of the employees who experience intense work stress due to factors such as
-negative customer attitudes and behavio rs, excessive workload, incompatible colleagues and high
+negative customer attitudes and behavio
+rs, excessive workload, incompatible colleagues and high
 expectation of managers. For this purpose following research questions were created;
 
 Research Question 1:
@@ -2919,13 +3032,26 @@ snowball sampling methods were used together. In this context, the data was coll
 private bank employees via questionnaires. Confirmatory factor analyzes, correlation
 
 and multiple linear
-regression analyzes were used in the study. Toxic leadership consists of five subdimensions: selfadvertising
+regression analyzes were used in the study. Toxic leadership consists of five sub
+-
+dimensions: self
+-
+advertising
 leader, unpredictable leader, narcissistic leader, bad acting leader and autocratic leader. Organizational
-commitment is add ressed in two subdimensions: continuance and normative commitment. The findings
+commitment is add
+ressed in two sub
+-
+dimensions: continuance and normative commitment. The findings
 show that toxic leadership dimensions are positive related to continuance dimension and negative related
-to normative dimension of organizational commitment. It shows that wor k stress is positively related to
-continuance dimension and negatively related to normative dimension of organizational commitment. Selfadvertising leader, unpredictable leader and narcissistic leader dimensions of toxic leadership affect
-normative commi tment significantly positive; selfadvertising leader dimension affects normative
+to normative dimension of organizational commitment. It shows that wor
+k stress is positively related to
+continuance dimension and negatively related to normative dimension of organizational commitment. Self
+-
+advertising leader, unpredictable leader and narcissistic leader dimensions of toxic leadership affect
+normative commi
+tment significantly positive; self
+-
+advertising leader dimension affects normative
 commitment significantly negative. It was determined that work stress significantly affects normative
 commitment dimension positively.
 CUDES 2020
@@ -2953,11 +3079,15 @@ Abstracts & Proceedings
 !
 "%
 !
-Unifying Art: An Inquiry into Baha’iin spired Artistic Expressions
+Unifying Art: An Inquiry into Baha’i
+-
+in
+spired Artistic Expressions
 
 CULTURAL STUDIES / KÜLTÜREL ÇALI$MALAR
 
-Arman Aria n
+Arman Aria
+n
 
 (Arkin University of Creative Art and Design)
 
@@ -2970,7 +3100,8 @@ armanarian.iran@gmail.com
 Iran
 
 Throughout the history of humanity, Religions and religious beliefs have been constantly one of the pivotal
-inspirational sources for artistic expressions and creations. Association of specific religion with sets of artisti c
+inspirational sources for artistic expressions and creations. Association of specific religion with sets of artisti
+c
 expression leads into taxonomy of aesthetic practices such as Hindu art, Christian art, Manichaeism art,
 Islamic art, etc.
 
@@ -2978,14 +3109,16 @@ Baha’i faith is the most recent addition to Abrahamic and Aryan religions whic
 established in 1844 by The Bab and Baha’u’llah
 during Qajar dynasty in Iran and part of the Ottoman
 Empire. After encountering still ongoing persecutions since its inception, it is currently spread throughout
-most of the world as the second fastest growing religion by percentage (1.7%) in 2007. While r esearchers
+most of the world as the second fastest growing religion by percentage (1.7%) in 2007. While r
+esearchers
 and artist missed the chance of close investigation of artistic expressions associated with previous religions
 from the very early stages of their appearances, there is an opportunity to probe into the relationship of art
 and Baha’i faith in the
 
 dawn of its formation. This research aims to explore the relationship of Baha’i faith
 to different forms of art and the way Baha’i principals leave their trace on this art forms. Unlike some
-religions which repudiate esthetic attractions and any form of a rt, Baha’i faith not only establishes a
+religions which repudiate esthetic attractions and any form of a
+rt, Baha’i faith not only establishes a
 harmonious relationship with all kinds of art, including music, dramatic arts and fine arts, but also consider
 them as potentially sacred and spiritually transcending. Teaching principals such as unity of God, unity
 of
@@ -3036,9 +3169,6 @@ and upkeeping the operability of the economy, a fast restart of the
 economy. The status of and the damage
 suffered by region needs to be monitored in the short run and in the long run. To this end, it will not
 suffice to know the static indices of the regions (i.e. regional GDP, level of education, unemployment rate
-etc.).
-
-Instead, the dynamic interrelations between the indices need to be analysed on a continuous bas
 
 <!-- PDF text truncated by scrapem max_pdf_chars. -->
 

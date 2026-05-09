@@ -7,7 +7,7 @@ publication: "In Metehan Karakurt & Adem Çelik, VI. YILDIZ ULUSLARARASI SOSYAL 
 download: "https://philarchive.org/archive/KARPHA-2"
 pdf: "https://philpapers.org/archive/KARPHA-2.pdf"
 captured_at: "2026-05-09T07:25:17Z"
-updated_at: "2026-05-09T07:42:57Z"
+updated_at: "2026-05-09T08:12:05Z"
 capture_tool: "scrapem"
 source_name: "philarchive"
 keyword: "ハンナ・アーレント"
