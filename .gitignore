@@ -1,2 +1,3 @@
 .scrapem/*
-!.scrapem/seen-urls.json
+!.scrapem/seen-research-urls.json
+!.scrapem/seen-book-urls.json
