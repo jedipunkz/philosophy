@@ -1,20 +1,20 @@
 services:
-  scraper:
+  research-scraper:
     build:
       context: .
       dockerfile: docker/scraper/Dockerfile
     volumes:
       - .:/vault
-    command: ["run", "--config", "/vault/scrape.yaml"]
+    command: ["run", "--config", "/vault/research-scrape.yaml"]
     restart: "no"
 
-  scheduler:
+  research-scheduler:
     build:
       context: .
       dockerfile: docker/scraper/Dockerfile
     volumes:
       - .:/vault
-    command: ["watch", "--config", "/vault/scrape.yaml"]
+    command: ["watch", "--config", "/vault/research-scrape.yaml"]
     restart: unless-stopped
 
   book-scraper:

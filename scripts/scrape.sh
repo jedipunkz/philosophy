@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-config_path="scrape.yaml"
+config_path="research-scrape.yaml"
 build=false
 
 while [ "$#" -gt 0 ]; do
@@ -15,11 +15,11 @@ while [ "$#" -gt 0 ]; do
       shift 2
       ;;
     -h|--help)
-      echo "usage: scripts/scrape.sh [--build] [--config scrape.yaml]" >&2
+      echo "usage: scripts/scrape.sh [--build] [--config research-scrape.yaml]" >&2
       exit 0
       ;;
     *)
-      echo "usage: scripts/scrape.sh [--build] [--config scrape.yaml]" >&2
+      echo "usage: scripts/scrape.sh [--build] [--config research-scrape.yaml]" >&2
       exit 2
       ;;
   esac
@@ -34,7 +34,7 @@ if [ ! -f "$config_path" ]; then
 fi
 
 if [ "$build" = true ]; then
-  docker compose build scraper
+  docker compose build research-scraper
 fi
 
-docker compose run --rm scraper run --config "/vault/$config_path"
+docker compose run --rm research-scraper run --config "/vault/$config_path"

@@ -19,9 +19,9 @@ philosophy/
 │       ├── インド・仏教/  # ※ファイルが増えた時点でサブフォルダを切る
 │       ├── 中国/          # ※同上
 │       └── 日本/          # ※同上
-├── 研究動向/         # research-inbox をもとに Codex / Claude Code がまとめる研究動向ノート
-├── scrape.yaml       # 論文スクレイピング設定（PhilArchive、PhilPapers、arXiv）
-├── book-scrape.yaml  # 書籍スクレイピング設定（Open Library、Project Gutenberg）
+├── 研究動向/             # research-inbox をもとに Codex / Claude Code がまとめる研究動向ノート
+├── research-scrape.yaml  # 論文スクレイピング設定（PhilArchive、PhilPapers、arXiv）
+├── book-scrape.yaml      # 書籍スクレイピング設定（Open Library、Project Gutenberg）
 ├── cmd/              # Go 製 scrapem CLI
 ├── internal/         # scrapem の内部実装
 └── docker-compose.yml
@@ -77,7 +77,7 @@ philosophy/
 ### 論文収集パイプライン
 
 ```text
-scrape.yaml
+research-scrape.yaml
   ↓
 Go Scraper（PhilArchive / PhilPapers / arXiv）
   ↓
@@ -104,7 +104,7 @@ Codex / Claude Code
 
 各層の役割:
 
-- `scrape.yaml`: 論文収集の対象キーワード・クエリ・情報源を指定する
+- `research-scrape.yaml`: 論文収集の対象キーワード・クエリ・情報源を指定する
 - `book-scrape.yaml`: 書籍収集の対象著者・著作・情報源を指定する。`keywords:` セクションで対象を管理する
 - Go Scraper: 各 API からメタデータ・Abstract・Subjects・公開 URL などを収集する
 - `research-inbox/`: 論文の未処理素材キュー。`capture_tool: scrapem`
@@ -122,7 +122,7 @@ Codex / Claude Code
 scripts/scrape.sh
 
 # 定期実行
-docker compose up -d scheduler
+docker compose up -d research-scheduler
 ```
 
 **書籍スクレイパー:**

@@ -23,13 +23,13 @@ func main() {
 
 func run() error {
 	if len(os.Args) < 2 {
-		return errors.New("usage: scrapem <run|watch> --config scrape.yaml")
+		return errors.New("usage: scrapem <run|watch> --config research-scrape.yaml")
 	}
 
 	switch os.Args[1] {
 	case "run":
 		fs := flag.NewFlagSet("run", flag.ExitOnError)
-		configPath := fs.String("config", "scrape.yaml", "path to scrape.yaml")
+		configPath := fs.String("config", "research-scrape.yaml", "path to scrape config yaml")
 		if err := fs.Parse(os.Args[2:]); err != nil {
 			return err
 		}
@@ -41,7 +41,7 @@ func run() error {
 
 	case "watch":
 		fs := flag.NewFlagSet("watch", flag.ExitOnError)
-		configPath := fs.String("config", "scrape.yaml", "path to scrape.yaml")
+		configPath := fs.String("config", "research-scrape.yaml", "path to scrape config yaml")
 		if err := fs.Parse(os.Args[2:]); err != nil {
 			return err
 		}

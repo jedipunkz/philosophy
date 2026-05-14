@@ -68,9 +68,9 @@ processed_to: "書籍/<反映先ファイル>.md"
 
 ### 論文スクレイパー（research-inbox 向け）
 
-- 設定ファイル: `scrape.yaml`
+- 設定ファイル: `research-scrape.yaml`
 - 単発実行: `scripts/scrape.sh`
-- 定期実行: `docker compose up -d scheduler`
+- 定期実行: `docker compose up -d research-scheduler`
 - 運用段階では論文ソースの更新頻度を考慮し、週1回程度を基本にする。テスト中のみ高頻度でよい
 
 ### 書籍スクレイパー（book-inbox 向け）

@@ -1,6 +1,7 @@
 vault:
   root: /vault
   inbox: research-inbox
+  seen_file: seen-research-urls.json
 
 scrape:
   interval: 24h
