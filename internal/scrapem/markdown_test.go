@@ -83,15 +83,83 @@ func TestCleanGutenbergTextStripsLicenseMarkers(t *testing.T) {
 	}
 }
 
-func TestParseOpenLibraryDescriptionHandlesBothShapes(t *testing.T) {
-	if got := parseOpenLibraryDescription([]byte(`"plain string"`)); got != "plain string" {
-		t.Fatalf("string form: got %q", got)
+func TestParseWikipediaResults(t *testing.T) {
+	body := strings.NewReader(`{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {"pageid": 12345, "title": "ハンナ・アーレント", "extract": "ドイツ出身の哲学者。"},
+      {"pageid": 67890, "title": "人間の条件", "extract": "アーレント著の代表作。"}
+    ]
+  }
+}`)
+	items, err := parseWikipediaResults(body, "https://ja.wikipedia.org")
+	if err != nil {
+		t.Fatalf("parse error: %v", err)
 	}
-	if got := parseOpenLibraryDescription([]byte(`{"value": "object form", "type": "/type/text"}`)); got != "object form" {
-		t.Fatalf("object form: got %q", got)
+	if len(items) != 2 {
+		t.Fatalf("expected 2 items, got %d", len(items))
 	}
-	if got := parseOpenLibraryDescription(nil); got != "" {
-		t.Fatalf("nil: got %q", got)
+	if items[0].URL != "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%8A%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AC%E3%83%B3%E3%83%88" {
+		t.Fatalf("unexpected URL: %s", items[0].URL)
+	}
+	if items[0].BookText != "ドイツ出身の哲学者。" {
+		t.Fatalf("unexpected extract: %q", items[0].BookText)
+	}
+}
+
+func TestParseSEPSearchResultsExtractsEntrySlugs(t *testing.T) {
+	body := strings.NewReader(`
+<html><body>
+<a href="/entries/arendt/">Hannah Arendt</a>
+<a href="https://plato.stanford.edu/entries/kant/">Kant</a>
+<a href="/entries/arendt/#bio">duplicate</a>
+<a href="/about/">other</a>
+</body></html>`)
+	items, err := parseSEPSearchResults(body, "https://plato.stanford.edu")
+	if err != nil {
+		t.Fatalf("parse error: %v", err)
+	}
+	if len(items) != 2 {
+		t.Fatalf("expected 2 unique entries, got %d", len(items))
+	}
+	if items[0].URL != "https://plato.stanford.edu/entries/arendt/" {
+		t.Fatalf("unexpected first URL: %s", items[0].URL)
+	}
+	if items[1].URL != "https://plato.stanford.edu/entries/kant/" {
+		t.Fatalf("unexpected second URL: %s", items[1].URL)
+	}
+}
+
+func TestExtractSEPBodyStopsAtBibliography(t *testing.T) {
+	html := `<html><body>
+<h1>Hannah Arendt</h1>
+<p>First paragraph.</p>
+<h2>1. Background</h2>
+<p>Second paragraph.</p>
+<div id="bibliography"><p>Should not appear.</p></div>
+</body></html>`
+	title := extractSEPTitle(html)
+	if title != "Hannah Arendt" {
+		t.Fatalf("title: got %q", title)
+	}
+	body := extractSEPBody(html)
+	if !strings.Contains(body, "First paragraph.") || !strings.Contains(body, "Second paragraph.") {
+		t.Fatalf("body missing paragraphs:\n%s", body)
+	}
+	if strings.Contains(body, "Should not appear") {
+		t.Fatalf("body included bibliography content:\n%s", body)
+	}
+}
+
+func TestHTMLToTextPreservesParagraphs(t *testing.T) {
+	in := `<p>First</p><p>Second</p><div>Third<br>line break</div>`
+	got := htmlToText(in)
+	if !strings.Contains(got, "First\n\nSecond") {
+		t.Fatalf("paragraph break lost:\n%s", got)
+	}
+	if !strings.Contains(got, "Third\nline break") {
+		t.Fatalf("br lost:\n%s", got)
 	}
 }
 

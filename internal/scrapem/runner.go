@@ -117,19 +117,21 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 		if len(items) > r.cfg.Scrape.MaxResults {
 			items = items[:r.cfg.Scrape.MaxResults]
 		}
-		isBookSource := source.Type == "openlibrary_api" || source.Type == "gutenberg_api"
+		isBookSource := isBookSourceType(source.Type)
 		for _, item := range items {
 			switch source.Type {
-			case "openlibrary_api":
-				if err := r.enrichOpenLibrary(ctx, &item); err != nil {
-					log.Printf("openlibrary detail fetch failed url=%s: %v", item.URL, err)
-				}
 			case "gutenberg_api":
 				if err := r.enrichBookText(ctx, &item); err != nil {
 					log.Printf("gutenberg text fetch failed url=%s text=%s: %v", item.URL, item.PlainTextURL, err)
 				}
+			case "sep_html":
+				if err := r.enrichSEP(ctx, &item); err != nil {
+					log.Printf("sep entry fetch failed url=%s: %v", item.URL, err)
+				}
+			case "wikipedia_api":
+				// extract is already included in the search response
 			case "api":
-				// arxiv etc — handled below
+				// arxiv etc — no detail fetch
 			default:
 				if err := r.enrich(ctx, &item); err != nil {
 					log.Printf("detail fetch failed url=%s: %v", item.URL, err)
@@ -139,6 +141,9 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 				if err := r.enrichPDF(ctx, &item); err != nil {
 					log.Printf("pdf fetch failed url=%s pdf=%s: %v", item.URL, item.PDF, err)
 				}
+			}
+			if item.BookText != "" {
+				item.BookText, item.BookTextTruncated = truncateRunes(item.BookText, r.cfg.Scrape.MaxBookChars)
 			}
 
 			item.Keyword = sq.keyword.Name
@@ -200,13 +205,23 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 	switch source.Type {
 	case "api":
 		return parseArxivFeed(resp.Body)
-	case "openlibrary_api":
-		return parseOpenLibraryResults(resp.Body, source.BaseURL)
 	case "gutenberg_api":
 		return parseGutenbergResults(resp.Body)
+	case "wikipedia_api":
+		return parseWikipediaResults(resp.Body, source.BaseURL)
+	case "sep_html":
+		return parseSEPSearchResults(resp.Body, source.BaseURL)
 	default:
 		return parseSearchResults(resp.Body, resp.Request.URL)
 	}
+}
+
+func isBookSourceType(t string) bool {
+	switch t {
+	case "gutenberg_api", "wikipedia_api", "sep_html":
+		return true
+	}
+	return false
 }
 
 func (r *Runner) enrich(ctx context.Context, item *Item) error {
@@ -285,9 +300,6 @@ func mergeDetail(item *Item, detail Item) {
 	if detail.PDFText != "" {
 		item.PDFText = detail.PDFText
 		item.PDFTextTruncated = detail.PDFTextTruncated
-	}
-	if detail.Description != "" {
-		item.Description = detail.Description
 	}
 	if detail.BookText != "" {
 		item.BookText = detail.BookText

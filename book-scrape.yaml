@@ -6,19 +6,25 @@ vault:
 scrape:
   interval: 168h   # 週1回
   user_agent: philosophy-book-scraper/0.1 (+https://github.com/jedipunkz/philosophy)
-  max_results: 10
-  max_book_chars: 300000   # public domain 書籍本文の最大文字数（rune 数）
-  max_book_bytes: 10485760 # 書籍本文のダウンロード上限（10 MiB）
+  max_results: 5
+  max_book_chars: 300000   # public domain 書籍本文・百科事典本文の最大文字数（rune 数）
+  max_book_bytes: 10485760 # ダウンロード上限（10 MiB）
   request_timeout: 60s
   request_delay: 2s
   refresh_existing: true
 
 sources:
-  - name: openlibrary
+  - name: wikipedia_ja
     enabled: true
-    type: openlibrary_api
-    base_url: https://openlibrary.org
-    search_url: https://openlibrary.org/search.json?q={query}&fields=key,title,author_name,first_publish_year,subject&limit=10
+    type: wikipedia_api
+    base_url: https://ja.wikipedia.org
+    search_url: https://ja.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch={query}&gsrlimit=5&prop=extracts&explaintext=1&exlimit=max&format=json&formatversion=2
+
+  - name: sep
+    enabled: true
+    type: sep_html
+    base_url: https://plato.stanford.edu
+    search_url: https://plato.stanford.edu/search/searcher.py?query={query}
 
   - name: gutenberg
     enabled: true
@@ -29,11 +35,15 @@ sources:
 keywords:
   - name: カント
     queries:
-      - Immanuel Kant Critique of Pure Reason
-      - Immanuel Kant Critique of Practical Reason
-      - Immanuel Kant Groundwork Metaphysics Morals
+      - Immanuel Kant
+      - イマヌエル・カント
+      - 純粋理性批判
+      - Critique of Pure Reason
+      - 実践理性批判
+      - Critique of Practical Reason
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
       - gutenberg
     tags:
       - 近代哲学
@@ -42,12 +52,14 @@ keywords:
 
   - name: プラトン
     queries:
+      - Plato
+      - プラトン
+      - 国家 プラトン
       - Plato Republic
       - Plato Symposium
-      - Plato Phaedo
-      - Plato Apology
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
       - gutenberg
     tags:
       - 古代哲学
@@ -56,11 +68,14 @@ keywords:
 
   - name: アリストテレス
     queries:
+      - Aristotle
+      - アリストテレス
+      - ニコマコス倫理学
       - Aristotle Nicomachean Ethics
       - Aristotle Politics
-      - Aristotle Metaphysics
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
       - gutenberg
     tags:
       - 古代哲学
@@ -69,11 +84,14 @@ keywords:
 
   - name: ニーチェ
     queries:
+      - Friedrich Nietzsche
+      - フリードリヒ・ニーチェ
+      - ツァラトゥストラはこう語った
       - Nietzsche Thus Spoke Zarathustra
       - Nietzsche Beyond Good and Evil
-      - Nietzsche Genealogy of Morals
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
       - gutenberg
     tags:
       - 近代哲学
@@ -82,11 +100,13 @@ keywords:
 
   - name: ヘーゲル
     queries:
+      - Hegel
+      - ヘーゲル
+      - 精神現象学
       - Hegel Phenomenology of Spirit
-      - Hegel Philosophy of Right
-      - Hegel Science of Logic
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
       - gutenberg
     tags:
       - 近代哲学
@@ -95,10 +115,14 @@ keywords:
 
   - name: マルクス
     queries:
+      - Karl Marx
+      - カール・マルクス
+      - 資本論
       - Karl Marx Capital
-      - Karl Marx Communist Manifesto
+      - Communist Manifesto
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
       - gutenberg
     tags:
       - 近代哲学
@@ -107,10 +131,13 @@ keywords:
 
   - name: デカルト
     queries:
+      - René Descartes
+      - ルネ・デカルト
+      - 方法序説
       - Descartes Meditations on First Philosophy
-      - Descartes Discourse on Method
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
       - gutenberg
     tags:
       - 近代哲学
@@ -119,10 +146,13 @@ keywords:
 
   - name: スピノザ
     queries:
+      - Baruch Spinoza
+      - スピノザ
+      - エチカ スピノザ
       - Spinoza Ethics
-      - Spinoza Theologico-Political Treatise
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
       - gutenberg
     tags:
       - 近代哲学
@@ -131,11 +161,13 @@ keywords:
 
   - name: ハンナ・アーレント
     queries:
-      - Hannah Arendt Human Condition
-      - Hannah Arendt Origins of Totalitarianism
-      - Hannah Arendt Eichmann in Jerusalem
+      - Hannah Arendt
+      - ハンナ・アーレント
+      - 人間の条件 アーレント
+      - 全体主義の起源
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
     tags:
       - 現代哲学
       - 政治哲学
@@ -143,10 +175,13 @@ keywords:
 
   - name: ユング
     queries:
-      - Carl Jung archetypes collective unconscious
-      - Carl Jung psychological types
+      - Carl Gustav Jung
+      - カール・グスタフ・ユング
+      - ユング 元型
+      - 集合的無意識
     sources:
-      - openlibrary
+      - wikipedia_ja
+      - sep
     tags:
       - 現代哲学
       - 深層心理学

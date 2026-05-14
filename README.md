@@ -21,7 +21,7 @@ philosophy/
 │       └── 日本/          # ※同上
 ├── 研究動向/             # research-inbox をもとに Codex / Claude Code がまとめる研究動向ノート
 ├── research-scrape.yaml  # 論文スクレイピング設定（PhilArchive、PhilPapers、arXiv）
-├── book-scrape.yaml      # 書籍スクレイピング設定（Open Library、Project Gutenberg）
+├── book-scrape.yaml      # 書籍スクレイピング設定（Wikipedia ja、SEP、Project Gutenberg）
 ├── cmd/              # Go 製 scrapem CLI
 ├── internal/         # scrapem の内部実装
 └── docker-compose.yml
@@ -93,7 +93,7 @@ Codex / Claude Code
 ```text
 book-scrape.yaml
   ↓
-Go Scraper（Open Library API / Project Gutenberg Gutendex API）
+Go Scraper（Wikipedia ja API / Stanford Encyclopedia of Philosophy / Project Gutenberg Gutendex API）
   ↓
 book-inbox/*.md
   ↓
@@ -102,13 +102,23 @@ Codex / Claude Code
 書籍/ 配下の整理済み日本語ノート
 ```
 
+書籍ソースの役割分担:
+
+- **Wikipedia ja**: 日本語で哲学者・著作・概念の解説。現代著者もカバー。`## Full Text` に extract を保存
+- **Stanford Encyclopedia of Philosophy (SEP)**: 英語の学術的に信頼性の高い長文記事。`## Full Text` に本文を保存
+- **Project Gutenberg**: パブリックドメイン書籍の**フルテキスト**（英訳）。古典のみ対象
+
 各層の役割:
 
 - `research-scrape.yaml`: 論文収集の対象キーワード・クエリ・情報源を指定する
 - `book-scrape.yaml`: 書籍収集の対象著者・著作・情報源を指定する。`keywords:` セクションで対象を管理する
 - Go Scraper: 各 API からメタデータ・Abstract・Subjects・公開 URL などを収集する
 - `research-inbox/`: 論文の未処理素材キュー。`capture_tool: scrapem`
-- `book-inbox/`: 書籍の未処理素材キュー。`capture_tool: scrapem-book`。`public_domain: true` のノートは Gutenberg 由来で `## Full Text` に本文が含まれる（`max_book_chars` で truncate）。Open Library 由来は `## 概要` に description が入る
+- `book-inbox/`: 書籍の未処理素材キュー。`capture_tool: scrapem-book`。`## Full Text` セクションに以下が入る:
+  - Wikipedia ja 由来 → 日本語の記事 extract
+  - SEP 由来 → 英語の学術記事本文
+  - Gutenberg 由来 → 英訳フルテキスト（`public_domain: true`）
+  - いずれも `max_book_chars` で truncate される場合は `book_text_truncated: true` が立つ
 - `書籍/`: 整理済み日本語ノート
 - `研究動向/`: 論文素材を整理した研究動向ノート
 - Codex / Claude Code: 各 inbox と既存ノートを読み、重複を避けて統合する

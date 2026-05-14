@@ -38,11 +38,14 @@ processed_to: "研究動向/<反映先ファイル>.md"
 
 ## book-inbox 統合ルール（書籍）
 
-- `book-inbox/` は書籍スクレイパー（Open Library / Project Gutenberg）が生成した未処理書籍素材キューであり、正式ノートではない
+- `book-inbox/` は書籍スクレイパー（Wikipedia ja / SEP / Project Gutenberg）が生成した未処理書籍素材キューであり、正式ノートではない
 - `capture_tool: scrapem-book` のフロントマターを持つ
-- `public_domain: true` のノートは Project Gutenberg 由来で、`## Full Text` セクションに本文が含まれる（`max_book_chars` 上限で truncate される場合は `book_text_truncated: true` が立つ）
-- Open Library 由来のノートは `## 概要` に description が入る（取得できた場合のみ）
-- 取得元 URL は `source`、本文 URL は `plain_text_url` / `gutenberg_url` フィールドを参照する
+- `## Full Text` セクションに本文が入る。ソースごとに性質が異なる:
+  - **Wikipedia ja** (`source_name: wikipedia_ja`): 日本語の記事 extract。現代著者対応
+  - **SEP** (`source_name: sep`): 英語の学術的長文記事
+  - **Gutenberg** (`source_name: gutenberg`): 英訳フルテキスト。`public_domain: true` フラグあり
+- `max_book_chars` 上限で truncate された場合は `book_text_truncated: true` が立つ
+- 取得元 URL は `source`、Gutenberg 由来は `plain_text_url` / `gutenberg_url` も参照する
 - 統合先は `書籍/<西洋哲学|東洋哲学>/.../<著者名-著作名>.md`
 - 正式ノートに反映した `book-inbox/` ノートは、Front Matter を次の形に更新する
 
