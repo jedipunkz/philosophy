@@ -56,7 +56,7 @@ func (r *Runner) Run(ctx context.Context) error {
 		return err
 	}
 
-	statePath := filepath.Join(r.cfg.Vault.Root, ".scrapem", "seen-urls.json")
+	statePath := filepath.Join(r.cfg.Vault.Root, ".scrapem", r.cfg.Vault.SeenFile)
 	seen, err := loadSeen(statePath)
 	if err != nil {
 		return err
@@ -117,14 +117,17 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 		if len(items) > r.cfg.Scrape.MaxResults {
 			items = items[:r.cfg.Scrape.MaxResults]
 		}
+		isBookSource := source.Type == "openlibrary_api" || source.Type == "gutenberg_api"
 		for _, item := range items {
-			if source.Type != "api" {
+			if source.Type != "api" && !isBookSource {
 				if err := r.enrich(ctx, &item); err != nil {
 					log.Printf("detail fetch failed url=%s: %v", item.URL, err)
 				}
 			}
-			if err := r.enrichPDF(ctx, &item); err != nil {
-				log.Printf("pdf fetch failed url=%s pdf=%s: %v", item.URL, item.PDF, err)
+			if !isBookSource {
+				if err := r.enrichPDF(ctx, &item); err != nil {
+					log.Printf("pdf fetch failed url=%s pdf=%s: %v", item.URL, item.PDF, err)
+				}
 			}
 
 			item.Keyword = sq.keyword.Name
@@ -183,10 +186,16 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 		return nil, fmt.Errorf("unexpected status %s", resp.Status)
 	}
 
-	if source.Type == "api" {
+	switch source.Type {
+	case "api":
 		return parseArxivFeed(resp.Body)
+	case "openlibrary_api":
+		return parseOpenLibraryResults(resp.Body, source.BaseURL)
+	case "gutenberg_api":
+		return parseGutenbergResults(resp.Body)
+	default:
+		return parseSearchResults(resp.Body, resp.Request.URL)
 	}
-	return parseSearchResults(resp.Body, resp.Request.URL)
 }
 
 func (r *Runner) enrich(ctx context.Context, item *Item) error {

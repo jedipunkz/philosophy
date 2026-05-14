@@ -26,7 +26,7 @@ func writeMarkdown(inbox string, item Item) (string, error) {
 		path = filepath.Join(inbox, fmt.Sprintf("%s-%d.md", base, i))
 	}
 
-	content := renderMarkdown(now, item)
+	content := chooseRenderer(now, item)
 	return path, os.WriteFile(path, []byte(content), 0o644)
 }
 
@@ -45,7 +45,7 @@ func updateMarkdownBySource(inbox string, item Item) error {
 			when = parsed
 		}
 	}
-	return os.WriteFile(path, []byte(renderMarkdown(when, item)), 0o644)
+	return os.WriteFile(path, []byte(chooseRenderer(when, item)), 0o644)
 }
 
 func findMarkdownBySource(inbox, source string) (string, string, error) {
@@ -235,6 +235,13 @@ func emptyDash(input string) string {
 		return "-"
 	}
 	return input
+}
+
+func chooseRenderer(now time.Time, item Item) string {
+	if item.ItemType == "book" {
+		return renderBookMarkdown(now, item)
+	}
+	return renderMarkdown(now, item)
 }
 
 func frontMatterValue(text, key string) string {

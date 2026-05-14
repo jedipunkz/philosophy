@@ -18,4 +18,9 @@ type Item struct {
 	Keyword          string
 	Query            string
 	Tags             []string
+	// book-specific fields
+	ItemType     string   // "book" or "" (paper)
+	Subjects     []string
+	PublicDomain bool
+	GutenbergURL string
 }

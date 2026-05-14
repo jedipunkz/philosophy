@@ -26,12 +26,12 @@ cd "$repo_root"
 
 scripts/scrape.sh
 
-if [ -z "$(git status --porcelain -- inbox .scrapem/seen-urls.json)" ]; then
+if [ -z "$(git status --porcelain -- research-inbox book-inbox .scrapem/seen-urls.json .scrapem/seen-book-urls.json)" ]; then
   echo "No scraped inbox changes to commit."
   exit 0
 fi
 
-git add inbox .scrapem/seen-urls.json
+git add research-inbox book-inbox .scrapem/seen-urls.json .scrapem/seen-book-urls.json
 git commit -m "$commit_message"
 
 if [ "$push_after_commit" = true ]; then

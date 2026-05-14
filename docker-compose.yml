@@ -16,3 +16,21 @@ services:
       - .:/vault
     command: ["watch", "--config", "/vault/scrape.yaml"]
     restart: unless-stopped
+
+  book-scraper:
+    build:
+      context: .
+      dockerfile: docker/scraper/Dockerfile
+    volumes:
+      - .:/vault
+    command: ["run", "--config", "/vault/book-scrape.yaml"]
+    restart: "no"
+
+  book-scheduler:
+    build:
+      context: .
+      dockerfile: docker/scraper/Dockerfile
+    volumes:
+      - .:/vault
+    command: ["watch", "--config", "/vault/book-scrape.yaml"]
+    restart: unless-stopped

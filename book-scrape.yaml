@@ -1,0 +1,151 @@
+vault:
+  root: /vault
+  inbox: book-inbox
+  seen_file: seen-book-urls.json
+
+scrape:
+  interval: 168h   # 週1回
+  user_agent: philosophy-book-scraper/0.1 (+https://github.com/jedipunkz/philosophy)
+  max_results: 10
+  request_timeout: 20s
+  request_delay: 2s
+  refresh_existing: true
+
+sources:
+  - name: openlibrary
+    enabled: true
+    type: openlibrary_api
+    base_url: https://openlibrary.org
+    search_url: https://openlibrary.org/search.json?q={query}&fields=key,title,author_name,first_publish_year,subject&limit=10
+
+  - name: gutenberg
+    enabled: true
+    type: gutenberg_api
+    base_url: https://gutendex.com
+    search_url: https://gutendex.com/books/?search={query}
+
+keywords:
+  - name: カント
+    queries:
+      - Immanuel Kant Critique of Pure Reason
+      - Immanuel Kant Critique of Practical Reason
+      - Immanuel Kant Groundwork Metaphysics Morals
+    sources:
+      - openlibrary
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 認識論
+      - 倫理学
+
+  - name: プラトン
+    queries:
+      - Plato Republic
+      - Plato Symposium
+      - Plato Phaedo
+      - Plato Apology
+    sources:
+      - openlibrary
+      - gutenberg
+    tags:
+      - 古代哲学
+      - イデア論
+      - 倫理学
+
+  - name: アリストテレス
+    queries:
+      - Aristotle Nicomachean Ethics
+      - Aristotle Politics
+      - Aristotle Metaphysics
+    sources:
+      - openlibrary
+      - gutenberg
+    tags:
+      - 古代哲学
+      - 倫理学
+      - 形而上学
+
+  - name: ニーチェ
+    queries:
+      - Nietzsche Thus Spoke Zarathustra
+      - Nietzsche Beyond Good and Evil
+      - Nietzsche Genealogy of Morals
+    sources:
+      - openlibrary
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 実存主義
+      - ニヒリズム
+
+  - name: ヘーゲル
+    queries:
+      - Hegel Phenomenology of Spirit
+      - Hegel Philosophy of Right
+      - Hegel Science of Logic
+    sources:
+      - openlibrary
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 弁証法
+      - 観念論
+
+  - name: マルクス
+    queries:
+      - Karl Marx Capital
+      - Karl Marx Communist Manifesto
+    sources:
+      - openlibrary
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 社会思想
+      - 唯物論
+
+  - name: デカルト
+    queries:
+      - Descartes Meditations on First Philosophy
+      - Descartes Discourse on Method
+    sources:
+      - openlibrary
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 合理主義
+      - 認識論
+
+  - name: スピノザ
+    queries:
+      - Spinoza Ethics
+      - Spinoza Theologico-Political Treatise
+    sources:
+      - openlibrary
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 汎神論
+      - 倫理学
+
+  - name: ハンナ・アーレント
+    queries:
+      - Hannah Arendt Human Condition
+      - Hannah Arendt Origins of Totalitarianism
+      - Hannah Arendt Eichmann in Jerusalem
+    sources:
+      - openlibrary
+    tags:
+      - 現代哲学
+      - 政治哲学
+      - 全体主義
+
+  - name: ユング
+    queries:
+      - Carl Jung archetypes collective unconscious
+      - Carl Jung psychological types
+    sources:
+      - openlibrary
+    tags:
+      - 現代哲学
+      - 深層心理学
+      - 元型論
