@@ -15,8 +15,9 @@ type Config struct {
 }
 
 type VaultConfig struct {
-	Root  string `yaml:"root"`
-	Inbox string `yaml:"inbox"`
+	Root     string `yaml:"root"`
+	Inbox    string `yaml:"inbox"`
+	SeenFile string `yaml:"seen_file"`
 }
 
 type ScrapeConfig struct {
@@ -61,6 +62,9 @@ func Load(path string) (Config, error) {
 	}
 	if cfg.Vault.Inbox == "" {
 		cfg.Vault.Inbox = "inbox"
+	}
+	if cfg.Vault.SeenFile == "" {
+		cfg.Vault.SeenFile = "seen-urls.json"
 	}
 	if cfg.Scrape.Interval == "" {
 		cfg.Scrape.Interval = "24h"

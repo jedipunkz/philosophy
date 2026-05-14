@@ -1,6 +1,6 @@
 # 哲学ノート
 
-哲学者・著作ごとに内容をまとめた個人ナレッジベース。Obsidian Vault として管理し、Go 製スクレイパーで収集した論文情報を `inbox/` に蓄積し、Codex / Claude Code で `研究動向/` の日本語ノートへ統合する。
+哲学者・著作ごとに内容をまとめた個人ナレッジベース。Obsidian Vault として管理し、Go 製スクレイパーで収集した論文情報を `research-inbox/` に、書籍情報を `book-inbox/` に蓄積し、Codex / Claude Code で `研究動向/` および `書籍/` の日本語ノートへ統合する。
 
 ---
 
@@ -8,7 +8,8 @@
 
 ```
 philosophy/
-├── inbox/          # スクレイパーが保存する未処理素材
+├── research-inbox/   # 論文スクレイパーが保存する未処理素材
+├── book-inbox/       # 書籍スクレイパーが保存する未処理素材
 ├── 書籍/
 │   ├── 西洋哲学/
 │   │   ├── 古代/      # ～紀元後5世紀ごろまで（ソクラテス、プラトン等）
@@ -18,10 +19,11 @@ philosophy/
 │       ├── インド・仏教/  # ※ファイルが増えた時点でサブフォルダを切る
 │       ├── 中国/          # ※同上
 │       └── 日本/          # ※同上
-├── 研究動向/       # inbox をもとに Codex / Claude Code がまとめる研究動向ノート
-├── scrape.yaml    # スクレイピング対象キーワード・情報源の設定
-├── cmd/            # Go 製 scrapem CLI
-├── internal/       # scrapem の内部実装
+├── 研究動向/         # research-inbox をもとに Codex / Claude Code がまとめる研究動向ノート
+├── scrape.yaml       # 論文スクレイピング設定（PhilArchive、PhilPapers、arXiv）
+├── book-scrape.yaml  # 書籍スクレイピング設定（Open Library、Project Gutenberg）
+├── cmd/              # Go 製 scrapem CLI
+├── internal/         # scrapem の内部実装
 └── docker-compose.yml
 ```
 
@@ -72,53 +74,68 @@ philosophy/
 
 ## 自動収集アーキテクチャ
 
-この Vault は、手動で書いた哲学ノートに加えて、論文アーカイブから収集した素材を `inbox/` に蓄積する。
+### 論文収集パイプライン
 
 ```text
 scrape.yaml
   ↓
-Go Scraper
+Go Scraper（PhilArchive / PhilPapers / arXiv）
   ↓
-inbox/*.md
+research-inbox/*.md
   ↓
 Codex / Claude Code
   ↓
-研究動向/ の日本語まとめ、または 書籍/ 配下の整理済み日本語ノート
+研究動向/ の日本語まとめノート
+```
+
+### 書籍収集パイプライン
+
+```text
+book-scrape.yaml
+  ↓
+Go Scraper（Open Library API / Project Gutenberg Gutendex API）
+  ↓
+book-inbox/*.md
+  ↓
+Codex / Claude Code
+  ↓
+書籍/ 配下の整理済み日本語ノート
 ```
 
 各層の役割:
 
-- `scrape.yaml`: 人間が関心キーワード、検索クエリ、情報源を指定する
-- Go Scraper: PhilArchive などからメタデータ、Abstract、Citation、BibTeX、PDF本文テキストを収集する
-- `inbox/`: 自動収集された未処理素材の作業キュー。各ノートには Obsidian graph 用の `[[研究動向/...]]` リンクを付ける
-- `書籍/西洋哲学/`・`書籍/東洋哲学/`: 人間が読む著作別の整理済み日本語ノート
-- `研究動向/`: `inbox/` の素材を Codex / Claude Code が整理する研究動向ノート
-- Codex / Claude Code: `inbox/` と既存ノートを読み、重複を避けて `研究動向/` へ統合する
-
+- `scrape.yaml`: 論文収集の対象キーワード・クエリ・情報源を指定する
+- `book-scrape.yaml`: 書籍収集の対象著者・著作・情報源を指定する。`keywords:` セクションで対象を管理する
+- Go Scraper: 各 API からメタデータ・Abstract・Subjects・公開 URL などを収集する
+- `research-inbox/`: 論文の未処理素材キュー。`capture_tool: scrapem`
+- `book-inbox/`: 書籍の未処理素材キュー。`capture_tool: scrapem-book`。`public_domain: true` のノートは Gutenberg 由来で本文取得可能
+- `書籍/`: 整理済み日本語ノート
+- `研究動向/`: 論文素材を整理した研究動向ノート
+- Codex / Claude Code: 各 inbox と既存ノートを読み、重複を避けて統合する
 
 ### スクレイピングの実行
 
-単発実行:
+**論文スクレイパー:**
 
 ```bash
+# 単発実行
 scripts/scrape.sh
-```
 
-別の設定ファイルを指定する場合:
-
-```bash
-scripts/scrape.sh --config scrape.yaml
-```
-
-定期実行:
-
-```bash
+# 定期実行
 docker compose up -d scheduler
 ```
 
-現在はテストのため `scrape.yaml` の `interval` を短くしてよい。運用段階では、哲学論文ソースの更新頻度を考慮し、週1回程度にする。
+**書籍スクレイパー:**
 
-スクレイプ後に `inbox/` をコミットする場合:
+```bash
+# 単発実行
+scripts/scrape.sh --config book-scrape.yaml
+
+# 定期実行（週1回、168h間隔）
+docker compose up -d book-scheduler
+```
+
+スクレイプ後に両 inbox をコミットする場合:
 
 ```bash
 scripts/scrape-and-commit.sh
@@ -130,31 +147,26 @@ push まで行う場合:
 scripts/scrape-and-commit.sh --push
 ```
 
-自動コミット対象は `inbox/` と `.scrapem/seen-urls.json` のみ。正式ノートの更新は、AIエージェントによる別作業・別PRとして扱う。
+自動コミット対象は `research-inbox/`・`book-inbox/`・`.scrapem/seen-*.json` のみ。正式ノートの更新は、AI エージェントによる別作業・別 PR として扱う。
 
 ### inbox の扱い
 
-`inbox/` は正式ノートではなく、収集素材の置き場である。原則として中身をそのまま `書籍/西洋哲学/` や `書籍/東洋哲学/` に移動しない。Codex / Claude Code が `inbox/` を参照してまとめる場合は、原則として `研究動向/` に整理する。
+**research-inbox:**
+`research-inbox/` は正式ノートではなく、論文収集素材の置き場である。Codex / Claude Code が参照してまとめる場合は `研究動向/` に整理する。
 
-スクレイパーが生成する `inbox/` ノートには `## Obsidian Links` 節を付ける。`keyword: "ユング"` の素材なら `[[研究動向/ユング-現代研究動向|ユング-現代研究動向]]`、`[[ユング]]`、タグ由来の `[[現代思想]]` / `#現代思想` などを含め、Obsidian graph で研究動向ノート・キーワード・分野と関連付くようにする。
+**book-inbox:**
+`book-inbox/` は書籍収集素材の置き場である。Codex / Claude Code が参照して書籍ノートを生成する場合は `書籍/` 配下に整理する。`public_domain: true` のノートは Gutenberg から本文取得が可能。著作権が切れていないものは書誌情報・概要のみ利用する。
 
-`inbox/` のノートには以下のようなメタデータが入る。
-
-```yaml
-source: "https://philarchive.org/rec/HIRADC"
-title: "A democratic consensus? Isaiah Berlin, Hannah Arendt, and the anti-totalitarian family quarrel"
-author: "Kei Hiruta"
-source_name: "philarchive"
-keyword: "ハンナ・アーレント"
-query: "Hannah Arendt totalitarianism"
-status: raw
-```
-
-AIエージェントが正式ノートへ反映したら、該当する `inbox/` ノートを次のように更新する。
+AIエージェントが正式ノートへ反映したら、該当するノートを次のように更新する。
 
 ```yaml
+# 論文 (research-inbox → 研究動向/)
 status: processed
 processed_to: "研究動向/ハンナ・アーレント-現代研究動向.md"
+
+# 書籍 (book-inbox → 書籍/)
+status: processed
+processed_to: "書籍/西洋哲学/近代/カント-純粋理性批判.md"
 ```
 
 不要または関係が薄い素材は `status: ignored` にする。
@@ -175,9 +187,11 @@ processed_to: "研究動向/ハンナ・アーレント-現代研究動向.md"
 
 ### inbox 整理の依頼例
 
-> 「inbox/ のハンナ・アーレント関連ノートを読んで、既存の書籍/西洋哲学/現代/ハンナ・アーレント-*.md と照合し、研究動向/ハンナ・アーレント-現代研究動向.md に重複しない形で統合して」
+> 「research-inbox/ のハンナ・アーレント関連ノートを読んで、既存の書籍/西洋哲学/現代/ハンナ・アーレント-*.md と照合し、研究動向/ハンナ・アーレント-現代研究動向.md に重複しない形で統合して」
 
-> 「inbox/ のうち status: raw のものだけを確認し、正式ノート化すべきもの、無視してよいもの、追加調査が必要なものに分類して」
+> 「book-inbox/ のカント関連ノートを読んで、書籍/西洋哲学/近代/ に新規ノートとして追加して」
+
+> 「research-inbox/ または book-inbox/ のうち status: raw のものを確認し、正式ノート化すべきもの、無視してよいものに分類して」
 
 ### 横断的な質問例
 
@@ -211,4 +225,4 @@ Reorg: フォルダ構成変更
 
 通常の正式ノート編集では、変更内容を確認してから手動で `push` する。スクレイプ結果だけを同期する場合は、下記の専用スクリプトを使う。
 
-`scripts/scrape-and-commit.sh --push` は、ホスト側の Git 認証を使って `inbox/` の自動収集結果だけを同期するための運用スクリプトである。正式ノートの編集結果は通常の `git diff` 確認後、意味のある単位でコミットする。
+`scripts/scrape-and-commit.sh --push` は、ホスト側の Git 認証を使って `research-inbox/`・`book-inbox/` の自動収集結果だけを同期するための運用スクリプトである。正式ノートの編集結果は通常の `git diff` 確認後、意味のある単位でコミットする。

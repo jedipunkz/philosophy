@@ -1,6 +1,6 @@
 vault:
   root: /vault
-  inbox: inbox
+  inbox: research-inbox
 
 scrape:
   interval: 24h

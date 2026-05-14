@@ -1,13 +1,13 @@
 # CLAUDE.md
 
-このリポジトリは哲学者・著作ごとの個人ナレッジベース。Obsidian Vault として管理し、Go 製スクレイパーが収集した論文情報を `inbox/` に蓄積し、Codex / Claude Code が `研究動向/` の日本語ノートへ統合する。
+このリポジトリは哲学者・著作ごとの個人ナレッジベース。Obsidian Vault として管理し、Go 製スクレイパーが収集した論文情報を `research-inbox/` に、書籍情報を `book-inbox/` に蓄積し、Codex / Claude Code が `研究動向/` および `書籍/` の日本語ノートへ統合する。
 プロジェクト全体像・運用方針の詳細は `README.md` を参照すること。このファイルは AI エージェントが作業時に従う最小限のルールに絞る。
 
 ## 作業前チェック
 
 - 新規ファイルを作る前に既存ファイル（特に同じ時代区分・同じ著者）を1〜2本読み、文体・分量・章立ての粒度を合わせる
 - 著者名表記が既存ファイルと揺れないか確認する（例: ハンナ・アーレント、ユング）
-- `inbox/` を使う作業では、まず `status: raw` / `status: processed` / `status: ignored` を確認する
+- `research-inbox/` または `book-inbox/` を使う作業では、まず `status: raw` / `status: processed` / `status: ignored` を確認する
 
 ## 新規ファイル作成ルール
 
@@ -18,13 +18,13 @@
   - `関連ファイル` には同一著者または思想的に近い著作を列挙する
 - 既存ファイルにフロントマターが無いものがあるが、**新規追加時は必ず付ける**
 
-## inbox 統合ルール
+## research-inbox 統合ルール（論文）
 
-- `inbox/` はスクレイパーが生成した未処理素材キューであり、正式ノートではない
-- `inbox/` の内容をそのまま移動・翻訳するのではなく、既存ノートと照合して日本語で再構成する
+- `research-inbox/` はスクレイパーが生成した未処理論文素材キューであり、正式ノートではない
+- `research-inbox/` の内容をそのまま移動・翻訳するのではなく、既存ノートと照合して日本語で再構成する
 - 統合作業では、最初に `README.md` と関連する既存ノートを読む
 - 対象は原則として `status: raw` のノート。`processed` は必要な場合だけ再確認する
-- 正式ノートに反映した `inbox/` ノートは、Front Matter を次の形に更新する
+- 正式ノートに反映した `research-inbox/` ノートは、Front Matter を次の形に更新する
 
 ```yaml
 status: processed
@@ -34,7 +34,23 @@ processed_to: "研究動向/<反映先ファイル>.md"
 - 関係が薄い、品質が低い、重複している素材は `status: ignored` にし、必要なら `ignore_reason` を付ける
 - PDF本文は `## PDF Text` に入るが、抽出ノイズがあるため、必ず Abstract / Citation / 既存ノートと照合して使う
 - `source`、`citation`、`BibTeX` がある場合は、正式ノートの末尾または参照節に出典として反映する
-- スクレイパーは正式ノートを直接更新しない。`inbox/` 由来の研究動向ノート化は Codex / Claude Code の編集作業として `研究動向/` に行う
+- スクレイパーは正式ノートを直接更新しない。`research-inbox/` 由来の研究動向ノート化は Codex / Claude Code の編集作業として `研究動向/` に行う
+
+## book-inbox 統合ルール（書籍）
+
+- `book-inbox/` は書籍スクレイパー（Open Library / Project Gutenberg）が生成した未処理書籍素材キューであり、正式ノートではない
+- `capture_tool: scrapem-book` のフロントマターを持つ
+- `public_domain: true` のノートは Project Gutenberg 由来で本文取得が可能。`gutenberg_url` フィールドを参照する
+- 統合先は `書籍/<西洋哲学|東洋哲学>/.../<著者名-著作名>.md`
+- 正式ノートに反映した `book-inbox/` ノートは、Front Matter を次の形に更新する
+
+```yaml
+status: processed
+processed_to: "書籍/<反映先ファイル>.md"
+```
+
+- 著作権が切れていない書籍（`public_domain` フィールドなし）は書誌情報・概要のみ利用し、本文は引用しない
+- スクレイパーは `書籍/` を直接更新しない。`book-inbox/` 由来の書籍ノート化は Codex / Claude Code の編集作業として `書籍/` に行う
 
 ## フォルダ運用の閾値
 
@@ -45,16 +61,29 @@ processed_to: "研究動向/<反映先ファイル>.md"
 ## 横断的タスク（比較・要約）の指針
 
 - 既存ファイルの内容を引用・参照する場合は、必ずファイルパスを明示する
-- `inbox/` の素材を根拠にする場合も、参照した `inbox/...md` のパスを作業結果に明示する
+- `research-inbox/` または `book-inbox/` の素材を根拠にする場合も、参照したファイルのパスを作業結果に明示する
 - ファクトチェックを依頼された場合は Web 検索で裏取りし、どこを修正したかを diff で示す
 
 ## スクレイパー運用
 
-- スクレイパー設定は `scrape.yaml`
-- 単発実行は `scripts/scrape.sh`
-- 定期実行は `docker compose up -d scheduler`
+### 論文スクレイパー（research-inbox 向け）
+
+- 設定ファイル: `scrape.yaml`
+- 単発実行: `scripts/scrape.sh`
+- 定期実行: `docker compose up -d scheduler`
 - 運用段階では論文ソースの更新頻度を考慮し、週1回程度を基本にする。テスト中のみ高頻度でよい
-- `scripts/scrape-and-commit.sh` は `inbox/` と `.scrapem/seen-urls.json` だけを自動コミットするためのホスト側スクリプト
+
+### 書籍スクレイパー（book-inbox 向け）
+
+- 設定ファイル: `book-scrape.yaml`（Open Library API / Project Gutenberg Gutendex API）
+- 単発実行: `scripts/scrape.sh --config book-scrape.yaml`
+- 定期実行: `docker compose up -d book-scheduler`
+- 書籍情報の更新頻度は低いため、週1回（168h）で十分
+- 対象著者・著作は `book-scrape.yaml` の `keywords:` セクションで管理する
+
+### 共通
+
+- `scripts/scrape-and-commit.sh` は `research-inbox/`・`book-inbox/`・`.scrapem/seen-*.json` だけを自動コミットするホスト側スクリプト
 - Docker コンテナ内に GitHub 認証情報や SSH 鍵を持たせない
 
 ## Git 運用
