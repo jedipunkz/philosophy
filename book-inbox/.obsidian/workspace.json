@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "c32739608827e67f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf39e890e383944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a8cd981fe3c88c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99c12effafb25da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "564fa8da18e0ce02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97b07a6c40941a6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "c70f087aeec656d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "8f07d9f038614c21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a3efa4060ef85a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ebf3e563bdce51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5442af1888b6794",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "05c514d912b9b76f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "851fc56d165e4085",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "9d861e0aeea35fee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "056092f70009f223",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "8a8cd981fe3c88c2",
+  "lastOpenFiles": [
+    "2026-05-14-Aristotle-Politics- A Treatise on Government.md",
+    "2026-05-14-Aristotle-Aristotle's History of Animals- In Ten Books.md",
+    "2026-05-14-Aristotle-The Poetics of Aristotle.md",
+    "2026-05-14-George Grote-Aristotle.md",
+    "2026-05-14-Aristotle-The Ethics of Aristotle.md",
+    "2026-05-14-ユング-集合的無意識.md",
+    "2026-05-14-ユング-無意識.md",
+    "2026-05-14-Douglas Woodruff-Plato's American Republic - $b Done out of the original.md",
+    "2026-05-14-ユング-モチーフ (物語).md",
+    "2026-05-14-ユング-アイオーン.md",
+    "2026-05-14-ユング-元型.md",
+    "2026-05-14-Plato-The Republic-2.md",
+    "2026-05-14-ユング-深層心理学.md",
+    "2026-05-14-ユング-カール・ケレーニイ.md",
+    "2026-05-14-ユング-人文書院.md",
+    "2026-05-14-Plato-The Republic of Plato.md",
+    "2026-05-14-ユング-ガルバニック皮膚反応.md",
+    "2026-05-14-ユング-両性具有.md",
+    "2026-05-14-ユング-分析心理学.md",
+    "2026-05-14-ユング-カール・グスタフ・ユング.md",
+    "2026-05-14-ユング-カール・シューリヒト.md",
+    "2026-05-14-ハンナ・アーレント-共産主義.md",
+    "2026-05-14-ハンナ・アーレント-全体主義の起源.md",
+    "2026-05-14-ハンナ・アーレント-全体主義.md",
+    "2026-05-14-ハンナ・アーレント-民主主義.md",
+    "2026-05-14-ハンナ・アーレント-人間性.md"
+  ]
+}
