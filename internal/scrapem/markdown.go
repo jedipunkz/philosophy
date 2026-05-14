@@ -14,10 +14,7 @@ var sourceLineRe = regexp.MustCompile(`(?m)^source:\s*"?([^"\n]+)"?\s*$`)
 
 func writeMarkdown(inbox string, item Item) (string, error) {
 	now := time.Now()
-	base := slug(fmt.Sprintf("%s-%s", now.Format("2006-01-02"), item.Title))
-	if base == "" {
-		base = now.Format("2006-01-02-150405")
-	}
+	base := buildMarkdownBase(now, item)
 	path := filepath.Join(inbox, base+".md")
 	for i := 2; ; i++ {
 		if _, err := os.Stat(path); os.IsNotExist(err) {
@@ -31,21 +28,66 @@ func writeMarkdown(inbox string, item Item) (string, error) {
 }
 
 func updateMarkdownBySource(inbox string, item Item) error {
-	path, capturedAt, err := findMarkdownBySource(inbox, item.URL)
+	oldPath, capturedAt, err := findMarkdownBySource(inbox, item.URL)
 	if err != nil {
 		return err
 	}
-	if path == "" {
+	if oldPath == "" {
 		_, err := writeMarkdown(inbox, item)
 		return err
 	}
 	when := time.Now()
 	if capturedAt != "" {
-		if parsed, err := time.Parse(time.RFC3339, capturedAt); err == nil {
+		if parsed, perr := time.Parse(time.RFC3339, capturedAt); perr == nil {
 			when = parsed
 		}
 	}
-	return os.WriteFile(path, []byte(chooseRenderer(when, item)), 0o644)
+	desiredBase := buildMarkdownBase(when, item)
+	newPath := filepath.Join(inbox, desiredBase+".md")
+	if newPath != oldPath {
+		if _, err := os.Stat(newPath); os.IsNotExist(err) {
+			if err := os.Rename(oldPath, newPath); err != nil {
+				return err
+			}
+		} else {
+			newPath = oldPath
+		}
+	}
+	return os.WriteFile(newPath, []byte(chooseRenderer(when, item)), 0o644)
+}
+
+func buildMarkdownBase(when time.Time, item Item) string {
+	date := when.Format("2006-01-02")
+	var raw string
+	if item.ItemType == "book" {
+		who := primaryAuthor(item.Author)
+		if who == "" {
+			who = strings.TrimSpace(item.Keyword)
+		}
+		if who != "" {
+			raw = fmt.Sprintf("%s-%s-%s", date, who, item.Title)
+		} else {
+			raw = fmt.Sprintf("%s-%s", date, item.Title)
+		}
+	} else {
+		raw = fmt.Sprintf("%s-%s", date, item.Title)
+	}
+	base := slug(raw)
+	if base == "" {
+		base = when.Format("2006-01-02-150405")
+	}
+	return base
+}
+
+func primaryAuthor(authors string) string {
+	if authors == "" {
+		return ""
+	}
+	first := authors
+	if idx := strings.IndexAny(authors, ",;&"); idx >= 0 {
+		first = authors[:idx]
+	}
+	return strings.TrimSpace(first)
 }
 
 func findMarkdownBySource(inbox, source string) (string, string, error) {

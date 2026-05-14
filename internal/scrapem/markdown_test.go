@@ -163,6 +163,48 @@ func TestHTMLToTextPreservesParagraphs(t *testing.T) {
 	}
 }
 
+func TestBuildMarkdownBaseBookUsesAuthorPrefix(t *testing.T) {
+	when := time.Date(2026, 5, 14, 0, 0, 0, 0, time.UTC)
+	cases := []struct {
+		name string
+		item Item
+		want string
+	}{
+		{
+			"single author",
+			Item{ItemType: "book", Title: "純粋理性批判", Author: "Immanuel Kant"},
+			"2026-05-14-Immanuel Kant-純粋理性批判",
+		},
+		{
+			"comma-separated authors picks first",
+			Item{ItemType: "book", Title: "Republic", Author: "Plato, Benjamin Jowett"},
+			"2026-05-14-Plato-Republic",
+		},
+		{
+			"empty author falls back to keyword",
+			Item{ItemType: "book", Title: "国家 (対話篇)", Keyword: "プラトン"},
+			"2026-05-14-プラトン-国家 (対話篇)",
+		},
+		{
+			"empty author and empty keyword falls back to date-title",
+			Item{ItemType: "book", Title: "ハンナ・アーレント"},
+			"2026-05-14-ハンナ・アーレント",
+		},
+		{
+			"paper item keeps old format",
+			Item{ItemType: "", Title: "Jung Paper", Author: "Carl Jung"},
+			"2026-05-14-Jung Paper",
+		},
+	}
+	for _, c := range cases {
+		t.Run(c.name, func(t *testing.T) {
+			if got := buildMarkdownBase(when, c.item); got != c.want {
+				t.Fatalf("buildMarkdownBase(%v): got %q want %q", c.item, got, c.want)
+			}
+		})
+	}
+}
+
 func TestRenderMarkdownOmitsObsidianLinksWhenNoRelations(t *testing.T) {
 	item := Item{
 		Title:      "Untitled",
