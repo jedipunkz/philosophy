@@ -42,6 +42,7 @@ func parseGutenbergResults(body io.Reader) ([]Item, error) {
 		}
 		pageURL := fmt.Sprintf("https://www.gutenberg.org/ebooks/%d", book.ID)
 		download := gutenbergDownloadURL(book.Formats)
+		plainText := gutenbergPlainTextURL(book.Formats)
 		authors := make([]string, 0, len(book.Authors))
 		for _, a := range book.Authors {
 			if name := gutenbergAuthorName(a.Name); name != "" {
@@ -60,6 +61,7 @@ func parseGutenbergResults(body io.Reader) ([]Item, error) {
 			Author:       strings.Join(authors, ", "),
 			Year:         year,
 			Download:     download,
+			PlainTextURL: plainText,
 			Subjects:     book.Subjects,
 			PublicDomain: !book.Copyright,
 		})
@@ -75,6 +77,22 @@ func gutenbergDownloadURL(formats map[string]string) string {
 			if strings.HasPrefix(k, mime) {
 				return v
 			}
+		}
+	}
+	return ""
+}
+
+// gutenbergPlainTextURL picks the plain text URL for full body extraction,
+// preferring UTF-8 over us-ascii.
+func gutenbergPlainTextURL(formats map[string]string) string {
+	for k, v := range formats {
+		if strings.HasPrefix(k, "text/plain") && strings.Contains(k, "utf-8") {
+			return v
+		}
+	}
+	for k, v := range formats {
+		if strings.HasPrefix(k, "text/plain") {
+			return v
 		}
 	}
 	return ""

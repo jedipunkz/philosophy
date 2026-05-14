@@ -108,7 +108,7 @@ Codex / Claude Code
 - `book-scrape.yaml`: 書籍収集の対象著者・著作・情報源を指定する。`keywords:` セクションで対象を管理する
 - Go Scraper: 各 API からメタデータ・Abstract・Subjects・公開 URL などを収集する
 - `research-inbox/`: 論文の未処理素材キュー。`capture_tool: scrapem`
-- `book-inbox/`: 書籍の未処理素材キュー。`capture_tool: scrapem-book`。`public_domain: true` のノートは Gutenberg 由来で本文取得可能
+- `book-inbox/`: 書籍の未処理素材キュー。`capture_tool: scrapem-book`。`public_domain: true` のノートは Gutenberg 由来で `## Full Text` に本文が含まれる（`max_book_chars` で truncate）。Open Library 由来は `## 概要` に description が入る
 - `書籍/`: 整理済み日本語ノート
 - `研究動向/`: 論文素材を整理した研究動向ノート
 - Codex / Claude Code: 各 inbox と既存ノートを読み、重複を避けて統合する

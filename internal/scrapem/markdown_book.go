@@ -22,8 +22,14 @@ func renderBookMarkdown(now time.Time, item Item) string {
 	if item.GutenbergURL != "" {
 		writeYAMLString(&b, "gutenberg_url", item.GutenbergURL)
 	}
+	if item.PlainTextURL != "" {
+		writeYAMLString(&b, "plain_text_url", item.PlainTextURL)
+	}
 	if item.PublicDomain {
 		b.WriteString("public_domain: true\n")
+	}
+	if item.BookTextTruncated {
+		b.WriteString("book_text_truncated: true\n")
 	}
 	b.WriteString("subjects:\n")
 	for _, s := range item.Subjects {
@@ -57,10 +63,25 @@ func renderBookMarkdown(now time.Time, item Item) string {
 		}
 	}
 
+	if item.Description != "" {
+		b.WriteString("\n## 概要\n\n")
+		b.WriteString(item.Description)
+		b.WriteString("\n")
+	}
+
 	if item.Abstract != "" {
 		b.WriteString("\n## Abstract\n\n")
 		b.WriteString(item.Abstract)
 		b.WriteString("\n")
+	}
+
+	if item.BookText != "" {
+		b.WriteString("\n## Full Text\n\n")
+		b.WriteString(item.BookText)
+		b.WriteString("\n")
+		if item.BookTextTruncated {
+			b.WriteString("\n<!-- Book text truncated by scrapem max_book_chars. -->\n")
+		}
 	}
 
 	b.WriteString("\n## Notes\n\n")

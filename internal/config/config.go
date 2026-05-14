@@ -26,6 +26,8 @@ type ScrapeConfig struct {
 	MaxResults      int    `yaml:"max_results"`
 	MaxPDFChars     int    `yaml:"max_pdf_chars"`
 	MaxPDFBytes     int64  `yaml:"max_pdf_bytes"`
+	MaxBookChars    int    `yaml:"max_book_chars"`
+	MaxBookBytes    int64  `yaml:"max_book_bytes"`
 	RequestTimeout  string `yaml:"request_timeout"`
 	RequestDelay    string `yaml:"request_delay"`
 	RefreshExisting bool   `yaml:"refresh_existing"`
@@ -80,6 +82,12 @@ func Load(path string) (Config, error) {
 	}
 	if cfg.Scrape.MaxPDFBytes <= 0 {
 		cfg.Scrape.MaxPDFBytes = 20 * 1024 * 1024
+	}
+	if cfg.Scrape.MaxBookChars <= 0 {
+		cfg.Scrape.MaxBookChars = 300000
+	}
+	if cfg.Scrape.MaxBookBytes <= 0 {
+		cfg.Scrape.MaxBookBytes = 10 * 1024 * 1024
 	}
 	if cfg.Scrape.RequestTimeout == "" {
 		cfg.Scrape.RequestTimeout = "20s"

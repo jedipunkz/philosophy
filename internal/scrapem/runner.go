@@ -119,7 +119,18 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 		}
 		isBookSource := source.Type == "openlibrary_api" || source.Type == "gutenberg_api"
 		for _, item := range items {
-			if source.Type != "api" && !isBookSource {
+			switch source.Type {
+			case "openlibrary_api":
+				if err := r.enrichOpenLibrary(ctx, &item); err != nil {
+					log.Printf("openlibrary detail fetch failed url=%s: %v", item.URL, err)
+				}
+			case "gutenberg_api":
+				if err := r.enrichBookText(ctx, &item); err != nil {
+					log.Printf("gutenberg text fetch failed url=%s text=%s: %v", item.URL, item.PlainTextURL, err)
+				}
+			case "api":
+				// arxiv etc — handled below
+			default:
 				if err := r.enrich(ctx, &item); err != nil {
 					log.Printf("detail fetch failed url=%s: %v", item.URL, err)
 				}
@@ -274,5 +285,12 @@ func mergeDetail(item *Item, detail Item) {
 	if detail.PDFText != "" {
 		item.PDFText = detail.PDFText
 		item.PDFTextTruncated = detail.PDFTextTruncated
+	}
+	if detail.Description != "" {
+		item.Description = detail.Description
+	}
+	if detail.BookText != "" {
+		item.BookText = detail.BookText
+		item.BookTextTruncated = detail.BookTextTruncated
 	}
 }

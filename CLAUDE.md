@@ -40,7 +40,9 @@ processed_to: "研究動向/<反映先ファイル>.md"
 
 - `book-inbox/` は書籍スクレイパー（Open Library / Project Gutenberg）が生成した未処理書籍素材キューであり、正式ノートではない
 - `capture_tool: scrapem-book` のフロントマターを持つ
-- `public_domain: true` のノートは Project Gutenberg 由来で本文取得が可能。`gutenberg_url` フィールドを参照する
+- `public_domain: true` のノートは Project Gutenberg 由来で、`## Full Text` セクションに本文が含まれる（`max_book_chars` 上限で truncate される場合は `book_text_truncated: true` が立つ）
+- Open Library 由来のノートは `## 概要` に description が入る（取得できた場合のみ）
+- 取得元 URL は `source`、本文 URL は `plain_text_url` / `gutenberg_url` フィールドを参照する
 - 統合先は `書籍/<西洋哲学|東洋哲学>/.../<著者名-著作名>.md`
 - 正式ノートに反映した `book-inbox/` ノートは、Front Matter を次の形に更新する
 
