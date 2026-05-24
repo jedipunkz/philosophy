@@ -61,6 +61,16 @@ func (r *Runner) Run(ctx context.Context) error {
 	if err != nil {
 		return err
 	}
+	added, err := syncSeenFromInbox(inbox, seen)
+	if err != nil {
+		return err
+	}
+	if added > 0 {
+		log.Printf("seen index restored from inbox: +%d urls", added)
+		if err := seen.Save(statePath); err != nil {
+			return err
+		}
+	}
 
 	jobs := map[string][]sourceQuery{}
 	for _, keyword := range r.cfg.Keywords {
@@ -94,7 +104,7 @@ func (r *Runner) Run(ctx context.Context) error {
 		wg.Add(1)
 		go func(source config.SourceConfig, queries []sourceQuery) {
 			defer wg.Done()
-			r.runSource(ctx, source, queries, inbox, seen, &mu, &total)
+			r.runSource(ctx, source, queries, inbox, statePath, seen, &mu, &total)
 		}(source, queries)
 	}
 
@@ -107,7 +117,7 @@ func (r *Runner) Run(ctx context.Context) error {
 	return nil
 }
 
-func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, queries []sourceQuery, inbox string, seen *Seen, mu *sync.Mutex, total *int) {
+func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, queries []sourceQuery, inbox, statePath string, seen *Seen, mu *sync.Mutex, total *int) {
 	for _, sq := range queries {
 		items, err := r.search(ctx, source, sq.query)
 		if err != nil {
@@ -172,6 +182,9 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 				seen.Add(item.URL)
 			}
 			*total++
+			if err := seen.Save(statePath); err != nil {
+				log.Printf("seen save failed: %v", err)
+			}
 			mu.Unlock()
 		}
 	}

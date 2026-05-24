@@ -59,6 +59,9 @@ func Load(path string) (Config, error) {
 		return Config{}, err
 	}
 
+	if envRoot := os.Getenv("SCRAPEM_VAULT_ROOT"); envRoot != "" {
+		cfg.Vault.Root = envRoot
+	}
 	if cfg.Vault.Root == "" {
 		cfg.Vault.Root = "."
 	}

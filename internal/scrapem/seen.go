@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"os"
 	"path/filepath"
+	"strings"
 	"time"
 )
 
@@ -36,6 +37,40 @@ func (s *Seen) Has(rawURL string) bool {
 
 func (s *Seen) Add(rawURL string) {
 	s.URLs[rawURL] = time.Now().Format(time.RFC3339)
+}
+
+// syncSeenFromInbox rebuilds the seen index from existing inbox markdown files.
+// This makes the seen state self-healing when seen-*.json is missing or stale
+// (e.g. when a previous run crashed before Save). Returns the number of URLs added.
+func syncSeenFromInbox(inbox string, seen *Seen) (int, error) {
+	entries, err := os.ReadDir(inbox)
+	if err != nil {
+		if os.IsNotExist(err) {
+			return 0, nil
+		}
+		return 0, err
+	}
+	added := 0
+	for _, entry := range entries {
+		if entry.IsDir() || filepath.Ext(entry.Name()) != ".md" {
+			continue
+		}
+		data, err := os.ReadFile(filepath.Join(inbox, entry.Name()))
+		if err != nil {
+			return added, err
+		}
+		match := sourceLineRe.FindStringSubmatch(string(data))
+		if len(match) < 2 {
+			continue
+		}
+		url := strings.TrimSpace(match[1])
+		if url == "" || seen.Has(url) {
+			continue
+		}
+		seen.URLs[url] = ""
+		added++
+	}
+	return added, nil
 }
 
 func (s *Seen) Save(path string) error {

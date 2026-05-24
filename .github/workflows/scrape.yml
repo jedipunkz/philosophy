@@ -1,0 +1,57 @@
+name: Scrape inbox
+
+on:
+  schedule:
+    # every 6 hours (UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-inbox
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      SCRAPEM_VAULT_ROOT: ${{ github.workspace }}
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+          cache: true
+
+      - name: Build scraper
+        run: go build -o bin/scrapem ./cmd/scrapem
+
+      - name: Run research scraper
+        run: ./bin/scrapem run --config research-scrape.yaml
+
+      - name: Run book scraper
+        run: ./bin/scrapem run --config book-scrape.yaml
+
+      - name: Commit and push changes
+        run: |
+          set -euo pipefail
+          paths=(research-inbox book-inbox .scrapem/seen-research-urls.json .scrapem/seen-book-urls.json)
+          if [[ -z "$(git status --porcelain -- "${paths[@]}")" ]]; then
+            echo "No inbox changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "${paths[@]}"
+          git commit -m "chore: scheduled scrape update"
+          git push origin HEAD:main
