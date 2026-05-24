@@ -2,4 +2,4 @@
 !.scrapem/seen-research-urls.json
 !.scrapem/seen-book-urls.json
 bin/
-scrapem
+/scrapem
