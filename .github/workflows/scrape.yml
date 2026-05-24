@@ -37,16 +37,16 @@ jobs:
         run: go build -o bin/scrapem ./cmd/scrapem
 
       - name: Run research scraper
-        timeout-minutes: 25
-        run: ./bin/scrapem run --config research-scrape.yaml
+        run: |
+          set -euo pipefail
+          timeout --preserve-status --kill-after=30s 24m ./bin/scrapem run --config research-scrape.yaml
 
       - name: Run book scraper
-        if: ${{ !cancelled() }}
-        timeout-minutes: 20
-        run: ./bin/scrapem run --config book-scrape.yaml
+        run: |
+          set -euo pipefail
+          timeout --preserve-status --kill-after=30s 19m ./bin/scrapem run --config book-scrape.yaml
 
       - name: Commit and push changes
-        if: ${{ !cancelled() }}
         run: |
           set -euo pipefail
           paths=(research-inbox book-inbox .scrapem/seen-research-urls.json .scrapem/seen-book-urls.json)
