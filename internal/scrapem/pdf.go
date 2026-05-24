@@ -5,7 +5,9 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"os"
+	"path"
 	"regexp"
 	"strings"
 
@@ -16,9 +18,31 @@ var pdfSpaceRe = regexp.MustCompile(`[ \t]+`)
 var pdfHyphenBreakRe = regexp.MustCompile(`([A-Za-z])\s*-\s*\n\s*([A-Za-z])`)
 var pdfSoftBreakRe = regexp.MustCompile(`([a-z,;:])\n([a-z])`)
 
+// nonPDFExtensions lists URL suffixes that philpapers/philarchive sometimes
+// advertise via citation_pdf_url. Downloading them only to fail in the PDF
+// parser wastes ~20s per item, so reject them before the network call.
+var nonPDFExtensions = map[string]struct{}{
+	".doc":  {},
+	".docx": {},
+	".rtf":  {},
+	".odt":  {},
+	".zip":  {},
+	".rar":  {},
+	".tar":  {},
+	".gz":   {},
+	".epub": {},
+	".html": {},
+	".htm":  {},
+}
+
 func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 	if item.PDF == "" {
 		return nil
+	}
+	if ext := pdfURLExt(item.PDF); ext != "" {
+		if _, bad := nonPDFExtensions[ext]; bad {
+			return fmt.Errorf("skipping non-pdf url (ext=%s)", ext)
+		}
 	}
 	if err := r.wait(ctx); err != nil {
 		return err
@@ -38,6 +62,9 @@ func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 	defer resp.Body.Close()
 	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
 		return fmt.Errorf("unexpected status %s", resp.Status)
+	}
+	if ct := resp.Header.Get("Content-Type"); ct != "" && !isPDFContentType(ct) {
+		return fmt.Errorf("skipping non-pdf content-type %q", ct)
 	}
 	if resp.ContentLength > r.cfg.Scrape.MaxPDFBytes {
 		return fmt.Errorf("pdf too large: %d bytes", resp.ContentLength)
@@ -108,6 +135,23 @@ func cleanPDFText(input string) string {
 		blank = false
 	}
 	return strings.TrimSpace(strings.Join(out, "\n"))
+}
+
+func pdfURLExt(raw string) string {
+	u, err := url.Parse(raw)
+	if err != nil {
+		return ""
+	}
+	return strings.ToLower(path.Ext(u.Path))
+}
+
+func isPDFContentType(ct string) bool {
+	media := strings.ToLower(strings.TrimSpace(strings.SplitN(ct, ";", 2)[0]))
+	switch media {
+	case "application/pdf", "application/x-pdf", "application/octet-stream", "binary/octet-stream", "":
+		return true
+	}
+	return false
 }
 
 func truncateRunes(input string, max int) (string, bool) {
