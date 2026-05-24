@@ -23,10 +23,23 @@ func main() {
 
 func run() error {
 	if len(os.Args) < 2 {
-		return errors.New("usage: scrapem <run|watch> --config research-scrape.yaml")
+		return errors.New("usage: scrapem <run|watch|dedupe> --config research-scrape.yaml")
 	}
 
 	switch os.Args[1] {
+	case "dedupe":
+		fs := flag.NewFlagSet("dedupe", flag.ExitOnError)
+		configPath := fs.String("config", "research-scrape.yaml", "path to scrape config yaml")
+		dryRun := fs.Bool("dry-run", false, "log actions without removing files")
+		if err := fs.Parse(os.Args[2:]); err != nil {
+			return err
+		}
+		cfg, err := config.Load(*configPath)
+		if err != nil {
+			return err
+		}
+		return scrapem.New(cfg).Dedupe(context.Background(), *dryRun)
+
 	case "run":
 		fs := flag.NewFlagSet("run", flag.ExitOnError)
 		configPath := fs.String("config", "research-scrape.yaml", "path to scrape config yaml")
