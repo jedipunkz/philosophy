@@ -119,6 +119,9 @@ func (r *Runner) Run(ctx context.Context) error {
 
 func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, queries []sourceQuery, inbox, statePath string, seen *Seen, mu *sync.Mutex, total *int) {
 	for _, sq := range queries {
+		if ctx.Err() != nil {
+			return
+		}
 		items, err := r.search(ctx, source, sq.query)
 		if err != nil {
 			log.Printf("search failed source=%s query=%q: %v", source.Name, sq.query, err)
@@ -129,6 +132,9 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 		}
 		isBookSource := isBookSourceType(source.Type)
 		for _, item := range items {
+			if ctx.Err() != nil {
+				return
+			}
 			// Skip expensive fetches early when the item is already known and
 			// refresh is disabled. We re-check under the lock after enrichment
 			// to handle the case where a sibling goroutine just added the URL.

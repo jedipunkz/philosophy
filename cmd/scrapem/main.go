@@ -50,7 +50,18 @@ func run() error {
 		if err != nil {
 			return err
 		}
-		return scrapem.New(cfg).Run(context.Background())
+		// Honor SIGTERM/SIGINT so an interrupted scheduled run exits 0 after
+		// flushing seen state, letting the workflow's commit step still run.
+		ctx, stop := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
+		defer stop()
+		if err := scrapem.New(cfg).Run(ctx); err != nil {
+			if errors.Is(err, context.Canceled) || errors.Is(err, context.DeadlineExceeded) {
+				log.Printf("scrape run interrupted: %v", err)
+				return nil
+			}
+			return err
+		}
+		return nil
 
 	case "watch":
 		fs := flag.NewFlagSet("watch", flag.ExitOnError)
