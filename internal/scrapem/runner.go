@@ -129,6 +129,16 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 		}
 		isBookSource := isBookSourceType(source.Type)
 		for _, item := range items {
+			// Skip expensive fetches early when the item is already known and
+			// refresh is disabled. We re-check under the lock after enrichment
+			// to handle the case where a sibling goroutine just added the URL.
+			mu.Lock()
+			alreadySeen := seen.Has(item.URL)
+			mu.Unlock()
+			if alreadySeen && !r.cfg.Scrape.RefreshExisting {
+				continue
+			}
+
 			switch source.Type {
 			case "gutenberg_api":
 				if err := r.enrichBookText(ctx, &item); err != nil {
@@ -162,7 +172,7 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 			item.SourceName = source.Name
 
 			mu.Lock()
-			alreadySeen := seen.Has(item.URL)
+			alreadySeen = seen.Has(item.URL)
 			if alreadySeen && !r.cfg.Scrape.RefreshExisting {
 				mu.Unlock()
 				continue

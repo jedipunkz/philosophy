@@ -11,7 +11,7 @@ scrape:
   max_pdf_bytes: 20971520
   request_timeout: 20s
   request_delay: 2s
-  refresh_existing: true
+  refresh_existing: false
 
 sources:
   - name: philarchive
