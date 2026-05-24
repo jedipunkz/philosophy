@@ -14,21 +14,15 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
-    env:
-      SCRAPEM_VAULT_ROOT: ${{ github.workspace }}
+    timeout-minutes: 10
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           ref: main
-          fetch-depth: 0
-          persist-credentials: true
 
-      - name: Set up Go
-        uses: actions/setup-go@v5
+      - uses: actions/setup-go@v5
         with:
           go-version-file: go.mod
           cache: true
@@ -36,19 +30,99 @@ jobs:
       - name: Build scraper
         run: go build -o bin/scrapem ./cmd/scrapem
 
+      - uses: actions/upload-artifact@v4
+        with:
+          name: scrapem-binary
+          path: bin/scrapem
+
+  scrape-research:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      SCRAPEM_VAULT_ROOT: ${{ github.workspace }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: scrapem-binary
+          path: bin/
+
+      - run: chmod +x bin/scrapem
+
       - name: Run research scraper
         run: |
           set -euo pipefail
-          ./bin/scrapem run --config research-scrape.yaml --max-duration 22m || {
+          ./bin/scrapem run --config research-scrape.yaml --max-duration 38m || {
             echo "::warning::Research scraper failed; continuing so scheduled CI stays green."
           }
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: research-changes
+          path: |
+            research-inbox/
+            .scrapem/seen-research-urls.json
+          if-no-files-found: ignore
+
+  scrape-book:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      SCRAPEM_VAULT_ROOT: ${{ github.workspace }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: scrapem-binary
+          path: bin/
+
+      - run: chmod +x bin/scrapem
 
       - name: Run book scraper
         run: |
           set -euo pipefail
-          ./bin/scrapem run --config book-scrape.yaml --max-duration 25m || {
+          ./bin/scrapem run --config book-scrape.yaml --max-duration 38m || {
             echo "::warning::Book scraper failed; continuing so scheduled CI stays green."
           }
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: book-changes
+          path: |
+            book-inbox/
+            .scrapem/seen-book-urls.json
+          if-no-files-found: ignore
+
+  push:
+    needs: [scrape-research, scrape-book]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: research-changes
+          path: .
+        continue-on-error: true
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: book-changes
+          path: .
+        continue-on-error: true
 
       - name: Commit and push changes
         run: |
