@@ -6,7 +6,8 @@ vault:
 scrape:
   interval: 24h
   user_agent: philosophy-scraper/0.1 (+https://github.com/jedipunkz/philosophy)
-  max_results: 50
+  max_results: 12
+  max_new_items: 40
   max_pdf_chars: 50000
   max_pdf_bytes: 20971520
   request_timeout: 20s
@@ -21,7 +22,7 @@ sources:
     search_url: https://philarchive.org/s/{query}
 
   - name: philpapers
-    enabled: true
+    enabled: false
     type: html
     base_url: https://philpapers.org
     search_url: https://philpapers.org/s/{query}

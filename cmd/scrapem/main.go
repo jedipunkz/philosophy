@@ -43,6 +43,7 @@ func run() error {
 	case "run":
 		fs := flag.NewFlagSet("run", flag.ExitOnError)
 		configPath := fs.String("config", "research-scrape.yaml", "path to scrape config yaml")
+		maxDuration := fs.Duration("max-duration", 0, "stop the run cleanly after this duration")
 		if err := fs.Parse(os.Args[2:]); err != nil {
 			return err
 		}
@@ -54,6 +55,11 @@ func run() error {
 		// flushing seen state, letting the workflow's commit step still run.
 		ctx, stop := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
 		defer stop()
+		if *maxDuration > 0 {
+			var cancel context.CancelFunc
+			ctx, cancel = context.WithTimeout(ctx, *maxDuration)
+			defer cancel()
+		}
 		if err := scrapem.New(cfg).Run(ctx); err != nil {
 			if errors.Is(err, context.Canceled) || errors.Is(err, context.DeadlineExceeded) {
 				log.Printf("scrape run interrupted: %v", err)

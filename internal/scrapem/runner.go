@@ -111,7 +111,7 @@ func (r *Runner) Run(ctx context.Context) error {
 	wg.Wait()
 
 	if err := seen.Save(statePath); err != nil {
-		return err
+		log.Printf("seen save failed: %v", err)
 	}
 	log.Printf("scrape completed: wrote %d new notes", total)
 	return nil
@@ -120,6 +120,9 @@ func (r *Runner) Run(ctx context.Context) error {
 func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, queries []sourceQuery, inbox, statePath string, seen *Seen, mu *sync.Mutex, total *int) {
 	for _, sq := range queries {
 		if ctx.Err() != nil {
+			return
+		}
+		if r.maxNewItemsReached(mu, total) {
 			return
 		}
 		items, err := r.search(ctx, source, sq.query)
@@ -133,6 +136,9 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 		isBookSource := isBookSourceType(source.Type)
 		for _, item := range items {
 			if ctx.Err() != nil {
+				return
+			}
+			if r.maxNewItemsReached(mu, total) {
 				return
 			}
 			// Skip expensive fetches early when the item is already known and
@@ -178,6 +184,10 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 			item.SourceName = source.Name
 
 			mu.Lock()
+			if r.cfg.Scrape.MaxNewItems > 0 && *total >= r.cfg.Scrape.MaxNewItems {
+				mu.Unlock()
+				return
+			}
 			alreadySeen = seen.Has(item.URL)
 			if alreadySeen && !r.cfg.Scrape.RefreshExisting {
 				mu.Unlock()
@@ -204,6 +214,15 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 			mu.Unlock()
 		}
 	}
+}
+
+func (r *Runner) maxNewItemsReached(mu *sync.Mutex, total *int) bool {
+	if r.cfg.Scrape.MaxNewItems <= 0 {
+		return false
+	}
+	mu.Lock()
+	defer mu.Unlock()
+	return *total >= r.cfg.Scrape.MaxNewItems
 }
 
 func (r *Runner) search(ctx context.Context, source config.SourceConfig, query string) ([]Item, error) {
