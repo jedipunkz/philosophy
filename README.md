@@ -159,6 +159,17 @@ scripts/scrape-and-commit.sh --push
 
 自動コミット対象は `research-inbox/`・`book-inbox/`・`.scrapem/seen-*.json` のみ。正式ノートの更新は、AI エージェントによる別作業・別 PR として扱う。
 
+**GitHub Actions による定期実行:**
+`.github/workflows/scrape.yml` が 6 時間ごと（UTC `0 */6 * * *`）に両スクレイパーを走らせ、結果を `main` へ直接 commit/push する。手動実行は GitHub UI から `workflow_dispatch` で起動できる。重複防止のため inbox 内の `source:` URL から `seen-*.json` を毎回再構築し、書き込みごとに逐次保存する。
+
+**重複ノートのクリーンアップ:**
+過去の partial 実行で同じ source URL を持つ `-N.md` が残った場合、以下で整理できる。
+
+```bash
+SCRAPEM_VAULT_ROOT="$PWD" go run ./cmd/scrapem dedupe --config research-scrape.yaml --dry-run
+SCRAPEM_VAULT_ROOT="$PWD" go run ./cmd/scrapem dedupe --config research-scrape.yaml
+```
+
 ### inbox の扱い
 
 **research-inbox:**
