@@ -1,0 +1,5637 @@
+---
+source: "https://philarchive.org/rec/HALHAO-3"
+title: "Hannah Arendt on Racist Logomania"
+author: "Joshua M. Hall"
+year: "forthcoming"
+publication: "Journal of Mind and Behavior ( forthcoming )"
+download: "https://philarchive.org/archive/HALHAO-3"
+pdf: "https://philpapers.org/archive/HALHAO-3.pdf"
+captured_at: "2026-05-27T08:35:52Z"
+updated_at: "2026-05-27T08:35:52Z"
+capture_tool: "scrapem"
+source_name: "philarchive"
+keyword: "ハンナ・アーレント"
+query: "Hannah Arendt"
+tags:
+  - "政治哲学"
+  - "現代思想"
+  - "全体主義"
+status: raw
+---
+
+# Hannah Arendt on Racist Logomania
+
+- 著者: Joshua M. Hall
+- 年: forthcoming
+- 掲載情報: Journal of Mind and Behavior ( forthcoming )
+- 情報源: [philarchive](https://philarchive.org/rec/HALHAO-3)
+- ダウンロード: https://philarchive.org/archive/HALHAO-3
+- PDF: https://philpapers.org/archive/HALHAO-3.pdf
+
+## Obsidian Links
+
+- 研究動向: [[研究動向/ハンナ・アーレント-現代研究動向|ハンナ・アーレント-現代研究動向]]
+- キーワード: [[ハンナ・アーレント]]
+- 関連分野: [[政治哲学]]
+- 関連分野: [[現代思想]]
+- 関連分野: [[全体主義]]
+- 関連タグ: #政治哲学 #現代思想 #全体主義
+
+## Abstract
+
+In the present article, I offer a new reading of Hannah Arendt’s The Origins of Totalitarianism, specifically her argument that ideologies such as racism engender totalitarianism when the lonely and disenfranchised laborers of modern society develop a pathological fixation on formal logic, which I term “logomania.” That is, such logical deductions, from horrifically false premises, are the closest thing to thinking that individuals can engage in after their psyches, relationships, and communities have broken down. And it is only thus that totalitarianism can achieve power, since it offers at least some form of connectedness and meaning, regardless how terrifying and violent. The danger persists, clearly, with the resurgence of the far Right, including in the extraordinary regime of Trump in the United States. From this I conclude that, along with the admirable calls to fight loneliness and rebuild our communities, we should also supplement all formal logical instruction and community education with instruction in creative thinking (including aesthetics), thereby discouraging the monomaniac reliance on formal logic as inadvertent weapon of totalitarianism.
+
+## Citation
+
+Hall, Joshua M. (forthcoming). Hannah Arendt on Racist Logomania. Journal of Mind and Behavior.
+
+## BibTeX
+
+```bibtex
+@article{HallForthcoming-HALHAO-3,
+	author = {Joshua M. Hall},
+	journal = {Journal of Mind and Behavior},
+	title = {Hannah Arendt on Racist Logomania},
+	year = {forthcoming}
+}
+```
+
+## Source Details
+
+Archival history: Archival date: 2022-03-12 View all versions
+Categories: Hannah Arendt in 20th Century Philosophy Logics in Logic and Philosophy of Logic Racism in Philosophy of Gender, Race, and Sexuality
+Keywords: Hannah Arendt   racism   formal logic   totalitarianism   Donald Trump
+
+## PDF Text
+
+1
+
+Hannah
+Arendt on
+R
+a cis t
+
+L
+ogomania
+
+Joshua M. Hall
+
+William Pa terson University
+
+In the pres ent article, I
+
+o ffer a
+
+new
+reading of
+Hannah Arendt
+’s
+The O
+rigin s of Totalitarianism
+,
+specifically her
+argument that
+i deologies
+such as racism
+
+engender totalitaria nism
+when the lonely
+and di senfra nc hi sed
+
+l aborer s
+of modern society
+develop a
+pathological fi xation on formal logic
+,
+which I term
+
+“logomania
+.
+”
+
+That is, s uch
+
+logical deduc tions
+,
+from h orrifically
+false premises,
+are
+the
+clo se s
+t thing to thinking that
+in divi duals
+can eng age
+in
+after their
+p sy ches,
+
+r elationships,
+and
+communities have broken down
+. A
+nd it is only
+thus
+
+that
+
+t otalita rianism
+
+can achieve power, since
+it offers at least some form of connectedness
+and meaning,
+regardless
+
+how
+
+terrifying
+
+and violent.
+
+T
+h e
+da nger persis t
+s, c learly,
+with
+th e r es ur gence of th e far Right,
+including
+
+in
+the
+extraordinary
+
+regime of Trum p in the
+
+U
+nited
+S
+tates
+.
+
+From this I
+conclude that
+, along with
+
+th e
+admirable
+calls
+to
+fight
+
+loneliness and
+rebuil d our
+
+commun it ies,
+we should
+also
+
+supple ment all formal logical
+instruction
+an d com mu nity
+education
+
+w ith
+instruction
+
+in creative thinking
+(including a esthetic s
+)
+,
+thereby discourag ing the
+mo nomani ac
+
+reliance
+
+on
+for mal logic as
+inadvert ent weapon
+of
+
+totalitarianism
+.
+
+Keywords
+:
+Hannah Ar e
+ndt
+,
+formal logic
+,
+racism
+
+Arend t
+(195
+1
+/1973)
+ominously
+p redicts
+,
+
+i n the last sentence
+of
+Th e Origin of
+Tota litarianism
+’s section
+on the
+death
+camps
+,
+
+that
+“
+T
+otalitarian
+
+solutions may
+well survive the
+fall of totalit arian regim es in the form of strong tempta tions which will come up when ever
+i t
+
+s eems
+impossible to
+alle viat e political, social, or e conomic misery in a
+
+manner worthy of man
+”
+
+(
+p.
+459).
+
+T
+h ough th is
+claim is perhaps less c ounterintuitive
+
+i n the immediate afterm ath of the
+Trum p
+presidency
+
+than in 1951
+
+(th e original publi cation
+year
+of
+Totalitarianism
+)
+,
+and though
+various
+
+journalism s ource s
+noted that
+Trump
+’s election launched
+Arendt
+’
+s book to
+bestseller
+status,
+it
+appear s
+
+the press has ignored
+her
+fi nal judg ment
+on
+the
+nat ur e of t otalita rianism
+as
+much
+
+a s academic phi losophers.
+1
+
+T
+h at
+is,
+the myth
+
+persists
+,
+despite
+Arendt
+’
+s
+persuasive
+
+1
+
+See, fo r example,
+https://www.vox.com/c onversations
+/2017/6/28/15829712/h annaharendtdonaldtrumpbrexittotalitarianism
+.
+
+2
+
+dispe ll ing thereof,
+that
+the masses
+
+of
+supporters
+
+of tot ali tarian ism
+are not logical enough
+.
+On the
+contrary, Arendt insists that
+they
+are too
+purely lo gi ca l
+.
+
+M
+ore
+precise ly
+,
+
+the se
+disenchanted
+
+adherent s
+
+of
+far Right
+ide olog ies
+
+are too fixated on
+p ure
+form al
+
+lo gi c
+,
+
+unwilling to
+enter tain
+falsifying new
+facts or experience,
+obsessively
+
+mov ing
+from pre mise s to con clusion, with a
+
+fanatical faith in
+
+logical
+for m
+
+pursu ed in isola tion
+.
+2
+
+By
+con trast,
+the
+
+dominant
+scholar ly
+interpretation
+
+of Arendt
+is that
+totalita riani sm
+
+rests o n
+
+either
+a
+lower degree of pr oficiency in
+logic,
+or e lse
+a n alleged
+
+imperfect type of logic unique to
+id eology
+.
+3
+
+W
+hereas both of these e xplanation s save
+l ogi c i tself
+
+—
+
+t he
+
+neutral
+, universal version
+of
+logic, practiced with
+sufficient
+proficie n
+cy
+
+—
+
+A
+re ndt conde m
+ns
+the
+
+total
+rel iance on
+
+formal
+logic
+simpliciter
+.
+
+From the latter position, the solution to t otalitarianism looks much different,
+and is certainly not
+
+a matter of
+
+pr ogressives
+position ing oursel ves
+a s defenders of
+“
+pure logic
+”
+
+and
+browbea ting
+
+st udents to
+
+be
+“
+more logical
+.
+”
+
+W
+e must e mbody and encourage creative
+th oug ht.
+
+Before
+turning directly to
+Arendt,
+
+however,
+i t might be helpful
+
+to
+try and for estall
+the
+likely
+mis perception
+that
+
+t he present author holds
+(
+in
+on e reviewer
+’
+s words
+)
+“a particular grudge
+ag ainst logic
+.
+”
+
+On the con trary,
+logic has been in dispe nsable
+to
+
+my own
+work and
+life
+
+and work
+,
+including
+m ultiple
+publi shed ar ticl es
+on the
+philosophy
+
+of
+
+logic
+,
+
+and
+years of
+teaching
+undergraduate
+logic
+course s
+
+at
+
+topt ier U.S. universities
+.
+4
+
+On the other hand, t he latter
+exp eriences also
+
+in spired
+,
+
+through
+c lose readings
+of foundational
+texts in th e history of Western
+
+2
+
+Thi s is not to
+say
+
+that
+other (nontotali tarian
+) fo rms o f
+ra cis m
+
+do not
+
+rel y on
+this logomani a.
+Arendt herself
+unfortunately
+
+performs on e
+example
+
+of the latter
+,
+as discussed in
+Bell e 2014.
+
+3
+
+See, for
+thr ee
+examples,
+V
+illa
+
+2001
+
+(
+p.
+
+3
+)
+,
+Knott
+
+20
+15
+
+(
+p.
+
+93), and
+
+King and
+Stone
+2008
+.
+
+Th e only exception s
+,
+
+as far
+as I am
+
+awar e
+,
+
+are
+
+fo u
+nd in
+Nye
+
+1990
+
+(p.
+
+169
+)
+
+and
+(
+in a
+brief
+
+mention
+)
+Canovan
+
+2001 (p. 128).
+
+4
+
+See, for example, Hall 201
+8, 2
+01
+7.
+
+3
+
+formal
+
+logic
+,
+the larger proj ect
+of
+wh ich the
+present
+
+a rti cle is an
+extension
+.
+As I have explored
+in
+two e xcer pts therefrom,
+Western formal logic
+
+(
+from Aristotle
+
+to
+Leibniz,
+J. S. Mill, and
+Frege
+)
+has both been
+
+partially constituted by, a nd partially constituti ve o f, what has become known as
+r aci sm.
+5
+
+My
+solution to this problem
+
+is not
+, however, to
+r eject logic tout court,
+however,
+but
+rather to supplement
+it with
+other forms of reasonin g,
+imagination
+,
+
+perception,
+feeling and
+experien ce
+(including
+a esthetic education
+
+and
+creative
+
+psychotherapy
+)
+.
+6
+
+I will
+return
+
+briefly
+t o
+this point
+,
+
+a
+
+prom ising area
+for
+
+future
+research
+,
+be low
+.
+
+Total itarian
+
+Ideology a s Logomania
+
+Near the end of
+the
+penultima te chapter,
+“
+Totalit arianism and Po wer,
+”
+
+Arendt
+offer s an
+exten ded cont rast
+between
+utilita r
+ian
+co mmonse nse
+
+a nd totalita rian log ic.
+She
+introduces this
+distinction in
+the
+fol lowing claim:
+“
+Over and
+
+a bove the
+senselessness
+
+of totalitari an society is
+en throned the rid iculous su persen se of its
+
+ideological superstition
+”
+
+(
+p.
+4
+57).
+
+Not e the
+neologism
+h er e,
+“
+s up ersens e,
+”
+
+where
+Arendt
+
+could
+easily have written
+“
+non sense
+”
+
+(
+or,
+if
+she wanted to
+convey a
+lack of meaning
+,
+perhaps
+“
+subs ense
+”
+).
+
+Instead, she chose a
+prefix
+meaning
+“
+above or
+beyond,
+”
+
+thereb y
+suggesting a
+
+kind of toxic
+exce ss
+
+of
+meaning (as in the
+
+c oncep t
+“
+fligh t of
+ideas
+,
+”
+
+a
+symptom
+attributed to
+people diagnosed with
+bipol ar
+disor der or schizophr enia).
+
+By contrast,
+“
+common sense
+”
+
+imp lies
+
+a correct
+proportion of
+sense
+/
+meaningf ulness
+(neither
+
+the
+“
+too lit tle
+”
+
+of nihilistic n e
+urosis
+,
+
+n or the
+“
+too mu ch
+”
+
+of
+ma nic
+ps ychosis
+).
+
+In
+addi tion,
+in A
+r endt
+’
+s
+oeuvre
+,
+“
+common sense
+”
+
+a l
+so
+suggests
+(a)
+the
+Aristot elian
+imaginati on
+,
+understood as the power to
+preserve
+
+(in memory) and manipulate
+(in
+creati vity
+)
+
+the
+traces of the
+
+5
+
+For two exc e
+rpts from this larger proj ect, on racism and logic in
+J. S. M
+ill and Frege, see
+Hall 2021, 2015.
+
+6
+
+For an
+
+example of s uch
+creative ps ychotherap y,
+s ee
+
+Hall 2022
+b.
+A
+n d
+f or more on Arendt
+’
+s
+constructive
+supp lements to formal
+logical
+,
+
+drawing
+on
+Eichmann
+in Jer usalem
+and
+The Life of the
+Mind
+,
+see
+
+Hall
+201
+6.
+
+4
+
+senseperceptions of the five se nses
+;
+an d (
+b)
+
+t he
+Kan tian
+schematizing power
+activated in
+
+disinterested
+
+aesthetic judgments of tas te.
+As
+s uch, and as
+Arendt
+discusses later, this power i n
+her view is essentially
+empirical
+and
+social,
+the
+
+e mbodied
+be drock for
+creati ng a shared real
+world.
+
+Final ly
+
+on t hi s poin t,
+
+th is
+Kantia n
+aspect of
+
+“
+common sense
+,
+”
+
+which
+
+Arendt proceeds to
+pair w ith the
+term
+“
+utilita rian
+,
+”
+
+suggests a
+
+temporary
+alliance
+between
+
+those
+two traditio nal
+philosoph ical enem ies, u n
+ited in opp osition to the
+nonsensical
+
+supersense of tot a
+litarian
+logic.
+
+“
+Com mon
+s en se trained
+
+in util itarian thi nking,
+”
+
+Arendt
+continues,
+“
+is powerless against
+this
+ideological
+
+supersense
+, since totalitarian regimes esta blish a functionin g
+world of n osen se
+”
+
+(
+p.
+458).
+
+As with
+the sufferer of
+psychosis,
+the
+
+tota litarian
+’
+s exce ss of me aning fu lness
+s uffices
+to
+c reat e an entire new fantasy world. Unlike with
+individual
+psycho sis, however,
+and more like
+what is
+n ow called
+“
+shared del usional
+diso r
+der
+”
+
+(
+SDD
+;
+and
+formerly
+f olie à deux
+,
+“
+madness fo r
+two
+”
+),
+this fantasy w orld is
+capable
+
+of bei n
+g re al ized,
+
+at least on a
+temporary basis, since
+large
+numbers of people support the delusion.
+
+In
+t his nonsense world,
+as in
+the
+
+logical
+
+system
+
+from
+which
+
+it is
+woven,
+“
+N
+o thing
+
+matters but consistency
+”
+
+(
+p.
+45
+8).
+
+A
+r endt
+elaborates as
+follows:
+
+O
+nce
+[
+t he id eolo gies
+’
+]
+claim to
+total validity is taken literally
+,
+
+they b ecome the nu clei of
+logica l systems
+
+in wh ich,
+as in the syst em of
+parano iac s,
+ever y
+thing follows
+co mpr ehensibly and e ven c ompulsorily once the f irst premise is accept ed.
+
+The
+insanity of
+suc h systems
+lie s
+no t
+only in their first pr e
+mise but in the v ery logicality with
+whic h they
+are
+
+constructed. T
+he curio us logicali ty of all
+is ms, their s impl eminded
+trust
+in the
+salvatio n value of stubborn devo tion
+withou t regard for specific
+,
+
+varying fa ctor s, already
+
+harb or s the first germs of tot alitarian contemp t
+
+for reality and fac tuality (
+pp.
+45
+7
+-
+4
+5
+8).
+
+This crucial p assage has been
+
+passed over
+
+by
+many
+a dmirable scholar s
+, so it is cru cial that we
+attempt to read wh at i s
+th ere, rather than p roject
+
+onto
+it
+something less
+
+trou bl ing
+
+for scholars
+5
+
+trained
+to fetishize our
+logical
+thinking skills.
+
+F
+i r
+s t
+,
+
+Arendt
+
+does not ca ll th ese sy stems
+“ps eudological
+” or
+put s c
+are quotes ar ound
+“
+logical
+”;
+
+rather
+, they are log ical s impliciter.
+Second,
+
+these
+ideo logies
+are not
+flaw ed mer el y
+in te rm s of their
+horrific
+prem ises (such
+
+as
+“
+All nonAryans are
+vermin
+”),
+
+but m ore fun damentally
+f l
+awed becau se of
+
+applying the strictures of deductive re ason
+so
+“
+mercil essly” (to use Stalin
+’s
+praising selfdescript ion) in
+th e
+
+human
+realm
+. I
+n other word s,
+
+ideo lo gical argume nts are
+not
+bad
+simply
+qua
+unsound
+, but more funda mentally for striv ing for
+the
+form of val idity in t h
+e first place.
+
+Having isolated a nd removed the
+distorting
+
+len s of this pervasive mi sinterp retation, one
+can
+return to t he passage wit h fre sh
+
+eyes
+. Two
+points are most
+promine nt and important.
+Note,
+f irst
+,
+th e
+tr iangulat ed connotations o f log ic
+,
+religion
+
+(
+“
+salvati on
+”
+
+and
+“
+devotion
+”
+)
+,
+
+and
+madness
+(
+“
+paran oiacs
+”
+)
+.
+
+Synthesizing these eleme nts, t he
+totalitarian
+so ciety for Arend t
+
+amounts to
+a n
+
+unsu st ainable
+vision of the hereafter
+,
+structured by
+obsessive
+
+logical
+de ductions from
+insane
+p remises, and
+supported
+
+by
+f ervent devotion
+.
+
+It is
+partiall y
+
+to
+e v
+oke this
+
+c onnection
+
+for Arendt
+
+between
+totalitarian logic and
+man ic
+
+states,
+that
+
+I have termed
+this
+ph enomenon
+
+“
+logomani a.
+”
+
+Seco nd, and relatedly,
+Arendt identifies
+
+th a
+t
+psy ch o
+sis as a
+pu rely logical met hod of
+t ota litarianism
+,
+in contrast to the
+po pular
+Foucaul d
+i a
+nDeleuzian
+identificati on of
+
+psychoticty pe
+“
+madness
+”
+a s a c r
+ea tive (a n
+tilogical
+)
+resistan ce to
+totalitarian ism
+’
+s more neu rotictype
+“
+madness
+.
+”
+
+This matter s chiefly because
+it chall enges
+both
+the
+current
+
+liberal
+conventio nal
+wi sdom that th e answer to ra c
+ism i s
+ad vocating and perfo rm ing m ore logic al
+arg uments
+,
+and the
+current
+
+L
+e ftist
+co nven tiona l
+w isdom that
+the answer
+to
+id eologies such as
+racism is
+schi zocreative
+“madness.
+”
+
+I have put
+“
+madness
+”
+
+in
+quotation mark s here, however, to e mphas ize what is for
+
+me a
+crucial point
+, namely my alliance with the Mad
+
+Prid e Movement
+
+(
+and
+
+its related m o
+v emen ts
+,
+6
+
+inclu ding the psychiatric surv ivor
+’
+s m ovement (or c/s/x, which stand s for
+“
+co n
+sume r
+,
+”
+
+“
+s urvivors
+”
+
+and
+“
+expa tients
+”
+
+o f
+psych iatr y
+)
+
+and the
+antips ychiatry
+
+moveme nt
+)
+.
+7
+
+This is
+relevant
+
+to the present investigation
+becau se
+Arendt
+’
+s
+des cription
+
+of
+lo go mania
+,
+which deploys
+the
+rhetoric
+
+of psycho pathology,
+recalls
+the
+
+“
+redemptivemessian ic
+
+v ision
+”
+
+that
+Mad
+
+Pride
+activist
+Se th
+Farbe r
+
+id entifies and
+celebrates
+a s
+a disti n
+ctive feature of the thought of th e
+“mad
+.
+”
+8
+
+Despite
+
+this
+
+s uperfi cial si milarity
+,
+the
+crucial difference
+is that the mad
+,
+as Farber documents and relates,
+present their vi sion of a better world with
+hum ility, humor,
+def erence to
+
+a
+transcend ent
+
+divin it y,
+an d
+a passionate love
+of all sentient beings
+
+(while
+to talit a
+r ian
+
+ideologis ts
+are
+o b
+viously
+deadly
+serious, hold their
+divinity as immi nent to
+
+t hi s natural
+/historical world,
+and
+are proud of their
+willingnes s to
+
+commit eve n ge noc ide
+)
+.
+
+Arendt clarifies and sha rpens this
+analysis further in
+Totalitarianism
+’s fin al
+c h
+a p
+ter,
+beginnin g
+
+w ith
+the
+
+relati onship
+
+of id eolog y
+’
+s lo g
+omania to the law.
+H
+istorically,
+she notes, o ne
+fi nds either (a)
+legitimate lawful power (as in a republic
+)
+, or (b)
+illegit imate
+, arbitrary and
+
+lawless
+
+power (as in a t yrann y)
+. W
+h ereas
+totalitari ani sm
+
+(
+c)
+“
+operate s
+neit her without g uidan ce
+o f l aw n or is i t arbitrary
+, for it claims to obey strictly and unequiv ocally those
+laws of
+Nature or
+of H
+i story
+f rom which
+
+all posi tive laws ha ve always been s upposed to spring
+”
+
+(
+p
+.
+461).
+Just as
+tota litarians are
+no t
+
+i ll ogica l
+
+—
+
+b ut
+superlogical
+
+—
+
+so t hey are
+also
+not
+lawl ess
+
+—
+
+bu t
+
+what
+I
+will term
+“
+superlawful
+,
+”
+
+where
+“
+super
+”
+
+means abov e and be yond, in
+
+a singular, abso lut e and
+transcenden t relationship.
+Put
+differently
+,
+
+i f lawle ssness is total f reedom of mot ion
+
+(o r
+
+ch aos
+)
+,
+
+a nd l awfulness is partial freed om
+
+(or order
+)
+, su perla wfulness
+is total unfr eedom (or
+
+7
+
+For
+
+a sch o
+larly analysis of these
+movement s
+, see
+Lewis
+
+2006
+
+(
+espec ially
+pp.
+63, 8
+2
+-
+91
+)
+.
+
+8
+
+For more on Farber
+’
+s vision and the
+future
+
+of Mad Pride, see Hall 2022
+a
+.
+
+7
+
+motion less ness
+, deathinlife
+).
+
+In sum,
+if
+
+l ogic is to
+the
+mind
+
+wh at
+law is to
+
+society
+,
+then
+log omania
+is to the totalitarian
+
+what
+
+“
+su perlawful ness
+”
+
+is to
+tota l
+ita rian
+
+so ciet y
+.
+
+In Arend t
+’
+s
+
+elaboration,
+totali tarianism
+“
+applies the law directly to man kind
+
+with out
+bothering with
+
+the behavior of men
+,
+”
+
+thus
+effecting
+“
+a
+co n
+scious
+
+break of that
+consensus iuris
+which, acc ording to C
+icero, constitute s a
+‘
+people
+’
+”
+
+(
+p.
+4
+6
+2).
+
+T
+h e
+Lat i
+n
+
+p hr ase he re,
+meaning
+“
+law by cons ent
+,
+”
+
+refers
+
+to the
+mutual consent
+by a people
+to t he law
+f or their mutual b enefit.
+
+W
+o rse
+still,
+tota litarianism
+“
+does not establish its own
+cons e
+nsus
+iuris
+”
+;
+instead,
+i ts
+“
+defiance of
+all, even it s own
+posit i
+ve
+
+law s imp li e
+s that it
+believes
+
+it can do wi thout any
+consensus iuris
+w hatsoever
+”
+
+(
+p.
+462).
+
+The reason for
+totalitarian ism
+’
+s
+hosti lity
+to positive
+human
+laws is
+
+that,
+while the
+
+latter
+
+“
+are primaril y designed to
+f u
+nction
+
+as stabilizers
+for the ever
+
+chan g
+i n
+g
+mo ve men ts of
+
+m en,
+”
+
+for the totalitarians
+,
+
+“
+all laws have become laws of movement
+”
+
+(
+p.
+463).
+
+T
+h e
+insp ir ation for th e latt er,
+Arendt
+explains
+,
+
+are
+“
+Marx
+’
+s
+histor ical and D
+arwin
+’
+s naturalistic
+approa ch
+”
+
+(
+p.
+46
+3). In short,
+
+in
+“
+th ese ideologies, the term
+‘
+l a
+w
+’
+
+i tself
+c han g
+ed it s
+very
+meaning
+:
+from
+expressing
+
+the framework
+of stability wit hin
+
+which
+human actions a nd motions
+
+can tak e
+place, it became t he
+expression
+
+of
+
+motion itsel f
+”
+
+(
+p.
+464).
+
+The anal og i
+es
+
+here
+,
+
+between
+totalitarianism
+’
+s
+superlawfull ness, its
+
+super s
+e nse, an d it s log om ania, are very close
+
+t o each
+other
+.
+
+In
+
+all three c ases
+
+—
+
+superlawfulne ss
+, supersense,
+and logomania
+
+—
+
+there is
+simply
+too
+much of a n ot herwise good
+
+thing
+,
+subject to too mu ch contr ol by the
+atomized
+
+indiv idual
+.
+
+W
+hereas the
+
+good r e
+quires
+a
+m oder ate degree of
+meani ng ful ne ss
+, shared by others in a common
+world,
+guided by a relianc e on for mal logic as
+
+one
+
+method
+
+among others,
+and regulated by
+
+a
+limited
+an d stable
+legal structure
+
+—
+
+t here is
+
+too
+much
+meaningfulness
+(
+in
+the psychotic per s
+on
+)
+,
+too much
+reliance
+
+on formal logi c
+alo n
+e
+
+(
+in t he lonel y ideolo gist
+)
+,
+and
+
+to o much lawlike
+8
+
+restriction on
+the
+community
+’s
+plural mobi lity
+(in the total itarian
+
+leader).
+In
+short,
+
+in
+totalitarianis m,
+ther e is
+t oo much
+motion
+within, a nd monopo lized by,
+o n
+e lonely
+
+indiv idual
+, to
+the e xclusion
+
+of
+t he
+
+community.
+
+I
+t i s precisely to facilitate this m otion
+, Arendt
+writes,
+that to talitarianism depl oys terror
+.
+The latter
+, s he defines
+as
+“
+t he
+
+realization
+
+of
+the law
+
+of movement,
+”
+
+the
+“
+chief a im
+”
+
+of which
+“
+is
+
+to mak e
+
+it possible f or the force of
+nature
+or of
+
+h isto ry to race freely th rough
+mankind,
+unhind ered by
+any spontaneous human action
+”
+
+(
+p.
+4
+65).
+M
+or e precisely,
+she
+expl ains
+,
+
+“
+terror
+
+seeks t o
+‘
+stabilize
+’
+
+me n in order
+
+to liberate
+
+the forces
+
+of
+nature or history
+”
+
+(
+p
+.
+465).
+
+The te rm
+“
+spon taneity
+”
+
+her e is key
+.
+
+The
+mo st dangerous and
+frightening
+
+thing
+
+about this f ormulation
+is
+that
+no t even the totalitarian leader
+
+is
+s pared
+th e loss of s pon taneity
+(
+as reflected i n what Arendt
+take s to be
+Hit ler
+’
+s
+
+and Stalin
+’
+s
+ge nuin e b e
+l ief
+that
+they
+
+were
+merely humble vessels for
+
+the
+ex ecution of transcen dent
+naturalhistorical
+laws
+)
+.
+
+That is, totalitarianism is capable of its
+unprecedented ly
+effici ent
+and totalizing
+destruction
+be c
+ause even it s leaders
+“
+think
+”
+
+and
+a ct as
+though p owerl e
+ss to bend
+the
+
+ironcla d laws of its ruthless
+logic
+.
+
+Positive laws, Arendt elabo rates,
+“
+are designed to erect
+
+boundaries and es tablish c hannels
+of
+communication b etween men
+
+w ho se c ommunity is con stan tly en dangered
+by
+the new m en
+born int o it
+,
+”
+
+because
+with
+
+“
+each new
+birt h
+, a
+new beginning is bo rn into
+
+the
+wo rld, a new world
+has po tentially come into being
+”
+
+(
+p.
+465
+)
+.
+T
+otalitarian
+
+terror
+,
+by con trast,
+“
+substitutes fo r the
+boundaries
+
+and channels
+”
+
+of pos i
+tive laws
+,
+
+“
+a
+
+band of iro n which hol ds them so tightly t o
+gether
+that it
+
+is as t hough their plural ity
+
+had
+di sappeared
+into
+
+On e Man of gigantic
+dim en sions
+”
+
+(
+pp.
+46
+5
+-
+46
+6)
+.
+T
+h is
+is
+the l ogical
+extreme
+, the nearliteralizat ion
+,
+
+of Hobbes
+’
+
+Levia than
+, or
+the bod y
+politi c
+as macroma n
+: t he lonel y i deolo gis t
+seeks to ov e
+rcome his
+lone liness
+
+by
+ingesting the
+rest
+of t he co mm unity
+, m et aboliz ing it and
+using it to
+reproduce the image of his beloved
+
+ide ology.
+
+9
+
+For said
+digestion,
+fin ally,
+logic provides the
+dissolving a cid
+, breaking the communit y
+apart into
+i solated, lo n
+ely,
+a nd fatalistic
+indiv iduals
+,
+
+ready
+to be
+
+consumed
+.
+
+Thi s
+iron ba nd is
+so
+
+dangerous
+, Arendt
+claims
+,
+
+because
+“
+the space
+between men as it is
+hedg ed in by laws
+, is the
+
+living space of freedom
+”
+
+(
+p.
+4
+66).
+T
+hus, by
+“
+pressing men agains t each
+other
+, total ter ro r de s
+troy s the
+spac e betwee n them
+,
+”
+
+and in th is way
+, te rror
+“
+d estroys
+
+the
+
+one
+essential
+
+pr erequisite of all freedom which is simply the capacity of motion which canno t exist
+without space
+”
+
+(
+p.
+466).
+
+T
+his
+
+space is a lso necessary
+, I would add, for th e
+power of
+r e
+presentati on,
+or imagination,
+since
+vision, memory, a nd cr ea tivity all require a certain d istance
+between subjects, the
+space
+
+between presentation and
+representa tion
+. That is, not on ly the body,
+but
+
+a lso the m ind, require s
+literal physical spa ce
+for
+the f r
+eedom
+to
+
+c ome
+into the fullness of its
+powers.
+
+Totali taria ni sm does not
+mourn
+
+such freedom
+,
+how ever
+,
+Arend t claims,
+because fr om its
+“
+po int of view, the fact t ha t men are born a nd die
+can only be r e
+garded as an annoying
+inte rf erence with higher forces
+”
+
+(4
+6
+6)
+.
+T
+o overcom e this anno yance,
+theref ore,
+“
+terror ex ecute s
+on
+the
+
+spot the death
+sentences which Nature
+is
+supposed
+
+to have pronounced on races or
+individuals w ho are
+‘
+un fit to l ive
+’
+
+o r
+
+H
+i s
+t o
+r y
+
+[is
+
+supposed to have pronounced]
+o n
+
+‘
+d y
+i n
+g
+
+c l
+a s
+s e
+s
+’
+”
+
+(
+p.
+466
+)
+.
+
+In othe r wor ds
+,
+
+f ormal logic
+is
+timele ss, its deduc tions
+are
+univer sal and
+indi fferent
+t o
+th e
+flow
+
+of
+consciousness
+, and its logomani ac id e
+olog ues im pat ient to
+
+remake
+(
+unmake
+)
+
+the wor ld in
+the
+ima ge of
+
+its
+conclusion s
+.
+
+Aga in st this
+legalpolitical
+backg r
+ound, Arendt
+
+e laborates her analysis of ideolo gy
+.
+“
+An
+ideo log y
+,
+”
+
+she
+writes,
+“
+is quite li teral ly
+
+what it s name indicates: i t
+
+is the logic of an idea
+,
+”
+
+and
+its
+“
+s ubject matter is history, to
+
+which th e idea is
+applied
+”
+
+(
+p.
+469).
+More
+specifically
+,
+
+ideology
+t reat s
+
+“
+the cou r
+s e
+of events as though it followed
+
+the same
+‘
+l a
+w
+’
+
+as the
+logical exposition o f its
+
+10
+
+i dea
+”
+
+(
+p.
+469). R
+acism, for example
+,
+“
+is the belief that there
+is a
+
+motion in herent in
+the
+
+very idea
+
+of race
+”
+
+(
+p.
+4
+69).
+
+This motion i s restricted
+,
+however,
+b y
+
+ideo logy
+’
+s lo gical nature
+.
+
+T
+o
+
+wit
+,
+“
+th e
+only possible
+moveme nt in th e re alm of log i
+c
+is the proce ss of
+
+d eduction from a premise
+”
+
+(
+p.
+469).
+
+Arendt then elaborate s.
+“
+As soon as logic as a movement of
+
+thought
+—
+and
+not as a
+necessary c ontrol of thinking
+—
+is ap p
+lied to an
+
+id e
+a, this ide a is
+transforme d
+
+into a pre mis e
+”
+
+(
+p.
+469).
+
+For exampl e, in
+the
+
+i deology of rac ism,
+if
+
+the i d
+ea is somet h
+ing
+
+like the following:
+“
+the
+wo rld is composed of supe rior and infer ior races in competition for
+global
+
+do minatio n
+, which the
+
+highest r ace
+a lone will achieve
+”
+
+—
+
+then
+
+the
+various
+a spects of
+this
+
+idea
+are si ngled ou t as
+prem i
+se s (
+e.g.
+
+“
+al l
+
+r aces are
+ranked i n terms of superiority
+,
+”
+
+“
+races
+
+in e
+vi tably compete
+for
+power,
+”
+
+“
+the
+ultimate
+
+goal
+of any
+
+race is
+world domi nation
+”
+),
+and th os e
+
+premises are
+
+then
+rou ghly
+mapped
+onto
+phases in
+a historical sequence
+,
+with all
+subseque nt effort
+focused
+
+on
+a cc e
+lerating th rough the e ach premise/phase as
+effi ciently
+
+as possible.
+
+In H
+itler
+’
+s case
+,
+the idea
+“
+Jews are vermin
+”
+
+became a pr emise
+
+(
+a long with
+
+the
+i mplicit
+p r
+emise that
+“
+Ver min s ho uld be
+exterminated
+”
+)
+
+for Hit ler
+’
+s
+
+conclusion that
+
+the Jewish p eople
+shoul d
+
+be
+“
+exterm inated
+.
+”
+
+T
+his example
+also
+illustrates
+
+t he
+main problem with this
+logomania c
+process
+.
+“
+Ideologies
+always
+assume
+,
+”
+
+A
+r endt
+explains
+,
+
+“
+t hat one idea i s sufficient to
+explain
+
+everything in the
+developmen t from the pre mise, and tha t no ex perien ce ca n
+
+teach
+
+anyt hing bec ause everything is
+comprehe nd e
+d in this
+consistent
+
+p rocess of logic al deduc tion
+”
+
+(
+p.
+470
+).
+A
+g ain,
+
+therefore,
+Arendt
+insists
+t hat t he danger
+
+lies not merely in
+a n
+ideolog y
+’
+s
+ridiculous and
+h orrific
+
+fi rst
+premise
+
+(
+which she describ es
+as
+
+“
+f al li ng for
+
+some us ually vulgar, always
+
+uncritical
+
+a ssumption
+”
+)
+
+[
+p.
+470
+.
+]
+
+More importan t
+
+is th e
+
+danger of
+“
+ex changing the freedom inherent in
+ma n
+’
+s capacity to
+
+think fo r
+th e strait jac ket of logic w ith which man
+c an force himself almost as
+violent ly
+
+as he i s
+for ce d by
+11
+
+s ome
+outs ide
+
+power
+”
+
+(
+p.
+47
+0
+, emphasis
+
+added
+).
+
+N
+ot e the return of t he
+clini cal
+
+rhetoric here
+:
+wh at
+is
+most insane is t o drive onesel f
+
+insane by vol untaril y surrendering one
+’
+s own freedom to think,
+in a ki nd of masochistic, se lfv iolence.
+9
+
+Arendt th en
+
+bu tt resses
+
+this analysis with a more schema tic variation thereof
+, identifying
+“
+t hr ee specifically tota litarian element s
+that are
+pe c
+uliar
+
+to all ideolog ical thinking
+”
+
+(
+p.
+470).
+First,
+ideol o
+gies
+“
+explain
+
+not what
+
+is, but what
+becomes, what is bor n an d pass es
+
+aw ay
+,
+”
+
+bec ause
+ideologies
+are
+“
+concerned
+
+solely with the element of motion
+”
+
+(
+p.
+47
+0).
+What ever is stable,
+whatever holds
+
+it s po sition
+,
+
+whatever resis ts the flow, is
+
+for
+ideology
+
+n ot just
+expend able
+, but
+constitut ively
+invisible.
+
+Th is
+can be se en
+in
+f ormal
+lo gic
+,
+which
+is
+not mer ely
+indifferent
+
+t o
+what
+thi ng s are represente d by
+the
+A and B of
+
+a mo dus po nens
+argument
+, but
+also
+vulnera ble
+t o
+
+its
+flow bein g undermined
+if the
+practitioner
+becomes
+distracted
+
+by
+real world r e
+f erents
+.
+
+Second,
+ideological
+thin king
+“
+beco me s indep ende nt of
+
+all expe ri ence f rom which it
+cannot
+learn any thing ne w
+,
+”
+
+de nyi ng
+the five s ense s in defer ence to
+a
+“
+sixth sens e
+”
+
+that
+“
+is
+pro vided by id eo logy
+”
+
+(
+p.
+470).
+R
+e turn in g
+to the case of formal logic,
+students
+are encouraged to
+
+focus on
+the
+
+sy m
+bols
+
+a nd
+
+pat terns,
+brac keting
+
+their
+intu itions
+and experiences
+i n order t o
+attain
+and perfect
+a kind of sixth sen se for sniffing
+o u
+t
+“
+tricks
+”
+
+emb edded in
+
+th e problems
+.
+
+And third,
+since
+ideologies
+lack
+the
+ability t o
+“
+transform
+
+real i
+ty,
+”
+
+the y instead
+“
+ach ieve
+t h
+is emancipation of
+thought
+
+f ro m
+
+ex perience
+
+th r
+ough
+
+cer tain metho ds
+of
+demonstration,
+”
+
+which
+Arendt
+
+parses as
+“
+an ab solutely
+l ogical
+
+procedu re
+
+which st arts from an axioma tic ally accepted
+premise, de ducing ever yt hing else from it; that is, it
+proceeds
+
+with
+
+a
+
+consistency that exists
+nowhe re in th e realm of realty
+”
+
+(
+p.
+471).
+In other
+w ords,
+since ideo logy is power les s to
+build
+
+a
+fu l
+l
+
+new world,
+
+b looming
+with
+sens ep erceptions
+experienc eable with
+others, it settles for
+
+9
+
+In thi s connection,
+
+see Etienne B
+alibar
+’
+s di scus sion of Et ienne
+
+d e la
+Boet i
+e
+
+(Bal ibar 20
+14).
+
+12
+
+reducing
+t h
+is world to nothing but logi cal c al culations,
+performable
+
+in t otal
+isolation
+. I
+t is in this
+v ein, A
+rendt notes, that
+Hitler
+“
+took pride in his
+supreme gift
+f or
+‘
+i ce cold r easoning,
+’
+”
+
+and
+“
+proceed ed to drive
+ideological
+
+impl ications into ex tremes of logical consistency
+”
+
+(
+p.
+471
+).
+
+No te
+ag ain
+:
+Ar endt is not say ing
+“
+pseu dologic
+,
+”
+
+or
+“
+an attempt
+
+at lo gic,
+”
+
+but lo gicalness simplic ite r.
+
+Since t h
+is
+log omania
+
+constit u
+tes
+,
+ac cording
+
+to Ar e
+ndt,
+th e core of
+
+i deology,
+i t is
+thus
+also
+the core of t ot ali ta rianism
+,
+
+i n all
+
+the
+latter
+’
+s
+manifes tations an d pha se s.
+“
+This stringent logic al ity
+
+as a guide to action
+,
+”
+
+she writ es,
+“
+permeates
+the
+
+whole
+
+structure of tota li ta rian movem e
+n ts a nd
+governm ents
+”
+
+(
+p.
+472).
+
+T
+hus,
+
+it is no t m erely
+ideol og y that is logomaniac, but
+
+the entirety of the
+ideologicallybased
+totalit arian
+
+m o
+vement and society.
+W
+hat
+
+is
+new
+, ideologically,
+in
+totali t
+aria nism,
+i s
+
+“
+tha t it was no l onger pri marily the
+‘
+idea
+’
+
+of the ideolog y
+,
+”
+
+Arendt cla ims,
+“
+that a pp ealed to
+them, bu t the
+
+logical process which could be developed from it
+”
+
+(
+p.
+472).
+In
+othe r wo rds,
+to talitarianism take s
+ideolog y
+’
+s
+latent or unconscious
+lo gomania
+and makes it
+conscious and explicit
+
+—
+
+it
+loves id e
+ology
+, not des pite, b ut
+because of
+it s logoman ia. A
+s a
+
+re sult,
+Arendt co n
+tinues,
+“
+the real
+
+co ntent of the ideo logy,
+”
+
+which
+“
+originally ha d
+
+brou gh t about
+
+the
+
+‘
+i de a
+,
+’
+”
+
+is
+in totalitarianism
+ultimately
+
+“
+devoured by the lo gic
+with
+which the
+‘
+idea
+’
+
+is carried
+o ut
+”
+
+(
+p.
+472).
+Accordin gly, this logic is
+what
+creat es
+th e
+
+conditions
+
+for
+totali tarian
+
+practice
+.
+
+Even
+using
+racism
+
+as the
+justification for destruc tion
+,
+
+f or exam ple,
+pale d
+
+in
+importance to
+the Nazis
+,
+accordin g to Aren dt,
+compared to t he logomaniac
+process
+
+of
+destruc tion
+
+itself.
+
+In
+other words
+, the
+racial dimen sion of the Nazis
+’
+
+destruction was
+seco ndary to
+the destruction per
+
+se.
+
+Th eir society
+was, it may be helpf ul to recall,
+more excited about
+the
+IB
+M punch
+
+ca r
+ds
+it
+
+used
+to
+
+bur e
+au cratiz e
+
+genocide
+
+than in
+
+t heir
+
+millions
+
+of
+victims
+.
+
+“
+The
+
+preparation
+
+of
+victims
+
+and
+exec utio n
+ers which totalitarian is m requires
+,
+”
+
+Arend t claims,
+is
+“
+not racis m
+”
+
+but
+“
+its inherent
+logica l
+ity
+”
+
+(
+p.
+472).
+To r epeat this crucia l
+
+and
+counte rintuiti ve
+
+po in t:
+the most effective way to
+13
+
+re a
+dy
+people
+for
+becom ing
+
+totalit arian
+
+is
+—
+not t o make them
+more pre judiced,
+
+racist, etc. in
+the
+
+content of their views
+—
+b ut
+to
+make them more e xclusively
+logomaniac
+i n th e
+
+form of their
+views
+(about any
+
+content
+whatsoever
+)
+.
+A
+r en dt
+
+qu otes
+, as an example,
+“
+the
+a rgument of whi ch
+Hitler
+
+l ike Stalin wa s very fond,
+”
+
+namely
+
+“
+You can
+’
+t say A without
+
+saying B and C
+
+an d so on,
+down to the
+
+end of the murderous al p
+ha be t
+”
+
+(
+p.
+472)
+.
+In other
+
+words,
+total itarian leader s
+
+love
+logic
+even
+more
+
+than
+
+t hey ha te
+their
+victims
+,
+or
+p e
+rhaps
+their
+
+lo ve
+of l ogic distracts from,
+compensates for
+, and
+justif ies their
+geno cidal
+hatred
+.
+
+From this
+
+a naly s
+is
+,
+Are ndt
+
+derives
+
+the following key in sight
+.
+“
+H
+ere, t he
+
+coercive f orce of
+logicality
+
+seems to hav e fou nd
+
+its sou rce; it springs from our fear
+
+of contra dicti ng ou rselves
+”
+
+(
+p.
+47
+3
+).
+
+More precisely, using
+the example of
+the
+Bolsheviks
+who famously
+willi ngly confess ed
+to
+“
+crime s
+”
+
+they did
+not comm it, Ar end t
+
+exp lains that
+the
+“
+coercive
+
+force o f t he argument
+”
+
+for
+s up porting totalitarian ism is
+:
+
+“
+if y o
+u
+
+refuse
+
+[to co nfess
+]
+, you contradict your sel f and
+, throu gh this
+contra di ction
+, render
+your whole life
+meaningless
+; the A which you sa id d ominates your whole
+life
+
+throu gh the conse quences of
+B and C
+which it logical ly en ge nders
+”
+
+(
+p.
+473).
+Put s impl y
+,
+total i
+tarianism
+forc es racists to take their racism
+to its lo gical conc lusion,
+namely
+th e
+genocide
+of
+all allegedly inferior beings
+—
+even
+thoug h,
+as Aren dt details, thi s
+
+ultimately includes many of
+the rac ists th emselves
+(as
+
+in H
+it ler
+’
+s
+written
+plans to eventual l
+y
+eliminate
+
+ev en
+“
+Aryan
+”
+
+Germans
+if they had
+ser ious heart or
+
+lung illness
+)
+
+[
+p.
+432
+.
+]
+
+None
+
+are
+
+s afe from ideolog y
+’
+s logomania.
+
+A
+r endt
+then
+diagnosis
+the fea rbas ed psy cho log y be hi nd
+the logomania
+
+of
+
+ideological
+thinkers.
+“
+Totalitarian r ulers
+,
+”
+
+she claims,
+
+“
+rely on
+the
+
+c ompu lsion with which we can comp el
+ourselves,
+”
+
+na mely
+“
+the tyranny of logicality
+
+against which nothing stands bu t the
+great
+capacity
+of m en to sta r
+t someth ing
+
+new
+”
+
+(
+p.
+473)
+.
+The only w ay to
+counter
+
+logomania, therefore, is with
+
+crea ti vity; o t
+herwise we bin d oursel ves to
+tyrannical
+
+servitude
+, to which the lonely
+masses
+14
+
+succu mb to the peril of all
+.
+“
+By thi s
+submission
+,
+” Arendt writes of th e lonely ide o
+logist,
+“
+h e
+surrenders his inner free dom as he
+surrenders his freedom of
+movemen t
+
+w he n
+he bows
+
+down to
+an out ward tyranny
+”
+
+(
+p.
+473).
+
+L
+og omania, by implication, is the selfimprison ment of the
+mind.
+
+Res toring
+me ntal
+freedom
+, th erefore, is
+Arendt
+’
+s prof f
+e r
+e d
+
+solutio n
+
+to totalit arian
+
+logom ania.
+
+“
+Over the
+beginning
+”
+
+per se,
+she
+declares,
+“
+n o log ic
+, no
+
+cogent d educti on can have
+any power, because its chain presupposes, in the fo rm of a premise, the beginning
+”
+
+(
+p.
+473)
+.
+
+That
+is, logic requires
+premi ses,
+which mu st have been created at
+some point in
+
+the past
+.
+There in lie
+
+two
+thin g that are
+usually
+hidden
+b y
+
+the
+lo g
+omani a
+cs
+, namely
+(a)
+the fact that logic ultimate ly
+relies
+o n
+creativity, a nd
+(b)
+a loophole for
+breaking
+the chain s
+of logomania.
+
+I
+n recognition of
+thi s threat to
+totalitarian
+power,
+Arend t writes,
+“
+the sel fcoercive f or ce of logicality
+is
+mob il i
+z ed
+le st anybo dy
+ev er
+
+st art thi nk ing
+
+—
+
+which
+as the freest a nd pures t of human activities is the very
+opposite of the compulsory process of deduction
+”
+
+(
+p.
+473).
+S
+uch
+creat ive
+thinking
+,
+Arendt goes
+o n to claim,
+is
+empow ered by interpersonal connection,
+whi c
+h means
+that t otali taria ni sm needs
+log omania
+to undermine those connections
+.
+In short,
+“
+t he selfcoercive force
+
+of logical
+deduct ion
+…
+prepares each individu al
+
+in
+his lonely isolati on against al l othe rs
+”
+
+(
+pp.
+47
+3
+-
+474).
+
+Arend t
+’
+s
+subsequent finegrained ana l
+y sis of
+lo nelin ess and i solat io n
+reveals
+the ir
+
+hidden
+sociological d i
+mension s
+.
+“
+Isolat ion,
+”
+
+Arendt
+begins,
+“
+m ay be the beginning of
+terr or
+; it certainly
+is i ts mo st fertile ground;
+it always
+i s its r esult
+”
+
+(
+p.
+474)
+.
+Th at
+
+is,
+iso la tion
+tends to be
+terrifyin g
+,
+and thus
+
+the
+
+isolated ar e the
+
+m ost likely to suc cumb
+
+to terror, which
+only exacerbates th eir
+isolation
+.
+
+The
+“
+hallmark
+”
+
+of isolation
+,
+Arendt continues,
+“
+is impo tence insofar
+
+as power always
+come s f rom men
+‘
+a cting in con cert
+’
+
+(B
+urk e)
+; iso lated men are pow e
+rl ess by defin ition
+”
+
+(
+p.
+474)
+.
+Con ne cting this to Arend t
+’
+s previous claim, the is olated
+are fearfulqu apowerless,
+vis
+-
+à
+-
+vis
+
+15
+
+those
+who
+draw
+power from their conn ections
+,
+
+and
+who the iso lated
+know
+
+mi gh t use that
+power
+to
+op press the m whenever
+they wish.
+
+I
+s o
+lation
+is not
+all b ad, howeve r,
+in
+
+A
+rend t
+’
+s view
+.
+For one thin g, it
+can be present
+without
+l on e
+liness
+
+(and vice
+versa)
+; f or another,
+isolation
+“
+is
+r equired
+for a ll socalled productive
+activi ties of
+
+m en
+”
+
+(
+p.
+474). Mor e specifically,
+“
+Man
+
+insofar as
+he
+is
+h omo
+faber
+tend s
+to isolate
+himse lf wi th
+
+his
+
+w ork, that is to leave th e realm of politics
+…
+
+w h
+ether th e result is a
+piece
+
+of
+craftsmanship or of a rt
+”
+
+(
+p.
+475).
+Are ndt des cribes such work as
+“
+the most
+elementa ry form
+
+of
+human cr eativity, which
+
+is the capa cit y
+
+t o add
+
+so meth ing of one
+’
+s own to t he co mm on world
+”
+
+(
+p.
+475).
+In other words, too much togetherness
+
+keeps us
+from creating new things
+, and
+e xpressing
+ourselves t hereby
+.
+W
+h en
+this capacity
+
+“
+is des tro yed
+,
+”
+
+howe ver,
+then
+“
+isola tion becomes
+altog ether unb ea r
+a b
+le,
+”
+
+as
+
+i s the
+
+case
+“
+in a world whose
+chief
+
+v alues are dict ated by labor
+, that is
+where all human activities have been
+transformed
+
+into laboring
+”
+
+(
+p.
+475).
+
+Such
+
+was the world of the Nazis, and such
+
+is
+our world
+today, which continues to
+create
+n eoNa zis.
+
+“
+I
+solation
+,
+”
+
+A
+rendt concludes of such wor lds,
+“
+t hen becomes lonel iness
+”
+
+(
+p.
+475).
+This
+is already enough, historically, for
+the
+governmental
+
+form called tyranny
+to t ake hold,
+“
+destr oying the pu bli c
+realm of life
+”
+; but t otalitarian ism
+
+requ ires more
+,
+and
+“
+d e
+str oy s private
+
+l ife
+as well
+”
+
+(
+p.
+475).
+More spe cific al ly
+,
+Arendt obse rves
+
+that totalitarianism
+“
+bases i tsel f on
+
+loneliness,
+
+o n t he experience of not belongi ng to
+
+the world at
+
+all, w hich is among
+
+the
+
+most
+radical and
+
+despe ra te e xperiences
+of man
+”
+
+(
+p.
+4
+75).
+
+In
+
+short, the
+utterly worl dl ess
+, if the ir
+num bers
+
+reac h
+a
+critical
+
+thresh old,
+ultimately choose a
+fa ntasy
+world
+that is
+built
+from, with, and
+on
+terror
+.
+
+“
+Only
+b ecause we have common sense,
+”
+
+Arendt
+
+explains,
+“
+only because not one m an,
+but men
+in the
+plur a
+l
+
+in ha bit the e arth ca n we trust our immed iate sens ual e xp erienc e
+”
+
+(
+p.
+4
+76
+).
+
+16
+
+Put
+differently
+,
+
+I trust myself because the others validate me
+; w e imagine ourselves
+like each
+other
+,
+as belonging
+togethe r
+; and
+only in that w ay
+
+can
+I even b elong to m ys elf.
+
+In
+t h
+is
+spirit,
+ha ving previously
+stressed the di stinctio n bet we en loneliness and isolation,
+A
+rendt then con tra sts loneliness and solitude, a
+distinction
+whose
+i niti al
+creation
+she attribu tes to
+the ens la ved
+Stoic phil osopher
+Epictetus.
+“
+In solitude,
+”
+
+Arendt
+
+w r
+ite s
+
+of his v iew
+,
+“
+I
+am
+‘
+by
+m yse lf,
+’
+
+to gether with m y sel f,
+
+and therefore twoinone,
+wh ereas in loneliness I am actually one
+,
+deserted by al l others
+”
+
+(
+p.
+476).
+
+In
+other
+
+words, free thought is a cr eativ e
+inner
+dialogue between
+my
+past s elf (m yself
+)
+
+and m y
+
+pre sent s elf
+(I).
+“
+All t hinking,
+
+strictly s peaking
+”
+
+she
+
+a s
+se r
+t s,
+“
+is
+done in soli tude and is a
+dialogue betw ee n m e and myself
+,
+”
+
+which
+“
+does not lose contact wit h
+the
+
+world of my fellowmen because
+they
+are represented in the self with w hom I lead t he
+dia l
+ogue
+
+of though t
+”
+
+(
+p.
+476).
+
+Put
+differently,
+isolation give
+me en ou gh
+
+space from the others to
+reimagine them, and to imag ine myself in their p ositions,
+in each c ase opening the
+possibility
+
+for
+a new
+
+beginnin g
+
+in
+
+thoug ht.
+
+Just as w i
+th isolat ion
+, however
+,
+
+d espite
+the
+pot ential advantages of
+s olitude
+,
+it too
+“
+can
+become
+lonel in es s,
+”
+
+more speci fically
+when
+,
+
+“
+all
+by myself, I am d eserted by myself
+”
+
+(
+p.
+476).
+The inner
+
+dialogue becomes a monologue, one re lentless logic
+
+liable to
+deteriorate into
+
+the
+“
+madness
+”
+
+o f
+
+tot alit arian
+logoma nia.
+Fo r most of history,
+however
+,
+
+t hi s
+“
+danger
+
+of l on eliness,
+”
+
+a ccording to Arendt,
+t hreatened only
+a
+
+few solitary
+
+individuals
+
+(
+p r
+omin ent am ong
+whom were
+the phil o
+sophers,
+
+“
+for
+wh om alone
+
+soli tu de is a wa y of life
+a nd a condition of w o
+rk
+”
+)
+
+[
+p.
+476
+.]
+
+More pre cisely, this danger
+“
+b ec ame sufficient ly great
+to be
+
+n oticed by others and recorded by
+history only in the ni neteenth century
+”
+
+(
+p.
+476).
+
+I
+n
+short, the world recently b ecame
+dr astically
+loneli er,
+b e
+cause far t oo many hav e
+been
+trappe d
+
+in solitude.
+
+17
+
+In a
+prenineteenthcentury world,
+A
+r endt
+relates
+,
+
+“
+the great sav ing g ra ce of
+companion ship for solitary me n
+,
+”
+
+is that companionship
+“
+makes
+them
+‘
+whole
+’
+
+again,
+
+saves them
+
+f rom
+the
+
+dial ogue of th ought in whi ch
+one re ma in s al ways equivocal, re s
+tores the iden t
+ity
+
+wh ich
+makes them speak with th e single voi ce of
+
+o ne unexchangeable person
+”
+
+(
+p.
+476).
+
+Put
+differently
+,
+
+my
+interlocut er
+h elps me
+to
+resolve the tensions and contradic tions that aris e in my inner
+d ia logue,
+thu s
+shaping m e
+
+into th e kind of
+p erson who can
+be long in
+pre cisely this time and
+place
+, in a comm unity
+
+w it h these others.
+“
+W
+hat ma kes
+lon eline ss so unbearable
+,
+”
+
+in Arend t
+’
+s
+words,
+“
+is
+the los s of one
+’
+s own self
+w h
+ich can be
+realize d
+
+in s olitude
+, but
+
+confirmed
+in
+its
+identity only b y the
+t rusting and tr ustworthy company of
+
+my equal s
+”
+
+(
+p.
+477).
+
+In short,
+e ven
+t ha t
+most seemingly solitary
+mental
+activity of
+
+human beings, pur e
+thinking, is al so
+co vert ly social,
+and based
+fu ndamentally o n interd e
+pendence
+.
+
+T
+h is
+also
+co nstitutes
+
+further evidenc e
+, in Arend t
+’
+s
+view,
+that
+pure thinking i s not
+identical
+to l ogic,
+
+h er el ab o
+ration of which
+view
+bears quot in g
+at
+length
+:
+
+The only capacity
+
+of the human mind which ne eds neither the se lf nor the
+othe r nor
+
+the
+wo rld in o rde r to func ti on safely and which is
+a s indep endent
+of experience as it is of
+t hinking is the ability of
+logic al
+
+reasoning whose prem ise is the selfevident
+. The
+elemen tary
+rul es of cogent evidence
+, the
+tr uism that two an d two equals fo ur ca nnot be
+
+perverted
+even unde r
+the condi tions of absol u
+te loneliness.
+
+It is
+the
+only
+reliable
+“
+truth
+”
+
+human bein gs can
+fal l bac k
+on once they have los t the mutual gu arantee, the common
+sense, m en need in order to experie nce and live and k now their way i n a c ommon w orld.
+But t his
+“
+trut h
+”
+
+is empty or rather no
+t ruth at all, b ecause it does not reveal anything.
+
+(
+p.
+477).
+
+18
+
+No self,
+n o, ot he r
+, no
+
+world
+
+—
+
+just
+mathematical tautol ogies that
+generate
+,
+
+fo r
+th ose who are
+lon ely and deprived of both
+commons ense and
+ima gination
+,
+a mere
+illusion
+of
+truth
+.
+
+I
+n this
+va cuum
+,
+
+of
+
+companion ship
+,
+
+otherness, wor ld, and even truth,
+A
+r endt
+continues,
+the log ic ally
+“
+selfev ident
+”
+
+“
+begins
+to be productive, to develop its o wn lines of
+‘
+thought
+’
+”
+
+(
+p.
+477).
+M
+ore
+spe cifically, i n the w ords
+Arendt quotes f rom
+Martin L
+uther, the
+lonely indi vid u
+al
+“
+always
+de d
+uc es one from the other
+and thinks ever ything
+
+to the wor st
+”
+
+(
+p.
+47
+7
+).
+
+Prec isely
+
+t his
+
+is
+the
+logomaniac dimension of
+totalit a
+rian ism
+, w hich
+,
+Arendt affirms
+,
+“
+consists indeed in this
+‘
+th inking e very thing to the worst
+’
+”
+
+(
+p.
+477).
+
+The tot alit ar i
+an worl d
+, ther efore, is one w here lone liness
+“
+has become an
+everyday
+
+exper ience of the evergrowin g
+masses of
+
+o ur
+ce nt ury
+”
+
+(
+p.
+478). Here,
+Hi t
+ler
+’
+s
+“
+icecold
+
+reasoning
+,
+”
+
+in
+
+Arendt
+’
+s words,
+“
+appe ars
+l ike a last support in a world where nobody is reliable
+an d
+
+nothi ng
+
+can b e r eli ed upon
+”
+
+(
+p.
+4
+78).
+I
+f,
+
+as A
+r endt
+’
+s
+earlier metaphor has it,
+mere
+tyranny
+rules over a des ert,
+a
+“
+lawless,
+
+fenceles s wi l
+de rn ess of fear and susp icion
+,
+”
+
+then
+with
+tot a
+l itarianism
+,
+she
+adds
+,
+“
+it seems as i f a way had
+
+been found to set the
+
+des ert itself
+in moti on, to
+let
+l oose a sand
+
+storm that cou ld cover all parts of the in habited earth
+”
+
+(
+pp.
+466, 478).
+Or, in her
+more pr o
+s aic
+f or mulation
+,
+
+the
+“
+organized lo neliness
+”
+
+of t otalitari ani sm
+“
+is consi derably mo re
+
+dangerous than the u norganized i m
+potence of all
+
+those
+who are ruled by the tyran nical an d
+ar bitrary wil l of a single m an
+”
+
+(
+p.
+478).
+Finally,
+
+the
+“
+danger
+”
+
+is
+that
+totalitar i
+anism
+“
+th reate n
+s
+
+to
+ra vage the world as
+we know it
+
+—
+
+a
+worl d w h
+ich everyw here seems to ha ve
+
+come to an end
+
+—
+
+before
+a
+
+new beginning
+
+rising from
+the
+
+end has had time to assert
+
+itself
+”
+
+(
+p.
+47
+8). Nevert h
+eless,
+“
+there r emain s also the truth that every end in
+hist ory
+necessari ly co nt ains a
+
+new beginning; th is
+beginning
+
+is the
+promise, the only
+‘
+message
+’
+
+w hich the end can eve r
+
+produce
+”
+
+(
+pp.
+
+478
+-
+47
+9
+).
+More generally,
+“
+Beginni ng, before it
+b ecomes a his torical eve nt, is the supr e
+me ca pacity of
+
+19
+
+man; political ly, it
+
+is identical with ma n
+’
+s f re edom
+”
+
+(p. 47
+9).
+“
+This beginning
+,
+”
+
+A
+r e
+ndt
+
+concludes,
+“
+is
+guaranteed by each n ew birth;
+it
+i s indeed ever y
+
+man
+”
+
+(
+p.
+479).
+
+To promote and prese rve these beginnings, i t has
+al ready been
+widely
+recogn ize d
+in
+today
+’
+s public
+discourse
+
+that
+
+we
+
+desperately need to fight the
+pand emi c of lonelines s
+to day, and
+to rebuild the
+soc ial
+
+a n
+d
+
+politica l
+
+infrastr u
+cture
+
+of our c ommunities.
+10
+
+To th ese
+
+admirable
+suggestion s
+,
+
+I wish to
+
+add,
+
+by way of my own conclusion
+, one more
+. We sho uld
+stop teaching
+a nd promoting
+formal logic in
+iso lation, and
+instead su pp leme nt all such courses
+and
+community
+
+educ at ion
+
+in i
+tiatives
+w i
+th material an d methods for cr eative and aesthetic thinking.
+For
+example
+,
+
+“
+logic
+”
+
+courses should become courses is
+“
+critical
+
+and
+
+creative
+thin king,
+”
+
+or in
+“
+cognitive
+,
+imaginative, and affective reas on ing.
+”
+
+We
+cannot
+, of cou rse,
+afford to stop put ting in t
+o
+
+peoples
+’
+
+ha nd s
+a tool which
+
+—
+
+if
+used
+compulsively
+,
+
+and to the ex clusion of less rigid forms of
+though t
+
+—
+
+can
+be weapon ized
+by
+to ta litari an ideologies such as ra cism
+.
+We can, however, at l east
+prov ide people with
+additional
+tools and
+training in how to h a
+nd le this weap on more safely
+, and how to defend
+onese lf
+
+or
+disarm
+
+those who
+t hreaten
+harm with that
+weapon
+, including
+on a
+geopolitical
+sc ale
+.
+
+It is not
+sufficient to merely resist and
+defeat
+isolat ed instances of
+conventional
+totalitari anism
+.
+We must,
+ad d
+i tionally,
+des tr o
+y
+
+the sociopolitical conditio ns of
+to tali tar ianism
+’
+s
+
+possibility
+,
+namely
+by
+nurt urin g t he
+
+s paces
+a n
+d the resources for th e promotion of
+creati ve
+thought
+, and thereby
+its
+consequent
+thoughtful
+
+togetherness.
+
+10
+
+See,
+for
+two
+fairly recent e x
+amp les,
+https://aeon.co/essays/forh annaharendttotalitarianismisrootedinloneliness
+, and
+
+https://www.newyorker.com/news/ou rcolumnists/thepoliticalc onsequencesoflonelinessandisolationduringthepandemic
+.
+
+20
+
+References
+
+Ar endt, H. (1951/19
+7
+3).
+T
+h e
+o rigin s of
+t o
+talitarianism
+.
+N
+e w
+
+Y
+o r
+k
+:
+
+M
+a r
+i n
+e r
+.
+
+Balibar, E. (201
+4
+).
+E
+qualiberty
+: Politic al
+e ssays
+
+[J. Ingram,
+T
+rans.]
+
+D
+urha m
+:
+
+Duke Un iversity
+
+Press
+.
+
+Belle,
+K
+.
+
+(2014).
+Hannah Arendt
+and the
+n egro
+q uestion
+.
+Indianapolis
+: Indiana Un iversity Press
+.
+
+C
+anovan,
+M.
+(20
+01).
+Arendt
+’
+s
+t h
+eory
+of
+t otalitarianism: A
+r eas sessment
+. I
+n
+D. Villa (Ed
+.),
+The
+
+Cambridge
+c o
+mpanion
+to
+H
+a nna h
+Ar endt
+.
+Cam bridge: Cambr idge University Press
+.
+
+D
+e la
+Boet i
+e,
+E.
+(20
+12).
+D
+iscourse of
+v oluntary
+s ervitude
+.
+Ne w York: Hackett
+.
+
+Farbe r
+, S.
+(2012).
+T
+he
+s p
+iritual
+g if t of
+m adness: The
+f a
+ilure of
+p sychiatry and the
+r ise of the
+m ad
+
+p ride
+m ovement
+.
+Roch este r, V
+ermont
+:
+I
+nner T
+raditions
+.
+
+Hall, J. (2022
+a
+).
+Farber’s
+r eimagined
+m ad
+p ride:
+Strategies for
+m essianic
+
+u topian
+l eadership
+.
+
+Journal of
+M
+edic al
+Humanit ies
+43,
+
+1
+
+(forthcoming)
+.
+
+Hall, J. (2022b). Dancingwith
+c o
+gniti ve
+p sychology
+: T
+h ree
+ther apeutic provocations.
+Middle
+
+Voices
+
+3, 1
+(forthcoming).
+
+Hall
+, J.
+(2021). A
+
+p henomeno logy of
+r ac e in
+Fre ge
+’
+s
+l og ic
+.
+Humanities
+Bul letin
+4(1)
+,
+52
+-
+69
+.
+
+Hall
+, J. (2018)
+.
+A
+d ar kly
+b ri ght
+r e
+public: Milton’s
+p oeti c
+l ogi c
+.
+Sou th A
+frican
+
+J
+o urna l
+of
+
+P
+hilos o
+phy
+37(2
+)
+,
+15
+8
+-
+170
+.
+
+Hall,
+J
+. (2017).
+Logical
+t heatr ics, or
+f loes
+on
+f low s: Tr ans lat in g
+
+Qui ne with th e
+s h
+ins
+.
+European
+
+J
+ournal
+
+of Pragmatism and Am erican Philos o
+phy
+
+8(2)
+.
+
+Hall
+, J. (201
+6).
+Twixt
+m ages
+
+and
+
+m onste rs: Aren dt
+on
+th e
+d a
+rk
+a rt of
+f o
+rgiveness
+. In C. Lew is
+
+(Ed.),
+The
+Phil oso ph y of Fo r
+g i
+v eness, Vol. 2:
+D
+imensio ns of Forg ivenes s
+.
+Wilmington,
+D
+elaware
+: Ve rnon
+,
+21
+5
+-
+24
+0
+.
+
+Hall
+, J. (2015).
+
+Q
+u esti on s of
+r ace i n
+J.
+S
+. Mill’
+s
+c o
+ntrib utions to
+l ogic
+.
+Ph ilosoph ia
+Afr ic ana
+
+21
+
+16
+(
+2
+)
+,
+73
+-
+93
+.
+
+King, R. & Stone, D.
+(
+Eds.
+)
+
+(2008).
+H
+a nnah
+A
+r end t
+an d the
+u s
+es of
+h i
+story
+: Imper ialism,
+n a
+tion,
+
+r ace and
+g enocide
+.
+New York:
+Bergha hn
+.
+
+Knott
+, M.
+(2015).
+Unlearnin g wit h
+Hanna h
+
+Arendt
+
+[D
+.
+Dollen maye r
+, Trans.]
+
+New
+Y
+ork: Other
+.
+
+Lewis, B. (2006).
+Moving
+b eyond
+p rozac, DSM, and
+the
+n ew
+p sychiatry
+: The
+b irth
+
+of
+
+Postpsy chiatry
+.
+Ann Arbor
+: University of M
+ich i
+g an
+
+Press
+.
+
+Nye, A.
+(1990).
+Word s
+
+of
+p ower
+: A
+f eminist
+r eading o f the
+h istory of
+l ogi c
+.
+New York
+:
+
+R
+outledg e
+.
+
+Villa, D. (2015).
+Introduction
+:
+The
+d evelopments of Arendt
+’
+s
+p olitical
+t ho ug ht
+.
+In
+D. V
+i ll a
+(
+Ed.
+),
+
+The Cambridge
+c ompanion to Hannah Arendt
+.
+Cambridg e: Cambrid ge University
+Pr ess
+.
+
+## Notes
+
+- 自動収集された未処理ノート。正式ノート化する前に内容と出典を確認する。
