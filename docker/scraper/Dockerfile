@@ -9,7 +9,7 @@ RUN go build -o /out/scrapem ./cmd/scrapem
 
 FROM alpine:3.22
 
-RUN apk add --no-cache ca-certificates
+RUN apk add --no-cache ca-certificates poppler-utils
 COPY --from=build /out/scrapem /usr/local/bin/scrapem
 WORKDIR /vault
 
