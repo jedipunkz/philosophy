@@ -161,7 +161,9 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 					log.Printf("sep entry fetch failed url=%s: %v", item.URL, err)
 				}
 			case "wikipedia_api":
-				// extract is already included in the search response
+				if err := r.enrichWikipediaText(ctx, &item); err != nil {
+					log.Printf("wikipedia text fetch failed url=%s: %v", item.URL, err)
+				}
 			case "api":
 				// arxiv etc — no detail fetch
 			default:
@@ -176,6 +178,12 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 			}
 			if item.BookText != "" {
 				item.BookText, item.BookTextTruncated = truncateRunes(item.BookText, r.cfg.Scrape.MaxBookChars)
+			}
+			// Skip Wikipedia articles that yielded no extractable text
+			// (disambiguation pages, stubs, unrelated matches).
+			if source.Type == "wikipedia_api" && item.BookText == "" {
+				log.Printf("skipping wikipedia item with no text url=%s", item.URL)
+				continue
 			}
 
 			item.Keyword = sq.keyword.Name
