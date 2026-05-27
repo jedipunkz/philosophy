@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"os/exec"
 	"path"
 	"regexp"
 	"strings"
@@ -98,8 +99,19 @@ func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 	return nil
 }
 
-func extractPDFText(path string) (string, error) {
-	f, reader, err := pdf.Open(path)
+func extractPDFText(filePath string) (string, error) {
+	// pdftotext (poppler) produces proper word spacing; use it when available.
+	if pt, err := exec.LookPath("pdftotext"); err == nil {
+		out, err := exec.Command(pt, filePath, "-").Output()
+		if err == nil {
+			return string(out), nil
+		}
+	}
+	return extractPDFTextGo(filePath)
+}
+
+func extractPDFTextGo(filePath string) (string, error) {
+	f, reader, err := pdf.Open(filePath)
 	if err != nil {
 		return "", err
 	}
