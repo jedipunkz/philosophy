@@ -187,3 +187,21 @@ keywords:
       - 現代哲学
       - 深層心理学
       - 元型論
+
+  - name: ルカーチ・ジェルジュ
+    queries:
+      - György Lukács
+      - Georg Lukács
+      - ルカーチ・ジェルジュ
+      - Lukács History and Class Consciousness
+      - Lukács Theory of the Novel
+      - Lukács Soul and Form
+    sources:
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 現代哲学
+      - マルクス主義
+      - 西洋マルクス主義
+      - 物象化論
