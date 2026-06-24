@@ -53,6 +53,9 @@ jobs:
 
       - run: chmod +x bin/scrapem
 
+      - name: Install pdftotext (poppler)
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends poppler-utils
+
       - name: Run research scraper
         run: |
           set -euo pipefail
