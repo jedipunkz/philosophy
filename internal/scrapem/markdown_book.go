@@ -85,7 +85,7 @@ func renderBookMarkdown(now time.Time, item Item) string {
 	}
 
 	b.WriteString("\n## Notes\n\n")
-	b.WriteString("- 自動収集された未処理ノート。書籍/ フォルダへの統合前に内容と出典を確認する。\n")
+	b.WriteString("- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。\n")
 	return b.String()
 }
 
