@@ -2,10 +2,12 @@ package scrapem
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"html"
 	"io"
 	"net/http"
+	"net/url"
 	"regexp"
 	"strings"
 )
@@ -23,6 +25,43 @@ var (
 	htmlInlineWSRe   = regexp.MustCompile(`[ \t]+`)
 	htmlMultiLineRe  = regexp.MustCompile(`\n{3,}`)
 )
+
+// enrichWikipediaText makes a per-page API request to fetch the full plain-text
+// extract for a Wikipedia article. The generator=search API response often
+// returns empty or truncated extracts, so a secondary per-page fetch is needed.
+func (r *Runner) enrichWikipediaText(ctx context.Context, item *Item) error {
+	if item.URL == "" {
+		return nil
+	}
+	u, err := url.Parse(item.URL)
+	if err != nil {
+		return err
+	}
+	// URL format: https://<lang>.wikipedia.org/wiki/<encoded-title>
+	title := strings.TrimPrefix(u.Path, "/wiki/")
+	if title == "" || title == u.Path {
+		return nil
+	}
+	titleDecoded, _ := url.PathUnescape(title)
+	apiURL := fmt.Sprintf("%s://%s/w/api.php?action=query&titles=%s&prop=extracts&explaintext=1&format=json&formatversion=2",
+		u.Scheme, u.Host, url.QueryEscape(titleDecoded))
+	body, err := r.fetchBodyWithLimit(ctx, apiURL, "application/json,*/*;q=0.8")
+	if err != nil {
+		return err
+	}
+	var resp wikipediaResponse
+	if err := json.Unmarshal(body, &resp); err != nil {
+		return err
+	}
+	if resp.Query == nil || len(resp.Query.Pages) == 0 {
+		return nil
+	}
+	text := strings.TrimSpace(resp.Query.Pages[0].Extract)
+	if text != "" {
+		item.BookText = text
+	}
+	return nil
+}
 
 // enrichBookText fetches the plain-text body of a Project Gutenberg book and
 // stores it on the item. Truncation by MaxBookChars is applied later in the

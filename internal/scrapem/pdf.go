@@ -5,20 +5,57 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"os"
+	"os/exec"
+	"path"
 	"regexp"
 	"strings"
+	"time"
 
 	"github.com/ledongthuc/pdf"
 )
+
+// goPDFFallbackMaxBytes caps the file size handled by the in-process
+// ledongthuc/pdf parser. That parser loads the whole document into memory and
+// can balloon to several GB on large or malformed PDFs, which OOM-kills the
+// scraper (exit 143 on CI). pdftotext streams instead, so it has no such cap;
+// the Go fallback only runs when pdftotext is unavailable and the file is small.
+const goPDFFallbackMaxBytes = 4 << 20 // 4 MiB
+
+// pdfExtractTimeout bounds a single pdftotext invocation so a pathological PDF
+// cannot hang the run or accumulate memory indefinitely.
+const pdfExtractTimeout = 90 * time.Second
 
 var pdfSpaceRe = regexp.MustCompile(`[ \t]+`)
 var pdfHyphenBreakRe = regexp.MustCompile(`([A-Za-z])\s*-\s*\n\s*([A-Za-z])`)
 var pdfSoftBreakRe = regexp.MustCompile(`([a-z,;:])\n([a-z])`)
 
+// nonPDFExtensions lists URL suffixes that philpapers/philarchive sometimes
+// advertise via citation_pdf_url. Downloading them only to fail in the PDF
+// parser wastes ~20s per item, so reject them before the network call.
+var nonPDFExtensions = map[string]struct{}{
+	".doc":  {},
+	".docx": {},
+	".rtf":  {},
+	".odt":  {},
+	".zip":  {},
+	".rar":  {},
+	".tar":  {},
+	".gz":   {},
+	".epub": {},
+	".html": {},
+	".htm":  {},
+}
+
 func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 	if item.PDF == "" {
 		return nil
+	}
+	if ext := pdfURLExt(item.PDF); ext != "" {
+		if _, bad := nonPDFExtensions[ext]; bad {
+			return fmt.Errorf("skipping non-pdf url (ext=%s)", ext)
+		}
 	}
 	if err := r.wait(ctx); err != nil {
 		return err
@@ -38,6 +75,9 @@ func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 	defer resp.Body.Close()
 	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
 		return fmt.Errorf("unexpected status %s", resp.Status)
+	}
+	if ct := resp.Header.Get("Content-Type"); ct != "" && !isPDFContentType(ct) {
+		return fmt.Errorf("skipping non-pdf content-type %q", ct)
 	}
 	if resp.ContentLength > r.cfg.Scrape.MaxPDFBytes {
 		return fmt.Errorf("pdf too large: %d bytes", resp.ContentLength)
@@ -63,7 +103,7 @@ func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 		return err
 	}
 
-	text, err := extractPDFText(tmpPath)
+	text, err := extractPDFText(ctx, tmpPath)
 	if err != nil {
 		return err
 	}
@@ -71,8 +111,27 @@ func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 	return nil
 }
 
-func extractPDFText(path string) (string, error) {
-	f, reader, err := pdf.Open(path)
+func extractPDFText(ctx context.Context, filePath string) (string, error) {
+	// pdftotext (poppler) produces proper word spacing and streams the document,
+	// so it is both higher quality and memory-safe; use it when available.
+	if pt, err := exec.LookPath("pdftotext"); err == nil {
+		cctx, cancel := context.WithTimeout(ctx, pdfExtractTimeout)
+		defer cancel()
+		out, err := exec.CommandContext(cctx, pt, "-q", filePath, "-").Output()
+		if err == nil {
+			return string(out), nil
+		}
+	}
+	// Fall back to the in-process parser only for small files: it is
+	// memory-hungry and can OOM-kill the process on large documents.
+	if fi, err := os.Stat(filePath); err == nil && fi.Size() > goPDFFallbackMaxBytes {
+		return "", fmt.Errorf("pdf text extraction skipped: pdftotext unavailable and file too large for in-process parser (%d bytes)", fi.Size())
+	}
+	return extractPDFTextGo(filePath)
+}
+
+func extractPDFTextGo(filePath string) (string, error) {
+	f, reader, err := pdf.Open(filePath)
 	if err != nil {
 		return "", err
 	}
@@ -108,6 +167,23 @@ func cleanPDFText(input string) string {
 		blank = false
 	}
 	return strings.TrimSpace(strings.Join(out, "\n"))
+}
+
+func pdfURLExt(raw string) string {
+	u, err := url.Parse(raw)
+	if err != nil {
+		return ""
+	}
+	return strings.ToLower(path.Ext(u.Path))
+}
+
+func isPDFContentType(ct string) bool {
+	media := strings.ToLower(strings.TrimSpace(strings.SplitN(ct, ";", 2)[0]))
+	switch media {
+	case "application/pdf", "application/x-pdf", "application/octet-stream", "binary/octet-stream", "":
+		return true
+	}
+	return false
 }
 
 func truncateRunes(input string, max int) (string, bool) {

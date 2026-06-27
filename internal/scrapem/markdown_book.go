@@ -85,7 +85,7 @@ func renderBookMarkdown(now time.Time, item Item) string {
 	}
 
 	b.WriteString("\n## Notes\n\n")
-	b.WriteString("- 自動収集された未処理ノート。書籍/ フォルダへの統合前に内容と出典を確認する。\n")
+	b.WriteString("- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。\n")
 	return b.String()
 }
 
@@ -95,6 +95,7 @@ func writeBookObsidianLinks(b *strings.Builder, item Item) {
 		return
 	}
 	b.WriteString("\n## Obsidian Links\n\n")
+	// notes/ は地域・時代でネストするため basename での wiki link を使う。
 	fmt.Fprintf(b, "- キーワード: [[%s]]\n", keyword)
-	fmt.Fprintf(b, "- 書籍: [[書籍/%s]]\n", keyword)
+	fmt.Fprintf(b, "- 研究動向: [[%s-現代研究動向]]\n", keyword)
 }

@@ -28,6 +28,7 @@ type ScrapeConfig struct {
 	MaxPDFBytes     int64  `yaml:"max_pdf_bytes"`
 	MaxBookChars    int    `yaml:"max_book_chars"`
 	MaxBookBytes    int64  `yaml:"max_book_bytes"`
+	MaxNewItems     int    `yaml:"max_new_items"`
 	RequestTimeout  string `yaml:"request_timeout"`
 	RequestDelay    string `yaml:"request_delay"`
 	RefreshExisting bool   `yaml:"refresh_existing"`
@@ -69,7 +70,7 @@ func Load(path string) (Config, error) {
 		cfg.Vault.Inbox = "inbox"
 	}
 	if cfg.Vault.SeenFile == "" {
-		cfg.Vault.SeenFile = "seen-research-urls.json"
+		cfg.Vault.SeenFile = "seen-urls.json"
 	}
 	if cfg.Scrape.Interval == "" {
 		cfg.Scrape.Interval = "24h"

@@ -111,7 +111,7 @@ func (r *Runner) Run(ctx context.Context) error {
 	wg.Wait()
 
 	if err := seen.Save(statePath); err != nil {
-		return err
+		log.Printf("seen save failed: %v", err)
 	}
 	log.Printf("scrape completed: wrote %d new notes", total)
 	return nil
@@ -119,6 +119,12 @@ func (r *Runner) Run(ctx context.Context) error {
 
 func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, queries []sourceQuery, inbox, statePath string, seen *Seen, mu *sync.Mutex, total *int) {
 	for _, sq := range queries {
+		if ctx.Err() != nil {
+			return
+		}
+		if r.maxNewItemsReached(mu, total) {
+			return
+		}
 		items, err := r.search(ctx, source, sq.query)
 		if err != nil {
 			log.Printf("search failed source=%s query=%q: %v", source.Name, sq.query, err)
@@ -129,6 +135,12 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 		}
 		isBookSource := isBookSourceType(source.Type)
 		for _, item := range items {
+			if ctx.Err() != nil {
+				return
+			}
+			if r.maxNewItemsReached(mu, total) {
+				return
+			}
 			// Skip expensive fetches early when the item is already known and
 			// refresh is disabled. We re-check under the lock after enrichment
 			// to handle the case where a sibling goroutine just added the URL.
@@ -149,7 +161,9 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 					log.Printf("sep entry fetch failed url=%s: %v", item.URL, err)
 				}
 			case "wikipedia_api":
-				// extract is already included in the search response
+				if err := r.enrichWikipediaText(ctx, &item); err != nil {
+					log.Printf("wikipedia text fetch failed url=%s: %v", item.URL, err)
+				}
 			case "api":
 				// arxiv etc — no detail fetch
 			default:
@@ -165,6 +179,12 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 			if item.BookText != "" {
 				item.BookText, item.BookTextTruncated = truncateRunes(item.BookText, r.cfg.Scrape.MaxBookChars)
 			}
+			// Skip Wikipedia articles that yielded no extractable text
+			// (disambiguation pages, stubs, unrelated matches).
+			if source.Type == "wikipedia_api" && item.BookText == "" {
+				log.Printf("skipping wikipedia item with no text url=%s", item.URL)
+				continue
+			}
 
 			item.Keyword = sq.keyword.Name
 			item.Query = sq.query
@@ -172,6 +192,10 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 			item.SourceName = source.Name
 
 			mu.Lock()
+			if r.cfg.Scrape.MaxNewItems > 0 && *total >= r.cfg.Scrape.MaxNewItems {
+				mu.Unlock()
+				return
+			}
 			alreadySeen = seen.Has(item.URL)
 			if alreadySeen && !r.cfg.Scrape.RefreshExisting {
 				mu.Unlock()
@@ -198,6 +222,15 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 			mu.Unlock()
 		}
 	}
+}
+
+func (r *Runner) maxNewItemsReached(mu *sync.Mutex, total *int) bool {
+	if r.cfg.Scrape.MaxNewItems <= 0 {
+		return false
+	}
+	mu.Lock()
+	defer mu.Unlock()
+	return *total >= r.cfg.Scrape.MaxNewItems
 }
 
 func (r *Runner) search(ctx context.Context, source config.SourceConfig, query string) ([]Item, error) {

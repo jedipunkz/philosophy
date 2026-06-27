@@ -1,0 +1,269 @@
+vault:
+  root: /vault
+  inbox: inbox
+  seen_file: seen-urls.json
+
+scrape:
+  interval: 24h
+  user_agent: philosophy-scraper/0.1 (+https://github.com/jedipunkz/philosophy)
+  max_results: 12
+  max_new_items: 40
+  max_pdf_chars: 50000
+  max_pdf_bytes: 20971520
+  max_book_chars: 300000   # public domain 書籍本文・百科事典本文の最大文字数（rune 数）
+  max_book_bytes: 10485760 # 書籍ダウンロード上限（10 MiB）
+  request_timeout: 60s
+  request_delay: 2s
+  refresh_existing: false
+
+# 論文ソース（PhilArchive / PhilPapers / arXiv）と
+# 書籍ソース（Wikipedia ja / SEP / Project Gutenberg）を 1 ファイルに統合する。
+# キーワードごとに sources で使うソースを選択する。
+sources:
+  - name: philarchive
+    enabled: true
+    type: html
+    base_url: https://philarchive.org
+    search_url: https://philarchive.org/s/{query}
+
+  - name: philpapers
+    enabled: false
+    type: html
+    base_url: https://philpapers.org
+    search_url: https://philpapers.org/s/{query}
+
+  - name: arxiv
+    enabled: true
+    type: api
+    base_url: https://export.arxiv.org/api/query
+    search_url: https://export.arxiv.org/api/query?search_query=all:{query}&start=0&max_results=50
+
+  - name: wikipedia_ja
+    enabled: true
+    type: wikipedia_api
+    base_url: https://ja.wikipedia.org
+    search_url: https://ja.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch={query}&gsrlimit=5&prop=extracts&explaintext=1&exlimit=max&format=json&formatversion=2
+
+  - name: sep
+    enabled: true
+    type: sep_html
+    base_url: https://plato.stanford.edu
+    search_url: https://plato.stanford.edu/search/searcher.py?query={query}
+
+  - name: gutenberg
+    enabled: true
+    type: gutenberg_api
+    base_url: https://gutendex.com
+    search_url: https://gutendex.com/books/?search={query}
+
+keywords:
+  # --- 古代（西洋）---
+  - name: プラトン
+    queries:
+      - Plato
+      - プラトン
+      - 国家 プラトン
+      - Plato Republic
+      - Plato Symposium
+    sources:
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 古代哲学
+      - イデア論
+      - 倫理学
+
+  - name: アリストテレス
+    queries:
+      - Aristotle
+      - アリストテレス
+      - ニコマコス倫理学
+      - Aristotle Nicomachean Ethics
+      - Aristotle Politics
+    sources:
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 古代哲学
+      - 倫理学
+      - 形而上学
+
+  # --- 近代（西洋）---
+  - name: デカルト
+    queries:
+      - René Descartes
+      - ルネ・デカルト
+      - 方法序説
+      - Descartes Meditations on First Philosophy
+    sources:
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 合理主義
+      - 認識論
+
+  - name: スピノザ
+    queries:
+      - Baruch Spinoza
+      - スピノザ
+      - エチカ スピノザ
+      - Spinoza Ethics
+    sources:
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 汎神論
+      - 倫理学
+
+  - name: カント
+    queries:
+      - Immanuel Kant
+      - イマヌエル・カント
+      - 純粋理性批判
+      - Critique of Pure Reason
+      - 実践理性批判
+      - Critique of Practical Reason
+    sources:
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 認識論
+      - 倫理学
+
+  - name: ヘーゲル
+    queries:
+      - Hegel
+      - ヘーゲル
+      - 精神現象学
+      - Hegel Phenomenology of Spirit
+    sources:
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 弁証法
+      - 観念論
+
+  - name: マルクス
+    queries:
+      - Karl Marx
+      - カール・マルクス
+      - 資本論
+      - Karl Marx Capital
+      - Communist Manifesto
+    sources:
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 社会思想
+      - 唯物論
+
+  - name: ニーチェ
+    queries:
+      - Friedrich Nietzsche
+      - フリードリヒ・ニーチェ
+      - ツァラトゥストラはこう語った
+      - Nietzsche Thus Spoke Zarathustra
+      - Nietzsche Beyond Good and Evil
+      - Nietzsche genealogy of morals
+      - Nietzsche will to power
+    sources:
+      - philarchive
+      - arxiv
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 近代哲学
+      - 実存主義
+      - ニヒリズム
+
+  # --- 現代（西洋）---
+  - name: ハンナ・アーレント
+    queries:
+      - Hannah Arendt
+      - ハンナ・アーレント
+      - Hannah Arendt totalitarianism
+      - Hannah Arendt The Human Condition
+      - 人間の条件 アーレント
+      - 全体主義の起源
+    sources:
+      - philarchive
+      - wikipedia_ja
+      - sep
+    tags:
+      - 政治哲学
+      - 現代哲学
+      - 全体主義
+
+  - name: ユング
+    queries:
+      - Carl Gustav Jung
+      - カール・グスタフ・ユング
+      - ユング 元型
+      - 集合的無意識
+    sources:
+      - philarchive
+      - philpapers
+      - arxiv
+      - wikipedia_ja
+      - sep
+    tags:
+      - 現代哲学
+      - 深層心理学
+      - 元型論
+
+  - name: ルカーチ・ジェルジュ
+    queries:
+      - György Lukács
+      - Georg Lukács
+      - ルカーチ・ジェルジュ
+      - Lukács reification
+      - Lukács History and Class Consciousness
+      - Lukács class consciousness
+      - Lukács totality
+      - Lukács Theory of the Novel
+      - Lukács Soul and Form
+    sources:
+      - philarchive
+      - arxiv
+      - wikipedia_ja
+      - sep
+      - gutenberg
+    tags:
+      - 現代哲学
+      - マルクス主義
+      - 西洋マルクス主義
+      - 物象化論
+
+  - name: リチャード・ローティ
+    queries:
+      - Richard Rorty
+      - Richard McKay Rorty
+      - リチャード・ローティ
+      - 哲学と自然の鏡
+      - Rorty Philosophy and the Mirror of Nature
+      - Rorty Contingency Irony and Solidarity
+      - Rorty neopragmatism
+      - Rorty anti-representationalism
+    sources:
+      - philarchive
+      - arxiv
+      - wikipedia_ja
+      - sep
+    tags:
+      - 現代哲学
+      - プラグマティズム
+      - ネオプラグマティズム
+      - 反表象主義

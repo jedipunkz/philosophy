@@ -223,7 +223,9 @@ func obsidianLinks(item Item) []string {
 
 	keyword := strings.TrimSpace(item.Keyword)
 	if keyword != "" {
-		add("研究動向", fmt.Sprintf("研究動向/%s-現代研究動向", keyword), fmt.Sprintf("%s-現代研究動向", keyword))
+		// notes/ は地域・時代でネストするため、Obsidian の basename 解決に任せて
+		// フォルダ接頭辞を付けない wiki link を出力する。
+		add("研究動向", fmt.Sprintf("%s-現代研究動向", keyword), "")
 		add("キーワード", keyword, "")
 	}
 	for _, tag := range item.Tags {
