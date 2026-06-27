@@ -23,13 +23,13 @@ func main() {
 
 func run() error {
 	if len(os.Args) < 2 {
-		return errors.New("usage: scrapem <run|watch|dedupe> --config research-scrape.yaml")
+		return errors.New("usage: scrapem <run|watch|dedupe> --config scrape.yaml")
 	}
 
 	switch os.Args[1] {
 	case "dedupe":
 		fs := flag.NewFlagSet("dedupe", flag.ExitOnError)
-		configPath := fs.String("config", "research-scrape.yaml", "path to scrape config yaml")
+		configPath := fs.String("config", "scrape.yaml", "path to scrape config yaml")
 		dryRun := fs.Bool("dry-run", false, "log actions without removing files")
 		if err := fs.Parse(os.Args[2:]); err != nil {
 			return err
@@ -42,7 +42,7 @@ func run() error {
 
 	case "run":
 		fs := flag.NewFlagSet("run", flag.ExitOnError)
-		configPath := fs.String("config", "research-scrape.yaml", "path to scrape config yaml")
+		configPath := fs.String("config", "scrape.yaml", "path to scrape config yaml")
 		maxDuration := fs.Duration("max-duration", 0, "stop the run cleanly after this duration")
 		if err := fs.Parse(os.Args[2:]); err != nil {
 			return err
@@ -71,7 +71,7 @@ func run() error {
 
 	case "watch":
 		fs := flag.NewFlagSet("watch", flag.ExitOnError)
-		configPath := fs.String("config", "research-scrape.yaml", "path to scrape config yaml")
+		configPath := fs.String("config", "scrape.yaml", "path to scrape config yaml")
 		if err := fs.Parse(os.Args[2:]); err != nil {
 			return err
 		}

@@ -70,7 +70,7 @@ func Load(path string) (Config, error) {
 		cfg.Vault.Inbox = "inbox"
 	}
 	if cfg.Vault.SeenFile == "" {
-		cfg.Vault.SeenFile = "seen-research-urls.json"
+		cfg.Vault.SeenFile = "seen-urls.json"
 	}
 	if cfg.Scrape.Interval == "" {
 		cfg.Scrape.Interval = "24h"

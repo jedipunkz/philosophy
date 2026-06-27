@@ -14,13 +14,17 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 50
+    env:
+      SCRAPEM_VAULT_ROOT: ${{ github.workspace }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
+          persist-credentials: true
 
       - uses: actions/setup-go@v5
         with:
@@ -30,107 +34,20 @@ jobs:
       - name: Build scraper
         run: go build -o bin/scrapem ./cmd/scrapem
 
-      - uses: actions/upload-artifact@v4
-        with:
-          name: scrapem-binary
-          path: bin/scrapem
-
-  scrape-research:
-    needs: build
-    runs-on: ubuntu-latest
-    timeout-minutes: 45
-    env:
-      SCRAPEM_VAULT_ROOT: ${{ github.workspace }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - uses: actions/download-artifact@v4
-        with:
-          name: scrapem-binary
-          path: bin/
-
-      - run: chmod +x bin/scrapem
-
       - name: Install pdftotext (poppler)
         run: sudo apt-get update && sudo apt-get install -y --no-install-recommends poppler-utils
 
-      - name: Run research scraper
+      - name: Run scraper
         run: |
           set -euo pipefail
-          ./bin/scrapem run --config research-scrape.yaml --max-duration 38m || {
-            echo "::warning::Research scraper failed; continuing so scheduled CI stays green."
+          ./bin/scrapem run --config scrape.yaml --max-duration 40m || {
+            echo "::warning::Scraper failed; continuing so scheduled CI stays green."
           }
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: research-changes
-          path: |
-            research-inbox/
-            .scrapem/seen-research-urls.json
-          if-no-files-found: ignore
-
-  scrape-book:
-    needs: build
-    runs-on: ubuntu-latest
-    timeout-minutes: 45
-    env:
-      SCRAPEM_VAULT_ROOT: ${{ github.workspace }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - uses: actions/download-artifact@v4
-        with:
-          name: scrapem-binary
-          path: bin/
-
-      - run: chmod +x bin/scrapem
-
-      - name: Run book scraper
-        run: |
-          set -euo pipefail
-          ./bin/scrapem run --config book-scrape.yaml --max-duration 38m || {
-            echo "::warning::Book scraper failed; continuing so scheduled CI stays green."
-          }
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: book-changes
-          path: |
-            book-inbox/
-            .scrapem/seen-book-urls.json
-          if-no-files-found: ignore
-
-  push:
-    needs: [scrape-research, scrape-book]
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
-          persist-credentials: true
-
-      - uses: actions/download-artifact@v4
-        with:
-          name: research-changes
-          path: .
-        continue-on-error: true
-
-      - uses: actions/download-artifact@v4
-        with:
-          name: book-changes
-          path: .
-        continue-on-error: true
 
       - name: Commit and push changes
         run: |
           set -euo pipefail
-          paths=(research-inbox book-inbox .scrapem/seen-research-urls.json .scrapem/seen-book-urls.json)
+          paths=(inbox .scrapem/seen-urls.json)
           if [[ -z "$(git status --porcelain -- "${paths[@]}")" ]]; then
             echo "No inbox changes to commit."
             exit 0

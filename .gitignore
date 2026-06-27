@@ -1,5 +1,4 @@
 .scrapem/*
-!.scrapem/seen-research-urls.json
-!.scrapem/seen-book-urls.json
+!.scrapem/seen-urls.json
 bin/
 /scrapem
