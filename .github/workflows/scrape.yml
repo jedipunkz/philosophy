@@ -56,11 +56,18 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- "${paths[@]}"
           git commit -m "chore: scheduled scrape update"
-          git pull --rebase origin main || {
-            echo "::warning::Could not rebase scrape changes onto main; skipping push."
-            exit 0
-          }
-          git push origin HEAD:main || {
-            echo "::warning::Could not push scrape changes; skipping."
-            exit 0
-          }
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || {
+              echo "::warning::Could not rebase scrape changes onto main; skipping push."
+              exit 0
+            }
+            if git push origin HEAD:main; then
+              exit 0
+            elif [[ $attempt -lt 3 ]]; then
+              echo "Push failed (attempt ${attempt}/3), retrying..."
+              sleep $((attempt * 5))
+            else
+              echo "::warning::Push failed after 3 attempts; skipping to keep scheduled CI green."
+              exit 0
+            fi
+          done
