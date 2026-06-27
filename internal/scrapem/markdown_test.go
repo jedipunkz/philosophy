@@ -20,7 +20,7 @@ func TestRenderMarkdownAddsObsidianLinks(t *testing.T) {
 
 	want := []string{
 		"## Obsidian Links",
-		"- 研究動向: [[研究動向/ユング-現代研究動向|ユング-現代研究動向]]",
+		"- 研究動向: [[ユング-現代研究動向]]",
 		"- キーワード: [[ユング]]",
 		"- 関連分野: [[現代思想]]",
 		"- 関連分野: [[分析 心理学]]",

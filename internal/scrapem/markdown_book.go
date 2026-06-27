@@ -95,6 +95,7 @@ func writeBookObsidianLinks(b *strings.Builder, item Item) {
 		return
 	}
 	b.WriteString("\n## Obsidian Links\n\n")
+	// notes/ は地域・時代でネストするため basename での wiki link を使う。
 	fmt.Fprintf(b, "- キーワード: [[%s]]\n", keyword)
-	fmt.Fprintf(b, "- 書籍: [[書籍/%s]]\n", keyword)
+	fmt.Fprintf(b, "- 研究動向: [[%s-現代研究動向]]\n", keyword)
 }
