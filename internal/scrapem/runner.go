@@ -205,6 +205,18 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 				log.Printf("skipping %s item with no text url=%s", source.Type, item.URL)
 				continue
 			}
+			// Skip paper items (crossref / arXiv) that carry no usable body:
+			// no abstract, no extractable PDF text, and no detail text. These
+			// otherwise produce inbox notes with only bibliographic metadata
+			// and a "要旨は含まれていない" placeholder, which are not worth
+			// reviewing.
+			if !isBookSource &&
+				strings.TrimSpace(item.Abstract) == "" &&
+				strings.TrimSpace(item.PDFText) == "" &&
+				strings.TrimSpace(item.DetailText) == "" {
+				log.Printf("skipping %s item with no abstract, pdf, or detail text url=%s", source.Type, item.URL)
+				continue
+			}
 
 			item.Keyword = sq.keyword.Name
 			item.Query = sq.query
