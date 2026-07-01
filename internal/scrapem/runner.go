@@ -164,26 +164,26 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 
 			switch source.Type {
 			case "gutenberg_api":
-				if err := r.enrichBookText(ctx, &item); err != nil {
+				if err := r.enrichBookText(ctx, &item, source); err != nil {
 					log.Printf("gutenberg text fetch failed url=%s text=%s: %v", item.URL, item.PlainTextURL, err)
 				}
 			case "sep_html":
-				if err := r.enrichSEP(ctx, &item); err != nil {
+				if err := r.enrichSEP(ctx, &item, source); err != nil {
 					log.Printf("sep entry fetch failed url=%s: %v", item.URL, err)
 				}
 			case "wikipedia_api":
-				if err := r.enrichWikipediaText(ctx, &item); err != nil {
+				if err := r.enrichWikipediaText(ctx, &item, source); err != nil {
 					log.Printf("wikipedia text fetch failed url=%s: %v", item.URL, err)
 				}
 			case "api":
 				// arxiv etc — no detail fetch
 			default:
-				if err := r.enrich(ctx, &item); err != nil {
+				if err := r.enrich(ctx, &item, source); err != nil {
 					log.Printf("detail fetch failed url=%s: %v", item.URL, err)
 				}
 			}
 			if !isBookSource {
-				if err := r.enrichPDF(ctx, &item); err != nil {
+				if err := r.enrichPDF(ctx, &item, source); err != nil {
 					log.Printf("pdf fetch failed url=%s pdf=%s: %v", item.URL, item.PDF, err)
 				}
 			}
@@ -244,6 +244,15 @@ func (r *Runner) maxNewItemsReached(mu *sync.Mutex, total *int) bool {
 	return *total >= r.cfg.Scrape.MaxNewItems
 }
 
+// userAgentFor returns the source's user_agent override when set, falling
+// back to the global scrape.user_agent otherwise.
+func (r *Runner) userAgentFor(source config.SourceConfig) string {
+	if source.UserAgent != "" {
+		return source.UserAgent
+	}
+	return r.cfg.Scrape.UserAgent
+}
+
 func (r *Runner) search(ctx context.Context, source config.SourceConfig, query string) ([]Item, error) {
 	if err := r.wait(ctx); err != nil {
 		return nil, err
@@ -253,7 +262,7 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 	if err != nil {
 		return nil, err
 	}
-	req.Header.Set("User-Agent", r.cfg.Scrape.UserAgent)
+	req.Header.Set("User-Agent", r.userAgentFor(source))
 	if source.Type == "api" {
 		req.Header.Set("Accept", "application/atom+xml,application/xml;q=0.9,*/*;q=0.8")
 	} else {
@@ -288,7 +297,7 @@ func isBookSourceType(t string) bool {
 	return false
 }
 
-func (r *Runner) enrich(ctx context.Context, item *Item) error {
+func (r *Runner) enrich(ctx context.Context, item *Item, source config.SourceConfig) error {
 	if err := r.wait(ctx); err != nil {
 		return err
 	}
@@ -296,7 +305,7 @@ func (r *Runner) enrich(ctx context.Context, item *Item) error {
 	if err != nil {
 		return err
 	}
-	req.Header.Set("User-Agent", r.cfg.Scrape.UserAgent)
+	req.Header.Set("User-Agent", r.userAgentFor(source))
 	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
 
 	resp, err := r.doRequest(ctx, req)

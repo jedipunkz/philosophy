@@ -13,6 +13,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/jedipunkz/philosophy/internal/config"
 	"github.com/ledongthuc/pdf"
 )
 
@@ -48,7 +49,7 @@ var nonPDFExtensions = map[string]struct{}{
 	".htm":  {},
 }
 
-func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
+func (r *Runner) enrichPDF(ctx context.Context, item *Item, source config.SourceConfig) error {
 	if item.PDF == "" {
 		return nil
 	}
@@ -65,7 +66,7 @@ func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 	if err != nil {
 		return err
 	}
-	req.Header.Set("User-Agent", r.cfg.Scrape.UserAgent)
+	req.Header.Set("User-Agent", r.userAgentFor(source))
 	req.Header.Set("Accept", "application/pdf,*/*;q=0.8")
 
 	resp, err := r.doRequest(ctx, req)

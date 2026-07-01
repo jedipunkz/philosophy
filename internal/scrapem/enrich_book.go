@@ -10,6 +10,8 @@ import (
 	"net/url"
 	"regexp"
 	"strings"
+
+	"github.com/jedipunkz/philosophy/internal/config"
 )
 
 var (
@@ -29,7 +31,7 @@ var (
 // enrichWikipediaText makes a per-page API request to fetch the full plain-text
 // extract for a Wikipedia article. The generator=search API response often
 // returns empty or truncated extracts, so a secondary per-page fetch is needed.
-func (r *Runner) enrichWikipediaText(ctx context.Context, item *Item) error {
+func (r *Runner) enrichWikipediaText(ctx context.Context, item *Item, source config.SourceConfig) error {
 	if item.URL == "" {
 		return nil
 	}
@@ -45,7 +47,7 @@ func (r *Runner) enrichWikipediaText(ctx context.Context, item *Item) error {
 	titleDecoded, _ := url.PathUnescape(title)
 	apiURL := fmt.Sprintf("%s://%s/w/api.php?action=query&titles=%s&prop=extracts&explaintext=1&format=json&formatversion=2",
 		u.Scheme, u.Host, url.QueryEscape(titleDecoded))
-	body, err := r.fetchBodyWithLimit(ctx, apiURL, "application/json,*/*;q=0.8")
+	body, err := r.fetchBodyWithLimit(ctx, apiURL, "application/json,*/*;q=0.8", source)
 	if err != nil {
 		return err
 	}
@@ -66,11 +68,11 @@ func (r *Runner) enrichWikipediaText(ctx context.Context, item *Item) error {
 // enrichBookText fetches the plain-text body of a Project Gutenberg book and
 // stores it on the item. Truncation by MaxBookChars is applied later in the
 // runner so it is uniform across sources.
-func (r *Runner) enrichBookText(ctx context.Context, item *Item) error {
+func (r *Runner) enrichBookText(ctx context.Context, item *Item, source config.SourceConfig) error {
 	if item.PlainTextURL == "" {
 		return nil
 	}
-	body, err := r.fetchBodyWithLimit(ctx, item.PlainTextURL, "text/plain,*/*;q=0.8")
+	body, err := r.fetchBodyWithLimit(ctx, item.PlainTextURL, "text/plain,*/*;q=0.8", source)
 	if err != nil {
 		return err
 	}
@@ -80,11 +82,11 @@ func (r *Runner) enrichBookText(ctx context.Context, item *Item) error {
 
 // enrichSEP fetches an SEP entry page, sets the title from <h1>, and stores the
 // main body text on the item.
-func (r *Runner) enrichSEP(ctx context.Context, item *Item) error {
+func (r *Runner) enrichSEP(ctx context.Context, item *Item, source config.SourceConfig) error {
 	if item.URL == "" {
 		return nil
 	}
-	body, err := r.fetchBodyWithLimit(ctx, item.URL, "text/html,*/*;q=0.8")
+	body, err := r.fetchBodyWithLimit(ctx, item.URL, "text/html,*/*;q=0.8", source)
 	if err != nil {
 		return err
 	}
@@ -99,7 +101,7 @@ func (r *Runner) enrichSEP(ctx context.Context, item *Item) error {
 // fetchBodyWithLimit performs a GET with a body-size cap derived from
 // MaxBookBytes. The cap is enforced both by Content-Length (when present) and
 // by a LimitReader on the body itself.
-func (r *Runner) fetchBodyWithLimit(ctx context.Context, target, accept string) ([]byte, error) {
+func (r *Runner) fetchBodyWithLimit(ctx context.Context, target, accept string, source config.SourceConfig) ([]byte, error) {
 	if err := r.wait(ctx); err != nil {
 		return nil, err
 	}
@@ -107,7 +109,7 @@ func (r *Runner) fetchBodyWithLimit(ctx context.Context, target, accept string) 
 	if err != nil {
 		return nil, err
 	}
-	req.Header.Set("User-Agent", r.cfg.Scrape.UserAgent)
+	req.Header.Set("User-Agent", r.userAgentFor(source))
 	req.Header.Set("Accept", accept)
 
 	resp, err := r.doRequest(ctx, req)
