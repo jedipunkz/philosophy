@@ -3,6 +3,7 @@ package scrapem
 import (
 	"encoding/json"
 	"io"
+	"math"
 	"strconv"
 	"strings"
 )
@@ -32,24 +33,50 @@ type archiveFile struct {
 }
 
 // stringOrSlice unmarshals a JSON field that Internet Archive's search API
-// inconsistently returns as either a single string or an array of strings
-// (e.g. "creator" is a string for single-author items, an array otherwise).
+// inconsistently represents: a bare string or number for a single value
+// (e.g. "creator": "Plato", "year": 1902), an array for multiple values, or
+// a mix of strings and numbers within that array.
 type stringOrSlice []string
 
 func (s *stringOrSlice) UnmarshalJSON(data []byte) error {
-	var single string
-	if err := json.Unmarshal(data, &single); err == nil {
-		if single != "" {
-			*s = []string{single}
-		}
-		return nil
-	}
-	var multi []string
-	if err := json.Unmarshal(data, &multi); err != nil {
+	var raw interface{}
+	if err := json.Unmarshal(data, &raw); err != nil {
 		return err
 	}
-	*s = multi
+	*s = flattenToStrings(raw)
 	return nil
+}
+
+func flattenToStrings(raw interface{}) stringOrSlice {
+	switch v := raw.(type) {
+	case nil:
+		return nil
+	case string:
+		if v == "" {
+			return nil
+		}
+		return stringOrSlice{v}
+	case float64:
+		return stringOrSlice{formatJSONNumber(v)}
+	case []interface{}:
+		out := make(stringOrSlice, 0, len(v))
+		for _, elem := range v {
+			out = append(out, flattenToStrings(elem)...)
+		}
+		return out
+	default:
+		return nil
+	}
+}
+
+// formatJSONNumber renders a JSON number (decoded as float64) the way it
+// most likely appeared in the source document: as an integer when it has no
+// fractional part (true for identifiers like publication years).
+func formatJSONNumber(f float64) string {
+	if f == math.Trunc(f) {
+		return strconv.FormatInt(int64(f), 10)
+	}
+	return strconv.FormatFloat(f, 'f', -1, 64)
 }
 
 func (s stringOrSlice) first() string {
