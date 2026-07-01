@@ -68,14 +68,11 @@ func (r *Runner) enrichPDF(ctx context.Context, item *Item) error {
 	req.Header.Set("User-Agent", r.cfg.Scrape.UserAgent)
 	req.Header.Set("Accept", "application/pdf,*/*;q=0.8")
 
-	resp, err := r.client.Do(req)
+	resp, err := r.doRequest(ctx, req)
 	if err != nil {
 		return err
 	}
 	defer resp.Body.Close()
-	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		return fmt.Errorf("unexpected status %s", resp.Status)
-	}
 	if ct := resp.Header.Get("Content-Type"); ct != "" && !isPDFContentType(ct) {
 		return fmt.Errorf("skipping non-pdf content-type %q", ct)
 	}

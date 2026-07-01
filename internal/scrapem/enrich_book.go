@@ -110,14 +110,11 @@ func (r *Runner) fetchBodyWithLimit(ctx context.Context, target, accept string) 
 	req.Header.Set("User-Agent", r.cfg.Scrape.UserAgent)
 	req.Header.Set("Accept", accept)
 
-	resp, err := r.client.Do(req)
+	resp, err := r.doRequest(ctx, req)
 	if err != nil {
 		return nil, err
 	}
 	defer resp.Body.Close()
-	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		return nil, fmt.Errorf("unexpected status %s", resp.Status)
-	}
 	if r.cfg.Scrape.MaxBookBytes > 0 && resp.ContentLength > r.cfg.Scrape.MaxBookBytes {
 		return nil, fmt.Errorf("body too large: %d bytes", resp.ContentLength)
 	}
