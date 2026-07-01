@@ -194,10 +194,15 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 			if item.BookText != "" {
 				item.BookText, item.BookTextTruncated = truncateRunes(item.BookText, r.cfg.Scrape.MaxBookChars)
 			}
-			// Skip Wikipedia articles that yielded no extractable text
-			// (disambiguation pages, stubs, unrelated matches).
-			if source.Type == "wikipedia_api" && item.BookText == "" {
-				log.Printf("skipping wikipedia item with no text url=%s", item.URL)
+			// Skip book items that yielded no extractable text: Wikipedia
+			// disambiguation pages/stubs, and Internet Archive items that are
+			// either access-restricted (lending-only) or have no OCR text
+			// derivative. A book note with no body is not useful, and
+			// archive.org's full-text search often matches irrelevant items
+			// (court filings, magazines, unrelated works) that also tend to
+			// lack usable text.
+			if (source.Type == "wikipedia_api" || source.Type == "archive_api") && item.BookText == "" {
+				log.Printf("skipping %s item with no text url=%s", source.Type, item.URL)
 				continue
 			}
 
@@ -288,7 +293,7 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 	case "crossref_api":
 		return parseCrossrefResults(resp.Body)
 	case "archive_api":
-		return parseArchiveResults(resp.Body)
+		return parseArchiveResults(resp.Body, source.BaseURL)
 	case "gutenberg_api":
 		return parseGutenbergResults(resp.Body)
 	case "wikipedia_api":
