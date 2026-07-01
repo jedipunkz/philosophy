@@ -40,6 +40,9 @@ type SourceConfig struct {
 	Type      string `yaml:"type"`
 	BaseURL   string `yaml:"base_url"`
 	SearchURL string `yaml:"search_url"`
+	// UserAgent overrides scrape.user_agent for this source only. Empty means
+	// fall back to the global default.
+	UserAgent string `yaml:"user_agent"`
 }
 
 type KeywordConfig struct {

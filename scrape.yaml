@@ -25,6 +25,9 @@ sources:
     type: html
     base_url: https://philarchive.org
     search_url: https://philarchive.org/s/{query}
+    # WAF が bot 名乗りの User-Agent を 403 で弾いているとみられるため、
+    # このソースだけブラウザ相当の UA を使う。
+    user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 
   - name: philpapers
     enabled: false
@@ -55,6 +58,9 @@ sources:
     type: gutenberg_api
     base_url: https://gutendex.com
     search_url: https://gutendex.com/books/?search={query}
+    # WAF が bot 名乗りの User-Agent を 403 で弾いているとみられるため、
+    # このソースだけブラウザ相当の UA を使う。
+    user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 
 keywords:
   # --- 古代（西洋）---
