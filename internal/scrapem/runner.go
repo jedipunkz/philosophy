@@ -8,11 +8,22 @@ import (
 	"net/url"
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"sync"
 	"time"
 
 	"github.com/jedipunkz/philosophy/internal/config"
+)
+
+// Retry tuning for transient upstream failures (429/5xx). 403 is deliberately
+// excluded: in practice it has meant a durable WAF/IP-reputation block on the
+// CI runner's IP range rather than a transient condition, so retrying it just
+// burns the run's time budget without changing the outcome.
+const (
+	maxRetryAttempts = 3
+	baseRetryDelay   = 3 * time.Second
+	maxRetryDelay    = 30 * time.Second
 )
 
 type sourceQuery struct {
@@ -249,14 +260,11 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 		req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
 	}
 
-	resp, err := r.client.Do(req)
+	resp, err := r.doRequest(ctx, req)
 	if err != nil {
 		return nil, err
 	}
 	defer resp.Body.Close()
-	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		return nil, fmt.Errorf("unexpected status %s", resp.Status)
-	}
 
 	switch source.Type {
 	case "api":
@@ -291,14 +299,11 @@ func (r *Runner) enrich(ctx context.Context, item *Item) error {
 	req.Header.Set("User-Agent", r.cfg.Scrape.UserAgent)
 	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
 
-	resp, err := r.client.Do(req)
+	resp, err := r.doRequest(ctx, req)
 	if err != nil {
 		return err
 	}
 	defer resp.Body.Close()
-	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		return fmt.Errorf("unexpected status %s", resp.Status)
-	}
 
 	detail, err := parseDetail(resp.Body, resp.Request.URL)
 	if err != nil {
@@ -309,10 +314,14 @@ func (r *Runner) enrich(ctx context.Context, item *Item) error {
 }
 
 func (r *Runner) wait(ctx context.Context) error {
-	if r.requestDelay <= 0 {
+	return r.sleepFor(ctx, r.requestDelay)
+}
+
+func (r *Runner) sleepFor(ctx context.Context, d time.Duration) error {
+	if d <= 0 {
 		return nil
 	}
-	timer := time.NewTimer(r.requestDelay)
+	timer := time.NewTimer(d)
 	defer timer.Stop()
 	select {
 	case <-ctx.Done():
@@ -320,6 +329,65 @@ func (r *Runner) wait(ctx context.Context) error {
 	case <-timer.C:
 		return nil
 	}
+}
+
+// doRequest executes req, retrying on 429 and 5xx responses (honoring a
+// Retry-After header when the upstream sends one) up to maxRetryAttempts
+// times. Any other non-2xx status, including 403, is returned immediately
+// without retry. req.Body must be nil (true for every caller in this
+// package, which only issue GET requests) since a retried request is reused
+// as-is.
+func (r *Runner) doRequest(ctx context.Context, req *http.Request) (*http.Response, error) {
+	for attempt := 0; ; attempt++ {
+		resp, err := r.client.Do(req)
+		if err != nil {
+			return nil, err
+		}
+		if resp.StatusCode >= 200 && resp.StatusCode < 300 {
+			return resp, nil
+		}
+		if !isRetryableStatus(resp.StatusCode) || attempt >= maxRetryAttempts {
+			status := resp.Status
+			resp.Body.Close()
+			return nil, fmt.Errorf("unexpected status %s", status)
+		}
+		delay := retryDelay(resp, attempt)
+		status := resp.Status
+		resp.Body.Close()
+		log.Printf("retrying request url=%s status=%s attempt=%d/%d delay=%s", req.URL, status, attempt+1, maxRetryAttempts, delay)
+		if err := r.sleepFor(ctx, delay); err != nil {
+			return nil, err
+		}
+	}
+}
+
+func isRetryableStatus(code int) bool {
+	return code == http.StatusTooManyRequests || (code >= 500 && code < 600)
+}
+
+// retryDelay honors the Retry-After response header (either delta-seconds or
+// an HTTP-date) when present, falling back to exponential backoff from
+// baseRetryDelay. The result is capped at maxRetryDelay so a misbehaving
+// upstream can't stall the run past its --max-duration budget.
+func retryDelay(resp *http.Response, attempt int) time.Duration {
+	if ra := strings.TrimSpace(resp.Header.Get("Retry-After")); ra != "" {
+		if secs, err := strconv.Atoi(ra); err == nil && secs >= 0 {
+			return capDelay(time.Duration(secs) * time.Second)
+		}
+		if when, err := http.ParseTime(ra); err == nil {
+			if d := time.Until(when); d > 0 {
+				return capDelay(d)
+			}
+		}
+	}
+	return capDelay(baseRetryDelay * time.Duration(1<<attempt))
+}
+
+func capDelay(d time.Duration) time.Duration {
+	if d > maxRetryDelay {
+		return maxRetryDelay
+	}
+	return d
 }
 
 func mergeDetail(item *Item, detail Item) {
