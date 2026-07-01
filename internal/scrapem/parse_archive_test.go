@@ -31,7 +31,7 @@ func TestParseArchiveResults(t *testing.T) {
 		}
 	}`
 
-	items, err := parseArchiveResults(strings.NewReader(body))
+	items, err := parseArchiveResults(strings.NewReader(body), "https://archive.org")
 	if err != nil {
 		t.Fatalf("parseArchiveResults returned error: %v", err)
 	}
@@ -94,7 +94,7 @@ func TestParseArchiveResultsHandlesNumericYear(t *testing.T) {
 		}
 	}`
 
-	items, err := parseArchiveResults(strings.NewReader(body))
+	items, err := parseArchiveResults(strings.NewReader(body), "https://archive.org")
 	if err != nil {
 		t.Fatalf("parseArchiveResults returned error: %v", err)
 	}

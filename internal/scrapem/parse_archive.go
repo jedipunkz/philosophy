@@ -118,11 +118,12 @@ func (b *looseBool) UnmarshalJSON(data []byte) error {
 // book Items. Full text is not fetched here — enrichArchiveText does a
 // separate /metadata/{identifier} lookup to find a downloadable plain-text
 // rendition, mirroring the search+detail split used for gutenberg/SEP.
-func parseArchiveResults(body io.Reader) ([]Item, error) {
+func parseArchiveResults(body io.Reader, baseURL string) ([]Item, error) {
 	var resp archiveSearchResponse
 	if err := json.NewDecoder(body).Decode(&resp); err != nil {
 		return nil, err
 	}
+	base := strings.TrimRight(baseURL, "/")
 	items := make([]Item, 0, len(resp.Response.Docs))
 	for _, d := range resp.Response.Docs {
 		title := strings.TrimSpace(d.Title.first())
@@ -132,7 +133,7 @@ func parseArchiveResults(body io.Reader) ([]Item, error) {
 		items = append(items, Item{
 			ItemType:     "book",
 			Title:        title,
-			URL:          "https://archive.org/details/" + d.Identifier,
+			URL:          base + "/details/" + d.Identifier,
 			Author:       d.Creator.join(", "),
 			Year:         d.Year.first(),
 			PublicDomain: !bool(d.AccessRestrictedItem),

@@ -114,7 +114,8 @@ func (r *Runner) enrichArchiveText(ctx context.Context, item *Item, source confi
 	if identifier == "" || identifier == u.Path {
 		return nil
 	}
-	metaBody, err := r.fetchBodyWithLimit(ctx, "https://archive.org/metadata/"+identifier, "application/json,*/*;q=0.8", source)
+	base := fmt.Sprintf("%s://%s", u.Scheme, u.Host)
+	metaBody, err := r.fetchBodyWithLimit(ctx, base+"/metadata/"+identifier, "application/json,*/*;q=0.8", source)
 	if err != nil {
 		return err
 	}
@@ -126,7 +127,7 @@ func (r *Runner) enrichArchiveText(ctx context.Context, item *Item, source confi
 	if filename == "" {
 		return nil
 	}
-	textURL := fmt.Sprintf("https://archive.org/download/%s/%s", identifier, filename)
+	textURL := fmt.Sprintf("%s/download/%s/%s", base, identifier, filename)
 	body, err := r.fetchBodyWithLimit(ctx, textURL, "text/plain,*/*;q=0.8", source)
 	if err != nil {
 		return err

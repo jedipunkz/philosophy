@@ -4,6 +4,9 @@ import (
 	"context"
 	"net/http"
 	"net/http/httptest"
+	"os"
+	"path/filepath"
+	"strings"
 	"testing"
 	"time"
 
@@ -129,5 +132,74 @@ func TestDoRequestGivesUpAfterMaxRetryAttempts(t *testing.T) {
 	}
 	if attempts != maxRetryAttempts+1 {
 		t.Fatalf("attempts = %d, want %d", attempts, maxRetryAttempts+1)
+	}
+}
+
+// TestRunSkipsArchiveItemsWithNoExtractableText exercises the full Run()
+// pipeline against a fake archive.org-shaped server. It reproduces the
+// production case where advancedsearch.php matches an item (public domain,
+// not access-restricted) that nonetheless has no OCR text derivative — this
+// previously produced an inbox note with an empty body (see e.g. the
+// "Carlton Plato Washington" court filing that matched a bare "Plato" query).
+func TestRunSkipsArchiveItemsWithNoExtractableText(t *testing.T) {
+	mux := http.NewServeMux()
+	mux.HandleFunc("/advancedsearch.php", func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Content-Type", "application/json")
+		w.Write([]byte(`{"response":{"docs":[
+			{"identifier":"no-text-item","title":"An Item With No OCR Text","creator":"Someone","year":1900,"access-restricted-item":false}
+		]}}`))
+	})
+	mux.HandleFunc("/metadata/no-text-item", func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Content-Type", "application/json")
+		w.Write([]byte(`{"files":[{"name":"no-text-item_meta.xml","format":"Metadata","size":"100"}]}`))
+	})
+	srv := httptest.NewServer(mux)
+	defer srv.Close()
+
+	vaultRoot := t.TempDir()
+	cfg := config.Config{
+		Vault: config.VaultConfig{Root: vaultRoot, Inbox: "inbox", SeenFile: "seen-urls.json"},
+		Scrape: config.ScrapeConfig{
+			UserAgent:      "test-agent",
+			RequestTimeout: "5s",
+			RequestDelay:   "0s",
+			MaxResults:     5,
+			MaxBookBytes:   10 << 20,
+			MaxBookChars:   100000,
+		},
+		Sources: []config.SourceConfig{
+			{
+				Name:      "archive",
+				Enabled:   true,
+				Type:      "archive_api",
+				BaseURL:   srv.URL,
+				SearchURL: srv.URL + "/advancedsearch.php?q={query}",
+			},
+		},
+		Keywords: []config.KeywordConfig{
+			{
+				Name:    "テスト",
+				Queries: []string{"Plato"},
+				Sources: []string{"archive"},
+			},
+		},
+	}
+
+	if err := New(cfg).Run(context.Background()); err != nil {
+		t.Fatalf("Run returned error: %v", err)
+	}
+
+	inbox := filepath.Join(vaultRoot, "inbox")
+	entries, err := os.ReadDir(inbox)
+	if err != nil {
+		if os.IsNotExist(err) {
+			return // no inbox dir at all is also an acceptable "wrote nothing"
+		}
+		t.Fatalf("ReadDir(inbox): %v", err)
+	}
+	for _, e := range entries {
+		if strings.HasSuffix(e.Name(), ".md") {
+			t.Errorf("expected no notes to be written for a textless item, found %s", e.Name())
+		}
 	}
 }
