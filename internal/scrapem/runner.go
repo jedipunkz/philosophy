@@ -167,6 +167,10 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 				if err := r.enrichBookText(ctx, &item, source); err != nil {
 					log.Printf("gutenberg text fetch failed url=%s text=%s: %v", item.URL, item.PlainTextURL, err)
 				}
+			case "archive_api":
+				if err := r.enrichArchiveText(ctx, &item, source); err != nil {
+					log.Printf("archive text fetch failed url=%s: %v", item.URL, err)
+				}
 			case "sep_html":
 				if err := r.enrichSEP(ctx, &item, source); err != nil {
 					log.Printf("sep entry fetch failed url=%s: %v", item.URL, err)
@@ -175,8 +179,8 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 				if err := r.enrichWikipediaText(ctx, &item, source); err != nil {
 					log.Printf("wikipedia text fetch failed url=%s: %v", item.URL, err)
 				}
-			case "api":
-				// arxiv etc — no detail fetch
+			case "api", "crossref_api":
+				// arxiv / crossref — search response already has full metadata, no detail fetch
 			default:
 				if err := r.enrich(ctx, &item, source); err != nil {
 					log.Printf("detail fetch failed url=%s: %v", item.URL, err)
@@ -263,9 +267,12 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 		return nil, err
 	}
 	req.Header.Set("User-Agent", r.userAgentFor(source))
-	if source.Type == "api" {
+	switch source.Type {
+	case "api":
 		req.Header.Set("Accept", "application/atom+xml,application/xml;q=0.9,*/*;q=0.8")
-	} else {
+	case "archive_api", "crossref_api":
+		req.Header.Set("Accept", "application/json,*/*;q=0.8")
+	default:
 		req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
 	}
 
@@ -278,6 +285,10 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 	switch source.Type {
 	case "api":
 		return parseArxivFeed(resp.Body)
+	case "crossref_api":
+		return parseCrossrefResults(resp.Body)
+	case "archive_api":
+		return parseArchiveResults(resp.Body)
 	case "gutenberg_api":
 		return parseGutenbergResults(resp.Body)
 	case "wikipedia_api":
@@ -291,7 +302,7 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 
 func isBookSourceType(t string) bool {
 	switch t {
-	case "gutenberg_api", "wikipedia_api", "sep_html":
+	case "gutenberg_api", "archive_api", "wikipedia_api", "sep_html":
 		return true
 	}
 	return false
