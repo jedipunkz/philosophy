@@ -16,24 +16,20 @@ scrape:
   request_delay: 4s   # arXiv は 3 秒以上の間隔を推奨。429 対策で 2s→4s に引き上げ
   refresh_existing: false
 
-# 論文ソース（PhilArchive / PhilPapers / arXiv）と
-# 書籍ソース（Wikipedia ja / SEP / Project Gutenberg）を 1 ファイルに統合する。
+# 論文ソース（Crossref / arXiv）と
+# 書籍ソース（Wikipedia ja / SEP / Internet Archive）を 1 ファイルに統合する。
 # キーワードごとに sources で使うソースを選択する。
+#
+# philarchive / gutenberg（gutendex.com）は robots.txt で ClaudeBot を名指しで
+# Disallow しており、Cloudflare 側でも GitHub Actions の IP レンジ自体を
+# ブロックしていた（User-Agent 変更でも解消せず）。ボット除外を明示している
+# サイトを回避策で突破するのは避け、Crossref / Internet Archive に置き換えた。
 sources:
-  - name: philarchive
+  - name: crossref
     enabled: true
-    type: html
-    base_url: https://philarchive.org
-    search_url: https://philarchive.org/s/{query}
-    # WAF が bot 名乗りの User-Agent を 403 で弾いているとみられるため、
-    # このソースだけブラウザ相当の UA を使う。
-    user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-
-  - name: philpapers
-    enabled: false
-    type: html
-    base_url: https://philpapers.org
-    search_url: https://philpapers.org/s/{query}
+    type: crossref_api
+    base_url: https://api.crossref.org
+    search_url: https://api.crossref.org/works?query={query}&rows=12
 
   - name: arxiv
     enabled: true
@@ -53,14 +49,11 @@ sources:
     base_url: https://plato.stanford.edu
     search_url: https://plato.stanford.edu/search/searcher.py?query={query}
 
-  - name: gutenberg
+  - name: archive
     enabled: true
-    type: gutenberg_api
-    base_url: https://gutendex.com
-    search_url: https://gutendex.com/books/?search={query}
-    # WAF が bot 名乗りの User-Agent を 403 で弾いているとみられるため、
-    # このソースだけブラウザ相当の UA を使う。
-    user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    type: archive_api
+    base_url: https://archive.org
+    search_url: https://archive.org/advancedsearch.php?q={query}+AND+mediatype%3Atexts&rows=12&output=json&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=year&fl[]=access-restricted-item
 
 keywords:
   # --- 古代（西洋）---
@@ -74,7 +67,7 @@ keywords:
     sources:
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 古代哲学
       - イデア論
@@ -90,7 +83,7 @@ keywords:
     sources:
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 古代哲学
       - 倫理学
@@ -106,7 +99,7 @@ keywords:
     sources:
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 近代哲学
       - 合理主義
@@ -121,7 +114,7 @@ keywords:
     sources:
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 近代哲学
       - 汎神論
@@ -138,7 +131,7 @@ keywords:
     sources:
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 近代哲学
       - 認識論
@@ -153,7 +146,7 @@ keywords:
     sources:
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 近代哲学
       - 弁証法
@@ -169,7 +162,7 @@ keywords:
     sources:
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 近代哲学
       - 社会思想
@@ -185,11 +178,11 @@ keywords:
       - Nietzsche genealogy of morals
       - Nietzsche will to power
     sources:
-      - philarchive
+      - crossref
       - arxiv
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 近代哲学
       - 実存主義
@@ -205,7 +198,7 @@ keywords:
       - 人間の条件 アーレント
       - 全体主義の起源
     sources:
-      - philarchive
+      - crossref
       - wikipedia_ja
       - sep
     tags:
@@ -220,8 +213,7 @@ keywords:
       - ユング 元型
       - 集合的無意識
     sources:
-      - philarchive
-      - philpapers
+      - crossref
       - arxiv
       - wikipedia_ja
       - sep
@@ -242,11 +234,11 @@ keywords:
       - Lukács Theory of the Novel
       - Lukács Soul and Form
     sources:
-      - philarchive
+      - crossref
       - arxiv
       - wikipedia_ja
       - sep
-      - gutenberg
+      - archive
     tags:
       - 現代哲学
       - マルクス主義
@@ -264,7 +256,7 @@ keywords:
       - Rorty neopragmatism
       - Rorty anti-representationalism
     sources:
-      - philarchive
+      - crossref
       - arxiv
       - wikipedia_ja
       - sep

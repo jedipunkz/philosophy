@@ -36,7 +36,7 @@ processed_to: "notes/<反映先ファイル>.md"
 
 ### 論文素材（`capture_tool: scrapem`）
 
-- PhilArchive / PhilPapers / arXiv 由来。`source`、`citation`、`BibTeX` がある場合は正式ノートの末尾または参照節に出典として反映する
+- Crossref / arXiv 由来。`source`、`citation`、`BibTeX` がある場合は正式ノートの末尾または参照節に出典として反映する
 - PDF本文は `## PDF Text` に入るが、抽出ノイズがあるため、必ず Abstract / Citation / 既存ノートと照合して使う
 - 論文素材から再構成するノートは原則 `種別: 研究動向`（著者ごとの研究動向ノート）にまとめる
 
@@ -45,9 +45,9 @@ processed_to: "notes/<反映先ファイル>.md"
 - `## Full Text` セクションに本文が入る。ソースごとに性質が異なる:
   - **Wikipedia ja** (`source_name: wikipedia_ja`): 日本語の記事 extract。現代著者対応
   - **SEP** (`source_name: sep`): 英語の学術的長文記事
-  - **Gutenberg** (`source_name: gutenberg`): 英訳フルテキスト。`public_domain: true` フラグあり
+  - **Internet Archive** (`source_name: archive`): OCR 本文（`_djvu.txt`）。`public_domain: true` フラグは `access-restricted-item` が false の場合のみ立つ
 - `max_book_chars` 上限で truncate された場合は `book_text_truncated: true` が立つ
-- 取得元 URL は `source`、Gutenberg 由来は `plain_text_url` / `gutenberg_url` も参照する
+- 取得元 URL は `source`、Internet Archive / Gutenberg 由来は `plain_text_url` も参照する（`gutenberg_url` は過去分のみ）
 - 著作権が切れていない書籍（`public_domain` フィールドなし）は書誌情報・概要のみ利用し、本文は引用しない
 - 書籍素材から再構成するノートは原則 `種別: 書籍` にする
 
@@ -69,7 +69,8 @@ processed_to: "notes/<反映先ファイル>.md"
 
 ## スクレイパー運用
 
-- 設定ファイル: `scrape.yaml`（論文＋書籍を一本化。PhilArchive / PhilPapers / arXiv / Wikipedia ja / SEP / Project Gutenberg）
+- 設定ファイル: `scrape.yaml`（論文＋書籍を一本化。Crossref / arXiv / Wikipedia ja / SEP / Internet Archive）
+  - PhilArchive / PhilPapers / gutendex.com（Gutenberg のサードパーティ API）は robots.txt で ClaudeBot を名指しで Disallow しており、Cloudflare 側で GitHub Actions の IP レンジもブロックされていたため使用を停止した
 - 単発実行: `scripts/scrape.sh`
 - 定期実行: `docker compose up -d scheduler`
 - 対象著者・著作は `scrape.yaml` の `keywords:` セクションで管理する。著者ごとに `sources` で使うソースを選ぶ

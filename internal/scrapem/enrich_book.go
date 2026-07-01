@@ -98,6 +98,50 @@ func (r *Runner) enrichSEP(ctx context.Context, item *Item, source config.Source
 	return nil
 }
 
+// enrichArchiveText resolves an Internet Archive item's plain-text rendition
+// via the /metadata/{identifier} endpoint and fetches it. Access-restricted
+// items (lending-only, no public full text) are skipped without error since
+// bibliographic metadata from the search step is still usable on its own.
+func (r *Runner) enrichArchiveText(ctx context.Context, item *Item, source config.SourceConfig) error {
+	if !item.PublicDomain {
+		return nil
+	}
+	u, err := url.Parse(item.URL)
+	if err != nil {
+		return err
+	}
+	identifier := strings.TrimPrefix(u.Path, "/details/")
+	if identifier == "" || identifier == u.Path {
+		return nil
+	}
+	metaBody, err := r.fetchBodyWithLimit(ctx, "https://archive.org/metadata/"+identifier, "application/json,*/*;q=0.8", source)
+	if err != nil {
+		return err
+	}
+	var meta archiveMetadataResponse
+	if err := json.Unmarshal(metaBody, &meta); err != nil {
+		return err
+	}
+	filename := pickArchiveTextFile(meta.Files)
+	if filename == "" {
+		return nil
+	}
+	textURL := fmt.Sprintf("https://archive.org/download/%s/%s", identifier, filename)
+	body, err := r.fetchBodyWithLimit(ctx, textURL, "text/plain,*/*;q=0.8", source)
+	if err != nil {
+		return err
+	}
+	item.PlainTextURL = textURL
+	item.BookText = cleanArchiveText(string(body))
+	return nil
+}
+
+// cleanArchiveText normalizes whitespace in Internet Archive OCR text
+// (no license header/footer to strip, unlike Gutenberg).
+func cleanArchiveText(input string) string {
+	return collapseBlankLines(strings.ReplaceAll(input, "\r\n", "\n"))
+}
+
 // fetchBodyWithLimit performs a GET with a body-size cap derived from
 // MaxBookBytes. The cap is enforced both by Content-Length (when present) and
 // by a LimitReader on the body itself.
@@ -142,6 +186,12 @@ func cleanGutenbergText(input string) string {
 		input = input[:loc[0]]
 	}
 	input = pdfHyphenBreakRe.ReplaceAllString(input, "$1$2")
+	return collapseBlankLines(input)
+}
+
+// collapseBlankLines trims trailing whitespace from each line and collapses
+// runs of blank lines to a single blank line.
+func collapseBlankLines(input string) string {
 	lines := strings.Split(input, "\n")
 	out := make([]string, 0, len(lines))
 	blank := false
