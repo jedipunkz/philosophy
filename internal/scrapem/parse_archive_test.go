@@ -68,6 +68,47 @@ func TestParseArchiveResults(t *testing.T) {
 	}
 }
 
+// TestParseArchiveResultsHandlesNumericYear reproduces a production failure:
+// archive.org's advancedsearch.php sometimes sends "year" as a bare JSON
+// number (e.g. 1902) rather than a string, which previously made the whole
+// response fail to decode with "cannot unmarshal number into ... []string".
+func TestParseArchiveResultsHandlesNumericYear(t *testing.T) {
+	body := `{
+		"response": {
+			"docs": [
+				{
+					"identifier": "numericyearbook",
+					"title": "A Book With Numeric Year",
+					"creator": "Some Author",
+					"year": 1902,
+					"access-restricted-item": false
+				},
+				{
+					"identifier": "numericyeararray",
+					"title": "A Book With Numeric Year Array",
+					"creator": "Another Author",
+					"year": [1999, 2001],
+					"access-restricted-item": false
+				}
+			]
+		}
+	}`
+
+	items, err := parseArchiveResults(strings.NewReader(body))
+	if err != nil {
+		t.Fatalf("parseArchiveResults returned error: %v", err)
+	}
+	if len(items) != 2 {
+		t.Fatalf("got %d items, want 2: %+v", len(items), items)
+	}
+	if items[0].Year != "1902" {
+		t.Errorf("Year = %q, want 1902", items[0].Year)
+	}
+	if items[1].Year != "1999" {
+		t.Errorf("Year = %q, want 1999 (first element of numeric array)", items[1].Year)
+	}
+}
+
 func TestPickArchiveTextFilePrefersDjvuTextAndLargestFile(t *testing.T) {
 	files := []archiveFile{
 		{Name: "book_meta.txt", Format: "Metadata", Size: "500"},
