@@ -203,3 +203,63 @@ func TestRunSkipsArchiveItemsWithNoExtractableText(t *testing.T) {
 		}
 	}
 }
+
+// TestRunSkipsCrossrefItemsWithNoBody exercises Run() against a fake
+// Crossref-shaped server that returns an item with no abstract (and, being a
+// paper source, no PDF/detail fetch). This reproduces the production case
+// where crossref matched works with only bibliographic metadata, producing
+// inbox notes whose only body was the "要旨は含まれていない" placeholder.
+func TestRunSkipsCrossrefItemsWithNoBody(t *testing.T) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Content-Type", "application/json")
+		w.Write([]byte(`{"message":{"items":[
+			{"title":["A Work With No Abstract"],"DOI":"10.1000/no-abstract","container-title":["Some Journal"]}
+		]}}`))
+	}))
+	defer srv.Close()
+
+	vaultRoot := t.TempDir()
+	cfg := config.Config{
+		Vault: config.VaultConfig{Root: vaultRoot, Inbox: "inbox", SeenFile: "seen-urls.json"},
+		Scrape: config.ScrapeConfig{
+			UserAgent:      "test-agent",
+			RequestTimeout: "5s",
+			RequestDelay:   "0s",
+			MaxResults:     5,
+		},
+		Sources: []config.SourceConfig{
+			{
+				Name:      "crossref",
+				Enabled:   true,
+				Type:      "crossref_api",
+				BaseURL:   srv.URL,
+				SearchURL: srv.URL + "/works?query={query}",
+			},
+		},
+		Keywords: []config.KeywordConfig{
+			{
+				Name:    "テスト",
+				Queries: []string{"nietzsche"},
+				Sources: []string{"crossref"},
+			},
+		},
+	}
+
+	if err := New(cfg).Run(context.Background()); err != nil {
+		t.Fatalf("Run returned error: %v", err)
+	}
+
+	inbox := filepath.Join(vaultRoot, "inbox")
+	entries, err := os.ReadDir(inbox)
+	if err != nil {
+		if os.IsNotExist(err) {
+			return
+		}
+		t.Fatalf("ReadDir(inbox): %v", err)
+	}
+	for _, e := range entries {
+		if strings.HasSuffix(e.Name(), ".md") {
+			t.Errorf("expected no notes to be written for a bodyless crossref item, found %s", e.Name())
+		}
+	}
+}
