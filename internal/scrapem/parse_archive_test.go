@@ -130,3 +130,30 @@ func TestPickArchiveTextFileReturnsEmptyWhenNoneMatch(t *testing.T) {
 		t.Errorf("pickArchiveTextFile = %q, want empty", got)
 	}
 }
+
+func TestIsGarbledOCR(t *testing.T) {
+	// A stream of isolated single glyphs, as produced by broken djvu OCR of
+	// scanned vertical Japanese print (cf. the 改造 1925 magazine scans).
+	garbled := strings.Repeat("の と は を に が で も ら れ た し 一 二 三 四 五 ", 40)
+	if !isGarbledOCR(garbled) {
+		t.Error("isGarbledOCR = false for single-glyph OCR stream, want true")
+	}
+
+	// Readable Japanese OCR: words survive as multi-character tokens even with
+	// some spacing noise (cf. the Makino Shin'ichi archive texts we keep).
+	readable := strings.Repeat("夜、 眠れない と 云っても 樽野の は、 それだけ 昼間 熟睡する からなので、 神経衰弱 といふ わけではなかった。 ", 40)
+	if isGarbledOCR(readable) {
+		t.Error("isGarbledOCR = true for readable Japanese OCR, want false")
+	}
+
+	// English prose is comfortably below the threshold.
+	english := strings.Repeat("The republic of Plato is a dialogue concerning justice and the ideal state. ", 40)
+	if isGarbledOCR(english) {
+		t.Error("isGarbledOCR = true for English prose, want false")
+	}
+
+	// Too small a sample is not judged garbled even if single-char heavy.
+	if isGarbledOCR("あ い う え お") {
+		t.Error("isGarbledOCR = true for tiny sample, want false")
+	}
+}

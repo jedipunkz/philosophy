@@ -133,7 +133,18 @@ func (r *Runner) enrichArchiveText(ctx context.Context, item *Item, source confi
 		return err
 	}
 	item.PlainTextURL = textURL
-	item.BookText = cleanArchiveText(string(body))
+	text := cleanArchiveText(string(body))
+	// Internet Archive OCR of pre-war / scanned CJK print (e.g. the 改造
+	// 1925 magazine scans matched by a bare "プラトン" query) is frequently
+	// unreadable garble: the djvu OCR breaks vertical Japanese into a stream
+	// of isolated single glyphs. Such a body has no value and only clutters
+	// the inbox, so drop it here — the runner's "archive item with no text"
+	// skip then discards the item entirely.
+	if isGarbledOCR(text) {
+		item.BookText = ""
+		return nil
+	}
+	item.BookText = text
 	return nil
 }
 
@@ -141,6 +152,33 @@ func (r *Runner) enrichArchiveText(ctx context.Context, item *Item, source confi
 // (no license header/footer to strip, unlike Gutenberg).
 func cleanArchiveText(input string) string {
 	return collapseBlankLines(strings.ReplaceAll(input, "\r\n", "\n"))
+}
+
+// garbleMinTokens is the minimum whitespace-delimited token count before the
+// single-character ratio is trusted; below it the sample is too small to judge.
+const garbleMinTokens = 200
+
+// garbleSingleCharRatio is the fraction of single-character tokens above which
+// text is treated as garbled OCR. Readable Japanese OCR (even with spacing
+// noise) sits well below 0.3; broken scanned-print OCR runs 0.7+.
+const garbleSingleCharRatio = 0.6
+
+// isGarbledOCR reports whether text looks like broken OCR output — a stream of
+// isolated single glyphs rather than words. It counts the share of
+// whitespace-delimited tokens that are a single rune; a high share means the
+// OCR failed to group characters into words.
+func isGarbledOCR(text string) bool {
+	fields := strings.Fields(text)
+	if len(fields) < garbleMinTokens {
+		return false
+	}
+	single := 0
+	for _, f := range fields {
+		if len([]rune(f)) == 1 {
+			single++
+		}
+	}
+	return float64(single)/float64(len(fields)) > garbleSingleCharRatio
 }
 
 // fetchBodyWithLimit performs a GET with a body-size cap derived from
