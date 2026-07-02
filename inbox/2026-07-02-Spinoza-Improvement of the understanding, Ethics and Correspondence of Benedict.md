@@ -17,7 +17,8 @@ tags:
   - "近代哲学"
   - "汎神論"
   - "倫理学"
-status: raw
+status: processed
+processed_to: "notes/西洋哲学/近代/スピノザ-知性改善論.md"
 ---
 
 # Improvement of the understanding, Ethics and Correspondence of Benedict de Spinoza;
