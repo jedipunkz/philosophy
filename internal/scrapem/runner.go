@@ -205,6 +205,17 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 				log.Printf("skipping %s item with no text url=%s", source.Type, item.URL)
 				continue
 			}
+			// Wikipedia's search generator frequently returns biographies of
+			// people related to the query (e.g. "Critique of Pure Reason"
+			// matches the article on the Kant scholar P.F. Strawson) rather
+			// than the work or concept we want. A person biography is not a
+			// 著作, so drop it. Checked here — after every enrichment path —
+			// because BookText can be set either at search-parse time or by
+			// the per-page fetch.
+			if source.Type == "wikipedia_api" && isPersonBiography(item.BookText) {
+				log.Printf("skipping wikipedia person biography url=%s title=%q", item.URL, item.Title)
+				continue
+			}
 			// Skip paper items (crossref / arXiv) that carry no usable body:
 			// no abstract, no extractable PDF text, and no detail text. These
 			// otherwise produce inbox notes with only bibliographic metadata

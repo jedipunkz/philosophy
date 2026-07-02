@@ -157,3 +157,35 @@ func TestIsGarbledOCR(t *testing.T) {
 		t.Error("isGarbledOCR = true for tiny sample, want false")
 	}
 }
+
+func TestIsPersonBiography(t *testing.T) {
+	person := []struct{ name, text string }{
+		// full-width parenthetical (most common)
+		{"Strawson", "ピーター・フレデリック・ストローソン （Peter Frederick Strawson、1919年11月23日 - 2006年2月13日）は、イギリスの哲学者。"},
+		// half-width parenthetical
+		{"Simmel", "ゲオルク・ジンメル (独: Georg Simmel, 1858年3月1日 - 1918年9月26日) は、ドイツ・ベルリン出身の哲学者。"},
+		// living person, year-only open range
+		{"Skinner", "クェンティン・スキナー（Quentin Robert Duthie Skinner, 1940年11月26日 - ）は、イギリスの政治学者。"},
+		// the subject philosopher's own bio is still a person bio
+		{"Kant", "イマヌエル・カント（Immanuel Kant、1724年4月22日 - 1804年2月12日）は、プロイセンの哲学者。"},
+	}
+	for _, p := range person {
+		if !isPersonBiography(p.text) {
+			t.Errorf("isPersonBiography(%s) = false, want true", p.name)
+		}
+	}
+
+	works := []struct{ name, text string }{
+		{"純粋理性批判", "『純粋理性批判』（じゅんすいりせいひはん、独: Kritik der reinen Vernunft) は、ドイツの哲学者イマヌエル・カントが1781年に発表した著作である。"},
+		{"エチカ", "『エチカ』（羅: Ethica, エティカ）とは、17世紀オランダの哲学者バールーフ・デ・スピノザの著書。"},
+		{"現象学", "現象学（げんしょうがく、独: Phänomenologie）は、哲学的学問およびそれに付随する方法論を意味する。"},
+		// a concept article mentioning a philosopher's dates deep in the body
+		// must not be misclassified: no birth-date lead near the start.
+		{"アリストテレス主義", "アリストテレス主義（英: Aristotelianism）とは、古代ギリシアの哲学者アリストテレスの思想・哲学を継承する立場である。" + strings.Repeat("あ", 500) + "（紀元前384年 - 前322年）は"},
+	}
+	for _, w := range works {
+		if isPersonBiography(w.text) {
+			t.Errorf("isPersonBiography(%s) = true, want false", w.name)
+		}
+	}
+}

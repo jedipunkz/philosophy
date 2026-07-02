@@ -2,6 +2,7 @@ package scrapem
 
 import (
 	"context"
+	"encoding/json"
 	"net/http"
 	"net/http/httptest"
 	"os"
@@ -262,4 +263,78 @@ func TestRunSkipsCrossrefItemsWithNoBody(t *testing.T) {
 			t.Errorf("expected no notes to be written for a bodyless crossref item, found %s", e.Name())
 		}
 	}
+}
+
+// TestRunSkipsWikipediaPersonBiography exercises Run() against a fake
+// MediaWiki-shaped server whose search generator returns a person biography
+// (as ja.wikipedia does when a work query like "Critique of Pure Reason"
+// matches the article on the Kant scholar P.F. Strawson). Such an article is
+// not a 著作 and must not become an inbox note.
+func TestRunSkipsWikipediaPersonBiography(t *testing.T) {
+	bio := `ピーター・フレデリック・ストローソン （Peter Frederick Strawson、1919年11月23日 - 2006年2月13日）は、イギリスの哲学者。`
+	mux := http.NewServeMux()
+	mux.HandleFunc("/w/api.php", func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Content-Type", "application/json")
+		// Both the generator=search call and the per-page extract call hit
+		// this same endpoint; returning the bio for both is fine.
+		w.Write([]byte(`{"query":{"pages":[{"pageid":123,"title":"ピーター・フレデリック・ストローソン","extract":` +
+			mustJSONString(bio) + `}]}}`))
+	})
+	srv := httptest.NewServer(mux)
+	defer srv.Close()
+
+	vaultRoot := t.TempDir()
+	cfg := config.Config{
+		Vault: config.VaultConfig{Root: vaultRoot, Inbox: "inbox", SeenFile: "seen-urls.json"},
+		Scrape: config.ScrapeConfig{
+			UserAgent:      "test-agent",
+			RequestTimeout: "5s",
+			RequestDelay:   "0s",
+			MaxResults:     5,
+			MaxBookBytes:   10 << 20,
+			MaxBookChars:   100000,
+		},
+		Sources: []config.SourceConfig{
+			{
+				Name:      "wikipedia_ja",
+				Enabled:   true,
+				Type:      "wikipedia_api",
+				BaseURL:   srv.URL,
+				SearchURL: srv.URL + "/w/api.php?gsrsearch={query}",
+			},
+		},
+		Keywords: []config.KeywordConfig{
+			{
+				Name:    "カント",
+				Queries: []string{"Critique of Pure Reason"},
+				Sources: []string{"wikipedia_ja"},
+			},
+		},
+	}
+
+	if err := New(cfg).Run(context.Background()); err != nil {
+		t.Fatalf("Run returned error: %v", err)
+	}
+
+	inbox := filepath.Join(vaultRoot, "inbox")
+	entries, err := os.ReadDir(inbox)
+	if err != nil {
+		if os.IsNotExist(err) {
+			return
+		}
+		t.Fatalf("ReadDir(inbox): %v", err)
+	}
+	for _, e := range entries {
+		if strings.HasSuffix(e.Name(), ".md") {
+			t.Errorf("expected no notes for a person biography, found %s", e.Name())
+		}
+	}
+}
+
+func mustJSONString(s string) string {
+	b, err := json.Marshal(s)
+	if err != nil {
+		panic(err)
+	}
+	return string(b)
 }
