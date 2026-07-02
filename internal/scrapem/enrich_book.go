@@ -26,7 +26,18 @@ var (
 	htmlStyleRe      = regexp.MustCompile(`(?is)<style[^>]*>.*?</style>`)
 	htmlInlineWSRe   = regexp.MustCompile(`[ \t]+`)
 	htmlMultiLineRe  = regexp.MustCompile(`\n{3,}`)
+	// personBioLeadRe matches the birth-date parenthetical that opens a
+	// Japanese Wikipedia biography, e.g. "…（Peter Frederick Strawson、1919年
+	// 11月23日 - 2006年…）は、…". Both full-width （）and half-width () forms
+	// occur. Works and concepts do not open this way, so this cleanly
+	// separates person articles from the book/concept articles we want.
+	personBioLeadRe = regexp.MustCompile(`[（(][^）)]*\d{3,4}\s*年[^）)]*[）)]\s*は`)
 )
+
+// personBioLeadScanRunes bounds how far into the extract we look for the
+// birth-date lead so a stray date deep inside a concept article cannot
+// misclassify it as a biography.
+const personBioLeadScanRunes = 400
 
 // enrichWikipediaText makes a per-page API request to fetch the full plain-text
 // extract for a Wikipedia article. The generator=search API response often
@@ -63,6 +74,17 @@ func (r *Runner) enrichWikipediaText(ctx context.Context, item *Item, source con
 		item.BookText = text
 	}
 	return nil
+}
+
+// isPersonBiography reports whether a Japanese Wikipedia extract is the
+// biography of a person, detected by the birth-date parenthetical that opens
+// such articles within the first personBioLeadScanRunes runes of the lead.
+func isPersonBiography(text string) bool {
+	runes := []rune(text)
+	if len(runes) > personBioLeadScanRunes {
+		runes = runes[:personBioLeadScanRunes]
+	}
+	return personBioLeadRe.MatchString(string(runes))
 }
 
 // enrichBookText fetches the plain-text body of a Project Gutenberg book and
