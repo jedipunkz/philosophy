@@ -1,0 +1,7221 @@
+---
+source: "https://archive.org/details/kantscritiquepu00morrgoog"
+title: "Kant's Critique of Pure Reason: A Critical Exposition"
+author: "George Sylvester Morris"
+year: "1886"
+captured_at: "2026-07-04T03:48:45Z"
+updated_at: "2026-07-04T03:48:45Z"
+capture_tool: "scrapem-book"
+source_name: "archive"
+keyword: "カント"
+query: "Critique of Pure Reason"
+plain_text_url: "https://archive.org/download/kantscritiquepu00morrgoog/kantscritiquepu00morrgoog_djvu.txt"
+public_domain: true
+book_text_truncated: true
+subjects:
+tags:
+  - "近代哲学"
+  - "認識論"
+  - "倫理学"
+status: raw
+---
+
+# Kant's Critique of Pure Reason: A Critical Exposition
+
+- 著者: George Sylvester Morris
+- 初版: 1886
+- 情報源: [archive](https://archive.org/details/kantscritiquepu00morrgoog)
+- パブリックドメイン: ✓
+
+## Obsidian Links
+
+- キーワード: [[カント]]
+- 研究動向: [[カント-現代研究動向]]
+
+## Full Text
+
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
+to make the world's books discoverable online.
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover.
+
+Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the
+publisher to a library and finally to you.
+
+Usage guidelines
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
+prevent abuse by commercial parties, including placing technical restrictions on automated querying.
+
+We also ask that you:
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for
+personal, non-commercial purposes.
+
++ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
+use of public domain materials for these purposes and may be able to help.
+
++ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find
+additional materials through Google Book Search. Please do not remove it.
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner
+anywhere in the world. Copyright infringement liability can be quite severe.
+
+About Google Book Search
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
+
+at |http : //books . google . com/
+
+^^:l.
+
+):
+
+Digitized by VjOOQIC
+
+Digitized by VjOOQIC
+
+Digitized by VjOOQIC
+
+GERMAN PHILOSOPHICAL CLASSICS
+
+FOR
+
+ENGLISH READERS AND STUDENTS.
+
+EDITED BY
+
+GEORGE S. MORRIS.
+
+KANT'S CRITIQUE OF PURE REASON.
+
+Digitized by VjOOQIC
+
+VOLUMES ALREADY PUBLISHED.
+
+KANT'S CRITIQUE OP PURE REASON, by Prof.
+
+G. S. M0RRI8, Ph.D.
+SCHELLING'S TRANSCENDENTAL IDEALISM,
+
+BY Prop. John Watson, LL.D., F.R.S.C.
+PICHTE'S SCIENCE OP KNOWLEDGE, by Prof.
+
+C. C. Everett, D.D.
+HEGEL'S ESTHETICS, by Prop. J. 8. Kbdney,
+
+S.T.D.
+
+IN PREPARATION.
+
+HEGEL'S LOGIC, by Prof. W. T. Harris, LL.D.
+
+HEGEL'S PHILOSOPHY OF RELIGION, by Prin-
+cipal A. M. Fairbairn, D.D.
+
+HEGEL'S PHILOSOPHY OF HISTORY AND OP
+THE STATE, by Prop. G. S. Morris, Ph.D.
+
+KANT'S ETHICS, by President Noah Porter,
+D.D., LL.D.
+
+KANT'S CRITIQUE OP JUDGMENT.
+
+LEIBNITZ'S HUMAN UNDERSTANDING, BY Prop.
+G. H. HowisoN, LL.D.
+
+Digitized by VjOOQIC
+
+KANT^S
+
+CRITIQUE OF PURE REASON.
+
+A CRITICAL EXPOSITION
+
+By GEORGE S. MORRIS, Ph.D.
+
+PROFESSOR OF ETHICS, HISTORY OF PHILOSOPHY AND LOGIC IN THE
+
+UNIVERSITY OP MICHIGAN, AND LECTURER ON PHILOSOPHY
+
+IN THE JOHNS HOPKINS UNIVERSITY, BALTIHORE.
+
+SECOND EDITION.
+
+CHICAGO:
+
+8. C. GEIGGS AND COMPANY.
+
+1886.
+
+Digitized by VjOOQIC
+
+Ki
+
+i \ I ,■ <^ ^
+
+r '/
+
+(/ ■>
+
+o^^f ^:^J9
+
+COPTBIGHT, 1882,
+
+By S. C. GRIGGS AND COMPANY.
+
+Digitized by VjOOQIC
+
+PEEFAOE.
+
+THE present volume appears as the first one
+in a proposed series of " German Philosophic
+Classics for English Readers and Students," con-
+cerning which, in a printed " Prospectus," the fol-
+lowing was said:
+
+" Each volume will be devoted to the critical expo-
+sition of some one masterpiece belonging to the his-
+tory of German philosophy. The aim in each case
+will be to furnish a clear and attractive statement
+of the special substance and purport of the original
+author's argument, to interpret and elucidate the
+same by reference to the historic and acknowledged
+results of philosophic inquiry, to give an independ-
+ent estimate of merits and deficiencies, and espe-
+cially to show, as occasion may require, in what way
+German thought contains the natural complement,
+or the much-needed corrective, of British specula-
+tion.
+
+" It is intended that the series, when completed,
+shall consist of ten or twelve volumes, founded on
+the works of Leibnitz, Kant, Fichte, Schelling, and
+Hegel. It will thus furnish in effect a history of
+the most conspicuous and permanently influential
+movement in the history of German thought, and
+its general object may be stated to be to render rea-
+
+Digitized by VjOOQIC
+
+VI PREFACE.
+
+sonably accessible to the intelligent English reader
+a knowledge of German philosophic thought in its
+leading outlines, and at the same time to furnish
+the special student with a valuable introduction and
+guide to more comprehensive studies in the same
+direction."
+
+Whatever judgment may be passed concerning the
+measure in which the present volume fulfils the
+promise of the prospectus, its author, as responsi-
+ble editor of the whole series, refers with confidence
+to the names of the eminent scholars and teachers,
+who have promised to prepare other volumes, as fur-
+nishing a sufficient guarantee that the series as a
+whole will worthily realize its published aim.
+
+To the special student of Kant, the difficulties
+which must attend the attempt to furnish a summary
+account of the " special substance and purport " of
+the " Critique of Pure Reason " are well known. Not
+the least of these difficulties arises from the circum-
+stance that Kant's work marks and conspicuously
+illustrates a stadium of transition in the history of
+modern thought. It is far more eminently the story
+of a process of inquiry and demonstration than a
+didactic exposition of finished results. And with
+reference to this process the terminus a quo and the
+terminus ad quern are widely different. Hence, as
+the inquiry proceeds, words and phrases acquire, and
+have attached to them, new meanings. This produces
+an air of variability and uncertainty in the use of
+words, which Kant, owing, doubtless, in part, to the
+haste with which his work was written, has not taken
+
+Digitized by VjOOQIC
+
+PREFACE. Vll
+
+eare to i'edtrcB to a minimum. Add to this the fact
+that Kant's intellectual attitude, in some of its most
+essential aspects, remains, to the end, thoroughly con-
+fused, and the reader will have some conception of
+the hindrances which lie in the way of an attempt to
+produce a " clear and attractive statement " of what
+Kant has to say. These things are mentioned, not to
+excuse any deficiencies in the work of the present
+author, but that the critical reader may not at the
+outset form a wholly unreasonable notion of what
+may justly be demanded in any professed exposition
+of Kant.
+
+The author has had at his disposal a copious col-
+lection of works, old and new, relating to Kant.
+But as his primary object in the preparation of this
+volume was not to make a new contribution to
+" Kant philology," they could not serve him, or influ-
+ence his judgment, in any such conspicuous measure
+as to make further, specific mention of them neces-
+sary. His best and most earnest wish is that this
+volume, and the series which it inaugurates, may
+serve the end of promoting genuine philosophic in-
+telligence.
+
+GEO. S. MORRIS.
+
+May 3, 1882.
+
+Digitized by VjOOQIC
+
+Digitized by VjOOQIC
+
+OOI^TENTS.
+
+INTRODUCTION.
+
+Apparently contradictory character of philo-
+sophical works 1
+
+Philosophy the Science of Being .... 2
+
+Its practical importance 3
+
+Science of Being dependent on Science of Ex-
+perience, or of Knowledge 5
+
+From different views respecting the nature of
+knowledge result different conceptions regard-
+ing the nature or knowableness of being . 8
+
+According to one view, knowledge is a purely
+mechanical process 11
+
+The logical result of this view is not science,
+but nescience 13
+
+Its practical result is materialistic .... 17
+
+Knowledge is a more than merely mechanical
+process 19
+
+It is an organic process, and the Science of
+Knowledge, as such a process, leads directly
+to a spiritualistic Science of Being ... 22
+
+Digitized by VjOOQIC
+
+X CONTENTS.
+
+Agnosticism, or Practical Materialism, is an
+
+uncalled for apotheosis of physical science . 24
+Prevalence of mechanical conceptions in modern
+
+philosophy before Kant 29
+
+Kant's early predilection for physical science . 33
+
+Kant under the influence of British empiricism 34
+
+Disturbed by Hume 37
+
+Publication of the three Critiques .... 38
+General purport of the "Critique of Pure
+
+Reason" 40
+
+The peculiar service rendered through it to
+
+philosophy 41
+
+CHAPTER I.
+
+THE QUESTION STATED.
+
+What is Experience? Sensational psychology
+answers: "A bundle of conscious states . . 44
+
+The relations among which are mechanical and
+fortuitous" 47
+
+To this answer Kant demurs, on alleged grounds
+of obvious fact 47
+
+The main question is, How are the rebutting
+facts to be explained? or, " How are synthetic
+judgments a jjnon possible?" 50
+
+Subdivision of this question 52
+
+The inquiry a " transcendental " one ... 53
+
+Digitized by VjOOQIC
+
+CONTENTS. XI
+
+CHAPTER II.
+
+THE NON-CONTINGENT FORM OF SENSE.
+
+Sense, in order to be definable, must contain a
+
+non-contingent element 56
+
+This element must be at once formal and forma-
+tive 58
+
+And is found in space and time 60
+
+" Metaphysical Exposition " of space and time . 60
+" Transcendental Exposition " of space and time:
+Pure mathematics possible, only because space
+and time are of the nature indicated in the
+
+metaphysical exposition 64
+
+Ontological inferences , . 6S
+
+Psychological empiricism corrected .... 70
+Sceptical Idealism ostensibly justified ... 70
+
+But not really 72
+
+Kant's doctrine of space and time points in the
+direction of Spiritualistic Idealism . . .75
+
+CHAPTER III.
+
+THE UNDERSTANDING AS A NON-CONTINGENT FACULTY
+OF SENSIBLE KNOWLEDGE.
+
+Sense and Understanding contrasted .... 80
+
+Function of the Understanding 84
+
+Fundamental categories or conceptions, of the
+understanding, as a faculty of sensible knowl-
+edge 87
+
+Digitized by VjOOQIC
+
+Xll CONTENTS.
+
+Metaphysical exposition of the categories . . 88
+The categories are deduced and defined with
+reference to their use and meaning in pure
+
+physical science only 93
+
+That they have no other use or significance is
+assumed, but not proved 96
+
+CHAPTER IV.
+
+THE "transcendental DEDUCTION" OF THE
+CATEGORIES.
+
+General purport of the *' transcendental deduc-
+tion": Pure physical science possible, only
+because the categories are of the nature indi-
+cated in the preceding chapter .... 99
+
+Sensible impressions, regarded as the element-
+ary material df knowledge, are given without
+connection among themselves . . . .102
+
+So far as tUey are, as matter of experimental
+fact, really connected in our knowledge, this
+connection, or " synthesis," is the work of the
+understanding alone 105
+
+And of the understanding, only in dependence
+on the synthetic unity of self-consciousness . 108
+
+Sensible consciousness — pure physical science
+or knowledge of " nature " — must be subject
+at least to the universal, synthetic form of
+self-consciousness 113
+
+Digitized by VjOOQIC
+
+CONTENTS. XIU
+
+And to the special forms of connection, or syn-
+thesis, denoted by the categories . . .115
+
+In other words, sensible perception ' in vol ves
+intellectual conception 116
+
+Thus the " objective," in sensible knowledge,
+depends on, or in its form is determined by,
+the " subjective " ; or, we, in knowing phenom-
+ena, prescribe to them, a priori, their laws . 118
+
+The transcendental deduction, considered as a
+contribution to the science of knowledge, is
+marred by Kant's obstinate persistence in
+treating sensible consciousness, the mechani-
+cal product, as condition, rather than depend-
+ent result, of self-consciousness, the living,
+orgsimc process 120
+
+In this he resists the logic of his own " discov-
+eries" 130
+
+CHAPTER V.
+
+THE PRINCIPLES OF SCIENCE.
+
+Namely,, of pure mathematical and physical
+
+science 136
+
+The principles are founded on the categories . 137
+The " Schematism of the Categories " . . .139
+The principle of all principles is the dependence
+
+of sensible consciousness on self- consciousness 148
+(1) All sensibly perceived phenomena have mag-
+nitude of extension . 149
+
+Digitized by VjOOQIC
+
+xiv CONTENTS.
+
+(2) And, considered as sensations, vary in inten-
+sity 151
+
+They must also be conceived (3), under the as-
+pect of persistence in time, as substances . 157
+
+(4) Under the aspect of determinate succession
+in time, as " causes " and " effects," or as sub-
+ject to rule or law of succession .... 162
+
+And (5), under the aspect of determinate co-
+existence in time, as subject to rule or law of
+coexistence 171
+
+Under various, defined conditions they must also
+be regarded as (6) possible, (7) real, or (8)
+necessary 176
+
+CHAPTER VI.
+
+THE LIMIT OF SCIENCE.
+
+Science extends only to phenomena; what
+ground for distinguishing the latter from
+Things-in-themselves, or from Noumena? . 181
+Different Connotation of the two expressions
+
+" Things-in-themselves " and " Noumena " . 183
+Confusion in Kant's conceptions .... 190
+Kant's answers to the above question . . . 194
+Theory of intellectual intuition . . . .196
+The conception of Noumena purely problematic,
+
+yet necessary 199
+
+And the doorway to the realm of " rational
+faith " and " practical experience "... 200
+
+Digitized by VjOOQIC
+
+CONTENTS.
+
+XV
+
+The whole movement of the Critique is in the
+direction of the philosophic and spiritualistic
+conception of Noumena 206
+
+The conception of Noumena as noting a limit of
+pure physical science 207
+
+CHAPTER VII.
+
+THE FUTILITY OF ** METAPHYSICS.
+
+of Illu
+
+of
+
+" meta
+
+Recapitulation
+
+" Transcendental Dialectic " as " Logic
+sion"
+
+Reason as the seat of this illusion
+
+Transcendental Ideas of Reason
+
+General remarks on Kant's criticism
+physics"
+
+Criticism of Rational Psychology
+
+Criticism of Rational Cosmology
+
+The Cosmological Ideas .
+
+The Four Antinomies
+
+The world of our knowledge is erroneously as
+sumed, in the antinomies, to be absolute and
+noumenal, rather than relative and merely
+phenomenal
+
+Critical solution of the antinomies ....
+
+No positive conflict between "transcendental
+freedom " and natural law
+
+209
+
+212
+212
+217
+
+217
+219
+226
+
+228
+230
+
+236
+239
+
+244
+
+Digitized by VjOOQIC
+
+XVI CONTENTS.
+
+Rational Theology; its necessary presuppositions
+and true method 250
+
+The method of dogmatic metaphysics . . . 255
+
+The Ontological Argument 257
+
+The Cosmological Argument 258
+
+The Teleological Argument 260
+
+** Metaphysics " can neither prove nor disprove
+God's existence 261
+
+CHAPTER VIII.
+
+METAPHYSICS AS A SCIENCE.
+
+The "Discipline of Pure Reason": the method
+of pure mathematical and physical science
+
+must be abandoned by metaphysics . . . 264
+
+** Practical " problems of metaphysics . . . 267
+
+The History of Philosophy 269
+
+Conclusion 271
+
+Digitized by VjOOQIC
+
+INTRODUCTION.
+
+THE works that have marked epochs, of one
+kind or another, in the history of philosophy
+are very different in character. Some of them
+are constructive, and lead to positive conclusions;
+others are destructive, and end mainly in negations;
+others, still, are " critical," marking periods of
+transition in the histoiy of philosophic intelligence,
+from negative or skeptical to more positive and af-
+firmative convictions. Examples of the first class
+are found in the writings of Plato, Aristotle, Leib-
+nitz, Hegel, and others. Hume's *' Treatise on Hu-
+man Nature" illustrates conspicuously the second
+class; while of the third, Kant's "Critique of Pure
+Reason " furnishes the most noteworthy instance.
+
+This apparent oscillation of philosophy between
+contradictory extremes of affirmation and negation
+has, as is well known, given abundant occasion to
+its enemies to blaspheme. If, it has been plausibly
+argued, philosophers jjersistently contradict each
+other, it is safe to infer that none of them have
+demonsti'ative knowledge of that whereof they af-
+firm. And yet this inference is extremely super-
+ficial, as all know who have thorough comprehen-
+sion of the true nature of philosophy's peculiar prob-
+
+Uigitized by Google
+
+2 kant's critique of pure reason.
+
+lems, and of the results which have attended their
+investigation.
+
+All science involves two elements: knowledge of
+the particular, and knowledge of the universal. A
+particular fact is not scientifically known until it
+has been classified with some other fact or facts.
+This means that it is not an object of scientific
+knowledge until there is discovered something — a
+nature or law — which is common to it and to other
+facts. And that which is thus common to all is the
+so-called " universal." It is the universal quality,
+or mode of existence, or of activity, of the class of
+facts or objects in question.
+
+Now, it is peculiar to all objects of knowledge
+that, in some form or other, they exist. To all of
+them Being of some kind is ascribed. This is their
+universal predicate. The peculiar object of philo-
+sophic science is the determination of the meaning
+of this predicate. What do we mean when we say
+that an object of knowledge is, that the universe is,
+that man is? What is it to he? What is? What
+is the universal nature of existence? And if there
+are more kinds of being than one, what is that uni-
+versal kind which includes and explains them all?
+Such are the first and cardinal inquiries of philoso-
+phy, which, accordingly, was with perfect accuracy
+defined by Aristotle, more than two thousand years
+ago, as the " Science of Being as such."
+
+Now, that the results of such a science, — far from
+being, as is often thoughtlessly supposed, merely
+" speculative," and so unpractical and useless, — are
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 3
+
+of the highest consequence, both for the universal
+enlightenment of intelligence and for the direction
+of conduct, becomes upon reflection perfectly obvi-
+ous. A science so universal in its range as i^hiloso-
+phy, by its definition, is, must contribute something
+to our comprehension of every object of knowledge;
+and inasmuch as conduct depends on knowledge, it
+cannot be without its powerful influence upon the
+practical direction of human affairs.
+
+Let us look at the case more concretely. The an-
+swers which, as matter of historic fact, have been
+given to philosophy's central inquiry, are implied
+in such expressions as theoretical Materialism, prac-
+tical Materialism, or Scepticism, or Agnosticism, and
+Spiritualistic Idealism. The theoretic Materialist
+holds that whatever is, is material. Suppose this
+principle established, and it follows at once that, if
+there be forms or spheres of existence which appear to
+be non-material, we must not allow ourselves to be
+misled by this appearance, but must train ourselves
+to look for and to find in them nothing but peculiar
+manifestations or varieties of that which in essence
+and mode of action is material. Thus, if the mate-
+rialistic thesis or principle be true, the knowledge
+of it serves to prevent or demolish contrary preju-
+dices and to promote universal intelligence. More-
+over, it has immediate bearings upon life. When
+consistently developed, it teaches us to look upon
+ourselves as mechanically determined, and hence
+irresponsible, in all our actions, and to correct ac-
+cordingly those notions of human relations — of man
+
+Digitized by VjOOQIC
+
+4 K A NT's CRITIQUE OF PURE REASON.
+
+and man, in Society; of man and the universe, in Art,
+and of man and God, in Religion, — which, being ap-
+parently founded in human experience, are currently
+adopted among men. The like, in substance, is
+taught by practical Materialism, or Agnosticism,
+
+" Nui' mil ein bischen anderii Worten.^^
+On the other hand, the Spiritualistic Idealist holds
+that the universal nature of Being is spiritual; that
+the essence of all absolute reality is not materialistic
+and dead, but idealistic and living; that the uni-
+verse is an organism of Mind, of activities whose
+ultimate origin is in Will, of purposes whose expla-
+nation is Intelligence, of laws and of orders whose
+reason is the Good. This is in substance the doc-
+trine, in the maintenance of which all of the philoso-
+phers of the first, or constructive, class above men-
+tioned agree. It is the catholic doctrine of philosophy.
+It represents the positive results of scientific inquiry
+respecting the problems peculiar to philosophy. It
+is true to all the sides of human experience, and so
+is capable of comprehending and being just to what-
+ever of relative truth may be contained in theoreti-
+cal Materialism or in Agnosticism. Nay, more, in the
+relative and hence only partial truth of Materialism
+and Agnosticism, Spiritualistic Idealism sees its own
+larger lineaments prefigured and implied, and so
+sees in the whole history of philosophy nothing but
+consentient witness to its own truth. How this can
+be, will, it is hoped, presently be made more definitely
+to appear. It suffices here only to remark that the
+positive fruit of the idealistic doctrine, in contribut-
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 5
+
+ing to the intelligent comprehension of all expe-
+rience and the guidance of life, is (surely!) not less
+conspicuous, and, in its range, universal, than that of
+Materialism. Whatever be true, then, in philosophy,
+its importance can be denied only by an intelligence
+that is absolutely blinded by prejudice or by uncul-
+ture. That something is thus true, or that the car-
+dinal question of philosophy must receive, and is
+capable of receiving, some sort of an intelligent
+answer, is implied in the fact that all men, by their
+conduct, virtually adopt one philosophy or another.
+Practically they give to its fundamental query either
+a materialistic or an idealistic answer; and this —
+since all men are or would be rational — is tanta-
+mount to a mute assertion that the answer in
+question can be justified before the forum of intelli-
+gence.
+
+Philosophy is the Science of Being. But Being,
+or the Universe of Reality, is given only in the realm
+of experience. The Science of Being can therefore
+be studied only through study of the content of ex-
+perience. And thus it is studied. Philosophy does
+not transcend, nor pretend to transcend, the range
+of experience. And if " philosophies " have differed
+in their ostensible results, this has been only because
+their respective advocates have found, or thought
+they found, some more, others less, contained in ex-
+perience.
+
+But what is experience? It is only by a figure
+that experience can be likened to a vessel, which
+" contains " objects or the knowledge of objects. At
+
+Digitized by VjOOQIC
+
+6 KANT'S CRITIQUE OF PURE REASON.
+
+all events, the relation between experience and its
+so-called contents is not purely mechanical and acci-
+dental, so that the nature of the latter may be
+studied apart from the former. No, the " study of
+the content of experience," considered absolutely,
+cannot be carried on without studying experience
+itself. Now, experience is nothing other than our
+real or implicit knowledge, or our real or implicit
+consciousness. It results, therefore, that the Science
+of Being and the Science of Knowledge ai'e organic-
+ally one and inseparable. The study of the one can
+be prosecuted only through, in, and along with, the
+study of the other. The recognition of this fact is
+of capital importance for him who would understand
+the peculiar nature of philosophy's problems, and
+comprehend the historic methods and results of
+philosophic inquiry.
+
+The interdependence of these two, ideally, but
+not really, distinguishable sciences is illustrated in
+the whole history of philosophy, and contains the
+key to the explanation of the apparently conflicting
+results of philosophic investigation. The germs of
+the science of knowledge lay scattered — in no great
+profusion, it is true — in the pre-Socratic " philoso-
+phy " of Greece. Such as they were, they furnished
+the impulse for that intellectual movement which
+resulted in the classic philosophy of Greece, — the
+philosophy of Plato and Aristotle. Plato's " Theory
+of Ideas " is at once science of Knowledge and,
+through and in it, of Being. The philosophy of
+Aristotle has its teal strength in his science of
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 7
+
+Knowledge. The great merit of the modern Ger-
+man movement in philosophy, from Kant to Hegel,
+lay in the new development which it gave to the
+same science. It was through this science that the
+final leaders in this movement rehabilitated the sci-
+ence of Being. It was through it that, in the lan-
+guage of a recent German writer, these men rescued
+the modern mind from the barren heath of purely
+arbitrary reflection and subjective uncertainty, and
+brought it back to the green pasture of objective
+reality, restoring us to rich and concrete knowledge
+of ourselves and of the world. And the impulse to
+the modern movement was the same in kind with
+that which brought forth the ancient one. It con-
+sisted in the intense cultivation, on the part of ear-
+lier "philosophers" (Locke, etc.), of certain rootlets,
+or first beginnings, of the science of Knowledge, with
+results which were so far from corresponding with
+human knowledge, or experience, in its actual organic
+wholeness that they contained a direct challenge to
+further and more complete inquiry. Outside of the
+two historic movements of philosophic inquiry which
+culminated with Aristotle and Hegel, it can hardly
+be said that the science of Knowledge, organically
+one with, and absolutely inseparable from, the science
+of Being, or from philosophy proper, has ever been
+investigated in such way as to take complete account
+of all the elements of the problem as presented in
+conscious experience. It is certainly true to say
+that, independently of these two movements and of
+their influence, the problem in question has never
+
+Digitized by VjOOQIC
+
+8 KANT'S critique of pure REASON".
+
+been thus investigated. And it is also true that the
+result of the modern investigation was confirmatory
+of the result of the ancient one, but enriched with
+fuller detail and more copious demonstration.
+
+The science of knowledge is the key to the science
+of Being, and the different conceptions respecting the
+nature of Being, or of absolute Reality, which have
+been propounded in the guise of philosophy, all re-
+sult from different conceptions respecting the nature
+of knowledge. The different views which have been
+held respecting the nature of knowledge are simply
+so many views respecting the nature, conditions and
+range of experience. Further, these differences of
+view are — if the expression may be allowed — rather
+differences of more and less, than of contradiction.
+Knowledge is a complex process, and the different
+views held concerning it result from the circum-
+stance that some look only at one or two sides of the
+process, while others — the true philosophers — look at
+all sides. The former, of course, see in knowledge or
+experience less, the latter more. Those who see the
+more see also and recognize the less. There is here
+no contradiction. Apparent contradiction arises
+only when those who see only the less declare that
+the less is all, and so deny the more. Such contra-
+diction, however, is purely dogmatic, and does not
+arise from the nature of the case itself which is
+under examination. In other words, the positive,
+scientific results of inquiry are not contradictory, but
+complementary.
+
+Of the whole nature of knowledge, or conscious
+
+Digitized by VjOOQIC
+
+INTRODUCTION-. 9
+
+experience, the theoretical materialist sees least, and
+it is he whose inquiries into the subject are most
+superficial. He observes, in common with all men,
+that knowledge, in one of its characteristic aspects,
+is an affair of sensation ; it is " conveyed to us in
+through the senses.'' This he adopts as the whole
+account of knowledge. The senses he looks upon as
+reporters — and the only reporters — of that which we
+know, and consequently of that which we must be-
+lieve to be. But the senses report a *' material uni-
+verse." Consequently, a material universe, and
+nothing else, exists. Whatever truly is consists of
+atoms of material substance, about whose origin or
+end no rational inquiry can be raised.
+
+Theoretical or absolute materialism is purely dog-
+matic. It has no scientific standing whatever. It
+is refuted by its own premises. Accordingly, when-
+ever in the history of philosophic inquiry it has
+reared its head, this has been only for a brief period.
+'The witness of scientific inquiry has speedily demol-
+ished it.
+
+Materialism says. All knowledge is sensible knowl-
+edge, and consequently all existence is purely sensi-
+ble, i.e. material. It is indeed by such reasoning
+that materialism must justify itself, if justification
+be possible. It is on such a theory of knowledge as is
+enunciated in the foregoing premise, that the theory
+of Being affirmed in the conclusion must be founded,
+if foundation it is to have. But the peculiarity and
+defect of materialism is, that it substitutes dogmatic
+assertion for scientific inquiry into the meaning of
+
+Digitized by VjOOQIC
+
+10 rant's critique of pure reason.
+
+its own premises. There have been plenty of men,
+in ancient and modern times, who have adopted the
+materialistic premise, and who, in addition, have in-
+quired into its meaning. They have examined the
+nature and conditions of sensible knowledge as such,
+and have set up a science — true enough as far as it
+goes - - of such knowledge. And the uniform result
+of their investigations has been, not that because
+(as assumed) all knowledge is sensible knowledge,
+therefore all existence is material, but that, in the
+words of Mr. Herbert Spencer, " our own and all
+other existence is a mystery absolutely and forever
+beyond our comprehension." The inference of theo-
+retical materialism was hasty, superficial, illogical:
+that of agnosticism is founded on scientific inquiry,
+and is true. And if all human knowledge were
+specifically and exclusively sensible — in the sense
+in which this term is technically employed and
+will presently be explained — agnosticism woula be
+the last word of philosophy. But this is the same as
+to say that philosophy would not, in any positive
+sense, exist. For philosophy is the science of Being ;
+but agnosticism consists in nothing but a persuasion
+that no such science is possible.
+
+Now, the question between those who limit all
+knowledge to sense and those who recognize for it
+a more comprehensive nature is a question of ex-
+perimental fact, to be settled, not by mere assertion,
+but by scientific examination of the facts themselves.
+It is in this way that the true philosophers have
+sought to settle it. Knowledge is a conscious pro-
+Digitized by VjOOQIC
+
+INTRODUCTION. 11
+
+cess. The question is, What is the nature and true
+description of this process? and what are the terms
+or factors involved in the process?
+
+The process of knowledge most obviously involves
+the distinction of two factors, termed subject and
+object. It is in these factors that Being inheres.
+The process into which they enter is, in its results,
+knowledge (knowing), consciousness, experience.
+What is the relation between the factors as in-
+volved in this process? This may be termed the
+fundamental question, or problem, of the science of
+Knowledge, Upon the answer given to this ques-
+tion depends the answer which must follow the
+further inquiry. What is the nature of the factors
+themselves? Are they knowable, and, if so, as what
+are they known to be? Or, otherwise expressed. Is
+a science of Being achievable by man, and, if so,
+what does it teach?
+
+The sensationalist, looking at knowledge in its
+sensible aspect, finds that the relation between sub-
+ject and object is here, apparently, a purely me-
+chanical one; and, in truth, this appearance is the
+essential characteristic of sensible knowledge, qua
+sensible. The technical meaning, above alluded to,
+of the phrase "specifically sensible knowledge" is
+precisely this, to wit. Knowledge resulting from, or
+at all events depending on, a purely mechanical
+process. The sensationalist, dogmatically assuming
+from the start that all knowledge is sensible, and
+only sensible, maintains that the only relation sub-
+sisting between subject and object is a mechanical
+
+Digitized by VjOOQIC
+
+12 rant's critique of pure reason.
+
+one; or, rice rersa, dogmatically maintaining that no
+other than a mechanical relation exists, or can exist,
+between subject and object, thence concludes that all
+knowledge is necessarily of a purely sensible nature.
+A "mechanical relation" — what does this imply?
+It implies that the terms of the relation — in this
+case the subject and object of consciousness — are
+not only numerically different, but are also per se
+wholly independent of and separate from each other.
+A mechanical relation is a purely external and acci-
+dental relation. It consists in mere coexistence, or,
+at most, in superficial contact. It is such a relation,
+only, which the sensationalist conceives as existing
+between subject and object in knowledge. The re-
+lation obviously presupposes a materialistic concep-
+tion of the probable absolute nature of subject and
+object. There, without, is an aggregate of varied
+objects; here, within, is another object, which plays
+the role of subject, having originally no determi-
+nable nature, but being rather " like a piece of white
+paper on which nothing has been written." And
+now the objects begin to play upon the subject in
+the only way which is possible for them, namely, in
+the way of contact or impression. And then, as if
+by magic, the impression becomes illuminated with
+the light of consciousness. By a wonderful trans-
+figuration it becomes an element of knowledge, part
+and parcel of our conscious experience. But where
+in this result are the factors which produced it?
+They are not contained in the product, but are left
+behind or without it. By virtue of the very nature
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 13
+
+of the terms in which they were conceived, and of
+the relation posited as existing between them, it is
+impossible that this should be otherwise. Material-
+istically conceived, and incapable of entering into any
+other than a purely mechanical relation, neither of
+them can enter into the other, nor into a tertiiiin
+quidy termed consciousness or knowledge. They can
+at most only be imagined as coming into contact
+with each other, or, so to speak, with consciousness;
+they cannot become a part of consciousness itself.
+
+What have we, then, as the result of this theory?
+We have, not a scientific explanation or comprehen-
+sion of conscious knowledge, but an act of thauma-
+turgy. We have, on the one side, contact of object
+and subject, or, if you please, communication of mo-
+tion from the environment of a nervous organism to
+the organism itself; on the other, something toto ccelo
+different, namely, conscious states; How the former
+can be transformed into or result in the latter, it is
+forever impossible to see. The two terms, mechan-
+ical contact, or motion, and consciousness, are abso-
+lutely incommensurable. And so it is no wonder
+that the sensationalists themselves unanimously con-
+fess the case to be involved in a baffling mystery,
+thus virtually admitting the failure of their own
+theory as ostensibly a complete science of knowledge.
+And how about object and subject? These were as-
+sumed as factors of consciousness, and consequently
+as something lying within consciousness, or as real
+terms, and hence objects, of knowledge. But in the
+result they have disappeared. They remain without
+
+Digitized by VjOOQIC
+
+14 kant's critique of pure reason.
+
+the pale of consciousness, and hence of knowledge.
+They are unknowable. There remains nothing but
+a series of conscious states, each of which, while one
+and indivisible, is yet — by another miracle! — not
+one, but two, being at once subject and object, or
+conscious (as subject) of itself (as object). Thus the
+purely sensational theory of knowledge explains (?)
+knowledge, or consciousness, by explaining away, as
+unknowable, its real factors, and then making con-
+sciousness itself (conceived as a series of passive
+states) do duty in place of those factors, at once as
+its own subject and object.
+
+The result of this theory is that which in the
+history of philosophy is called Subjective Idealism,
+Scepticism, or Sceptical Idealism, or Agnosticism.
+According to it, knowledge, strictly speaking, is
+confined to the mysterious consciousness which each
+individual has of his own inward states. An object-
+ive world without, as true object of knowledge, and
+a real mind within, as subject of knowledge, — these
+are not known. If existent, they " lie forever be-
+yond our comprehension." Still, along with this
+theory, and in spite of its negative results, its up-
+holders always maintain the ineradicable " belief"
+that world and mind — especially the former, — the
+latter seems to be considered of less account, — in-
+deed exist. But if they exist, they must, it is held,
+exist behind consciousitess, beyond experience, out
+of the reach of sense. Now, as the sphere of sense
+is called the sphere of things physical, world and
+mind must exist beyond or behind what is physical.
+
+Digitized by VjOOQIC
+
+INTRODUCTIOIfl^. 15
+
+In other words, they are metaphysical entities. Now,
+the question arises with the sensationalist, how he
+shall justify his confessed or practical belief in these
+entities. The belief is confessedly opposed to the
+results of his theory, and so strictly " unscientific."
+Still, as it cannot be got rid of, it must somehow be
+made at least to seem rational. And thus the need
+of a new " science " is made to appear — a science
+called '* metaphysics," whose " great problem " is
+to prove the " existence " of something which lies
+wholly without the range of experience, as "scien-
+tifically " defined, namely, the " existence of the exter-
+nal world." Observe, now, that this problem is an
+artificial one, created by and resulting only from
+the negative results of a highly artificial and incom-
+plete theory of knowledge. For a broader and com-
+plete science of knowledge, or of conscious experi-
+ence, this problem does not exist. What is called
+the " external world " already exists and is given in
+man's (not merely sensible) experience, and the prob-
+lem of philosophy, or of the Science of Being, in this
+regard is not to "prove" its existence, but to com-
+prehend it as it exists. The " metaphysical " prob-
+lem, which sensationalism thus creates for itself, is
+of course really insoluble on the basis of the sensa-
+tional theory of knowledge. And so the " metaphys-
+ics," which seeks to solve the problem, can really only
+consist in covering it up with a cloud of meaning-
+less words and hair-splitting, but wholly nugatory,
+distinctions. This illustrates perfectly what has to
+the greatest extent been understood in modern times,
+
+Digitized by VjOOQIC
+
+16 KANT'S CRITIQUE OF PURE REASON.
+
+and most of all in British climes, by " metaphysics."
+The number of its problems is increased by the " In-
+tuitionist " of the historic type, who asserts his pos-
+session of rational intuitions, compelling him to be-
+lieve in the existence of God, the soul, absolute moral
+distinctions, etc., as well as of the external world.
+All of these beliefs are indeed highly rational, and
+nothing is to be said per se against the assertion of
+the corresponding intuitions. But the Intuition-
+ist's conception of the nature of the fundamental
+relation between the factors of consciousness is iden-
+tical with the sensationalist's conception. Hence,
+for him, God, the soul, etc., are what the external
+world is for the sensationalist, namely, something
+lying beyond " experience," metaphysical quiddities,
+whose metempirical reality must, if possible, be
+"proven," — not simply comprehended as it is given
+in experience. Such a conception of metaphy-
+sics, as the foregoing, philosophy wholly repudi-
+ates. The great philosophei's have never had any-
+thing to do with it, except, possibly, to point out its
+absolute absurdity. It is this conception which, as
+we shall see, Kant adopts, but mercilessly riddles
+and demolishes, thereby, in so far, preparing the
+way for the new life of positive philosophy in the
+works of his successors.
+
+Theoretical Materialism, as we have seen, is over-
+thrown by the very science to which it appeals for
+support — the science of sensible knowledge. If
+matter possesses absolute substantial existence, as a
+form of real being sui generis, it can only be known
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 17
+
+through sense. But the analysis of sense — the
+science of sensible knowledge — shows that through
+sense matter can neither be known to exist nor not
+to exist. The absolute assertion of its existence, —
+and still more, the unqualified assertion that all ex-
+istence is material, — is therefore pure dogmatism.
+What survives the destruction of theoretical mate-
+rialism is, then, as we have further seen. Agnosti-
+cism, which we have once above designated " prac-
+tical Materialism." The justification of the designa-
+tion will be at once obvious. Agnosticism — the
+science of the unknowableness of Being — rests on
+the purely sensational science of knowledge. It
+assumes this to be the whole science of knowledge.
+This science rests on certain presuppositions, namely,
+that the relation between the terms of knowledge,
+subject and object, is mechanical, and only mechan-
+ical, and that, consequently, the terms themselves
+must, at all events, and can only be materialistically
+conceived, — which lead, it is true, only to negative
+and apparently self-destructive conclusions. But
+since it is arbitrarily assumed that no other presup-
+positions are admissible or agreeable to experimental
+fact, since the categories of matter and mechanism,
+notwithstanding the sensationalists' demonstration
+of their ontological " inscrutableness," are dogmatic-
+ally declared to be. the only categories admissible in
+scientific thought, it follows that either science must
+be renounced, or it must continue to speak the lan-
+guage -of Materialism, and of Materialism alone. If
+matter be unknowable, yet phenomena, which may
+2
+
+Digitized by Google
+
+18 KANT'S CRITIQUE OF PURE REASON.
+
+be termed phenomena of matter, are known, being
+indeed strictly identical, in the last analysis, with
+those states of sensible consciousness which are
+declared to constitute the whole sum and sub-
+stance — the whole subject and object — of all our
+real knowledge. And so the Agnostic makes all
+our science or knowledge to be in the last resort
+conversant only with so-called phenomena of the
+"redistribution of matter and motion." Hence he
+is to be termed a practical Materialist.
+
+So, then, the purely sensational theory of knowl-
+edge ends by making a science of Being impossible,
+while practically it compels us to adopt the attitude
+of mechanistic materialism. This result cannot
+rationally be resisted — it must the rather be unhesi-
+tatingly adopted, — if the theory in question corre-
+sponds to all the facts involved in the process of
+conscious experience. That it corresponds to some
+of the facts, and is thus relatively true, is not to be
+doubted. There is such a thing as sensible knowl-
+edge, or a sensible aspect of knowledge, and the
+sensational analysis is correct which discovers in
+such knowledge and in all its objects the presence of
+mechanical relations. And so, too, there exists for
+man a realm of existence, or of phenomena of exist-
+ence, which may most conveniently be termed mate-
+rial. The only questions are. Is all knowledge
+purely sensible, or, is the sensible, i.e. the mechan-
+ical, aspect of knowledge its only aspect? And
+then, what is the real nature, or what the true
+explanation, of the realm of apparent existence
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 19
+
+termed material? This last question, it will be
+noted, cannot, in view of what has above been
+shown, be answered, except on condition that we
+really find in knowledge something more than sense,
+as above explained. This is one of the oddities of
+the history of speculation, namely, that philosophic
+materialism, with its mechanico-sensible theory of
+knowledge, being always suicidal, not able to de-
+fend itself, turning all its ontological science into
+nescience, and changing the real material universe,
+which it set out to magnify and defend, into a
+spectre, has at last to turn for protection, or for its
+relative justification, to another doctrine, apparently
+the precise opposite of itself. It is Spiritualistic
+Idealism alone which, finding in knowledge some-
+thing more than mechanical sense, rescues the mate-
+rial universe for us as a scene of objective and
+knowable, though dependent, reality. The real, ob-
+jective truth of " Materialism," or the true defense
+of *' matter," is found, not in the doctrine which
+calls itself " Materialism," but in Idealism.
+
+The first and main question, then, is a question of
+fact. Is it experimentally true that the sole rela-
+tion between subject and object in knowledge is a
+mechanical one; and, if not, what other relation do
+the facts disclose? What are the facts? The facts
+are that subject and object are distinguished within
+consciousness, or knowledge, and not simply outside
+of it. This means that, while numerically different,
+they are, in some real and effective sense, one. And
+this, again, means — " discloses," demonstrates, shows
+
+Digitized by VjOOQIC
+
+20 KANT'S CRITIQUE OF PURE REASON.
+
+— that the relation between them is not simply
+mechanical. Things which are only mechanically
+different can in no real sense be one. They can at
+most be one only in the sense in which we say that
+stones thrown together form one heap, or aggregate,
+of stones. But this unity, the unity of mere aggre-
+gation, is not of the kind which is revealed in
+conscious knowledge. Subject and object are not
+indifferent to each other. It is not pure matter of
+accident whether they come together or not. The
+rather, they are inseparable from each other. Each
+implies and is most intimately one with the other.
+The object becomes object only as it becomes a part
+of the subject; — all consciousness is s^//- conscious-
+ness. On the other hand, the subject becomes
+subject only as it merges itself in its object; — all
+consciousness is objective consciousness. These /ads
+of conscious experience cannot, without contradic-
+tion, be stated in terms of mere mechanism, or con-
+ceived with the aid of its categories alone. And
+yet they are patent and ever-present facts of living
+experience. And the work of a truly objective
+science of knowledge is not to insist that the facts
+shall square with the requirements of a preconceived
+and extremely narrow theory, on pain, if they resist,
+of being declared absolutely mysterious, and so no
+further object of science, but to let them speak for
+themselves; or, in other words, to look the facts
+squarely in the face and simply learn from them
+what relation they disclose as subsisting between the
+subject and object in knowledge, and then, further,
+
+Digitized by VjOOQIC
+
+INTRODtJCTIOK. 21
+
+what ontological nature of subject and object
+(whether materialistic or spiritualistic) this rela-
+tion itself discloses. It is only in this way that the
+true science of knowledge, and, in and through it, of
+being, can be attained. It is, as we have above inti-
+mated, by their pursuit of this way, that the two
+great movements of philosophic inquiry, which
+reached their culminating points with Aristotle and
+Hegel, achieved their durable, positive and com-
+manding results. The series of " German Philo-
+sophical Classics," in which the present volume is
+the first one to appear, will have it for their joint
+task to show, with some detail, by what steps, and
+with what results, the authors, whose work is to be
+exhibited, pushed on in this way, and so succeeded
+in answering the question and interpreting the
+facts which we have before us. And right here a
+digression may be allowed, to make place for the re-
+mark, that the " steps " which Kant, F.ichte, Schel-
+ling and Hegel took, mark a progress. Kant took
+the first step away from, or in advance of, the sen-
+sational theory of knowledge, but only the first.
+Fichte took another, and Schelling still another, the
+final one being accomplished by Hegel. The last
+step reached a goal to which the first one logically
+pointed. In this sense it is perfectly true to say
+that Hegel is the true interpreter of Kant, and that
+the cry now prevalent in philosophical circles,
+" back to Kant," means, and can only mean, when
+logically interpreted, " back also to Kant's suc-
+cessors." Let it further be expressly remarked, in
+
+Digitized by VjOOQIC
+
+22 KANT*S CRITIQUE OF PURE REA50K.
+
+this place, that because one recognizes and insists
+upon what a given pbilosoplier, or set of philoso-
+phers, has positively achieved, it does not therefore
+follow that one must have a partisan's blindness to
+all the possible defects or incompletenesses of the
+achievement, or to the possibly erroneous inferences
+which the philosophers themselves, or their admirers,
+may have drawn from their achievement. The
+authors engaged upon this series of " Classics "
+swear by no name. They simply see in the works,
+which they undertake to expound, a notable contri-
+bution to the science of knowledge and of being.
+The value of this contribution is not determined by
+the names of its authors, but by the measure of its
+correspondence with ever-present facts of life and
+experience, and of its agreement with the positive
+results of all really scientific — comprehensive, cath-
+olic, not partial or prejudiced — inquiry into the
+nature of these facts in all time.
+
+The relation between subject and object is not
+essentially mechanical, and hence subject and object
+are not to be materialistically conceived. If all con-
+sciousness is at once self-consciousness and also
+objective consciousness, so that subject and object,
+while experimentally presented as different, are also
+experimentally presented as in some real and effect-
+ive sense one, the fundamental relation between
+subject and object must be, not dead and inert, but
+living and forceful; not material, but ideal, or,
+rather, spiritual. It is a relation which can only
+be called organic, or the relation of particular to
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 23
+
+particular through the organic identity of both in
+the universal. This is by no means a purely sensi-
+ble or mechanical relation, though it is not exclusive
+of such relation, rightly understood. Nor is it an
+unintelligible one. On the contrary, it is the most
+intelligible of all relations, being present wherever
+there is life. For illustration of it we refer the
+reader to the last part of Chapter IV below. In
+view of the fact that the relation is of the kind
+above described, it follows that its terms, subject and
+object, cannot simply be space-occupying atoms.
+They are not merely sensible entities, or "sub-
+stances," mechanically separated from each other.
+They reveal themselves primarily as activities.
+They actively unite in one, and at the same time
+keep themselves differentiated, the one from the
+other. More especially they reveal themselves as
+forces of the only kind which man has ever been
+able to conceive without contradiction, namely, as
+spiritual forces, self-illuminated by intelligence and
+rooted in will. It follows, then, that being is not
+simply inertly existing in space; no such existence,
+considered absolutely, is known or knowable. Being
+is Doing, and Doing is, in the first and last resort,
+the operation of Spirit. But the activity of Spirit
+is Life, and so Life in some sense is coextensive with
+the realm of Reality. It is in the contemplation
+of such results of inquiry as these, that Plato terms
+the Absolute the Good; Aristotle, pure Energy,
+which is the same as Mind (and he adds, " Energy of
+Mind is Life"); St. John, Love; Hegel, Spirit; and
+
+Digitized by VjOOQIC
+
+24 KANT'S CRITIQUE OF PURE REASON.
+
+all of these designations, rightly interpreted, express
+the same truth of absolute fact or of absolute expe^
+rience.
+
+The full truth of these results of philosophic in-
+quiry, thus fragmentarily stated, is appreciated in
+all its significance only as the result of an appro-
+priate scientific discipline of intelligence ; or, in
+other words, of persevering, objective study of facts.
+The same thing is, in its measure, true as regards
+the results of any science. And yet they lie dem-
+onstrated in the history of philosophy, or of scien-
+tific inquiry into the nature and real content of
+our conscious experience, or knowledge. The fur-
+ther proof of their truth is found in their agree-
+ment with man's whole and undivided experience,
+and in the circumstance, demonstrated by the whole
+history of thought, that, except on worthless grounds
+of purely dogmatic, wilful assertion, no other reso-
+lute philosophy or Science of Being has been, or
+can ever be, maintained. To attend to the latter
+point first. The only doctrine other than the one
+above sketched, which has a scientific character and
+somewhat resembles a philosophy, or a Science of
+Being, is Practical Materialism, — otherwise termed,
+nowadays. Agnosticism. We have seen that this
+doctrine is nevertheless, as its new name implies,
+not philosophy, but the denial of the possibility of
+philosophy. But this is only the negative and
+purely dogmatic part of Agnosticism. The positive
+substance of Agnosticism is nothing other than
+Physical Science. It adopts the just and admitted
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 25
+
+principles, methods and limitations of physical sci-
+ence, and consists then, on its positive side, in seeking
+to show what are, or must be, the highest generaliza-
+tions or results of such science, and to demonstrate
+their truth. Now, the subject-matter of physical
+science is coextensive with the sphere of sensible
+existence, qua sensible. The general nature, or
+theory, therefore, of physical science, considered as
+pure science or ^'«Oi£7/^(7^^, is determined by or results
+from the science of sensible knowledge, qua sensible.
+In agreement, accordingly, with the results of this
+latter science, we find that physical science, in its
+highest generalizations and ideals, remains ever
+within the category of pure mechanism, and that it
+limits the objects of its knowledge — the subject- .
+matter of its inquiry — to conscious, sensible phe-
+nomena. It knows no absolute substance or entity,
+whether material or otherwise, and it knows no
+force. It only knows sensibly conscious phenome-
+na of figured space and motion. Now, it were,
+of course, ludicrous to say that this nature and these
+limitations of physical science detract in the least
+from the positively scientific and fruitful character
+of such science. And so far as Agnosticism simply
+makes common cause with physical science and seeks
+to promote its development, it is itself positively
+scientific. But when it says that physical science
+is all science, sensible knowledge all knowledge, it
+becomes dogmatic. It denies, as it must then do,
+the possibility of philosophy, and, in doing so on
+the ground which it alleges, it virtually declares that
+
+Digitized by VjOOQIC
+
+26 rant's critique of pure reason.
+
+within the field of real, positive philosophy Spirit-
+ualistic Idealism has no rival. If it have such rival,
+it must find it in physical science. But physical
+science here declares its impotence. Its " realism/'
+the realism of sense, or of sensible knowledge as
+such, turns to the most intensely subjective " ideal-
+ism " — an " idealism " falsely so called, that limits
+all knowledge to subjective sensible appearance, and
+knows nothing of the true, objective Ideal or Spirit-
+ual, which is the true and ever-present Real, and the
+living seat of Efficiency, o*f Power, of Being. But
+such '• idealism " falls far short of the realism of
+experience. Even the popular consciousness of man-
+kind — nay, the very consciousness of the Agnostic
+himself (who postulates an " inscrutable force "
+underlying the universe) sees in the world some-
+thing more than conscious phenomena of configura-
+tion and motion. And now to this side of experi-
+ence, philosophy, or Spiritualistic Idealism, shows
+itself true. Philosophy has, with reference to phy-
+sical science, nothing to do but to acknowledge and
+confirm the justness of her results, as far as they go.
+But she supplements them by showing what they
+mean. She shows that sensible phenomena point
+to and manifest a reality which is within, and not
+without, experience. The physical or so-called ma-
+erial universe is real, — real not only in the ab-
+stract and ontologically shadowy sense in which
+physical science, or the " philosophy " reared in its
+name, depicts it, but in a concreter and more vital
+sense. It is real, not simply as the subjective con-
+Digitized by VjOOQIC
+
+INTRODUCTION. 27
+
+scious product of assumed forces, but as the objec-
+tive scene of the action of real forces, which, being
+true forces^ are of spiritual origin, subject to laws
+of perfect purpose, and consequently of invariable
+order, and which work- together for the production,
+not simply of " one far-off divine event," but of
+myriads of present and ever-continuing divine
+events. The whole truth, such as it is, of material-
+ism is not only recognized by philosophy ; it is also
+explained, and that, too, in agreement with the
+essential nature of human experience.
+
+But the characteristic side of human experience
+is not materialistic, mechanical, sensible. Man has
+a life, and this his characteristic life, in religion,
+art, society, and even in communion with and mas-
+tery of nature herself. In all these relations his
+experience confirms and is explicable only by that
+organic-spiritual theory of experience which results
+from the completed science of knowledge, and which
+philosophy adopts. In all of them the individual,
+while retaining all his individuality, is yet organic-
+ally one with a larger life, which imparts to his own
+individual life its true substance, giving it a fixed
+and inspiring purpose, and a character founded in
+the universal, the abiding, the true. Such facts as
+these, mechanism, which knows no organic unity,
+no true life, no spirit, is unable to explain. It can
+analyze, on their phenomenal or sensible side, the
+factors involved in the relations noted, and trace
+their outward mechanical history, — and this is well;
+this is valuable and, for complete knowledge, neces-
+
+Digitized by VjOOQIC
+
+28 KANT'S CRITIQUE OF PURE REASON.
+
+sary. But exclusive mechanism misses the one thing
+which above all others it is needful to recognize, — the
+** spiritual bond/' the common, coOperant, efficient
+life, the eflective purpose, the synthetic, inspiring
+power. And yet this one thing is here and with us,
+ever present in conscious experience. And it loses
+its mystery as an object of knowledge or comprehen-
+sion just so soon as we recognize that the funda-
+mental relation in all conscious experience is a
+relation of members which are in organic unity,
+which exist only as terms of a living process, in and
+through each other, or in and through a universal, a
+power and life of spirit, which (as God) indeed
+transcends them both, but still does not exclude
+them; the rather, in agreement with its essential
+nature as Love, includes them in its own embrace,
+and so gives light and being to everything that
+" Cometh into the world."
+
+Such, in general and all too vague outline, is the
+only ontology known to philosophy. It is the only
+ontology which has in it positive, nay, universal and
+all-comprehensive substance, being founded on the
+whole of experience and mutilating or cutting off no
+member thereof. It alone makes the universe to be,
+for intelligence, not merely a universe of brute fact,
+(and so in truth not a universe for intelligence!)
+but of overflowing meaning and of absolute, because
+spiritual, and so effective and self-illuminating, real-
+ity. And of such order is the truth demonstrated
+in the classic philosophy of Greece, and in German
+philosophy from Leibnitz and Kant to Hegel.
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 29
+
+The first step in the modern, German demonstra-
+tion was taken by Immanuel Kant, who, born of
+humble parents (the father was of Scottish origin)
+in the city of KOnigsberg, in the year 1724, died
+there in the year 1804.
+
+Modern philosophy, before Kant's time, had, as a
+whole, been effectually stunted in its growth. This
+in consequence of two circumstances: first, that as
+a general rule, the so-called founders of modern
+philosophy made it a principle of their procedure
+v/holly to " break off from the past," i.e. haughtily
+to ignore ancient philosophy, rather than to com-
+prehend it »nd learn the true lesson of its merits as
+well as of its deficiencies; and secondly, that mod-
+ern philosophy took its rise at a time when the
+mathematical and physical sciences, which are spe-
+cifically concerned only with the facts or condition-
+ing forms and relations of sensible existence, were
+being, or were beginning to be, cultivated with
+unusual zeal and success. The contagion of the
+influence and example of these sciences inspired the
+disposition, on the part of philosophy, to imitate
+their method and adopt their theoretical presupposi-
+tions. So it came about that in modern philosophy,
+down to the time of Kant, the category of mechan-
+ism reigned well-nigh supreme. But the category
+of mechanism, as we have seen, corresponds to and
+expresses the characteristically sensible side or aspect
+of conscious experience, and its exclusive adoption
+implies the adoption of a purely mechanical theory
+of the process of knowledge and an essentially mate-
+Digitized by vjOOqIc
+
+30 kant's critique of pure reason.
+
+rial is tic conception of the terms involved in this
+process.
+
+All this is signally illustrated in the general
+complexion and results of the philosophy of Des-
+cartes and Spinoza, notwithstanding the garb of
+dogmatic idealism with which their doctrine is more
+or less completely invested. We note here only one
+point. Philosophy, as Science of Being, seeks, of
+course, an adequate conception of the nature of
+being, as such, and an adequate expression for the
+conception. The expression naturally follows and
+conforms to the conception. Now, the Cartesian and
+Spinozistic synonym for absolute Being is Substance.
+The term substance suggests only mechanical and
+sensible relations. One may term the Absolute, or
+Absolute Being, " God," with every breath, as Spi-
+noza does. But as long as the Absolute is conceived
+and defined only as a " substance," the word '* God -
+will be but an empty name. The relations expressed
+by the term substance are abstract, mathematical,
+dead. They are relative to the concrete, living,
+spiritual, from which they are abstracted. God is a
+living Spirit, or he is nothing. The Absolute is
+spiritual, or else, as the history of philosophy shows,
+unknowable. To term and conceive it simply as
+substance, is really to lose sight of it, and to treat
+as absolute that which is in fact only relative, de-
+pendent, phenomenal. A " philosophy " which does
+this is dogmatic — a description commonly given in
+the history of philosophy to the doctrine of Des-
+cartes and Spinoza. Leibnitz, the one man who,
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 31
+
+thoroughly conversant with the mathematical and
+physical science of his time, and also with ancient
+as well as modern philosophy, towered above all
+others of the two centuries between which his life
+was divided, in the matter of positive philosophic in-
+sight, continued, while correcting Descartes's and
+Spinoza's error of conception, to employ for the
+Absolute the term which they had used. He called
+it substance, but then declared, " Substance is
+Action." All absolute existence, he saw and held,
+is an energy of intelligence. The conception w,as
+correct, but the above terms in which it was ex-
+pressed, involved, when taken literally, a patent
+paradox. And we may say that, corresponding to
+this defect in expression, the grand defect in Leib-
+nitz's whole doctrine arises from the presence in it
+of a mechanistic element, not reduced into harmony
+with the main spiritualistic tendency.
+
+Even more signally, though in a very different
+fashion, is our thesis respecting the prevailing char-
+acter of philosophy before Kant's time illustrated in
+the history of British inquiry. Prom the time of
+Francis Bacon down almost to this day, the leading
+and dominant current of British speculation has run
+in the channel of sensational empiricism. It has
+been a self-styled "experimental philosophy," a phi-
+losophy founded in experience, as, rightly under-
+stood, all philosophy must be and is. But then
+experience has been identified with " sense," and sense
+has been considered only, or in the main, on its
+modal side, as a physico-mechanical process, to the
+
+Digitized by VjOOQIC
+
+32 KANT'S CRITIQUE OF PURE REASON.
+
+exclusion of its other, essential and conditioning,
+side, — the side which Kant proceeded anew to point
+out, and the one whereby sense, or sensible experi-
+ence, reveals itself as grounded in an energy, or
+energies, of spirit. Thus " experience " has been, in
+principle, reduced to a superficial minimum, being
+regarded as a process in which the subject is essen-
+tially passive, and only mechanically acted upon by
+environing " objects." So, in Britain, the mechan-
+ical theory of sensible knowledge was developed as
+the theory of all knowledge, ending, with Hume, in
+those results of purely Subjective Idealism, Scepti-
+cism, or Agnosticism, — a veritable atony or astheny
+of thought, — which have been noted in the earlier
+part of this Introduction, and have been repeated
+by notable followers of Hume in Great Britain to
+the present day.
+
+Such, then, was the speculative atmosphere of the
+modern world, into which Kant was born, and in
+which he was reared. How completely he came
+under its pall-like influence will appear in connec-
+tion with the following biographical details. What
+eflbrts he finally made to break through its spell
+and to regain the terra firma of man's living experi-
+ence, his monumental works disclose.
+
+Kant was educated at the university of his native
+city, and for nearly a half-century lectured within
+its walls. Never in his life going more than a few
+miles away from his birthplace, he studied men and
+events, at home and abroad, with the relish of a
+keen and thoughtful observer. In classical litera-
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 33
+
+ture, especially that of the Latin poets, in mathe-
+matics, and in the physical science of his time, he
+was a vigorous adept. Of the truth of the last part
+of this statement Kant's earliest writings, which are
+almost all devoted to special or general physical
+problems, give abundant evidence. Indeed, the very
+first work of Kant, published when he was only
+twenty-three years of age, aimed at the composition
+of the strife between the Cartesians and the follow-
+ers of Leibnitz respecting the true formula for the
+expression of the constancy of the physical universe,
+and belonged to the same general order of discus-
+sions with those which have latterly resulted in the
+enunciation of the law of the Conservation of Energy.
+In this and other early writings Kant indicates the
+most comprehensive familiarity with the names and
+investigations of leading naturalists and physicists
+at home and abroad, — including, especially, New-
+ton, — and an absorbing and active interest in them.
+In 1755 he published a mechanical " Theory of the
+Universe," which has caused him to be ranked with
+Laplace among the fathers of the modern nebular
+hypothesis.
+
+The original direction of Kant's mind was thus
+not exclusively, or even mainly, toward " metaphys-
+ical," or technically philosophical, problems; although
+in his physical works he indicates more or less a
+constant consciousness of metaphysical questions.
+He had been bred in the current metaphysics of
+his time, the so-called Leibnitz- Wolffian philosophy,
+in which the living thought of the acknowledged
+8
+
+Digitized by VjOOQIC
+
+34 KANT'S CRITIQUE OF PURE REASON.
+
+master, Leibnitz, had been reduced to a systematic,
+but lifeless, and hence comparatively uninstructive,
+formalism. Through this, as will be subsequently
+seen, Kant nevertheless imbibed many a germ of
+real philosophic thought, but he was not hide-bound
+in this or in any other so-called metaphysical sys-
+tem. On the contrary, in his very first published
+work he expresses incidentally his distrust of all
+current metaphysics, by declaring that " our meta-
+physics, like many other sciences, has in fact only
+come to the threshold of real and solid knowledge,
+and God only knows when we shall see it step across
+the threshold."
+
+The growing influence of his predilection for
+physical inquiries, and of his increased and absorb-
+ing study of British writers, such as Newton,
+Shaftesbury, Hutcheson and Hume, in increasing
+this distrust, and in leading him, for the time being,
+to identify '* metaphysics," through psychology, with
+physical science, and the whole method of the former
+with the method of the latter, is indicated in grow-
+ing measure in the succeeding products of Kant's
+pre-critical thinking, and especially in a series of
+works belonging to the years 1763-1766.* Here
+we find Kant declaring that " the genuine method of
+metaphysics is substantially identical with that which
+Newton introduced into physical science, and which
+
+* The works referred to are especially the following: The Only Pos-
+sible Ground for a Demonstration of God's Existence, 1763; Inquiry
+concerning the Evidence of the Principles of I^atural Theology and
+Ethics, 1764; and Dreams of a Visionary, illustrated by Dreams of
+Metaphysics, 1766.
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 35
+
+has there been followed by such useful results. This
+method consists in seeking out, by assured experi-
+mental methods, and also with the aid of geometry,
+the rules according to which certain natural phe-
+nomena occur." Metaphysics must find its place
+" on the lowly ground of experience [sic] and com-
+mon sense." Its " principal " work is to analyze the
+" confused " contents of consciousness, or our " ideas."
+True, the " metaphysician " will not in this case get
+beneath the surface of the case under investigation,
+so as to understand its whole nature; he will still
+know only the phenomena. But he will have the
+consolation of reflecting that, once in possession of
+laws or of the final results of analysis, he may there-
+after, for his varied profit or instruction, employ
+them as a basis for the deductive determination of
+obscure questions of fact or for the practical guid-
+ance of life. As for those convictions which are
+" in the highest degree necessary for our happiness,"
+and which do not concern or depend on the ascer-
+tainment of " the rules according to which phenom-
+ena occur" (since in fact they relate to the ultra-
+phenomenal or to the truly metaphysical), these
+have not been left " by Providence " to depend on
+subtle ratiocinations, but "immediately communi-
+cated to the natural common sense of mankind."
+They are written immediately upon *' the heart,"
+and are the subject of a " moral belief," which is
+quite sufficient for all practical purposes, even
+though it may defy all theoretical justification.
+Here we find Kant adopting completely the atti-
+
+Uigitized by VjOOQIC
+
+36 KANT'S CRITIQUE OF PURE REASON.
+
+tude, and even copying the style and language, of
+the British moralists and psychologists. Here he
+touches philosophical low- water, reaching a point in
+his mental history where he must choose between
+floating henceforth upon a tide that never rises to
+philosophical knowledge, or making strenuous efforts
+to stem the tide and gain the rock-ribbed eminence
+that overlooks and sets bounds to its movements.
+We shall find that he chooses the latter course, and
+that he indeed " practically " (as he would term it)
+conquers a seat upon the eminence referred to, but
+that, half dazed by the brilliant prospect, half blind-
+ed by the old psychological prejudices, he does not
+literally believe his own eyes, but continues to the
+end to ascribe to an invincible moral " faith " what
+he dares not and, owing to the continuance of an
+equally invincible mechanistic prejudice, knows not
+how to hold as matter of " theoretical " knowledge.
+
+But the fact that Kant had thus at one time so
+completely identified himself in sympathy and con-
+viction with the British type of speculation, lends
+peculiar interest and instructiveness, for us English
+readers, to the history of the labor by which he
+sought to supplement and correct it. Only, as above
+noted, we have not learned our whole lesson from
+Kant until we have learned what those successors
+of Kant have to teach, who, in their turn, supple-
+mented and corrected him.
+
+It is interesting to note that, in the works of the
+brief period above alluded to, and especially in an
+" Attempt to Introduce into Philosophy the Ooncep-
+
+Digitized by VjOOQIC
+
+iirrRODUcTioK. 87
+
+tion of Negative Magnitudes," published in 1763,
+Kant already gives marked evidence of tbe disturb-
+ance in his thought caused by Hume's negative
+conclusions respecting the nature of scientific causa-
+tion or law. It is well known to students of Kant
+that it was especially this disturbance, which imme-
+diately provoked Kant to the inquiries that resulted
+finally in the composition of the " Critique of Pure
+Reason." According to Hume, cause and eflfect meant
+only phenomena, which habitually succeed each other.
+Of " necessary connexion " between them there was
+asserted to be no discoverable trace. " Anything
+might be the cause of anything." In this way
+scientific law was eviscerated of all rational signifi-
+cance.
+
+Kant, now, was early struck with the singularity
+and apparent gravity of this conclusion, which, how-
+ever, he was unable to disprove, and so, for the time
+being, apparently accepted as final truth for man;
+but only for the time being.
+
+From the year 1755 until 1770 Kant's position in
+the University of KOnigsberg had been only that
+of an independent lecturer, or " Privat-docent," pri-
+vileged to draw as many students to his lectures
+as he could, and to receive from them the usual
+fees, but holding no official appointment. In 1770
+he was made professor of logic and metaphysics,
+and in the Latin *' inaugural dissertation," (on the
+" Form and Principles of the Sensible and the In-
+telligible World,") with which he entered upon
+the performance of his new functions, first gave
+
+Digitized by VjOOQIC
+
+38 KANT'S CRITIQUE OF PURE REASON.
+
+evidence of a newly-beginning revulsion from the
+psychological dogmatism in which, according to
+his own later confession, he had been "slumbering."
+Then followed a period of ten years, in which " the
+K5nigsberg thinker '* rested almost wholly from
+literary activity and meditated the work which he
+finally composed, according to his own account,
+within four or five months, and gave to the world,
+in 1781, in a bulky volume entitled the " Critique
+of Pure Reason.'* In 1783 followed the "Prole-
+gomena," a smaller, explanatory volume, or popular
+exposition of the Critique. A second edition of the
+Critique^ revised and enlarged, was published in
+1787.
+
+As soon as the nature ajid purport of the Critique
+began to be perceived, the work was studied with
+the most absorbing attention, and through the press
+and in university lecture-rooms was discussed with
+the liveliest interest. The pedantries of scholastic
+formalism and other perplexing obscurities of style,
+in which the book w^as not deficient, could not con-
+ceal the fact that here a living, earnest voice was
+crying out of the wilderness of eighteenth-century
+formalism and superficialism and uttering a mes-
+sage, not lightly conceived, but thought out through
+years of patient ^tudy, and addressed, not to
+the past, nor to sonie remote and abstract future,
+but to the immediate present and to its urgent
+intellectual needs. Whether, therefore, to be con-
+demned and reviled or to be approved and lauded,
+Kant's Critique quickly became the common theme
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 39
+
+and starting-point for philosophical discussion.* Of
+no other single work can it more truly be said that
+it created an epoch in the history of philT)sophic
+thought.
+
+Besides the " Critique of Pure Reason," Kant wrote
+and published two other Critiques, the one (1788) on
+the " Practical Reason," and the other (1790) on the
+" Faculty of Judgment." The first of the three Cri-
+tiques seeks to define and demonstrate the nature,
+conditions and limits of scientific or " theoretical "
+knowledge; the second, to ascertain the ground and
+enumerate all the implications, or necessary postu-
+lates, of our moral or " practical " conviction; and the
+third, to exhibit the nature and significance of those
+judgments of men, by virtue of which they under-
+take to declare, on the one hand, that some objects
+are beautiful, others sublime, etc., (-Esthetic judg-
+ments,) and, on the other, that the operations of
+nature in general, and of organic nature in partic-
+ular, are purposeful or denote intelligence (Teleo-
+logical judgments). The three Critiques consti-
+tute an organic whole, and must all be considered
+together, in order rightly to estimate Kant's historic
+achievement and its relation, as stepping-stone and
+prophecy, to the completer work of his successors.
+
+The " Critique of Pure Reason," however, taken by
+
+* An interesting brochure by Prof. Matem Reuss, published in 1789,
+and in which a favorable answer is given to the question (of the title-
+page), '* Shall Kant's Philosophy be Explained at Catholic Universi-
+ties?" gives suggestive details in evidence of the general attention
+which was already given to Kant's Criticism at the German Universi-
+ties and elsewhere.
+
+Digitized by VjOOQIC
+
+40 rant's critique op pure reason.
+
+itself, not only points the way to the other two
+works, but anticipates, in compendious form, their
+leading results.
+
+The main starting-point of the " Critique of Pure
+Reason," now, is to be found in the results of British
+sensational empiricism, as formulated by Hume.
+The work has then a double object or result, a proxi-
+mate or immediate and a remote or indirect one.
+Of these, again, the former is two- fold, consisting
+
+(a) in establishing the at least formal dependence of
+sensible knowledge, and especially of pure mathe-
+matical and physical science, on intellectual or spiri-
+tual, as well as mechanico-sensible, conditions, and
+
+(b) in enforcing the truth that the conceptions and
+method of physical science, as such, are irrelevant
+for the demonstration or disproof of truths which
+lie deeper than, or beyond, the immediate sphere of
+purely sensible phenomena. Through the first or
+immediate result, especially the second part of it, the
+remote or indirect one is reached, which is, to " se-
+cure a place for faith " (Crit. of P. i?.. Preface to
+2d ed.). For, Kant holds, not as a result of his in-
+quiry — the rather, in express opposition to its logi-
+cal implications — but as a result of the influence
+upon him of a blinding mechanistic prejudice of his
+age, that there is no knowledge, in the strict sense
+of the term, except such as is characteristically de-
+pendent and consequent upon the mechanical pro-
+cess of "sensible affection." Whatever may be the
+influence of our own mental mechanism (as Kant
+conceives it) in determining the form which our
+
+Digitized by VjOOQIC
+
+INTRODUCTION. 41
+
+knowledge may take, the latter is, in substance, so
+far as it is to be called true, objective knowledge,
+wholly physical. But the range of physical knowl-
+edge does not extend beyond the sphere of sensible
+phenomefia. Noumena, or '* things-in-themselves,"
+are hence strictly, or " theoretically," unknowable.
+By knowledge, i.e. by physical science, we can de-
+termine nothing about them. If, therefore, we find
+ourselves subject to certain indefeasible moral con-
+victions, respecting God, Freedom, Immortality, and
+the Objective Beauty and Reason of the universe,
+we are left at liberty to fill up the space left vacant
+by knowledge, as the exigencies of our moral convic-
+tion or of a " rational faith " may require. And
+this is what Kant proceeds to do in his second and
+third Critiques.
+
+Philosophy, as theoretical Science of Being, is
+thus not brought by Kant out of the woods of
+mechanism and formalism, and consequent subjec-
+tivism. But he, like a blind Samson, with powerful
+blows removed many obstacles of prejudice which
+lay in her way, giving an impulse and a cue to
+others who came after him, and who led philosophy
+further on " into the green meadows of objective
+reality." In particular, it is the merit of Kant to
+have enforced (after Leibnitz) the first and sim-
+plest lesson which modern times had to learn, as
+a precondition to the existence of philosophy in an
+independent and energetic form, — we mean the les-
+son of the exact ontological limitations of physical
+and mathematical science, and consequently of the
+
+Digitized by VjOOQIC
+
+42 KANT'S CRITIQUE OF PURE REASON.
+
+restricted range within which the peculiar meth-
+ods of such science suffice for the exhaustive ascer-
+tainment or demonstration of experimental truth.
+Whenever, therefore, and so far as the attempt is
+made to lift physical and mathematical science into
+the place of philosophy, the lesson of Kant has but
+to be pondered anew. Forty years after Kant's
+death this lesson was widely forgotten in his own
+country, and precisely the attempt just noted
+became very generally prevalent, though, as might
+have been foreseen, its results were only negative
+results. It is, therefore, one of the happier signs
+of the times — and in no sense surprising — that
+during the last ten or fifteen years *' return to
+Kant" has been in Germany more and more the
+common watchword. The result has been, among
+other things, a voluminous addition, in the way of
+criticism, exposition, and commentary, to the litera-
+ture about Kant. The more important result must,
+and undoubtedly will, be a return to those suc-
+cessors of Kant in whom his thought is completed ;
+or, still better, a return to philosophy and its pecu-
+liar method, irrespective of all the names, whether
+ancient or modern, which stand for its highest
+achievements.
+
+English psychology, which had most to learn from
+Kant, has learned least from him. It has known
+little of him, and comprehended still less. It is
+only latterly, since the study and illustration of
+Kant have been taken up by British scholars, who
+have traveled far enough in post- Kantian German
+
+Digitized by VjOOQIC
+
+INTRODUCTIOK. 43
+
+philosophy to appreciate Kant' s limitations as well
+as his merits, that solid and valuable coaityibntions
+have been made in English to Kantian mterpreta-
+tion. And, as relating especially to KanVs first
+Critique, the subject of this volume, it is a real
+pleasure to be able to point the English reader to
+works of such substantial merit as Edward Caird's
+"The Philosophy of Kant" (Glasgow, 1877), Robert
+Adamson's four lectui-es " On The Philosophy of
+Kant" (Edinburgh, 1879)*, and John Watson's
+" Kant and his English Critics " (Glasgow and New
+York, 1881).
+
+Kant's " Critique of Pure Reason " has been twice
+translated into English, — first by F. Heywood (Lon-
+don, 1838), and next by M. D. Meiklejohn (London,
+Bohn, 1855). Of these the latter is in common use,
+though quite inadequate to conduct the English
+reader to the full sense of the original. A new
+translation, by Max MUller, is promised.
+
+In the present work the author has preferred to
+translate directly from the original such passages
+of the Critique as it was necessary to quote. By
+quotation-marks, and generally by the context, these
+passages are indicated.
+
+* Cf. Prof. Adamson'a article on Kant, in the Encyclopaxiia Br'i-
+tannica, 9th ed., vol. xiii.
+
+Digitized by VjOOQIC
+
+KANT'S CRITIQUE OF PURE REASON.
+
+CHAPTER I.
+
+THE QUESTION STATED.
+
+WHAT is Experience? It is, at all events,
+something of which we are conscious. It is
+surely nothing of which we are not, either really or
+potentially, conscious. Perhaps, then, if we can
+succeed in making our ordinary consciousness and
+its whole history lie, as it were,* before us, as a
+fixed, and determinate, and motionless object, like
+the dead body on an anatomist's table, capable of
+being dissected and otherwise analytically investi-
+gated, we may be able to answer the question.
+This is the " Baconian method," which works well
+in physical science; why should it not be followed
+with equal success in the present case? It is the
+historic method of English and Scotch psychology,
+and the final answer which it authorizes to our
+question is, that experience, or consciousness, is
+made up of an indefinitely numerous collection of
+conscious states, which differ among themselves only
+in respect of vividness, and which, while capable of
+being partially analyzed and described, are abso-
+
+44
+
+Digitized by VjOOQIC
+
+THE QUESTION STATED. 45
+
+lately incapable (from the psychological point of
+view) of genetic explanation.
+
+The tautology of this conclusion — " consciousness"
+made up of " conscious states," — is sufficiently obvi-
+ous. Its insufficiency, when compared with actual
+experience, is no less apparent. For experience is a
+living whole, rich in variety, but having its parts
+bound together in organic unity, while in the results
+of psychological analysis we find only a monotonous
+aggregate of lifeless " states," — the disconnected and
+independent atomic constituents of a consciousness
+which we must " murder," and hence absolutely dis-
+figure, "to dissect." In real conscious experience
+there is synthesis, which means simply that our con-
+sciousness is not atomically simple and incomplex. It
+is complex, and each element is bound to all the rest
+by relations inherent in the nature of them all (logi-
+cal or '* objective" relations, or syntheses), while all
+are also held together and sustained through their
+living and organic relation to tl>e one and self-same,
+or ever personally identical, agent or " Ego," which
+is conscious or thinks. But among the conscious
+states which alone empirical psychology leaves us,
+there is no inherent synthesis, or relation. Each is,
+as Hume tells us, an '* independent existence," a sort
+of atom of consciousness, which might exist by itself,
+even if there were no other atoms of like nature.
+It needs nothing beside itself for its own explana-
+tion. Indeed, it is incapable of explanation, and
+stands complete in itself as simply one unrelated,
+brute, inexplicable fact. Moreover, since these states
+
+Digitized by VjOOQIC
+
+46 KANT'S CRITIQUE OF PURE REASON.
+
+are in a constant flux, since no necessary relation is
+admitted among them, and since no self-conscious
+and ever self- identical agent or Ego is recognized,
+with power to hold them all together in its intelli-
+gent embrace, it follows strictly that at any given
+instant consciousness must consist only of one indi-
+visible state; it must be, as it were, an incomplex
+conscious point, without breadth or thickness, i.e.
+without distinguishable content. Thus, conscious-
+ness at any given instant, having no distinguishable
+content, is practically nothing, and consciousness as
+a whole is made up of such nothings, — all of which,
+unquestionably, is sufficiently absurd.
+
+Accordingly, empirical psychologists always pos-
+tulate, either expressly or by implication, certain
+synthetic *' operations " of " mind,'' such as memory,
+comparison, etc., as being necessary to account for
+the obvious syntheses among conscious phenomena,
+though not strictly given among the latter; and then
+go on to cover up this evidence of their recreancy to
+their own principles by treating of these postulated
+" powers" as if they, too, were only a special order
+of the phenomena or states which they were to ex-
+plain. They take advantage, however, of what they
+have thus gained, or stolen, from rational psycho-
+logy, to the extent that they allow conscious states,
+or " impressions " and *' ideas," to come and to be
+perceived, not singly — which would be impossible —
+but in " bundles " or loose aggregates. A landscape
+is indeed practically perceived by us as a whole, and
+not simply as a succession of the sensible impres-
+
+Digitized by VjOOQIC
+
+THE QUESTION STATED. 47
+
+sions which the different points of the landscape
+must produce. The setting of the sun is indeed
+viewed by us as one connected process, and not
+simply as a pure succession of perceptions, the pres-
+ence of each of which implies the total exclusion from
+consciousness of all which preceded it. There are,
+indeed, at least such ^^ phenomena'' as memory and
+expectation. So much of synthesis is practically
+admitted. But then the contention is that any con-
+stant relations which apparently subsist among the
+phenomena are fortuitous and mechanical, or purely
+" empirical," and that they are in no sense inher-
+ently necessary and universal, or at least cannot
+be known to be so. All our knowledge is from, of,
+and strictly confined to, *' experience," they say, —
+meaning by experience the whole collection of our
+sensible, but wholly unaccountable, " impressions and
+ideas," and nothing else. The world, it is held, is
+not incarnate reason, nor is the knowing mind or
+spirit of man impersonated reason. At all events,
+if this is so, it cannot be known to be so. It is not
+implied or given in the facts, or, consequently, in the
+true theory or account of knowledge or experience.
+Knowledge or experience is a mechanical accident,
+and nothing else.
+
+Now, Kant at the very outset takes issue with this
+account of experimental knowledge. He declares
+that, as matter of obvious and notorious fact, while
+all our knowledge, considered with reference to its
+objective or material substance, may begin with, and
+ever depend on, sensible impressions, or " experi-
+
+Digitized by VjOOQIC
+
+48 KANT'S CRITIQUE OF PURE REASON.
+
+ence," as understood by the sensational psychologist,
+there is nevertheless an element contained in it
+which does not spring from this source. Kant does
+not, as he well might, stop to contend that that
+minimum of merely mechanical, and hence lifeless
+and accidental, synthesis which the empirical psy-
+chologists admit under the name of " association " or
+** habitual succession," is not contained in the origi-
+nal data of empirical psychology — namely, sensible
+impressions and their copies, or atoms of conscious
+state, — but is abstracted by them from that realm
+of living and ultra- mechanical experience into which
+they, like all other men, are born, but to which they
+resolutely seek to shut their eyes. He does not stop
+now to point out that thus experience, as finally
+viewed by the empirical psychologist himself, already
+contains an element which, from a strict interpreta-
+tion of the psychologist's own premises or point of
+view, is non-empirical or " a priori,'' He concedes
+the so-called ** principles " of accidental association
+and habitual succession as something which, for the
+time being at least, it is not worth while to strive
+about, and declares that, as matter of fact, our
+knowledge does contain elements which these prin-
+ciples — or which the empirical psychologist's "ex-
+perience," of which these principles express the
+highest reach — cannot explain. Through no obser-
+vation, namely, of the accidental association of sen-
+sible impressions and ideas, however long continued,
+could we ever become aware of truths which are
+
+Digitized by VjOOQIC
+
+THE QUESTION STATED. 49
+
+strictly and self-evidently necessary and universal.*
+Habitual association and succession can never induce
+the perception of an absolutely necessary and univer-
+sal connection of ideas. This indeed was also asserted
+by Hume, who accordingly denied that such connec-
+tion was in fact ever perceived. We might think
+that we perceived it, but in reality we were subject
+to a delusion, which habit was sufficient to explain.
+
+Nay, but, says Kant, it is not a delusion, or, if
+the contrary be true, then are we deluded in all our
+most valued and solidly demonstrative sciences. All
+of the propositions of pure mathematics express
+truths which, by universal consent, are absolutely
+necessary and universal. Nay, the commonest un-
+derstanding constantly employs principles of like
+character, such as, for example, this, that " all
+change must have a cause." Not only is mankind
+in possession of manifold propositions, principles, or
+"judgments," which, being intrinsically universal
+and necessary, must be termed a priori, or inde-
+pendent of contingent experience, it also possesses
+single notions to which a like quality and name
+must be ascribed. Such, for example, are the
+notions of space and substance, which remain, inde-
+feasible and irremovable, when abstraction has been
+made from every possible impression of sense.
+
+These facts, Kant in substance maintains, are too
+
+♦ Necessity and universality were the marks by which Leibnitz had
+taught that "eternal," non-empirical or intelligible "truths" were to
+be distinguished from contingent truths of merely empirical or sensi-
+ble "fact."
+4
+
+Digitized by VjOOQIC
+
+50 KANT'S CRITIQUE OF PURE REASON".
+
+obvious and notorious to be affected by the denials
+or destructive " explanations " of the sensational
+psychologist. The only, and, the important, question
+is, what do they signify? or " how are they possible?"
+To what mechanism or constitution of knowing
+mind do they point, and to what conclusions as to
+the nature, or ontological significance, and the con-
+sequent range, or possible limits, of human knowl-
+edge? What sort of a process is knowledge, and
+what can and do we know? This is the question
+for which the " Critique of Pure Reason " proposes
+to find an answer.
+
+The highly scholastic and technical form in which
+Kant summarily states the question is as follows:
+"How are synthetic judgments a priori possible?"
+This form results with him from a brief analysis
+of the following distinctions.
+
+All our knowledge is either a priori or a posteri-
+ori. A posteriori is whatever knowledge is given '
+in uncriticised sensible experience, — or in sensible
+experience as including sensible impressions or
+states, lilus the, for the present, unquestioned, so-
+called principles of association and habit. A jyriori
+is whatever knowledge is not thus given, or what-
+ever is universal and necessary.
+
+Again, all knowledge, or its expression, assumes
+the form of a stated proposition or logical judgment.
+But all judgments are either analytical or synthetic.
+I!i an analytical judgment the predicate is contained
+in the subject and flows from it according to the
+principle of identity. For example, " All bodies are
+
+Digitized by VjOOQIC
+
+THE QUESTION STATED. 51
+
+extended." We have but to reflect upon what our
+notion of body implicitly contains, to see that, in
+thinking "body," we think also the attribute " exten-
+sion." Such judgments ax-e all a priori, but are
+thought to present no difficulty and to call for no
+further explanation of their " possibility."
+
+In a synthetic judgment, on the contrary, the
+predicate does not flow from an analysis of the
+subject. Here there is true syn-thesis, or putting
+together, in one proposition or assertion, of terms
+that at first sight are not homogeneous or insepara-
+ble. For example, "All bodies are heavy." Our
+first notion or sensible impression of " body " carries
+with it and includes in it no notion or impression
+of " weight." Weight is not attributed to body by
+virtue of our possession of the simple idea or sensu-
+ous image of body, but on the ground of objective
+experience and investigation, which, accordingly,
+enables us to enrich our original idea by adding to
+it something that it did not originally contain.
+
+Now synthetic judgments are either a posteriori
+or a priori. The former, being founded on contin-
+gent experience, are permitted, along with this
+experience, to pass, for the present, unquestioned,
+as requiring no further explanation of their " pos-
+sibility." The latter, or synthetic judgments a
+priori, being ideally independent of contingent ex-
+perience, must be challenged, and inquiry must be
+instituted (a) as to the ground of their possibility,
+or the mechanism or constitution of a mind which is
+actually " in possession " of them, and (b) as to the
+
+Digitized by VjOOQIC
+
+62 KANT'S CRITIQUE OF PURE REASON.
+
+warrant of their applicability, or the conditions
+upon which we may rely upon them as leading us,
+not into error, but into truth, or into trustworthy
+knowledge.
+
+Such is the explanation of the form of the main
+question — "How are synthetic judgments a priori
+possible?" — and such are its implications. But
+since " synthetic judgments a priori " are found in,
+and indeed constitute the substance or basis of,
+several different (real or alleged) sciences, the ques-
+tion is capable of subdivision, according as it is
+viewed in its relation to the case of these sciences,
+severally.
+
+In mathematics Kant maintains that all judg-
+ments are synthetic, and at least all of those which
+belong to pure mathematics are also a priori.
+Similar a priori judgments are attributed by Kant
+to physical science, as specimens of which he cites
+the doctrine of the persistence of matter, without in-
+crease or diminution of quantity, in the midst of all
+the physical changes of the universe, and the law of
+the equality of physical action and reaction. These
+two sciences really exist; they must, therefore, un-
+questionably be possible, and the main question in
+its relation to them may be formulated in the two
+following questions: (1) "How is Pure Mathematics
+possible?" and (2) "How is Pure Physical Science
+possible?"
+
+There exists, further, an alleged science, called
+Metaphysics, which professes to establish synthetic
+propositions respecting such non -sensible or a priori
+
+Digitized by VjOOQIC
+
+THE QUESTION STATED. 53
+
+matters as the World in its Totality, or considered
+with reference (for example) to its limitation or non-
+limitation in space and time, God, Freedom, and
+Immortality. Now, even if we admit that this pro-
+fession has, up to the present, been wholly vain,
+yet it is a perfectly serious and earnest profession,
+and flows from a natural quality of human reason,
+or from a disposition to inquiry and a need for
+speculative satisfaction, so indestructibly innate in
+man, that we may be sure that in some form or
+other metaphysics will always be cultivated. We
+are justified then, at all events, in asking, (3) " How
+is man's Natural Propensity to Metaphysics pos-
+sible?"
+
+But, finally, even if metaphysics as a true and
+demonstrable science has never yet existed, yet surely
+it must in the end be possible to come to some sort
+of final decision respecting the questions which it
+raises, so that metaphysics shall finally exist, either
+as positive science of the objects of metaphysical in-
+quiry, or as science of the limits which are inter-
+posed between human reason and the highest objects
+of its search. And so the fourth and final question
+will be, (4) " How is Metaphysics as a Science possi-
+ble?"
+
+It is thus that Kant, in the *' Prolegomena," and in
+the second edition of the *' Critique of Pure Reason,"
+maps out the ground of his inquiry. This inquiry
+he terms *' transcendental," and its results " trans-
+cendental knowledge." This does not mean that the
+discussion turns on the nature of " things," which
+
+Digitized by VjOOQIC
+
+54 KANT'S CRITIQUE OF PURE REASON.
+
+may lie beyond and so transcend the limits of our
+experience, and consequently of all our possible in-
+formation. The pretended investigation and knowl-
+edge of such *' things " Kant terms " transcendent ''
+and, of course, wholly fanciful. Transcendental
+knowledge relates, not to the *' things" or '' objects "
+known, but to the process by which they are known,
+or to the knowing mind. It is the knowledge, sci-
+ence, or theory, of knowledge itself, but with es-
+pecial reference to that side or aspect of knowledge
+which " transcends '' the contingent or mechanico-
+sensible element in experience. It regards that
+element in knowledge, or, at least, that form of
+knowledge, which is a priori or ideally independent
+of such contingent element. A complete ''Trans-
+cendental Philosophy " would be a systematic expo-
+sition and demonstration of all that is a priori in
+human knowledge, or of *' all the principles of pure
+reason." The " Critique of Pure Reason " is less than
+this, for it takes account only, or but principally, of
+the synthetic element or quality in a priori knowl-
+edge.
+
+Or, to put the whole matter (following Kant) in
+another way. The tree of human knowledge has
+two trunks, the roots of which, being invisible, are
+beyond the range of possible investigation, but may,
+for aught we know, be identical. Each trunk gives
+off its separate branches. Neither is or can be
+without the other. Each is necessary for the exist-
+ence of the other. Of one of them the name is
+Sense; of the other, Understanding. Through the
+
+Digitized by VjOOQIC
+
+THE QUESTION STATED. 55
+
+former objects of knowledge are given, through the
+latter they are thought or ^^ understood,''' i.e. are
+made or become real objects of knowledge. The
+one furnishes the contingent or *' empirical '' mate-
+rial of knowledge, the other its necessary and uni-
+versal form. Understanding transcends sense, just
+as the necessary and universal transcends the con-
+tingent. But it does not transcend real experience,
+any more than sense transcends it, since, the rather,
+it is, like sense, an indispensable part and condition
+of experience. We may foresee, therefore, that the
+sensational psychologist's conception of experience
+will have to be revised and enlarged, so as to take
+in the necessary and universal, as well as the acci-
+dental and particular. Nay, more, we may find
+that sense itself, the peculiar alleged faculty of the
+contingent, contains, as essential to the fixity and
+reality of its own nature and functions, a necessary
+and universal element. However this may be, the
+fact is that in all experience there is a rational, or
+necessary and universal, element. Knowledge, or
+knowing mind, has a fixed and determinate nature,
+and this nature is revealed or discoverable in real
+experience. Transcendental philosophy does not
+therefore need or profess to attempt the impossible
+by seeking to transcend experience. It is simply (so
+far as it goes) the revelation of experience to itself.
+
+Digitized by VjOOQIC
+
+CHAPTER II.
+
+THE NON-CONTINGENT FORM OF SENSE.
+
+"TTPON close inspection it turns out that the facts
+^ of the case confirm the suggestion that sense
+itself, which sensational psychology treats as being
+not only the sole faculty, and hence the whole, of
+mind, but also and peculiarly a faculty of the con-
+tingent, contains a necessary and universal element.
+How, indeed, could this be otherwise ? For sense,
+surely, is not simply identical with the objects of
+sense, or the materials of sensitive knowledge.
+Grant that the latter are contingent, yet there must
+somewhere be something — some invariable element,
+form, or quality — by virtue of which they are all
+designated by the common name of sensible. In
+other words, sense, if it mean anything, must be
+definable ; in which case it must have some fixed
+character or characters by which it may be once for
+all described and known. Of the absolutely chang-
+ing and contingent there is no definition, no name,
+no knowledge.
+
+Or, to return to the peculiar language of psy-
+chology. Conscious states, which are the original
+units and mark the final limits of knowledge for
+sensational psychology, must have something in com-
+mon, by virtue of which they are all called con-
+
+56
+
+Digitized by VjOOQIC
+
+THE NON-COKTINGENT FORM OF SENSE. 57
+
+scions. And it is easy to see that this common ele-
+ment will be found not in the changing matter or
+felt content of these states, but in their form. It
+will be something which can be abstractedly con-
+ceived apart from or independently of the states,
+though the latter cannot be conceived or " had "
+apart from it ; and so it will be, according to the
+Kantian sense of this expression, a ^WoW. Further,
+it will be some thing which holds or binds together in
+real organic unity the conscious elements — " impres-
+sions," " states,'' — which without such unity are so
+inherently diverse and independent of each other,
+so absolutely unrelated, that they cannot be parts of
+one common consciousness. Sense is, indeed, recep-
+tive — as Kant terms it, and as sensational psychol-
+ogy regards it ; — it is receptive form, and it is,
+with reference to what it receives (conscious states
+or impressions), an a priori receptive form. But it
+has not, or is not, therefore the form of a receptacle
+or vessel, into which " materials " of knowledge may,
+as it were, be dumped, or may dump themselves,
+without any reference to their order or arrange-
+ment, and without having any new mark placed
+upon them. In this case the materials, after being
+caught and confined, would continue to be merely
+what they were before, namely, nothing but mate-
+rials, still unused, still unreduced to consciousness,
+not yet made materials of knowledge. No, it is not
+enough that the diverse elements of consciousness be
+collected together in the superficial and mechanical
+unity of a mere mass or aggregate. Their unity
+
+Digitized by VjOOQIC
+
+58 kant's critique of pure reason.
+
+must be organic. Each element, like each member
+of any living organism, must, in its due way, place
+and relation, bear the impress and express the idea
+or form of the whole. The " form '' of sense must
+not be merely receptive, not merely a mechanically-
+fixed and lifeless shape or mould ; it must be forma-
+tive^ capable of communicating itself to all that it
+receives, just as the creative idea of any organism —
+of a tree, for example — communicates itself to, and
+expresses itself in and through, the materials which
+it takes up into its own life. It must make its
+*' objects " veritable parts of itself, so that it may
+live and be visibly present in all of them, while they
+all, in their turn, live or exist only in and through it.
+So it will be actively all-pervading, all-comprehend-
+ing, all-moulding, and will consequently be in the
+true sense a living, i.e. ideal, spiritual principle or
+function. It will be necessary and universal with
+the true or concrete necessity and universality of
+mind. It will hold or bind together its so-called
+" contents " in a synthetic or unifying embrace,
+whereby it will so identify these contents with itself
+and itself with them, that it will become indeed
+necessary to the reality of all, and so universally
+present in all. In short, being truly synthetic or
+organic^ it will be truly " transcendental,'' or a sub-
+ject for " transcendental " inquiry.
+
+So, then, sense itself cannot be wholly " empiri-
+cal" or contingent. It is not simply changing
+state; it.is also, on another side, definite and fixed,
+yet living and active, function. Sense itself trans-
+Digitized by VjOOQIC
+
+THE NOK-CONTINGENT FORM OF SENSE. 59
+
+cends the provisional conception of it which was
+adopted at the outset from sensational psychology.
+In sense itself mind is present with an unchanging
+nature, law and power of its own. To this extent,
+therefore, sense, which was at first contrasted with
+understanding, must the rather be assimilated to it,
+and Kant's suggestion, that these two trunks of
+human knowledge may spring from a common root,
+begins to acquire more than the probability which
+belongs to a mere guess. At all events, there is a
+non-contingent element in sense, the nature and
+implications of which furnish a subject of transcen-
+dental inquiry and investigation. Such Kant finds
+to be the case, and so he is able to entitle the first sec-
+tion of the " Critique of Pure Reason," which treats
+of this element, " Transcendental ^Esthetic," or doc-
+trine of the transcendental element in " sense " itself.
+
+The Transcendental ^Esthetic contains, in germ
+and in necessary intention, all that has been above
+said respecting the relation which must exist be-
+tween the fixed form of sense and its contingent
+content, and respecting the necessary nature of the
+former. Kant's own conduct of the discussion,
+which is somewhat mechanical and dogmatic, is as
+follows.
+
+In order to ascertain what the form of sense is,
+we are first required to distinguish sharply between
+it and understanding. Sense perceives, the under-
+standing conceives. The form of sense will then be
+something peculiar to immediate perception, as dis-
+tinguished from mediate or reflective conception.
+
+Digitized by VjOOQIC
+
+60 KANT'S CRITIQUE OP PURE REASOK.
+
+Next, we must separate from perception every
+element that is not involved in all perceptions,
+i.e. the variable or contingent element, whereby
+conscious states are particularized and differen-
+tiated from each other; the element which, as
+we say, implies and flows from the presence or
+agency of an object impressing or affecting us; in
+short, that which is called particular or material
+sensation. If perception of particular objects
+through the appropriate particular sensations be
+called mixed or contingent perception, the universal
+and necessary form of all perceptions will be fit-
+tingly termed pure perception, or pure form of per-
+ception.
+
+When these two conditions have been complied
+with, Kant asserts that there will be found remain-
+ing (a) " two pure forms of sensuous perception,"
+which, as such, are (b) transcendental, and hence
+" principles of a priori knowledge," and that these
+two forms are Space and Time.
+
+(a) By what he terms a ** metaphysical exposi-
+tion " of the ideas of space and time, separately,
+Kant seeks to show that space and time are both
+pure forms of sensuous perception.
+
+It is to be noted first that, whatever else may or
+may not be true respecting space and time, the one
+of them is known only in, or in connection with,
+external perception, and the other only in internal
+perception. '*Time cannot be perceived externally,
+nor can space be perceived as something in us." If
+both are forms of sensuous perception, we may infer
+
+Digitized by VjOOQIC
+
+THE NON-CONTINGENT FORM OF SENSE. 61
+
+beforehand that space will be the peculiar form of
+external, and time of internal, sense.
+
+" What, now," asks Kant, " are space and time ?
+Are they real entities? Or are they attributes or
+relations of things, such as would belong to things,
+even though the latter were not perceived? Or are
+they, finally, attributes or relations belonging only
+to the form of perception, and flo:ving consequently
+from the subjective quality or make-up of our minds,
+so that, but for the latter, these predicates could not
+and would not be applied to any thing ? "
+
+The form and substance of these questions have
+upon them a strong flavor of eighteenth-century
+psychological " metaphysics." It will be noted, fur-
+ther, that the last of them foreshadows the kind of
+ontological inference which Kant will draw from his
+promised demonstration that space and time are
+pure forms of perception.
+
+In the " metaphysical exposition," which furnishes
+Kant's answer to the foregoing questions, it is urged
+that
+
+(1) Space and time are not empirical notions, de-
+rived by abstraction from particular external and
+internal experiences as such. On the contrary, these
+experiences, or the perception of objects as existing
+externally to each other or following each other, all
+presuppose in their respective cases the ideas of
+space and time. The perception of particular co-
+existing objects presupposes and is only possible
+through the logically antecedent and independent
+idea of space. The perception of particular objects,
+
+Digitized by VjOOQIC
+
+62 kakt's critique of pure reason.
+
+as succeeding the one the other, presupposes and is
+only possible through the logically antecedent and
+independent idea of time.
+
+(2) Space and time are necessary a priori ideas
+and the conditions of all particular perceptions.
+From the latter and their objects we can in imagi-
+nation, without exception, abstract; from the former
+we cannot. Space and time are therefore to be re-
+garded as the necessary a priori preconditions of the
+possibility and reality of all phenomena.
+
+(3) Space and time are not general or " discur-
+sive " conceptions of relations of things, but pure
+perceptions {Anschauungen). A general conception
+is derived from comparison of several specimens of
+the class or collection of objects to which the con-
+ception applies. But there is no class or collection
+of either spaces or times. We may indeed, and do,
+speak of different places and times, but with the
+consciousness that these are all only limitations and
+portions of one universal or absolute space and one
+universal or absolute time. Space is one, and time
+is one, and the only idea we can have of an object, of
+which only one specimen exists or can exist, is neces-
+sarily a perceptional one. Space and time are, with
+reference to all perceptions or conceptions of par-
+ticular parts, limitations or qualifications of space
+and time, simple a priori perceptions, which under-
+lie them all.
+
+(4) The foregoing view alone is consistent with
+the necessity we are under, of ascribing '* infinity "
+or non-limitation to space and time. If all special
+
+Digitized by VjOOQIC
+
+THE NON-CONTINGEKT FORM OF SENSE. 63
+
+places and times are conceivable only through limi-
+tation of one universal space and time, it is obvious
+that these latter, as such, are and must be only
+conceivable with the attribute of non-limitation.
+Further, it is argued that if space and time were
+discursive conceptions, and not perceptions, or in-
+tuitions, we could not, as we do, regard them as
+containing each an infinite number of parts. A
+conception represents, after all, only a fictitious
+whole or aggregate, made up exclusively of individ-
+uals, which are first known and in which alone
+reality resides. To have, in this sense, a conception,
+which should include in itself an infinite number
+of individuals or *' parts," it would, strictly viewed,
+be necessary to have taken previous account of each
+one of the individuals, — an obvious impossibility,
+human life being too short for such a task. But in
+the case of space and time, as we have seen, the
+ideas of the parts are logically posterior to the ideas
+of the continuous and undivided wholes; and we do,
+as matter of fact, and are compelled to, think of
+the number of parts as potentially unlimited,
+although we have never counted and can never
+count them. Hence it appears with added evidence
+that our original ideas of time and space are imme-
+diate and not derivative, perceptional or intuitional,
+and not conceptional, a priori^ and not contingent
+or *' empirical."
+
+In short, space and time seem to constitute de-
+monstrably the peculiar form of sense which was
+required. This becomes more evident through the
+
+Digitized by VjOOQIC
+
+64 KANT'S CRITIQUE OF PURE REASON.
+
+"Transcendental Exposition," to which Kant next
+proceeds, and in which he shows that space and time
+are *' principles of a priori knowledge," and that,
+too, of a synthetic character, in those sciences in
+which the most complete certainty is, by universal
+admission, reached.
+
+(b) There is a science called Geometry, which sets
+up axioms and demonstrates truths a priori, respect-
+ing absolute spatial relations. Such axioms could
+not be declared, and such truths could not be demon-
+strated, if space were not such a form of perception
+as has above been indicated. For the '' judgments "
+on which geometry is founded and to which it
+proceeds, being necessary and universal, possess a
+quality, which could never belong to them in our
+knowledge, if space and its attributes, to which
+those judgments relate, were simple matter of con-
+tingent perception or " experience.'' In the latter
+case, we should not be able to affirm (for example),
+as a truth of absolute necessity, that any two points
+are joined by one, and by only one, straight line.
+We could at most merely say that such we find to
+be the case in all instances that we have examined,
+but that concerning the infinitely numerous in-
+stances which we have not examined, and can never
+examine, we can assert nothing. The truth in ques-
+tion would possess for us thus only comparative,
+and not necessary and absolute, universality. The
+a priori nature of geometrical judgments confirms,
+therefore, our conclusion respecting the a priori
+nature of space, and the latter, in turn, explains
+
+Digitized by VjOOQIC
+
+THE NON-CONTINGENT FORM OF SENSE. 65
+
+the possibility of the former. But, further, geo-
+metrical judgments, in common with all the propo-
+sitions of pure mathematics, are in the first instance
+synthetic, and not analytical. Through no mere
+analytic contemplation of the abstract conceptions
+of points and straight lines, exclusively and strictly
+by themselves, can we deduce the conclusion that
+the straight line is the shortest one between two
+points. Subject and predicate are not here ab-
+stractly and analytically identical. The judgment is
+synthetic, and can result only from direct compari-
+son in the field of immediate, perceptive intuition.
+Except, therefore, the idea of space constitute an a
+priori and synthetic, — nay, more, a constructive, —
+form of our sensibility, neither the synthetic nor
+the universal and necessary character of geometrical
+judgments is at all comprehensible. The foregoing
+explanation of space, therefore, alone accounts, in
+Kant's view, for the possibility of pure geometry.
+
+Similarly, the analogous explanation of time is
+shown to account alone for the possibility of other
+branches of pure mathematical science, and espe-
+cially of arithmetic, " which produces its concep-
+tions of numbers by successive synthesis of units in
+time," and pure mechanics, whose notion of motion is
+only possible in and through the idea of time. In-
+deed, this '* idea," or, rather, this actively synthetic,
+formative, ideal principle of sensitive mind, is the
+condition of geometry itself, as it is of all " external "
+or objective " sense." For, as Kant points out, the
+so-called external is known, universally, only through
+5
+
+Digitized by VjOOQIC
+
+66 kant's critique of pure reason.
+
+the internal, the sensibly objective only through and
+in the sensibly subjective, i.e. as a part of conscious-
+ness, of which time is the universal form. Moreover,
+the spatial intuition, whereby pure geometrical rela-
+tions are perceived, is an actively synthetic one. It
+involves a sweep of perceptive imagination, whereby,
+as Kant srfys, the mathematician '* constructs " his
+objects, placing them in a pure space which he
+creates for them; and this action, or ideal motion,
+like all motion, is possible only through time.
+
+Kant, then, through his doctrine of space and
+time, solves, or claims to solve, the essential or char-
+acteristic difficulty involved in the first subdivision
+of the main question of the Critique, namely, How
+is Pure Mathematics possible ? And in so doing he
+has indicated the first and fundamental condition of
+all purely physical science whatsoever. For, as Kant
+somewhere says, the amount of real science con-
+tained in any physical science is strictly measured
+by the amount of mathematics which it contains.
+For the objects of inquiry, with which physical
+science is concerned, are phenomena, all of which are
+essentially qualified by their dependent relation to
+time and space and to their relations. Indeed,
+mathematics may, in all strictness considered, even
+be itself regarded as pure or idealized physical sci-
+ence. It determines those absolute relations which
+all physical relations must approximately illustrate,
+and by which, as the standard of comparison, the
+latter can alone be estimated and known ; and for
+its absolute relations mathematics finds an accurate
+
+Digitized by VjOOQIC
+
+THE NOl^^-CONTINGENT FORM OF SEl^^SE. 67
+
+expression in formulated equations, which physical
+science is compelled to emulate as its only and indis-
+pensable model of expression.
+
+But have not the conclusions which Kant has
+reached still wider bearings? Apart from their ser-
+vice in explaining the mental machinery, without
+which certain actually existing sciences could not
+exist, have they no relation to the philosophical
+question concerning the absolute nature of things ?
+Unquestionably they have, and Kant, in setting forth
+his view of this relation, gives abundant evidence of
+the fact that the struggle in which he is engaged
+against the narrownesses and misconceptions of
+modern thought, while not a mock-heroic one, but
+genuine, is yet, in his case, still far from being ended;
+the rather, it is only begun; the adversary — psy-
+chological and sensuous or mechanistic prejudice —
+has him still by the throat and is throwing dust in
+his eyes; philosophic truth is not through Kant's
+efforts yet completely victorious. Brute, dead, ab-
+stract /ac^ of mechanical or sensible consciousness is
+not yet illuminated, and so set in its own true light,
+by truth of living, spiritual, concrete and all-condi-
+tioning self-consciousness. Mechanistic dualism, such
+as the earlier and, in Kant's time, still current meta-
+physics and psychology had assumed, has not yet
+been merged in organic unity. The notion of dead,
+inert, opaque Substance, as synonym of absolute
+reality, has not yet given place to that of living,
+forceful, self-luminous and all-illuminating Spirit.
+
+Digitized by VjOOQIC
+
+68 rant's critique of pure reason.
+
+And yet it is in the direction of all these transforma-
+tions that Kant's work is pointing.
+
+What, then, is Kant's own conception and state-
+ment of the ontological bearings and results of his
+"Transcendental iEsthetic"? It is that space and
+time are in no wise " things," entities, real and
+independent existences, nor are they in any way
+related to such existences, as attributes or qualifica-
+tions of any sort. They are nothing but condition-
+ing forms of human sensibility or of sensuous con-
+sciousness. They are purely and only subjective.
+They are indeed universal and necessary for us.
+They are a part of the determinate and indefeasible
+nature of our minds. No " objects " can be given
+us for knowledge, except we receive them into these
+unchanging forms of ours. But when we thus see
+or are aware of objects, when we perceive them in
+space and time, we see them, not in their own light
+or form, but only in our own. A being, privileged
+to perceive things independently of the conditions of
+human sensibility, — a being, the form of whose per-
+ception should not be, like ours, simply receptive,
+but creative (or, at least, re-creative), not sensible,
+but intellectual, and so adequate to the knowledge
+of things in their absolute reality, or of " things-in-
+themselves," — would see and realize that space and
+time have nothing to do with them.
+
+All our sensible experience, therefore, and hence
+(as Kant dogmatically affirms) all our knowledge, is
+ontologically limited to phenomena, or to apparent,
+not absolute, objects clad in the determining forms
+
+Digitized by VjOOQIC
+
+THE NON^-CONTINGENT FORM OF SENSE. 69
+
+of space and time. The contingent element in con-
+sciousness, our particular sensations, is that which
+corresponds to and suggests the invincible belief in
+real things, but in no wise resembles or truly re-
+veals them. Indeed, our sensations are, as such, so
+far from truly revealing to us any absolute reality,
+that they are absolutely unintelligible, except so far
+as order is introduced among them, through their
+injection into the absolute framework of ideal rela-
+tions involved in our intuitions of space and time.
+All that is intelligible to us is thus strictly confined
+to or determined by the form of our own (" sen-
+sible ") knowledge. The world of " theoretical "
+knowledge and the world of physical science, or,
+what is the same thing, of sensibly conditioned con-
+sciousness, are identical, and in this world we find
+absolutely nothing but phenomena of extension,
+or "configuration," and of motion, or "change of
+place," plus the rules or " laws," according to which
+such change, whether habitually or necessarily, takes
+place. Space and time possess for us "empirical
+reality," and, in the only sense in which anything
+can be objective for us, "objective validity." But
+absolute reality, or absolutely objective validity, they
+have not. They are transcendental, because they
+constitute an a priori, or necessary and universal,
+form of our knowledge. But, since this is all that
+is true of them, they are also, and only, intrinsically
+"ideal" (= "subjective"), and we must ascribe to
+them, in Kant's scholastic phrase, "transcendental
+ideality."
+
+Digitized by VjOOQIC
+
+70 KANT'S CRITIQUE OF PURE REASON.
+
+As against Locke, now, and the whole so-called
+philosophy of empiricism, Kant, thus far, sufl&ciently
+demonstrates that in our sensible experience we, or
+our " minds," are not wholly like tahulce rasce, or
+like " pieces of white paper, on which nothing has
+been written." This comparison has a certain
+degree of justness, but to make it complete we
+should invest the " white paper," in imagination,
+with the qualities of a powerful chemical reagent,
+which transmutes into wholly unexpected forms
+whatever comes into contact with it, or with ka-
+leidoscopic properties, whereby materials, existing
+in confused and changing order, are made con-
+stantly to appear in forms of definite and beauti-
+ful relation. Mind, or, rather, knowledge, — for of
+mind per se we are held to be as ignorant as of any
+other " thing-in-itself," — has a fixed and determi-
+nate, — nay, more, a self-determining, — nature, even
+when its objects are what are termed " sensible " ;
+and so it is made out, as against Hume and sen-
+sational psychology, that in no kind of knowledge
+are we left completely to the mere mercy of chance
+and blind habit. All knowledge is subject to abso-
+lute a priori forms, which are independent of the
+contingent matter of knowledge, and to which, as
+we have seen, this matter must adapt itself, in
+order to become even relatively knowable.
+
+On the other hand, Hume and empirical psychol-
+ogy must, if Kant is to be believed, be justified by
+us in their assertion that matter per se or mind per
+se, or any other absolute " substance " or " thing-in-
+
+Digitized by VjOOQIC
+
+THE NON-CONTINGENT FOEM OF SENSE. 71
+
+itself," is beyond any possible range of our knowl-
+edge. Nothing can be known, we are told, unless
+it be "given" or sensibly presented to us for
+knowledge, or " aflfect " us, and nothing can be
+effectually given unless it be received : — we cannot
+be affected unless we consciously receive the af-
+fection. But both the receiving and the consequent
+affection or impression are alleged to be purely
+subjective; the one as pertaining to the form, the
+other to the matter, of human sensibility or sensi-
+tive consciousness. This doctrine is " idealistic "
+(in the all too current modern sense of this term),
+but it is the doctrine of a Critical or Transcenden-
+tal Idealism, and so, as Kant claims, advantageously
+distinguished from the Sceptical or Agnostic Ideal-
+ism of empirical " philosophy."
+
+Of Kant's "Critical Idealism," in its substance
+and motives, we shall have occasion to treat more
+in detail in a subsequent chapter (chap. VI). Here
+we have only to remark upon it, so far as it is
+ostensibly distinguished from Sceptical or Empirical
+"Idealism" by Kant's peculiar doctrine respecting
+the nature of space and time. In this connection
+we have to consider two things, — (a) the positive /
+substance of Kant's account of space and time, or*'
+what he positively demonstrates respecting thf
+real nature, and (b) the limitation which he pjjg
+upon them with reference to their ontologicong-
+nificance. Let us take up the latter point fir
+
+Kant declares that space and time are easively
+"subjective," meaning by this that the^e only
+
+Digitized by VjOOQIC
+
+72 KANT'S CRITIQUE OF PURE REASON.
+
+forms of our sensible consciousness. They corre-
+spond to nothing which is contained in the real
+nature, whether of the absolute subject or of the
+absolute object. The latter are both " things-in-
+themselves," and, as such, are, together with all that
+pertains to them, unknowable.
+
+Now, this negative part of Kant's doctrine is
+purely dogmatic. It does not flow from anything
+which he has demonstrated respecting the positive
+nature of space and time. Nor is it novel. It is
+the ordinary doctrine of Subjective Idealism, and
+results, for Kant, from his tacit assumption, at the
+outset, of the premises, which always lead to Sub-
+jective Idealism; or, rather, it results from Kant's
+failure to question them. What these premises
+are, has been indicated in our Introduction (above,
+pp. 11 et seq.). They are, in brief, the purely me-
+chanical conception of the relation between con-
+scious subject and object, and the consequent purely
+mate riali Stic conception (in spite of all protests to
+the contrary) of the absolute nature of subject and
+object. These are Hume's premises, and that Kant
+adheres to them in naively indicated by
+guraents by wliich he seeks to prove what
+he ** transcendental ideality," or, in other
+e purely phenomenal, "subjective" qual-
+pace and time. If, he argues, space and
+really and absolutely objective, — if they
+or were rein ted to absolute reality or
+,ey must be either independent entities or
+^-''^. else inherent attributes of such entities.
+
+\
+
+Digitized by VjOOQIC
+
+1
+
+THE NON-CONTINGENT FORM OF SENSE. 73
+
+They must be either " subsistent " or " inherent,"
+i.e. either substances or properties of substances,
+and against both of these alternatives Kant easily
+finds persuasive arguments. Here, then, Kant, for
+the purposes of his argument, adopts as a conception
+of the absolutely real, the conception of "thing"
+or "substance." This is a materialistic, sensuous,
+mechanistic conception. It is Kant himself who
+perceived and wrote, seventeen years before the
+publication of the " Critique of Pure Keason," that
+"if the conception of substance is an abstracted
+conception, it is without doubt derived by ab-
+straction from material things " (see Werke, ed. by
+Hartenstein, 1867, vol. ii, pp. 294-5). And it is he,
+also, who will demonstrate for us anew, in the
+next chapters of the Critique itself, that in view of
+its demonstrable applicability to express, or to
+enable us to " think," none but material, i.e. sensu-
+ous, mechanical relations, the conception of sub-
+stance or thing is relative only, and not absolute.
+It is good only for the realm of phenomena, but
+cannot legitimately enter into any thought of ours,
+even though our thought be merely tentative, con-
+cerning the non-phenomenal or absolutely real.
+
+Kant argues, therefore, in disproof of the partici-
+pation of space and time in absolute reality, on the
+basis of a purely mechanical and materialistic con-
+ception of the nature of the absolutely real. He
+adopts this conception without criticism, hence purely
+dogmatically. He adopts it, further, in spite of the
+result of his own later critical examination of the
+
+Digitized by VjOOQIC
+
+74 KANT'S CRITIQUE OF PURE REASON.
+
+conception, whereby the latter is shown to possess,
+itself, only phenomenal validity. In view of the
+nature of this result, therefore, it is obvious that the
+above-cited argument of Kant tends rather to raise
+a presumption that space and time participate in the
+nature of absolute reality, than that they are purely
+phenomenal and subjective. If the conception of
+substance or " subsistence " is applicable only to phe-
+nomenal — not to absolute — existence, and if the
+relation of "inherence" is a purely phenomenal
+relation, then the proof that space and time neither
+fall under the mentioned conception nor exhibit the
+mentioned relation is surely no proof that they, too,
+are purely phenomenal!
+
+The true way to proceed in ontology, as in any
+other science, is, not dogmatically to presuppose or
+anticipate, but to await, the results of inquiry.
+Kant's primary inquiry in the Critique is ostensi-
+bly directed to the problem of knowledge. Until
+this problem is settled he has no right, in view of
+the relation between the sciences of knowledge and
+being, as indicated in our Introduction, to assume,
+as a basis of argument, a particular conception of
+being. He must wait and find out what conception
+of being the science of knowledge authorizes and
+enforces. By his pursuit of a contrary course he
+falls into — or, rather, he continues in — that snare of
+dogmatism and logical fallacy, which with his soul
+he professes to abhor and with his " criticism " he
+claims to have avoided. In this way he is prevented
+from reaping the full fruits of his own positive in-
+Digitized by VjOOQIC
+
+THE NON-CONTINGENT FORM OF SENSE. 75
+
+vestigations and discoveries, and the harvest is left
+to be gathered in by the leaders of a subsequent
+generation. But in this way, too, his work is
+marked at the outset as the reflex of an epoch of
+transition in thought — of transition which is only
+begun, but not as yet completed.
+
+Secondly. If, instead of arguing, with Kant,
+about the ontological nature of space and time on
+the basis of a preconceived and indefensible notion
+of the nature of absolute reality, we simply look, as
+we must, at the positive facts respecting space and
+time, as forms of knowledge, which Kant "disco-
+vers " and declares, with a view to seeing to what
+notion of the nature of absolute reality they point,
+we shall find ourselves led directly away from the
+mechanistic and materialistic premises of Subjective
+Idealism. The positive substance of Kant's " disco-
+very " and doctrine respecting space and time, so
+far from supporting his assertion that they are
+merely "subjective," and so, in spite of all their
+demonstrated necessity and universality, still con-
+tingent (contingent, namely, on the way in which
+human, in distinction from an}^ other possible, in-
+telligence happens to be constituted), tends directly
+to contradict it. It furnishes evidence, when con-
+sidered simply by itself and independently of any
+and all preconceived opinions, that the relation
+between subject and object is one of organic iden-
+tity, and not of mechanical separation and opposi-
+tion. And in this way it conducts, in its measure,
+to the conception of both subject and object as not
+
+Digitized by VjOOQIC
+
+76 KANT'S CRITIQUE OF PURE REASON.
+
+shrouded in the dead stillness and mystery of
+purely sensible, material, " substantial " existence,
+or of so-called " things-in- themselves," but as in-
+stinct with a universal and all-illuminating spiri-
+tual life, and having in. this life the essential root
+of their being.
+
+Kant demonstrates, first, that time and space are
+ideal forms of knowledge or of sensible conscious-
+ness, and not what we, in our undisciplined thought,
+choose to call material substances or attributes of
+such substances. This their ideality is their reality.
+Secondly, he shows that time and space, as forms of
+knowledge, owe their existence to an activity of
+intelligence or mind. Indeed they exist only through
+such activity, and in no sense independently of it.
+Nevertheless this activity is, on the part of the indi-
+vidual subject, a " blind " or unconscious one. Man,
+knowing, sensitive, imaginative mind, the alleged
+subject-agent of this activity, works the miracle of
+time arid space spontaneously, without conscious
+purpose and without knowledge, — the rather, as a
+pre-condition of the possibility of all his knowledge.
+Thirdly, Kant finds that the conditioning forms of
+our sensible knowledge are the conditioning forms of
+all objects of our sensible knowledge. All such ob-
+jects presuppose space and time. And not only so,
+but all such objects are really intelligible to us, as
+sensible objects, only by virtue of, or in and through,
+their time and space relations. Still further, it is
+only through our consciousness of objects in such
+relations that we become conscious of these " forms "
+
+Digitized by VjOOQIC
+
+T5E NON-CONTINGENT FOEM OF SENSE. 77
+
+— space and time — which we are taught to look
+upon as peculiarly our own. We find our objective
+consciousness, so far as it concerns space and 'time,
+to be self-consciousness, and our self-consciousness
+to be, in this respect, equally objective conscious-
+ness.
+
+Here, then, we find ourselves confronted with a
+state of things, the attempt to explain or judge of
+which in the light of purely mechanical or material-
+istic conceptions and relations can only result — as
+we may learn from Kant's example — in rendering
+them wholly unintelligible. Space and time, Kant
+finds, are, in effect, " energies of mind." This is one
+point gained. They are, on our part, unconscious
+energies. This, too, is to be admitted. They are
+purely " subjective." Non sequitur! This conclusion
+can only follow on condition that subject and object
+are mechanically separate and opposed to each other,
+so that what belongs to the one must eo ipso be ex-
+cluded from the other. But to view them thus is to
+prejudge the case, instead of waiting, as scientific
+honesty requires, to «ee whether such is the actual
+relation between subject and object, as disclosed by
+the facts of the case themselves. Now the facts, as
+discovered by Kant, show that, so far at least as the
+forms of space and time are concerned, subject and
+object are of a common nature. The bond of their
+identity, further, — in this case, the forms of space
+and time, — is a living bond, for it is founded in
+an activity, an energy of mind, a spiritual function.
+The relation between them is therefore not the life-
+Digitized by VjOOQIC
+
+78 rant's critique of pure reason.
+
+less, abstract relation of mechanical separation and
+opposition, but rather the relation of organic one-
+ness. Each is distinguishable from the other, as
+particular from particular, but both are one in and
+through that which is universal about them, —
+namely, in thg present case, the ideal forms or
+spiritual functions called space and time. Viewed
+in this light of evident fact, we can see how we, as
+individuals, should be unconscious of the activity
+whereby the forms of space and time are generated
+and maintained. For this activity does not belong
+to us as individuals, or particular ** subjects." Nor
+does it belong to any one particular " object," or to
+all particular objects, as such. It is, in kind, as
+Kant finds, a spiritual activity, but it is also a uni-
+versal and for us a necessitated activity. Nothing
+remains, therefore, but to see in it the activity of
+universal Spirit, whose life and being at once trans-
+cend, and yet also include and reconcile, all particu-
+lar distinctions of subject and object.*
+
+Thus the positive substance of Kant's doctrine
+respecting space and time points, so far as it alone
+is concerned, toward a spiritualistic conception of
+
+* In the light of the facts which Kant discovers, when these are
+viewed simply by themselves and independently of any mechanistic, or
+other, prepossessions, it were more natural lo suppose space and time to
+result from a joint activity of subject and object, than to ascribe them
+to the subject alone. Such indeed is the first view which would suggest
+itself, and it is relatively correct. But in view of the particularity of
+both subject and object in our conscious sensible experience, and of
+the universality and necessity of space and time within such experi-
+ence, these " forms " must be ascribed to the activity of a universal
+Spirit in which the empirical subject and object — each in its peculiar
+way —only dependently share.
+
+Digitized by VjOOQIC
+
+THE NOK-COKTINGENT FORM OF SENSE. 79
+
+the nature of absolute reality. It points to this
+conception by virtue of the organic and living
+nature of the relation between subject and object,
+which the doctrine, and the facts on which it rests,
+imply. In the same way it leads necessarily to the
+conception of the absolute nature of particular sub-
+ject and particular object as also spiritual. Each
+must be regarded as dependently sharing in an
+universal spiritual life and being, whereby each
+subsists and moves and has its own essential and
+characteristic being.
+
+In this way space and time appear as logically
+dependent functions of the absolute, but not as self-
+subsistent and pre-existent conditions thereof. They
+appear as such conditions, only when we arbitrarily
+regard the absolute materialistically as " substance."
+But the conception of substance, as Kant will show
+us, is purely relative, and possesses only " phenome-
+nal" validity. The Absolute can only be conceived
+as Spirit.
+
+Digitized by VjOOQIC
+
+CHAPTER III.
+
+THE UNDERSTANDING AS A NON-CONTINGENT
+FACULTY OF SENSIBLE KNOWLEDGE.
+
+KANT, it will be remembered, distinguished
+Sense and Understanding as complementary
+opposites. Through sense objects were declared to
+be given for knowledge and received ; through un-
+derstanding they became objects of thought or were
+definitively known. The necessary implication was
+that neither sense nor understanding, taken by
+itself, could be an effective factor in knowledge.
+Each required the cooperation of the other.
+
+The contrast of these two functions, and yet the
+absolute necessity of each to the effectiveness of the
+other, is strongly emphasized by Kant, at the begin-
+ning of the section of the Critique specially devoted
+to the examination of the Understanding. Sense
+and understanding, first, are contrasted. The former
+is a receptive faculty. It denotes a capacity of being
+affected or receiving ideas. It is a faculty of invol-
+untary perception. A process takes place, the initia-
+tion of which is not due to ourselves, who perceive.
+The movement is from without — from an assumed
+world of external objects, or, at all events, of reality
+mechanically independent of individual conscious-
+
+80
+
+Digitized by VjOOQIC
+
+UNDERSTANDING IN SENSE. 81
+
+ness, — into and upon such consciousness, or into
+and upon our " minds." Our own menial attitude
+is in this regard strictly passive. Understanding,
+on the contrary, denotes a process initiated within
+our minds and proceeding outward, so to speak, to
+meet the received impression and to take cognizance
+of it. It is a "spontaneous" faculty of thought.
+" The understanding can perceive nothing, and the
+senses can think nothing." But, for this very rea-
+son, sense and understanding are necessary to each
+other. For it is only through the union of per-
+ception and thought that knowledge can arise.
+" Thoughts, without the content which perception
+supplies, are empty, and perceptions, separated from
+the conceptions which thought supplies, are blind."
+Or, as Kant puts the case in his "Anthropologic," the
+understanding without the senses is like a ruler
+without subjects; and — to complete the figure —
+the senses without the understanding are like a
+people living without rule in absolute, unintelligible
+confusion.
+
+In insisting thus anew upon the apparently un-
+qualified contrast between sense and understanding,
+Kant simply adopts an expedient for drawing the
+reader's attention away from the subject treated in
+the " Transcendental Esthetic," and enabling him
+to concentrate it exclusively upon the topic next to
+be taken up, namely, the understanding and the
+noncontingent or " formal " and a priori element in
+it. Just as, before, we were required to consider
+sense and its necessary forms, making complete ab-
+6
+
+Digitized by VjOOQIC
+
+82 rant's critique of pure reason.
+
+straction from the forms of intellectual conception,
+so now we are called upon to contemplate the latter
+to the exclusion of the former.
+
+But the reader will upon reflection readily per-
+ceive that this is only a device, and that the con-
+trast depicted is by no means so unqualified as to a
+casual and forgetful observer it might appear. The
+language, in which sense is here described, is com-
+pletely adapted to that conception of it, and indeed
+of all mind, which is current in purely sensational
+psychology. But we have seen — Kant has shown
+us — that this conception must be revised and cor-
+rected. Sense may be receptive, but it is not wholly
+contingent, nor is it wholly passive. Sense receives,
+but in receiving it does something. It not simply
+stretches out (so to express it) its two arms of space
+and time to take into its embrace whatever objects
+may fall into it, and to hold them there in undistin-
+guishable and unrecognized order. It puts — thus
+it appears to one who, like Kant, contemplates the
+subject from the point of view of purely individual
+consciousness — it puts upon those objects a nature
+which does not belong to them, namely, its own na-
+ture; it reduces them under relations which are
+necessarily involved in its own nature; it effect-
+ually moulds and shapes them, and that, too, as the
+only condition upon which they can be received by
+it or become objects of sensible consciousness at all.
+In other words, sense itself is not the mere accident
+of outward mechanical circumstance, nor like a
+mere " piece of white paper," to be written on, but
+
+Digitized by VjOOQIC
+
+UNDERSTANDING IN SENSE. 83
+
+a function of mind. Not only is it receptive; it is
+also, like the understanding, spontaneous and for-
+mative, and, like it, has its universal and necessary,
+or ideal, nature. Through this it establishes its de-
+scent from the same root as the understanding.
+This nature, indeed, turns out to be all that is strict-
+ly definable in or concerning sense, and it must not
+surprise us if we find (as we shall), in the discussion
+of the understanding, further evidence of its inti-
+mate organic oneness with the latter.
+
+The function of the understanding was stated by
+Kant to be Thought. The science of the laws of
+Thought is called Logic. Hence the name " Trans-
+cendental Logic" is appropriately given to that
+portion of Kant's inquiry which concerns those ele-
+ments, laws, forms, or principles of thought, which,'
+pure from empirical admixture, are native to the
+understanding and inseparable from it, and hence
+reappear with determining, form -giving influence
+in all sense-conditioned knowledge. This inquiry,
+which occupies in the Critique vastly more space
+than was devoted to the " Transcendental ^Esthetic,"
+is divided into two parts, the one concerned with
+the pure or a priori " Conceptions " of the under-
+standing, and the other with the "Principles" of
+their application. Our concern in this and the next
+chapter is solely with the former.
+
+Sense was represented above as " receptive " or
+passive; understanding as "spontaneous" or active.
+In the former we w^ere acted upon or aflfected, and
+the result was Perceptions. In the latter we were
+
+Digitized by VjOOQIC
+
+84 KANT'S CRITIQUE OF PURE REASON.
+
+active or (clumsily expressed) performed functions,
+and the result was Conceptions. Hence Kant's
+present averment, that " all perceptions, in view of
+their sensuous character, depend on affections, and
+all conceptions on functions." A function is an
+action, and an action by which a definite work is
+performed. Thus the work of grasping objects is a
+function of the fingers. The understanding may be
+likened to the fingers of the mind, whereby many
+ideas are collected in one grasp, and so brought un-
+der a single and common idea or denomination. For
+the grasp (or "conception") of the understanding is
+itself an idea, and the work of the understanding
+is simply (in logical language) to subsume under
+its ideas — no matter whence or how these may be
+obtained — the manifold ideas which are presented
+to it in consciousness, and so to reduce them to a
+kind of unity. Thus the understanding, provided
+with the conception of " body '' or " material object,"
+and contemplating in consciousness the ideas of
+various metals, subsumes the latter under the for-
+mer, judging, and so affirming, that *' every metal is
+a material object." This is a logical judgment, and so
+we may say that the function of the understanding is
+to judge, or, the understanding is the faculty of judg-
+ment. This is what Kant means by " thinking."
+
+Now, the ideas or conceptions which the under-
+standing employs, or with which it grasps, may be
+either empirical and dependent on contingent sensu-
+ous consciousness, or original and native to the
+mind. Thus, the conception of " material object,"
+
+Digitized by VjOOQIC
+
+UNDERSTANDING IN SENSE. 85
+
+above employed, is of the former nature. The con-
+ception itself is indeed not given through the senses
+or in simple sensuous consciousness, — it is not a
+conscious image or state, — but the understanding
+executes its function upon material thus contin-
+gently or empirically given, and only thus does it
+effectuate or frame for itself the conception in ques-
+tion. But, before the understanding could execute
+this, or any other function whatever, upon mate-
+rial thus supplied, there must have been something
+in its own nature which determined antecedently
+and conditioned the direction or kind of its own
+activity. If the understanding is anything, we
+can ascertain what it is only by examining the
+understanding itself, and not the material upon
+which it works. Furthermore, if the understand-
+ing is an activity, we can learn what is peculiar to
+itself, only by ascertaining what is characteristic or
+peculiar about the various forms of its activity.
+Now, all that is visible or discernible in the under-
+standing is its ideas. It "grasps" with its ideas,
+its activity is an ideal one, and its original ideas are
+itself (as here considered). If, then, we can have
+before us a complete table of the various forms of
+the activity of the understanding in its peculiar
+work of judging, we may anticipate that the aspect
+or idea peculiar to each form will be an idea native
+to the understanding; there will be as many ideas
+of this kind as there are different forms of logical
+judgments, and no more, and these will be the pe-
+culiar object of our " transcendental " inquiry.
+
+Digitized by VjOOQIC
+
+86 KANT*S CRITIQUE OF PURE REASOK.
+
+Now, the logicians have concerned themselves to
+ascertain and classify the various possible forms of
+logical judgments. Kant, without further inquiry,
+accepts and adopts, with one or two minor modifica-
+tions, their work as correct and complete, and lays
+before his reader, accordingly, the following table
+of the different possible kinds or forms of logical
+judgments, reduced under four heads :
+
+Logical judgments are, as regards
+
+1. Quantity:
+Singular,
+Particular, or
+Universal ;
+2. Quality: 3. Relation:
+
+Affirmative, Categorical,
+
+Negative, or Hypothetical, or
+
+Limitative; Disjunctive;
+
+4. Modality:
+
+Problematical,
+Assertory, or
+Apodictic.
+If we examine, now, each of these forms, we find
+involved in every one a peculiar idea, which is the
+characteristic thing about each form, is necessary to
+it, and may seem to define it. A " singular judg-
+ment," in which the subject of discourse is a single
+object, involves obviously the special idea of oneness
+or unity; a " particular judgment," relating to sev-
+eral objects, implies the idea of plurality, etc. The
+whole list of these ideas, then, will constitute the
+
+Digitized by VjOOQIC
+
+UNDERSTANDING IN SENSE. 87
+
+complete table of the " fundamental conceptions of
+the understanding," regarded as the faculty which
+judges, or, as Kant also terms them, of " categories."
+The following is the complete
+
+TABLE OF CATEGORIES.
+
+1. Of Quantity :
+Unity,
+Plurality,
+Totality;
+2. Of Quality: 3. Of Relation:
+
+Reality, Substance and Accident,
+
+Negation, Cause and Effect,
+
+Limitation ; Action and Reaction ;
+
+4. Of Modality:
+
+Possibility — Impossibility,
+Existence — Non-Existence,
+Necessity — Contingence.
+These, then, are the fundamental, primary, or
+native conceptions of the understanding, which flow
+from, or constitute the mechanism of, its nature, are
+inseparable from its activity, and are hence, for hu-
+man thought, universal and necessary, or a priori.
+They are not contingent states or images of sensuous
+consciousness, and hence not to be thence derived.
+But they are not known to us indeijendently of such
+consciousness or of sensible experience. On the one
+hand, they are exclusively involved in, and hence
+come to our knowledge exclusively through, the
+spontaneous activit}'' of the understanding. But, on
+the other hand, the understanding is never active,
+
+Digitized by VjOOQIC
+
+88 KANT'S CRITIQUE OF PURE REASON.
+
+until sensible data are furnished as material for it
+to act upon, and so it may truly be said that they
+become known to us " only on the occasion of
+sensible experience."
+
+These categories are "pure" conceptions of the
+understanding, inasmuch as they are independent of
+all that is contingent in sense. They are not derived
+from what is called the " matter " of sense, or from
+particular, variable sensations. But they are not
+independent of the universal and necessary form of
+sense. The reader must be expressly reminded that
+Kant, in the " Transcendental Logic," is professedly
+engaged with the search for an answer to the second
+main question of the Critique^ How is pure physical
+science, or sensible knowledge, possible? Kant, now,
+has said, and, with reference to the kind of knowl-
+edge mentioned in the foregoing question, has said
+truly, that "thoughts, without the content which
+perception supplies, are empty." This is not less
+true of " pure " thoughts, than of any others. The
+content which the pure conceptions, as categories of
+pure physical science or sensible knowledge, cannot
+derive from the matter of sense, they must and do
+derive from its pure form. And in this relation
+between the pure conceptions of the understanding
+and their pure content there is involved, as we shall
+see, the most intimate community of nature and
+origin between sense, on its formal side (space and
+time), and the understanding itself.
+
+Let us consider the case more narrowly. We
+must keep in mind constantly our main question,
+
+Digitized by VjOOQIC
+
+UNDERSTANDING IN SENSE. 89
+
+" How are synthetic judgments a pnori possible?"
+How is necessary and universal connection among
+"impressions'* possible? How is knowledge, or —
+which is the same thing — experience, possible? Em-
+pirical psychology, as represented by Hume, left us
+no answer to this question.
+
+Kant, it will be remembered, found the first part
+of the general answer to this question in the recog-
+nition of space and time as universal and necessary
+forms of sense. Now we must carefully resist any
+tendency on our part to give to the expression,
+"forms of sense," a materialistic interpretation.
+Sense is not a physical organ, nor a receptacle of
+any sort, in which space and time inhere as acci-
+dents, just as the color denominated red seems to
+inhere in or be a quality of the rose. Sense is first
+a function and then a consequent state of mind. It
+is just as ideal, and consequently non-material, as is
+knowledge, of which it is but an aspect or incident.
+Of the same nature are space and time, and it was
+found that the very notion of them was a notion of
+synthetic wholes, or of wholes in which possible,
+ideally distinguishable parts were united. Space
+was one grand whole and time was one grand
+whole; and the fact that they could not otherwise be
+conceived, and that in having the ideas of them we
+necessarily have, by implication, the ideas of the
+various geometrical and mechanical relations (di-
+mensions, motions) involved in them, was held to
+explain the possibility of apodictic mathematical
+knowledge.
+
+Digitized by VjOOQIC
+
+90 kant's critique of pure reasok.
+
+Now, space and time, like sense, of which they
+are said to be the forms, were separated from the
+understanding. On examination, also, it turned out
+that they were not the creatures of contingent
+sense, but rather its conditions, and so when they
+were called "forms of sense,'' the expression was
+simply a misnomer. They were forms supplied by
+mind, in order to make sense or sensible knowledge
+possible. They should therefore be termed, the
+rather, "forms for sense." But supposing that
+mind had supplied these forms, and nothing else,
+would it then have knowledge of them and of those
+relations or qualifications of them which are the
+subject-matter of mathematical science? The an-
+swer must be that it would not, and that therefore
+Kant, in deducing from the forms of sense the possi-
+bility of mathematical science, presupposed, without
+mentioning it, the presence and activity of the un-
+derstanding.
+
+The understanding is, as Kant also declares, the
+peculiar faculty of knowledge. Knowledge implies
+the distinct recognition of the objects of knowledge.
+Each object must be distinguished from all others,
+and recognized in its peculiar nature as the one ob-
+ject which it is. And so Kant also speaks (sub-
+stantially) of the understanding as the faculty of
+unity i or the faculty whereby a mental object, whe-
+ther simple or complex, is for us one. So it was
+the understanding which really enabled us, in the
+" Transcendental ^Esthetic," to distinguish space and
+time from each other and to recognize and declare
+
+Digitized by VjOOQIC
+
+UNDERSTANDING IN SENSE. 91
+
+each to be the one real or potential whole that it is.
+Apart from this clear discrimination and recognition
+of them by the understanding or intellect, what
+were space and time, or, rather, what must they
+have been? Clearly nothing but abstractions, ob-
+scure and unperceived possessions or creations of
+our minds, of which we could neither know nor say
+anything. Kant nevertheless so considers them —
+namely, apart from understanding, and hence, since
+they have a mental origin and so must be ascribed
+to some faculty, attributes them to the imagination,
+" a blind, but indispensable function of the soul."
+The imagination, then, or the mind working spon-
+taneously under the guise and name of imagination,
+blindly spreads out the synthetic mental wings of
+space and time, and understanding sees what it has
+done and clearly discriminates space and time, each
+as the one mental reality and whole that it is. The
+imagination, in like manner, blindly and confusedly
+provides for recognition by the understanding minor
+" syntheses " in space and time, which again the
+understanding clearly distinguishes and recognizes,
+each in its own peculiar nature. Thus the imagina-
+tion blindly creates that " synthesis " of lines in
+space, which is called a triangle. The understand-
+ing fixes the synthesis in one distinct and unalter-
+able conception. The conception of the triangle may
+thus be termed a " synthetic unity," determined or
+clearly defined by the understanding on the basis of
+material (lines in space) blindly brought together
+for it by the imagination. The imagination is thus
+
+Digitized by VjOOQIC
+
+92 KANT'S CRITIQUE OF PURE REASON.
+
+the active mental principle and condition of percep-
+tion, whose results, as we have been rightly told
+above, are as *' blind," until the understanding has
+conceived thera, as the conceptions of the under-
+standing are " empty,'' until provided with a per-
+ceptional content. Such content constitutes the
+definable meaning of every conception. The con-
+ception simply defines, or distinguishes, and so en-
+ables us to recognize, or know, the content.
+
+Now, the pure conceptions of the understanding,
+or categories, are, as regards their " transcendental
+content," or their necessary and universal and hence
+a priori significance, such " synthetic unities " as
+the triangle above considered, only of a more gen-
+eral and abstract order. They indicate those uni-
+versal forms or aspects of pure " imaginative " syn-
+thesis or relation in space and time, without which
+no synthesis and no judgment whatever are possible.
+Whatever syntheses imagination may present, all
+have the aspect of unity, plurality, or totality, of
+reality, negation, or limitation, etc., virtually inhe-
+rent in them. Understanding simply fixes these
+aspects in determinate conceptions; it distinctly re-
+cognizes, defines, and names them. And it fixes
+upon precisely these aspects, and no others, simply
+because the forms of its own peculiar activity as an
+universal faculty o^ judgment determine it to do so.
+These, then, are the aspects or ideas which were
+found in the beginning to be peculiar to, or in-
+volved in, the several forms of judgments as such.
+But a judgment is only an assertion of knowledge
+
+Digitized by VjOOQIC
+
+UNDERSTANDING IN SENSE. 93
+
+concerning some "object"; or, at least, whatever we
+may profess to know concerning objects can be
+expressed only in the form of logical judgments. It
+follows, therefore, that the form of all our assertions
+about " objects " of knowledge, and consequently the
+form of our conceptions, or of what we call our
+knotvledge, of objects themselves, is predetermined
+by the categories, or, the categories " have an a
+prion reference to objects."
+
+The foregoing is the substance of what may be
+termed, in view of its correspondence with the simi-
+lar first portion of his treatment of space and time
+in the "Esthetic," Kant's " metaphysical exposition,"
+analysis, or deduction of the categories, as a pnori
+notions of the understanding.* This is followed by
+a "transcendental deduction" or demonstration of
+them, before proceeding to which one or two obser-
+vations are in place.
+
+First, it is extremely Important for the student
+never to forget that the " table of categories " is set
+up by Kant only as a table of the fundamental con-
+ceptions of physical science as such, Kant's present
+inquiry is simply, "How is pure physical science
+possible?" and he prosecutes this inquiry by seek-
+ing to determine what are the conceptions peculiar
+to physical science, what is their nature, and what
+their precise and specific significance. But physi-
+cal science exists primarily and characteristically in
+
+♦In the " Transcendental Deduction," Kant himself, referring baclc
+to this portion of his discussion of the categories, si)eaks of it, for the
+first time, as a " Metaphysical Deduction " ; this title or description was
+not employed by him at all iu the relevant place.
+
+Digitized by VjOOQIC
+
+94 KANT'S CRITIQUE OF PURE REASON.
+
+and through — or it is an analytic transcript of the
+content of — sensible consciousness, the latter being
+considered simply as the given product of two fac-
+tors, subject and object, acting only mechanically
+upon each other. Accordingly the "content" or
+meaning of each of the categories, as here contem-
+plated by Kant, is, as we have seen, and as further
+developments in coming chapters will more expli-
+citly show, purely and simply some mode or relation
+of space and time, and that, too, of space and time
+regarded quite independently of their demonstrable
+philosophic or spiritualistic significance, and as mere
+mechanical forms of the i^henomena of sensible con-
+sciousness. Any richer content which any of these
+categories may have derived, for popular or philo-
+sophic consciousness, from sources of rational expe-
+rience which lie deeper than the mechanical forms
+of sensible consciousness, must be excluded from
+consideration, in regarding the categories as Kant
+here defines them. Thus, to mention only one ex-
+ample, if the word " causation '' suggests something
+more than a mere irreversible relation of order in
+time between one phenomenon and another, if it
+thus implies purpose and efficient spiritual activity,
+this deeper and richer significance of the term,
+though elsewhere in this very Critique recognized
+by Kant as that which is "practically" known to
+constitute " true causality," must here be abstracted
+from, and the word must be restricted to express
+only the time-relation. The like is to be said with
+regard to the other categories.
+
+Digitized by VjOOQIC
+
+UNDERSTAl^DIl^G IN SENSE. 95
+
+The foregoing caution is doubly necessary since,
+on the one hand, the young philosophical student is
+often found resorting to Kant, and especially to the
+study of his exposition and deduction of the cate-
+gories, for light respecting the unqualified philoso-
+phic significance of the conceptions named in Kant's
+table; while, on the other hand, he is encouraged to
+do so by Kant himself, whose mechanistic prejudices
+lead him constantly to assume, dogmatically, that,
+with the determination of the exact significance of
+the categories as categories of pui^ely physical or
+mechanico-sensible knowledge, their whple " theo-
+retical " significance is exhausted. The true nature
+of the discussion and of its limitation, is further ob-
+scured by the circumstance that Kant, while treat-
+ing of the categories of physical science, occasionally
+associates with them a meaning which is foreign to
+his own " deduction " or account of them. Thus it
+occurs to him to speak, in passing, of an " influence "
+which the cause exerts in producing the effect. Now,
+the notion of " influence '' may and does indeed be-
+long to the completed conception of causation, as
+derived by philosophy from the examination of the
+whole nature of our conscious experience. But it is
+not included in the conception of causation, which is
+founded on the contemplation of the purely me-
+chanico-sensible aspect of our experience. It is not
+comprehended in the conception of causation as a
+" category " of " pure physical science." Here, as
+Kant himself has in substance already found, and
+will subsequently enable us more clearly to compre-
+
+Digitized by VjOOQIC
+
+96 KANT'S CRITIQUE OF PURE REASON.
+
+hend, the term " causation " has to be restricted to
+denote nothing but a mode or relation of order in
+time, from which, as such, all notion of force or in-
+fluence is to be rigidly excluded. Such inadvertences,
+therefore, — if it is accurate so to term them, — on
+Kant's part, as the one just alluded to, are only con-
+fusing and misleading.
+
+Secondly, Kant's above-mentioned doctrine — we
+have termed it an ** assumption " — that the cate-
+gories have no other valid use or' significance than
+that which they possess as categories of pure physi-
+cal science, rests on a supposed demonstration that
+the understanding, considered universally, operates
+as a " theoretic " or strictly cognitive faculty only
+in, through, or upon the forms of space and time, as
+dead and abstract forms of mechanically given sen-
+sible " objects." Kant has, however, demonstrated,
+and will demonstrate, nothing of the sort. He has
+simply chosen to consider how the understanding
+operates when the conditions are purely mechanical
+and sensible, or viewed exclusively in their mechani-
+cal and sensible aspect. The nature of the problem
+immediately in hand requires him indeed to do this.
+But the fact that this particular problem is and
+must be thus limited naturally proves nothing with
+respect to the existence of other problems. The
+mere fact that our conscious experience, or a part of
+it, has a mechanical and sensible aspect contains,
+surely, no proof that it has no other aspect. The
+fact that the understanding is seen to opei-ate in a
+given restricted way, or that its conceptions are
+
+Digitized by VjOOQIC
+
+UNDERSTANDING IN SENSE. 97
+
+found to have a given restricted and abstract con-
+tent, when attention is directed to one of these as-
+pects (and that a relative and superficial one), has
+no power to prove that it will not be found exer-
+cising a more comprehensive function and that its
+conceptions will not acquire a richer and more con-
+crete content, when regarded in the light of other
+and more fundamental aspects of experience. But
+this is the only sort of " proof" (?) which Kant fur-
+nishes. Nay, we ^hall find that what Kant dis-
+covers respecting the nature and operation of the
+understanding, as a faculty of sensible knowledge,
+really tends, like his discovery concerning space and
+time, to overthrow the limitations which he arbi-
+trarily seeks to place upon knowledge — and here,
+more especially, upon the significance and use of the
+" categories." It tends to show that the mechanical
+relation between subject and object implies the or-
+ganic one, that the materialistic conception of sub-
+ject and object (which is shown by Kant to be purely
+relative and phenomenal) implies the spiritualistic
+one, and that the categories of sensible or pheno-
+menal knowledge imply the categories of spiritual
+or real knowledge. And thus, again, Kant's work
+will show itself to be a " critical " one, as marking
+a crisis or turning-point in the progress of mod-
+ern thought, — a point of real, though uncompleted,
+transition from profitless and baseless negations to
+the recognition and demonstration of positive truth
+of living experience. For the present, the fore-
+going general reminder respecting the real nature
+7
+
+Digitized by VjOOQIC
+
+98 KANT'S CRITIQUE OF PURE REASON.
+
+of Kant's work may suffice. Fuller illustration will
+follow in the next chapter.
+
+Finally, Kant himself calls attention to the cir-
+cumstance, that in the tabulation of the categories
+under four heads, there are three under each head.
+This circumstance, he declares, is a " challenge to
+reflection, inasmuch as it furnishes the only excep-
+tion to the rule that a priori logical division is
+dichotomous" (e.g. A and non-A; no third term).
+Further, " the third category of each class results
+from a combination of the first and second categories
+of the same claSs " ; — not, however, from a merely
+mechanical combination, which would imply that
+the category was not a primary one, but derived
+from mere composition; but from a combination
+effectuated by a " special act of the understanding,"
+which adds to it a significance not contained in
+either or both of the categories combined in it.
+
+Kant, however, does not take up this " challenge,"
+and the fact that he calls attention to these pecu-
+liarities in the table of categories, need only be
+mentioned for the sake of reminding the student of
+post-Kantian German philosophy, that here we have
+the first — at least superficial — suggestion of the
+form of that method which, partially developed and
+applied by Fichte and Schelling, attained with Hegel
+the rank of a universal method for philosophic
+thought.
+
+Digitized by VjOOQIC
+
+CHAPTER IV.
+
+THE "TRANSCENDENTAL DEDUCTION" OF
+THE CATEGORIES.
+
+THE " transcendental exposition " of space and
+time, in the "^Esthetic '' (pp. 64-66, above), con-
+sisted in showing how, on the supposition — and only
+on the supposition — that time and space were of the
+nature indicated in the " metaphysical exposition,"
+pure mathematical science, with its universal and
+necessary propositions, was possible; and so answer
+was given to the first general inquiry raised by the
+Critique (see above, p. 52).
+
+The " transcendental deduction " of the categories
+consist?, in like manner, in showing that on the sup-
+position — and only oif the supposition — that the
+categories are such a priori, or universal and neces-
+sary, synthetic conceptions of the understanding as
+has been indicated in the last chapter, knowledge
+through sensible experience, or pure physical science,
+which is nothing but " determinate knowledge of
+phenomena in time and space," is possible; and so
+the second question of the Critique is answered.
+
+The question of fact has been settled. The cate-
+gories, as pure conceptions of the understanding
+which " borrow nothing from [contingent] experi-
+ence," have been demonstrated to exist as elements
+
+99
+
+Digitized by VjOOQIC
+
+100 KANT'S CRITIQUE OF PURE REASOM.
+
+which enter, with form-determining influence, into
+the whole structure of our " experimental " (= here,
+sensible) knowledge. There- remains only the ques-
+tion of right. By what right does the non-experi-
+mental mix with the experimental and constrain the
+latter to obey its laws? And the answer consists in
+showing that on no other conceivable condition than
+this can the " experimental " be in any way known,
+or — which amounts to the same thing — exist for
+us. The result is (as foreshadowed in our first
+chapter) that the psychological empiricist's concep-
+tion of experience and of experimental knowledge
+has to be radically revised and extended.
+
+In Chapter II we had to ask, What is that, com-
+mon to all sensible consciousness, and consequently
+to all "objects" revealed in sensible consciousness,
+by virtue and on account of which both it and they
+are all alike called sensible? And the answer was.
+Sensible consciousness and sensible objects are such
+by virtue of their all wearing, necessarily and uni-
+versally, a garment woven for them by "mind" out
+of relations of space and time, themselves its own
+" creation."
+
+But does sensible consciousness know itself and its
+objects simply in virtue of this ideal garment that
+it wears? No; for we have been seeing that "sensi-
+ble consciousness," qua sensible, is but the receptive
+condition of knowledge, and not knowledge, or intel-
+ligence, itself. Strictly speaking, sensible conscious-
+ness is an abstraction and a misnomer. Pure sensible
+consciousness is the same as no consciousness. It
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 101
+
+is not sense, but self, or mind, or "understanding,"
+that is conscious or knows in and by means, or on
+occasion, of what is called sensible consciousness.
+This is what has been incipiently, yet distinctly
+enough, implied in the result of the analysis of
+space and time. These are not " ideas " received by
+us through sensation, but forms of perception, due
+to the productive activity of the imagination, which,
+as Kant perceives and declares, is a manifestation of
+one and the same spontaneous, mental, self -activity,
+which manifests itself otherwise in the " functions "
+of the understanding. But imagination and all its
+works are, as we have seen, blind and for us as good
+as nought, until distinguished by the understanding.
+It is the understanding, then, which makes sensible
+consciousness and sensible objects real for us; and
+understanding, as we are about to see, is nothing
+apart from the unity and identity of se//-conscious-
+ness. There is no real consciousness, accordingly,
+which is not, or does not involve, self-consciousness,
+and no real "experience" which is not, or does not
+essentially involve, self -experience. If, then, we now
+ask. What is that, common to all sensible or experi-
+mental knowledge, by virtue and on account of which
+alone it is really knowledge for us? the answer is,
+that, since all such knowledge must take the form of
+distinct ideas or conceptions, and since no concep-
+tions are possible except in agreement with those
+master-forms, the " categories," which determine the
+nature and universal form of all our conceptions,
+therefore no experimental knowledge, no knowledge
+
+Digitized by VjOOQIC
+
+102 KANT'S CRITIQUE OF PURE REASON.
+
+of "objects," no experience, is possible for us, ex-
+cept, as a predetermining condition, it be clad in the
+forms of the categories as pure conceptions of the
+understanding or of the self-centred, self-knowing,
+and spontaneously active human mind. Just, there-
+fore, as mind, working under the guise of imaging.-
+tion, creates, in space and time, the fixed form and
+condition, or the only intelligible element of sense,
+so, working under the guise of understanding or
+intellect, it creates the like form and condition, or
+the truly and preeminently intelligible element in
+experimental knowledge — the element by virtue of
+which it is indeed, or is capable of becoming, knowl-
+edge. The understanding is thus the " author of
+experience" and of its objects, in any and every
+sense in which these latter are intelligible, or are
+real objects of conscious knowledge, for us. It is
+thus the author of " nature, regarded as the sum of
+all phenomena," and prescribes to it a priori its
+universal and necessary, if not its particular, laws:
+it prescribes to nature the laws, to which all its
+special laws must conform.
+
+In order, now, fully to understand Kant's " deduc-
+tion" of these truths, it is specially necessary to
+recall and to bear in mind just what sensible con-
+sciousness, taken purely by itself, as a series of
+passive states or impressions, is, and what are \id
+limitations. The truth in regard to this matter
+Kant learned through Hume, and we are to consider
+Kant as having this constantly in mind as he pro-
+ceeds with his deduction. The relevant facts of the
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 103
+
+case have been repeatedly alluded to in the fore-
+going pages (and the reader may compare, in par-
+ticular, pages 45-47). It is enough to repeat here,
+that the states or impressions, for the whole aggre-
+gate of which sensible consciousness is but the
+collective name, are, in Hume's phrase, so many
+atomically "distinct existences," and that, if these
+make up the whole of " mind," knowledge is impos-
+sible. For (a) these impressions or states are passive
+and can do nothing; but knowing is an activity;
+(b) had they the power to know, each could know
+only itself, since each is distinct from and out of
+"real connection" with the other; but (c) one im-
+pression — to say nothing of the other absurdities of
+the supposition — could not even know itself, for the
+reason that every original impression is atomically
+simple; it is not only out of relation to all other
+impressions, but is void of relation or distinction in
+itself; and where there is no distinction there is no
+knowledge. But now let us suppose that these im-
+pressions are not the whole of mind, but that there
+is, as Hume practically assumes, an indefinable
+mental power or, better, eye, to which impressions —
+otherwise called "objects" — are simply presented
+for observation, and that all that this " eye " does is
+passively to view the impressions as, with " incon-
+ceivable rapidity," they pass before it. This " eye "
+or " mind " could still never be aware of more than
+one impression at a time, and each impression, as it
+came, would immediately vanish, leaving no trace
+bebind it, and be followed by another quite "dis-
+
+Digitized by VjOOQIC
+
+104 KAKT'S CRITIQUE OF PURE REASON.
+
+tinct " from it. Still there would be no knowledge —
+not even a conscious "picture" or "image" of an
+"object." For to such an image a simultaneous
+combination of several simple impressions is neces-
+sary, and to such combination an active work of
+mind, called rememhering, would be necessary, in
+order to keep the evanescent impressions from com-
+pletely vanishing, and so to hold them together in
+one embrace or view. But to suppose such a power
+and reality of active mind as memory, is to add
+something to the data of sensible consciousness, and
+the necessity of making this addition — which sensa-
+tional psychology always, but surreptitiously, makes,
+and which Hume thus made (cf. above, pp. 46-47) —
+is the first and simplest, and the universal historic
+proof that a purely sensational or " empirical " psy-
+chology and a purely sensational theory or explana-
+tion of knowledge are absolutely impossible.
+
+A summary name, therefore, for all that sense,
+considered on its material side, or sensuous con-
+sciousness, with its purely receptive nature, does not
+include, is combination or " synthesis." Sense fur-
+nishes a multiplicity of elements (" impressions "),
+for the material of knowledge, but these elements,
+as they are simply given and received, absolutely
+lack that connection which is, as matter of fact,
+necessary to render them really conscious objects of
+knowledge. This deficiency of sense is perceived
+and declared by Kant, who adds that of all our ideas,
+the idea of combination, union, or synthesis among
+the manifold elements of our sensible consciousness,
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 105
+
+is the only one which is not and can never be im-
+mediately furnished us by such consciousness.* It
+" can never come into us through the senses " or be
+"given" us through impressions. Combination, re-
+lation, synthesis, is not a mere inert, finished, objec-
+tive, and observable " fact," impressed upon us from
+without through the action of " objects " upon our
+" minds," nor is it a " conscious state " induced upon
+us through the like agency. It is not a " fact," it is
+an act, a synthetic or combining or relationing act,
+accomplished by the spontaneous and independent
+activity of " the knowing subject itself." A line, for
+example, is a combination or " synthesis of manifold
+elements " or parts, which is not seen by the eye of
+the body or by the imaginary eye of sensuous con-
+sciousness, but only by the eye of the mind, which is
+the understanding. The line is not seen till it is
+thought, and " we cannot think it without dratving
+it, in thought." We can — to make this clear —
+and, from the abstract point of view of mere sensu-
+ous consciousness, we must, imagine the line as made
+up of an indefinite number of points joined to each
+other. For sense each of these points gives off its
+separate impression, and these are received, not sim-
+ultaneously, but in succession. Physically speaking,
+we cannot see all of the points together, we can only
+
+* What Kant more exactly means is, of course, that the idea of
+combination includes all ideas not furnished by sense. The progress
+of the argument will show that it thus includes all ideas, or concept
+tions proper, whatsoever, since there is no conception without com-
+bination. Sense, as here technically regarded by Kant, furnishes in
+fact no " ideas " whatsoever, but only material for them.
+
+Digitized by VjOOQIC
+
+106 kant's critique of pure reason.
+
+see one at a time. There is and can be no purely
+physical or sensuous vision of the line. The physi-
+cal organ and its function are only the condition of
+vision, which is a synthetic act performed by the
+intellect, the mind's true eye. The intellect, namely,
+or "understanding," attends to the multitudinous
+impressions in their order and brings them to a
+stand, keeps them from fleeting, fixes them in the
+field of mental vision, which is memory, and so holds
+them together in a true synthesis or union, whereby
+the impression of their multitudinousness is lost in
+the cleai* and distinct thought of their unity, or of
+the one true object, which they conditionally com-
+pose. This thought, as such, is strictly the product
+of our thinking, or of the " spontaneity of our un-
+derstandings." The line is no object of thought or
+knowledge, until, by actively '* drawing the line in
+thought," we really think and so know it. And the
+like is true for all sensible objects of knowledge.
+For in all of them there is involved a like combina-
+tion or synthesis of multitudinous parts or " impres-
+sions."
+
+But to say that all synthesis in sensible knowledge
+is the work of the understanding, is the same as to
+say that all distinction in knowledge and all unity
+are to be ascribed to the same active and eflBcient
+source. For synthesis is nothing but viewing that
+which is intrinsically, or at least sensibly, manifold
+as one. So Kant declares that " the conception of
+combination involves, in addition to the notion of
+multitudinous elements and their synthesis, the no-
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 107
+
+tion of their unity. Combination may be abstractly
+defined as the idea of the synthetic unity of the
+manifold."
+
+Let it not, now, (a) be said or imagined, after
+the manner of the uncritical descriptive psycholo-
+gist, that this idea of complex unity is not original,
+but derived and transferred from an idea of simple
+unity, which is involved in the idea of a simple
+impression, and is conveyed, along with the im-
+pression, through the senses into the mind. For
+we have seen, abundantly, that there can be no
+such conveyance of the single, simple impression
+itself, nor, consequently, of the mathematical or
+numerical unity which alone belongs to it. On the
+contrary, the simple impression and its unity are,
+in the order of our knowledge or conception, late
+products of analytic abstraction. All sensible ob-
+jects of knowledge are synthetic wholes, and it is we
+who, having, by the very act and process of our
+knowing, made them such wholes, afterwards ana-
+lyze them into imaginary elementary units. Nor,
+on the other hand, (b) can the idea of this unity be
+logically or historically posterior to the idea of com-
+bination. On the contrary, as Kant declares, it is
+the very superinduction of this idea upon the multi-
+tudinous elements to be combined, which first makes
+combination possible; so that the idea of unity is
+logically prior to, or the condition of, the idea of
+combination. And, finally, (c) the unity in question
+is not identical with the mathematical " unity" men-
+tioned in the table of categories. The latter unity
+
+Digitized by VjOOQIC
+
+108 rant's critique of pure reason.
+
+is essentially the same with that referred to under
+"(a)." It results from a " logical function," or pro-
+cess of thought, in which such combination of ideas
+is presupposed as, according to "(b)," must follow
+and depend on — not precede and condition — the
+"qualitative" unity under discussion. The origin
+of this unity must be sought, Kant declares, " in a
+higher region, namely, in that which itself first ren-
+ders the understanding, as a judging faculty, pos-
+sible, by rendering possible the union of different
+conceptions in one and the same judgment." The
+unity in question must transcend all other unities,
+and must be at once their universal condition and,
+as such, present and discoverable in or through
+them all.
+
+This unity is none other than the unity of pure
+self-consciousness. Wherever there is thinking,
+" having of ideas," or being conscious in any shape,
+there is a somewhat that thinks, has the ideas, or is
+conscious. This somewhat calls itself self, a self,
+one identical self, or person. It uses the pronoun of
+the first person and says: "/ think, have ideas, or,
+am conscious," or, "All these thoughts and ideas are
+mine.^' Accordingly, Kant declares the condition of
+all thought and of all real or completed conscious-
+ness to be this, that it be either explicitly and actu-
+ally accompanied by the reflection expressed in the
+phrase, " I am thinking," or that it be possible for
+this reflection so to accompany it. I need not, of
+course, stop to rieflect that all the thoughts, ideas,
+or *' objects of consciousness," of which I am aware,
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 109
+
+belong to me; but unless it were true that, if I did
+thus reflect, I should find that they were indeed
+thus all mine, they would have no existence for me;
+and, not existing for me, they would not exist at all.
+The one common aspect, then, that belongs so essen-
+tially to all thoughts or ideas, that without it there
+would be no thoughts or ideas at all, is this, that
+they all belong to a me — to a me whose nature is to
+be always one and the same, or identical. So that I
+may say that the " common expression " for " all my
+ideas " is, that "/ am thinking." The consciousness
+thus expressed is pure self- consciousness. The unity
+involved in it may be termed the " transcendental
+unity of self-consciousness," inasmuch as it condi-
+tions, and so explains, as we shall see, the possibility
+of certain forms of knowledge a priori.
+
+The unity of pure self-consciousness, it is seen, is
+present in and comprehends all other consciousness.
+It is the true and original unity, without which no
+other unity in knowledge is possible. It is the syn-
+thetic or comprehensive unity in which all other
+syntheses are strictly included, and on which they
+depend. Whatever may be necessary to this unity,
+or intrinsically involved in it, will bear a like rela-
+tion to all our knowledge whatsoever.
+
+Pure self-consciousness is distinguished from all
+other consciousness. The "I" who thinks, regards
+all his thoughts as belonging to him, but not identi-
+cal with him, as being his possessions, but not him-
+self. The expression, " I," denotes nothing which
+is sensibly perceived, no conscious image, iike that
+
+Digitized by VjOOQIC
+
+no kant's critique of pure reason.
+
+of a tree, for example. It is not definable or de-
+scribable in terms of sensible consciousness. The
+idea is not received, and no object corresponding to
+it is presented. It can, therefore, originate only
+in the pure *' spontaneity " of mind. It denotes a
+pure, ideal, strictly continuous, self-originating and
+self-illuminating act or activity, and not a "sub-
+stance," — in which latter case it would have to be
+sensibly perceived, presented in the forms of space
+and time, and exist before it was perceived. And
+the context shows that it is a synthetic activity,
+since it draws within its embrace all other activities
+and holds them together in one organic whole.
+
+On the other hand, and from another point of
+view, self-consciousness is identical with all con-
+sciousness. Whatever may be our thoughts or ideas,
+whatever our consciousness and its " objects," the
+consciousness of " the identical self " is in them all
+and they are all in it. It permeates all other con-
+sciousness, and, by making the latter its own, at the
+same time makes it to be real consciousness. Thus
+pure self-consciousness gives itself a content, which
+it makes practically identical with itself, while it
+remains master of the content and so ideally distin-
+guishable from it. In short, consciousness in gen-
+eral and self-consciousness in particular reveal them-
+selves as organically one, separable only through
+abstraction, bound up in a living, actively synthetic
+and complex unity, of which the determining ele-
+ment or original unity (or, better, source and crea-
+tor of unity) is that universal " act of spontaneity "
+
+Digitized by VjOOQIC
+
+THE "TBAKSCENDEKTAL DEDUCTION." Ill
+
+expressed in the phrase, "/ am thinking." Thus we
+see that, at least in some sense, all consciousness is
+necessarily, or involves, self-consciousness, and the
+former cannot be conceived, even in abstraction, ex-
+cept as subject to the forms which the latter imposes.
+
+All combination of ideas or of their elements in
+unities, in wholes, or in *' objects," is, then, a work
+of the understanding, and is consequently a priori,
+or primarily and ideally independent of the ele-
+ments combined; and the understanding "is itself
+nothing but the faculty of thus combining." The
+original and master combination, on which all other
+combination depends, is the union of all conscious-
+ness in the synthetic embrace, or " under the syn-
+thetic unity," of self-consciousness. ** Thus the syn-
+thetic unity of self-consciousness is the highest point
+of all, on which all use of the understanding, even
+all logic, and, after it, all transcendental philosophy,
+must depend; nay, the faculty of such unity is the
+understanding itself." And the " highest principle
+in all human knowledge " is, that the manifold ele-
+ments presented in sensible consciousness must, in
+order to become elements of a real consciousness, be
+in relation to " the original synthetic unity of self-
+consciousness " and conformed to the conditions of
+the latter.
+
+Now let us look, by way of recapitulation, at the
+ground as it lies at present before us. The defi-
+ciency of sensible consciousness, conceived as inde-
+pendent of understanding and its activity, consisted
+in the utter unrelation and absence of union among
+
+Digitized by VjOOQIC
+
+112 KANT'S CRITIQUE OF PURE REASON.
+
+its elements. Owing to this deficiency, sensible con-
+sciousness, as thus conceived, could not furnish,
+since, as such, it did not contain, any ideas of things
+or objects; for such ideas always consist of a defi-
+nite and orderly combination of elements. Still less
+could it furnish or account for our ideas of relations
+among different objects, or ideas of objects, such as
+causation, interaction, etc. Yet we have such ideas,
+of both kinds, or, what amounts to the same thing,
+we are aware of what we call objects as existing,
+and of fixed and even necessary relations as subsist-
+ing among them. Or, in other words, combination,
+both among the elements of our ideas, and among
+our ideas themselves, is a fact, and this combination
+exists in determinate forms, without which it would
+be indefinable and unrecognizable. Now, we have
+found an explaining source of apparent combination
+in the peculiar activity of the understanding, which
+is nothing but a pure, combining activity, effectu-
+ating a reduction of that which is per se chaotically
+multitudinous (namely, elementary sensuous " im-
+pressions") under the synthetic unity of orderly
+wholes (ideas of objects and their relations), and,
+further — as a work absolutely essential to the com-
+pleteness and effectiveness of the foregoing — bring-
+ing all these wholes under the all-comprehending
+unity of one identical self-consciousness, which per-
+meates and dominates them all. So essential, in-
+deed, and so fundamental has this latter work ap-
+peared, that we have been enabled to recognize in it
+the characteristic nature, nay, the very essence, of
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 113
+
+the understanding itself, and to perceive that, instead
+of the grand synthesis of self-consciousness being
+simply incidentally necessary to all other syntheses,
+all other syntheses were the rather but necessary
+and incidental parts of the synthesis of self-con-
+sciousness, and must accordingly adapt themselves to
+its requirements.
+
+On what condition, then, is sensible experience,
+and the knowledge, thus derived, of what we call
+nature, possible? Or, on what condition is "pure
+physical science" possible? The condition is obvi-
+ously an important one, and has been plainly indi-
+cated in the foregoing. It is that our consciousness
+of nature be, at least in form, strictly a conscious-
+ness of self — a s^//-consciousness — or necessarily
+involved in and determined by that combining ac-
+tivity of the understanding, whose highest and ori-
+ginal, essential and universal, potency is manifested
+in the realization of self-consciousness. Would we
+know an object, it is not enough that we simply feel
+or have the impressions it produces. Indeed, simphj
+to feel them is impossible. In order to know the
+object, we must also think it. But to think it is
+simply to combine the elements suited to compose it
+in the synthetic, conscious unity of an idea; and to
+do this implies the combination of this idea, with
+various others of similar nature, in the grander unity
+of one unbroken and uninterrupted consciousness;
+which latter, again, is impossible, except it be
+brought under the one central, unifying, and all-
+pervading light and activity of self-consciousness,
+d
+
+Digitized by VjOOQIC
+
+114 KANT'S CRITIQUE OF PURE REASON.
+
+The activity, by which an object is thought, is part
+and parcel of the activity whereby consciousness is
+made and continues to be one; and the latter, again,
+is but part and parcel of the activity whereby self-
+consciousness constantly creates and sustains itself.
+Objective reality — or, that an object should be real
+for us, or really enter into our consciousness —
+depends on the *' union, in the notion corresponding
+to it, of the manifold elements contained in a given
+perception." This union is eflFectuated by the un-
+derstanding, and that only under, within, and by
+means of, the synthetic unity of self-consciousness.
+Consequently this unity is the determining source of
+all unity in objects as known by us, and so of the
+" objective validity," truth, or reality of all our ideas
+of objects. " The transcendental unity of self-con-
+sciousness is that unity through which all the mani-
+fold elements given in a perception are united so as
+to form the notion of an object. It is therefore to
+be called objective'" — or, this unity is identical with
+the unity of consciousness, regarded as a conscious-
+ness of " objects.''
+
+So, then, whatever a natural object definitely is
+for us, namely, its distinguishing form and relations,
+is determined, at least in its larger and vital linea-
+ments, by the nature of the combining activity of
+the understanding, as centring in, and radiating
+out from, self-consciousness. The very notion of
+" object " is a priori, created from within and not
+received from without, and whatever is essential to
+the notion of an object, as such, or of objects as exist-
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 115
+
+ing in relations of coexistence and sequence, must,
+in like manner, be, on the one hand, a prion^ and, on
+the other, enter into and form the condition of the
+very possibility of all our experimental knowledge,
+however otherwise determined. The "categories"
+express whatever is thus essential.
+
+Our ideas of natural objects are, considered with
+reference to their matter and not to their form,
+sensuous perceptions, containing multitudinous ele-
+mental impressions of phenomena in space and time.
+When the understanding combines them, it exercises
+what, logically described, is an act or function of
+judgment. Through this act it puts the perception
+in one of those determinate, but universal, synthetic
+forms, which it must assume, in order to become a
+part of real consciousness. These forms are, as we
+saw in the last chapter, nothing but forms of syn-
+theses, or combinations and relations, in space and
+time, wrought by the imagination under the deter-
+mining influence of the understanding. They are
+essential to the respective forms of logical judg-
+ments, in which they are employed, determining the
+characteristic nature of the latter, and alone ren-
+dering them possible. They are called categories, or
+pure and primary conceptions of the understanding.
+So, then, tho elements of perception can be combined
+only by the understanding; the understanding can
+combine only by judging; and it can judge only
+through the use and api^lication of the categories.
+Consequently, " all sensuous perceptions are subject
+to the categories, as conditions, under which alone
+
+Digitized by VjOOQIC
+
+116 KANT'S CRITIQUE OF PURE REASON.
+
+their diverse elements can be united and enter into
+any consciousness whatever."
+
+The " transcendental deduction " is now completed.
+It is shown that, and how, sensible experience, or the
+foundation of pure physical science, which is the
+determinate knowledge of phenomena in space and
+time, is impossible, except through the categories as
+pure conceptions or functions of the understanding;
+and it is shown that, and how, these conceptions
+all depend on " the original synthetic unity of self-
+consciousness, which is the form that the understand-
+ing assumes in relation to space and time, as them-
+selves original forms of sensible consciousness." If
+we would know a sensible or physical object, it must
+first be clad in that form of thought which thought
+supplies, and without which it cannot enter into the
+presence-chamber of thought or be known. In other
+words, it must take the form of a substance. Only
+as a substance can it be conceived, and, on the other
+hand, it is only in consequence of our conceiving it,
+or operating upon it with the synthetic activity of
+the understanding, that it appears to us as a sub-
+stance. We do not perceive substances, we only
+conceive them; the notion of substance is not intro-
+duced into our minds through the senses. But it is
+a necessary and universal notion for sensible know-
+ledge, or physical science, and that because it is, in
+the way indicated in the transcendental deduction,
+a priori and an essential form of the activity of the
+understanding in creating sensible or "natural"
+
+Digitized by VjOOQIC
+
+THE *' TRANSCENDENTAL DEDUCTION." 117
+
+objects of knowledge, out of the confused elements of
+sensuous consciousness.
+
+In like manner, the notion of a causal relation as
+existing between successive phenomena, or between
+successive aspects of the same phenomenon, is the
+result, not of our perception, but of our conception.
+Hume is right in saying that we never '^perceive''''
+any necessary, or any other real, connection be-
+tween phenomena or "objects." We do not and
+can not, as has been pointed out, even perceive the
+phenomena themselves, unless we also conceive them.
+And so the *' causal connection " which we recognize
+between them, is but a form which they must neces-
+sarily assume in our conception and consequent
+knowledge of them. This relation of cause and
+effect, which is but a relation of necessary and irre-
+versible order in time, is necessarily conceived by
+us as universal, because the category of causation,
+as thus defined, is one of those a priori, mind-de-
+termined forms of our conception of sensible objects,
+which the latter must adopt, in order to be known
+at all. And the demonstration of the necessity and
+universality of this relation among phenomena is
+only tantamount to a demonstration, from a particu-
+lar point of view, that no knowledge of a universe
+of sensible objects in time is possible, unless the re-
+lation among these objects be one of determinable
+" law " or order.
+
+Thus it is that, in Kant's language, it is our gen-
+eral conceptions of objects which render objects, as
+such, possible for us, and not objects which render
+
+Digitized by VjOOQIC
+
+118 K ant's critique of pure reasok.
+
+these conceptions possible. And thus, too, it is we
+who, incapable, through sensuous consciousness, —
+the only way in which " nature " is here held to
+affect us or communicate herself to us, — of reaching
+nature herself and deciphering any laws which may
+belong to nature as a complex of " things-in-them-
+selves," " prescribe laws to nature a priori,'' compel-
+ling her, in our knowledge of her, to conform herself
+to them, and not allowing her to dictate them to us.
+Indeed, the notion of nature itself is a priori; it is
+our notion, our creation; and the categories, which
+determine the form of the universal laws of nature,
+are but the constituent elements of this mind-created
+notion itself.
+
+Should this result still seem incredible and enig-
+matic to the reader, Kant replies by reminding him
+anew of that commonplace of sensational psychology
+which the Transcendental ^Esthetic has reaffirmed,
+namely, that all our knowledge of sensible nature
+is, after all, only a knowledge, not of things as they
+are or may be in themselves, but of things as they
+appear in our ideas of them, i.e. of phenomena. It
+is no more difficult, he declares, to understand how
+the laws of phenomena (thus understood) in nature
+should agree with the a priori combinatory forms of
+the understanding, than how phenomena themselves
+should agree with the a priori forms of sensible per-
+ception. "Laws do not exist in phenomena; they
+only exist relatively to the understanding mind or
+subject, in which the phenomena inhere; just as,
+also, phenomena themselves have no independent
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 119
+
+existence, but exist only relatively to a being en-
+dowed with senses through which he may be affected.
+If things in themselves have laws, these laws no
+doubt belong to them necessarily and inherently,
+and without reference to any understanding that
+may know them. But phenomena are only ideas of
+things, of which latter it is impossible for us to say
+what they may be in themselves. But, as mere
+ideas, they are subject to no law of combination
+whatever, except that which the combining faculty
+prescribes for them." Then follows a very brief
+recapitulation of the points involved in the general
+argument of this chapter, from which it results that
+" all phenomena of what we call ' nature ' are, with
+respect to their combinations and relations, under
+the law of the categories, which is the original source
+of necessary law in nature — if we consider nature,
+not in her more particular and accidental, but in her
+universal lineaments. ♦ ♦ ♦ Particular laws,
+which relate to the contingent, and not to the uni-
+versal, qualifications of phenomena, can, for this
+very reason, not be completely deduced from the
+laws of the categories, although they must all be in
+conformity with the latter. To become informed
+respecting them we must have particular experience
+of them; but as to what experience, as such, or
+viewed in its essential and universal character, is,
+and as to what must be the universal nature of any
+object in order that it may be known through expe-
+rience, the laws of the categories, and these laws
+alone, give us a priori information."
+
+Digitized by VjOOQIC
+
+120 KANT'S CRITIQUE OF PURE REASON.
+
+The general result of the " transcendental deduc-
+tion " is summed up by Kant as follows:
+
+" We cannot think an object, except through cate-
+gories; we cannot know the object of our thought,
+except through perceptions, which conform to the
+categories. Now, all our perceptions are sensuous
+and all our knowledge, relating, as it therefore
+does, to objects which, on their particular, sensuous
+side, we do not create, is empirical. But empirical
+knowledge is experience. Hence no a priori knowl-
+edge is possible for us, except in relation to objects
+of possible sensible experience."
+
+The transcendental deduction of the categories, as
+it now lies complete before us, contains a notable
+contribution to the science of knowledge, and so,
+indirectly, to the science of being. It is neverthe-
+less marred and covered with a needless air of para-
+dox, owing to the peculiar and altogether dogmatic
+limitations, which we have previously recognized as
+belonging to Kant's purely mechanistic point of view,
+and which react with absolutely disfiguring and
+confusing influence upon his own interpretation of
+the facts demonstrated by him. Hegel, who is Kant's
+best critic and interpreter, remarks repeatedly that
+the whole nature of the Kantian philosophy is deter-
+mined by the circumstance that its author always
+ends by contemplating his subject purely from the
+point of view of " consciousness," as distinguished
+from "self-consciousness." This is only another way
+of saying that Kant persists in considering the pro-
+cess of knowledge, or, more particularly, the rela-
+
+Digitized by VjOOQIC
+
+THE " TRANSCEKDEKTAL DEDUCTION." 121
+
+tion between subject and object, in its superficial,
+mechanical aspect, rather than in its essential and
+organic one. The former is viewed by him as funda-
+mental, and determines the character of his final
+conclusions.
+
+" Consciousness,'' as distinguished from *' self-con-
+sciousness," is what we have termed " sensible con-
+sciousness." It is consciousness as considered in
+empirical psychology — a fixed and finished product,
+a complex series of " states " or '* feelings," a sum of
+'* mental phenomena " which we find already exist-
+ing, and which, prior to exact investigation, are
+roughly imagined to be the purely mechanical result
+of the action, upon one indefinable mental " sub-
+ject," of "objects" whose nature is wholly foreign
+to the subject. This is the first appearance, and it
+is an appearance which has its relative justification.
+
+Self-consciousness, on the other hand, is not a
+mere product; it is a process. It is a complex and
+organic activity, and reveals a nature of subject and
+object, and of the universe of experimental reality,
+in which both subject and object are but dependent
+terms, quite different from the one suggested by the
+mere analytic contemplation of sensible conscious-
+ness. The scientific examination and explication of
+self-consciousness were carried further in post-Kan-
+tian philosophy. But Kant carries the inquiry far
+enough to show to one, who regards the facts with-
+out prejudging them, that in self-consciousness there
+is revealed living, spiritual, effective, and determin-
+ing — though not, indeed, materialistically "sub-
+Digitized by VjOOQIC
+
+122 kakt's critique of pure reason.
+
+stantial" — reality. And, in particular, Kant sig-
+nally demonstrates that self- consciousness, with its
+pure, spiritual, organic activities, is the creative
+condition of sensible consciousness. He shows that
+no sensible consciousness, no consciousness of sen-
+sible objects, is possible, unless it be thoroughly per-
+meated, moulded, and sustained by a self-conscious
+activity of mind, which creates for it its universal
+forms and, through these, conditions all its particu-
+lar ones. Nevertheless, his narrow and prejudiced
+point of view leads him to give to the facts demon-
+strated by him an interpretation whereby they are
+rendered not only paradoxical in appearance, but
+wholly unintelligible. Self-consciousness he inter-
+prets (?) as nothing but a "formal" or "logical"
+aspect or condition of sensible consciousness. For
+him the conditioned product is the main thing. The
+conditioning process and agency is merely an onto-
+logically insignificant incident of the former. This
+is wholly unintelligible and is in direct contradiction
+of the facts which Kant discovers and declares.
+Kant finds and declares the self-conscious activity,
+which conditions sensible consciousness, to be a
+" pure activity," a " pure spontaneity" of mind; it
+is livingly eflScient, synthetic, organizing. It does
+something. It is the condition of all conscious doing
+and being. To assert, then, that it is after all only
+formal and logical and is jper se only an insubstan-
+tial incident of sensible consciousness, or of the
+dependent product of its activity, is to use words
+which not only contradict the facts, as he finds and
+
+Digitized by VjOOQIC
+
+THE "TRAKSCENDENTAL DEDUCTION/' 123
+
+asserts them, but are devoid of meaning. As well
+might you say that the organizing forces which
+build up the tree are only " incidental " or only
+" logically " necessary to the tree regarded as a com-
+pleted product, a mere mass of potential timber.
+Of course you have a right to use such language, if
+you have special occasion to fix exclusive attention
+upon the tree in its finished form, but you can only
+use it metaphorically or with a reservation. And
+so Kant, in view of the fact that he is here specifi-
+cally employed with the task of ascertaining and
+describing the conditions and nature of sensible con-
+sciousness only, might justly speak of self-conscious-
+ness, in its logical relation to sensible consciousness,
+as merely a formal aspect or incident of the latter,
+but only on condition that he made it understood
+that his words were to be taken with a qualifica-
+tion, or as not expressing all that self-consciousness
+per $e is demonstrated by the facts to be. But this
+is not Kant's way. So thoroughly is he mastered*
+by the dogmatic persuasion that sensible conscious-
+ness is the alpha and omega of knowledge, that it
+is in sober earnest that he declares self- conscious-
+ness, so far as we can really know it, to be a mere
+shadow cast by us as purely individual human think-
+ers, or by the human race as an aggregate of such
+thinkers. It is not an object of real knowledge, it
+is not revelatory of real being, simply because, in-
+stead of being a part of sensible consciousness, it
+is its transcendent (and self-manifesting) condition.
+Kant, accordingly, continuing to look at his whole
+
+Digitized by VjOOQIC
+
+124 rant's critique of pure reason.
+
+subject exclusively from the point of view of sen-
+sible consciousness and of the corresponding me-
+chanical conception of the nature and relation of
+subject and object, ascribes self-conscious mind with
+all its' works simply to us as phenomenal individual
+subjects, or to the human race as an aggregate of
+such subjects. Knowledge, and the activities from
+which it proceeds, is wholly " within," it is in us as
+thinking individuals, and nothing intelligible comes
+to us " from without." And all this because the
+mechanistic prejudice requires subject and object
+to have nothing in common, and will not permit the
+subject, even, to know himself in his true reality,
+whereby he participates in the universal, and
+through it in the nature of his particular objects,
+but only the phenomenon of himself. (We must
+never forget this point, namely, that, according to
+Kant, it is never the absolute subject that knows, or
+that can detect and know himself in the act of know-
+ing, but only the phenomenal subject — a meaning-
+less distinction, whereby the mystery — and non-
+sense! — of the whole situation, as viewed by Kant,
+is immeasurably increased.)
+
+Perhaps we can best illustrate the absurdity of
+Kant's dogmatic interpretations and the deeper truth
+to which the facts discovered by him really point, in
+some such way as follows: —
+
+Suppose, for example, the hand in a human body
+endowed with a particular, sensible consciousness of
+its own, so that it might *' receive " into itself the
+mental impression or image of any other particular
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 125
+
+part of the body, such as the head. The hand would
+be the " subject," the head the " object," of conscious-
+ness. The hand would view the impression of the
+object " within " itself, and, shaking its own imagi-
+nary head, would say, wisely, in the spirit of the
+sceptical (or even of the "critical"!) Idealist, "Ah,
+here is an impression of what I call a head, which
+doubtless denotes what I may term a head-in-itself.
+But this impression in my manual consciousness I
+perceive to be wholly determined in form by the
+nature of my consciousness, and the impression it-
+self is nothing but a modification of myself, and so
+only shows me how I may be modified or ' affected,'
+but not what is the essential nature of that head-in-
+itself which causes the affection. Plainly, the head-
+in-itself possesses a wonderful and inscrutable na-
+ture. In it is lodged true reality, and it, whatever
+it may be, and although it is forever unknowable to
+me, must doubtless furnish the type of such reality,
+while I am nothing but a fragile mirror; or, rather,
+I cannot distinguish myself — apart from the wholly
+insubstantial hand-form which determines and per-
+verts the form of my consciousness — as being any-
+thing in particular other than the images of true,
+but alas! unknowable, objects, which are reflected in
+me." Should we, from our larger point of view,
+call these oracular utterances of "the hand" wis-
+dom? Should we not, the rather, term them piti-
+able nonsense? And should we not be constrained
+to say to the hand, " hand, the hard and fast oppo-
+sition which thou, as conscious subject, pretendest to
+
+Digitized by VjOOQIC
+
+126 kant's critique of pube reason.
+
+find existing between thyself and that nominal ob-
+ject of thy consciousness, which thou termest the
+head -in- itself, so that the true knowledge of the lat-
+ter can never enter thy poor consciousness, is wholly
+an affair of thy own creation ; and thy show of
+meekness, in reducing thyself to the quality of a
+mere shadow and exalting the * unknown' object
+and subject of thy consciousness to the position of
+sole occupants of the throne of being or sole pos-
+sessors of absolute reality, is wholly uncalled for,
+and hence ridiculous. Thou beginnest by wilfully
+cutting thyself off, in imagination, from all relation
+to aught but thyself. Thou arbitrarily viewest thy-
+self as one distinct and independent thing, self, or
+subject of consciousness, complete in thyself, a wholly
+individual and self-included entity, atomically sepa-
+rate from all other existences, and not needing them
+in order to thine own existence. Upon this suppo-
+sition, any impressions which other existences may
+make upon thee must necessarily appear mechanical
+and inscrutable. Thou, as individual, canst not go
+out of thyself to see whence they come and know
+what reality lies back of them. On reflection, thou
+findest also that all thou knowest or canst know of
+thyself, in the way in which thou hast determined
+to look upon thyself, is confined to the consciousness
+thou hast of the affections or impressions produced
+in thee by objects other than thyself. It is no won-
+der, therefore, that in place of thy original suppo-
+sition of thyself as something, thou art now led to
+regard thyself or thy consciousness as but the in-
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 127
+
+substantial and inexplicable shadow of other things,
+which must lie forever hidden from thy view. But
+all this helplessness of knowledge, this conversion of
+knowledge into ignorance, results only from the cir-
+cumstance that thou hast arbitrarily chosen to con-
+sider the case from the lowest and narrowest, and
+not from the highest and most commanding, point
+of view within thy reach. I, who occupy this latter
+point of view, perceive that thou art not a distinct
+and independent individual, complete in thyself, nor
+is thy consciousness a mere shadow. In like man-
+ner, I see that the head, the object of thy conscious-
+ness, is not simply a distinct and independent thing
+in and by itself. Both thou and it may indeed be
+thus regarded, but, when thus regarded, each is
+viewed only in a light which is partial and incom-
+plete, and hence may and does mislead. Thou,
+hand, and thy fancied distinct object, the head, are
+both inseparably bound together as coordinate mem-
+bers of a complex, but organic and ' synthetic,' unity
+or whole, namely, the human body. In this whole,
+thou and all other members are so intimately and
+vitally united, that the complete separation of any
+one of you from the rest would involve the complete
+and immediate extinction of your true, real, and cha-
+racteristic nature or being. The whole necessarily
+implies each one of you, and each of you neces-
+sarily implies the whole; while all of you, through
+your relation to the whole, are necessarily related to
+and imply each other. Since, therefore, to the true
+existence and function of each one of you, the whole.
+
+Digitized by VjOOQIC
+
+128 kakt's critique of pure reason.
+
+to which you belong, and all its other members are
+necessar}', no one of you, in your purely individual
+and separate aspect, can claim to be a true and com-
+pleted and independent self or entity. On the con-
+trary, you are each an individual self, or your dis-
+tinct and separate natures are what they are, only by
+virtue of the inclusion and participation of each and
+all of you in a universal self or idea, the self or idea
+of the whole body. The universal ' self (the idea of
+the whole body) is the key to unlock the mystery
+of your particular selves. It is in this sense your
+self, and you are its, and all you different members
+strictly belong to and are a part of each other. Thus,
+hand, thou seest that the idea of the head — the
+special object of thy present consciousness — is but a
+part of the completed idea of thine own self, since
+thou canst not adequately think of thyself except as
+involving the head and all other members of the one
+body, to which you all belong, as essential to thine
+own completeness. You all are in one, and one idea,
+one life, one indiscerptible power and light of soul is
+in all of you. Thou wilt see, therefore, that thou
+art what thou art, not solely, nor principally, by that
+which makes thee numerically distinct from the head
+and the rest of the body, but by virtue of thy par-
+ticipating in and having as thine own a universal
+life, an ideal quality, a spiritual force, which is pres-
+ent in every member. Thus, so far as thou and thy
+object are concerned, ' existence ' is obviously not
+atomic, individualistic, separated off by impassable
+gulfs into wholly unrelated and unlike realms. And
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 129
+
+SO, if thou, my friend, wilt cease to fix thy stupid,
+staring gaze exclusively upon thine own individual
+impressions, and wilt rise to such a completed and
+universal self-consciousness as thou mayest easily at-
+tain, thou wilt see that that previously inscrutable
+object, the head, is indeed thy twin-brother, thine
+alter ego, or, better, a true and complementary part
+of thyself, and no more mysterious than thou thy-
+self art. Moreover, this sense-begotten mystery,
+which has shrouded for thee thy own existence, will
+disappear. Thou seest, indeed, already that thou
+existest only through, by, and for, an idea, a use,
+a purpose, which is but an integral part of a larger
+idea. This idea does not exist as an inert, lonely,
+sensible object, but as a spiritual force, all-compre-
+hensive, all-permeating, and all-sustaining within its
+range. Through thy participation in and identifica-
+tion with it, and through this alone, thou seest how
+thou art able to go out of thy separate individual
+sphere, as a mere hand, and to know the head and
+all the other members of the body as a part of thy
+larger and completer self. And thou must now see
+that it is primarily in this ideal force, this effective
+power of "spirit" — which is not inscrutable, but
+self- revealing and translucent as the light of day —
+that true being and reality for thee reside. In this
+reality, as thou perceivest, both thou and thine ' ob-
+ject ' alike participate. Through it you both exist
+and are what you are. The talk of a head-in-itself,
+as a separate and independent entity, was therefore
+nonsense, and the impressions, which led thee to
+9
+
+Digitized by VjOOQIC
+
+130 KANT'S CRITIQUE OF PURE REASON.
+
+postulate its existence, were nothing but the form
+of thy knowledge of the head, considered on what
+we now perceive to be its relatively unreal side,
+namely, the side of its apparent, but in fact unreal
+and impossible, independence and distinction from
+the knowing * hand.' Thus thy * impressions ' or sen-
+suous perceptions pointed to that which is accidental,
+rather than truly substantial, or independently and
+abidingly real, or to that which is unknowable be-
+cause it is, absolutely and independently considered,
+non-existent, and not because it is transcendently ex-
+alted above or removed beyond the reach of ' knowl-
+edge.' "
+
+It is in a strain similar to the foregoing that we
+must address Kant, when he treats the limitations
+of sensible consciousness and of physical science,
+which is but the accurate deciphering of the letters
+and syllables of such consciousness, as universal
+limitations of all " theoretical " or real knowledge.
+Individual, sensible consciousness, which is a pano-
+rama of so-called impressions, or " internal " states
+of appearance, is, as Kant himself has shown us,
+absolutely dependent on individual self-conscious-
+ness, which is a purely ideal, but none the less real
+and synthetic, or combining, activity. But even this
+larger interpretation of consciousness, true and su-
+premely significant as far as it goes, falls short of
+the true and complete interpretation. Individual
+or unipersonal self-consciousness reveals itself as not
+mefely numerically one and self-identical, but as
+the one which pervades the many, the individual
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 131
+
+which is one with the universal, and which makes
+or has the many and the universal as an organic
+part of the consciousness of itself. The self-con-
+sciousness of the individual thus leads him directly
+away from the mere consciousness of himself as
+purely individual, and sets him down in a land in
+which he at first appears to himself as a stranger,
+but where he quickly realizes that he is at home.
+This land is his land; it is the land of his larger
+self, or of his self on the side of its universality, or
+of its relation to universal and absolute being. It
+is the land of universal Self, Reason, or Spirit. It
+is, I say, his own land, it belongs to him, just as,
+in our illustration above, the whole idea or "land"
+of the body belonged to and was involved in the
+completed consciousness of the hand. Individual
+self-consciousness thus finds that in that synthetic,
+combining, universalizing activity whereby alone it
+grasps objects, it is throwing about them simply the
+threads of that larger Self, in which both itself and
+they are included — the self which lives in them,
+as they too all " live and move and have their being"
+only in it. This larger self is divine; it is universal
+living, effective reason, it is absolute Spirit. The in-
+dividual's suflBciency " to think anything of himself "
+is, thus, " of God." It comes from his participation
+in a light which can be, in its completeness, no less
+all-embracing and all-creative than divine reason.
+
+In thisi view all reality or absolute " being " is
+living and spiritual, not dead and merely "sub-
+stantial." The appearance of the contrary is mere
+
+Digitized by VjOOQIC
+
+132 KANT'S CRITIQUE OF PURE REASON.
+
+appearance, which is possible, as such, only for a
+consciousness which is naturally restricted, or volun-
+tarily restricts itself, to the purely individualistic
+point of view of "sensible" consciousness. Every
+particular, finite self is at once a self-realizing, and
+yet also a dependent intelligence, its individual pecu-
+liarities resulting only from its special place or func-
+tion in the universal realm of spiritual power and
+reality, of which God is the independent and trans-
+cendent, yet omnipresent and all-sustaining, monarch.
+All of its " objects" are manifestations or " phenome-
+na" of what must in the last resort be regarded as
+similar " energies of mind," of lower or higher degree.
+
+In this view, too, the absolute distinction, which
+exists for Kant between subjective and objective, as
+also between a jpriori and a postefHorL falls away.
+The subjective and objective are organically one.
+The same ideal life and power are in and constitute
+them both. The " forms of thought " are not simply
+our forms, having no ontological significance and
+serving merely to bind sensuous perceptions to-
+gether in "objects "for our convenience. They are
+the true life and reality of the objects, as well as of
+ourselves. We and they are organically one in that
+Logos, or expressed power of divine spirit, which is
+not only "above all," but also "in and through all,"
+and without which nothing was or is " made."
+
+" To this complexion " the collective body of Kant's
+three Critiques, as a whole, effectively point, but, at
+most, only " practically" come. And, more especially,
+it is to such a science of knowledge and of being
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 133
+
+as is roughly indicated in the foregoing pages, that
+the facts respecting the real process of knowledge
+and the actual relation between subject and object
+in knowledge, as discovered and set forth by Kant
+in his Transcendental ^Esthetic and Analytic di-
+rectly lead. Such a science is immediately founded
+in and corresponds to experience, to our whole expe-
+rience, and not simply, like the theories of sceptical
+idealism and agnosticism, to one superficial part or
+aspect of experience. It is in such a science that
+philosophy, in its grander historic forms — the forms
+which contain a positive, experimentally demonstra-
+ble substance, and are not filled with dogmatisms
+and arbitrary negations — has consisted and ever
+consists. And it was necessary to indicate here, at
+least to the foregoing extent, the outlines of this
+science, in order that we might, on the one hand,
+see what is the general relation of the facts dis-
+covered by Kant to the cardinal principles of philo-
+sophic truth, and, on the other, perceive yet more
+clearly than before, that the limitations which Kant,
+in the Transcendental Deduction, and in his whole
+Critique^ places on all " theoretical " knowledge, are
+dogmatically asserted, and hence to be looked upon
+with absolute distrust. When therefore, for exam-
+ple, we find Kant declaring that the " identical self,"
+the " I," which asserts itself in the activity of self-
+consciousness, knows not what itself is, but only that
+it is, — and this, too, simply because, of that which is
+expressed by the pronoun '' I," we have, and from
+the nature of the case can have, no sensible impres-
+
+Digitized by VjOOQIC
+
+134 KANT'S CRITIQUE OF PURE REASON.
+
+sion, perception, or image; when he says that we
+can " think," but not " know," ourselves, and implies
+that eflfective reality or true being belongs only to
+unknowable things which appear, and yet do not
+appear, in those sensible perceptions which we call
+phenomena; — when he says all this, we shall, let it
+now be hoped, be able to take his utterances at their
+true worth — or worth lessness. We shall decline to
+adopt as solemn truth the mere prejudices of that
+phantom which imagines and terms itself purely
+and merely individual sensible consciousness.
+
+And, finally, we shall see that the extension of the
+aforesaid " limitations " to the whole field of knowl-
+edge, is irrelevant to the immediate subject of dis-
+cussion. The question was. How is pure physical
+science, or sensible knowledge of objects, possible?
+And the answer was, substantially. Such knowledge
+is not possible without fixed and definite conceptions
+and invariable relations or " laws," which can be
+immediately traced to no other source than the syn-
+thetic activity of self-conscious mind. From this
+source is derived the universal and necessary form
+of sensible knowledge. Its material, on the other
+hand, must all be given in the shape of conscious
+perceptions, appearances, or phenomena. These, on
+the one hand, must be given; and, on the other,
+beyond them physical science, through its necessary
+organ, sensible consciousness, cannot go. Thus the
+question is answered. To go further, and assert that
+all knowledge is strictly confined to the same condi-
+tions, is, compared with the requirements of the
+
+Digitized by VjOOQIC
+
+THE "TRANSCENDENTAL DEDUCTION." 135
+
+discussion, simply a work of supererogation. Still,
+this might be endured, were the assertion proven.
+Not being proven, nor supported by even a shadow
+of proof, it is a source of double confusion. It
+diverts attention from the immediate problem in
+hand, and lands it in a bog of sophistry.
+
+We may recognize, however, with gratitude, and
+study with profit, the positive work which Kant has
+accomplished. He has, in principle, already deter-
+mined the nature, conditions and limitations of
+" pure physical science " or sensible knowledge. He
+has also shown that the knowledge of the human
+spirit is not to be compassed by the methods of
+such science or by any mere analysis accomplished
+through empirical psychology. And by showing
+that knowledge, even upon its lowest, sensible terms,
+implies a combining and illuminating activity of
+mind, he has done the work of a hero in undermin-
+ing sensational psychology and, even, the dogmatic
+metaphysics, which rests on it, and in which, also,
+Kant himself continues, in too great a measure,
+complacently to rest; he is really, however uncon-
+sciously, pointing all the while in a way which is
+most significant for the thoughtfully observant mind,
+to the philosophic conception of being, as ideal, uni-
+versal, spiritual, and self-knowing power, and not
+merely atomic, impenetrable, and unknowable " sub-
+stance." Whither Kant thus pointed, his successors
+did their best — and that was not a little ! — to fol-
+low, and so, in spite of all apparent differences and
+contradictions, — nay, rather by very virtue of them,
+— became his truest continuators.
+
+Digitized by VjOOQIC
+
+CHAPTER V.
+
+THE PRINCIPLES OP SCIENCE.
+
+THE term science, in the title of this chapter, is
+to be taken in the restricted sense, for which
+Kant has been preparing us and which has now be-
+come confirmed by prevalent usage. By science we
+mean mathematical and physical science, the sole
+subject-matter of which is found in sensible pheno-
+mena or in their conditioning and universal forms.
+The " principles of science " are the universal and
+necessary laws of sensible phenomena. Sensible
+phenomena are conscious or known phenomena.
+They are " objects," regarded as entering into and
+forming a part of our consciousness, not as existing
+independently of it and " in themselves." They are
+an organic part of our knowledge, or must become
+such, in order to be anything for us. Their laws,
+therefore, belong to them only in so far as they are
+known or knowable. Their universal and necessary
+laws, or " the principles of science," are nothing but
+the universal and necessary laws of sensible knowl-
+edge. They flow from and are nothing but an ex-
+pression of the essential and conditioning nature
+of such knowledge. They are determined from
+within, and not from without. The particular and
+apparently contingent laws of phenomena, on the
+
+136
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 137
+
+contrary, which are learned by special analysis and
+induction, and seem to be simply impressed upon our
+observing 'consciousness from without, are, as such,
+not principles of science, but only matter of scien-
+tific information. Yet they, too, turn out, upon
+examination, to be but special cases under and in
+conformity to the principles. They illustrate the
+principles and so illustrate the truth, which is a
+priori obvious, that the impress of the laws of sen-
+sible knowledge, as such, or considered universally,
+must appear in all the imrticidars of such knowl-
+edge. The accidental must bear the form of the
+necessary; the a posteriori, of the a priori.
+
+Now, the necessary and universal elements of sen-
+sible knowledge, (the elements which determine and
+indeed make up its form or ineradicable nature,)
+have been " metaphysically " and " transcendentally *'
+deduced in the foregoing chapters. They are — in
+dependence on the pure forms of sensible perception,
+or space and time, — the so-called categories, or pure
+and original conceptions, of the understanding. The
+necessary and universal principles of such knowl-
+edge, or "the principles of science," can therefore
+be nothing but another — expanded or generalized —
+version of these elements.* They are a completer
+or more definite statement of that which the cate-
+gories imply. The categories are single notions,
+and elements of definite judgments. The principles
+
+♦ In view of this their purely intellectual origin, Kant's expression
+for them is, not " principles of science," but " principles of the pure
+understanding. '^
+
+Digitized by VjOOQIC
+
+138 K ant's critique of pure reason.
+
+are these judgments themselves. Our work in the
+present chapter must accordingl}^ be not so much a
+labor of exploration, as of developed statement and
+application.
+
+When the term *' understanding " is not employed
+as a general designation for mind or intellect as a
+whole, it denotes, according to Kant, one of three
+principal faculties or functions of knowledge, which
+are termed Understanding, Judgment, and Reason.
+Corresponding to this division and arrangement,
+ordinary logic treats, under different heads, of Con-
+ceptions, Judgments, and Syllogisms or Inferences.
+In discussing and " deducing " the categories, we
+have, accordingly, treated of the first part of our
+'* Transcendental Logic," and at the same time fur-
+nished what might have been termed a " Transcen-
+dental Science of the Understanding," in the more
+special sense of this term. What we have now
+before us is, correspondingly, — and is termed by
+Kant, — the " Transcendental Science of Judgment.*'
+
+Common logic does not teach us, through its doc-
+trine of " Judgments," what we ought to judge true
+or false. It simply declares what logical forms our
+judgments must assume, whether they be true or
+false. "A right judgment in all things," or even
+in any particular thing, is not learned by studying
+logic, as thus understood, but, the rather, by prac-
+tice. That part of " Transcendental Logic," on the
+contrary, which treats of judgment, undertakes, and
+with good reason, to prescribe certain definite, yel
+universal, judgments respecting matters of fact —
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIEKCE. 139
+
+respecting the true and the false for us — which we
+must necessarily adopt. It treats of what we must
+judge, as a condition of our judging anything aright,
+in matters of scientific knowledge. It leaves nothing
+to " mother wit." There is no place in it for mere
+inductive probabilities. The reason of this is, that
+it has to do with conceptions and relations which
+are logically prior to all contingent experience;
+whence the judgments founded on them must be
+removed from the uncertainties of a posteriori or
+contingent demonstration, and must be as necessary
+and universal for every human intelligence as are
+the conceptions themselves.
+
+Before developing these judgments — the princi-
+ples of all *' science" — Kant deems it necessary to
+answer explicitly a preliminary question. In the
+preceding chapters a number of so-called "pure
+conceptions of the understanding" have been de-
+duced and demonstrated as necessary " forms of
+thought," with which all objects of sensible knowl-
+edge must be invested in order really to be known
+at all. If such investiture be both necessary and
+universal, it must surely needs be possible! But
+the question has not been expressly raised and an-
+swered. How is this possible? The question is cer-
+tainly and visibly one that may well seem adapted
+to excite a curious interest, owing to the circum-
+stance that sensible perceptions, in the form of which
+objects are given, and pure conceptions of the un-
+derstanding are ostensibly quite heterogeneous.
+Sense and understanding are, by our original hy-
+
+Digitized by VjOOQIC
+
+140 kant's critique of pure reason.
+
+pothesis, completely opposed to each other, like fire
+and water. How can one be successfully " applied "
+to the other? Or, to state the case more technically
+and exactly: the forms of thought are conceptions,
+under which sensible objects are to be subsumed.
+Such subsumption implies that both the conception
+and the object are homogeneous. Thus I can sub-
+sume the sensible object, called a dinner-plate, under
+the geometrical conception, named circle, and say
+that the plate is round or circular, because the con-
+ception and the perceived plate are homogeneous:
+" the roundness, which in the former is thought or
+conceived^ in the latter is Yi^ihly perceived^ But the
+case is apparently quite different when we come to
+subsume Sensible phenomena under any of the pure
+conceptions of the understanding, such as, for ex-
+ample, causality. How can I affirm of one pheno-
+menon that it is the cause of another, when, " surely,
+no one will say that causality can be perceived by
+the senses and is contained in the phenomena"?
+The question seems thus to have a serious, as well
+as a merely curious, interest attached to it, since,
+unless a satisfactory answer can be found for it, the
+principles of science, or the necessary judgments of
+the understanding respecting phenomena, will re-
+main, in one important respect, enigmas, though
+none the less, for this reason, matters of demon-
+strable fact. Indeed, Kant goes so far as to declare
+that the special object, for which a transcendental
+science of judgment is needed, is just to clear up
+this point and to " show how pure conceptions of
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 141
+
+the understanding can be applied to phenomena as
+such."
+
+Perhaps Kant rather exaggerates the importance
+of this question, nevertheless, — or, rather, its new-
+importance just at this point. The question cer-
+tainly has its importance, if sense and understanding
+are so antithetically opposed, as Kant at the outset
+assumed. But the progress of the discussion has
+tended only to overthrow this assumption. Sense,
+on that side of it which alone was really recogniz-
+able and definable, namely, on the side of its form
+(space and time), has been found to be the creative
+work of that same power of mind, or of understand-
+ing in the larger sense — functioning here under the
+name of imagination — which otherwise manifests it-
+self in the special form of intellect, or of understand-
+ing in the narrower sense. It would be an occasion
+of wonder if these different manifestations of the
+same power were not essentially homogeneous, rather
+than heterogeneous. And homogeneous we indeed
+found them to be, in this sense, that they were or-
+ganically one and inseparable. The dry light of the
+understanding (considered as a factor in sensible
+knowledge) was " empty " and invisible — i.e. a pure
+abstraction — unlil broken and filled with at least
+the. general outlines of possible objects in the form
+of " syntheses of the imagination." The categories
+— which we are constantly to think of, in this dis-
+cussion, as categories of sensible knowledge only —
+are " functions of unity," yet not for themselves, but
+only for the twin-sister of the understanding, the
+
+Digitized by VjOOQIC
+
+142 KANT'S CRITIQUE OF PURE REASON.
+
+sensible imagination and its products. They simply
+define and name tiie most abstract and universal
+types or relations of synthetic unity in the forms
+(of space and time) which imagination — itself also,
+when taken by itself, an abstraction — blindly cre-
+ates. Sense, therefore, viewed with reference to its
+intelligible form, is imagination, and as such is no
+more separable from understanding than understand-
+ing from it. Both are inseparable children of the
+same parent, — different aspects of one, organically
+complex, mind-originated process of real knowledge,
+which cannot be decomposed, so that its parts may
+be isolated and separately considered, except upon
+the same condition on which all anatomy depends,
+namely, that life be previously banished and the
+" parts " under contemplation be thus deprived of
+that vital and organic relation which constitutes
+their characteristic nature. Instead, therefore, of
+asking how one can be " applied " to the other, it
+were more pertinent — if it were not wholly ab-
+surd — to ask how one can be effectively separated
+from the other, or how, being once separated, any
+mechanical process of " applying " one to the other
+is to restore the living union, which is the condition
+of the existence of each.
+
+But, it may be said, the question is not at all con-
+cerning the applicability of the categories to the
+mind-generated forms of sense, but to the " matter "
+or " content" of sense, namely, particular sensations.
+The answer to this is, that the content of sense has
+been shown to be nothing for us, prior to its being
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 143
+
+received and moulded, or " combined," by the under-
+standing in the aforementioned forms. If you mean
+by " phenomena," in the question under discussion,
+the content of sense, independently of its form, we
+must tell you that you are dealing with an abstrac-
+tion. Phenomena, in this sense, are never given.
+They are not known or knowable, and consequently
+we have nothing to do with them, or to say about
+them, until we think them; and by the very act of
+thinking them we put the mark of our understand-
+ings upon them, or, what is the same thing, subsume
+them under the categories. How can we know or
+imagine that there is, or can be, a pure content or
+object of sense, which has not, by very virtue of its
+meriting this description, already had the pure forms
+of the understanding "applied" to it? The suppo-
+sition has long since been shown to be absurd, and
+to raise the question how the pure conceptions of the
+understanding can be applied to such content, when
+we can neither know nor imagine a content to which
+they have not been applied, and of which, as given,
+these conceptions are not already the universal life
+and soul, seems like nothing else than mere trifling.
+Kant's own illustrations, above cited, were therefore
+misleading. It was inexact and misleading on his
+part to state that the roundness of the plate is per-
+ceived by the senses, and that thus there is homo-
+geneousness between what is sensibly perceived and
+the *' pure geometrical conception of a circle," under
+which the perceived object is subsumed. For, as in
+substance we have just seen, pure sensible percep-
+
+Digitized by VjOOQIC
+
+144 KANT'S CRITIQUE OF PURE REASON.
+
+tion of a plate, or of any other object, is impossible
+and an abstraction. The plate and its roundness are
+not really perceived at all until they are conceived
+or " thought," and the roundness (in particular) is
+conceived only through and by means of the general
+conception, under which it is subsumed. The homo-
+geneousness is, consequently, here, not between a
+perception and a conception, but between a general
+conception and a particular case in which the con-
+ception was already applied, before we knew or could
+know anything about it. Nor does the other sup-
+posed case, of two phenomena, of which one is said
+to be, in the scientific sense of this term, the cause
+of the other, differ at all in essentials from the fore-
+going. There is indeed no purely sensible percep-
+tion of a " causal" relation, or of a definite and irre-
+versible order among phenomena. But neither is
+there any such perception of the phenomena them-
+selves. The purely perceived phenomena which
+Kant here sets over against the understanding and its
+functions, are, according to Kant's own logic, unreal
+abstractions. They become really perceived phenom-
+ena only when they have been conceived, and by so
+much as they cannot be conceived except as under
+the relation above described, by so much can they
+never be really perceived except in the same rela-
+tion. Kant has thus answered his own question
+beforehand, by showing its substantial irrelevancy.
+The terms which he contrasts, " pure conceptions of
+the understanding" and "phenomena," have been
+already shown by him to be — so far as they desig-
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE, 145
+
+nate anything real and actual in the content or
+process of our knowledge — not incognate, but or-
+ganically one. So far, on the contrary, as they are
+viewed in absolute and mechanical contrast, they
+are unreal fictions. This way of viewing them is
+therefore thoroughly artificial and false, and, so far
+as Kant indulges in it, the reader will have no diffi-
+culty in tracing it to its source in Kant's Ttpmrov
+(f'sudoq, or fundamental error, whereby he is led to
+view the subjective and the objective as existing,
+universally, in a relation of purely mechanical and
+unreconcilable opposition.
+
+Let us now abandon the strain of critical com-
+ment, and briefly see what answer Kant makes to
+the question raised by him, as to how the pure
+conceptions of the understanding can be applied to
+sensible phenomena. Such application, he declares,
+is impossible, unless there be a tertium quid, in
+which conception and phenomenon agree, or which
+is "homogeneous" with both. This tertium must
+therefore be, on the one hand, intellectual, to agree
+with the nature of the conception, and, on the
+other, sensible, to agree with the nature of the phe-
+nomenon. These requirements are fulfilled in the
+idea of time. This idea is formal and universal, a
+priori and synthetic, like the conceptions of the
+understanding, and is thus homogeneous with them.
+" On the other hand, it is homogeneous with pheno-
+mena, inasmuch as time is included in every empiri-
+cal idea of a sensuous aggregate " or given " object."
+Through this idea, then, and to the extent now
+10
+
+Digitized by VjOOQIC
+
+146 KANT'S CRITIQUE OF PURE REASON.
+
+described, there is homogeneousness between con-
+ception and phenomenon, or between understanding
+and sense. Further, the " transcendental qualifica-
+tions of time," i.e. its inherent relations, or the
+various ideas or modes immediately involved in it,
+correspond severally with the four different classes
+of categories. These " qualifications " are the neces-
+sary ideas of time as (1) a seties, (2) filled up with
+something, or having a content, (3) involving a
+fixed order of succession, and (4) a whole, including
+" all possible objects." In these ideas, now, the
+four classes of categories are severally " realized."
+Through them the categories first receive "signifi-
+cance " and a possible " relation to objects." They
+furnish the universal form, content, or, as Kant
+scholastically terms them, " schemata," of the cate-
+gories. It is necessary to remember that, along
+with and under time Kant here includes space.
+Space is the form for " external sense.' But exter-
+nal sense is itself a part of internal sense, whose
+form is time. Time is therefore the form for ** all
+objects of the senses whatsoever," and so, by neces-
+sary inclusion, of space itself.
+
+The first three categories are categories of Quan-
+tity. The conception of quantity is that of a whole,
+whose elements may be homogeneous. The acquisi-
+tion of the conception involves, ideally considered,
+the successive apprehension and enumeration of
+these elements and their combination in one whole.
+The pure " schema " of this operation, considered in
+its greatest abstraction, is furnished by the " trans-
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 147
+
+cendental qualification " or idea of time as a series
+of indivisible moments, or, rather, by the conception
+of number, which is founded directly upon this idea.
+
+As to the categories of Quality (reality, negation,
+limitation), these obviously acquire for sensible con-
+sciousness a significance only in reference to that
+which fills time, or to its content. This content is
+sensation, which is capable of varying degrees of in-
+tensity, and is held to denote Being or Existence in
+time.
+
+Under the head of Relation, we have, for the
+" schema of Substance," or that which the category
+of substance denotes, persistence in time; for the
+schema of Causality, regular succession, and of Re-
+ciprocity, or action and reaction, regular coexistence.
+
+Finally, under the head of Modality, the schema
+of Possibility is agreement of a combination of ideas
+with the universal conditions of time; of Existence,
+actual presence of an " object " to sensation at a defi-
+nite time; and of Necessity, existence of an object in
+all time.
+
+This is what Kant terms the " Schematism of the
+pure conceptions of the understanding." As will
+have been perceived by the reader, little or nothing
+is therein added to the accounts previously given of
+the categories and of their significance, except in
+the way of formalities of classification and detailed
+statement.
+
+Repeating, therefore, Kant's reminder, that what
+we now have before us, and all that we have before
+us, is the categories — their nature and the coudi-
+
+Digitized by VjOOQIC
+
+148 KANT'S CRITIQUE OF PURE REASON.
+
+tions of their application — in reference only to sen-
+sible consciousness or pure physical science, let us
+go on to see, in detail, what " principles of science,*'
+or what necessary and universal, and hence a priori^
+laws of phenomena, they immediately involve.
+
+It has been demonstrated that no knowledge of
+what is called a sensible or physical object is pos-
+sible, except the understanding intervene to combine
+the separate impressions which the object is sup-
+posed to produce. It has also been shown that the
+supreme combination of the understanding is the
+synthesis of all other syntheses in the all-compre-
+hending unity or synthesis of self-consciousness.
+This combination was the condition of all other
+combinations. And the highest principle of all use
+of the understanding in sensible knowledge was,
+accordingly, that all knowledge of sensible objects is
+subject to any conditions which may be necessary in
+order to make it consist with the unity of self-con-
+sciousness. This is termed the highest principle of
+" all synthetic judgments," and the principles of
+science must be subject and conformed to it.
+
+The categories expressed the fundamental forms
+of synthetic unity which the understanding, as a
+faculty of self-conscious unity, established among
+impressions, as the immediate and necessary condi-
+tion of their being anything for us, or, what is the
+same thing, entering into our knowledge. " To the
+table of the principles " of science, which are but an
+expansion of the categories into the form of synthe-
+tic judgments, or of " rules respecting the objective
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OP SCIENCE. 149
+
+employment" of the categories, " the table of cate-
+gories gives us the very natural clue. All prin-
+ciples of the pure understanding," or all of the first
+principles of scientific knowledge, "are, accordingly:
+
+1. Axioms [respecting the form'] of Perception.
+
+2. Anticipations [respecting the content] of Per-
+ception.
+
+3. Analogies [respecting the order] of Experience.
+
+4. Postulates of all empirical Thought."
+
+1. All " axioms " (a jpriori truths, or principles of
+science) " respecting the form of perception " are
+warranted and suggested by the categories of Quan-
+tity, and are summed up in the following principle:
+All sensibly perceived phenomena have magnitude
+of extension, or " are extensive quantities." This is
+evident from the fact that they are all in space and
+time. Space and time are the common form of all
+of them. None of them can exist, i.e. none of them
+can come into sensible consciousness, except as occu-
+pying a definite space or time. But no conscious-
+ness of space or time is simply given. It is " pro-
+duced" by " combination of homogeneous elements."
+That is to say, no definite space or time can be
+thought, except as containing in itself an indefinite
+number of homogeneous parts, and resulting from
+the addition of these parts to each other. All space
+and all time are thus a " synthesis of the homogene-
+ously manifold." The same synthesis is therefore
+necessary to the consciousness of anything of which
+space and time are the form, i.e. of all sensibly per-
+ceived phenomena, or all objects of physical science.
+
+Digitized by VjOOQIC
+
+150 KANT*S CRITIQUE OP PtJEE REASON.
+
+And this same synthesis, also, is but another, scien-
+tific description for extension,
+
+Kant calls attention to the fact that all pheno-
+mena are, when viewed alone in the light of the
+above principles, mere aggregates. The parts are
+independent of the wholes, which latter are, accord-
+ingly, nothing but mechanical, artificial wholes,
+whose parts are held together, not by any force in-
+herent in themselves, nor by the power of an or-
+ganic, ideal, and unifying force which permeates
+them all and puts them in vital relation to each '
+other and to the whole, but simply by what seems to
+us as the arbitrary law of our subjective intuition.
+The principle of the " axioms of perception " marks,
+therefore, one may say, a most important limitation
+of physical science, in so far as the latter is re-
+stricted to pure sensible consciousness as the only
+source, for it, of objective knowledge, and to the
+forms of space and time as the necessary and all-
+determining conditions, and hence limitations, of
+our conceptions of physical objects. It indicates,
+namely, that life, power, spirit, all of which are
+organic and synthetic and denote more than mere
+^^gg^egates — or "extensive quantities" — are be-
+yond the range of such science, and that the chase
+after either of them, guided by the pre-suppositions
+and methods peculiar to physical science as. such, is
+absolutely quixotic.
+
+The principle of the " axioms " has an important
+bearing on the relation of mathematical to physical
+science, or the application of the truths demon-
+Digitized by VjOOQIC
+
+THE PRIKCIPLES OP SCIENCE. 151
+
+strated in mathematics to the " objects of sensible
+experience"; in view of which Kant terms it the
+" transcendental principle of the mathematics of phe-
+nomena." Can pure geometry, for example, which
+relates only to lines and figures conceived in ideal
+perfection, furnish any assistance to the investigator
+of nature, where no such perfection is to be found?
+The principle under discussion provides for this
+question an affirmative answer. The objects of ge-
+ometry are products of pure syntheses of space (or
+" spaces ") in time. But, as pointed out in the ex-
+position of the principle, it is only through the cre-
+ation of such syntheses, all of which are nothing
+but purely " extensive quantities," or quantities of
+extension, that any phenomena can be apprehended.
+It is consequently on the same condition that " all
+external experience, and hence all knowledge of the
+objects of experience,'* depends, and whatever pure
+mathematics proves concerning the condition, the
+same is also necessarily true, mutatis mutandis^ of that
+which depends on it. The entrance to the scientific
+knowledge of nature is thus by the door of geometry.
+2. Of the pure conceptions of the understanding,
+those which were registered as categories of quality
+relate to the matter, content, or object of perception,
+and give us a jpriori, axiomatic warrant to *' antici-
+pate" that all perception, on its material, "real," or
+" objective " side, will be measurable, not as an " ex-
+tensive " but as an " intensive quantity," or by the
+degree of its intensity, and to state, as a necessary
+principle of science, that this is and must be so.
+
+Digitized by VjOOQIC
+
+152 rant's critique of pure reason.
+
+What we term actual perception is simply sensible
+or "empirical" consciousness. This is more than
+the merely formal or *' pure " consciousness of space
+and time. It is the latter consciousness plus partic-
+ular sensations. Sensations are " simply subjective
+ideas, through which we are only conscious of an
+affection proceeding, as we suppose, from some real
+object." Sensations, then, represent the element of
+reality in our consciousness. It is in our sensations
+that peculiar qualities are found, " e.g. colors, tastes,
+etc." These are, however, all empirical, and inca-
+pable of being determined or anticipated a priori.
+The sensational or material element in consciousness
+may apparently be termed the purely qualitative
+element, and the formal element — space and time
+— the quantitative one. About the former element
+only one thing is a priori certain, and this is its
+variability in intensity. If I have a definite sensation
+of redness, for example, I am aware that an indefi-
+nite number of different possible degrees of redness
+exist between my present sensation and the complete
+absence of all sensation of redness. I may say, there-
+fore, that my sensation possesses — not " extensive
+quantity," for in sensation, considered on its mate-
+rial side (Empjindung), there is no intuition of space
+or of time — but " intensive quantity," and " corre-
+spondingly I must attribute to all objects of percep-
+tion, so far as the latter contains sensation, intensive
+quantity, i.e. a definite degree of influence upon our
+sensibility."
+
+Now, there is no perception, and consequently no
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OP SCIENCE. 153
+
+empirical consciousness, of " objects " without par-
+ticular sensations; " for time and space are in them-
+selves no objects at all of perception." We may
+therefore with absolute certainty predict a priori^
+and " anticipate," that " in the case of all pheno-
+mena, the real object of sensation will possess inten-
+sive magnitude " or denote a " degree."
+
+The historical student in philosophy will observe
+that the one thing which Kant thus makes a priori
+certain about sensations, or the " Quality " of con-
+sciousness, and the statement of which is elevated to
+the rank of a principle of science, is the same which
+Hume, too, asserted. For Hume our " perceptions "
+differed only — in addition to their numerical dis-
+tinctness — with respect to their " vividness."
+
+Kant points out, as the most obvious use of this
+principle, its adaptation to prove that there can be
+no possible experience, and consequently no experi-
+mental proof of the existence, of absolutely unoccu-
+pied space or time.
+
+He shows further, by an examination of both ex-
+tensive and intensive quantity, that all quantity
+whatsoever is continuous; and closes with an obser-
+vation, which is significant in connection with the
+history of post-Kantian philosophy and its method :
+" It is remarkable," he says, " that, respecting all
+quantity whatever, we can know a priori only a
+single quality, namely, its continuity, and that re-
+specting all quality (the real element in phenomena)
+we can in like manner know nothing but its inten-
+sive quantity, or that all sensible phenomena are
+
+Digitized by VjOOQIC
+
+154 KANT*S CRITIQUE OP PURE REA80K.
+
+marked by a degree of intensity; all else is left to
+experience."
+
+The principles enunciated under the two fore-
+going heads relate directly to perception and its
+form. Here we start directly from perception {An-
+schauung), or its form, ending with the conceptions
+which the principles express. These principles are
+therefore specially mathematical in their nature and
+application. Upon them rest the possibility and,
+within the sphere of all possible sensible experience,
+the objective validity, of the pure mathematical sci-
+ences, and they are unconditionally necessary.
+
+Under the two following heads we proceed, on the
+contrary, " from conceptions to perception." Here
+we start with certain categories, those of Relation
+and Modality, the use and application of which de-
+pend upon certain conditions of experience being
+supplied, which are as such contingent. Let there
+be given in perception the definite, but not a priori
+necessary, elements or material of experimental
+knowledge, and we are to see what our categories
+have to do in connection with them, or what rela-
+tion they have to " empirical thought." The result-
+ing principles will be indeed a priori necessary, but
+only on condition that, through perception, " ob-
+jects " are given, to the knowledge of which they
+may be applied. Practically, therefore, or within
+the range of our present subject of inquiry — which
+is only that of sensible experience — these principles
+will be necessary without qualification. But inas-
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OP SCIEKCE. 155
+
+much as they imply the above condition, they are
+termed, not mathematical, but dynamic.
+
+3. The so-called "Analogies of Experience" are
+principles of science, the special cue for which is
+given in the categories of relation, namely. Sub-
+stance, Causality, and Action and Reaction. They
+are all but different applications of a principle
+which has already been abundantly demonstrated,
+namely, that no sensible knowledge is possible with-
+out necessaiy, because a priori and mind- origi-
+nated, synthesis of the elements of perception.
+Such synthesis has been shown indispensable, in
+order that we may have consciousness of any " sen-
+sible object."
+
+It is obvious that the expressions, "sensible ob-
+ject," " real object of sensation," and the like, which
+occur often in the discussion, must be guardedly
+received. Objects — such is the language here em-
+ployed by Kant — are given through^ but not in,
+sensible perception. Sensible perception is inter-
+preted and axiomatically defined as the consciousness
+of our being affected, or, as Hume would say, im-
+pressed, by some "object." (The view involved in
+this definition is a common-place of empirical psy-
+chology, which Kant adopts without critical discus-
+sion.) What the object is, that thus affects us, the
+perception — the only thing of which we are con-
+scious — does not reveal. The object does not appear
+in perception. We are only mysteriously, but invin-
+cibly, persuaded through perception, that the object
+
+Digitized by VjOOQIC
+
+156 KANT*S CRITIQUE OP PURE REASON.
+
+exists and has affected us. It is therefore only by a
+loose use of language that objects can be said to be
+" given through perception." Objects are not really
+tlius given, but only the persuasion that objects,
+as real but unknown and unknowable things, or
+** things in themselves," do really exist, together
+with the raw material, in the shape of uncombined
+elements of perception, out of which we, by com-
+bining them after the " analogy''' or subject to the
+law, of our own understandings and their functions,
+the categories, may frame for ourselves the only
+" objects " — namely, phenomenal objects — which we
+are capacitated to know. This work of combination
+is evidently equivalent to the introduction and estab-
+lishment — for us, and as a necessary condition of
+the only kind of knowledge possible for us, — of re-
+lations among perceptions. The categories of Rela-
+tion will therefore furnish the guide and prescribe
+the determining law for this work.
+
+The deduction of the categories and the develop-
+ment of the laws of their " schematism " have al-
+ready shown that the form in which all combination
+of perceptions must be effectuated, is Time. The
+elements of perception, considered abstractedly, have,
+as they are conceived to be given or "apprehended,"
+a certain apparent relation to time. But this rela-
+tion is purely accidental, and, for the purposes of
+knowledge, ineffectual. It is not a real synthesis.
+The elements of perception are given as distinct
+existences in mere and inconceivably rapid succes-
+sion. This result of the speculation of sensational
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 157
+
+psychology Kant, as we have repeatedly seen, adopts
+from Hume, But the order of this succession is
+purely arbitrary and fortuitous, and, as has been
+shown, is totally insufficient to produce the conscious-
+ness of a definite object. Indeed, since it is mere
+succession without duration; since, as one element
+comes, or "is given," another goes and leaves no
+trace behind it; it is obvious* that it is really not a
+thing which we consciously experience, and so di-
+rectly know. It is a matter of purely speculative,
+though necessary, hypothesis. Consciousness becomes
+objective for us only when its elements are combined
+in the specific forms or " modes '' of synthesis, which
+are involved a priori in the nature of time itself,
+and which must be realized in our sensible expe-
+rience, before time itself, and consequently con-
+sciousness, of which time is the universal form,
+and sensible knowledge, which is but a transcript
+of completed sensible consciousness, can be real
+for us.
+
+" The three modes of Time are Permanence, Suc-
+cession, and Simultaneity. Consequently there will
+be three rules of all time-relations of phenomena, by
+which the mode of existence of every phenomenon
+may be defined with reference to the universal unity
+of all time, and which precede all experience and
+alone render experience possible.'* This number
+agrees with the number of the categories of Rela-
+tion, and the three modes severally correspond to
+the categories themselves.
+
+(a) Substance, — Time is a permanent and abiding
+
+Digitized by VjOOQIC
+
+158 kant's critique of pure reason.
+
+unity. It is not two fold ; it is not a thing of which
+there exist more specimens than one. Nor is it dis-
+continuous. Its parts are not separated by intervals
+in which there is no time. It is not capable of in-
+crease or diminution. Strict, unchangeable perma-
+nence and unity are inherent attributes of time.
+Without them, as is obvious, the two fundamental
+relations of time, succession and simultaneity, would
+be impossible. The permanent unity of time is a
+synthetic notion; it expresses the absolute combina-
+tion of all time in one whole. Or rather, since time,
+taken purely by itself, is an imperceptible abstrac-
+tion, this notion is simply the frame-work or form
+of a notion, which, like time itself, must, in order to
+be realized, be taken in connection with, or applied
+to, the perceptible content of time — i.e. to the ele-
+ments of perception, which are the elements of phe-
+nomena, and which are capable of combination in
+the form of objects, or of one universal object, only
+because they are in time. It is not strictly correct
+to speak of a " synthesis of time '' as such. Time
+itself is synthesis, not of itself, but of that which is
+in time, or of the elements of perception. Apart
+from perception — i.e. separated from all content or
+matter of perception — time is therefore nothing
+and its modes are nothing.
+
+It is obvious, then, that all phenomena, as having
+the form of time and deriving thence the form of
+their combination, must appear and must be viewed
+under the synthetic aspects or relations which are
+obvious and necessary modes of time, and so first
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 159
+
+under the aspect of essential permanence and unity.
+To view them thus is to regard them as Substances,
+or as making up one absolutely permanent and
+unchangeable sum total of Substance.
+
+The notion of Substance is thus a synthetic notion,
+the whole nature of which is derived from the form-
+element of time. It is " the condition of all syn-
+thetic unity of perceptions, i.e. of phenomena." We
+speak of phenomena as co-existing and as succeeding
+each other. But coexistence and succession are
+modes of time, and are indistinguishable and indeed
+inconceivable, except in relation to the one un-
+changing and permanent time which includes them
+both in its indiscerptible synthesis. So phenomena
+can be conceived and known as coexistent or suc-
+cessive, only as contained in one sum total of all
+phenomena, which itself is permanent and unchang-
+ing. The very notion of change, which all pheno-
+mena illustrate, implies the notion of permanence.
+Indeed, says Kant, " paradoxical as it may seem, it
+is only the Permanent which can suffer change."
+Whenever there is change, there is a subject of
+change which remains, after the change, what it
+was before. Now nothing can suffer change and yet
+remain the same in the same respect. It must be
+changed in one respect and remain the same in an-
+other. This other respect, in the case of sensible
+phenomena, is their quantity, or, as it was above
+termed, their unchangeable " sum total." No ap-
+parently new phenomenon can come into existence,
+except by simple emergence out of the womb of the
+
+Digitized by VjOOQIC
+
+160 KANT'S CRITIQUE OF PURE REASON.
+
+sum total of preexisting phenomena, in which, in
+another form, it was already contained. No pheno-
+menon can disappear, except it leave behind it its
+quantitative equivalent, though in another form.
+Absolute generation and annihilation are physically
+inconceivable. The disturbance of the unity and
+permanence of substance, which they would imply,
+would be tantamount to a disturbance of the unity
+and permanence of time and space. To account for
+it, we should have to postulate two specimens (so to
+speak) of time, and to define absolute generation or
+annihilation as transference of the subject of gener-
+ation or annihilation out of one time into another
+time. But the postulate of time as two-fold in its
+nature, and not essentially one, is absurd, and hence
+the notion of absolute generation or annihilation is
+equally absurd.
+
+It is to be noticed, now, that the physical notion
+of substance, as here developed, is purely quantita-
+tive and applies only to phenomena. It is not a
+conception of the nature of things in themselves. It
+is a conception of nothing, but of quantitative per-
+manence, stability, unity. It is the simplest and
+most universal form of combination among our sen-
+sible impressions. It is the first condition of these
+impressions' becoming for us actual, experimentally
+known phenomena, or objects of consciousness. It
+is an " analogy of experience " or an analogical rule
+of experience, — which is to say, that no experience
+of sensible objects is possible, except these objects
+follow, in our consciousness, the " analogy," or
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 161
+
+adopt the notional form, of substances. In other
+words, no sensible experience is possible unless there
+be some aspect of it, or of its " objects," which is
+permanent. And this permanence is nothing but
+an absolute time- (and space-) relation, which there-
+fore, like time itself, is of " subjective " or mental
+origin, and has no absolute *' objective " significance.
+What objects are, independently of sensible con-
+sciousness and its forms, this conception of substance
+does not in the least enable us to determine.
+
+The conception of " existence," which physical
+science is thus entitled, and even compelled, to
+affirm, is not that of material substance, as an abso-
+lute entity occupying absolute space. It is only
+that of a sum total of actual or possible conscious
+phenomena, clad in the mental forms of time and
+space, of which sum total all particular phenomena
+are parts and to which all such phenomena are said
+to bear the relation of accidents. It is a conception
+only of appearance and relation, not of being and
+power. It is indeed not a philosophical conception,
+but only a mathematical one, founded upon the
+nature of the governing forms of our sensuous con-
+sciousness, and it implies only that the mathematical
+expressions (if these could be found) for the suc-
+cessive total states of phenomena ("configuration
+and motion," in modern phrase) throughout the sen-
+sible universe must have a constant value. This
+purely formal and insubstantial conception of sub-
+stance may seem like the play of Hamlet with the
+title-r61e left out. Yet there can be no dpubt that,
+11
+
+Digitized by VjOOQIC
+
+162 KANT'S CRITIQUE OF PURE REASON.
+
+from the data in hand, which are those of pure sen-
+sible consciousness, or (what -amounts to the same
+thing) of pure mathematical and physical science, it
+is correctly deduced and defined by Kant. It simply
+illustrates the truth that terms, having otherwise a
+philosophical or ontological significance, retain only
+a secondary and emasculated meaning, as viewed
+and employed in phenomenal science. Such science
+does not attain to being. The next " analogy of ex-
+perience " and principle of science will show that it
+does not attain to power.
+
+The following is Kant's theorematic version of this
+first " Analogy of Experience " :
+
+" Amid all the change of phenomena, their sub-
+stance persists, and its quantity is neither increased
+nor diminished in nature."
+
+(b) Causality » — The second mode of time, and the
+first and simplest of its two fundamental relations,
+is Succession. Time does not stand still. It is in
+incessant and continuous progress. It may be ideally
+divided into parts, called instants, which follow in
+necessary and irreversible order. Through this
+fixed and unchangeable series of instants, time
+moves noiselessly, steadily, necessarily on.
+
+Such, at least, appears to be the case, when, by
+abstraction, we objectify time and seem to contem-
+plate it by itself. But really we cannot, from the
+point of view of mere sensible consciousness, thus
+contemplate time. Time is no sensible object. It
+is no sensible element of an object. It cannot lit-
+erally be perceived. It is not one grand perception,
+
+Digitized by Google
+
+THE PRINCIPLES OF SCIENCE. 163
+
+nor is it an infinite and incessant line of successive
+perceptions, called moments, stretching from eter-
+nity to eternity. Time, for sensible consciousness,
+is nothing, simply because it cannot be sensibly per-
+ceived. Time, as a form of sensible consciousness,
+is nothing but an ideal relation, the ideal motion
+or succession, of perceptions themselves. It were
+an idle tautology to say that time is successive. As
+well might one say that succession is successive.
+Time is itself nothing but the succession of percep-
+tions, or of " phenomena." It is this " form," — not
+of itself, or of its fancied " instants," — but of sen-
+sible phenomena, or sensations. Moreover, it is a
+synthetic form of phenomena. It does not flow
+from the nature of phenomena themselves, viewed
+on their characteristic, or sensuous, side. In phe-
+nomena thus viewed, there is, strictly, as we have
+seen, no synthesis, no relation, whatever, for they
+all stand in elementary isolation from each other.
+Time notes simply the result of the activity of con-
+scious mind — or the mode of its activity — in com-
+bining the elements of perceptions, or of phenomena,
+to the end (as has been seen) that connected or real
+experience may be in any way possible or actual for
+us. Now, in time, or succession, abstractly consid-
+ered, there is obviously present this element of irre-
+versible order. The concrete fact is that this order
+is — not among the unreal and impossible parts of
+time, but — among the phenomena of which time is
+the form. And this order is the first and essential
+element in the physical relation called cause and
+
+• ' ■ Digitized by Google
+
+164 kant's critique of pure reason.
+
+effect. Physical " causation " is irreversible, and in
+this sense necessary, sequence among perceptions
+or — what amounts to the same thing — among
+phenomena.
+
+The relation of causation, as thus deduced, is, like
+all relation, of " subjective " or " mental " derivation
+or origin. Hume's difficulty about causation had
+consisted in his inability to discover among percep-
+tions or their imagined objects any real or necessary
+connection. What he missed was, any power, virtue,
+efficiency, or reason, lodged in an antecedent percep-
+tion or phenomenon, in consequence of which this
+phenomenon must necessarily be followed by a given
+phenomenon of another description, so that the
+former could be truly regarded as a .constraining
+and producing cause, and the latter as a necessitated
+and produced effect. Not being able to find this,
+he declared that causation was nothing but habitu-
+ally observed sequence. In any alleged case of cau-
+sation, there was no reason discoverable in the na-
+ture of the phenomena concerned, why the relation
+might not be reversed and the alleged cause might
+not become the effect, and vice versa. Thus, so far
+as we could see, " anything could be the cause of
+anything." Real, efficient causation was a fiction of
+the imagination, and consequently, he argued, we
+know, and can know, of no necessary sequence among
+phenomena.
+
+Now Kant, as we have seen, does not deny Hume's
+premise, though he controverts his final conclusion.
+Hume's premise, broadly viewed, is nothing but the
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 165
+
+result of sensational psychology, regarded as analy-
+sis of the purely raate'rial element of sensible con-
+sciousness. This result Kant adopts, and argues
+triumphantly that not only is there no real connec-
+tion, but also that there is no apparent connection,
+even, discoverable among the material elements of
+sensible consciousness, — i.e. among perceptions or
+phenomena, — considered as such, or on their purely
+material side. All connection or relation is syn-
+thesis, and there is no synthesis in the pure matter
+of sense, or in perceptions. A fortiori, there is
+no synthetic power in a perception to effectuate a
+necessary connection between itself and a subsequent
+perception, by forcing (as a cause) the latter to
+follow or accompany it. The question of power or
+force has nothing to do with the question of phy-
+sical " causation," and must be excluded from the
+discussion.
+
+But even if we must renounce — from the point
+of view of our present discussion — all expectation
+of finding synthetic, causative power in perceptions
+or phenomena, yet in our consciousness of them
+there is certainly connection. And this connection
+must be there, before we can " habitually " observe
+it. If, as has been demonstrated, it is not in the
+phenomena themselves, regarded as the material of
+consciousness, no observation of them, as such, can
+reveal to us a connection in a single instance, — to
+say nothing of habitual connection. The conscious-
+ness of connection does not come from conscious-
+ness of phenomena. It results from self-conscious-
+Digitized by VjOOQIC
+
+166 KANT'S CRITIQUE OF PURE REASON.
+
+ness of the mind-originated form in which we com-
+bine phenomena. This form is twofold, consisting
+of time and space; or, since external consciousness,
+of which space is the special form, is but a modifi-
+cation of internal consciousness, of which time is
+the universal form, it may be said that time in-
+cludes space, and that the universal form of all
+our combination of phenomena is time. But that
+which, like the ideal activity that we term time, is
+native to the knowing mind, is inalienable from
+mind and its operations; it is necessary and uni-
+versal for them. For this reason, and for other
+reasons detailed above, the consciousness of time
+and of its necessary modes of synthesis — among
+others, that of irreversible and necessary (not merely
+"habitual") sequence — must pervade all our con-
+sciousness of phenomena. The real and necessary
+connection is there, not flowing from the nature of
+phenomena, considered as the material element of
+sensible consciousness, but only, so far as the limi-
+tations of our present point of view will enable us
+to determine, from that nature, activity, or mech-
+anism of our minds, regarded as knowing-machines,
+which is necessary to the very constitution of con-
+sciousness, and consequently to the recognition of
+phenomena, if not as " things-in-themselves," yet
+as definite phenomenal " objects," or parts, of sen-
+sible consciousness. Sensible consciousness acquires
+at least a quasi-objectivity, only because and so far
+as it is actively dominated and moulded by a " sub-
+jective " form. This form is as necessary and uni-
+
+Digitized by VjOOQIC
+
+THE PBINCIPLES OF SCIENCE. 167
+
+versal as sensible consciousness, or sensible experi-
+ence, itself. From this source, indeed, such expe-
+rience acquires all its necessity and universality,
+or fixed order, and if irreversible sequence is a
+mode of this "form," and if this mode may be
+called causation, then necessary and universal cau-
+sation obtains throughout the whole realm of sen-
+sible experience.
+
+The irreversible sequence of phenomena means
+their sequence "according to a rule." It is only
+through such, regular^ succession that we are able to
+realize in conscious phenomena, — or apparently to
+find realized in them — the indispensable conception
+of time. And it is only through the same circum-
+stance that the world of sensible consciousness be-
+comes in any sense objective to us, and diflfers from
+" a mere dream." Our apprehension and " synthe-
+sis of phenomena " never occur instantaneously, or
+en bloc, but extend through a series of successive
+acts. In looking at a fixed object, like a house, we
+take in the object by a sweep of the eye and a cor-
+responding succession of apprehended impressions.
+We may, indiflferently, begin at the foundation and
+proceed thence to the roof, or follow the opposite
+order. There is nothing to determine the order of
+our apprehension, but in any case it is successive.
+The order of this succession we recognize as purely
+subjective, since it depends on mere accident or on
+an arbitrary determination of the mind. But now
+let it be supposed that all our apprehension of phe-
+nomena were of this nature: suppose that it merely
+
+Digitized by VjOOQIC
+
+168 KANT'S CRITIQUE OF PURE REASON.
+
+depended on our fancy whether we should appre-
+hend water as flowing up-hill or down-hill, whether
+we should regard the forest as falling before the
+tornado strikes it or afterwards, what conception
+should we have of time? Would time be the form
+of phenomena? In time, considered abstractly, each
+instant has its definite place with reference to the
+preceding and following instants. But since time
+and its so-called instants are, when considered by
+themselves, pure abstractions, since time is the form,
+not of itself, but of phenomena, and since its in-
+stants with their definite places are nothing but the
+instants and the definite places of phenomena in
+their succession, it follows that the phenomena, of
+whose order alone time is the expression, must have
+their definite and unchangeable places in the order
+of their succession, i.e. that they must follow accord-
+ing to necessary rule, if time is to be a real form of
+our sensible consciousness. Suppose it were other-
+wise: would time then be a reality for us? Would
+it even possess contingent reality? Obviously it
+would not, and it is equally obvious that we should
+receive no suggestion that our sensible conscious-
+ness was any sort of transcript, whether phenomenal
+or absolute, of an " objective world."
+
+" If, therefore," says Kant, " it is a necessary law
+of our sensibility, and consequently a formal con-
+dition of all perceptions, that the preceding time
+necessarily determines the [place of the] following
+time (I cannot get at the following time except
+through and by way of the preceding), it is also an
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 169
+
+indispensable law of our empirical apprehension of
+events in time, that the phenomena of the preceding
+time determine whatever exists in the following/'
+and this, not through any power or purpose in the
+former, but simply in accordance with an invariable
+and necessary " rule " of order, which connects them.
+Only on this condition can time be continuous and
+hence real for us; for (says Kant in substance) it is
+only in the continuity of phenomena that we can
+empirically or in actual consciousness be aware of
+the continuity of time. When the place of a pheno-
+menon in the order of time is thus determined, so
+that it is independent of our fancy or arbitrary
+determination, it first acquires for us the value and
+dignity of an object. We know where, " by a rule,"
+to " find " it " in the context of perceptions." It
+now consists with the coherent, synthetic, orderly
+unity of consciousness. Consciousness, when all phe-
+nomena or all perceptions are thus fixed, can no
+longer possibly be a mere subjective jumble of cha-
+otic impressions — such as, taken by themselves,
+would after all be insufficient to constitute con-
+sciousness. Consciousness is now real, because fixed
+and determinate, and hence it is objective — for this
+is all that, from our present point of view, the term
+" objective " can signify for us.
+
+The law of Causality, then, considered as a prin-
+ciple of Physical Science or of Sensible Conscious-
+ness, is purely a law of " order in time," and not
+of power or efficiency, purpose or reason. The
+terms *' cause " and ** eflfect," as employed in the
+
+Digitized by VjOOQIC
+
+170 KANT'S CRITIQUE OF PURE REASON.
+
+statement of the law, must therefore be carefully
+understood accordingly. They have not here a phi-
+losophical or ontological significance. Philosophi-
+cally considered, the notion of "causality leads to
+the notion of action, and the latter to the notion of
+force, and so to the [true, trans-phenomenal, meta-
+physical] notion of substance,** or of real, active,
+efficient being. This is elsewhere designated by
+Kant as the true notion of causality, of which, how-
+ever, since it is not directly illustrated in sensible
+consciousness, Kant admits us to possess only " prac-
+tical," not ** theoretical " or exact, knowledge. No,
+the term causality, like the term substance, has
+here, where we are inquiring simply into the na-
+ture, conditions and limits of sensible conscious-
+ness, and consequently of pure physical science^ only
+a secondary significance, and not its primary or com-
+plete experimental and philosophical significance.
+It denotes simply the fact of regular phenomenal
+sequence. Taken in connection with the other
+"Analogies," it is identical with the conception of
+scientific law. The law of physical " causation "
+does not state what particular laws or cases of
+" causal " sequence we shall find upon investigating
+the phenomena which are presented to us. These
+must be learned by special examination and induc-
+tion. But it dictates beforehand that we shall and
+must find such laws, and this on the ground of an
+examination of the nature and conditions of sensible
+experience. It declares, on this ground, as a neces-
+sary and a prion truth, that we can have no sen-
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 171
+
+sible experience unless our perceptions are governed
+by such laws. The special laws we learn. The
+principle, being a synthetic one. and " the condition
+of experience itself," is one which we, by the very
+act of our knowledge or form of our consciousness,
+introduce into the given field, or contingent sensu-
+ous material, of our experience, and which must
+** therefore precede a priori,^'' or determine the final
+form of, all such experience.
+
+The " Second Analogy of Experience," therefore,
+as a principle of Pure Physical Science is — subject to
+and in accordance with the foregoing explanations
+— the following "* Principle of Successive Order in
+Time " ; " All changes take place in accordance with
+the law of the connection of cause and effect."
+
+(c) Reciprocity, or the Law of Coexistence in
+Time. — The third mode of time. Simultaneity, points
+at once, and clearly, to the necessary and inseparable
+involution, in each other, of time and space, or of
+time and sensible phenomena and perceptions. On
+contemplating it, we perceive at once that time, at
+all events in this mode of it, is purely formal, and
+that it is the form, not of itself, but of phenomena,
+whose other and secondary form is space, and apart
+from which time is a purely unreal, and, absolutely
+considered, an impossible abstraction. We needed,
+as has above appeared, to argue somewhat with our-
+selves, in order to make it clear to ourselves that it
+is not time which is successive, but that succession
+belongs only to phenomena and is only one mode or
+aspect of that universal form of phenomena which we
+
+Digitized by VjOOQIC
+
+172 KANT'S CBITTQUE OF PURE REASON.
+
+name time. But no such argument is necessary in
+order to make it apparent that time is not simul-
+taneous, but that simultaneity belongs only to phe-
+nomena, of which time is the form. Simultaneity
+cannot be predicated of one thing only, or of that
+which, like time, we can by no effort of abstraction
+or imagination conceive as more than one. There
+are no simultaneous times, for there is and can be
+only one time. There are only simultaneous events
+or existences in, or in respect of their form of, time.
+We say that things exist simultaneously, when the
+order of the succession of our perceptions of them
+is indifferent. Thus we may look first at the earth
+and then at the moon, or first at the moon and af-
+terwards at the earth, end because both orders are
+equally possible, we say that moon and earth exist at
+the same time. But on what ground? Not because
+we perceive them at the same time. Sensible per-
+ception, if it told us anything, would simply reaffirm
+itself, and say of each of these perceptions, that " it
+is in the subject [in consciousness] when the other
+is not, and vice versa, but not that [these percep-
+tions are objective, and that] their objects exist at
+the same time, i.e. that when the one is, the other is
+also in the same time, and that this must necessarily
+be so, in order that the perceptions may be able to
+follow each other in any order." In sensible percep-
+tion there is no synthesis.^ Coexistence is synthesis,
+and it is synthesis which alone gives to perceptions
+an objective character and' significance. We do not
+literally perceive the coexistence of objects, or phe-
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 173
+
+nomena; we conceive it. What is the condition and
+what the substance of our conception? The condi-
+tion and the substance are the same. The substance
+of our conception is, as we have just seen, a reversible
+order in the succession of our perceptions. The or-
+der is reversible, and yet it is none the less an order:
+it is definite, fixed, and has the form of a rule or
+law. In considering the category of physical cau-
+sality, we fixed our attention only upon cases of irre-
+versible order of succession among perceptions, and
+treated these as alone exemplifying and constituting
+the substance of the causal relation. But our pro-
+cedure in this respect was arbitrary, as will at once
+appear, if we recur to the result of our inquiry.
+We found physical causation to consist in a fixed
+and determinate order of succession among percep-
+tions. The fixed and determinate order, or " rule,"
+of succession was the essential thing and constituted
+the real substance of the conception. That the order
+was also irreversible — this was only an accidental
+peculiarity of the particular class of cases which
+alone we then had occasion to consider. For we
+now see that an order, or rule, of succession may be
+fixed and determinate and yet reversible. Its re-
+versibility, or, so to express it, its bi-polarity, does
+not interfere with its fixity and determinateness.
+Would we contemplate earth and moon as coexist-
+ing, either earth or moon may come first in the
+order of our perception. But whichever comes first,
+the other must follow. The order of succession in
+either case is fixed, determinate and "inviolable."
+
+Digitized by VjOOQIC
+
+174 KANT'S CRITIQUE OF PURE REASON.
+
+The first term in the order of succession ideally de-
+termines the second, and that according to a " rule."
+We may say then, indifferently, that we here have
+before us a case of scientific law or of physical cau-
+sation, i.e. of fixed order or rule in the succession
+of our perceptions.
+
+We are now prepared to understand Kant's mean-
+ing, when he declares that the condition of our con-
+ceiving phenomena as simultaneous or coexistent is,
+that they shall stand to each other in the relation
+of reciprocal causality; and since all the phenome-
+na, which are conceived to coexist in any instant,
+constitute the physical universe, the category of
+reciprocal causality must be universal. The sense
+of this is simply that we cannot conceive, and hence
+cannot perceive, a universe as made up of coexistent
+parts, unless we conceive, and in the order of our
+temporal experience perceive, these parts as standing
+in definite relations to each other. All must be
+conceived as cohering in a plan, or order, or con-
+sistent whole, all the parts of which, as in a perfect
+piece of mechanism or in an organic structure, im-
+ply and logically "determine" each other. Every
+part, viewed in its ideal relations, will thus be, in
+Leibnitz's phrase, " a mirror of the universe."
+
+Thus the category of Reciprocity unites and com-
+pletes the categories of Substance and Causality in
+the conception of a Universe of Phenomena, or of
+" Nature " as One, as One Whole, and the scene of
+one vast system of mutually consistent laws or
+" causal " relations, by virtue of which alone Nature
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIENCE. 175
+
+consists or subsists for us. And as there is no par-
+ticular sensible experience which does not involve
+coexistence, there is no such experience which is not
+logically dependent on the conception in question.
+The Analogies of Experience, taken all together,
+teach, says Kant, that " all phenomena are included
+in one Nature, and must be thus included, since
+without this a priori unity no unity of experience,
+and, consequently, no determinate recognition of
+objects in experience, would be possible."
+
+Kant speaks of the reciprocal relation of phenome-
+na as a " dynamic " one, or as a relation of " action
+and reaction" {Wechseltvirkung), The notion of
+agency, force or influence is not contained among
+the data of Kant's deductions, and can, of course,
+not legitimately reappear in their results. Kant's
+employment of such language as the above must be
+regarded in the light of an accommodation to prac-
+tical belief, and illustrates the well- recognized ne-
+cessity, which physical science is under, of associat-
+ing with its categories conceptions of which it —
+namely, pure physical science, considered as an
+analytic transcript of purely sensible consciousness
+— can render no account. The Analogies, together
+with the categories, of the meaning of which the
+former are but an amplified and explicatory ver-
+sion, have relation to and "express," not absolute
+reality, nor force ; they " express," in Kant's lan-
+guage, " nothing else than the relation of time (con-
+sidered as that in which all [sensible] existence' is
+comprehended) to the unity of self-consciousness,
+
+Digitized by Google
+
+176 KAKT'S CRITIQUE OP PURE REASON.
+
+which unity [in its relation to pure sensible con-
+sciousness] can only subsist and be maintained
+through the synthesis [of impressions] according to
+rules [= " laws" of succession in time, or of "cau-
+sation "]."
+
+Kant's statement of the Third Analogy, which he
+terms the " Principle of Simultaneity, according to
+the Law of Reciprocal Action and Reaction," is as
+follows: — "All Substances, so far as they are capa-
+ble of being perceived simultaneously in space, act
+and react universally upon each other."
+
+4. The ''Postulates of all Empirical Thought''
+are principles of science, which relate not to objects,
+materially considered, but to the " modality " of our
+knowledge of them. Whether we look upon a phy-
+sical object as only possible, or as real, or necessary,
+the immediate scientific definition or description of
+the object remains unchanged, and the only differ-
+ence is in our mode of regarding it. The "postu-
+lates " are founded upon the three categories of Mo-
+dality, and require little or no explanation. They
+are as follows: —
+
+a. Anything which is consistent with the formal
+conditions of experience, i.e. with the necessary
+forms of perception and conception as heretofore
+demonstrated, is possible.
+
+b. Whatever " coheres with the material condi-
+tions of experience" — i.e. is given in sensation — is
+real.
+
+c. Anything, the reality of which follows, accord-
+ing to the universal conditions of experience, from
+
+Digitized by VjOOQIC
+
+THE PRINCIPLES OF SCIEKCE. 177
+
+the reality of something else already perceived to
+exist, is necessary — or will necessarily be found to
+exist.
+
+With regard to the last postulate, Kant explains
+that by the necessary he means simply and only
+whatever may be regarded as an effect. When we
+know " the empirical laws of causality," or of fixed
+sequence, among phenomena, we can affirm, from the
+observed presence of given phenomena, called causes,
+that certain others, called effects, will " necessarily "
+follow. This necessity is not a creative necessity.
+The effects in question are not new *' things " or
+" substances," but only new states or conditions of
+things which previously existed; cause and effect are
+but different successive aspects of the same phe-
+nomenon or thing. Nor, as we have seen, is the ne-
+cessity one of demonstrable and recognizable con-
+straint. No power is discovered forcibly determining
+and maintaining the observed and irreversible order
+of cause and effect. The necessity is one of intelli-
+gence. It is a " law of possible experience " — i.e. a
+mind-originated law, on which the possibility of sen-
+sible experience or physical knowledge depends —
+that the place, in the order of phenomena (which is
+the order of our perceptions), of every event shall
+be a priori determinable through its regular and
+invariable relation to a given antecedent, termed its
+cause. This law of synthesis is the central and
+essential condition of all intelligence of " Nature."
+Nay, it is the application, by intelligence, of this its
+law to the confused materials of perception, which
+12
+
+Digitized by VjOOQIC
+
+178 KANT'S CRITIQUE OF PURE REASON.
+
+alone constitutes for us that universal object of in-
+telligence which we term Nature. The necessity in
+question is therefore simply the indispensable hy-
+pothesis of intelligence. Says Kant: " Every event is
+hypothetically necessary. This is a principle, which
+brings all change in the world under a law, i.e. a
+rule of necessary existence, without which there
+would not even be such a thing as nature. Hence
+the proposition. Nothing occurs by blind chance (m
+mundo non datur casus), is an a priori law of nature.
+And so also is the following: No necessity in nature
+is blind necessity, but, the rather, conditioned, and
+hence intelligible {non datur fatum). Both are laws,
+by which the play of changes is made congruous
+with a Nature of Things (considered as phenomena),
+or, what amounts to the same thing, with the unity
+of understanding, subject to whose laws alone these
+changes can become joined in synthetic unity and so
+be made possible objects of human experience."
+
+In connection with the second Postulate, Kant,
+upon whom the first edition of the Critique had
+brought the accusation of " idealism " (meaning
+thereby denial of the reality of the external uni-
+ve
+
+<!-- Book text truncated by scrapem max_book_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。
