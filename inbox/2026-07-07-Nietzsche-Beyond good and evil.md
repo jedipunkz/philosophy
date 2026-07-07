@@ -1,0 +1,5815 @@
+---
+source: "https://archive.org/details/beyondgoodandevi00nietuoft"
+title: "Beyond good and evil"
+author: "Nietzsche, Friedrich Wilhelm, 1844-1900, Zimmern, Helen, 1846-1934, tr"
+year: "1917"
+captured_at: "2026-07-07T04:20:38Z"
+updated_at: "2026-07-07T04:20:38Z"
+capture_tool: "scrapem-book"
+source_name: "archive"
+keyword: "ニーチェ"
+query: "Nietzsche Beyond Good and Evil"
+plain_text_url: "https://archive.org/download/beyondgoodandevi00nietuoft/beyondgoodandevi00nietuoft_djvu.txt"
+public_domain: true
+book_text_truncated: true
+subjects:
+tags:
+  - "近代哲学"
+  - "実存主義"
+  - "ニヒリズム"
+status: raw
+---
+
+# Beyond good and evil
+
+- 著者: Nietzsche, Friedrich Wilhelm, 1844-1900, Zimmern, Helen, 1846-1934, tr
+- 初版: 1917
+- 情報源: [archive](https://archive.org/details/beyondgoodandevi00nietuoft)
+- パブリックドメイン: ✓
+
+## Obsidian Links
+
+- キーワード: [[ニーチェ]]
+- 研究動向: [[ニーチェ-現代研究動向]]
+
+## Full Text
+
+iiTA-'UV^^
+
+kOO  E't
+
+<'^3ft;>^^
+
+:7^
+
+'  ■  -A'v^v  .v'^j:*
+
+The  -publishers  will  be  -pleased  to  send,  upon  re-
+quest, an  illustrated  catalogue  setting  forth  the
+purpose  and  ideals  of  The  Modern  Library,  and
+describing  in  detail  each  volume  in  the  series,
+C^Every  reader  of  books  will  find  titles  he  has
+been  looking  for,  attractively  printed,  and
+at  an  unusually  low  price
+
+BEYOND
+GOOD  AND   RVIf.
+
+BY
+
+FRIEDRICH    NIETZSCHE
+
+Translated  by  HELEN  ZIMMERN
+
+Introduction  by  WILLARD   HUNTINGTON  WRIGHT
+
+THE   MODERN    LIBRARY
+
+PUBLISHERS     :NEWY0RK
+
+PUBLISHERS'  NOTE
+
+Mr.  Willard  Huntington  Wright,  who  contributes  the  In-
+troduction to  this  book,  is  recognized  as  one  of  tbe  fore-
+most students  and  interpreters  of  Nietzsche  in  America.
+His  book,  "What  Nietzsche  Taught,"  is  regarded  by  critics,
+both  here  and  abroad,  as  an  authoritative  introduction  to
+Nietzsche's  philosophy.  Mr.  Wright  is  also  the  author  of
+"The  Creative  Will"  and  many  other  works  on  philosophy
+and  aesthetics.
+
+This  book  is  reprinted  by  arrangement  with  the  Mac-
+millan  Company.
+
+Manufactured  in  the  Uftited  States  of  America
+for  The  Modem  Library y  Inc.,  by  H.  Wolff
+
+CONTENTS
+
+CHAPTER  PAGE
+
+Introduction vii
+
+Preface xv
+
+I    Prejudices  of  Philosophers i
+
+II    The  Free  Spirit 28
+
+III  The  Religious  Mood 52
+
+IV  Apophthegms  and  Interludes      ....  72
+V    The  Natural  History  of  Morals    ...  94
+
+VI    We  Scholars 119
+
+VII    Our  Virtues 141
+
+VIII    Peoples  and  Countries 1 70
+
+IX    What  Is  Noble? 197
+
+Digitized  by  tine  Internet  Arcliive
+
+in  2006  witli  funding  from
+
+IVIicrosoft  Corporation
+
+littp://www.arcliive.org/details/beyondgoodandeviOOnietuoft
+
+INTRODUCTION
+
+No  philosopher  since  Kant  has  left  so  undeniable  an  im-
+print on  modem  thought  as  has  Friedrich  Nietzsche.  Even
+Schopenhauer,  whose  influence  colored  the  greater  part  of
+Europe,  made  no  such  widespread  impression.  Not  only  in
+ethics  and  literature  do  we  find  the  moulding  hand  of
+Nietzsche  at  work,  invigorating  and  solidifying;  but  in
+pedagogics  £ind  in  art,  in  politics  and  religion,  the  influenci
+of  his  doctrines  is  to  be  encountered.
+
+The  facts  relating  to  Nietzsche's  life  are  few  and  simple.
+-He  was  bom  at  Rodien,  a  little  village  in  the  Prussian  prov-
+ince of  Saxony,  on  October  15,  1844;  and  it  is  an  interesting
+paradox  that  this  most  terrible  and  devastating  critic  of
+Christianity  and  its  ideals,  was  the  culmination  of  two  long
+collateral  lines  of  theologians.  There  were  two  other  chil-
+dren in  the  Nietzsche  household — a  girl  bom  in  1846,  and  a
+son  bom  in  1850.  The  girl  was  named  Therese  Elizabeth
+Alexandra,  and  afterward  5he  became  the  philosopher's
+closest  companion  and  guardian  and  his  most  voluminous
+biographer.  The  boy,  Joseph,  did  not  survive  his  first  year.
+When  Nietzsche's  father  died  the  family  moved  to  Naum-
+burg;  and  Friedrich,  then  only  six  years  old,  was  sent  to  a
+local  Municipal  Boys'  School.  Later  he  was  withdrawn  and
+entered  in  a  private  institution  which  prepared  the  younger
+students  for  the  Cathedral  Grammar  School.  After  a  few
+years  here  Nietzsche  successfully  passed  his  examinations
+for  the  well-known  Landes-Schule  at  Pforta,  where  he  re-
+mained until  1864,  enrolling  the  following  term  at  the  Uni-
+versity of  Bonn.
+
+It  was  at  Boim  that  a  decided  change  came  over  his
+religious  views;  and  it  was  here  also  that  his  great  friendship
+for  Friedrich  Wilhelm  Ritschl,  the  philologist,  developed.
+When  Ritschl  was  transferred  to  the  University  of  Leipzig,
+Nietzsche  followed  him.  Leipzig  was  the  tuming-point  of
+his  life.  Here  he  met  Wagner;  became  acquainted  with
+"Erwin  Rohde;  and  discovered  Schopenhauer.     An  interest
+
+vii
+
+viii  INTRODUCTION
+
+in  politics  also  developed  in  him;  and  the  war  between
+Prussia  and  Austria  fanned  his  youthful  ardor  to  an  almost
+extravagant  degree.  Twice  he  offered  his  services  to  the
+military,  but  both  times  was  rejected  on  account  of  his
+shortsightedness.  In  the  autumn  of  1867,  however,  a  new
+army  regulation  resulted  in  his  being  called  to  the  colors,
+and  he  joined  the  artillery  at  Naumburg.  But  he  was  thrown
+from  his  horse  in  training  and  received  a  severe  injury  to
+his  chest,  which  necessitated  his  permanent  withdrawal  from
+service.
+
+In  October,  1868,  Nietzsche  returned  to  his  work  at  Leip-
+zig, and  shortly  after,  although  but  twenty-four,  he  was
+offered  the  post  of  Classical  Philology  at  Bale.  Two  years
+later  came  the  Franco-Prussian  War,  and  he  secured  service
+as  an  ambulance  attendant  in  the  Hospital  Corps.  But  his
+health  was  poor,  and  the  work  proved  too  much  for  him.  He
+contracted  diphtheria  and  severe  dysentery,  and  it  was  neces-
+sary for  him  to  discontinue  his  duties  entirely.  His  sister
+tells  us  that  this  illness  greatly  undermined  his  health,  and
+was  the  first  cause  of  his  subsequent  condition.  He  did  not
+wait  until  he  was  well  before  resuming  his  duties  at  the
+University;  and  this  new  strain  imposed  on  his  already
+depleted  condition  had  much  to  do  witii  bringing  on  his  final
+breakdown.
+
+In  1872,  Nietzsche's  first  important  work  appeared —
+^'The  Birth  of  Tragedy  from  the  Spirit  of  Music";  and  in
+1873  he  began  a  series  of  famous  pamphlets  which  later  were
+put  into  book  form  under  the  title  of  "Thoughts  Out  of
+Season."  His  health  was  steadily  declining,  and  during  the
+holidays  he  alternated  between  Switzerland  and  Italy  in  an
+endeavor  to  recuperate.  In  the  former  place  he  was  with
+Wagner,  but  in  1876  his  friendship  for  the  composer  began
+to  cool.  He  had  gone  to  Bayreuth,  and  there,  after  hearing
+"Der  Ring  des  Nibelungen,"  he  became  bitter  and  disgusted
+at  what  he  believed  to  be  Wagner's  compromise  with  Chris-
+tianity. But  so  strong  was  his  affection  for  Wagner  the
+man,  that  it  was  not  until  ten  years  had  passed  that  he  could
+bring  himself  to  write  the  now  famous  attack  which  he  had
+long  had  in  mind.
+
+The   year   after    the   appearance   of   "Human   Ail-Too-
+
+I
+
+i
+
+INTRODUCTION  ix
+
+Human"  ("Mensckliches  AUzu  Mensckliches") ,  Nietzsche's
+illness  compelled  him  to  resign  his  professorship  at  Bale;
+and  two  more  years  saw  the  appearance  of  'The  Dawn  of
+Day"  ("M  or  gemot  en"),  his  first  book  of  constructive  think-
+ing. The  remainder  of  his  life  was  spent  in  a  fruitless
+endeavor  to  regain  his  health.  For  eight  years,  during  all
+of  which  time  he  was  busily  engaged  in  writing,  he  sought  a
+climate  that  would  revive  him — visiting  in  turn  Sils-Maria  in
+Switzerland,  Genoa,  Monaco,  Messina,  Grunewald,  Tauten-
+burg,  Rome,  Naumburg,  Nice,  Venice,  Mentone,  and  the
+Riviera.  But  to  no  avail.  He  was  constantly  ill  and  for
+the  most  part  alone,  and  this  perturbed  and  restless  period
+of  his  life  resolved  itself  into  a  continuous  struggle  against
+melancholy  and  physical  suffering.  During  these  eight
+years  Nietzsche  had  written  "Thus  Spake  Zarathustra"
+("Also  Sprack  Zarathustra"),  "The  Joyful  Wisdom"  ("La
+Gaya  Scienza"),  "Beyond  Good  and  Evil"  ("Jenseits  Gute
+und  Bose"),  "The  Genealogy  of  Morals"  ("Zur  Genealogie
+der  Moral"),  "The  Case  of  Wagner,"  "The  Twilight  of  the
+Idols"  {"Gdtzenddmmerung"),  "The  Antichrist"  ("Der
+Antichrist"),  "Ecce  Homo,"  "Nietzsche  contra  Wagner,'*
+and  an  enormous  number  of  notes  which  were  to  constitute
+his  final  and  culminating  work,  "The  Will  to  Power"  ("Die
+Wille  zur  Macht").  The  events  during  this  ptnod.  of
+Nietzsche's  career  were  few.  Perhaps  the  most  important
+was  his  meeting  with  Lou  Salome.  But  even  this  episode  had
+small  bearing  on  his  life,  and  has  been  greatly  emphasized
+by  biographers  because  of  its  isolation  in  an  existence  out-
+wardly drab  and  uneventful.
+
+In  January,  1889,  an  apopleptic  fit  marked  the  beginning
+of  the  end.  Nietzsche's  manner  suddenly  became  alarming.
+He  exhibited  numerous  eccentricities,  so  grave  as  to  mean
+but  one  thing:  his  mind  was  seriously  affected.  There  has
+long  been  a  theory  that  his  insanity  was  of  gradual  growth,
+that,  in  fact,  he  was  unbalanced  from  birth.  But  there  is
+no  evidence  to  substantiate  this  theory.  The  statement  that
+his  books  were  those  of  a  madman  is  entirely  without  foun-
+dation. His  works  were  thought  out  in  the  most  clarified
+manner;  in  his  intercourse  with  his  friends  he  was  restrained
+and  normal;  and  his  voluminous  correspondence  showed  no
+
+X  INTRODUCTION
+
+change  toward  the  end  either  in  sentiment  or  tone.  His
+insanity  was  sudden;  it  came  without  warning;  and  it  is
+puerile  to  point  to  his  state  of  mind  during  the  last  years
+of  his  life  as  a  criticism  of  his  philosophy.  His  books  must
+stand  or  fall  on  internal  evidence.  Judged  from  that  stand-
+point they  are  scrupulously  sane.
+
+The  cause  of  Nietzsche's  breakdown  was  due  to  a  number
+of  influences — his  excessive  use  of  chloral  which  he  took  for
+insomnia,  the  tremendous  strain  to  which  he  put  his  intellect,
+his  constant  disappointments  and  privations,  his  mental
+solitude,  his  prolonged  physical  suffering.  We  know  little  of
+his  last  days  before  he  went  insane.  Overbeck,  in  answer
+to  a  mad  note,  found  him  in  Turin,  broken.  Nietzsche  was
+put  in  a  private  sanitarium  at  Jena.  Recovering  somewhat
+he  returned  to  Naumburg.  Later  his  sister,  Frau  Forster-
+Nietzsche,  removed  him  to  a  villa  at  Weimar;  and  three
+years  after,  on  the  twenty-fifth  of  August,  1900,  he  died.
+He  was  buried  at  Rocken,  his  native  village.
+
+A  double  purpose  animated  Nietzsche  in  his  writing  of
+"Beyond  Good  and  Evil"  which  was  begun  in  the  summer
+of  1885  and  finished  the  following  winter.  It  is  at  once  an
+explanation  and  an  elucidation  of  "Thus  Spake  Zarathustra,"
+and  a  preparatory  book  for  his  greatest  and  most  important
+work,  "The  Will  to  Power."  In  it  Nietzsche  attempts  to
+define  the  relative  terms  of  "good"  and  "evil,"  and  to  draw
+a  line  of  distinction  between  immorality  and  unmorality.
+He  saw  the  inconsistencies  involved  in  the  attempt  to  har-
+monize an  ancient  moral  code  with  the  needs  of  modem
+life,  and  recognized  the  compromises  which  were  constantly
+being  made  between  moral  theory  and  social  practice.  His
+object  was  to  establish  a  relationship  between  morality  and
+necessity  and  to  formulate  a  workable  basis  for  human  con-
+duct. Consequently  "Beyond  Good  and  Evil"  is  one  of  hisM
+most  important  contributions  to  a  new  system  of  ethics,  and  f
+touches  on  many  of  the  deepest  principles  of  his  philosophy.
+
+Nietzsche  opens  "Beyond  Good  and  Evil"  with  a  long
+chapter  headed  "Prejudices  of  Philosophers,"  in  which  he
+outlines  the  course  to  be  taken  by  his  dialectic.  The  expo- ,,
+sition  is  accomplished  by  two  methods;  first,  by  an  analysis
+
+I
+
+INTRODUCTION  xi
+
+and  a  refutation  of  the  systems  of  thinking  made  use  of  by
+antecedent  doctrinaires,  and  secondly,  by  defining  the
+hypotheses  on  which  his  own  philosophy  is  built.  This
+chapter  is  a  most  important  one,  setting  forth,  as  it  does,  the
+rationale  of  his  doctrine  of  the  will  to  power.  It  establishes
+Nietzsche's  philosophic  position  and  presents  a  closely  knit
+explanation  of  the  course  pursued  in  the  following  chapters.
+The  relativity  of  all  truth — the  hypothesis  so  often  assumed
+in  his  previous  work — Nietzsche  here  defends  by  analogy
+and  argument.  Using  other  leading  forms  of  philosophy
+as  a  ground  for  exploration,  he  questions  the  absolutism  of
+truth  and  shows  wherein  lies  the  difficulty  of  a  final  defini-
+tion. Nietzsche,  in  his  analyses  and  criticisms,  is  not  solely
+destructive:  he  is  subterraneously  constructing  his  own
+philosophical  system  founded  on  the  "will  to  power."  This
+phrase  is  used  many  times  in  the  careful  research  of  the  first
+chapter.    As  the  book  proceeds,  this  doctrine  develops.
+
+Nietzsche's  best  definition  of  what  he  calls  the  "free
+spirit,"  namely:  the  thinking  man,  the  intellectual  aristocrat,
+the  philosopher  and  ruler,  is  contained  in  the  twenty-six
+pages  of  the  second  chapter  of  "Beyond  Good  and  Evil."
+In  a  series  of  paragraphs — longer  than  is  Nietzsche's  wont
+— the  leading  characteristics  of  this  superior  man  are  de-
+scribed. The  "free  spirit,"  however,  must  not  be  confused
+with  the  superman.  The  former  is  the  "bridge"  which  the
+present-day  man  must  cross  in  the  process  of  surpassing  him-
+self. In  the  delineation  and  analysis  of  him,  as  presented  to
+us  here,  we  can  glimpse  his  most  salient  mental  features.
+Heretofore,  as  in  "Thus  Spake  Zarathustra,"  he  has  been
+but  partially  and  provisionally  defined.  Now  his  instincts
+and  desires,  his  habits  and  activities  are  outlined.  Further-
+more, we  are  given  an  explanation  of  his  relation  to  the
+inferior  man  and  to  the  organisms  of  his  environment.  The
+chapter  is  a  most  important  one,  for  at  many  points  it  is  a
+subtle  elucidation  of  many  of  Nietzsche's  dominant  philo-
+sophic principles.  By  inference,  the  differences  of  class
+distinction  are  strictly  drawn.  The  slave-morality  {sklav-
+tnaral)  and  the  master-morality  (herrenmoral) ,  though  as
+yet  undefined,  are  balanced  against  each  other:  and  the
+deportmental  standards  of  the  masters  and  slaves  are  defined
+
+xli  INTRODUCTION
+
+by  way  of  distinguishing  between  these  two  opposing  human
+factions.
+
+A  keen  and  far-reaching  analysis  of  the  various  asjDects
+assumed  by  religious  faith  constitutes  a  third  section  of
+"Beyond  Good  and  Evil."  Though  touching  upon  various
+influences  of  Christianity,  this  section  is  more  general  in  its
+religious  scope  than  even  "The  Antichrist,"  many  indications
+of  which  are  to  be  found  here.  This  chapter  has  to  do  with
+the  numerous  inner  experiences  of  man,  which  are  directly  or
+indirectly  attributable  to  religious  doctrines.  The  origin  of
+the  instinct  for  faith  itself  is  sought,  and  the  results  of  this
+faith  are  balanced  against  the  needs  of  the  individuals  and
+of  the  race.  The  relation  between  religious  ecstasy  and
+sensuality;  the  attempt  on  the  part  of  religious  practitioners
+to  arrive  at  a  negation  of  the  will;  the  transition  from
+religious  gratitude  to  fear;  the  psychology  at  the  bottom  of
+saint- worship; — to  problems  such  as  these  Nietzsche  de-
+votes his  energies  in  his  inquiry  of  the  religious  mood.
+There  is  an  illuminating  exposition  of  the  important  stages
+in  religious  cruelty  and  of  the  motives  underlying  the  various
+forms  of  religious  sacrifices.
+
+A  very  important  phase  of  Nietzsche's  teaching  is  con-
+tained in  this  criticism  of  the  religious  life.  The  detractors
+of  the  Nietzschean  doctrine  base  their  judgments  on  the
+assumption  that  the  universal  acceptation  of  his  theories
+would  result  in  social  chaos.  Nietzsche  desired  no  such
+general  adoption  of  his  beliefs.  In  his  bitterest  diatribes
+against  Christianity  his  object  was  not  to  shake  the  faith  of
+the  great  majority  of  mankind  in  their  idols.  He  sought
+merely  to  free  the  strong  men  from  the  restrictions  of  a
+religion  which  fitted  the  needs  of  only  the  weaker  members
+of  society.  He  neither  hoped  nor  desired  to  wean  the  mass
+of  humanity  from  Christianity  or  any  similar  dogmatic  com-
+fort. On  the  contrary,  he  denounced  those  superficial  athe-
+ists who  endeavored  to  weaken  the  foundations  of  religion.
+He  saw  the  positive  necessity  of  such  religions  as  a  basis  for
+his  slave-morality,  and  in  the  present  chapter  he  exhorts  the
+rulers  to  preserve  the  religious  faith  of  the  serving  classes,
+and  to  use  it  as  a  means  of  government — as  an  instrument
+in  the  work  of  disciplining  and  educating.    His  entire  system
+
+INTRODUCTION  xiii
+
+of  ethics  is  built  on  the  complete  disseverance  of  the  domi
+nating  class  and  the  serving  class;  and  his  doctrine  oi
+"beyond  good  and  evil"  should  be  considered  only  as  it
+pertains  to  the  superior  man.  To  apply  it  to  all  classes
+would  be  to  reduce  Nietzsche's  whole  system  of  ethics  to
+impracticability,  and  therefore  to  an  absurdity.
+
+Passing  from  a  consideration  of  the  religious  mood
+Nietzsche  enters  a  broader  sphere  of  ethical  research,  and
+endeavors  to  trace  the  history  and  development  of  morals.
+He  accuses  the  philosophers  of  having  avoided  the  real
+problem  of  morality,  namely:  the  testing  of  the  faith  and
+motives  which  lie  beneath  moral  beliefs.  This  is  the  task
+he  sets  for  himself,  and  in  his  chapter,  "The  Natural  History
+of  Morals,"  he  makes  an  examination  of  moral  origins — an
+examination  which  is  extended  into  an  exhaustive  treatise
+in  his  next  book,  "The  Genealogy  of  Morals."  However,  his
+dissection  here  is  carried  out  on  a  broader  and  far  more  gen-
+eral scale  than  in  his  previous  books,  such  as  "Human  All-
+Too-Human"  and  "The  Dawn  of  Day."  Heretofore  he  had
+confined  himself  to  codes  and  systems,  to  acts  of  morality
+and  immorality,  to  judgments  of  conducts.  In  "Beyond
+Good  and  Evil"  he  treats  of  moral  prejudices  as  forces
+working  hand  in  hand  with  human  progress.  In  addition,
+there  is  a  definite  attitude  of  constructive  thinking  here
+which  is  absent  from  his  earlier  work.
+
+In  the  chapter,  "We  Scholars,"  Nietzsche  continues  his
+definition  of  the  philosopher,  whom  he  holds  to  be  the
+highest  type  of  man.  Besides  being  a  mere  description  of
+the  intellectual  traits  of  this  "free  spirit,"  the  chapter  is
+also  an  exposition  of  the  shortcomings  of  those  modem  men
+who  pose  as  philosophers.  Also  the  man  of  science  and  the
+man  of  genius  are  analyzed  and  weighed  as  to  their  relative
+importance  in  the  community.  In  fact,  we  have  here
+Nietzsche's  most  concise  and  complete  definition  of  the  indi-
+viduals upon  whom  rests  the  burden  of  progress.  These
+valuations  of  the  intellectual  leaders  are  important  to  the
+student,  for  by  one's  understanding  them,  along  with  the
+reasons  for  such  valuations,  a  comprehension  of  the  ensuing
+volumes  is  facilitated.
+
+Important  material  touching  on  many  of  the  fundamental
+
+xiv  INTRODUCTION
+
+boints  of  Nietzsche's  philosophy  is  embodied  in  the  chapter
+entitled  "Our  Virtues."  The  more  general  inquiries  into
+conduct,  and  the  research  along  the  broader  lines  of  ethics
+'are  supplanted  by  inquiries  into  specific  moral  attributes.
+The  current  virtues  are  questioned,  and  their  historical  sig-
+nificance is  determined.  The  value  of  such  virtues  is  tested
+in  their  relation  to  different  types  of  men.  Sacrifice,  sym-
+pathy, brotherly  love,  service,  loyalty,  altruism,  and  similar
+ideals  of  conduct  are  examined,  and  the  results  of  such  vir-
+tues are  shown  to  be  incompatible  with  the  demands  of
+modem  social  intercourse.  Nietzsche  poses  against  these
+virtues  the  sterner  and  more  rigid  forms  of  conduct,  pointing
+out  wherein  they  meet  with  the  present  requirements  of
+human  progress.  The  chapter  is  a  preparation  for  his  estab-
+lishment of  a  new  morality  and  also  an  explanation  of  the
+dual  ethical  code  which  is  one  of  the  main  pillars  in  his
+philosophical  structure.  Before  presenting  his  precept  of  a
+dual  morality,  Nietzsche  endeavors  to  determine  woman's
+place  in  the  political  and  social  scheme,  and  points  out  the
+necessity,  not  only  of  individual  feminine  functioning,  but
+of  the  preservation  of  a  distinct  polarity  in  sexual  relation-
+ship.
+
+In  the  final  chapter  many  of  Nietzsche's  philosophical
+ideas  take  definite  shape.  The  doctrine  of  slave-morality
+and  master-morality,  prepared  for  and  partially  defined  in
+preceding  chapters,  is  here  directly  set  forth,  and  those  vir-
+tues and  attitudes  which  constitute  the  "nobility"  of  the
+master  class  are  specifically  defined.  Nietzsche  designates
+the  duty  of  his  aristocracy,  and  segregates  the  human  attri-
+butes according  to  the  rank  of  individuals.  The  Dionysian
+ideal,  which  underlies  all  the  books  that  follow  "Beyond
+Good  and  Evil,"  receives  its  first  direct  exposition  and  appli-
+cation. The  hardier  human  traits,  such  as  egotism,  cruelty,
+arrogance,  retaliation  and  appropriation,  are  given  ascend-
+ancy over  the  softer  virtues,  such  as  sympathy,  charity,  for-
+giveness, loyalty  and  humility,  and  are  pronounced  necessary
+constituents  in  the  moral  code  of  a  natural  aristocracy.  At
+this  point  is  begun  the  transvaluation  of  values  which  was  to
+have  been  completed  in  "The  Will  to  Power."
+
+WiLLARD  Huntington  Wright.
+
+PREFACE
+
+Supposing  that  Truth  is  a  woman — what  then?  Is  there
+not  ground  for  suspecting  that  all  philosophers,  in  so  far
+as  they  have  been  dogmatists,  have  failed  to  understand
+women — that  the  terrible  seriousness  and  climisy  impor-
+tunity with  which  they  have  usually  paid  their  addresses
+to  Truth,  have  been  unskilled  and  unseemly  methods  for
+winning  a  woman?  Certainly  she  has  never  allowed  herself
+to  be  won;  and  at  present  every  kind  of  dogma  stands  with
+sad  and  discouraged  mien — if,  indeed,  it  stands  at  all!  For
+there  are  scoffers  who  mmntain  that  it  has  fallen,  that  all
+dogma  lies  on  the  groimd — nay  more,  that  it  is  at  its  last
+gasp.  But  to  speak  seriously,  there  are  good  groimds  for
+hoping  that  all  dogmatising  in  philosophy,  whatever  solemn,
+whatever  conclusive  and  decided  airs  it  has  assumed,  may
+have  been  only  a  noble  puerilism  and  tjn-onism ;  and  probably
+the  time  is  at  hand  when  it  will  be  once  and  again  under-
+stood what  has  actually  sufficed  for  the  basis  of  such  im-
+posing and  absolute  philosophical  edifices  as  the  dogmatists
+have  hitherto  reared:  perhaps  some  popular  superstition  of
+immemorial  time  (such  as  the  soul-superstition,  which,  in
+the  form  of  subject-  and  ego-superstition,  has  not  yet  ceased
+doing  mischief):  perhaps  some  play  upon  words,  a  decep-
+tion on  the  part  of  grammar,  or  an  audacious  generalisation
+of  very  restricted,  very  personal,  very  human — all-too-human
+facts.  The  philosophy  of  the  dogmatists,  it  is  to  be  hoped,
+was  only  a  promise  for  thousands  of  years  aftervi-ards,  aa,
+
+zv
+
+PREFACE
+
+^as  astrology  in  still  earlier  times,  in  the  service  of  which
+probably  more  labour,  gold,  acuteness,  and  patience  have
+been  spent  than  on  any  actual  science  hitherto:  we  owe  to
+it,  and  to  its  "super-terrestrial"  pretensions  in  Asia  and
+Egypt,  the  grand  style  of  architecture.  It  seems  that  in
+order  to  inscribe  themselves  upon  the  heart  of  humanity  with
+everlasting  claims,  all  great  things  have  first  to  wander  about
+the  earth  as  enormous  and  awe-inspiring  caricatures:  dog-
+matic philosophy  has  been  a  caricature  of  this  kind — for
+instcince,  the  Vedanta  doctrine  in  Asia,  and  Platonism  in
+Europe.  Let  us  not  be  ungrateful  to  it,  although  it  must
+certainly  be  confessed  that  the  worst,  the  most  tiresome,
+and  the  most  dangerous  of  errors  hitherto  has  been  a  dog-
+matist error — ^namely,  Plato's  invention  of  Pure  Spirit  and
+the  Good  in  Itself.  But  now  when  it  has  been  surmounted,
+when  Europe,  rid  of  this  nightmare,  can  again  draw  breath
+freely  and  at  least  enjoy  a  healthier — sleep,  we,  whose  duty
+is  wakefulness  itself,  are  the  heirs  of  all  the  strength  which
+the  struggle  against  this  error  has  fostered.  It  amounted  to
+the  very  inversion  of  truth,  and  the  denial  of  the  perspective
+— the  fundamental  condition — of  life,  to  speak  of  Spirit  and
+the  Good  as  Plato  spoke  of  them;  indeed  one  might  ask,  as
+a  physician:  "How  did  such  a  malady  attack  that  finest
+product  of  antiquity,  Plato?  Had  the  wicked  Socrates  really
+corrupted  him?  Was  Socrates  after  all  a  corrupter  of  youths,
+and  deserved  his  hemlock?"  But  the  struggle  against  Plato,
+or — to  speak  plainer,  and  for  the  "people" — the  struggle
+against  the  ecclesiastical  oppression  of  millenniums  of  Christ-
+ianity (for  Christianity  is  Platonism  for  the  "people"),  pro-
+duced in  Europe  a  magnificent  tension  of  soul,  such  as  had
+not  existed  anywhere  previously;  with  such  a  tensely-strained
+bow  one  can  now  aim  at  the  furthest  goals.  As  a  matter  of
+fact,  the  European  feels  this  tension  as  a  state  of  distress,
+
+PREFACE
+
+and  twice  attempts  have  been  made  in  grand  style  to  imbend
+the  bow:  once  by  means  of  Jesuitism,  and  the  second  time  by
+means  of  democratic  enlightenment — which,  with  the  aid  of
+liberty  of  the  press  and  newspaper-reading,  might,  in  fact,
+bring  it  about  that  the  ^irit  would  not  so  easily  find  itself
+in  "distress"!  (The  Germans  invented  gunpowder — all
+credit  to  them!  but  they  again  made  things  square — they  in-
+vented printing.)  But  we,  who  are  neither  Jesuits,  nor  demo-
+crats, nor  even  sufficiently  Germans,  we  good  Europeans,
+and  free,  very  free  spirits — ^we  have  it  still,  all  the  distress
+of  spirit  and  all  the  tension  of  its  bow!  And  perhaps  also
+the  arrow,  the  duty,  and,  who  knows?  the  god  to  aim
+at.  .  .  .
+
+Sils  Maria  Upper  Engadine,  Jum.  1885.
+
+BEYOND  GOOD  AND  EVIL
+
+CHAPTER  I
+
+|.  Prejudices  of  Philosophers
+
+The  Will  to  Truth,  which  is  to  tempt  us  to  many  a  hazard-
+ous enterprise,  the  famous  Truthfulness  of  which  all
+philosophers  have  hitherto  spoken  with  respect,  what  ques-
+tions has  this  Will  to  Truth  not  laid  before  us!  What
+strange,  perplexmg,  questionable  questions!  It  is  already  a
+long  story;  yet  it  seems  as  if  it  were  hardly  commenced.  Is
+it  any  wonder  if  we  at  last  grow  distrustful,  lose  patience,
+and  turn  impatiently  away?  That  this  Sphinx  teaches  us
+at  last  to  ask  questions  ourselves?  Who  is  it  really  that  puts
+questions  to  us  here?  What  really  is  this  "Will  to  Truth"  in
+us?  In  fact  we  made  a  long  halt  at  the  question  as  to  the
+origin  of  this  Will — imtil  at  last  we  came  to  an  absolute
+standstill  before  a  yet  more  fundamental  question.  We  in-
+quired about  the  value  of  this  Will.  Granted  that  we  want
+the  truth:  why  not  rather  untruth?  And  uncertainty?  Even
+ignorance?  The  problem  of  the  value  of  truth  presented  it-
+self before  us — or  was  it  we  who  presented  ourselves  before
+the  problem?  Which  of  us  is  the  CEdipus  here?  Which  the
+Sphinx?  It  would  seem  to  be  a  rendezvous  of  questions  and
+notes  of  interrogation.  And  could  it  be  believed  that  it  at
+last  seems  to  us  as  if  the  problem  had  never  been  propounded
+
+ft
+
+2  BEYOND  GOOD  AND  EVIL
+
+before,  as  if  we  were  the  first  to  discern  it,  get  a  sight  of  it,
+and  risk  raising  it.  For  there  is  risk  in  raising  it,  perhaps
+there  is  no  greater  risk.
+
+"How  could  anything  originate  out  of  its  opposite?  For
+example,  truth  out  of  error?  or  the  Will  to  Truth  out  of  the
+will  to  deception?  or  the  generous  deed  out  of  selfishness?
+or  the  pure  sun-bright  vision  of  the  wise  man  out  of  covet-
+ousness?  Such  genesis  is  impossible;  whoever  dreams  of  it
+is  a  fool,  nay,  worse  than  a  fool ;  things  of  the  highest  value
+must  have  a  different  origin,  an  origin  of  their  own — in  this
+transitory,  seductive,  illusory,  paltry  world,  in  this  turmoil
+of  delusion  and  cupidity,  they  cannot  have  their  source.
+But  rather  in  the  lap  of  Being,  in  the  intransitory,  in  the  con-
+cealed God,  in  the  'Thing-in-itself — there  must  be  their
+source,  and  nowhere  else! " — This  mode  of  reasoning  discloses
+the  typical  prejudice  by  which  meta-physicians  of  all  times
+can  be  recognised,  this  mode  of  valuation  is  at  the  back  of
+all  their  logical  procedure;  through  this  "belief"  of  theirs,
+they  exert  themselves  for  their  "knowledge,"  for  something
+that  is  in  the  end  solemnly  christened  "the  Truth."  The
+fundamental  belief  of  metaphysicians  is  the  belief  in  anti-
+theses of  values.  It  never  occurred  even  to  the  wariest  of
+them  to  doubt  here  on  the  very  threshold  (where  doubt,
+however,  was  most  necessary) ;  though  they  had  made  a
+solemn  vow,  *'de  omnibus  dubitandum."  For  it  may  be
+doubted,  firstly,  whether  antitheses  exist  at  all ;  and  secondly,
+whether  the  popular  valuations  and  anthitheses  of  value  upon
+which  metaphysicians  have  set  their  seal,  are  not  perhaps
+merely  superficial  estimates,  merely  provisional  perspectives,
+besides  being  probably  made  from  some  comer,  perhaps  froi
+
+BEYOND   GOOD  AND   EVIL  3
+
+below — "frog  perspectives,"  as  it  were,  to  borrow  an  expres-
+sion current  among  painters.  In  spite  of  all  the  value  which
+may  belong  to  the  true,  the  positive,  and  the  unselfish,  it
+might  be  possible  that  a  higher  and  more  fimdamental  value
+for  life  generally  should  be  assigned  to  pretence,  to  the  will
+to  delusion,  to  selfishness,  and  cupidity.  It  might  even  be
+possible  that  what  constitutes  the  value  of  those  good  and
+respected  things,  consists  precisely  in  their  being  insidiously
+related,  knotted,  and  crocheted  to  these  evil  and  apparently
+opposed  things — perhaps  even  in  being  essentially  identical
+with  them.  Perhaps!  But  who  wishes  to  concern  himself
+with  such  dangerous  "Perhapses"!  For  that  investigation
+one  must  await  the  advent  of  a  new  order  of  philosophers,
+such  as  will  have  other  tastes  and  inclinations,  the  reverse
+of  those  hitherto  prevalent — ^philosophers  of  the  dangerous
+"Perhaps"  in  every  sense  of  the  term.  And  to  speak  in  all
+seriousness,  I  see  such  new  philosophers  beginning  to  appear.
+
+Having  kept  a  sharp  eye  on  philosophers,  and  having  read
+between  their  lines  long  enough,  I  now  say  to  myself  that  the
+greater  part  of  conscious  thinking  must  be  counted  amongst
+the  instinctive  functions,  and  it  is  so  even  m  the  case  of  phil-
+osophical thinking;  one  has  here  to  learn  anew,  as  one  learned
+anew  about  heredity  and  "innateness."  As  little  as  the  act
+of  birth  comes  into  consideration  in  the  whole  process  and
+procedure  of  heredity,  just  as  little  is  "being-conscious"  op-
+posed to  the  instinctive  in  any  decisive  sense;  the  greater
+part  of  the  conscious  thinking  of  a  philosopher  is  secretly  in-
+fluenced by  his  instincts,  and  forced  into  definite  channels.
+And  behind  all  logic  and  its  seeming  sovereignty  of  move-
+ment, there  are  valuations,  or  to  speak  more  plainly,  physio-
+
+4  BEYOND  GOOD  AND  EVIL
+
+logical  demands,  for  the  maintenance  of  a  definite  mode  of
+life.  For  example,  that  the  certain  is  worth  more  than  the
+imcertain,  that  illusion  is  less  valuable  than  "truth":  such
+valuations,  in  spite  of  their  regulative  importance  for  us,
+might  notwithstanding  be  only  superficial  valuations,  spe-
+cial kinds  of  niaiserie,  such  as  may  be  necessary  for  the
+maintenance  of  beings  such  as  ourselves.  Supposing,  in  ef-
+fect, that  man  is  not  just  the  "measure  of  things."  .  .  .
+
+The  falseness  of  an  opinion  is  not  for  us  any  objection  to
+it:  it  is  here,  perhaps,  that  our  new  language  sounds  most
+strangely.  The  question  is,  how  far  an  opinion  is  life-fur-
+thering, life-preserving,  species-preserving,  perhaps  species-
+rearing;  and  we  are  fundamentally  inclined  to  maintain  that
+the  falsest  opinions  (to  which  the  synthetic  judgments  a
+priori  belong),  are  the  most  indispensable  to  us;  that  without
+a  recognition  of  logical  fictions,  without  a  comparison  of
+reality  with  the  purely  imagined  world  of  the  absolute  and
+immutable,  without  a  constant  covmterfeiting  of  the  work
+by  means  of  numbers,  man  could  not  live — that  the  renun-j
+ciation  of  false  opinions  would  be  a  renunciation  of  life,
+negation  of  life.  To  recognise  untruth  as  a  condition  of  lifei
+that  is  certainly  to  impugn  the  traditional  ideas  of  value
+a  dangerous  maimer,  and  a  philosophy  which  ventures  to  d<]
+so,  has  thereby  alone  placed  itself  beyond  good  and  evil.
+
+That  which  causes  philosophers  to  be  regarded  half-dis
+trustfully  and  half-mockingly,  is  not  the  oft-repeated  disco\
+ery  how  innocent  they  are — ^how  often  and  easily  they  ma
+
+BEYOND   GOOD  ANfD   EVIL  5
+
+mistakes  and  lose  their  way,  in  short,  how  childish  and
+childlike  they  are, — but  that  there  is  not  enough  honest
+dealing  with  them,  whereas  they  all  raise  a  loud  and  virtuous
+outcry  when  the  problem  of  truthfulness  is  even  hinted  at
+in  the  remotest  manner.  They  all  pose  as  though  their  real
+opmions  had  been  discovered  and  attained  through  the  self-
+evolving  of  a  cold,  pure,  divinely  indifferent  dialectic  (in
+contrast  to  all  sorts  of  mystics,  who,  fairer  and  foolisher,  talk
+of  "inspiration") ;  whereas,  in  fact,  a  prejudiced  proposition,
+idea,  or  "suggestion,"  which  is  generzilly  their  heart's  desire
+abstracted  and  refined,  is  defended  by  them  with  arguments
+sought  out  after  the  event.  They  are  all  advocates  who  do
+not  wish  to  be  regarded  as  such,  generally  astute  defenders,
+also,  of  their  prejudices,  which  they  dub  "truths," — and  very
+far  from  having  the  conscience  which  bravely  admits  this  to
+itself;  very  far  from  having  the  good  taste  of  the  courage
+which  goes  so  far  as  to  let  this  be  understood,  p)erhaps  to
+warn  friend  or  foe,  or  in  cheerful  confidence  and  self -ridicule.
+The  spectacle  of  the  Tartuffery  of  old  Kant,  equally  stiff  and
+decent,  with  which  he  entices  us  into  the  dialectic  by-ways
+that  lead  (more  correctly  mislead)  to  his  "categorical  im-
+perative"— makes  us  fastidious  ones  smile,  we  who  find  no
+small  amusement  in  spying  out  the  subtle  tricks  of  old
+moralists  and  ethical  preachers.  Or,  still  more  so,  the  hocus-
+pocus  in  mathematical  form,  by  means  of  which  Spinoza
+has,  as  it  were,  clad  his  philosophy  in  mail  and  mask — in  fact,
+the  "love  of  his  wisdom,"  to  translate  the  term  fairly  and
+squarely — in  order  thereby  to  strike  terror  at  once  into  the
+heart  of  the  assailant  who  should  dare  to  cast  a  glance  on
+that  mvincible  maiden,  that  Pallas  Athene:— how  much  of
+personal  timidity  and  vulnerability  does  this  masquerade  of
+a  sickly  recluse  betray!
+
+BEYOND  GOOD  AND  EVIL
+
+It  has  gradually  become  clear  to  me  what  every  great
+philosophy  up  till  now  has  consisted  of — namely,  the  confes-
+sion of  its  originator,  and  a  species  of  involuntary  and  un-
+conscious auto-biography;  and  moreover  that  the  moral  (or
+immoral)  purpose  in  every  philosophy  has  constituted  the
+true  vital  germ  out  of  which  the  entire  plant  has  always
+grown.  Indeed,  to  understand  how  the  abstrusest  metaphysi-
+cal assertions  of  a  philosopher  have  been  arrived  at,  it  is
+always  well  (and  wise)  to  first  ask  oneself:  ''What  morality
+do  they  (or  does  he)  aim  at?"  Accordingly,  I  do  not  believe
+that  an  "impulse  to  knowledge"  is  the  father  of  philosophy;
+but  that  another  impulse,  here  as  elsewhere,  has  only  made
+use  of  knowledge  (and  mistaken  knowledge!)  as  an  instru-
+ment. But  whoever  considers  the  fundamental  impulses  of
+man  with  a  view  to  determining  how  far  they  may  have  here
+acted  as  inspiring  genii  (or  as  demons  and  cobolds) ,  will  find
+that  they  have  all  practised  philosophy  at  one  time  or  an-
+other, and  that  each  one  of  them  would  have  been  only  too
+glad  to  look  upon  itself  as  the  ultimate  end  of  existence  and
+the  legitimate  lord  over  all  the  other  impulses.  For  every
+impulse  is  imperious,  and  as  such,  attempts  to  philosophise.
+To  be  sure,  in  the  case  of  scholars,  in  the  case  of  really
+scientific  men,  it  may  be  otherwise — "better,"  if  you  will;
+there  there  may  really  be  such  a  thing  as  an  "impulse  to
+I:nowledge,"  some  kind  of  small,  independent  clock-work,
+which,  when  well  wound  up,  works  away  industriously  to  that
+end,  without  the  rest  of  the  scholarly  impulses  taking  any
+material  part  therein.  The  actual  "interests"  of  the  scholar,
+therefore,  are  generally  in  quite  another  direction — in  the
+family,  perhaps,  or  in  money-making,  or  in  politics;  it  is,
+
+I
+
+BEYOND   GOOD  AND   EVIL  7
+
+in  fact,  almost  indifferent  at  what  point  of  research  his  little
+machine  is  placed,  and  whether  the  hopeful  yoimg  worker
+becomes  a  good  philologist,  a  mushroom  specialist,  or  a
+chemist;  he  is  not  characterised  by  becoming  this  or  that.  In
+the  philosopher,  on  the  contrary,  there  is  absolutely  nothing
+impersonal;  and  above  all,  his  morality  furnishes  a  decided
+and  decisive  testimony  as  to  who  he  is, — that  is  to  say,  in
+what  order  the  deepest  impulses  of  his  nature  stand  to  each
+other.
+
+How  malicious  philosophers  can  be!  I  know  of  nothing
+more  stinging  than  the  joke  Epicurus  took  the  liberty  of
+making  on  Plato  and  the  Platonists;  he  called  them  Diony-
+siokolakes.  In  its  original  sense,  and  on  the  face  of  it,  the
+word  signifies  "Flatterers  of  Dionysius" — consequently,  ty-
+rants' accessories  and  lick-spittles;  besides  this,  however,  it  is
+as  much  as  to  say,  "They  are  all  actors,  there  is  nothing
+genuine  about  them"  (for  Dionysiokolax  was  a  popular  name
+for  an  actor).  And  the  latter  is  really  the  malignant  re-
+proach that  Epicurus  cast  upon  Plato:  he  was  annoyed  by
+the  grandiose  manner,  the  mise  en  scene  style  of  which  Plato
+and  his  scholars  were  masters — of  which  Epicurus  was  not
+a  master!  He,  the  old  school-teacher  of  Samos,  who  sat
+concealed  in  his  little  garden  at  Athens,  and  wrote  three
+hundred  books,  perhaps  out  of  rage  and  ambitious  envy  of
+Plato,  who  knows!  Greece  took  a  hundred  years  to  find
+out  who  the  garden-god  Epicurus  really  was.  Did  she  ever
+find  out?
+
+I
+
+BEYOND  GOOD  AND  EVIL
+
+8
+
+There  is  a  point  in  every  philosophy  at  which  the  "convic-
+tion" of  the  philosopher  appear^  on  the  scene;  or,  to  put  it
+in  the  words  of  an  ancient  mystery:
+
+Adventavit  asinus,
+Pulcher  et  fortissimus.
+
+You  desire  to  live  "according  to  Nature"?  Oh,  you  noble
+Stoics,  what  fraud  of  words!  Imagine  to  yourselves  a  being
+like  Nature,  boundlessly  extravagant,  boundlessly  indifferent,
+without  purpose  or  consideration,  without  pity  or  justice,  at
+once  fruitful  and  barren  and  imcertam:  imagine  to  your-
+selves indifference  as  a  power — ^how  could  you  live  in  ac-
+cordance with  such  indifference?  To  live— is  not  that  just
+endeavouring  to  be  otherwise  than  this  Nature?  Is  not
+living  valuing,  preferring,  being  imjust,  being  limited,  en-
+deavouring to  be  different?  And  granted  that  your  impera-
+tive, "living  according  to  Nature,"  means  actually  the  same
+as  "living  according  to  life" — ^how  could  you  do  differently?
+Why  should  you  make  a  principle  out  of  what  you  your-
+selves are,  and  must  be?  In  reality,  however,  it  is  quite
+otherwise  with  you:  while  you  pretend  to  read  with  rapture
+the  canon  of  your  law  in  Nature,  you  want  something  quite
+the  contrary,  you  extraordinary  stage-players  and  self-de-
+luders!  In  your  pride  you  wish  to  dictate  your  morals  and
+ideals  to  Nature,  to  Nature  herself,  and  to  incorporate  thei
+therein;  you  insist  that  it  shall  be  Nature  "according  to  thi
+Stoa,"  and  would  like  everything  to  be  made  after  your  o
+
+ina
+
+I
+enL,
+
+f.
+
+BEYOND   GOOD  AND   EVIL  9
+
+image,  as  a  vast,  eternal  glorification  and  generalism  of  Stoic-
+ism !  With  all  your  love  for  truth,  you  have  forced  yourselves
+so  long,  so  persistently,  and  with  such  hypnotic  rigidity  to
+see  Nature  falsely,  that  is  to  say.  Stoically,  that  you  are  no
+longer  able  to  see  it  otherwise — and  to  crown  all,  some  un-
+fathomable superciliousness  gives  you  the  Bedlamite  hope
+that  because  you  are  able  to  tyrannise  over  yourselves —
+Stoicism  is  self-tyranny — Nature  will  also  allow  herself  to  be
+t)n'annised  over:  is  not  the  Stoic  a />cr^  of  Nature?  ,  .  .  But
+this  is  an  old  and  everlasting  story:  what  happened  in  old
+times  with  the  Stoics  still  happens  to-day,  £is  soon  as  ever
+a  philosophy  begins  to  believe  in  itself.  It  always  creates
+the  world  in  its  own  image;  it  cannot  do  otherwise;  phi-
+losophy is  this  tyrannical  impulse  itself,  the  most  spiritual
+Will  to  Power,  the  will  to  "creation  of  the  world,"  the  will
+to  the  causa  prima.
+
+10
+
+The  eagerness  and  subtlety,  I  should  even  say  craftiness,
+with  which  the  problem  of  "the  real  and  the  apparent  world"
+is  dealt  with  at  present  throughout  Europe,  furnishes  food
+for  thought  and  attention;  and  he  who  hears  only  a  "Will
+to  Truth"  in  the  background,  and  nothing  else,  cannot  cer-
+Jainly  boast  of  the  sharpest  ears.  In  rare  and  isolated  cases,
+^may  really  have  happened  that  such  a  Will  to  Truth — a
+lin  extravagant  and  adventurous  pluck,  a  metaphysician's
+ibition  of  the  forlorn  hope — has  participated  therein:  that
+ich  in  the  end  always  prefers  a  handful  of  "certainty"  to
+[whole  cartload  of  beautiful  possibilities;  there  may  even
+puritanical  fanatics  of  conscience,  who  prefer  to  put  their
+^t  trust  in  a  sure  nothing,  rather  than  in  an  uncertain  some-
+ig.     But  that  is  Nihilism,  and  the  sign  of  a  despairing.
+
+10  BEYOND  GOOD  AND  EVIL
+
+mortally  wearied  soul,  notwithstanding  the  courageous  bear-
+ing such  a  virtue  may  display.  It  seems,  however,  to  be
+otherwise  with  stronger  and  livelier  thinkers  who  are  still
+eager  for  life.  In  that  they  side  against  appearance,  and
+speak  superciliously  of  "perspective,"  in  that  they  rank  the
+credibility  of  their  own  bodies  about  as  low  as  the  credibility
+of  the  ocular  evidence  that  "the  earth  stands  still,"  and  thus,
+apparently,  allowing  with  complacency  their  securest  pos-
+session to  escape  (for  what  does  one  at  present  believe  in
+more  firmly  than  in  one's  body?), — who  knows  if  they  are
+not  really  trying  to  win  back  something  which  was  formerly
+an  even  securer  possession,  something  of  the  old  domain  of
+the  faith  of  former  times,  perhaps  the  "immortal  soul,"  per-
+haps "the  old  God,"  in  short,  ideas  by  which  they  could  live
+better,  that  is  to  say,  more  vigourously  and  more  joyously,
+than  by  "modem  ideas"?  There  is  distrust  of  these  modem
+ideas  in  this  mode  of  looking  at  things,  a  disbelief  in  all  that
+has  been  constructed  yesterday  and  to-day;  there  is  per-
+haps some  slight  admixture  of  satiety  and  scom,  which  can
+no  longer  endure  the  bric-a-brac  of  ideas  of  the  most  varied
+origin,  such  as  so-called  Positivism  at  present  throws  on  the
+market;  a  disgust  of  the  more  refined  taste  at  the  village-fair
+motleyness  and  patchiness  of  all  these  reality-philosophasters,
+in  whom  there  is  nothing  either  new  or  true,  except  this
+motlejTiess.  Therein  it  seems  to  me  that  we  should  agree
+with  those  sceptical  anti-realists  and  knowledge-microscopists
+of  the  present  day;  their  instinct,  which  repels  them  from
+modern  reality,  is  unrefuted  .  .  .  what  do  their  retrograde
+by-paths  concem  us!  The  main  thing  about  them  is  nolA
+that  they  wish  to  go  "back,"  but  that  they  wish  to  get  ca^cy
+therefrom.  A  little  more  strength,  swing,  courage,  and
+artistic  power,  and  they  would  be  o§ — and  not  back!
+
+BEYOND   GOOD  AND   EVIL  ii
+
+I
+
+IX
+
+It  seems  to  me  that  there  is  everywhere  an  attempt  at
+present  to  divert  attention  from  the  actual  influence  which
+Kant  exercised  on  German  philosophy,  and  especially  to  ig-
+nore prudently  the  value  which  he  set  upon  himself.  Kant
+was  first  and  foremost  proud  of  his  Table  of  Categories;
+with  it  in  his  hand  he  said:  "This  is  the  most  difficult  thing
+that  could  ever  be  undertaken  on  behalf  of  metaphysics."
+Let  us  only  understand  this  "could  be"!  He  was  proud  of
+having  discovered  a  new  faculty  in  man,  the  faculty  of
+synthetic  judgment  a  priori.  Granting  that  he  deceived  him-
+self in  this  matter;  the  development  and  rapid  flourishing
+of  German  philosophy  depended  nevertheless  on  his  pride,
+and  on  the  eager  rivalry  of  the  younger  generation  to  dis-
+cover if  possible  something — at  all  events  "new  faculties" —
+of  which  to  be  still  prouder! — But  let  us  reflect  for  a
+moment — it  is  high  time  to  do  so.  "How  are  synthetic  judg-
+ments a  priori  possible?"  Kant  asks  himself — and  what  is
+really  his  answer?  "By  means  of  a  means  (faculty)" — ^but
+unfortunately  not  in  five  words,  but  so  circumstantially,  im-
+posingly, and  with  such  display  of  German  profimdity  and
+verbal  flourishes,  that  one  altogether  loses  sight  of  the
+comical  niaiserie  allemande  involved  in  such  an  answer.  Peo-
+ple were  beside  themselves  with  delight  over  this  new  fac-
+
+^  ulty,  and  the  jubilation  reached  its  climeix  v/hen  Kant  further
+discovered  a  moral  faculty  in  man — for  at  that  time  Germans
+were  still  moral,  not  yet  dabbling  in  the  "Politics  of  hard
+fact."  Then  came  the  honeymoon  of  German  philosophy.
+All  the  young  theologians  of  the  Tiibingen  institution  went
+I  mmediately  into  the  groves — all  seeking  for  "faculties."
+
+jri  .tod  what  did  they  not  find — in  that  innocent,  rich,  and  still
+
+II
+
+12  BEYOND  GOOD  AND  EVIL
+
+youthful  period  of  the  German  spirit,  to  which  Romanticism,
+the  malicious  fairy,  piped  and  sang,  when  one  could  not  yet
+distinguish  between  "finding"  and  "inventing"!  Above  all
+a  faculty  for  the  "transcendental";  Schelling  christened  it,
+intellectual  intuition,  and  thereby  gratified  the  most  earnest
+longings  of  the  naturally  pious-inclined  Germans.  One  can
+do  no  greater  wrong  to  the  whole  of  this  exuberant  and  ec-
+centric movement  (which  was  really  youthfulness,  notwith-
+standing that  it  disguised  itself  so  boldly  in  hoary  and  senile
+conceptions),  than  to  take  it  seriously,  or  even  treat  it  with
+moral  indignation.  Enough,  however — the  world  grew  older,
+and  the  dream  vanished.  A  time  came  when  people  rubbed
+their  foreheads,  and  they  still  rub  them  to-day.  People  had
+been  dreaming,  and  first  and  foremost — old  Kant.  "By
+means  of  a  means  (faculty)" — he  had  said,  or  at  least  meant
+to  say.  But,  is  that — an  answer?  An  explanation?  Or
+is  it  not  rather  merely  a  repetition  of  the  question?  How
+does  opium  induce  sleep?  "By  means  of  a  means  (faculty),"
+namely  the  virtus  dormitiva,  replies  the  doctor  in  Moliere,
+
+Quia  est  in  eo  virtus  dormitiva,
+Cujus  est  natura  sensus  assoupire.
+
+But  such  replies  belong  to  the  realm  of  comedy,  and  it  is
+high  time  to  replace  the  Kantian  question,  "How  are  syn-
+thetic judgments  a  priori  possible?"  by  another  question,
+"Why  is  belief  in  such  judgments  necessary?" — in  effect,  it
+high  time  that  we  should  imderstand  that  such  judgments,
+must  be  believed  to  be  true,  for  the  sake  of  the  preserva-
+tion of  creatures  like  ourselves;  though  they  still  might]
+naturally  be  false  judgments!  Or,  more  plainly  spokeUjj
+and  roughly  and  readily — synthetic  judgments  a  priori  shoulc
+not  "be  possible"  at  all;  we  have  no  right  to  them;  in  oui
+
+BEYOND   GOOD  AND  EVIL  13
+
+mouths  they  are  nothing  but  false  judgments).  Only,  of
+course,  the  belief  in  their  truth  is  necessary,  as  plausible
+belief  and  ocular  evidence  belonging  to  the  perspective  view
+of  life.  And  finally,  to  call  to  mind  the  enormous  influence
+which  "German  philosophy" — I  hope  you  understand  its
+right  to  inverted  commas  (gooseteet)? — has  exercised
+throughout  the  whole  of  Europe,  there  is  no  doubt  that  a
+certain  virtus  dormitiva  had  a  share  in  it;  thanks  to  German
+philosophy,  it  was  a  delight  to  the  noble  idlers,  the  virtuous,
+the  mystics,  the  artists,  the  three- fourths  Christians,  and  the
+political  obscurantists  of  all  nations,  to  find  an  antidote  to
+the  still  overwhelming  sensualism  which  overflowed  from
+the  last  century  into  this,  in  short — "sensus  assoupire."  .  .  .
+
+y2
+
+As  regards  materialistic  atomism,  it  is  one  of  the  best
+refuted  theories  that  have  been  advanced,  and  in  Europe
+there  is  now  perhaps  no  one  in  the  learned  world  so  un-
+scholarly  as  to  attach  serious  signification  to  it,  except  for
+convenient  everyday  use  (as  an  abbreviation  of  the  means
+of  expression) — thanks  chiefly  to  the  Pole  Boscovich:  he
+and  the  Pole  Copernicus  have  hitherto  been  the  greatest  and
+most  successful  opponents  of  ocular  evidence.  For  whilst
+Copernicus  has  persuaded  us  to  believe,  contrary  to  all  the
+senses,  that  the  earth  does  not  stand  fast,  Boscovich  has
+taught  us  to  abjure  the  belief  in  the  last  thing  that  "stood
+fast"  of  the  earth — the  belief  in  "substance,"  in  "matter,"
+in  the  earth-residuum,  and  particle-atom:  it  is  the  greatest
+triumph  over  the  senses  that  has  hitherto  been  gained  on
+earth.  One  must,  however,  go  still  further,  and  also  declare
+war,  relentless  war  to  the  knife,  against  the  "atomistic  re-
+quirements" which  still  lead  a  dangerous  after-life  in  places
+
+14  BEYOND  GOOD  AND  EVIL
+
+where  no  one  suspects  them,  like  the  more  celebrated  "meta-
+physical requirements":  one  must  also  above  all  give  the  fin-
+ishing stroke  to  that  other  and  more  portentous  atomism
+which  Christianity  has  taught  best  and  longest,  the  soul-
+atomism.  Let  it  be  permitted  to  designate  by  this  expression
+the  belief  which  regards  the  soul  as  something  indestructible,
+eternal,  indivisible,  as  a  monad,  as  an  atomon:  this  belief
+ought  to  be  expelled  from  science!  Between  ourselves,  it  is
+not  at  all  necessary  to  get  rid  of  "the  soul"  thereby,  and  thus
+renounce  one  of  tlie  oldest  and  most  venerated  hj^otheses —
+as  happens  frequently  to  the  clumsiness  of  naturalists,  who
+can  hardly  touch  on  the  soul  without  immediately  losing  it.
+But  the  way  is  open  for  new  acceptations  and  refinements  of
+the  soul-hypothesis;  and  such  conceptions  as  "mortal  soul,"
+and  "soul  of  subjective  multiplicity,"  and  "soul  as  social
+structure  of  the  instincts  and  passions,"  want  henceforth  to
+have  legitimate  rights  in  science.  In  that  the  new  psycholo-
+gist is  about  to  put  an  end  to  the  superstitions  which  have
+hitherto  flourished  with  almost  tropical  luxuriance  around  the
+idea  of  the  soul,  he  is  really,  as  it  were,  thrusting  himself  into
+a  new  desert  and  a  new  distrust — it  is  possible  that  the  older
+psychologists  had  a  merrier  and  more  comfortable  time  of
+it;  eventually,  however,  he  finds  that  precisely  thereby  he
+is  also  condemned  to  invent — and,  who  knows?  perhaps  to
+discover  the  new.
+
+13
+
+Psychologists  should  bethink  themselves  before  putting
+down  the  instinct  of  self-preservation  as  the  cardinal  instinct
+of  an  organic  being.  A  living  thing  seeks  above  all  to  dis-
+charge its  strength — ^life  itself  is  Will  to  Power;  self-preser-
+vation is  only  one  of  the  indirect  and  most  frequent  results>
+
+BEYOND   GOOD  AND  EVIL  i^
+
+thereof.  In  short,  here,  as  everywhere  else,  let  us  beware  of
+superfluous  teleological  principles! — one  of  which  is  the  in-
+stinct of  self-preservation  (we  owe  it  to  Spinoza's  inconsist-
+ency) .  It  is  thus,  in  effect,  that  method  ordains,  which  must
+be  essentially  economy  of  principles.
+
+14
+
+It  is  perhaps  just  dawning  on  five  or  six  minds  that  nat~
+ural  philosophy  is  only  a  world-exposition  and  world-ar-
+rangement (according  to  us,  if  I  may  say  so!)  and  not  a
+world-explanation;  but  in  so  far  as  it  is  based  on  belief  in
+the  senses,  it  is  regarded  as  more,  and  for  a  long  time  to
+come  must  be  regarded  as  more — namely,  as  an  explanation.
+It  has  eyes  and  fingers  of  its  own,  it  has  ocular  evidence
+and  palpableness  of  its  own:  this  operates  fascinatingly,  per-
+suasively, and  convincingly  upon  an  age  with  fundamentally
+plebeian  tastes — in  fact,  it  follows  instinctively  the  canon
+of  trutli  of  eternal  popular  sensualism.  "What  is  clear,  what
+is  "explained"?  Only  that  which  can  be  seen  and  felt — one
+must  pursue  every  problem  thus  far.  Obversely,  however,
+the  charm  of  the  Platonic  mode  of  thought,  which  was  an
+aristocratic  mode,  consisted  precisely  in  resistance  to  obvious
+sense-evidence — perhaps  among  men  who  enjoyed  even
+stronger  and  more  fastidious  senses  than  our  contemporaries,
+but  who  knew  how  to  find  a  higher  triumph  in  remaining
+masters  of  them:  and  this  by  means  of  pale,  cold,  grey  con-
+ceptional  networks  which  they  threw  over  the  motley  whirl
+of  the  senses — the  mob  of  the  senses,  as  Plato  said.  In  this
+overcoming  of  the  world,  and  interpreting  of  the  world  in
+the  manner  of  Plato,  there  was  an  enjoyment  different  from
+that  which  the  physicists  of  to-day  offer  us — and  likewise
+the  Darwinists  and  antiteleologists  among  the  physiological
+
+1 6  BEYOND  GOOD  AND  EVIL
+
+workers,  with  their  principle  of  the  "smallest  possible  effort,"
+and  the  greatest  possible  blunder.  "Where  there  is  nothing
+more  to  see  or  to  grasp,  there  is  also  nothing  more  for  men
+to  do" — that  is  certainly  an  imperative  different  from  the
+Platonic  one,  but  it  may  notwithstanding  be  the  right  im-
+perative for  a  hardy,  labourious  race  of  machinists  and
+bridge-builders  of  the  future,  who  have  nothing  but  rough
+work  to  perform.
+
+IS
+
+To  study  physiology  with  a  clear  conscience,  one  must
+insist  on  the  fact  that  the  sense-organs  are  not  phenomena  in
+the  sense  of  the  idealistic  philosophy;  as  such  they  certainly
+could  not  be  causes!  Sensualism,  therefore,  at  least  as  regu-
+lative hypothesis,  if  not  as  heuristic  principle.  What?  And
+others  say  even  that  the  external  world  is  the  work  of  our
+organs?  But  then  our  body,  as  a  part  of  this  external  world,
+would  be  the  work  of  our  organs!  But  then  our  organs
+themselves  would  be  the  work  of  our  organs!  It  seems  to
+me  that  this  is  a  complete  reductio  ad  absurdum,  if  the  con-
+ception causa  sui  is  something  fundamentally  absurd.  Con-
+sequently, the  external  world  is  not  the  work  of  our  organs — ?
+
+i6
+
+There  are  still  harmless  self-observers  who  believe  that
+there  are  "immediate  certainties";  for  instance,  "I  think,"
+or  as  the  superstition  of  Schopenhauer  puts  it,  "I  will";  as
+though  cognition  here  got  hold  of  its  object  purely  and  simply
+as  "the  thing  in  itself,"  without  any  falsification  taking  place
+either  on  the  part  of  the  subject  or  the  object.  I  would
+repeat  it,  however,  a  hundred  times,  that  "immediate  cer-
+
+BEYOND   GOOD  AND  EVIL  17
+
+tainty,"  as  well  as  "absolute  knowledge"  and  the  "thing  in
+itself,"  involve  a  contradictio  in  adjecto;  we  really  ought  to
+free  ourselves  from  the  misleading  significance  of  words!
+The  people  on  their  part  may  think  that  cognition  is  knowing
+all  about  things,  but  the  philosopher  must  say  to  himself:
+"When  I  analyse  the  process  that  is  expressed  in  the  sen-
+tence, 'I  think,'  I  find  a  whole  series  of  daring  assertions,  the
+argumentative  proof  of  which  would  be  difficult,  perhaps
+impossible:  for  instance,  that  it  is  /  who  think,  that  there
+must  necessarily  be  something  that  thinks,  that  thinking  is
+an  activity  and  operation  on  the  part  of  a  being  who  is
+thought  of  as  a  cause,  that  there  is  an  'ego,'  and  finally,  that
+it  is  already  determined  what  is  to  be  designated  by  thinking
+— that  I  know  what  thinking  is.  For  if  I  had  not  already
+decided  within  myself  what  it  is,  by  what  standard  could  I
+determine  whether  that  which  is  just  happening  is  not  perhaps
+'willing'  or  'feeling'?  In  short,  the  assertion  'I  think,'  as-
+sumes that  I  compare  my  state  at  the  present  moment  with
+other  states  of  myself  which  I  know,  in  order  to  determine
+what  it  is;  on  accoimt  of  this  retrospective  connection  with
+further  'knowledge,'  it  has,  at  any  rate,  no  immediate  cer-
+tainty for  me." — In  place  of  the  "immediate  certainty"  in
+which  the  people  may  believe  in  the  special  case,  the  philoso-
+pher thus  finds  a  series  of  ^netaphysical  questions  presented
+to  him,  veritable  conscience  questions  of  the  intellect,  to  wit:
+"From  whence  did  I  get  the  notion  of  'thinking'?  Why  do
+I  believe  in  cause  and  effect?  What  gives  me  the  right  to
+speak  of  an  'ego,'  and  even  of  an  'ego'  as  cause,  and  finally
+of  an  'ego'  as  cause  of  thought?"  He  who  ventures  to  an-
+swer these  metaphysical  questions  at  once  by  an  appeal  to
+a  sort  of  intuitive  perception,  like  the  person  who  says,  "I
+think,  and  know  that  this,  at  least,  is  true,  actual,  and  cer-
+tain"— will  encounter  a  smile  and  two  notes  of  interrogation
+
+1 8  BEYOND  GOOD  AND  EVIL
+
+in  a  philosopher  nowadays.  "Sir,"  the  philosopher' will  per-
+haps give  him  to  understand,  "it  is  improbable  that  you  are
+not  mistaken,  but  why  should  it  be  the  truth?"
+
+17
+
+With  regard  to  the  superstitions  of  logicians,  I  shall  never
+tire  of  emphasising  a  small,  terse  fact,  which  is  unwillingly
+recognised  by  these  credulous  minds — namely,  that  a  thought
+comes  when  "it"  wishes,  and  not  when  "I"  wish;  so  that  it
+is  a  perversion  of  the  facts  of  the  case  to  say  that  the  subject
+"I"  is  the  condition  of  the  predicate  "think."  One  thinks;
+but  that  this  "one"  is  precisely  the  famous  old  "ego,"  is,
+to  put  it  mildly,  only  a  supposition,  an  assertion,  and  as-
+suredly not  an  "immediate  certainty."  After  all,  one  has
+even  gone  too  far  with  this  "one  thinks" — even  the  "one"
+contains  an  interpretation  of  the  process,  and  does  not  be-
+long to  the  process  itself.  One  infers  here  according  to  the
+usual  grammatical  formula — "To  think  is  an  activity;  every
+activity  requires  an  agency  that  is  active;  consequently"  .  .  .
+It  was  pretty  much  on  the  same  lines  that  the  older  atomism
+sought,  besides  the  operating  "power,"  the  material  particle
+wherein  it  resides  and  out  of  which  it  operates — the  atom.
+More  rigourous  minds,  however,  learnt  at  last  to  get  along
+without  this  "earth-residuum,"  and  perhaps  some  day  we
+shall  accustom  ourselves,  even  from  the  logician's  point  of
+view,  to  get  along  without  the  little  "one"  (to  which  thdj
+worthy  old  "ego"  has  refined  itself).
+
+18
+
+It  is  certainly  not  the  least  charm  of  a  theory  that  it  is
+refutable;  it  is  precisely  thereby  that  it  attracts  the  more
+
+BEYOND   GOOD  AND  EVIL  i^
+
+subtle  minds.  It  seems  that  the  hundred-times-refuted  theory
+of  the  "free  will"  owes  its  persistence  to  this  charm  alone;
+some  one  is  always  app)earing  who  feels  himself  strong  enough-
+to  refute  it.
+
+19
+
+Philosophers  are  accustomed  to  speak  of  the  will  as  though
+it  were  the  best-known  thing  in  the  world;  indeed,  Schopen-
+hauer has  given  us  to  understand  that  the  will  alone  is  really
+known  to  us,  absolutely  and  completely  known,  without  de-
+duction or  addition.  But  it  again  and  again  seems  to  me  that
+in  this  case  Schopenhauer  also  only  did  what  philosophers  are
+in  the  habit  of  doing — he  seems  to  have  adopted  a  popular
+prejudice  and  exaggerated  it.  Willing — seems  to  me  to  be
+above  all  something  complicated,  something  that  is  a  unity
+only  in  name — and  it  is  precisely  in  a  name  that  popular
+prejudice  lurks,  which  has  got  the  mastery  over  the  inade-
+quate precautions  of  philosophers  in  all  ages.  So  let  us  for
+once  be  more  cautious,  let  us  be  "unphilosophical":  let  us
+say  that  in  all  willing  there  is  firstly  a  plurality  of  sensa-
+tions, namely,  the  sensation  of  the  condition  "away  from
+which  we  go,"  the  sensation  of  the  condition  "towards  which
+we  go,"  the  sensation  of  this  "from"  and  "towards"  itself,
+and  then  besides,  an  accompanying  muscular  sensation,
+which,  even  without  our  putting  in  motion  "arms  and  legs,"
+commences  its  action  by  force  of  habit,  directly  we  *'wiH"
+anything.  Therefore,  just  as  sensations  (and  indeed  many
+kinds  of  sensations)  are  to  be  recognised  as  ingredients  of
+the  will,  so,  in  the  second  place,  thinking  is  also  to  be  recog-
+nised; in  every  act  of  the  will  there  is  a  ruling  thought; —
+and  let  us  not  imagine  it  possible  to  sever  this  thought  from
+the  "willing,"  as  if  the  will  would  then  remain  over!      In  the
+
+20  BEYOND  GOOD  AND  EVIL
+
+third  place,  the  will  is  not  only  a  complex  of  sensation  and
+thinking,  but  it  is  above  all  an  emotion,  and  in  fact  the
+emotion  of  the  command.  That  which  is  termed  "freedom
+of  the  will"  is  essentially  the  emotion  of  supremacy  in  re-
+spect to  him  who  must  obey:  "I  am  free,  'he'  must  obey" —
+this  consciousness  is  inherent  in  every  will;  and  equally  so
+the  straining  of  the  attention,  the  straight  look  which  fixes
+itself  exclusively  on  one  thing,  the  unconditional  judgment
+that  "this  and  nothing  else  is  necessary  now,"  the  inward
+certainty  that  obedience  will  be  rendered — and  whatever  else
+pertains  to  the  position  of  the  commander.  A  man  who  wills
+commands  something  within  himself  which  renders  obedience,
+or  which  he  believes  renders  obedience.  But  now  let  us
+notice  what  is  the  strangest  thing  about  the  will, — this  affair
+so  extremely  complex,  for  which  the  people  have  only  one
+name.  Inasmuch  as  in  the  given  circumstances  we  are  at  the
+same  time  the  commanding  and  the  obeying  parties,  and  as
+the  obe5dng  party  we  know  the  sensations  of  constraint,  im-
+pulsion, pressure,  resistance,  and  motion,  which  usually  com-
+mence immediately  after  the  act  of  will;  inasmuch  as,  on  the
+other  hand,  we  are  accustomed  to  disregard  this  duality,
+and  to  deceive  ourselves  about  it  by  means  of  the  synthetic
+term  "I":  a  whole  series  of  erroneous  conclusions,  and  con-
+sequently of  false  judgments  about  the  will  itself,  has  be-
+come attached  to  the  act  of  willing — to  such  a  degree  that
+he  who  wills  believes  firmly  that  willing  suffices  for  action.
+Since  fn  the  majority  of  cases  there  has  only  been  exercise  of
+will  when  the  effect  of  the  command — consequently  obedi-
+ence, and  therefore  action — was  to  be  expected,  the  appear-
+ance has  translated  itself  into  the  sentiment,  as  if  there  were
+a  necessity  of  effect;  in  a  word,  he  who  wills  believes  with
+a  fair  amount  of  certainty  that  will  and  action  are  somehow
+one;  he  ascribes  the  success,  the  carrying  out  of  the  willing,
+
+BEYOND  GOOD  AND  EVIL  21
+
+to  the  will  itself,  and  thereby  enjoys  an  increase  of  the  sensa-
+tion of  power  which  accompanies  all  success.  "Freedom  of
+Will" — that  is  the  expression  for  the  complex  state  of  de-
+light of  the  person  exercising  volition,  who  commands  and
+at  the  same  time  identifies  himself  with  the  executor  of  the
+order — who,  as  such,  enjoys  also  the  triumph  over  obstacles,
+but  thinks  within  himself  that  it  was  really  his  own  will
+that  overcame  them.  In  this  way  the  person  exercising  vo-
+lition adds  the  feelings  of  delight  of  his  successful  executive
+instruments,  the  useful  "underwills"  or  under-souls — indeed,
+our  body  is  but  a  social  structure  composed  of  many  souls — ■
+to  his  feelings  of  delight  as  commander.  L'effet  c'est  mot:
+what  happens  here  is  what  happens  in  every  well-constructed
+and  happy  commonwealth,  namely,  that  the  governing  class
+identifies  itself  with  the  successes  of  the  commonwealth.  In
+all  willing  it  is  absolutely  a  question  of  commanding  and
+obeying,  on  the  basis,  as  already  said,  of  a  social  structure
+composed  of  many  "souls";  on  which  account  a  philosopher
+should  claim  the  right  to  include  willing-as-such  within  the
+sphere  of  morals — regarded  as  the  doctrine  of  the  relations
+of  supremacy  imder  which  the  phenomenon  of  "life"  mani-
+fests itself.
+
+20
+
+That  the  separate  philosophical  ideas  are  not  anything
+optional  or  autonomously  evolving,  but  grow  up  in  connection
+and  relationship  with  each  other;  that,  however  suddenly
+and  arbitrarily  they  seem  to  appear  in  the  history  of  thought,
+they  nevertheless  belong  just  as  much  to  a  system  as  the
+collective  members  of  the  fauna  of  a  Continent — is  betrayed
+in  the  end  by  the  circumstance:  how  unfailingly  the  most
+diverse  philosophers  always  fill  in  again  a  definite  funda-
+
+2  2  BEYOND  GOOD  AND  EVIL
+
+mental  scheme  of  possible  philosophies.  Under  an  invisible
+spell,  they  always  revolve  once  more  in  the  same  orbit;
+however  independent  of  each  other  they  may  feel  them-
+selves with  their  critical  or  systematic  wills,  something  within
+them  leads  them,  something  impels  them  in  definite  order  the
+one  after  the  other — to  wit,  the  innate  methodology  and  re-
+lationship of  their  ideas.  Their  thinking  is,  in  fact,  far  less
+a  discovery  than  a  re-recognising,  a  remembering,  a  return
+and  a  home-coming  to  a  far-off,  ancient  common-household
+of  the  soul,  out  of  which  those  ideas  formerly  grew:  philoso-
+phising is  so  far  a  kind  of  atavism  of  the  highest  order.  The
+wonderful  family  resemblance  of  all  Indian,  Greek,  and
+German  philosophising  is  easily  enough  explained.  In  fact,
+where  there  is  affinity  of  language,  owing  to  the  common
+philosophy  of  grammar — I  mean  owing  to  the  unconscious
+domination  and  guidance  of  similar  grammatical  functions —
+it  cannot  but  be  that  everything  is  prepared  at  the  outset
+for  a  similar  development  and  succession  of  philosophical
+systems;  just  as  the  way  seems  barred  against  certain  other
+possibilities  of  world-interpretation.  It  is  highly  probable
+that  philosophers  within  the  domain  of  the  Ural-Altaic  lan-
+guages (where  the  conception  of  the  subject  is  least  de-
+veloped) look  otherwise  "into  the  world,"  and  will  be  found
+on  paths  of  thought  different  from  those  of  the  Indo  Ger-
+mans and  Mussulmans,  the  spell  of  certain  grammatical
+functious  is  ultimately  also  the  spell  of  physiological  valua-
+tions and  racial  conditions. — So  much  by  way  of  rejecting
+Locke's  superficiality  with  regard  to  the  origin  of  ideas.
+
+BEYOND   GOOD  AND  EVIL  33
+
+21
+
+The  causa  sui  is  the  best  self-contradiction  that  has  yet
+been  conceived,  it  is  a  sort  of  logical  violation  and  unnatural-
+ness;  but  the  extravagant  pride  of  man  has  managed  to
+entangle  itself  profoundly  and  frightfully  with  this  very
+folly.  The  desire  for  "freedom  of  will"  in  the  superlative,
+metaphysical  sense,  such  as  still  holds  sway,  unfortunately,
+in  the  minds  of  the  half-educated,  the  desire  to  bear  the
+entire  and  ultimate  responsibility  for  one's  actions  oneself,
+and  to  absolve  God,  the  world,  ancestors,  chance,  and  society
+therefrom,  involves  nothing  less  than  to  be  precisely  this
+causa  sui,  and,  with  more  than  Munchausen  daring,  to  pull
+oneself  up  into  existence  by  the  hair,  out  of  the  slough  of
+nothingness.  If  any  one  should  find  out  in  this  manner  the
+crass  stupidity  of  the  celebrated  conception  of  "free  will"
+and  put  it  out  of  his  head  altogether,  I  beg  of  him  to  carry
+his  "enlightenment"  a  step  further,  and  also  put  out  of  his
+head  the  contrary  of  this  monstrous  conception  of  "free
+will":  I  mean  "non-free  will,"  which  is  tantamoimt  to  a
+misuse  of  cause  and  effect.  One  should  not  wrongly  mate-
+rialise  "cause"  and  "effect,"  as  the  natural  philosophers  da
+(and  whoever  like  them  naturalise  in  thinking  at  present),
+according  to  the  prevailing  mechanical  doltishness  which
+makes  the  cause  press  and  push  until  it  "effects"  its  end;
+one  should  use  "cause"  and  "effect"  only  as  pure  concep-
+tions, that  is  to  say,  as  conventional  fictions  for  the  purpose
+of  designation  and  mutual  understanding, — not  for  explana-
+tion. In  "being-in-itself"  there  is  nothing  of  "casual-con-
+nection," of  "necessity,"  or  of  "psychological  non-freedom;
+there  the  effect  does  not  follow  the  cause,  there  "law"  does
+not  obtain.    It  is  we  alone  who  have  devised  cause,  sequence^
+
+24  BEYOND  GOOD  AND  EVIL
+
+reciprocity,  relativity,  constraint,  number,  law,  freedom,  mo-
+tive, and  purpose;  and  when  we  interpret  and  intermix  this
+symbol- world,  as  "being  in  itself,"  with  things,  we  act  once
+more  as  we  have  always  acted — mythologically.  The  "non-
+free  will"  is  mythology;  in  real  life  it  is  only  a  question  of
+strong  and  weak  wills. — It  is  almost  always  a  symptom  of
+what  is  lacking  in  himself,  when  a  thinker,  in  every  "casual-
+connection"  and  "psychological  necessity,"  manifests  some-
+thing of  compulsion,  indigence,  obsequiousness,  oppression,
+and  non-freedom;  it  is  suspicious  to  have  such  feelings — the
+person  betrays  himself.  And  in  general,  if  I  have  observed
+correctly,  the  "non-freedom  of  the  will"  is  regarded  as  a
+problem  from  two  entirely  opposite  standpoints,  but  always
+in  a  profoundly  personal  manner:  some  will  not  give  up
+their  "responsibility,"  their  belief  in  themselves,  the  personal
+right  to  their  merits,  at  any  price  (the  vain  races  belong  to
+this  class) ;  others  on  the  contrary,  do  not  wish  to  be  answer-
+able for  anything,  or  blamed  for  anything,  and  owing  to  an
+inward  self-contempt,  seek  to  get  out  of  the  business,  no
+matter  how.  The  latter,  when  they  write  books,  are  in  the
+habit  at  present  of  taking  the  side  of  criminals;  a  sort  of
+socialistic  sympathy  is  their  favourite  disguise.  And  as  a
+matter  of  fact,  the  fatalism  of  the  weak-willed  embellishes
+itself  surprisingly  when  it  can  pose  as  "la  religion  de  la  souf-
+jrance  humaine";  that  is  its  "good  taste."
+
+22
+
+Let  me  be  pardoned,  as  an  old  philologist  who  cannot
+desist  from  the  mischief  of  putting  his  finger  on  bad  modes
+of  interpretation,  but  "Nature's  conformity  to  law,"  of  which
+you  physicists  talk  so  proudly,  as  though — why,  it  exists  only
+owing  to  your  interpretation  and  bad  "philology."    It  is  no
+
+BEYOND   GOOD  AND  EVIL  35
+
+matter  of  fact,  no  "text,"  but  rather  just  a  naively  humani-
+tarian adjustment  and  perversion  of  meaning,  with  which
+you  make  abundant  concessions  to  the  democratic  instincts
+of  the  modem  soul!  "Everywhere  equality  before  the  law —
+Nature  is  not  different  in  that  respect,  nor  better  than  we:"
+a  fine  instance  of  secret  motive,  in  which  the  vulgar  antago-
+nism to  everything  privileged  and  autocratic — likewise  a
+second  and  more  refined  atheism — is  once  more  disguised.
+"Ni  dieu,  ni  maitre" — that,  also,  is  what  you  want;  and
+therefore  "Cheers  for  natural  law!" — is  it  not  so?  But,  as
+has  been  said,  that  is  interpretation,  not  text;  and  somebody
+might  come  along,  who,  with  opposite  intentions  and  modes
+of  interpretation,  could  read  out  of  the  same  "Nature,"  and
+with  regard  to  the  same  phenomena,  just  the  tyrannically
+inconsiderate  and  relentless  enforcement  of  the  claims  of
+power — an  interpreter  who  should  so  place  the  unexceptional-
+ness  and  unconditionalness  of  all  "Will  to  Power"  before
+your  eyes,  that  almost  every  word,  and  the  word  "tyranny'*
+itself,  would  eventually  seem  imsuitable,  or  like  a  weakening
+and  softening  metaphor — as  being  too  human;  and  who
+should,  nevertheless,  end  by  asserting  the  same  about  this
+world  as  you  do,  namely,  that  it  has  a  "necessary"  and  "cal-
+culable" course,  not,  however,  because  laws  obtain  in  it,  but
+because  they  are  absolutely  lacking,  and  every  power  effects
+its  ultimate  consequences  every  moment.  Granted  that  this
+also  is  only  interpretation — and  you  will  be  eager  enough  to
+make  this  objection? — well,  so  much  the  better.
+
+23
+
+All  psychology  hitherto  has  run  aground  on  moral  pre-
+judices and  timidities,  it  has  not  dared  to  launch  out  into
+the  depths.    In  so  far  as  it  is  allowable  to  recognise  in  that
+
+26  BEYOND  GOOD  AND  EVIL
+
+which  has  hitherto  been  written,  evidence  of  that  which  has
+hitherto  been  kept  silent,  it  seems  as  if  nobody  had  yef
+harboured  the  notion  of  psychology  as  the  Morphology  and
+Development-doctrine  of  the  Will  to  Power,  as  I  conceive
+of  it.  The  power  of  moral  prejudices  has  penetrated  deeply
+fnto  the  most  intellectual  world,  the  world  apparently  most
+indifferent  and  unprejudiced,  and  has  obviously  operated
+In  an  injiuious,  obstructive,  blinding,  and  distorting  manner.
+A  proper  physio-psychology  has  to  contend  with  unconscious
+antagonism  in  the  heart  of  the  investigator,  it  has  "the
+heart"  against  it:  even  a  doctrine  of  the  reciprocal  condi-
+tionalness  of  the  "good"  and  the  "bad"  impulses,  causes  (as
+refined  immorality)  distress  and  aversion  in  a  still  strong
+and  manly  conscience — still  more  so,  a  doctrine  of  the  deriva-
+tion  of  all  good  impulses  from  bad  ones.  If,  however,  a
+person  should  regard  even  the  emotions  of  hatred,  envy,
+covetousness,  and  imperiousness  as  life-conditioning  emo-
+tions, as  factors  which  must  be  present,  fundamentally  and
+essentially,  in  the  general  economy  of  life  (which  must,  there-
+fore, be  further  developed  if  life  is  to  be  further  developed),
+he  will  suffer  from  such  a  view  of  things  as  from  sea-sickness.
+And  yet  this  hypothesis  is  far  from  being  the  strangest  and
+most  painful  in  this  immense  and  almost  new  domain  of
+dangerous  knowledge;  and  there  are  in  fact  a  hundred  good
+reasons  why  every  one  should  keep  away  from  it  who  can
+do  so!  On  the  other  hand,  if  one  has  once  drifted  hither
+with  one's  bark,  well!  very  good!  now  let  us  set  our  teeth
+firmly!  let  us  open  our  eyes  and  keep  our  hand  fast  on  the
+helm!  We  sail  away  right  over  morality,  we  crush  out,  we
+destroy  perhaps  the  remains  of  our  own  morality  by  daring
+to  make  our  voyage  thither — ^but  what  do  we  matter!  Never
+yet  did  a  projounder  world  of  insight  reveal  itself  to  daring
+travellers  and  adventurers,  and  the  psychologist  who  thus
+
+BEYOND   GOOD  AND   EVIL  27
+
+"makes  a  sacrifice" — it  is  not  the  sacrifizio  dell'  intelletto,
+on  the  contrary! — will  at  least  be  entitled  to  demand  in  re-
+turn that  psychology  shall  once  more  be  recognised  as  the
+queen  of  the  sciences,  for  whose  service  and  equipment  the
+other  sciences  exist.  For  psychology  is  once  more  the  path
+to  the  fundamental  problems.
+
+I
+
+CHAPTER  II
+
+The  Free  Spirit
+
+24
+
+0  sancta  simplicitas!  In  what  strange  simplification  and
+falsification  man  lives!  One  can  never  cease  wondering  when
+once  one  has  got  eyes  for  beholding  this  marvel!  How  we
+have  made  everything  around  us  clear  and  free  and  easy
+and  simple!  how  we  have  been  able  to  give  our  senses  a
+passport  to  everything  superficial,  our  thoughts  a  god-like
+desire  for  wanton  pranks  and  wrong  inferences! — how  from
+the  beginning,  we  have  contrived  to  retain  our  ignorance  in
+order  to  enjoy  an  almost  inconceivable  freedom,  thought-
+lessness, imprudence,  heartiness,  and  gaiety — in  order  to
+enjoy  life!  And  only  on  this  solidified,  granite-like  founda-
+tion of  ignorance  could  knowledge  rear  itself  hitherto,  the
+will  to  knowledge  on  the  foundation  of  a  far  more  powerful
+will,  the  will  to  ignorance,  to  the  uncertain,  to  the  untrue!
+Not  as  its  opposite,  but — as  its  refinement!  It  is  to  be
+hoped,  indeed,  that  language,  here  as  elsewhere,  will  not  get
+over  its  awkwardness,  and  that  it  will  continue  to  talk  of
+opposites  where  there  are  only  degrees  and  many  refinements
+of  gradation;  it  is  equally  to  be  hoped  that  the  incarnated
+Tartuffery  of  morals,  which  now  belongs  to  our  unconquer-
+able "flesh  and  blood,"  will  turn  the  words  round  in  the
+
+28
+
+BEYOND   GOOD  AND   EVIL  29
+
+mouths  of  us  discerning  ones.  Here  and  there  we  under-
+stand it,  and  laugh  at  the  way  in  which  precisely  the  best
+knowledge  seeks  most  to  retain  us  in  this  simplified,  thor-
+oughly artificial,  suitably  imagined  and  suitably  falsified
+world:  at  the  way  in  which,  whether  it  will  or  not,  it  loves
+error,  because,  as  living  itself,  it  loves  life!
+
+25
+
+After  such  a  cheerful  commencement,  a  serious  word
+would  fain  be  heard;  it  appeals  to  the  most  serious  minds.
+Take  care,  ye  philosophers  and  friends  of  knowledge,  and
+beware  of  martyrdom!  Of  suffering  ''for  the  truth's  sake"!
+even  in  your  own  defence!  It  spoils  all  the  innocence  and
+fine  neutrality  of  your  conscience;  it  makes  you  headstrong
+against  objections  and  red  rags;  it  stupefies,  animalises,  and
+brutalises,  when  in  the  struggle  with  danger,  slander,  sus-
+picion, expulsion,  and  even  worse  consequences  of  enmity,
+ye  have  at  last  to  play  your  last  card  as  protectors  of  truth
+upon  earth — as  though  "the  Truth"  were  such  an  innocent
+and  incompetent  creature  as  to  require  protectors!  and  you
+of  all  people,  ye  knights  of  the  sorrowful  countenance,
+Messrs  Loafers  and  Cobweb-spinners  of  the  spirit!  Finally,
+ye  know  sufficiently  well  that  it  cannot  be  of  any  consequence
+if  ye  just  carry  your  point;  ye  know  that  hitherto  no  philoso-
+pher has  carried  his  point,  and  that  there  might  be  a  more
+laudable  truthfulness  in  every  little  interrogative  mark  which
+you  place  after  your  special  words  and  favourite  doctrines
+(and  occasionally  after  yourselves)  than  in  all  the  solemn
+pantomime  and  trumping  games  before  accusers  and  law-
+courts!  Rather  go  out  of  the  way!  Flee  into  concealment!
+And  have  your  masks  and  your  ruses,  that  ye  may  be  mis-
+taken for  what  you  are,  or  somewhat  feared!     And  pray,
+
+30  BEYOND  GOOD  AND  EVIL
+
+don't  forget  the  garden,  the  garden  with  golden  trellis- work!
+And  have  people  around  you  who  are  as  a  garden — or  as
+music  on  the  waters  at  eventide,  when  already  the  day  be-
+comes a  memory.  Choose  the  good  solitude,  the  free,  wan-
+ton, lightsome  solitude,  which  also  gives  you  the  right  still
+to  remain  good  in  any  sense  whatsoever!  How  poisonous,
+how  crafty,  how  bad,  does  every  long  war  make  one,  which
+cannot  be  waged  openly  by  means  of  force!  How  personal
+does  a  long  fear  make  one,  a  long  watching  of  enemies,  of
+possible  enemies!  These  pariahs  of  society,  these  long-
+pursued,  badly-persecuted  ones — also  the  compulsory  re-
+cluses, the  Spinozas  or  Giordano  Brunos — always  become
+in  the  end,  even  under  the  most  intellectual  masquerade,  and
+perhaps  without  being  themselves  aware  of  it,  refined  ven-
+geance-seekers and  poison-brewers  (just  lay  bare  the  founda-
+tion of  Spinoza's  ethics  and  theology!),  not  to  speak  of  the
+stupidity  of  moral  indignation,  which  is  the  unfailing  sign
+in  a  philosopher  that  the  sense  of  philosophical  humour
+has  left  him.  The  martyrdom  of  the  philosopher,  his  "sacri-
+fice for  the  sake  of  truth,"  forces  into  the  light  whatever  of
+the  agitator  and  actor  lurks  in  him;  and  if  one  has  hitherto
+contemplated  him  only  with  artistic  curiosity,  with  regard
+to  many  a  philosopher  it  is  easy  to  understand  the  dangerous
+desire  to  see  him  also  in  his  deterioration  (deteriorated  into  a
+"martyr,"  into  a  stage-  and  tribune-bawler) .  Only,  that  it
+is  necessary  with  such  a  desire  to  be  clear  what  spectacle
+one  will  see  in  any  case — merely  a  satyric  play,  merely  an
+epilogue  farce,  merely  the  continued  proof  that  the  long,  real
+tragedy  is  at  an  end,  supposing  that  every  philosophy  has
+been  a  long  tragedy  in  its  origin.
+
+f  1
+
+BEYOND   GOOD  AND  EVIL  31
+
+26
+
+Every  select  man  strives  instinctively  for  a  citadel  and  a
+privacy,  where  he  is  free  from  the  crowd,  the  many,  the  ma-
+jority— where  he  may  forget  "men  who  are  the  rule,"  as
+their  exception; — exclusive  only  of  the  case  in  which  he  is
+pushed  straight  to  such  men  by  a  still  stronger  instinct,  as
+a  discemer  in  the  great  and  exceptional  sense.  Whoever,  in
+intercourse  with  men,  does  not  occasionally  glisten  in  all
+the  green  and  grey  colours  of  distress,  owing  to  disgust,
+satiety,  sympathy,  gloominess  and  solitariness,  is  assuredly
+not  a  man  of  elevated  tastes;  supposing,  however,  that  he
+does  not  voluntarily  take  all  this  burden  and  disgust  upon
+himself,  that  he  persistently  avoids  it,  and  remains,  as  I  said,
+quietly  and  proudly  hidden  in  his  citadel,  one  thing  is  then
+certain:  he  was  not  made,  he  was  not  predestined  for  knowl-
+edge. For  as  such,  he  would  one  day  have  to  say  to  him-
+self: ''The  devil  take  my  good  taste!  but  'the  rule'  is  more
+interesting  than  the  exception — than  myself,  the  exception ! "
+And  he  would  go  down,  and  above  all,  he  would  go  "inside."
+The  long  and  serious  study  of  the  average  man — and  conse-
+quently much  disguise,  self-overcoming,  familiarity,  and  bad
+intercourse  (all  intercourse  is  bad  intercourse  except  with
+one's  equals) : — that  constitutes  a  necessary  part  of  the  life-
+history  of  every  philosopher;  perhaps  the  most  disagreeable,
+odious,  and  disappointing  part.  If  he  is  fortunate,  however,
+as  a  favourite  child  of  knowledge  should  be,  he  will  meet
+with  suitable  auxiliaries  who  will  shorten  and  lighten  his  task;
+I  mean  so-called  cynics,  those  who  simply  recognise  the  ani-
+mal, the  common-place  and  "the  rule"  in  themselves,  and  at
+the  same  time  have  so  much  spirituality  and  ticklishness  as
+to  make  them  talk  of  themselves  and  their  like  before  wit-
+
+32  BEYOND  GOOD  AND  EVIL
+
+nesse^ — sometimes  they  wallow,  even  in  books,  as  on  their
+own  dung-hill.  Cynicism  is  the  only  form  in  which  base
+souls  approach  what  is  called  honesty;  and  the  higher  man
+must  open  his  ears  to  all  the  coarser  or  finer  cynicism,  and
+congratulate  himself  when  the  clown  becomes  shameless  right
+before  him,  or  the  scientific  satyr  speaks  out.  There  are
+even  cases  where  enchantment  mixes  with  the  disgust —
+namely,  where  by  a  freak  of  nature,  genius  is  bound  to
+some  such  indiscreet  billy-goat  and  ape,  as  in  the  case  of
+the  Abbe  Galiani,  the  profoundest,  acutest,  and  perhaps  also
+filthiest  man  of  his  century — he  was  far  profounder  than
+Voltaire,  and  consequently  also,  a  good  deal  more  silent.
+It  happens  more  frequently,  as  has  been  hinted,  that  a  scien-
+tific head  is  placed  on  an  ape's  body,  a  fine  exceptional
+understanding  in  a  base  soul,  an  occurrence  by  no  means
+rare,  especially  amongst  doctors  and  moral  physiologists.
+And  whenever  anyone  speaks  without  bitterness,  or  rather
+quite  innocently  of  man,  as  a  belly  with  two  requirements,
+and  a  head  with  one;  whenever  any  one  sees,  seeks  and  wants
+to  see  only  hunger,  sexual  instinct,  and  vanity  as  the  real
+and  only  motives  of  human  actions;  in  short,  when  any  one
+speaks  "badly" — and  not  even  "ill" — of  man,  then  ought  the
+lover  of  knowledge  to  hearken  attentively  and  diligently;
+he  ought,  in  general,  to  have  an  open  ear  wherever  there  is
+talk  without  indignation.  For  the  indignant  man,  and  he
+who  perpetually  tears  and  lacerates  himself  with  his  own
+teeth  (or,  in  place  of  himself,  the  world,  God,  or  society),
+may  indeed,  morally  speaking,  stand  higher  than  the  laugh-
+ing and  self-satisfied  satyr,  but  in  every  other  sense  he  is  the
+more  ordinary,  more  indifferent,  and  less  instructive  case.
+And  no  one  is  such  a  liar  as  the  indignant  man.
+
+BEYOND  GOOD  AND  EVIL  ss
+
+27
+
+It  is  difficult  to  be  understood,  especially  when  one  thinks
+and  lives  gangasrotogati*  among  those  only  who  think  and
+live  otherwise — namely,  kurmagati,^  or  at  best  "froglike,"
+mandeikagati%  (I  do  everything  to  be  "difficultly  understood"
+myself!) — and  one  should  be  heartily  grateful  for  the  good
+will  to  some  refinement  of  interpretation.  As  regards  "the
+good  friends,"  however,  who  are  always  too  easy-going,  and
+think  that  as  friends  they  have  a  right  to  ease,  one  does
+well  at  the  very  first  to  grant  them  a  play-ground  and  romp-
+ing-place  for  misunderstanding — one  c£m  thus  laugh  still;  or
+get  rid  of  them  altogether,  these  good  friends — and  laugh
+then  also!
+
+28
+
+What  is  most  difficult  to  render  from  one  language  into
+another  is  the  tempo  of  its  style,  which  has  its  basis  in  the
+character  of  the  race,  or  to  speak  more  physiologically,  in
+the  average  tempo  of  the  assimilation  of  its  nutriment.    There
+are  honestly  meant  translations,  which,  as  involuntary  vul-
+garisations, are  almost  falsifications  of  the  original,  merely
+^because  its  lively  and  merry  tempo  (which  overleaps  and  ob-
+dates  all  dangers  in  word  and  expression)  could  not  also  be
+'rendered.    A  German  is  almost  incapacitated  for  presto  in
+^his  language;  consequently  also,  as  may  be  reasonably  in-
+ferred, for  many  of  the  most  delightful  and  daring  nuances
+3f  free,  free-spirited  thought.    And  just  as  the  buffoon  and
+ityr  are  foreign  to  him  in  body  and  conscience,  so  Aristo-
+
+*  Like  the  river  Ganges :  presto
+
+fLike  the  tortoise:  lento.     ^Like  the  frog:  staccato.
+
+34  BEYOND  GOOD  AND  EVIL
+
+phanes  and  Petronius  are  untranslatable  for  him.  Every-
+thing ponderous,  viscous,  and  pompously  clumsy,  all  long-
+winded  and  wearying  species  of  style,  are  developed  in  pro-
+fuse variety  among  Germans — pardon  me  for  stating  the  fact
+that  even  Goethe's  prose,  in  its  mixture  of  stiffness  and  ele-
+gance, is  no  exception,  as  a  reflection  of  the  "good  old  time"
+to  which  it  belongs,  and  as  an  expression  of  German  taste
+at  a  time  when  there  was  still  a  "German  taste,"  which  was
+a  rococo-taste  in  moribus  et  artibus.  Lessing  is  an  excep-
+tion, owing  to  his  histrionic  nature,  which  understood  much,
+and  was  versed  in  many  things;  he  who  was  not  the  trans-
+lator of  Bayle  to  no  purpose,  who  took  refuge  willingly  in
+the  shadow  of  Diderot  and  Voltaire,  and  still  more  willingly
+among  the  Roman  comedy-writers — Lessing  loved  also  free-
+spiritism  in  the  tempo,  and  flight  out  of  Germany.  But  how
+could  the  German  language,  even  in  the  prose  of  Lessing,
+imitate  the  tempo  of  Machiavelli,  who  in  his  "Principe"
+makes  us  breathe  the  dry,  fine  air  of  Florence,  and  cannot
+help  presenting  the  most  serious  events  in  a  boisterous  alle-
+grissimo,  perhaps  not  without  a  malicious  artistic  sense  of
+the  contrast  he  ventures  to  present — long,  heavy,  difficult,
+dangerous  thoughts,  and  a  tempo  of  the  gallop,  and  of  the
+best,  wantonest  humour?  Finally,  who  would  venture  on  a
+German  translation  of  Petronius,  who,  more  than  any  great
+musician  hitherto,  was  a  master  of  presto  in  invention,  ideas,
+and  words?  What  matter  in  the  end  about  the  swamps  of
+the  sick,  evil  world,  or  of  the  "ancient  world,"  when  like
+him,  one  has  the  feet  of  a  wind,  the  rush,  the  breath,  the
+emancipating  scorn  of  a  wind,  which  makes  everything
+healthy,  by  making  everything  run!  And  with  regard  to
+Aristophanes — that  transfiguring,  complementary  genius,  for
+whose  sake  one  pardons  all  Hellenism  for  having  existed,
+provided  one  has  understood  in  its  full  profundity  all  thatd
+
+I  BEYOND   GOOD  AND  EVIL  35
+
+Ihere  requires  pardon  and  transfiguration;  there  is  nothing
+that  has  caused  me  to  meditate  more  on  Plato's  secrecy  and
+sphinx-like  nature,  than  the  happily  preserved  petit  fait  that
+under  the  pillow  of  his  death-bed  there  was  found  no  "Bi-
+ble," nor  anything  Egyptian,  Pythagorean,  or  Platonic — but
+a  book  of  Aristophanes.  How  could  even  Plato  have  en-
+dured life — a  Greek  life  which  he  repudiated — without  an
+Aristophanes!
+
+29
+
+It  is  the  business  of  the  very  few  to  be  independent;  it  is  a
+privilege  of  the  strong.  And  whoever  attempts  it,  even  with
+the  best  right,  but  without  being  obliged  to  do  so,  proves
+that  he  is  probably  not  only  strong,  but  also  daring  beyond
+measure.  He  enters  into  a  labyrinth,  he  multiplies  a  thou-
+sandfold the  dangers  which  life  in  itself  already  brings  with
+it;  not  the  least  of  which  is  that  no  one  can  see  how  and
+where  he  loses  his  way,  becomes  isolated,  and  is  torn  piece-
+meal by  some  minotaur  of  conscience.  Supposing  such  a
+one  comes  to  grief,  it  is  so  far  from  the  comprehension  of
+men  that  they  neither  feel  it,  nor  sjonpathise  with  it.  And
+he  cannot  any  longer  go  back!  He  cannot  even  go  back
+[again  to  the  sympathy  of  men!
+
+30
+
+Our  deepest  insights  must — and  should — appear  as  fol-
+
+[lies,  and  under  certain  circumstances  as  crimes,  when  they
+
+jme  unauthorisedly  to  the  ears  of  those  who  are  not  dis-
+
+)sed  and  predestined  for  them.  The  exoteric  and  the  eso-
+[teric,  as  they  were  formerly  distinguished  by  philosophers —
+
+long  the  Indians,  as  among  the  Greeks,  Persians,  and  Mus-
+
+36  BEYOND  GOOD  AND  EVIL
+
+sulmans,  in  short,  wherever  people  believed  in  gradations  of
+rank  and  not  in  equality  and  equal  rights — are  not  so
+much  in  contradistinction  to  one  another  in  respect  to  the
+exoteric  class,  standing  without,  and  viewing,  estimating,
+measuring,  and  judging  from  the  outside,  and  not  from  the
+inside;  the  more  essential  distinction  is  that  the  class  in
+question  views  things  from  below  upwards — while  the  eso-
+teric class  views  things  jrom  above  downwards.  There  are
+heights  of  the  soul  from  which  tragedy  itself  no  longer  ap-
+pears to  operate  tragically;  and  if  all  the  woe  in  the  world
+were  taken  together,  who  would  dare  to  decide  whether  the
+sight  of  it  would  necessarily  seduce  and  constrain  to  sympa-
+thy, and  thus  to  a  doubling  of  the  woe?  .  .  .  That  which
+serves  the  higher  class  of  men  for  nourishment  or  refresh-
+ment, must  be  almost  poison  to  an  entirely  different  and
+lower  order  of  human  beings.  The  virtues  of  the  common
+man  would  perhaps  mean  vice  and  weakness  in  a  philoso-
+pher; it  might  be  possible  for  a  highly  developed  man,
+supposing  him  to  degenerate  and  go  to  ruin,  to  acquire
+qualities  thereby  alone,  for  the  sake  of  which  he  would  have
+to  be  honoured  as  a  saint  in  the  lower  world  into  which  he
+had  sunk.  There  are  books  which  have  an  inverse  value  for
+the  soul  and  the  health  according  as  the  inferior  soul  and
+the  lower  vitality,  or  the  higher  and  more  powerful,  make
+use  of  them.  In  the  former  case  they  are  dangerous,  dis-
+turbing, unsettling  books,  in  the  latter  case  they  are  herald-
+calls  which  summon  the  bravest  to  their  bravery.  Books
+for  the  general  reader  are  always  ill-smelling  books,  the
+odour  of  paltry  people  clings  to  them.  Where  the  populace
+eat  and  drink,  and  even  where  they  reverence,  it  is  accus-
+tomed to  stink.  One  should  not  go  into  churches  if  one
+wishes  to  breathe  pure  air.
+
+BEYOND   GOOD  AND  EVIL  37
+
+31
+
+i
+
+In  our  youthful  years  we  still  venerate  and  despise  with-
+out the  art  of  nuance,  which  is  the  best  gain  of  life,  and  we
+have  rightly  to  do  hard  penance  for  having  fallen  upon  men
+and  things  with  Yea  and  Nay.  Everything  is  so  arranged
+that  the  worst  of  all  tastes,  the  taste  for  the  unconditional,
+is  cruelly  befooled  and  abused,  until  a  man  learns  to  intro-
+duce a  little  art  into  his  sentiments,  and  prefers  to  try  con-
+clusions with  the  artificial,  as  do  the  real  artists  of  life.
+The  angry  and  reverent  spirit  peculiar  to  youth  appears  to
+allow  itself  no  peace,  until  it  has  suitably  falsified  men  and
+things,  to  be  able  to  vent  its  passion  upon  them:  youth  in
+itself  even,  is  something  falsifying  and  deceptive.  Later  on,
+when  the  young  soul,  tortured  by  continual  disillusions,
+finally  turns  suspiciously  against  itself — still  ardent  and  sav-
+age even  in  its  suspicion  and  remorse  of  conscience:  how  it
+upbraids  itself,  how  impatiently  it  tears  itself,  how  it  re-
+venges itself  for  its  long  self-blinding,  as  though  it  had  been
+a  voluntary  blindness!  In  this  transition  one  punishes  one-
+self by  distrust  of  one's  sentiments;  one  tortures  one's  en-
+thusiasm with  doubt,  one  feels  even  the  good  conscience
+to  be  a  danger,  as  if  it  were  the  self-concealment  and  lassi-
+tude of  a  more  refined  uprightness;  and  above  all,  one
+espouses  upon  principle  the  cause  against  "youth." — A  dec-
+ade later,  and  one  comprehends  that  all  this  was  also  still--
+youth!
+
+32
+
+Throughout  the  longest  period  of  human  history — one
+Us  it  the  prehistoric  period — the  value  or  none-value  of
+
+38  BEYOND  GOOD  AND  EVIL
+
+an  action  was  inferred  from  its  consequences;  the  action  in
+itself  was  not  taken  into  consideration,  any  more  than  its
+origin;  but  pretty  much  as  in  China  at  present,  where  the
+distinction  or  disgrace  of  a  child  redounds  to  its  parents,  the
+retro-operating  power  of  success  or  failure  was  what  induced
+men  to  think  well  or  ill  of  an  action.  Let  us  call  this  period
+the  pre-moral  period  of  mankind;  the  imperative,  "know
+thyself!"  was  then  still  unknown. — In  the  last  ten  thousand
+years,  on  the  other  hand,  on  certain  large  portions  of  the
+earth,  one  has  gradually  got  so  far,  that  one  no  longer  lets
+the  consequences  of  an  action,  but  its  origin,  decide  Vv'ith
+regard  to  its  worth:  a  great  achievement  as  a  whole,  an  im-
+portant refinement  of  vision  and  of  criterion,  the  uncon-
+scious effect  of  the  supremacy  of  aristocratic  values  and  of
+the  belief  in  "origin,"  the  mark  of  a  period  which  may  be
+designated  in  the  narrower  sense  as  the  moral  one:  the  first
+attempt  at  self-knowledge  is  thereby  made.  Instead  of  the
+consequences,  the  origin — what  an  inversion  of  perspective!
+And  assuredly  an  inversion  effected  only  after  long  struggle
+and  wavering!  To  be  sure,  an  ominous  new  superstition,  a
+peculiar  narrowness  of  interpretation,  attained  supremacy
+precisely  thereby:  the  origin  of  an  action  was  interpreted
+in  the  most  definite  sense  possible,  as  origin  out  of  an
+intention;  people  were  agreed  in  the  belief  that  the  value  of
+an  action  lay  in  the  value  of  its  intention.  The  intention
+as  the  sole  origin  and  antecedent  history  of  an  action:  under
+the  influence  of  this  prejudice  moral  praise  and  blame  have
+been  bestowed,  and  men  have  judged  and  even  philoso-
+phised almost  up  to  the  present  day. — Is  it  not  possible,
+however,  that  the  necessity  may  now  have  arisen  of  again
+making  up  our  minds  with  regard  to  the  reversing  and
+fundamental  shifting  of  values,  owing  to  a  new  self-con-
+sciousness and  acuteness  in  man — is  it  not  possible  that  we
+
+BEYOND   GOOD  AND  EVIL  39
+
+may  be  standing  on  the  threshold  of  a  period  which  to  be-
+gin with,  would  be  distinguished  negatively  as  ultra-moral:
+nowadays  when,  at  least  amongst  us  immoralists,  the  sus-
+picion arises  that  the  decisive  value  of  an  action  lies  pre-
+cisely in  that  which  is  not  intentional,  and  that  all  its  inten-
+tionalness,  all  that  is  seen,  sensible,  or  "sensed"  in  it,  be-
+longs to  its  surface  or  skin — which,  like  every  sldn,  betrays
+something,  but  conceals  still  more?  In  short,  we  believe
+that  the  intention  is  only  a  sign  or  symptom,  which  first
+requires  an  explanation — a  sign,  moreover,  which  has  too
+many  interpretations,  and  consequently  hardly  any  meaning
+in  itself  alone:  that  morality,  in  the  sense  in  which  it  has
+been  understood  hitherto,  as  intention-morality,  has  been  a
+prejudice,  perhaps  a  prematureness  or  preliminariness,  prob-
+ably something  of  the  same  rank  as  astrology  and  alchemy,
+but  in  any  case  something  which  must  be  surmounted.
+The  surmounting  of  morality,  in  a  certain  sense  even  the
+self-mounting  of  morality — ^let  that  be  the  name  for  the
+long  secret  labour  which  has  been  reserved  for  the  most  re-
+fined, the  most  upright,  and  also  the  most  wicked  con-
+sciences of  to-day,  as  the  living  touchstones  of  the  soul.
+
+33
+
+It  cannot  be  helped:  the  sentiment  of  surrender,  of  sacri-
+fice for  one's  neighbour,  and  all  self-renunciation-morality,
+must  be  mercilessly  called  to  account,  and  brought  to  judg-
+ment ;  just  as  the  aesthetics  of  "disinterested  contemplation,"
+under  which  the  emasculation  of  art  nowadays  seeks  insidi-
+ously enough  to  create  itself  a  good  conscience.  There  is
+far  too  much  witchery  and  sugar  in  the  sentiments  "for
+others"  and  "not  for  myself,"  for  one  not  needing  to  be
+doubly  distrustful  here,  and  for  one  asking  promptly:     "Are
+
+40  BEYOND  GOOD  AND  EVIL
+
+they  not  perhaps — deceptions?" — That  they  please — him
+who  has  them,  and  him  who  enjoys  their  fruit,  and  also  the
+mere  spectator — that  is  still  no  argument  in  their  favour,  but
+just  calls  for  caution.    Let  us  therefore  be  cautious!
+
+34
+
+I
+
+At  whatever  standpoint  of  philosophy  one  may  place  one-
+self nowadays,  seen  from  every  position,  the  erroneousness
+of  the  world  in  which  we  think  we  live  is  the  surest  and
+most  certain  thing  our  eyes  can  light  upon:  we  find  proof
+after  proof  thereof,  which  would  fain  allure  us  into  sur-
+mises concerning  a  deceptive  principle  in  the  "nature  of
+things."  He,  however,  who  makes  thinking  itself,  and  con-
+sequently "the  spirit,"  responsible  for  the  falseness  of  the
+world — an  honourable  exit,  which  every  conscious  or  un-
+conscious advocatus  del  avails  himself  of — he  who  regards
+this  world,  including  space,  time,  form,  and  movement,  as
+falsely  deduced,  would  have  at  least  good  reason  in  the  end
+to  become  distrustful  also  of  all  thinking;  has  it  not  hith-
+erto been  playing  upon  us  the  worst  of  scurvy  tricks?  and
+what  guarantee  would  it  give  that  it  would  not  continue  to
+do  what  it  has  always  been  doing?  In  all  seriousness,  the
+innocence  of  thinkers  has  something  touching  and  respect-
+inspiring  in  it,  which  even  nowadays  permits  them  to  wait
+upon  consciousness  with  the  request  that  it  will  give  them
+honest  answers:  for  example,  whether  it  be  "real"  or  not,
+and  why  it  keeps  the  outer  world  so  resolutely  at  a  distance,
+and  other  questions  of  the  same  description.  The  belief  in
+"immediate  certainties"  is  a  moral  naivete  which  does  hon-
+our to  us  philosophers;  but — we  have  now  to  cease  being
+"merely  moral"  men!  Apart  from  morality,  such  belief  is
+a  folly  which  does  little  honour  to  us!     If  in  middle-claJj
+
+BEYOND   GOOD  AND  EVIL  41
+
+te  an  ever-ready  distrust  is  regarded  as  the  sign  of  a  "bad
+racter,"  and  consequently  as  an  imprudence,  here
+longst  us,  beyond  the  middle-class  world  and  its  Yeas  and
+fays,  what  should  prevent  our  being  imprudent  and  saying:
+ie  philosopher  has  at  length  a  right  to  "bad  character,"  as
+le  being  who  has  hitherto  been  most  befooled  on  earth —
+he  is  now  under  obligation  to  distrustfulness,  to  the  wicked-
+est squinting  out  of  every  abyss  of  suspicion. — Forgive  me.
+the  joke  of  this  gloomy  grimace  and  turn  of  expression;  for
+I  myself  have  long  ago  learned  to  think  and  estimate  differ-
+ently with  regard  to  deceiving  and  being  deceived,  and  I
+keep  at  least  a  couple  of  pokes  in  the  ribs  ready  for  the
+blind  rage  with  which  philosophers  struggle  against  being
+deceived.  Why  not?  It  is  nothing  more  than  a  moral
+prejudice  that  truth  is  worth  more  than  semblance;  it  is,  in
+fact,  the  worst  proved  supposition  in  the  world.  So  much
+must  be  conceded:  there  could  have  been  no  life  at  all  ex-
+cept upon  the  basis  of  perspective  estimates  and  semblances;
+and  if,  with  the  virtuous  enthusiasm  and  stupidity  of  many
+philosophers,  one  wished  to  do  away  altogether  with  the
+"seeming  world" — well,  granted  that  you  could  do  that, —
+at  least  nothing  of  your  "truth"  would  thereby  remain!
+Indeed,  what  is  it  that  forces  us  in  general  to  the  supposi-
+tion that  there  is  an  essential  opposition  of  "true"  and
+■"false"?  Is  it  not  enough  to  suppose  degrees  of  seeming-
+ness,  and  as  it  were  lighter  and  darker  shades  and  tones  of
+semblance — different  valeurs,  as  the  painters  say?  Why
+might  not  the  world  which  concerns  us — be  a  fiction?  And
+.to  any  one  who  suggested:  "But  to  a  fiction  belongs  an
+originator?" — might  it  not  be  bluntly  replied:  Why?  May
+not  this  "belong"  also  belong  to  the  fiction?  Is  it  not  at
+length  permitted  to  be  a  little  ironical  towards  the  subject,
+just  as  towards  the  predicate  and  object?     Might  not  the
+
+42  BEYOND  GOOD  AND  EVIL
+
+philosopher  elevate  himself  above  faith  in  grammar?  All
+respect  to  governesses,  but  is  it  not  time  that  philosc^hy
+should  renounce  governess-faith?
+
+35
+
+O  Voltaire!  O  humanity!  O  idiocy!  There  is  some-
+thing ticklish  in  "the  truth,"  and  in  the  search  for  the  truth;
+and  if  man  goes  about  it  too  humanely — "il  ne  cherche  le
+vrai  que  pour  faire  le  bien" — I  wager  he  finds  nothing!
+
+36
+
+Supposing  that  nothing  else  is  "given"  as  real  but  our
+world  of  desires  and  passions,  that  we  cannot  sink  or  rise
+to  any  other  "reality"  but  just  that  of  our  impulses — for
+thinking  is  only  a  relation  of  these  impulses  to  one  another:
+— are  we  not  permitted  to  make  the  attempt  and  to  ask  the
+question  whether  this  which  is  "given"  does  not  suffice,  by
+means  of  our  coimterparts,  for  the  understanding  even  of
+the  so-called  mechanical  (or  "material")  world?  I  do  not
+mean  as  an  illusion,  a  "semblance,"  a  "representation"  (in
+the  Berkeleyan  and  Schopenhauerian  sense),  but  as  pos-
+sessing the  same  degree  of  reality  as  our  emotions  them-
+selves— as  a  more  primitive  form  of  the  world  of  emotions,
+in  which  everything  still  lies  locked  in  a  mighty  unity,
+which  afterwards  branches  off  and  develops  itself  in  organic
+processes  (naturally  also,  refines  and  debilitates) — as  a  kind
+of  instinctive  life  in  which  all  organic  functions,  including
+self-regulation,  assimilation,  nutrition,  secretion,  and  change
+of  matter,  are  still  synthetically  united  with  one  another—
+as  a  primary  form  of  life? — ^In  the  end,  it  is  not  only  per
+mitted  to  make  this  attempt,  it  is  commanded  by  the  co:
+
+1
+
+BEYOND   GOOD  AND  EVIL  43
+
+science  of  logical  method.  Not  to  assume  several  kinds  of
+causality,  so  long  as  the  attempt  to  get  along  with  a  single
+one  has  not  been  pushed  to  its  furtherest  extent  (to  absurd-
+ity, if  I  may  be  allowed  to  say  so) :  that  is  a  morality  of
+method  which  one  may  not  repudiate  nowadays — it  follows
+"from  its  definition,"  as  mathematicians  say.  The  question
+is  ultimately  whether  we  really  recognise  the  will  as  operat-
+ing, whether  we  believe  in  the  causality  of  the  will ;  if  we  do
+so — and  fundamentally  our  belief  in  this  is  just  our  belief  in
+causality  itself — we  must  make  the  attempt  to  posit  hypo-
+thetically  the  causality  of  the  will  as  the  only  causality.
+"Will"  can  naturally  only  operate  on  "will" — and  not  on
+"matter"  (not  on  "nerves,"  for  instance) :  in  short,  the
+hypothesis  must  be  hazarded,  whether  will  does  not  operate
+on  will  wherever  "effects"  are  recognised — and  whether  all
+mechanical  action,  inasmuch  as  a  power  operates  therein,  is
+not  just  the  power  of  will,  the  effect  of  will.  Granted,
+finally,  that  we  succeeded  in  explaining  our  entire  instinc-
+tive life  as  the  development  and  ramification  of  one  funda-
+mental form  of  will — namely,  the  Will  to  Power,  as  my
+thesis  puts  it;  granted  that  all  organic  functions  could  be
+traced  back  to  this  Will  to  Power,  and  that  the  solution
+of  the  problem  of  generation  and  nutrition — it  is  one  prob-
+lem— could  also  be  found  therein:  one  would  thus  have  ac-
+quired the  right  to  define  all  active  force  unequivocally  as
+WiU  to  Power.  The  world  seen  from  within,  the  world  de-
+fined and  designated  according  to  its  "intelligible  character"
+— it  would  simply  be  "Will  to  Power,"  and  nothing  else.
+
+44  BEYOND  GOOD  AND  EVIL
+
+37
+
+"What?  Does  not  that  mean  in  popular  language:  God
+is  disproved,  but  not  the  devil"? — On  the  contrary!  On
+the  contrary,  my  friends!  And  who  the  devil  also  compels
+you  to  speak  popularly  1
+
+38
+
+I
+
+As  happened  finally  in  all  the  enlightenment  of  modem
+times  with  the  French  Revolution  (that  terrible  farce,  quite
+superfluous  when  judged  close  at  hand,  into  which,  however,
+the  noble  and  visionary  spectators  of  all  Europe  have  inter-
+preted from  a  distance  their  own  indignation  and  enthusiasm
+so  long  and  passionately,  until  the  text  has  disappeared  un-
+der the  interpretation),  so  a  noble  posterity  might  once
+more  misunderstand  the  whole  of  the  past,  and  perhaps  only
+thereby  make  its  aspect  endurable. — Or  rather,  has  not  this
+already  happened?  Have  not  we  ourselves  been — that
+"noble  posterity"?  And,  in  so  far  as  we  now  comprehend
+this,  is  it  not — thereby  already  past?
+
+39
+
+Nobody  will  very  readily  regard  a  doctrine  as  true  merely
+because  it  makes  people  happy  or  virtuous — excepting,  per-
+haps, the  amiable  "Idealists,"  who  are  enthusiastic  about
+the  good,  true,  and  beautiful,  and  let  all  kinds  of  motley,
+coarse,  and  good-natured  desirabilities  swim  about  promis-
+cuously in  their  pond.  Happiness  and  virtue  are  no  argu-
+ments. It  is  willingly  forgotten,  however,  even  on  the  part
+of  thoughtful  minds,  that  to  make  unhappy  £ind  to  make
+
+BEYOND  GOOD  AND  EVIL  45
+
+bad  are  just  as  little  counter-arguments.  A  thing  could  be
+true,  although  it  were  in  the  highest  degree  injurious  and
+dangerous;  indeed,  the  fundamental  constitution  of  exist-
+ence might  be  such  that  one  succumbed  by  a  full  knowledge
+of  it — so  that  the  strength  of  a  mind  might  be  measured  by
+the  amount  of  "truth"  it  could  endure — or  to  speak  more
+plainly,  by  the  extent  to  which  it  required  truth  attenuated,
+veiled,  sweetened,  damped,  and  falsified.  But  there  is  no
+doubt  that  for  the  discovery  of  certain  portions  of  truth  the
+wicked  and  unfortunate  are  more  favourably  situated  and
+have  a  greater  likelihood  of  success;  not  to  spezik  of  the
+wicked  who  are  happy — a  species  about  whom  moralists
+are  silent.  Perhaps  severity  and  craft  are  more  favourable
+conditions  for  the  development  of  strong,  independent  spirits
+and  philosophers  than  the  gentle,  refined,  yielding  good-
+nature, and  habit  of  taking  things  easily,  which  are  prized,
+and  rightly  prized  in  a  learned  man.  Presupposing  always,
+to  begin  with,  that  the  term  "philosopher"  be  not  confined
+to  the  philosopher  who  writes  books,  or  even  introduces  his
+philosophy  into  books! — Stendhal  furnishes  a  last  feature  of
+the  portrait  of  the  free-spirited  philosopher,  which  for  the
+sake  of  German  taste  I  will  not  omit  to  underline — for  it  is
+opposed  to  German  taste.  "Pour  etre  bon  philosophe,"
+says  this  last  great  psychologist,  "il  jaut  etre  sec,  clair,  sans
+illusion.  Un  banquier,  qui  a  fait  fortune,  a  une  partie  du
+caractere  requis  pour  faire  des  decouvertes  en  philosophie,
+c'est-d-dire  pour  voir  clair  dans  ce  qui  est."
+
+j^  Everything  that  is  profound  loves  the  mask:   the  pro-
+
+j  foundest  things  have  a  hatred  even  of  figure  and  likeness.
+
+Should  not  the  contrary  only  be  the  right  disguise  for  the
+
+46  BEYOND  GOOD  AND  EVIL
+
+shame  of  a  God  to  go  about  in?  A  question  worth  asking! —
+it  would  be  strange  if  some  mystic  has  not  already  ventured
+on  the  same  kind  of  thing.  There  are  proceedings  of  such
+a  delicate  nature  that  it  is  well  to  overwhelm  them  with
+coarseness  and  make  them  unrecognisable;  there  are  ac-
+tions of  love  and  of  an  extravagant  magnanimity  after
+which  nothing  can  be  wiser  than  to  take  a  stick  and  thrash
+the  witness  soundly:  one  thereby  obscures  his  recollection.
+Many  a  one  is  able  to  obscure  and  abuse  his  own  memory,
+in  order  at  least  to  have  vengeance  on  this  sole  party  in  the
+secret:  shame  is  inventive.  They  are  not  the  worst  things
+of  which  one  is  most  ashamed:  there  is  not  only  deceit  be-
+hind a  mask — there  is  so  much  goodness  in  craft.  I  could
+imagine  that  a  man  with  something  costly  and  fragile  to
+conceal,  would  roll  through  life  clumsily  and  rotundly  like
+an  old,  green,  heavily-hooped  wine-cask:  the  refinement  of
+his  shame  requiring  it  to  be  so.  A  man  who  has  depths  in
+his  shame  meets  his  destiny  and  his  delicate  decisions  upon
+paths  which  few  ever  reach,  and  with  regard  to  the  exist-
+ence of  which  his  nearest  and  most  intimate  friends  may
+be  ignorant;  his  mortal  danger  conceals  itself  from  their  eyes,
+and  equally  so  his  regained  security.  Such  a  hidden  nature,
+which  instinctively  employs  speech  for  silence  and  conceal-
+ment, and  is  inexhaustible  in  evasion  of  communication,  de-
+sires  and  insists  that  a  mask  of  himself  shall  occupy  his
+place  in  the  hearts  and  heads  of  his  friends;  and  supposing
+he  does  not  desire  it,  his  eyes  will  some  day  be  opened  to
+the  fact  that  there  is  nevertheless  a  mask  of  him  there — and
+that  it  is  well  to  be  so.  Every  profound  spirit  needs  a  mask;
+nay,  more,  around  every  profound  spirit  there  continually
+grows  a  mask,  owing  to  the  constantly  false,  that  is  to  say,
+superficial  interpretation  of  every  word  he  utters,  every  step
+he  takes,  every  sign  of  life  he  manifests.
+
+II
+
+BEYOND  GOOD  AND  EVIL  47
+
+41
+
+One  must  subject  oneself  to  one's  own  tests  that  one  is
+destined  for  independence  and  command,  and  do  so  at  the
+right  time.  One  must  not  avoid  one's  tests,  although  they
+constitute  perhaps  the  most  dangerous  game  one  can  play,
+and  are  in  the  end  tests  made  only  before  ourselves  and
+before  no  other  judge.  Not  to  cleave  to  any  person,  be  it
+even  the  dearest — every  person  is  a  prison  and  also  a  re-
+cess. Not  to  cleave  to  a  fatherland,  be  it  even  the  most
+suffering  and  necessitous — it  is  even  less  difficult  to  detach
+one's  heart  from  a  victorious  fatherland.  Not  to  cleave  to
+a  S5anpathy,  be  it  even  for  higher  men,  into  whose  peculiar
+torture  and  helplessness  chance  has  given  us  an  insight.
+Not  to  cleave  to  a  science,  though  it  tempt  one  with  the
+most  valuable  discoveries,  apparently  specially  reserved  for
+us.  Not  to  cleave  to  one's  own  liberation,  to  the  voluptuous
+distance  and  remoteness  of  the  bird,  which  always  flies  fur-
+ther aloft  in  order  always  to  see  more  under  it — the  danger
+of  the  flier.  Not  to  cleave  to  our  own  virtues,  nor  become
+as  a  whole  a  victim  to  any  of  our  specialties,  to  our  "hos-
+pitality" for  instance,  which  is  the  danger  of  dangers  for
+highly  developed  and  wealthy  souls,  who  deal  prodigally,
+almost  indifferently  with  themselves,  and  push  the  virtue  of
+liberality  so  far  that  it  becomes  a  vice.  One  must  know
+how  to  conserve  oneself — the  best  test  of  independence.
+
+I
+
+4*
+
+A  new  order  of  philosophers  is  appearing;  I  shall  venture
+to  baptize  them  by  a  name  not  without  danger.  As  far  as  I
+understand  them,  as  far  as  they  allow  themselves  to  be
+
+48  BEYOND  GOOD  AND  EVIL
+
+understood — for  it  is  their  nature  to  wish  to  remain  some-
+thing of  a  puzzle — these  philosophers  of  the  future  might
+rightly,  perhaps  also  wrongly,  claim  to  be  designated  as
+"tempters."  This  name  itself  is  after  all  only  an  attempt,
+or,  if  it  be  preferred,  a  temptation.
+
+43
+
+Will  they  be  new  friends  of  "truth,"  these  coming  philoso*
+phers?  Very  probably,  for  all  philosophers  hitherto  have
+loved  their  truths.  But  assuredly  they  will  not  be  dog-
+matists. It  must  be  contrary  to  their  pride,  and  also  con-
+Vrary  to  their  taste,  that  their  truth  should  still  be  truth  for
+every  one — that  which  has  hitherto  been  the  secret  wish  and
+ultimate  purpose  of  all  dogmatic  efforts.  "My  opinion  is  my
+opinion:  another  person  has  not  easily  a  right  to  it" — such
+\i.  philosopher  of  the  future  will  say,  perhaps.  One  must
+Yenounce  the  bad  taste  of  wishing  to  agree  with  many  peo-
+ple. "Good"  is  no  longer  good  when  one's  neighbour  takes
+it  into  his  mouth.  And  how  could  there  be  a  "common
+good"!  The  expression  contradicts  itself;  that  which  can
+be  common  is  always  of  small  value.  In  the  end  things
+must  be  as  they  are  and  have  always  been — the  great  things
+remain  for  the  great,  the  abysses  for  the  profound,  the  deli-
+cacies and  thrills  for  the  refined,  and,  to  sum  up  shortly,
+everything  rare  for  the  rare.
+
+44
+
+Need  I  say  expressly  after  all  this  that  they  will  be  free,
+very  free  spirits,  these  philosophers  of  the  future — as  cer-
+tainly also  they  will  not  be  merely  free  spirits,  but  something
+more,  higher,  greater,  and  fundamentally  different,  which
+
+BEYOND   GOOD  AND  EVIL  49
+
+does  not  wish  to  be  misunderstood  and  mistaken?  But  while
+I  say  this,  I  feel  under  obligation  almost  as  much  to  them
+as  to  ourselves  (we  free  spirits  who  are  their  heralds  and
+forerunners),  to  sweep  away  from  ourselves  altogether  a
+stupid  old  prejudice  and  misunderstanding,  which,  like  a
+fog,  has  too  long  made  the  conception  of  "free  spirit"  ob-
+scure. In  every  country  of  Europe,  and  the  same  in  Amer-
+ica, there  is  at  present  something  which  makes  an  abuse  of
+this  name:  a  very  narrow,  prepossessed,  enchained  class  of
+spirits,  who  desire  almost  the  opposite  of  what  our  inten-
+tions and  instincts  prompt — not  to  mention  that  in  respect
+to  the  new  philosophers  who  are  appearing,  they  must  still
+more  be  closed  windows  and  bolted  doors.  Briefly  and  re-
+grettably, they  belong  to  the  levellers,  these  wrongly
+named  "free  spirits" — as  glib-tongued  and  scribe-fingered
+^laves  of  the  democratic  taste  and  its  "modem  ideas":  all
+moi  them  men  without  solitude,  without  personal  solitude,
+'blunt  honest  fellows  to  whom  neither  courage  nor  honourable
+conduct  ought  to  be  denied;  only,  they  are  not  free,  and  are
+ludicrously  superficial,  especially  in  their  innate  partiality
+for  seeing  the  cause  of  almost  all  human  misery  and  failure
+in  the  old  forms  in  which  society  hsis  hitherto  existed — a
+notion  which  happily  inverts  the  truth  entirely!  What  they
+would  fain  attain  with  all  their  strength,  is  the  universal,
+green-meadow  happiness  of  the  herd,  together  with  security,
+safety,  comfort,  and  alleviation  of  life  for  every  one;  their
+two  most  frequently  chanted  songs  and  doctrines  are  called
+luality  of  Rights"  and  "Sympathy  with  all  Sufferers" —
+|d  suffering  itself  is  looked  upon  by  them  as  something
+lich  must  be  done  away  with.  We  opposite  ones,  how-
+;r,  who  have  opened  our  eye  and  conscience  to  the  ques-
+how  and  where  the  plant  "man"  has  hitherto  grown
+most  vigourously,  believe  that  tliis  has  always  taken  place
+
+$0  BEYOND  GOOD  AND  EVIL
+
+under  the  opposite  conditions,  that  for  this  end  the  danger-
+ousness  of  his  situation  had  to  be  increased  enormously,  his
+inventive  faculty  and  dissembling  power  (his  "spirit")  had
+to  develop  into  subtlety  and  daring  under  long  oppression
+and  compulsion,  and  his  Will  to  Life  had  to  be  increased  to
+the  unconditioned  Will  to  Power: — we  believe  that  severity,
+violence,  slavery,  danger  in  the  street  and  in  the  heart,  se-
+crecy, stoicism,  tempter's  art  and  devilry  of  every  kind, —
+that  everything  wicked,  terrible,  tyrannical,  predatory,  and
+serpentine  in  man,  serves  as  well  for  the  elevation  of  the
+human  species  as  its  opposite: — we  do  not  even  say  enough
+when  we  only  say  this  much;  and  in  any  case  we  find  our-
+selves here,  both  with  our  speech  and  our  silence,  at  the
+ether  extreme  of  all  modem  ideology  and  gregarious  desira-
+bility, as  their  antipodes  perhaps?  What  wonder  that  we
+^'free  spirits"  are  not  exactly  the  most  communicative  spir-
+its? that  we  do  not  wish  to  betray  in  every  respect  what  ai
+spirit  can  free  itself  from,  and  where  perhaps  it  will  then  be
+driven?  And  as  to  the  import  of  the  dangerous  formula,
+"Beyond  Good  and  Evil,"  with  which  we  at  least  avoid  con-
+fusion, we  are  something  else  than  "libres-penseurs,"  "liberi
+pensatori"  "free-thinkers,"  and  whatever  these  honest  ad-
+vocates of  "modem  ideas"  like  to  call  themselves.  Havingi
+been  at  home,  or  at  least  guests,  in  many  realms  of  the  spirit;
+having  escaped  again  and  again  from  the  gloomy,  agreeablei
+nooks  in  which  preferences  and  prejudices,  youth,  origin,  thci
+accident  of  men  and  books,  or  even  the  weariness  of  travel
+seemed  to  confine  us;  full  of  malice  against  the  seductions  of
+dependency  which  lie  concealed  in  honours,  money,  positions,!
+or  exaltation  of  the  senses;  grateful  even  for  distress  and
+the  vicissitudes  of  illness,  because  they  always  free  us  from'
+some  rule,  and  its  "prejudice,"  grateful  to  the  God,  devil,
+3^6^,  and  worm  in  us;  inquisitive  to  a  fault,  investigat
+
+II
+
+w
+
+BEYOND   GOOD  AND   EVIL  51
+
+to  the  point  of  cruelty,  with  unhesitating  fingers  for  the  in-
+tangible, with  teeth  and  stomachs  for  the  most  indigestible,
+ready  for  any  business  that  requires  sagacity  and  acute
+senses,  ready  for  every  adventure,  owing  to  an  excess  of
+"free  will";  with  anterior  and  posterior  souls,  into  the  ulti-
+mate intentions  of  which  it  is  difficult  to  pry,  with  fore-
+grounds and  backgrounds  to  the  end  of  which  no  foot  may
+run;  hidden  ones  imder  the  mantles  of  light,  appropriators,
+although  we  resemble  heirs  and  spendthrifts,  arrangers  and
+collectors  from  morning  till  night,  misers  of  our  wealth  and
+our  full-crammed  drawers,  economical  in  learning  and  for-
+getting, inventive  in  scheming;  sometimes  proud  of  tables  of
+categories,  sometimes  pedants,  sometimes  night-owls  of  work
+even  in  full  day;  yea,  if  necessary,  even  scarcecrows — and  it
+is  necessary  nowadays,  that  is  to  say,  inasmuch  as  we  are  the
+bom,  sworn,  jealous  friends  of  solitude,  of  our  own  pro-
+foundest  midnight  and  mid-day  solitude: — such  kind  of  men
+are  we,  we  free  spirits!  And  perhaps  ye  are  also  something
+of  the  same  kind,  ye  coming  ones?  ye  new  philosophers?
+
+CHAPTER  III
+The   Religious    Mood
+
+45
+
+The  human  soul  and  its  limits,  the  range  of  man's  inn|
+experiences  hitherto  attained,  the  heights,  depths  and  dis^
+tances  of  these  experiences,  the  entire  history  of  the  soul
+up  to  the  present  time,  and  its  still  unexhausted  possibili-
+ties: this  is  the  preordained  hunting- domain  for  a  bom  psy-
+chologist and  lover  of  a  "big  hunt."  But  how  often  must
+he  say  despairingly  to  himself:  "A  single  individual!  alas,
+only  a  single  individual!  and  this  great  forest,  this  virgin
+forest!"  So  he  would  like  to  have  some  hundreds  of  hunt-
+ing assistants,  and  fine  trained  hounds,  that  he  could  send
+into  the  history  of  the  human  soul,  to  drive  his  game  to-
+gether. In  vain:  again  and  again  he  experiences,  pro-
+foundly and  bitterly,  how  difficult  it  is  to  find  assistants  and
+dogs  for  all  the  things  that  directly  excite  his  curiosity.  The
+evil  of  sending  scholars  into  new  and  dangerous  hunting-
+domains,  where  courage,  sagacity,  and  subtlety  in  every
+sense  are  required,  is  that  they  are  no  longer  serviceable
+just  when  the  "big  hunt,"  and  also  the  great  danger  com-
+mences,— it  is  precisely  then  that  they  lose  their  keen  eye
+and  nose.  In  order,  for  instance,  to  divine  and  determine
+what  sort  of  history  the  problem  of  knowledge  and  conscien^
+
+52
+
+J
+
+BEYOND   GOOD  AND  EVIL  55
+
+has  hitherto  had  in  the  souls  of  homines  religiosi,  a  person
+would  perhaps  himself  have  to  possess  as  profound,  as
+bruised,  as  immense  an  experience  as  the  intellectual  con-
+science of  Pascal;  and  then  he  would  still  require  that
+wide-spread  heaven  of  clear,  wicked  spirituality,  which,  from
+above,  would  be  able  to  oversee,  arrange,  and  effectively  for-
+mulise  this  mass  of  dangerous  and  painful  experiences. — But
+who  could  do  me  this  service!  And  who  would  have  time
+to  wait  for  such  servants! — they  evidently  appear  too  rarely,
+they  are  so  improbable  at  all  times!  Eventually  one  must
+do  everything  oneself  in  order  to  know  something;  whiclr
+means  that  one  has  much  to  do! — But  a  curiosity  like  mine
+is  once  for  all  the  most  agreeable  of  vices — pardon  me!
+I  mean  to  say  that  the  love  of  truth  has  its  reward  in  heaven,
+and  already  upon  earth.
+
+46
+
+Faith,  such  as  early  Christianity  desired,  and  not  infre-
+quently achieved  in  the  midst  of  a  sceptical  and  southemly
+free-spirited  world,  which  had  centuries  of  struggle  between
+philosophical  schools  behind  it  and  in  it,  counting  besides
+the  education  in  tolerance  which  the  imperium  Romanum
+gave — this  faith  is  not  that  sincere,  austere  slave-faith  by
+which  perhaps  a  Luther  or  a  Cromwell,  or  some  other  north-
+em  barbarian  of  the  spirit  remained  attached  to  his  God
+and  Christianity;  it  is  much  rather  the  faith  of  Pascal,  which
+xesembles  in  a  terrible  manner  a  continuous  suicide  of  rea-
+— a  tough,  long-lived,  wormlike  reason,  which  is  not  to
+slain  at  once  and  with  a  single  blow.  The  Christian  faith
+from  the  beginning,  is  sacrifice:  the  sacrifice  of  all  freedom,
+all  pride,  all  self-confidence  of  spirit;  it  is  at  the  same  time
+abjection,    self -derision,    and    self-mutilation.      There    is
+
+C
+
+54  BEYOND  GOOD  AND  EVIL
+
+1
+
+cruelty  and  religious  Phoenicianism  in  this  faith,  which
+adapted  to  a  tender,  many-sided,  and  very  fastidious  con-
+science; it  takes  for  granted  that  the  subjection  of  the  spirit
+is  indescribably  painful,  that  all  the  past  and  all  the  habits
+of  such  a  spirit  resist  the  absurdissimum,  in  the  form  of
+which  "faith"  comes  to  it.  Modem  men,  with  their  ob-
+tuseness  as  regards  all  Christian  nomenclature,  have  no
+longer  the  sense  for  the  terribly  superlative  conception  which
+was  implied  to  an  antique  taste  by  the  paradox  of  the  for-
+mula, "God  on  the  Cross."  Hitherto  there  had  never  and
+nowhere  been  such  boldness  in  inversion,  nor  anything  at
+once  so  dreadful,  questioning,  and  questionable  as  this  for-
+mula: it  promised  a  transvaluation  of  all  ancient  values. — It
+was  the  Orient,  the  profound  Orient,  it  was  the  Oriental
+slave  who  thus  took  revenge  on  Rome  and  its  noble,  light-
+minded  toleration,  on  the  Roman  "Catholicism"  of  non-
+faith  ;  and  it  was  always,  not  the  faith,  but  the  freedom  from
+the  faith,  the  half-stoical  and  smiling  indifference  to  the
+seriousness  of  the  faith,  which  mades  the  slaves  indignant
+at  their  masters  and  revolt  against  them.  "Enlightenment"
+causes  revolt:  for  the  slave  desires  the  unconditioned,  he
+understands  nothing  but  the  tyrannous,  even  in  morals;  he
+loves  as  he  hates,  without  nuance,  to  the  very  depths,  to  the
+point  of  pain,  to  the  point  of  sickness — his  many  hidden
+sufferings  make  him  revolt  against  the  noble  taste  which
+seems  to  deny  suffering.  The  scepticism  with  regard  to  suf-
+fering, fundamentally  only  an  attitude  of  aristocratic  mo-
+rality, was  not  the  least  of  the  causes,  also,  of  the  last  great
+slave-insurrection  which  began  with  the  French  Revolu
+tion.
+
+BEYOND  GOOD  AND  EVIL  $5
+
+47
+
+Wherever  the  religious  neurosis  has  appeared  on  the  earth
+so  far,  we  find  it  connected  with  three  dangerous  prescrip-
+tions as  to  regimen:  solitude,  fasting,  and  sexual  abstinence
+— but  without  its  being  possible  to  determine  with  certainty
+which  is  cause  and  which  is  effect,  or  if  any  relation  at  all  of
+cause  and  effect  exists  there.  This  latter  doubt  is  justified
+by  the  fact  that  one  of  the  most  regular  symptoms  among
+savage  as  well  as  among  civilised  peoples  is  the  most  sudden
+and  excessive  sensuality;  which  then  with  equal  suddenness
+transforms  into  penitential  paroxysms,  world-renunciation,
+and  will-renunciation:  both  symptoms  perhaps  explainable
+as  disguised  epilepsy?  But  nowhere  is  it  more  obligatory
+to  put  aside  explanations:  around  no  other  type  has  there
+grown  such  a  mass  of  absurdity  and  superstition,  no  other
+type  seems  to  have  been  more  interesting  to  men  and  even  to
+philosophers — perhaps  it  is  time  to  become  just  a  little  in-
+different here,  to  learn  caution,  or,  better  still,  to  look  away,.
+to  go  away. — Yet  in  the  background  of  the  most  recent
+philosophy,  that  of  Schopenhauer,  we  find  almost  as  the
+■roblem  in  itself,  this  terrible  note  of  interrogation  of  the
+teligious  crisis  and  awakening.  How  is  the  negation  of  will
+^ssible?  how  is  the  saint  possible? — that  seems  to  have  been
+■le  very  question  with  which  Schopenhauer  made  a  start
+and  became  a  philosopher.  And  thus  it  was  a  genuine
+ichopenhauerian  consequence,  that  his  most  convinced  ad-
+ent  (perhaps  also  his  last,  as  far  as  Germany  is  con-
+ed), namely,  Richard  Wagner,  should  bring  his  ovm
+work  to  an  end  just  here,  and  should  finally  put  that
+ible  and  eternal  type  upon  the  stage  as  Kundry,  type
+u,  and  as  it  loved  and  lived,  at  the  very  time  that  the
+
+56  BEYOND  GOOD  AND  EVIL
+
+mad-doctors  in  almost  all  European  countries  had  an  oppor-
+tunity to  study  the  type  close  at  hand,  wherever  the  reli-
+gious neurosis — or  as  I  call  it,  "the  religious  mood" — made
+its  latest  epidemical  outbreak  and  display  as  the  "Salvation
+Army." — If  it  be  a  question,  however,  as  to  what  has  been
+so  extremely  interesting  to  men  of  all  sorts  in  all  ages,  and
+even  to  philosophers,  in  the  whole  phenomenon  of  the  saint,
+it  is  undoubtedly  the  appearance  of  the  miraculous  therein
+— ^namely,  the  immediate  succession  of  opposites,  of  states
+of  the  soul  regarded  as  morally  antithetical:  it  was  believed
+here  to  be  self-evident  that  a  "bad  man"  was  all  at  once
+turned  into  a  "saint,"  a  good  man.  The  hitherto  existing
+psychology  was  wrecked  at  this  point;  is  it  not  possible  it
+may  have  happened  principally  because  psychology  had
+placed  itself  under  the  dominion  of  morals,  because  it  be-
+lieved in  oppositions  of  moral  values,  and  saw,  read,  and
+interpreted  these  oppositions  into  the  text  and  facts  of  the
+case?  What?  "Miracle"  only  an  error  of  interpretation?
+A  lack  of  philology?
+
+48
+
+It  seems  that  the  Latin  races  are  far  more  deeply  attached
+to  their  Catholicism  than  we  Northerners  are  to  Christianity
+generally,  and  that  consequently  unbelief  in  Catholic  coun-
+tries means  something  quite  different  from  what  it  does
+among  Protestants — namely,  a  sort  of  revolt  against  the
+spirit  of  the  race,  while  with  us  it  is  rather  a  return  to  the
+spirit  (or  non-spirit)  of  the  race.  We  Northerners  undoubt-
+edly derive  our  origin  from  barbarous  races,  even  as  regards
+our  talents  for  religion — we  have  poor  talents  for  it.  On^
+may  make  an  exception  in  the  case  of  the  Celts,  who  ha\
+theretofore  furnished  also  the  best  soil  for  Christian  infe
+
+BEYOND   GOOD  AND   EVIL  57
+
+tion  in  the  north:  the  Christian  ideal  blossomed  forth  in
+France  as  much  as  ever  the  pale  sun  of  the  north  would
+allow  it.  How  strangely  pious  for  our  taste  are  still  these
+later  French  sceptics,  whenever  there  is  any  Celtic  blood  in
+their  origin!  How  Catholic,  how  un-German  does  Auguste
+Comte's  Sociology  seem  to  us,  with  the  Roman  logic  of  its
+instincts!  How  Jesuitical,  that  amiable  and  shrewd  cicerone
+of  Port-Royal,  Sainte-Beuve,  in  spite  of  all  his  hostility  to
+Jesuits!  And  even  Ernest  Renan:  how  inaccessible  to  u^
+Northerners  does  the  language  of  such  a  Renan  appear,  in
+whom  every  instant  the  merest  touch  of  religious  thrill
+throws  his  refined  voluptuous  and  comfortably  couching  soul
+off  its  balance!  Let  us  repeat  after  him  these  fine  sentences
+— and  what  wickedness  and  haughtiness  is  immediately
+aroused  by  way  of  answer  m  our  probably  less  beautiful  but
+harder  souls,  that  is  to  say,  in  our  more  German  souls! —
+"Disons  done  hardiment  que  la  religion  est  un  produit  de
+Vhomtne  normal,  que  I'homme  est  le  plus  dans  le  vrai  quand
+il  est  le  plus  religieux  et  le  plus  assure  d'une  destinee  infinie.
+.  .  .  C'est  quand  il  est  bon  qu'il  veut  que  la  virtu  corre-
+sponde  a  un  order  iternal,  c'est  quand  il  contemple  les  choses
+d'une  manihe  desintiressee  qu'il  trouve  la  mort  revoltante  et
+bsurde.  Comment  ne  pas  supposer  que  c'est  dans  ces  mo-
+ents-la,  que  I'homme  voit  le  mieux?"  .  .  .  These  sentences
+e  so  extremely  antipodal  to  my  ears  and  habits  of  thought,
+at  in  my  first  impulse  of  rage  on  finding  them,  I  wrote
+•n  the  margin,  "la  niaiserie  religieuse  par  excellence!" — imtil
+« in  my  later  rage  I  even  took  a  fancy  to  them,  these  sentences
+Bnth  their  truth  absolutely  inverted!  It  is  so  nice  and
+Huch  a  distinction  to  have  one's  own  antipodes!
+
+I
+
+S8  BEYOND  GOOD  AND  EVIL
+
+49
+
+i
+
+That  which  is  so  astonishing  in  the  religious  life  of  the
+ancient  Greeks  is  the  irrestrainable  stream  of  gratitude  which
+it  pours  forth — it  is  a  very  superior  kind  of  man  who  takes
+such  an  attitude  towards  nature  and  life. — ^Later  on,  when
+the  populace  got  the  upper  hand  in  Greece,  fear  became
+rampant  also  in  religion;  and  Christianity  was  preparing  it-
+self.
+
+SO
+
+The  passion  for  God:  there  are  churlish,  honest-hearted,
+and  importunate  kinds  of  it,  like  that  of  Luther — the  whole
+of  Protestantism  lacks  the  southern  delicatezza.  There  is  an
+Oriental  exaltation  of  the  mind  in  it,  like  that  of  an  unde-
+servedly favoured  or  elevated  slave,  as  in  the  case  of  St.
+Augustine,  for  instance,  who  lacks  in  an  offensive  manner,
+all  nobility  in  bearing  and  desires.  There  is  a  feminine
+tenderness  and  sensuality  in  it,  which  modestly  and  un-
+consciously longs  for  a  unio  mystica  et  physica,  as  in  the
+case  of  Madame  de  Guy  on.  In  many  cases  it  appears,  curi-
+ously enough,  as  the  disguise  of  a  girl's  or  youth's  puberty;
+here  and  there  even  as  the  hysteria  of  an  old  maid,  also
+as  her  last  ambition.  The  Church  has  frequently  canonised
+the  woman  in  such  a  case.
+
+51
+
+I
+
+The  mightiest  men  have  hitherto  always  bowed  reverently
+before  the  saint,  as  the  enigma  of  self-subjugation  and  utter
+volimtary    privation — why    did    they    thus    bow?      They
+
+BEYOND   GOOD  AND  EVIL  59
+
+divined  in  him — and  as  it  were  behind  the  questionableness
+of  his  frail  and  wretched  appearance — the  superior  force
+which  wished  to  test  itself  by  such  a  subjugation;  the
+strength  of  will,  in  which  they  recognised  their  own  strength
+and  love  of  power,  and  knew  how  to  honour  it:  they  hon-
+oured something  in  themselves  when  they  honoured  the  saint.
+In  addition  to  this,  the  contemplation  of  the  saint  suggested
+to  them  a  suspicion:  such  an  enormity  of  self-negation  and
+anti-naturalness  will  not  have  been  coveted  for  nothing —
+they  have  said,  inquiringly.  There  is  perhaps  a  reason  for
+it,  some  very  great  danger,  about  which  the  ascetic  might
+wish  to  be  more  accurately  informed  through  his  secret
+interlocutors  and  visitors?  In  a  word,  the  mighty  ones  of
+the  world  learned  to  have  a  new  fear  before  him,  they  di-
+vined a  new  power,  a  strange,  still  unconquered  enemy: —
+it  was  the  "Will  to  Power"  which  obliged  them  to  halt  before
+the  saint.    They  had  to  question  him.
+
+52
+
+In  the  Jewish  "Old  Testament,"  the  book  of  divine  jus-
+tice, there  are  men,  things,  and  sayings  on  such  an  immense
+scale,  that  Greek  and  Indian  literature  has  nothing  to  com-
+pare with  it.  One  stands  with  fear  and  reverence  before
+those  stupendous  remains  of  what  man  was  formerly,  and
+one  has  sad  thoughts  about  old  Asia  and  its  little  out-pushed
+peninsula  Europe,  which  would  like,  by  all  means,  to  figure
+before  Asia  as  the  "Progress  of  Mankind."    To  be  sure,  he
+
+*ftio  is  himself  only  a  slender,  tame  house-animal,  and  knows
+nly  the  wants  of  a  house-animal  (like  our  cultured  people
+of  to-day,  including  the  Christians  of  "cultured"  Christian-
+ity), need  neither  be  amazed  nor  even  sad  amid  those
+IS — ^the  taste  for  the  Old  Testament  is  a  touchstone  with
+
+rs
+
+6o  BEYOND  GOOD  AND  EVIL
+
+respect  to  "great"  and  "small":  perhaps  he  will  find  that
+the  New  Testament,  the  book  of  grace,  still  appeals  more
+to  his  heart  (there  is  much  of  the  odour  of  the  genuine,
+tender,  stupid  beadsman  and  petty  soul  in  it).  To  have
+bound  up  this  New  Testament  (a  kind  of  rococo  of  taste  in
+every  respect)  along  with  the  Old  Testament  into  one  book,
+as  the  "Bible,"  as  "The  Book  in  Itself,"  is  perhaps  the
+greatest  audacity  and  "sin  against  the  Spirit"  which  literary
+Europe  has  upon  its  conscience.
+
+53
+
+I
+
+Why  Atheism  nowadays?  "The  father"  in  God  is  thoi
+oughly  refuted;  equally  so  "the  judge,"  "the  rewarder."
+Also  his  "free  will":  he  does  not  hear — and  even  if  he  did,
+he  would  not  know  how  to  help.  The  worst  is  that  he
+seems  incapable  of  communicating  himself  clearly;  is  he
+uncertain? — This  is  what  I  have  made  out  (by  questioning
+and  listening  at  a  variety  of  conversations)  to  be  the  cause
+of  the  decline  of  European  theism;  it  appears  to  me  that
+though  the  religious  instinct  is  in  vigorous  growth, — it  re-
+jects the  theistic  satisfaction  with  profound  distrust.
+
+What  does  all  modem  philosophy  mainly  do?  Since
+Descartes — and  indeed  more  in  defiance  of  him  than  on  the
+basis  of  his  procedure — an  attentat  has  been  made  on  the
+part  of  all  philosophers  on  the  old  conception  of  the  soul,
+under  the  guise  of  a  criticism  of  the  subject  and  predicate
+conception — that  is  to  say,  an  attentat  on  the  fundamental
+presupposition  of  Christian  doctrine.  Modern  philosophy,
+as  epistemological   scepticism,  is  secretly  or  openly  anti
+
+!■!
+
+BEYOND   GOOD  AND  EVIL  6i
+
+Christian,  although  (for  keener  ears,  be  it  said)  by  no  means-
+anti-rehgious.  Formerly,  in  effect,  one  believed  in  "the
+soul"  as  one  believed  in  grammar  and  the  grammatical  sub-
+ject: one  said,  "I"  is  the  condition,  "think"  is  the  predicate
+and  is  conditioned — to  think  is  an  activity  for  which  one
+must  suppose  a  subject  as  cause.  The  attempt  was  then
+made,  with  marvellous  tenacity  and  subtlety,  to  see  if  one
+could  not  get  out  of  this  net, — to  see  if  the  opposite  was  not
+perhaps  true:  "think"  the  condition,  and  "I"  the  condi-
+tioned; "I,"  therefore,  only  a  S5nithesis  which  has  been  made
+by  thinking  itself.  Kant  really  wished  to  prove  that,  start-
+ing from  the  subject,  the  subject  could  not  be  proved — nor
+the  object  either:  the  possibility  of  an  apparent  existence
+of  the  subject,  and  therefore  of  "the  soul,"  may  not  always
+have  been  strange  to  him, — the  thought  which  once  had  an
+immense  power  on  earth  as  the  Vedanta  philosophy.
+
+55
+
+There  is  a  great  ladder  of  religious  cruelty,  with  many
+roimds;  but  three  of  these  are  the  most  important.  Once
+on  a  time  men  sacrified  human  beings  to  their  God,  and  per-
+haps just  those  they  loved  the  best — to  this  category  belong
+le  firstling  sacrifices  of  all  primiti\*e  religions,  and  also  the
+rifice  of  the  Emperor  Tiberius  in  the  Mithra-Grotto  on
+le  Island  of  Capri,  that  most  terrible  of  all  Roman  anach-
+inisms.  Then,  during  the  moral  epoch  of  mankind,  they
+rificed  to  their  God  the  strongest  instincts  they  possessed,
+leir  "nature";  this  festal  joy  shines  in  the  cruel  glances  of
+letics  £ind  "anti-natural"  fanatics.  Finally,  what  still  re-
+ined to  be  sacrificed?  Was  it  not  necessary  in  the  end
+for  men  to  sacrifice  everything  comforting,  holy,  healing,  all
+
+tpe,  all  faith  in  hidden  harmonies,  in  future  blessedness
+
+62  BEYOND  GOOD  AND  EVIL
+
+and  justice?  Was  it  not  necessary  to  sacrifice  God  himself,
+and  out  of  cruelty  to  themselves  to  worship  stone,  stupidity,
+gravity,  fate,  nothingness?  To  sacrifice  God  for  nothingness
+— this  paradoxical  mystery  of  the  ultimate  cruelty  has  been
+reserved  for  the  rising  generation;  we  all  know  something
+thereof  already.
+
+56
+
+Whoever,  like  myself,  prompted  by  some  enigmatical  de-
+sire, has  long  endeavoured  to  go  to  the  bottom  of  the  ques-
+tion of  pessimism  and  free  it  from  the  half-Christian,  half-
+German  narrowness  and  stupidity  in  which  it  has  finally
+presented  itself  to  this  century,  namely,  in  the  form  of
+Schopenhauer's  philosophy;  whoever,  with  an  Asiatic  and
+super-Asiatic  eye,  has  actually  looked  inside,  and  into  the
+most  world-renouncing  of  all  possible  modes  of  thought —
+beyond  good  and  evil,  and  no  longer  like  Buddha  and
+Schopenhauer,  under  the  dominion  and  delusion  of  morality,
+— whoever  has  done  this,  has  perhaps  just  thereby,  without
+really  desiring  it,  opened  his  eyes  to  behold  the  opposite
+ideal:  the  ideal  of  the  most  world-approving,  exuberant  and
+vivacious  man,  who  has  not  only  learnt  to  compromise  and
+arrange  with  that  which  was  and  is,  but  wishes  to  have  it
+again  as  it  was  and  is,  for  all  eternity,  insatiably  calling  out
+de  capo,  not  only  to  himself,  but  to  the  whole  piece  and  play;
+and  not  only  the  play,  but  actually  to  him  who  requires  the
+play — and  makes  it  necessary;  because  he  always  requires
+
+himself  anew — ^and  makes  himself  necessary. What?  And
+
+this  would  not  be — cir cuius  vitiosus  deus?
+
+BEYOND  GOOD  AND  EVIL  63
+
+57
+
+The  distance,  and  as  it  were  the  space  around  man,
+grows  with  the  strength  of  his  intellectual  vision  and  insist:
+his  world  becomes  profounder;  new  stars,  new  enigmas,  and
+notions  are  ever  coming  into  view.  Perhaps  everything  on
+which  the  intellectual  eye  has  exercised  its  acuteness  and
+profundity  has  just  been  an  occasion  for  its  exercise,  some-
+thing of  a  game,  something  for  children  and  childish  minds.
+Perhaps  the  most  solemn  conceptions  that  have  caused  the
+most  fighting  and  suffering,  the  conceptions  "God"  and  "sin,"
+will  one  day  seem  to  us  of  no  more  importance  than  a  child's
+plaything  or  a  child's  pain  seems  to  an  old  man; — and  per-
+haps another  plaything  and  another  pain  will  then  be  neces-
+sary once  more  for  "the  old  man" — always  childish  enough,
+an  eternal  child!
+
+S8
+
+Has  it  been  observed  to  what  extent  outward  idleness,  or
+semi-idleness,  is  necessary  to  a  real  religious  life  (alike  for
+its  favourite  microscopic  labour  of  self-examination,  and  for
+.its  soft  placidity  called  "prayer,"  the  state  of  perpetual
+kreadiness  for  the  "coming  of  God"),  I  mean  the  idleness  with
+[a  good  conscience,  the  idleness  of  olden  times  and  of  blood,
+
+which  the  aristocratic  sentiment  that  work  is  dishonouring
+\ — that  it  vulgarises  body  and  soul — is  not  quite  unfamiliar?
+
+id  that  consequently  the  modem,  noisy,  time-engrossing,
+snceited,  foolishly  proud  laboriousness  educates  and  pre-
+
+ires  for  "unbelief"  more  than  anything  else?  Amongst
+lese,  for  instance,  who  are  at  present  living  apart  from
+
+igion  in  Germany,  I  find  "free-thinkers"  of  diversified
+
+64  BEYOND  GOOD  AND  EVIL
+
+specks  and  origin,  but  above  all  a  majority  of  those  in
+whom  laboriousness  from  generation  to  generation  has  dis-
+solved the  religious  instincts;  so  that  they  no  longer  know
+what  purpose  religions  serve,  and  only  note  their  existence
+in  the  world  with  a  kind  of  dull  astonishment.  They  feel
+themselves  already  fully  occupied,  these  good  people,  be  it
+by  their  business  or  by  their  pleasures,  not  to  mention  the
+'Tatherland,"  and  the  newspapers,  and  their  "family  du-
+ties"; it  seems  that  they  have  no  time  whatever  left  for
+religion;  and  above  all,  it  is  not  obvious  to  them  whether  it
+is  a  question  of  a  new  business  or  a  new  pleasure — for  it  is
+impossible,  they  say  to  themselves,  that  people  should  go  to
+church  merely  to  spwil  their  tempers.  They  are  by  no  means
+enemies  of  religious  customs;  should  certain  circumstances,
+State  affairs  perhaps,  require  their  participation  in  such  cus-
+toms, they  do  what  is  required,  as  so  many  things  are  done —
+with  a  patient  and  unassuming  seriousness,  and  without  much
+curiosity  or  discomfort; — they  live  too  much  apart  and  out-
+side to  feel  even  the  necessity  for  a  jor  or  against  in  such
+matters.  Among  those  indifferent  persons  may  be  reckoned
+nowadays  the  majority  of  German  Protestants  of  the  middle
+classes,  especially  in  the  great  laborious  centres  of  trade  and
+commerce;  also  the  majority  of  laborious  scholars,  and  the
+entire  University  personnel  (with  the  exception  of  the  theo-
+logians, whose  existence  and  possibility  there  always  givesj
+psychologists  new  and  more  subtle  puzzles  to  solve),
+the  part  of  pious,  or  merely  church-going  people,  there  is
+seldom  any  idea  of  how  much  goodwill,  one  might  say  arbi-
+trary will,  is  now  necessary  for  a  German  scholar  to  take  thej
+problem  of  religion  seriously;  his  whole  profession  (and  as  ij
+have  said,  his  whole  workmanlike  laboriousness,  to  which  he
+is  compelled  by  his  modem  conscience)  inclines  him  to
+lofty  and  almost  charitable  serenity  as  regards  religion,  wit
+
+BEYOND   GOOD  AND   EVIL  65
+
+which  is  occasionally  mingled  a  slight  disdain  for  the  "un-
+cleanliness"  of  spirit  which  he  takes  for  granted  wherever
+any  one  still  professes  to  belong  to  the  Church.  It  is  only
+with  the  help  of  history  {not  through  his  own  personal  ex-
+perience, therefore)  that  the  scholar  succeeds  in  bringing
+himself  to  a  respectful  seriousness,  and  to  a  certain  timid  def-
+erence in  presence  of  religions;  but  even  when  his  sentiments
+have  reached  the  stage  of  gratitude  towards  them,  he  has  not
+personally  advanced  one  step  nearer  to  that  which  still  main-
+tains itself  as  Church  or  as  piety;  perhaps  even  the  contrary.
+The  practical  indifference  to  religious  matters  in  the  midst
+of  which  he  has  been  bom  and  brought  up,  usually  subli-
+mates itself  in  his  case  into  circumspection  and  cleanliness,
+which  shuns  contact  with  religious  men  and  things;  and  it
+may  be  just  the  depth  of  his  tolerance  and  humanity  which
+prompts  him  to  avoid  the  delicate  trouble  which  tolerance
+itself  brings  with  it. — Every  age  has  its  own  divine  type  of
+naivete,  for  the  discovery  of  which  other  ages  may  envy  it:
+and  how  much  naivete — adorable,  childlike,  and  boundlessly
+foolish  naivete  is  involved  in  this  belief  of  the  scholar  in  his
+superiority,  in  the  good  conscience  of  his  tolerance,  in  the  un-
+suspecting, simple  certainty  with  which  his  instinct  treats  the
+religious  man  as  a  lower  and  less  valuable  type,  beyond,
+before,  and  above  which  he  himself  has  developed — he,  the
+little  arrogant  dwarf  and  mob-mem,  the  sedulously  alert,
+head-and-hand  drudge  of  "ideas,"  of  "modem  ideas"!
+
+59
+
+Whoever  has  seen  deeply  into  the  world  has  doubtless
+divined  what  wisdom  there  is  in  the  fact  that  men  are  super-
+ficial. It  is  their  preservative  instinct  which  teaches  them  to
+be  flighty,  lightsome,  and  false.    Here  and  there  one  finds  a
+
+66  BEYOND  GOOD  AND  EVIL
+
+passionate  and  exaggerated  adoration  of  "pure  forms"  in
+philosophers  as  well  as  in  artists:  it  is  not  to  be  doubted  that
+whoever  has  need  of  the  cult  of  the  superficial  to  that  extent,
+has  at  one  time  or  another  made  an  unlucky  dive  beneath  it.
+Perhaps  there  is  even  an  order  of  rank  with  respect  to  those
+burnt  children,  the  bom  artists  who  find  the  enjo3mient  of
+life  only  in  trying  to  falsify  its  image  (as  if  taking  wearisome
+revenge  on  it) ;  one  might  guess  to  what  degree  life  has
+disgusted  them,  by  the  extent  to  which  they  wish  to  see  its
+image  falsified,  attenuated,  ultrified,  and  deified; — one  might
+reckon  the  homines  religiosi  amongst  the  artists,  as  their
+highest  rank.  It  is  the  profound,  suspicious  fear  of  an  in-
+curable pessimism  which  compels  whole  centuries  to  fasten
+their  teeth  into  a  religious  interpretation  of  existence:  the
+fear  of  the  instinct  which  divines  that  truth  might  be  at-
+tained too  soon,  before  man  has  become  strong  enough,  hard
+enough,  artist  enough.  .  .  .  Piety,  the  "Life  in  God,"  re-
+garded in  this  light,  would  appear  as  the  most  elaborate  and
+ultimate  product  of  the  fear  of  truth,  as  artist-adoration  and
+artist-intoxication  in  presence  of  the  most  logical  of  all  falsi-
+fications, as  the  will  to  the  inversion  of  truth,  to  imtruth  at
+any  price.  Perhaps  there  has  hitherto  been  no  more  effective
+means  of  beautifying  man  than  piety;  by  means  of  it  man
+can  become  so  artful,  so  superficial,  so  iridescent,  and  so
+good,  that  his  appearance  no  longer  offends.
+
+60
+
+To  love  mankind  for  God's  sake — this  has  so  far  been  the
+noblest  and  remotest  sentiment  to  which  mankind  has  at-
+tained. That  love  to  mankind,  without  any  redeeming  inH
+tention  in  the  background,  is  only  an  additional  folly  anc
+brutishness,  that  the  inclination  to  this  love  has  first  to  ge
+
+BEYOND   GOOD  AND  EVIL  67
+
+its  proportion,  its  delicacy,  its  grain  of  salt  and  sprinkling
+of  ambergris  from  a  higher  inclination: — whoever  first  per-
+ceived and  "experienced"  this,  however  his  tongue  may  have
+stammered  as  it  attempted  to  express  such  a  delicate  matter,
+let  him  for  all  time  be  holy  and  respected,  as  the  man  who
+has  so  far  flown  highest  and  gone  astray  in  the  finest
+fashion!
+
+61
+
+The  philosopher,  as  we  free  spirits  understand  him — as  the
+man  of  the  greatest  responsibility,  who  has  the  conscience
+for  the  general  development  of  mankind, — will  use  religion
+for  his  disciplining  and  educating  work,  just  as  he  will  use
+the  contemporary  political  and  economic  conditions.  The
+selecting  and  disciplining  influence — destructive,  as  well  as
+creative  and  fashioning — which  can  be  exercised  by  means  of
+religion  is  manifold  and  varied,  according  to  the  sort  of
+people  placed  under  its  spell  and  protection.  For  those
+who  are  strong  and  independent,  destined  and  trained  to
+command,  in  whom  the  judgment  and  skill  of  a  ruling  race
+is  incorporated,  religion  is  an  additional  means  for  overcom-
+ing resistance  in  the  exercise  of  authority — as  a  bond  which
+binds  rulers  and  subjects  in  common,  betraying  and  sur-
+rendering to  the  former  the  conscience  of  the  latter,  their  in-
+most heart,  which  would  fain  escape  obedience.  And  in  the
+case  of  the  unique  natures  of  noble  origin,  if  by  virtue  of
+iperior  spirituality  they  should  incline  to  a  more  retired  and
+>ntemplative  life,  reserving  to  themselves  only  the  more
+ined  forms  of  government  (over  chosen  disciples  or  mem-
+ers  of  an  order),  religion  itself  may  be  used  as  a  means  for
+)taining  peace  from  the  noise  and  trouble  of  managing
+rosser  affairs,  and  for  securing  immxmity  from  the  unavoid-
+
+68  BEYOND  GOOD  AND  EVIL
+
+able  filth  of  all  political  agitation.  The  Brahmins,  for  in-
+stance, understood  this  fact.  With  the  help  of  a  religious
+organisation,  they  secured  to  themselves  the  power  of  nomi-
+nating kings  for  the  people,  while  their  sentiments  prompted
+them  to  keep  apart  and  outside,  as  men  with  a  higher  zind
+super-regal  mission.  At  the  same  time  religion  gives  induce-
+ment and  opportunity  to  some  of  the  subjects  to  qualify
+themselves  for  future  ruling  and  commanding:  the  slowly
+ascending  ranks  and  classes,  in  which,  through  fortimate
+marriage  customs,  volitional  power  and  delight  in  self-control
+are  on  the  increase.  To  them  religion  offers  sufficient  incen-
+tives and  temptations  to  aspire  to  higher  intellectuality,  and
+to  experience  the  sentiments  of  authoritative  self-control,  of
+silence,  and  of  solitude.  Asceticism  and  Puritanism  are
+almost  indispensable  means  of  educating  and  ennobling  a
+race  which  seeks  to  rise  above  its  hereditary  baseness  and
+work  itself  upward  to  future  supremacy.  And  finally,  to
+ordinary  men,  to  the  majority  of  the  people,  who  exist  for
+service  and  general  utility,  and  are  only  so  far  entitled  to
+exist,  religion  gives  invaluable  contentedness  with  their  lot
+and  condition,  peace  of  heart,  ennoblement  of  obedience,  ad-
+ditional social  happiness  and  sympathy,  with  something  of
+transfiguration  and  embellishment,  something  of  justification
+of  all  the  commonplaceness,  all  the  meanness,  all  the  semi-
+animal  poverty  of  their  souls.  Religion,  together  with  the
+religious  significance  of  life,  sheds  sunshine  over  such  per-,
+petually  harassed  men,  and  makes  even  their  own  aspect  enjj
+durable  to  them;  it  operates  upon  them  as  the  EpicureaiC
+philosophy  usually  operates  upon  sufferers  of  a  higher  order,
+in  a  refreshing  and  refining  manner,  almost  turning  suffering
+to  account,  and  in  the  end  even  halloing  and  vindicating  it
+There  is  perhaps  nothing  so  admirable  in  Christianity  an^
+Buddhism  as  their  art  of  teaching  even  the  lowest  to  elevat
+
+BEYOND   GOOD  AND   EVIL  69
+
+themselves  by  piety  to  a  seemingly  higher  order  of  things,
+and  thereby  to  retain  their  satisfaction  with  the  actual  world
+in  which  they  find  it  difficult  enough  to  live — this  very  diffi-
+culty being  necessary.
+
+62
+
+To  be  sure — to  make  also  the  bad  counter-reckoning
+against  such  religions,  and  to  bring  to  light  their  secret  dan-
+gers— the  cost  is  always  excessive  and  terrible  when  religions
+do  not  operate  as  an  educational  and  disciplinary  medium
+in  the  hands  of  the  philosopher,  but  rule  voluntarily  and
+paramountly ,  when  they  wish  to  be  the  final  end,  and  not  a
+means  along  with  other  means.  Among  men,  as  among  all
+other  animals,  there  is  a  surplus  of  defective,  diseased,  degen-
+erating, infirm,  and  necessarily  suffering  individuals;  the
+successful  cases,  among  men  also,  are  always  the  exception;
+and  in  view  of  the  fact  that  man  is  the  animal  not  yet  prop-
+erly adapted  to  his  environment,  the  rare  exception.  But
+worse  still.  The  higher  the  type  a  man  represents,  the
+greater  is  the  improbability  that  he  will  succeed;  the  acci-
+dental, the  law  of  irrationality  in  the  general  constitution  of
+mcmkind,  manifests  itself  most  terribly  in  its  destructive  ef-
+fect on  the  higher  orders  of  men,  the  conditions  of  whose
+lives  are  delicate,  diverse,  and  difficult  to  determine.  What,
+then,  is  the  attitude  of  the  two  greatest  religions  above-men-
+tioned to  the  surplus  of  failures  in  life?  They  endeavour  to
+preserve  and  keep  alive  whatever  can  be  preserved;  in  fact,
+as  the  religions  for  sufferers,  they  take  the  part  of  these  upon
+principle;  they  are  always  in  favour  of  those  who  suffer
+from  life  as  from  a  disease,  and  they  would  fain  treat  every
+other  experience  of  life  as  false  and  impossible.  However
+■fcighly  we  may  esteem  this  indulgent  and  preservative  care
+
+70  BEYOND  GOOD  AND  EVIL
+
+(inasmuch  as  in  applying  to  others,  it  has  applied,  and  ap-
+plies also  to  the  highest  and  usually  the  most  suffering  type
+of  man),  the  hitherto  paramount  religions — to  give  a  general
+appreciation  of  them — are  among  the  principal  causes  which
+have  kept  the  type  of  *'man"  upon  a  lower  level — they  have
+preserved  too  much  that  which  should  have  perished.  One
+has  to  thank  them  for  invaluable  services;  and  who  is  suffi-
+ciently rich  in  gratitude  not  to  feel  poor  at  the  contemplation
+of  all  that  the  "spiritual  men"  of  Christianity  have  done  for
+Europe  hitherto!  But  when  they  had  given  comfort  to  the
+sufferers,  courage  to  the  oppressed  and  despairing,  a  staff  and
+support  to  the  helpless,  and  when  they  had  allured  from  so-
+ciety into  convents  and  spiritual  penitentiaries  the  broken-
+hearted and  distracted:  what  else  had  they  to  do  in  order
+to  work  systematically  in  that  fashion,  and  with  a  good  con-
+science, for  the  preservation  of  all  the  sick  and  suffering,
+which  means,  in  deed  and  in  truth,  to  work  for  the  deteriora-
+tion of  the  European  race?  To  reverse  all  estimates  of
+value — that  is  what  they  had  to  do!  And  to  shatter  the
+strong,  to  spoil  great  hopes,  to  cast  suspicion  on  the  delight
+in  beauty,  to  break  down  everything  autonomous,  manly,
+conquering,  and  imperious — all  instincts  which  are  natural
+to  the  highest  and  most  successful  type  of  "man" — into  un-
+certainty, distress  of  conscience,  and  self-destruction;  for-
+sooth, to  invert  all  love  of  the  earthly  and  of  supremacy
+over  the  earth,  into  hatred  of  the  earth  and  earthly  things —
+that  is  the  task  the  Church  imposed  on  itself,  and  was  obliged
+to  impose,  until,  according,  to  its  standard  of  value,  "un-
+worldliness,"  "unsensuousness,"  and  "higher  man"  fused  into
+cMie  sentiment.  If  one  could  observe  the  strangely  painful,
+equally  coarse  and  refined  comedy  of  European  Christianity
+with  the  derisive  £ind  impartial  eye  of  an  Epicurean  god,  I
+should  think  one  would  never  cease  marvelling  and  laughing]
+
+1
+
+BEYOND   GOOD  AND  EVIL  71
+
+does  it  not  actually  seem  that  some  single  will  has  ruled  over
+Europe  for  eighteen  centuries  in  order  to  make  a  sublime
+abortion  of  man?  He,  however,  who,  with  opposite  require-
+ments (no  longer  Epicurean)  and  with  some  divine  hammer
+in  his  hand,  could  approach  this  almost  voluntary  degenera-
+tion and  stunting  of  mankind,  as  exemplified  in  the  Euro-
+pean Christian  (Pascal,  for  instance),  would  he  not  have  to
+cry  aloud  with  rage,  pity,  and  horror:  "Oh,  you  bunglers,
+presumptuous  pitiful  bunglers,  what  have  you  done!  Was
+that  a  work  for  your  hands?  How  you  have  hacked  and
+botched  my  finest  stone!  What  have  you  presumed  to  do!"
+— I  should  say  that  Christianity  has  hitherto  been  the  most
+portentous  of  presumptions.  Men,  not  great  enough,  nor
+hard  enough,  to  be  entitled  as  artists  to  take  part  in  fashion-
+ing man;  men,  not  sufficiently  strong  and  far-sighted  to
+allow,  with  sublime  self-constraint,  the  obvious  law  of  the
+thousandfold  failures  and  perishings  to  prevail;  men,  not
+sufficiently  noble  to  see  the  radically  different  grades  of
+rank  and  intervals  of  rank  that  separate  man  from  man: —
+such  men,  with  their  "equality  before  God,"  have  hitherto
+swayed  the  destiny  of  Europe;  until  at  last  a  dwarfed,  al-
+most ludicrous  species  has  been  produced,  a  gregarious  ani-
+mal, something  obliging,  sickly,  mediocre,  the  European  of
+the  present  day.
+
+CHAPTER  IV
+
+Apophthegms   and  Interludes
+
+63
+
+He  who  is  a  thorough  teacher  takes  things  seriously — and
+even  himself — only  in  relation  to  his  pupils.
+
+64
+
+"Knowledge  for  its  own  sake" — that  is  the  last  snare  laic
+by  morality:  we  are  thereby  completely  entangled  in  moi
+once  more.
+
+65
+
+The  charm  of  knowledge  would  be  small,  were  it  not
+much  shame  has  to  be  overcome  on  the  way  to  it.
+
+6SA
+
+We  are  most  dishonourable  towards  our  God:  he  is  not
+permitted  to  s&i.
+
+72
+
+BEYOND   GOOD  AND  EVIL  73
+
+66
+
+The  tendency  of  a  person  to  allow  himself  to  be  degraded,
+robbed,  deceived,  and  exploited  might  be  the  diffidence  of  a
+God  amongst  men.
+
+67
+
+Love  to  one  only  is  a  barbarity,  for  it  is  exercised  at  the
+expense  of  all  others.    Love  to  God  also!
+
+68
+
+"I  did  that,"  says  my  memory.  "I  could  not  have  done
+that,"  says  my  pride,  and  remains  inexorable.  Eventually —
+the  memory  yields.
+
+69
+
+One  has  regarded  life  carelessly,  if  one  has  failed  to  see
+the  hand  that — kilte  with  leniency.
+
+70
+
+If  a  man  has  character,  he  has  also  his  typical  experience,
+which  always  recurs.
+
+71
+
+The  Sage  as  Astronomer. — So  long  as  thou  feelest  the  stars
+an  "above  thee,"  thou  lackest  the  eye  of  the  discerning
+le.
+
+74  BEYOND  GOOD  AND  EVIL
+
+72
+
+It  is  not  the  strength,  but  the  duration  of  great  sentiments
+that  makes  great  men.
+
+73
+
+He  who  attains  his  ideal,  precisely  thereby  surpasses  it.
+
+73A
+
+Many  a  peacock  hides  his  tail  from  every  eye — and  calls
+it  his  pride.
+
+74
+
+A  man  of  genius  is  unbearable,  unless  he  possess  at  least
+two  things  besides:  gratitude  and  purity.
+
+75
+
+The  degree  and  nature  of  a  man's  sensuality  extends  to
+the  highest  altitudes  of  his  spirit.
+
+76
+
+Under  peaceful  conditions  the  militant  man  attacks  him-
+self.
+
+77
+With  his  principles  a  man  seeks  either  to  dominate,
+
+BEYOND   GOOD  AND  EVIL  75
+
+justify,  or  honour,  or  reproach,  or  conceal  his  habits:  two
+men  with  the  same  principles  probably  seek  fundamentally
+different  ends  therewith.
+
+78
+
+He  who  despises  himself,  nevertheless  esteems  himself
+thereby,  as  a  despiser.
+
+79
+
+A  soul  which  knows  that  it  is  loved,  but  does  not  itself
+love,  betrays  its  sediment:  its  dregs  come  up.
+
+80
+
+A  thing  that  is  explained  ceases  to  concern  us. — ^What  did
+the  God  mean  who  gave  the  advice,  "Know  thyself!"  Did
+it  perhaps  imply:  "Cease  to  be  concerned  about  thyself!
+become  objective!" — And  Socrates? — And  the  "scientific
+man"?
+
+8x
+
+It  is  terrible  to  die  of  thirst  at  sea.  Is  it  necessary  that
+tyou  should  so  salt  your  truth  that  it  will  no  longer — quench
+Ithirst?
+
+83
+
+"Sympathy  for  all" — would  be  harshness  and  t)Tanny  for
+Itkee,  my  good  neighbour!
+
+j6
+
+BEYOND  GOOD  AND  EVIL
+
+83
+
+Insttnct. — When  the  house  is  on  fire  one  forgets  even  th€
+dinner. — ^Yes,  but  one  recovers  it  from  amongst  the  ashes.
+
+84
+
+Woman  learns  how  to  hate  in  proportion  as  she — forget
+now  to  charm.
+
+8S
+
+The  same  emotions  are  in  man  and  woman,  but  in  different
+tempo;  on  that  account  man  and  woman  never  cease  to  mis
+understand  each  other.
+
+86
+
+In  the  background  of  all  their  personal  vanity,  wom€
+l)t«emselves  have  still  their  impersonal  scorn — for  "woman."
+
+87
+
+Fettered  Heart,  Free  Spirit. — ^When  one  firmly  fetters
+bne's  heart  and  keeps  it  prisoner,  one  can  allow  one's  spirit
+tnany  liberties:  I  said  this  once  before.  But  people  do  not
+believe  it  when  I  say  so,  unless  they  know  it  already.
+
+88
+
+I
+
+One  begins  to  distrust  very  clever  persons  when  they  be-
+come embarrassed.
+
+1
+
+BEYOND  GOOD  AND  EVIL  72
+
+89
+
+Dreadful  experiences  raise  the  question  whether  he  wh«
+experiences  them  is  not  something  dreadful  also.
+
+90
+
+Heavy,  melancholy  men  turn  lighter,  and  come  temporar-
+ily to  their  surface,  precisely  by  that  which  makes  others
+heavy — ^by  hatred  and  love.
+
+91
+
+So  cold,  so  icy,  that  one  bums  one's  finger  at  the  touch
+of  him!  Every  hand  that  lays  hold  of  him  shrinks  back! —
+And  for  that  very  reason  many  think  him  red-hot.
+
+92
+
+Who  has  not,  at  one  time  or  another — sacrificed  himself
+for  the  sake  of  his  good  name?
+
+93
+
+In  affability  there  is  no  hatred  of  men,  but  precisely  on  that
+I  account  a  great  deal  too  much  contempt  of  men.
+
+94
+
+The  maturity  of  man — that  means,  to  have  reacquired  the
+[seriousness  that  one  had  as  a  child  at  play.
+
+78  BEYOND  GOOD  AND  EVIL
+
+95
+
+To  be  ash£imed  of  one's  immorality  is  a  step  on  the  ladder
+at  the  end  of  which  one  is  ashamed  also  of  one's  morality.
+
+96
+
+One  should  part  from  life  as  Ulysses  parted  from  Nausicaa
+-blessing  it  rather  than  in  love  with  it.
+
+97
+
+What?    A  great  man?    I  always  see  merely  the  play-actor
+of  his  own  ideal.
+
+98
+
+When  one  trains  one's  conscience,  it  kisses  one  while  it
+bites.
+
+99
+
+The  Disappointed  One  Speaks. — "I  listened  for  the  echo
+and  I  heard  only  praise."
+
+100
+
+We  all  feign  to  ourselves  that  we  are  simpler  than  we
+*re;  we  thus  relax  ourselves  away  from  our  fellows.
+
+I
+
+BEYOND  GOOD  AND  EVIL  79
+
+xox
+
+A  discerning  one  might  easily  regard  himself  at  present  as
+the  animalisation  of  God.
+
+102
+
+I
+
+Discovering  reciprocal  love  should  really  disenchant  the
+lover  with  regard  to  the  beloved.  "What!  She  is  modest
+enough  to  love  even  you?    Or  stupid  enough?    Or — or "
+
+103
+
+The  Danger  in  Happiness. — "Everything  now  turns  out
+best  for  me,  I  now  love  every  fate: — ^who  would  like  to  be
+riy  fate?"
+
+Z04
+
+Not  their  love  of  himianity,  but  the  impotence  of  their
+love,  prevents  the  Christians  of  to-day — ^burning  us.
+
+The  pia  jraus  is  still  more  repugnant  to  the  taste  {the
+*'piety")  of  the  free  spirit  (the  "pious  man  of  knowledge")
+than  the  impia  jraus.  Hence  the  profoimd  lack  of  judg-
+ment, in  comparison  with  the  church,  characteristic  of  the
+type  "free  spirit" — as  its  non-freedom.
+
+8o  BEYOND  GOOD  AND  EVIL
+
+io6
+By  means  of  music  the  very  passions  enjoy  themselves.
+
+107
+
+A  sign  of  strong  character,  when  once  the  resolution  has
+been  taken,  to  shut  the  ear  even  to  the  best  coimter-argu-
+ments.    Occasionally,  therefore,  a  will  to  stupidity.
+
+108
+
+There  is  no  such  thing  as  moral  phenomena,  but  only  a
+moral  interpretation  of  phenomena.
+
+109
+
+The  criminal  is  often  enough  not  equal  to  his  deed:  he  ex-
+tenuates and  maligns  it.
+
+no
+
+The  advocates  of  a  criminal  are  seldom  artists  enough
+to  turn  the  beautiful  terribleness  of  the  deed  to  the  advan-
+tage of  the  doer.
+
+Ill
+
+Our  vanity  is  most  difficult  to  wound  just  when  our  pride
+has  been  wounded.
+
+i
+
+BEYOND   GOOD  AND  EVIL  Sir
+
+112
+
+To  him  who  feels  himself  preordained  to  contemplation
+and  not  to  belief,  all  believers  are  too  noisy  and  obtrusive;
+he  guards  against  them.
+
+"3
+
+"You  want  to  prepossess  him  in  your  favour?  Then  you
+must  be  embarrassed  before  him."
+
+114
+
+The  immense  expectation  with  regard  to  sexual  love,  and
+the  coyness  in  this  expectation,  spoils  all  the  perspectives  of
+women  at  the  outset.
+
+"S
+
+Where  there  is  neither  love  nor  hatred  in  the  game,
+woman's  play  is  mediocre.
+
+116
+
+The  great  epochs  of  our  life  are  at  the  points  when  we
+gain  courage  to  rebaptize  our  badness  as  the  best  in  us.
+
+117
+
+The  will  to  overcome  an  emotion,  is  ultimately  only  the
+rill  of  another,  or  of  several  other,  emotions.
+
+S2  BEYOND  GOOD  AND  EVIL
+
+ii8
+
+}
+
+There  is  an  innocence  of  admiration:  it  is  possessed  by
+him  to  whom  it  has  not  yet  occurred  that  he  himself  may
+he  admired  some  day.
+
+119
+
+Our  loathing  of  dirt  may  be  so  great  as  to  prevent  om
+■cleaning  ourselves — "justifying"  ourselves.
+
+120
+
+Sensuality  often  forces  the  growth  of  love  too  much,  so
+that  its  root  remains  we£ik,  and  is  easily  torn  up.
+
+121
+
+It  is  a  curious  thing  that  God  learned  Greek  when  he
+wished  to  turn  author — and  that  he  did  not  learn  it  better.
+
+Z22
+
+To  rejoice  on  account  of  praise  is  in  many  cases  merely
+politeness  of  heart — and  the  very  opposite  of  vanity  of  spirit.
+
+123
+Even  concubinage  has  been  corrupted — ^by  marriage.
+
+1
+
+BEYOND  GOOD  AND  EVIL  8^
+
+"4
+
+He  who  exults  at  the  stake,  does  not  triumph  over  pain,
+but  because  of  the  fact  that  he  does  not  feel  pain  where  he
+expected  it.    A  parable.
+
+"5
+
+When  we  have  to  change  an  opinion  about  any  one,  we
+charge  heavily  to  his  account  the  inconvenience  he  thereby
+causes  us.
+
+126
+
+A  nation  is  a  detour  of  nature  to  arrive  at  six  or  seven
+great  men. — Yes,  and  then  to  get  round  them.
+
+127
+
+In  the  eyes  of  all  true  women  science  is  hostile  to  the
+sense  of  shame.  They  feel  as  if  one  wished  to  peep  imder
+their  skin  with  it — or  worse  still!  imder  their  dress  and
+finery.
+
+128
+
+The  more  abstract  the  truth  you  wish  to  teach,  the  more
+must  you  allure  the  senses  to  it.
+
+129
+
+The  devil  has  the  most  extensive  perspectives  for  God;
+
+84  BEYOND  GOOD  AND  EVIL
+
+m
+
+on  that  account  he  keeps  so  far  away  from  him: — the  devil,,
+in  effect,  as  the  oldest  friend  of  knowledge.
+
+130
+
+What  a  person  is  begins  to  betray  itself  when  his  talc
+decreases, — when  he  ceases  to  show  what  he  can  do.    Talent"
+is  also  an  adornment;  an  adornment  is  also  a  concealment.
+
+131
+
+The  sexes  deceive  themselves  about  each  other:  the  rea-
+son is  that  in  reality  they  honour  and  love  only  themselves
+(or  their  own  ideal,  to  express  it  more  agreeably).  Thus
+man  wishes  woman  to  be  peaceable:  but  in  fact  woman  is
+essentially  unpeaceable,  like  the  cat,  however  well  she  may
+have  assumed  the  peaceable  demeanour.
+
+132
+
+One  is  punished  best  for  one's  virtues.
+
+133
+
+He  who  cannot  find  the  way  to  his  ideal,  lives  more
+frivolously  zmd  shamelessly  than  the  man  without  an  ideal.
+
+134
+
+From  the  senses  originate  all  trustworthiness,  all  good
+conscience,  all  evidence  of  truth.  ^j
+
+1
+
+BEYOND  GOOD  AND  EVIL  85
+
+135
+
+Pharisaism  is  not  a  deterioration  of  the  good  man;  a  con-
+siderable peirt  of  it  is  rather  an  essential  condition  of  being
+good.
+
+136
+
+The  one  seeks  an  accoucheur  for  his  thoughts,  the  other
+seeks  some  one  whom  he  can  assist:  a  good  conversation  thus
+originates.
+
+137
+
+In  intercourse  with  scholars  and  artists  one  readily  makes
+mistakes  of  opposite  kinds:  in  a  remarkable  scholar  one
+not  infrequently  finds  a  mediocre  man;  and  often  even  in
+a  mediocre  artist,  one  finds  a  very  remarkable  man.
+
+138
+
+We  do  the  same  when  awake  as  when  dreaming:  we  only
+invent  and  imagine  him  with  whom  we  have  intercourse —
+and  forget  it  immediately.
+
+139
+
+In  revenge  and  in  love  woman  is  more  barbarous  thap
+man.
+
+86  BEYOND  GOOD  AND  EVIL
+
+140
+
+Advice  as  a  Riddle. — "If  the  band  is  not  to  break,  bite  it
+first — secure  to  make!"
+
+141
+
+The  belly  is  the  reason  why  man  does  not  so  readily  take
+himself  for  a  God.
+
+142
+
+The  chastest  utterance  I  ever  heard:  "Dans  le  veritable
+amour  c'est  I'dnti  qui  enveloppe  le  corps."
+
+143
+
+Our  vanity  would  like  what  we  do  best  to  pass  precisely
+for  what  is  most  difficult  to  us. — Concerning  the  origin  of
+many  systems  of  morals.
+
+144
+
+When  a  woman  has  scholarly  inclinations  there  is  gen-
+erally something  wrong  with  her  sexual  nature.  Barrenness
+itself  conduces  to  a  certain  virility  of  taste;  man,  indeed,
+if  I  may  say  so,  is  "the  barren  animal."
+
+I4S
+
+Comparing  man  and  woman  generally,  one  may  say  that
+woman  would  not  have  the  genius  for  adornment,  if  she
+had  not  the  instinct  for  the  secondary  role.  „,
+
+i
+
+BEYOND  GOOD  AND  EVIL  87
+
+146
+
+He  who  fights  with  monsters  should  be  careful  lest  he
+thereby  become  a  monster.  And  if  thou  gaze  long  into  an
+abyss,  the  abyss  will  also  gaze  into  thee.
+
+147
+
+From  old  Florentine  novels — moreover,  from  life:  Buona
+lemmina  e  mala  jemmina  vuol  bastone. — Sacchetti,  Nov.  86.
+
+148
+
+To  seduce  their  neighbour  to  a  favourable  opinion,  and
+afterwards  to  believe  implicitly  in  this  opinion  of  their
+neighbour — who  can  do  this  conjuring  trick  so  well  as
+women?
+
+149
+
+That  which  an  age  considers  evil  is  usually  an  imseason-
+able  echo  of  what  was  formerly  considered  good — the  atavism
+of  an  old  ideal.
+
+150
+
+Around  the  hero  everything  becomes  a  tragedy;  aroimd
+the  demigod  everything  becomes  a  satyr-play;  and  aroimd
+God  everything  becomes — what?  perhaps  a  "world"?
+
+&S  BEYOND  GOOD  AND  EVIL
+
+It  is  not  enough  to  possess  a  talent:  one  must  also  have
+your  permission  to  possess  it; — eh,  my  friends?
+
+152
+
+"Where  there  is  the  tree  of  knowledge,  there  is  always
+Paradise:"  so  say  the  most  ancient  and  the  most  modem
+serpents.
+
+IS5
+
+What  is  done  out  of  love  always  takes  place  beyond  good
+and  evil.
+
+154
+
+Objection,  evasion,  joyous  distrust,  and  love  of  irony  are
+signs  of  health;  everything  absolute  belongs  to  pathology.
+
+The  sense  of  the  tragic  increases  and  declines  with  sen-
+«uousness.
+
+156
+
+Insanity  in  individuals  is  something  rare — ^but  in  groups,
+parties,  nations,  and  epochs  it  is  the  rule.
+
+157
+
+The  thought  of  suicide  is  a  great  consolation:  by  means
+of  it  one  gets  successfully  through  many  a  bad  night.  ^1
+
+ml
+
+BEYOND   GOOD  AND   EVIL  89
+
+158
+
+Not  only  our  reason,  but  also  our  conscience,  truckles  to
+our  strongest  impulse — the  tyrant  in  us.
+
+159
+
+One  must  repay  good  and  ill;  but  why  just  to  the  person
+who  did  us  good  or  ill?
+
+160
+
+One  no  longer  loves  one's  knowledge  sufficiently  after  one
+has  communicated  it.
+
+161
+
+Poets  act  shamelessly  towards  their  experiences:  tney  ex-
+ploit them.
+
+162
+
+"Our  fellow-creature  is  not  our  neighbour,  but  our  neigh-
+bour's neighbour:" — so  thinks  every  nation.
+
+163
+
+Love  brings  to  light  the  noble  and  hidden  qualities  of  a
+lover — his  rare  and  exceptional  traits:  it  is  thus  liable  to  be
+deceptive  as  to  his  normal  character.
+
+164
+
+Jesus  said  to  his  Jews:  "The  law  was  for  servants; — love
+
+90  BEYOND  GOOD  AND  EVIL
+
+God  as  I  love  him,  as  his  Son!    What  have  we  Sons  of  God
+to  do  with  morals!"
+
+i6S
+
+In  Sight  of  Every  Party. — ^A  shepherd  has  always  need
+of  a  bell-wether— or  he  has  himself  to  be  a  wether  occa-
+sionally.
+
+i66
+
+One  may  indeed  lie  with  the  mouth;  but  with  the  accom-
+panying grimace  one  nevertheless  tells  the  truth.
+
+167
+
+To  vigourous  men  intimacy  is  a  matter  of  shame — and
+something  precious.
+
+z68
+
+Christianity  gave  Eros  poison  to  drink;  he  did  not  die
+of  it,  certainly,  but  degenerated  to  Vice.
+
+169
+
+To  talk  much  about  oneself  may  also  be  a  means  of  con-
+cealing oneself.
+
+170
+
+In  praise  there  is  mcH-e  obtrusiveness  than  in  blame.
+
+BEYOND   GOOD  AND  EVIL  91
+
+171
+
+Pity  has  an  almost  ludicrous  effect  on  a  man  of  knowl-
+edge, like  tender  hands  on  a  Cyclops.
+
+172
+
+One  occasionally  embraces  some  one  or  other,  out  of  love
+to  mankind  (because  one  cannot  embrace  all);  but  this  is
+what  one  must  never  confess  to  the  individual.
+
+173
+
+One  does  not  hate  as  long  as  one  disesteems,  but  only
+when  one  esteems  equal  or  superior.
+
+174
+
+Ye  Utilitarians — ^ye,  too,  love  the  utile  only  as  a  vehicle
+for  your  inclinations, — ye,  too,  resilly  find  the  noise  of  its
+wheels  insupportable!
+
+175
+One  loves  ultimately  one's  desires,  not  the  thing  desired.
+
+176
+
+The  vanity  of  others  is  only  counter  to  our  taste  when
+it  is  counter  to  our  vanity.
+
+yz
+
+BEYOND  GOOD  AND  EVIL
+
+177
+
+With  regard  to  what  "truthfulness"  is,  perhaps  nobody  has
+iver  been  sufficiently  truthful.
+
+178
+
+One  does  not  believe  in  the  follies  of  clever  men:  what  a^
+forfeiture  of  the  rights  of  man!
+
+179
+
+The  consequences  of  our  actions  seize  us  by  the  forelock,
+very  indifferent  to  the  fact  that  we  have  meanwhile  "re-
+formed."
+
+180
+
+There  is  an  innocence  in  lying  which  is  the  sign  of  good,
+iaith  in  a  cause.
+
+181
+
+It  is  inhuman  to  bless  when  one  is  being  cursed.
+
+182
+
+The  familiarity  of  superiors  embitters  one,  because  it  may
+not  be  returned.
+
+183
+
+"I  am  affected,  not  because  you  have  deceived  me,  but
+because  I  can  no  longer  believe  in  you."
+
+i
+
+BEYOND   GOOD  AND  EVIL  93
+
+184
+
+There  is  a  haughtiness  of  kindness  which  has  the  appear-
+ance of  wickedness.
+
+"I  dislike  him." — Why? — *'I  am  not  a  match  for  him." —
+Did  any  one  ever  answer  so?
+
+CHAPTER  V
+
+The  Natural  History  of  Morals
+
+186
+
+The  moral  sentiment  in  Europe  at  present  is  perhaps  as
+subtle,  belated,  diverse,  sensitive,  and  refined,  as  the  "Science
+of  Morals"  belonging  thereto  is  recent,  initial,  awkward,  and
+coarse-fingered: — an  interesting  contrast,  which  sometimes
+becomes  incarnate  and  obvious  in  the  very  person  of  a
+moralist.  Indeed,  the  expression,  "Science  of  Morals"  is,
+in  respect  to  what  is  designated  thereby,  far  too  presumptu-
+ous and  counter  to  good  taste, — ^which  is  always  a  fore-
+taste of  more  modest  expressions.  One  ought  to  avow  with
+the  utmost  fairness  what  is  still  necessary  here  for  a  long
+time,  what  is  alone  proper  for  the  present:  namely,  the
+collection  of  material,  the  comprehensive  survey  and  classi-
+fication of  an  immense  domain  of  delicate  sentiments  of
+worth,  and  distinctions  of  worth,  which  live,  grow,  propagate,
+and  perish — and  perhaps  attempts  to  give  a  clear  idea  of
+the  recurring  and  more  common  forms  of  these  living  crystal-
+lisations— as  preparation  for  a  theory  of  types  of  morality.
+To  be  sure,  people  have  not  hitherto  been  so  modest.  All
+the  philosophers,  with  a  pedantic  and  ridiculous  seriousness,
+demanded  of  themselves  something  very  much  higher,  more
+pretentious,  and  ceremonious,  when  they  concerned  them-
+
+y4
+
+BEYOND   GOOD  AND  EVIL  95
+
+selves  with  morality  as  a  science:  they  wanted  to  give  a  basis
+to  morality — and  every  philosopher  hitherto  has  believed
+that  he  has  given  it  a  basis;  morality  itself,  however,  has
+been  regarded  as  something  "given."  How  far  from  their
+awkward  pride  was  the  seemingly  insignificant  problem —
+left  in  dust  and  decay — of  a  description  of  forms  of  morality,
+notwithstanding  that  the  finest  hands  and  senses  could  hardly
+be  fine  enough  for  it!  It  was  precisely  owing  to  moral  phi-
+losophers knowing  the  moral  facts  imperfectly,  in  an  arbi-
+trary epitome,  or  an  accidental  abridgement — perhaps  as
+the  morality  of  their  environment,  their  position,  their  church,
+their  Zeitgeist,  their  climate  and  zone — it  was  precisely  be-
+cause they  were  badly  instructed  with  regard  to  nations,
+eras,  and  past  ages,  and  were  by  no  means  eager  to  know
+about  these  matters,  that  they  did  not  even  come  in  sight
+of  the  real  problems  of  morals — problems  which  only  disclose
+themselves  by  a  comparison  of  many  kinds  of  morality.  In
+every  "Science  of  Morals"  hitherto,  strange  as  it  may  sound,
+the  problem  of  morality  itself  has  been  omitted;  there  has
+been  no  suspicion  that  there  was  anything  problematic  there!
+That  which  philosophers  called  "giving  a  basis  to  morality,"
+and  endeavoured  to  realise,  has,  when  seen  in  a  right  light,
+proved  merely  a  learned  form  of  good  faith  in  prevailing
+morality,  a  new  means  of  its  expression,  consequently  just  a
+matter-of-fact  within  the  sphere  of  a  definite  morality,  yea,
+in  its  ultimate  motive,  a  sort  of  denial  that  it  is  lawful  for
+this  morality  to  be  called  in  question — and  in  any  case  the
+reverse  of  the  testing,  analysing,  doubting,  and  vivisecting
+of  this  very  faith.  Hear,  for  instance,  with  what  innocence
+— almost  worthy  of  honour — Schopenhauer  represents  his
+own  task,  and  draw  your  conclusions  concerning  the  scien-
+tificness  of  a  "Science"  whose  latest  master  still  talks  in
+the  strain  of  children  and  old  wives:  "The  principle,"  he
+
+96  BEYOND  GOOD  AND  EVIL
+
+says  (page  136  of  the  Grundprobleme  der  Ethik*),  "the
+axiom  about  the  purport  of  which  all  moralists  are  practically
+agreed:  neminem  laede,  immo  omnes  quantum  potes  juva —
+is  really  the  proposition  which  all  moral  teachers  strive  to
+establish,  .  .  .  the  real  basis  of  ethics  which  has  been  sought,
+like  the  philosopher's  stone,  for  centuries." — The  difficulty  of
+establishing  the  proposition  referred  to  may  indeed  be  great
+— it  is  well  known  that  Schopenhauer  also  was  imsuccessful
+in  his  efforts;  and  whoever  has  thoroughly  realised  how
+absurdly  false  and  sentimental  this  proposition  is,  in  a  world
+whose  essence  is  Will  to  Power,  may  be  reminded  that
+Schopenhauer,  although  a  pessimist,  actually — played  the
+flute  .  .  .  daily  after  dinner:  one  may  read  about  the  matter
+in  his  biography.  A  question  by  the  way:  a  pessimist,  a
+repudiator  of  God  and  of  the  world,  who  makes  a  halt  at
+morality — who  assents  to  morality,  and  plays  the  flute  to
+laede-neminem  moraJs,  what?     Is  that  really — a  pessimint?
+
+187
+
+Apart  from  the  value  of  such  assertions  as  ''there  is  :.
+categorical  imperative  in  us,"  one  can  always  ask:  What
+does  such  an  assertion  indicate  about  him  who  makes  it?
+There  are  systems  of  morals  which  are  meant  to  justify  their
+author  in  the  eyes  of  other  people;  other  systems  of  morals
+are  meeint  to  tranquillise  him,  and  make  him  self-satisfied;
+with  other  systems  he  wants  to  crucify  and  humble  himself;
+with  others  he  wishes  to  take  revenge;  with  others  to  conceal
+himself;  with  others  to  glorify  himself  and  gain  superiority
+and  distinction; — this  system  of  morals  helps  its  author  tx)
+forget,  that  system  makes  him,  or  something  of  him,  for-
+
+*  Pages  54-55  of  Schopenhauer's  Basis  of  Morality,  translated
+by  Arthur  B.  Bullock,  M.A.   (1903).  ^Il
+
+BEYOND   GOOD  AND  EVIL  97
+
+gotten;  many  a  moralist  would  like  to  exercise  power  and
+creative  arbitrariness  over  mankind;  many  another,  perhaps,
+Kant  especially,  gives  us  to  understand  by  his  morals  that
+"what  is  estimable  in  me,  is  that  I  know  how  to  obey — and
+with  you  it  shall  not  be  otherwise  than  with  me!"  In  short,
+systems  of  morals  are  only  a  sign-language  of  the  emotions.
+
+x88
+
+In  contrast  to  laisser-aller,  every  system  of  morals  is  a
+sort  of  tyranny  against  "nature"  and  also  against  "reason";
+that  is,  however,  no  objection,  unless  one  should  again  de-
+cree by  some  system  of  morals,  that  all  kinds  of  tyranny
+and  imreasonableness  are  unlawful.  What  is  essential  and
+invaluable  in  every  system  of  morals,  is  that  it  is  a  long
+constraint.  In  order  to  understand  Stoicism,  or  Port-Royal,
+or  Puritanism,  one  should  remember  the  constraint  under
+which  every  language  has  attained  to  strength  and  freedom —
+the  metrical  constraint,  the  tyranny  of  rhyme  and  rhythm.
+How  much  trouble  have  the  poets  and  orators  of  every  nation
+given  themselves! — not  excepting  some  of  the  prose  writers
+of  to-day,  in  whose  ear  dwells  an  inexorable  conscientious-
+ness— "for  the  sake  of  a  folly,"  as  utilitarian  bunglers  say,
+and  thereby  deem  themselves  wise — "from  submission  to
+arbitrary  laws,"  as  the  anarchists  say,  and  thereby  fancy
+themselves  "free,"  even  free-spirited.  The  singular  fact  re-
+mains, however,  that  everything  of  the  nature  of  freedom,
+elegance,  boldness,  dance,  and  masterly  certainty,  which  ex-
+ists or  has  existed,  whether  it  be  in  thought  itself,  or  in
+administration,  or  in  speaking  and  persuading,  in  art  just
+as  in  conduct,  has  only  developed  by  means  of  the  tyranny
+of  such  arbitrary  law;  and  in  all  seriousness,  it  is  not  at  all
+improbable  that  precisely  this  is  "nature"  and  "natural" —
+
+98  BEYOND  GOOD  AND  EVIL
+
+and  not  laisser-aller !  Every  artist  knows  how  different  from
+the  state  of  letting  himself  go,  is  his  "most  natural"  condition,
+the  free  arranging,  locating,  disposing,  and  constructing  in
+the  moments  of  "inspiration" — and  how  strictly  and  deli-
+cately he  then  obeys  a  thousand  laws,  which,  by  their  very
+rigidness  and  precision,  defy  all  formulation  by  means  of
+ideas  (even  the  most  stable  idea  has,  in  comparison  there-
+with, something  floating,  manifold,  and  ambiguous  in  it).
+The  essential  thing  "in  heaven  and  in  earth"  is,  apparently
+(to  repeat  it  once  more),  that  there  should  be  long  obedience
+in  the  same  direction;  there  thereby  results,  and  has  always
+resulted  in  the  long  run,  something  which  has  made  life
+worth  living;  for  instance,  virtue,  art,  music,  dancing,  rea-
+son, spirituality — anything  whatever  that  is  transfiguring,
+refined,  foolish,  or  divine.  The  long  bondage  of  the  spirit,
+the  distrustful  constraint  in  the  communicability  of  ideas,
+the  discipline  which  the  thinker  imposed  on  himself  to  think
+in  accordance  with  the  rules  of  a  church  or  a  court,  or
+conformable  to  Aristotelian  premises,  the  persistent  spiritual
+will  to  interpret  everything  that  happened  according  to  a
+Christian  scheme,  and  in  every  occurrence  to  rediscover  and
+justify  the  Christian  God: — all  this  violence,  arbitrariness,
+severity,  dreadfulness,  and  unreasonableness,  has  proved  it-
+self the  disciplinary  means  whereby  the  European  spirit  has
+attained  its  strength,  its  remorseless  curiosity  and  subtle
+mobility;  granted  also  that  much  irrecoverable  strength  and
+spirit  had  to  be  stifled,  suffocated,  and  spoilt  in  the  process]
+(for  here,  as  everywhere,  "nature"  shows  herself  as  she  is,l
+in  all  her  extravagant  and  indifferent  magnificence,  which,
+is  shocking,  but  nevertheless  noble).  That  for  centuries]
+European  thinkers  only  thought  in  order  to  prove  somethingj
+— nowadays,  on  the  contrary,  we  are  suspicious  of  everyj
+thinker  who  "wishes  to  prove  something" — that  it  was  alwa)
+
+BEYOND   GOOD  AND  EVIL  99
+
+settled  beforehand  what  was  to  be  the  result  of  their  strictest
+thinking,  as  it  was  perhaps  in  the  Asiatic  astrology  of  former
+times,  or  as  it  is  still  at  the  present  day  in  the  innocent,
+Christian-moral  explanation  of  immediate  personal  events
+"for  the  glory  of  God,"  or  "for  the  good  of  the  soul":— this
+tyranny,  this  arbitrariness,  this  severe  and  magnificent  stupid-
+ity, has  educated  the  spirit;  slavery,  both  in  the  coarser  and
+the  finer  sense,  is  apparently  an  indispensable  means  even
+of  spiritual  education  and  discipline.  One  may  look  at  every
+system  of  morals  in  this  light:  it  is  "nature"  therein  which
+teaches  to  hate  the  laisser-aller,  the  too  great  freedom,  and
+implants  the  need  for  limited  horizons,  for  immediate  duties
+— ^it  teaches  the  narrowing  of  perspectives,  and  thus,  in  a
+certain  sense,  that  stupidity  is  a  condition  of  life  and  develop-
+ment. "Thou  must  obey  some  one,  and  for  a  long  time;
+otherwise  thou  wilt  come  to  grief,  and  lose  all  respect  for
+thyself" — this  seems  to  me  to  be  the  moral  imperative  of  na-
+ture, which  is  certainly  neither  "categorical,"  as  old  Kant
+wished  (consequently  the  "otherwise"),  nor  does  it  address
+itself  to  the  individual  (what  does  nature  care  for  the  in-
+dividual!), but  to  nations,  races,  ages,  and  ranks,  above  all,
+however,  to  the  animal  "man"  generally,  to  mankind.
+
+189
+
+Industrious  races  find  it  a  great  hardship  to  be  idle:  it
+was  a  master  stroke  of  English  instinct  to  hallow  and  begloom
+Sunday  to  such  an  extent  that  the  Englishman  unconsciously
+hankers  for  his  week-  and  work-day  again: — as  a  kind  of
+cleverly  devised,  cleverly  intercalated  fast,  such  as  is  also
+frequently  found  in  the  ancient  world  (although,  as  is  appro-
+priate in  southern  nations,  not  precisely  with  respect  t(»
+work).    Many  kinds  of  fasts  are  necessary;  and  wherever
+
+loo  BEYOND  GOOD  AND  EVIL
+
+powerful  influences  and  habits  prevail,  legislators  have  to  see
+that  intercalary  days  are  appointed,  on  which  such  impulses
+are  fettered,  and  learn  to  hunger  anew.  Viewed  from  a
+higher  standpoint,  whole  generations  and  epochs,  when  they
+show  themselves  infected  with  any  moral  fanaticism,  seem
+like  those  intercalated  periods  of  restraint  and  fasting,  during
+which  an  impulse  learns  to  humble  and  submit  itself — at
+the  same  time  also  to  purify  and  sharpen  itself;  certain  philo-
+sophical sects  likewise  admit  of  a  similar  interpretation  (for
+instance,  the  Stoa,  in  the  midst  of  Hellenic  culture,  with  the
+atmosphere  rank  and  overcharged  with  Aphrodisiacal
+odours). — Here  also  is  a  hint  for  the  explanation  of  the
+paradox,  why  it  was  precisely  in  the  most  Christian  period
+of  European  history,  and  in  general  only  under  the  pressure]
+f)f  Christian  sentiments,  that  the  sexual  impulse  sublimated  j
+into  love  (amour-passion),
+
+190
+
+There  is  something  in  the  morality  of  Plato  which  does]
+not  really  belong  to  Plato,  but  which  only  appears  in  his
+philosophy,  one  might  say,  in  spite  of  him:  namely,  Socra-
+tism,  for  which  he  himself  was  too  noble.    "No  one  desire
+to  injure  himself,  hence  all  evil  is  done  unwittingly.     Thej
+evil  man  inflicts  injury  on  himself;  he  would  not  do  so,  i
+however,  if  he  knew  that  evil  is  evil.    The  evil  man,  there-
+fore, is  only  evil  through  error;  if  one  free  him  from  error  one
+will  necessarily  make  him — good." — This  mode  of  reasoning
+savours  of  the  populace,  who  perceive  only  the  unpleasant
+consequences  of  evil-doing,  and  practically  judge  that  "it  isJ
+stupid  to  do  wrong";  while  they  accept  "good"  as  identical!
+with  "useful  and  pleasant,"  vnthout  further  thought.     As|
+regards  every  system  of  utilitarianism,  one  may  at  once
+
+BEYOND  GOOD  AND  EVIL  loi
+
+assume  that  it  has  the  same  origin,  and  follow  the  scent:
+one  will  seldom  err. — Plato  did  all  he  could  to  interpret
+something  refined  and  noble  into  the  tenets  of  his  teacher,
+and  above  all  to  interpret  himself  into  them — he,  the  most
+daring  of  all  interpreters,  who  lifted  the  entire  Socrates  out
+of  the  street,  as  a  popular  theme  and  song,  to  exhibit  him
+in  endless  and  impossible  modifications — namely,  in  all  his
+own  disguises  and  multiplicities.  In  jest,  and  in  Homeric
+language  as  well,  what  is  the  Platonic  Socrates,  if  not —
+
+jtooodc   XIXaTGov  Smodev  re   IXXaxcov  \ieaar\  re  XijiaiQOu
+191
+
+The  old  theological  problem  of  "Faith"  and  "Knowledge,"
+or  more  plainly,  of  instinct  and  reason — the  question  whether,
+in  respect  to  the  valuation  of  things,  instinct  deserves  more
+authority  than  rationality,  which  wants  to  appreciate  and
+act  according  to  motives,  according  to  a  "VVhy,"  that  is  to
+say,  in  conformity  to  purpose  and  utility — it  is  always  the
+old  moral  problem  that  first  appeared  in  the  person  of
+Socrates,  and  had  divided  men's  minds  long  before  Christian-
+ity. Socrates  himself,  following,  of  course,  the  taste  of  his
+talent — that  of  a  surpassing  dialectician — took  first  the  side
+of  reason;  and,  in  fact,  what  did  he  do  all  his  life  but  laugh
+at  the  awkward  incapacity  of  the  noble  Athenians,  who  were
+men  of  instinct,  like  all  noble  men,  and  could  never  give
+satisfactory  answers  concerning  the  motives  of  their  actions?
+In  the  end,  however,  though  silently  and  secretly,  he  laughed
+also  at  himself:  with  his  finer  conscience  and  introspection.
+he  found  in  himself  the  same  difficulty  and  incapacity.  "But
+why" — he  said  to  himself — "should  one  on  that  account
+separate  oneself  from  the  instincts!    One  must  set  them  right,
+
+102  BEYOND  GOOD  AND  EVIL
+
+and  the  reason  also — one  must  follow  the  instincts,  but  at
+the  same  time  persuade  the  reason  to  support  them  with  good
+arguments."  This  was  the  real  falseness  of  that  great  and
+mysterious  ironist;  he  brought  his  conscience  up  to  the
+point  that  he  was  satisfied  with  a  kind  of  self -outwitting:
+in  fact,  he  perceived  the  irrationality  in  the  moral  judgment.
+• — Plato,  more  innocent  in  such  matters,  and  without  the
+craftiness  of  the  plebeian,  wished  to  prove  to  himself,  at  the
+expenditure  of  all  his  strength — the  greatest  strength  a  phi-
+losopher had  ever  expended — that  reason  and  instinct  lead
+spontaneously  to  one  goal,  to  the  good,  to  ''God";  and  since
+Plato,  all  theologians  and  philosophers  have  followed  the
+same  path — which  means  that  in  matters  of  morality,  in-
+stinct (or  as  Christians  call  it,  "Faith,"  or  as  I  call  it,  "the
+herd")  has  hitherto  triumphed.  Unless  one  should  make
+an  exception  in  the  case  of  Descartes,  the  father  of  rational-
+ism (and  consequently  the  grandfather  of  the  Revolution),
+who  recognised  only  the  authority  of  reason:  but  reason  is
+only  a  tool,  and  Descartes  was  superficial.
+
+192
+
+Whoever  has  followed  the  history  of  a  single  science,  finds
+in  its  development  a  clue  to  the  understanding  of  the  oldest
+and  commonest  processes  of  all  "knowledge  and  cognisance":
+there,  as  here,  the  premature  h)7potheses,  the  fictions,  the,
+good  stupid  will  to  "belief,"  and  the  lack  of  distrust  anc
+patience  are  first  developed — our  senses  learn  late,  and  nevet
+learn  completely,  to  be  subtle,  reliable,  and  cautious  orga
+of  knowledge.    Our  eyes  find  it  easier  on  a  given  occasion!
+to  produce  a  picture  already  often  produced,  than  to  seizei
+upon  the  divergence  and  novelty  of  an  impression:  the  latterj
+requires  more  force,  more  "morality."     It  is  difficult  ant
+
+BEYOND  GOOD  AND  EVIL  103
+
+painful  for  the  ear  to  listen  to  anything  new;  we  hear  strange
+music  badly.  When  we  hear  another  language  spoken,  we
+involuntarily  attempt  to  form  the  sounds  into  words  with
+which  we  are  more  familiar  and  conversant — it  was  thus,
+for  example,  that  the  Germans  modified  the  spoken  word
+arcubalista  into  armbrust  (cross-bow).  Our  senses  are  also
+hostile  and  averse  to  the  new;  and  generally,  even  in  the
+"simplest"  processes  of  sensation,  the  emotions  dominate —
+such  as  fear,  love,  hatred,  and  the  passive  emotion  of  indo-
+lence.— As  little  as  a  reader  nowadays  reads  all  the  single
+words  (not  to  speak  of  syllables)  of  a  page — ^he  rather  takes
+about  five  out  oi  every  twenty  words  at  random,  and
+"guesses"  the  probably  appropriate  sense  to  them — just  as
+little  do  we  see  a  tree  correctly  and  completely  in  respect  to
+its  leaves,  branches,  colour,  and  shape;  we  find  it  so  much
+easier  to  fancy  the  chance  of  a  tree.  Even  in  the  midst  of
+the  most  remarkable  experiences,  we  still  do  just  the  same;
+we  fabricate  the  greater  part  of  the  experience,  and  can
+hardly  be  made  to  contemplate  any  event,  except  as  "in-
+ventors" thereof.  All  this  goes  to  prove  that  from  our
+fundamental  nature  and  from  remote  ages  we  have  been —
+accustomed  to  lying.  Or,  to  express  it  more  politely  and
+hypocritically,  in  short,  more  pleasantly — one  is  much  more
+of  an  artist  than  one  is  aware  of. — In  an  animated  conver-
+sation, I  often  see  the  face  of  the  person  with  whom  I  am
+speaking  so  clearly  and  sharply  defined  before  me,  accord-
+ing to  the  thought  he  expresses,  or  which  I  believe  to  be
+evoked  in  his  mind,  that  the  degree  of  distinctness  far  ex-
+ceeds the  strength  of  my  visual  faculty — the  delicacy  of  the
+play  of  the  muscles  and  of  the  expression  of  the  eyes  must
+therefore  be  imagined  by  me.  Probably  the  person  put  on
+quite  a  different  expression,  or  none  at  all.
+
+104  BEYOND  GOOD  AND  EVIL
+
+193
+
+Quidquid  luce  fuit,  tenebris  agit:  but  also  contrariwise,j
+What  we  experience  in  dreams,  provided  we  experience  it
+often,  pertains  at  last  just  as  much  to  the  general  belonging
+of  our  soul  as  anything  "actually"  experienced;  by  virtue
+thereof  we  are  richer  or  poorer,  we  have  a  requirement  mori
+or  less,  and  finally,  in  broad  daylight,  and  even  in  the  bright-^
+est  moments  of  our  waking  life,  we  are  ruled  to  some  extent
+by  the  nature  of  our  dreams.  Supposing  that  some  one  hz
+often  flown  in  his  dreams,  and  that  at  last,  as  soon  as  he
+dreams,  he  is  conscious  of  the  power  and  art  of  flying
+his  privilege  and  his  peculiarly  enviable  happiness;  such
+person,  who  believes  that  on  the  slightest  impulse,  he  can
+actualise  all  sorts  of  curves  and  angles,  who  knows  the  sen-
+sation of  a  certain  divine  levity,  an  "upwards"  without  effort
+or  constraint,  a  "downwards"  without  descending  or  lower-
+ing— without  trouble! — ^how  could  the  man  with  such  dream-
+experiences  and  dream-habits  fail  to  find  "happiness"  dif-
+ferently coloured  and  defined,  even  in  his  waking  hours!
+How  could  he  fail — to  long  differently  for  happiness?
+"Flight,"  such  as  is  described  by  poets,  must,  when  compared
+with  his  own  "flying,"  be  far  too  earthly,  muscular,  violent,
+far  too  "troublesome"  for  him.
+
+194
+
+The  difference  among  men  does  not  manifest  itself  only  \v
+the  difference  of  their  lists  of  desirable  things — in  their  re-
+garding different  good  things  as  worth  striving  for,  and
+being  disagreed  as  to  the  greater  or  less  value,  the  order  o*'
+rank,  of  the  commonly  recognised  desirable  things: — it  mani
+
+BEYOND  GOOD  AND  EVIL  105
+
+fests  itself  much  more  in  what  they  regard  as  actually  having
+and  possessing  a  desirable  thing.  As  regards  a  woman,  for
+instance,  the  control  over  her  body  and  her  sexual  gratifi-
+cation serves  as  an  amply  sufficient  sign  of  ownership  and
+possession  to  the  more  modest  man;  another  with  a  more
+suspicious  and  ambitious  thirst  for  possession,  sees  the  "ques-
+tionableness,"  the  mere  apparentness  of  such  ownership,  and
+wishes  to  have  finer  tests  in  order  to  know  especially  whether
+the  woman  not  only  gives  herself  to  him,  but  also  gives  up
+for  his  sake  what  she  has  or  would  like  to  have — only  then
+does  he  look  upon  her  as  "possessed."  A  third,  however,
+has  not  even  here  got  to  the  limit  of  his  distrust  and  his
+desire  for  possession:  he  asks  himself  whether  the  woman,
+when  she  gives  up  everything  for  him,  does  not  perhaps  do
+so  for  a  phantom  of  him;  he  wishes  first  to  be  thoroughly,
+indeed,  profoundly  well  known;  in  order  to  be  loved  at  all
+he  ventures  to  let  himself  be  found  out.  Only  then  does  he
+feel  the  beloved  one  fully  in  his  possession,  when  she  no
+longer  deceives  herself  about  him,  when  she  loves  him  just
+as  much  for  the  sake  of  his  devilry  and  concealed  insatia-
+bility, as  for  his  goodness,  patience,  and  spirituality.  One
+man  would  like  to  possess  a  nation,  and  he  finds  all  the
+higher  arts  of  Cagliostro  and  Catalina  suitable  for  his  pur-
+pose. Another,  with  a  more  refined  thirst  for  possession,  says
+to  himself:  "One  may  not  deceive  where  one  desires  to  pos-
+sess"— he  is  irritated  and  impatient  at  the  idea  that  a  mask
+of  him  should  rule  in  the  hearts  of  the  people:  "I  must,
+therefore,  make  myself  known,  and  first  of  all  learn  to  know
+myself!"  Amongst  helpful  and  charitable  people,  one  almost
+always  finds  the  awkward  craftiness  which  first  .<i;ets  up  suit-
+ably him  who  has  to  be  helped,  as  though,  for  instance,  he
+should  "merit"  help,  seek  just  their  help,  and  would  show
+himself  deeply  grateful,  attached,  and  subservient  to  tliem
+
+io6  BEYOND  GOOD  AND  EVIL
+
+for  all  help.  With  these  conceits,  they  take  control  of  the
+needy  as  a  property,  just  as  in  general  they  are  charitable
+and  helpful  out  of  a  desire  for  property.  One  finds  them
+jealous  when  they  are  crossed  or  forestalled  in  their  charity.
+Parents  involuntarily  make  something  like  themselves  out  of
+their  children — they  call  that  "education" ;  no  mother  doubts
+at  the  bottom  of  her  heart  that  the  child  she  has  bom  is
+thereby  her  property,  no  father  hesitates  about  his  right  to
+his  own  ideas  and  notions  of  worth.  Indeed,  in  former  times
+fathers  deemed  it  right  to  use  their  discretion  concerning  the
+life  or  death  of  the  newly  bom  (as  amongst  the  ancient  Ger-
+mans). And  like  the  father,  so  also  do  the  teacher,  the  class,
+the  priest,  and  the  prince  still  see  in  every  new  individual  an
+unobjectionable  opportunity  for  a  new  possession.  The
+consequence  is.  .  .  .
+
+195
+
+The  Jews — a  people  "bora  for  slavery,"  as  Tacitus  and  the
+whole  ancient  world  say  of  them;  "the  chosen  people  among
+the  nations,"  as  they  themselves  say  and  believe — the  Jews
+performed  the  miracle  of  the  inversion  of  valuations,  by
+means  of  which  life  on  earth  obtained  a  new  and  dangerous
+charm  for  a  couple  of  millenniums.  Their  prophets  fused
+into  one  the  expressions  "rich,"  "godless,"  "wicked,"  "vio-
+lent," "sensual,"  and  for  the  first  time  coined  the  word
+"world"  as  a  term  of  reproach.  In  this  inversion  of  valua-
+tions (in  which  is  also  included  the  use  of  the  word  "poor"
+as  synonymous  with  "saint"  and  "friend")  the  significance
+of  the  Jewish  people  is  to  be  foimd;  it  is  with  them  that  the
+slave-insurrection  in  morals  commences.
+
+I
+
+I
+I
+
+BEYOND  GOOD  AND  EVIL  107
+
+196
+
+It  is  to  be  inferred  that  there  are  countless  dark  bodies
+near  the  sun — such  as  we  shall  never  see.  Amongst  our-
+selves, this  is  an  allegory;  and  the  psychologist  of  morals
+reads  the  whole  star-writing  merely  as  an  allegorical  and  S)T1i-
+bolic  language  in  which  much  may  be  unexpressed.
+
+197
+
+The  beast  of  prey  and  the  man  of  prey  (for  instance,
+Caesar  Borgia)  are  fundamentally  misimderstood,  "nature"  is
+misunderstood,  so  long  as  one  seeks  a  "morbidness"  in  the
+constitution  of  these  healthiest  of  all  tropical  monsters  and
+growths,  or  even  an  innate  "hell"  in  them — as  almost  all
+moralists  have  done  hitherto.  Does  it  not  seem  that  there
+is  a  hatred  of  the  virgin  forest  and  of  the  tropics  among
+moralists?  And  that  the  "tropical  man"  must  be  discredited
+at  all  costs,  whether  as  disease  and  deterioration  of  mankind,
+or  as  his  own  hell  and  self-torture?  And  why?  In  favour
+of  the  "temperate  zones"?  In  favour  of  the  temperate  men?
+The  "moral"?  The  mediocre? — ^This  for  the  chapter:  "Mor-
+als as  Timidity."
+
+198
+
+All  the  systems  of  morals  which  address  themselves  with
+a  view  to  their  "happiness,"  as  it  is  called — what  else  are
+they  but  suggestions  for  behaviour  adapted  to  the  degree  of
+danger  from  themselves  in  which  the  individuals  live;  recipes
+for  their  passions,  their  good  and  bad  propensities,  in  so  far
+as  such  have  the  Will  to  Power  zmid  would  like  to  play  the
+
+io8  BEYOND  GOOD  AND  EVIL
+
+master;  small  and  great  expediencies  and  elaborations,  per
+meated  with  the  musty  odour  of  old  family  medicines  and
+old-wife  wisdom;  all  of  them  grotesque  and  absurd  in  their
+form — because  they  address  themselves  to  "all,"  because  they
+generalise  where  generalisation  is  not  authorised;  all  of  them
+speaking  unconditionally,  and  taking  themselves  uncondi-
+tionally; all  of  them  flavoured  not  merely  with  one  grain  of
+salt,  but  rather  endurable  only,  and  sometimes  even  seduc
+tive,  when  they  are  over-spiced  and  begin  to  smell  dangerously,
+especially  of  "the  other  world."  That  is  all  of  little  value
+Vt^hen  estimated  intellectually,  and  is  far  from  being  "science,"
+much  less  "wisdom";  but,  repeated  once  more,  and  three
+times  repeated,  it  is  expediency,  expediency,  expediency,
+mixed  with  stupidity,  stupidity,  stupidity — whether  it  be  thfi
+indifference  and  statuesque  coldness  towards  the  heated  folly
+of  the  emotions,  which  the  Stoics  advised  and  fostered;  or
+the  no-more-laughing  and  no-more-weeping  of  Spinoza,  the
+destruction  of  the  emotions  by  their  analysis  and  vivisection,
+which  he  recommended  so  naively;  or  the  lowering  of  the
+emotions  to  an  innocent  mean  at  which  they  may  be  satisfied,
+the  Aristotelianism  of  morals;  or  even  morality  as  the  en
+joyment  of  the  emotions  in  a  voluntary  attenuation  and
+spiritualisation  by  the  symbolism  of  art,  perhaps  as  music,
+or  as  love  of  God,  and  of  mankind  for  God's  sake — for  in
+religion  the  passions  are  once  more  enfranchised,  provided
+that  .  .  .  ;  or,  finally,  even  the  complaisant  and  wanton
+surrender  to  the  emotions,  as  has  been  taught  by  Hafis  and
+Goethe,  the  bold  letting-go  of  the  reins,  the  spiritual  and
+corporeal  licentia  morum  in  the  exceptional  cases  of  wise
+old  codgers  and  drunkards,  with  whom  it  "no  longer  has
+much  danger." — This  also  for  the  chapter:  "Morals  as
+Timidity."
+
+1
+
+BEYOND  GOOD  AND  EVIL  109
+
+199
+
+Inasmuch  as  in  all  ages,  as  long  as  mankind  has  existed,
+there  have  also  been  human  herds  (family  alliances,  com-
+munities, tribes,  peoples,  states,  churches),  and  always  a
+great  number  who  obey  in  proportion  to  the  small  number
+who  command — in  view,  therefore,  of  the  fact  that  obedience
+has  been  most  practised  and  fostered  among  mankind  hith-
+erto, one  may  reasonably  suppose  that,  generally  speaking,
+the  need  thereof  is  now  innate  in  every  one,  as  a  kind  of
+formal  conscience  which  gives  the  command:  "Thou  shalt
+unconditionally  do  something,  unconditionally  refrain  from
+something";  in  short,  "Thou  shalt."  This  need  tries
+to  satisfy  itself  and  to  fill  its  form  with  a  content;
+according  to  its  strength,  impatience,  and  eagerness,  it
+at  once  seizes  as  an  omnivorous  appetite  with  little
+selection,  and  accepts  whatever  is  shouted  into  its  ear
+by  all  sorts  of  commanders — parents,  teachers,  laws,  class
+prejudices,  or  public  opinion.  The  extraordinary  limitation
+of  human  development,  the  hesitation,  protractedness,  fre-
+quent retrogression,  and  turning  thereof,  is  attributable  to
+the  fact  that  the  herd-instinct  of  obedience  is  transmitted
+best,  and  at  the  cost  of  the  art  of  command.  If  one  imagine
+this  instinct  increasing  to  its  greatest  extent,  commanders
+and  independent  individuals  will  finally  be  lacking  alto-
+gether; or  they  will  suffer  inwardly  from  a  bad  conscience,
+and  will  have  to  impose  a  deception  on  themselves  in  the
+first  place  in  order  to  be  able  to  command:  just  as  if  they
+also  were  only  obeying.  This  condition  of  things  actually
+exists  in  Europe  at  present — I  call  it  the  moral  hypocrisy  of
+the  commanding  class.  They  know  no  other  way  of  protect-
+ing themselves  from  their  bad  conscience  than  by  playing  the
+
+no  BEYOND  GOOD  AND  EVIL
+
+role  of  executors  of  older  and  higher  orders  (of  predecessors,
+of  the  constitution,  of  justice,  of  the  law,  or  of  God  himself) ,
+or  they  even  justify  themselves  by  maxims  from  the  current
+opinions  of  the  herd,  as  "first  servants  of  their  people,"  or
+"instruments  of  the  public  weal."  On  the  other  hand,  the
+gregarious  European  man  nowadays  assumes  an  air  as  if
+he  were  the  only  land  of  man  that  is  allowable;  he  glorifies
+his  qualities,  such  as  public  spirit,  kindness,  deference,  in-
+dustry, temperance,  modesty,  indulgence,  S5mipathy,  by
+virtue  of  which  he  is  gentle,  endurable,  and  useful  to  the
+herd,  as  the  peculiarly  human  virtues.  In  cases,  however,
+where  it  is  believed  that  the  leader  and  bell-wether  cannot
+be  dispensed  with,  attempt  after  attempt  is  made  nowadays
+to  replace  commanders  by  the  summing  together  of  clever
+gregarious  men:  all  representative  constitutions,  for  example,
+are  of  this  origin.  In  spite  of  all,  what  a  blessing,  what  a
+deliverance  from  a  weight  becoming  unendurable,  is  the
+appearance  of  an  absolute  ruler  for  these  gregarious  Euro-
+peans—of this  fact  the  effect  of  the  appearance  of  Napoleon
+was  the  last  great  proof:  the  history  of  the  influence  of
+Napoleon  is  almost  the  history  of  the  higher  happiness  to
+which  the  entire  century  has  attained  in  its  worthiest  indi-
+viduals and  periods.
+
+200
+
+The  man  of  an  age  of  dissolution  which  mixes  the  races
+with  one  another,  who  has  the  inheritance  of  a  diversified
+descent  in  his  body — that  is  to  say,  contrary,  and  often  not
+only  contrary,  instincts  and  standards  of  value,  which  strug-
+gle with  one  another  and  are  seldom  at  peace — such  a  man
+of  late  culture  and  broken  lights,  will,  on  an  average,  b(
+a  weak  man.    His  fundamental  desire  is  that  the  war  wMi
+
+1
+
+BEYOND  GOOD  AND  EVIL  iii
+
+is  in  him  should  come  to  an  end;  happiness  appears  to  him
+in  the  character  of  a  soothing  medicine  and  mode  of  thought
+(for  instance,  Epicurean  or  Christian) ;  it  is  above  all  things
+the  happiness  of  repx)se,  of  undisturbedness,  of  repletion,
+of  final  unity — it  is  the  "Sabbath  of  Sabbaths,"  to  use  the
+expression  of  the  holy  rhetorician,  St.  Augustine,  who  was
+himself  such  a  man. — Should,  however,  the  contrariety  and
+conflict  in  such  natures  operate  as  an  additional  incentive
+and  stimulus  to  life — and  if,  on  the  other  hand,  in  addition
+to  their  powerful  zmd  irreconciliable  instincts,  they  have  also
+inherited  and  indoctrinated  into  them  a  proper  mastery  and
+subtlety  for  carrying  on  the  conflict  with  themselves  (that
+is  to  say,  the  faculty  of  self-control  and  self-deception),
+there  then  arise  those  marvellously  incomprehensible,  and
+inexplicable  beings,  those  enigmatical  men,  predestined  for
+conquering  and  circumventing  others,  the  finest  examples
+of  which  are  Alcibiades  and  Caesar  (with  whom  I  should  like
+to  associate  the  first  of  Europeans  according  to  my  taste,  the
+Hohenstaufen,  Frederick  the  Second),  cmd  amongst  artists,
+perhaps  Lionardo  da  Vinci.  They  appear  precisely  in  the
+same  periods  when  that  weaker  type,  with  its  longing  for
+repose,  comes  to  the  front;  the  two  types  are  complementary
+to  each  other,  and  spring  from  the  same  causes.
+
+20I
+
+As  long  as  the  utility  which  determines  moral  estimates  is
+only  gregarious  utility,  as  long  as  the  preservation  of  the
+community  is  only  kept  in  view,  and  the  immoral  is  sought
+precisely  and  exclusively  in  what  seems  dangerous  to  the
+maintenance  of  the  community,  there  can  be  no  "morality
+of  love  to  one's  neighbour."  Granted  even  that  there  is
+already  a  little  constant  exercise  of  consideration,  sympathy,
+
+112  BEYOND  GOOD  AND  EVIL
+
+fairness,  gentleness,  and  mutual  assistance,  granted  that  even
+in  this  condition  of  society  all  those  instincts  are  already
+active  which  are  latterly  distinguished  by  honourable  names
+as  "virtues,"  and  eventually  almost  coincide  with  the  con-
+ception "morality":  in  that  period  they  do  not  as  yet  belong
+to  the  domain  of  moral  valuations — they  are  still  ultra-moral.
+A  sympathetic  action,  for  instance,  is  neither  called  good  nor
+bad,  moral  nor  immoral,  in  the  best  period  of  the  Romans;
+and  should  it  be  praised,  a  sort  of  resentful  disdain  is  com-
+patible with  this  praise,  even  at  the  best,  directly  the  sympa-
+thetic action  is  compared  with  one  which  contributes  to  the
+welfare  of  the  whole,  to  the  res  publica.  After  all,  "love  to
+our  neighbour"  is  always  a  secondary  matter,  partly  con-
+ventional and  arbitrarily  manifested  in  relation  to  our  fear
+of  our  neighbour.  After  the  fabric  of  society  seems  on  the
+whole  established  and  secured  against  external  dangers,  it  is
+this  fear  of  our  neighbour  which  again  creates  new  perspec-
+tives of  moral  valuation.  Certain  strong  and  dangerous
+instincts,  such  as  the  love  of  enterprise,  foolhardiness,  re-
+vengefulness,  astuteness,  rapacity,  and  love  of  power,  which
+up  till  then  had  not  only  to  be  honoured  from  the  point  of
+view  of  general  utility — under  other  names,  of  course,  than
+those  here  given — but  had  to  be  fostered  and  cultivated  (be-
+cause they  were  perpetually  required  in  the  common  danger
+against  the  common  enemies),  are  now  felt  in  their  danger-
+ousness  to  be  doubly  strong — when  the  outlets. for  them  are
+lacking — and  are  gradually  branded  as  immoral  and  given
+over  to  calumny.  The  contrary  instincts  and  inclinations
+now  attain  to  moral  honour;  the  gregarious  instinct  grad-
+ually draws  its  conclusions.  How  much  or  how  little  danger-
+ousness  to  the  community  or  to  equality  is  contained  in  an
+opinion,  a  condition,  an  emotion,  a  disposition,  or  an  endow-
+ment— that  is  now  the  moral  perspective;  here  again  fear
+
+BEYOND  GOOD  AND  EVIL  113
+
+is  the  mother  of  morals.  It  is  by  the  loftiest  and  strongest
+instincts,  when  they  break  out  passionately  and  carry  the
+individual  far  above  and  beyond  the  average,  and  the  low
+level  of  the  gregarious  conscience,  that  the  self-reliance  of
+the  community  is  destroyed;  its  belief  in  itself,  its  back-
+bone, as  it  were,  breaks;  consequently  these  very  instincts
+will  be  most  branded  and  defamed.  The  lofty  independent
+spirituality,  the  will  to  stand  alone,  and  even  the  cogent
+reason,  are  felt  to  be  dangers;  everything  that  elevates  the
+individual  above  the  herd,  and  is  a  source  of  fear  to  the
+neighbour,  is  henceforth  called  evil;  the  tolerant,  tmassum-
+ing,  self-adapting,  self-equalising  disposition,  the  mediocrity
+of  desires,  attains  to  moral  distinction  and  honour.  Finally^
+under  very  peaceful  circumstances,  there  is  always  less  op-
+portunity and  necessity  for  training  the  feelings  to  severity
+and  rigour;  and  now  every  form  of  severity,  even  in  justice,
+begins  to  disturb  the  conscience;  a  lofty  and  rigourous  noble-
+ness and  self-responsibility  almost  offends,  and  awakens
+distrust,  "the  lamb,"  and  still  more  "the  sheep,"  wins  re-
+spect. There  is  a  point  of  diseased  mellowness  and  effemi-
+nacy in  the  history  of  society,  at  which  society  itself  takes
+the  part  of  him  who  injures  it,  the  part  of  the  criminal,  and
+does  so,  in  fact,  seriously  and  honestly.  To  punish,  appears
+to  it  to  be  somehow  imfair — it  is  certain  that  the  idea  of
+"punishment"  £ind  "the  obligation  to  punish"  are  then  pain-
+ful and  alarming  to  people.  "Is  it  not  sufficient  if  the
+criminal  be  rendered  harmless?  Why  should  we  still  punish?
+Punishment  itself  is  terrible!" — with  these  questions  gre-
+garious morality,  the  morality  of  fear,  draws  its  ultimate
+conclusion.  If  one  could  at  all  do  away  with  danger,  the
+cause  of  fear,  one  would  have  done  away  with  this  morality
+at  the  same  time,  it  would  no  longer  be  necessary,  it  would
+not  consider  itself  any  longer  necessary! — Whoever  examines
+
+114  BEYOND  GOOD  AND  EVIL
+
+the  .conscience  of  the  present-day  European,  will  always
+elicit  the  same  imperative  from  its  thousand  moral  folds  and
+hidden  recesses,  the  imperative  of  the  timidity  of  the  herd:
+"we  wish  that  some  time  or  other  there  may  be  nothing  more
+to  fear!"  Some  time  or  other — the  will  and  the  way  thereto
+is  nowadays  called  "progress"  all  over  Europe.
+
+202
+
+Let  us  at  once  say  again  what  we  have  already  said  a
+hundred  times,  for  people's  ears  nowadays  are  unwilling
+to  hear  such  truths — our  truths.  We  know  well  enough
+how  offensively  it  sounds  when  any  one  plainly,  and  without
+metaphor,  counts  man  amongst  the  animals;  but  it  will  be
+accounted  to  us  almost  a  crime,  that  it  is  precisely  in  respect
+to  men  of  "modem  ideas"  that  we  have  constantly  applied
+the  terms  "herd,"  "herd-instincts,"  and  such  like  expressions.
+What  avail  is  it?  We  cannot  do  otherwise,  for  it  is  precisely
+here  that  our  new  insight  is.  We  have  found  that  in  all  the
+principal  moral  judgments  Europe  has  become  unanimous,
+including  likewise  the  countries  where  European  influence
+prevails:  in  Europe  people  evidently  know  what  Socrates
+thought  he  did  not  know,  and  what  the  famous  serpent  of
+old  once  promised  to  teach — they  "know"  to-day  what  is
+good  and  evil.  It  must  then  sound  hard  and  be  distasteful  to
+the  ear,  when  we  always  insist  that  that  which  here  thinks
+it  knows,  that  which  here  glorifies  itself  with  praise  and
+blame,  and  calls  itself  good,  is  the  instinct  of  the  herding
+human  animal:  the  instinct  which  has  come  and  is  ever
+coming  more  and  more  to  the  front,  to  preponderance  and
+supremacy  over  other  instincts,  according  to  the  increasing
+physiological  approximation  and  resemblance  of  which  it  is
+the  S5miptom.     Morality  in  Europe  at  present  is  herding-
+
+BEYOND  GOOD  AND  EVIL  115
+
+animal  morality;  and  therefore,  as  we  understand  the  matter,
+only  one  kind  of  human  morality,  beside  which,  before  which,
+and  after  v/hich  many  other  moralities,  and  above  all  higher
+moralities,  are  or  should  be  possible.  Against  such  a  "possi-
+bility," against  such  a  "should  be,"  however,  this  morality
+defends  itself  with  all  its  strength;  it  says  obstinately  and
+inexorably:  "I  am  morality  itself  and  nothing  else  is  moral-
+ity!" Indeed,  with  the  help  of  a  religion  which  has
+humoured  and  flattered  the  sublimest  desires  of  the  herd-
+ing-animal,  things  have  reached  such  a  point  that  we  always
+find  a  more  visible  expression  of  this  morality  even  in
+political  and  social  arrangements:  the  democratic  move-
+ment is  the  inheritance  of  the  Christian  movement.  That
+its  tempo,  however,  is  much  too  slow  and  sleepy  for  the
+more  impatient  ones,  for  those  who  are  sick  and  distracted
+by  the  herding-instinct,  is  indicated  by  the  increasingly
+furious  howling,  and  always  less  disguised  teeth-gnashing
+of  the  anarchist  dogs,  who  are  now  roving  through  the  high-
+ways of  European  culture.  Apparently  in  opposition  to  the
+peacefully  industrious  democrats  and  Revolution-ideologues,
+and  still  more  so  to  the  awkward  philosophasters  and  frater-
+nity-visionaries who  call  themselves  Socialists  and  want  a
+"free  society,"  those  are  really  at  one  with  them  all  in  their
+thorough  and  instinctive  hostility  to  every  form  of  society
+other  than  that  of  the  autonomous  herd  (to  the  extent  even
+of  repudiating  the  notions  "master"  and  "servant" — ni  dieu
+ni  maitre,  says  a  socialist  formula) ;  at  one  in  their  tenacious
+opposition  to  every  special  claim,  every  special  right  and
+privilege  (this  means  ultimately  opposition  to  every  right,
+for  when  all  are  equal,  no  one  needs  "rights"  any  longer) ;
+at  one  in  their  distrust  of  punitive  justice  (as  though  it  were
+a  \dolation  of  the  weak,  imfair  to  the  necessary  consequences
+of  all  former  society) ;  but  equally  at  one  in  their  religion  of
+
+/
+
+ii6  BEYOND  GOOD  AND  EVIL
+
+sympathy,  in  their  compassion  for  all  that  feels,  lives,  and
+suffers  (down  to  the  very  animals,  up  even  to  "God" — the
+extravagance  of  "sympathy  for  God"  belongs  to  a  democratic
+age) ;  altogether  at  one  in  the  cry  and  impatience  of  their
+sympathy,  in  their  deadly  hatred  of  suffering  generally,  in
+their  almost  feminine  incapacity  for  witnessing  it  or  allowing
+it;  at  one  in  their  involuntary  beglooming  and  heart-soften-
+ing, under  the  spell  of  which  Europe  seems  to  be  threatened
+with  a  new  Buddhism;  at  one  in  their  belief  in  the  morality
+of  mutual  sympathy,  as  though  it  were  morality  in  itself,  the
+climax,  the  attained  climax  of  mankind,  the  sole  hope  of  the
+future,  the  consolation  of  the  present,  the  great  discharge
+from  all  the  obligations  of  the  past;  altogether  at  one  in
+their  belief  in  the  community  as  the  deliverer,  in  the  herd,
+and  therefore  in  "themselves."
+
+203
+
+We,  who  hold  a  different  belief — we,  who  regard  the
+democratic  movement,  not  only  as  a  degenerating  form  of
+political  organisation,  but  as  equivEilent  to  a  degenerating,
+a  waning  type  of  man,  as  involving  his  mediocrising  and
+depreciation:  where  have  we  to  fix  our  hopes?  In  new
+philosophers — there  is  no  other  alternative:  in  minds  strong
+and  original  enough  to  initiate  opposite  estimates  of  value,
+to  transvalue  and  invert  "eternal  valuations";  in  forerunners,
+in  men  of  the  future,  who  in  the  present  shall  fix  the  con-
+straints and  fasten  the  knots  which  will  compel  millenniums
+to  take  new  paths.  To  teach  man  the  future  of  humanity
+as  his  will,  as  depending  on  human  will,  and  to  make
+preparation  for  vast  hazardous  enterprises  and  collective
+attempts  in  rearing  and  educating,  in  order  thereby  to  put
+an  end  to  the  frightful  rule  of  folly  and  chance  which  has
+
+BEYOND  GOOD  AND  EVIL  117
+
+hitherto  gone  by  the  name  of  "history"  (the  folly  of  the
+"greatest  number"  is  only  its  last  form) — for  that  purpose
+a  new  type  of  philosophers  and  commanders  will  some  time
+or  other  be  needed,  at  the  very  idea  of  which  everything  that
+has  existed  in  the  way  of  occult,  terrible,  and  benevolent
+beings  might  look  pale  and  dwarfed.  The  image  of  such
+leaders  hovers  before  our  eyes: — is  it  lawful  for  me  to  say
+it  aloud,  ye  free  spirits?  The  conditions  which  one  would
+partly  have  to  create  and  partly  utilise  for  their  genesis;  the
+presumptive  methods  and  tests  by  virtue  of  which  a  soul
+should  grow  up  to  such  an  elevation  and  power  as  to  feel  a
+constraint  to  these  tasks;  a  transvaluation  of  values,  under
+the  new  pressure  and  hammer  of  which  a  conscience  should
+be  steeled  and  a  heart  transformed  into  brass,  so  as  to  bear
+the  weight  of  such  responsibility;  and  on  the  other  hand  the
+necessity  for  such  leaders,  the  dreadful  danger  that  they
+might  be  lacking,  or  miscarry  and  degenerate: — these  are
+our  real  anxieties  and  glooms,  ye  know  it  well,  ye  free
+spirits!  these  are  the  heavy  distant  thoughts  and  storms
+which  sweep  across  the  heaven  of  our  life.  There  are  few
+pains  so  grievous  as  to  have  seen,  divined,  or  experienced
+how  an  exceptional  man  has  missed  his  way  and  deteriorated;
+but  he  who  has  the  rare  eye  for  the  universal  danger  of
+"man"  himself  deteriorating,  he  who  like  us  has  recognised
+the  extraordinary  fortuitousness  which  has  hitherto  played
+its  game  in  respect  to  the  future  of  mankind — a  game  in
+which  neither  the  hand,  nor  even  a  "finger  of  God"  has
+participated! — ^he  who  divines  the  fate  that  is  hidden  under
+the  idiotic  tmwariness  and  blind  confidence  of  "modem
+ideas,"  and  still  more  under  the  whole  of  Christo-European
+morality — suffers  from  an  anguish  with  which  no  other  is
+to  be  compared.  He  sees  at  a  glance  all  that  could  still  be
+made  out  of  man  through  a  favourable  accumulation  and
+
+ii8  BEYOND  GOOD  AND  EVIL
+
+augmentation  of  human  powers  and  arrangements;  he  knows
+with  all  the  knowledge  of  his  conviction  how  unexhausted
+man  still  is  for  the  greatest  possibilities,  and  how  often  in
+the  past  the  type  man  has  stood  in  presence  of  mysterious
+decisions  and  new  paths: — ^he  knows  still  better  from  his
+painfulest  recollections  on  what  wretched  obstacles  promising
+developments  of  the  highest  rank  have  hitherto  usually  gone
+to  pieces,  broken  down,  sunk,  and  become  contemptible.
+The  universal  degeneracy  of  mankind  to  the  level  of  the
+"man  of  the  future" — as  idealised  by  the  socialistic  fools  and
+shallow-pates — this  degeneracy  and  dwarfing  of  man  to  an
+absolutely  gregarious  animal  (or  as  they  call  it,  to  a  man  of
+"free  society"),  this  brutalising  of  man  into  a  pigmy  with
+equal  rights  and  claims,  is  undoubtedly  possible!  He  who
+has  thought  out  this  possibility  to  its  ultimate  conclusion
+knows  another  loathing  unknown  to  the  rest  of  mankind —
+and  perhaps  also  a  new  mission/
+
+CHAPTER  VI
+
+We  Scholars
+
+204
+
+At  the  risk  that  moralising  may  also  reveal  itself  here  as
+that  which  it  has  always  been — namely,  resolutely  montter
+ses  plaies,  according  to  Balzac — I  would  venture  to  protest
+against  an  improper  and  injurious  alteration  of  rank,  which
+quite  unnoticed,  and  as  if  with  the  best  conscience,  threatens
+nowadays  to  establish  itself  in  the  relations  of  science  and
+philosophy.  I  mean  to  say  that  one  must  have  the  right
+out  of  one's  own  experience — experience,  as  it  seems  to  me^
+always  implies  unfortunate  experience? — to  treat  of  such
+an  important  question  of  rank,  so  as  not  to  speak  of  colour
+like  the  blind,  or  against  science  like  women  and  artists
+("Ah!  this  dreadful  science!"  sigh  their  instinct  and  their
+shame,  "it  always  finds  things  out!")  The  declaration  of
+independence  of  the  scientific  man,  his  emancipation  from
+philosophy,  is  one  of  the  subtler  after-effects  of  democratic
+organisation  and  disorganisation:  the  self-glorification  and
+self-conceitedness  of  the  learned  man  is  now  everywhere  in
+full  bloom,  and  in  its  best  springtime — which  does  not  mean
+to  imply  that  in  this  case  self-praise  smells  sweetly.  Here
+also  the  instinct  of  the  populace  cries,  "Freedom  from  all
+masters!"  and  after  science  has,  with  the  happiest  results,
+
+119
+
+.120  BEYOND  GOOD  AND  EVIL
+
+resisted  theology,  whose  "handmaid"  it  had  been  too  long,
+it  now  proposes  in  its  wantonness  and  indiscretion  to  lay
+down  laws  for  philosophy,  and  in  its  turn  to  play  the
+"master" — what  am  I  saying!  to  play  the  philosopher  on  its
+own  accoimt.  My  memory — the  memory  of  a  scientific  man,
+if  you  please! — teems  with  the  naivetes  of  insolence  which
+I  have  heard  about  philosophy  and  philosophers  from  young
+naturalists  and  old  physicians  (not  to  mention  the  most
+cultured  and  most  conceited  of  all  learned  men,  the  philolo-
+gists and  schoolmasters,  who  are  both  the  one  and  the  other
+by  profession).  On  one  occasion  it  was  the  specialist  and
+the  Jack  Homer  who  instinctively  stood  on  the  defensive
+against  all  synthetic  tasks  and  capabilities;  at  another  time
+it  was  the  industrious  worker  who  had  got  a  scent  of  otium
+and  refined  luxuriousness  in  the  internal  economy  of  the
+philosopher,  and  felt  himself  aggrieved  and  belittled  thereby.
+On  another  occasion  it  was  the  colour-blindness  of  the  utili-
+tarian, who  sees  nothing  in  philosophy  but  a  series  of  refuted
+systems,  and  an  extravagant  expenditure  which  "does  no-
+body any  good."  At  another  time  the  fear  of  disguised
+mysticism  and  of  the  boundary-adjustment  of  knowledge
+became  conspicuous,  at  another  time  the  disregard  of  indi-
+vidual philosophers,  which  had  involuntarily  extended  to
+disregard  of  philosophy  generally.  In  fine,  I  found  most
+frequently,  behind  the  proud  disdain  of  philosophy  in  young
+scholars,  the  evil  after-effect  of  some  particular  philosopher,
+to  whom  on  the  whole  obedience  had  been  foresworn,  without,
+however,  the  spell  of  his  scornful  estimates  of  other  philoso-
+phers having  been  got  rid  of — the  result  being  a  general
+ill-will  to  all  philosophy.  (Such  seems  to  me,  for  instance,
+the  after-effect  of  Schopenhauer  on  the  most  modem  Ger-
+many: by  his  unintelligent  rage  against  Hegel,  he  has  suc-
+■ceeded  in  severing  the  whole  of  the  last  generation  of  Germans
+
+i
+
+BEYOND  GOOD  AND  EVIL  121
+
+from  its  connection  with  German  culture,  which  culture,  all
+things  considered,  has  been  an  elevation  and  a  divining  re-
+finement of  the  historical  sense;  but  precisely  at  this  point
+Schopenhauer  himself  was  poor,  irreceptive,  and  im-German
+to  the  extent  of  ingeniousness.)  On  the  whole,  speaking
+generally,  it  may  just  have  been  the  humanness,  all-too-
+humanness  of  the  modem  philosophers  themselves,  in  short,
+their  contemptibleness,  which  has  injured  most  radically  the
+reverence  for  philosophy  and  opened  the  doors  to  the  in-
+stinct of  the  populace.  Let  it  but  be  acknowledged  to  what
+an  extent  our  modem  world  diverges  from  the  whole  style
+of  the  world  of  Heraclites,  Plato,  Empedocles,  and  whatever
+else  all  the  royal  and  magnificent  anchorites  of  the  spirit  were
+called;  and  with  what  justice  an  honest  man  of  science  may
+feel  himself  of  a  better  family  and  origin,  in  view  of  such
+representatives  of  philosophy,  who,  owing  to  the  fashion
+of  the  present  day,  are  just  as  much  aloft  as  they  are  down
+below — in  Germany,  for  instance,  the  two  lions  of  Berlin,
+the  anarchist  Eugen  Diihring  and  the  amalgamist  Eduard
+von  Hartmann.  It  is  especi£illy  the  sight  of  those  hotch-
+potch philosophers,  who  call  themselves  "realists,"  or  "posi-
+tivists,"  which  is  calculated  to  implant  a  dangerous  distmst
+in  the  soul  of  a  young  and  ambitious  scholar:  those  philoso-
+phers, at  the  best,  are  themselves  but  scholars  and  special-
+ists, that  is  very  evident!  All  of  them  are  persons  who  have
+been  vanquished  and  brought  back  again  under  the  dominion
+of  science,  who  at  one  time  or  another  claimed  more  from
+themselves,  without  having  a  right  to  the  "more"  and  its
+responsibility — and  who  now,  creditably,  rancorously  and
+vindictively,  represent  in  word  and  deed,  disbelief  in  the
+master- task  and  supremacy  of  philosophy.  After  all,  hcv
+could  it  be  otherwise?  Science  flourishes  nowadays  and  has
+the  good  conscience  clearly  visible  on  its  coimtensince;  while
+
+122  BEYOND  GOOD  AND  EVIl
+
+that  to  which  the  entire  modem  philosophy  has  gradually
+sunk,  the  remnant  of  philosophy  of  the  present  day,  excites
+distrust  and  displeasure,  if  not  scorn  and  pity.  Philosophy
+reduced  to  a  "theory  of  knowledge,"  no  more  in  fact  than
+a  diffident  science  of  epochs  and  doctrine  of  forbearance:
+a  philosophy  that  never  even  gets  beyond  the  threshold,  and
+rigourously  denies  itself  the  right  to  enter — that  is  philosophy
+in  its  last  throes,  an  end,  an  agony,  something  that  awakens
+pity.    How  could  such  a  philosophy — rule!
+
+205
+
+The  dangers  that  beset  the  evolution  of  the  philosopher
+are,  in  fact,  so  manifold  nowadays,  that  one  might  doubt
+whether  this  fruit  could  still  come  to  maturity.  The  extent
+and  towering  structure  of  the  sciences  have  increased  enor-
+mously, and  therewith  also  the  probability  that  the  philoso-
+pher will  grow  tired  even  as  a  learner,  or  will  attach  himself
+somewhere  and  "specialise":  so  that  he  will  no  longer  attain
+to  his  elevation,  that  is  to  say,  to  his  superspection,  his  cir-
+cumspection, and  his  despection.  Or  he  gets  aloft  too  late,
+when  the  best  of  his  maturity  and  strength  is  past;  or  when
+he  is  impaired,  coarsened,  and  deteriorated,  so  that  his  view,
+his  general  estimate  of  things,  is  no  longer  of  much  import-
+,  ance.  It  is  perhaps  just  the  refinement  of  his  intellectual
+conscience  that  makes  him  hesitate  and  linger  on  the  way;
+he  dreads  the  temptation  to  become  a  dilettante,  a  millepede,
+a  milleantenna;  he  knows  too  well  that  as  a  discerner,  one
+who  has  lost  his  self-respect  no  longer  commands,  no  longer
+leads;  unless  he  should  aspire  to  become  a  great  play-actor
+a  philosophical  Cagliostro  and  spiritual  rat-catcher — in  short,
+a  misleader.  This  is  in  the  last  instance  a  question  of  taste,
+if  it  has  not  really  been  a  question  of  conscience.    To  double
+
+BE\OND  GOOD  AND  EVIL  123
+
+once  more  the  philosopher's  difficulties,  there  is  also  the  fact
+that  he  demands  from  himself  a  verdict,  a  Yea  or  Nay,  not
+concerning  science,  but  concerning  life  and  the  worth  of
+life — he  learns  unwillingly  to  believe  that  it  is  his
+right  and  even  his  duty  to  obtain  this  verdict,  and  he  has  to
+seek  his  way  to  the  right  and  the  belief  only  through  the
+most  extensive  (perhaps  disturbing  and  destroying)  expe-
+riences, often  hesitating,  doubting,  and  dumbfounded.  In
+fact,  the  philosopher  has  long  been  mistaken  and  confused
+by  the  multitude,  either  with  the  scientific  man  and  ideal
+scholar,  or  with  the  religiously  elevated,  desensualised,  de-
+secularised  visionary  and  God-intoxicated  man;  and  even
+yet  when  one  hears  anybody  praised,  because  he  lives
+"wisely,"  or  "as  a  philosopher,"  it  hardly  means  anything
+more  than  "prudently  and  apart."  Wisdom:  that  seems  to
+the  populace  to  be  a  kind  of  flight,  a  means  and  artifice  for
+withdrawing  successfully  from  a  bad  game;  but  the  genuine
+philosopher — does  it  not  seem  so  to  us,  my  friends? — lives
+"unphilosophically"  and  "unwisely,"  above  all,  imprudently,
+and  feels  the  obligation  and  burden  of  a  hundred  attempts
+and  temptations  of  life — he  risks  himself  const£intly,  he  plays
+this  bad  game.
+
+206
+
+In  relation  to  the  genius,  that  is  to  say,  a  being  who
+either  engenders  or  produces — ^both  words  understood  in  their
+fullest  sense — the  man  of  learning,  the  scientific  average  man,
+"has  always  something  of  the  old  maid  about  him;  for,  like
+her,  he  is  not  conversant  with  the  two  principal  fimctions  of
+man.  To  both,  of  course,  to  the  scholar  and  to  the  old  maid,
+one  concedes  respectability,  as  if  by  way  of  indemnification —
+in  these  cases  one  emphasises  the  respectability — and  yet,
+
+124  BEYOND  GOOD  AND  EVIL
+
+in  the  compulsion  of  this  concession,  one  has  the  same  ad-
+mixture of  vexation.  Let  us  examine  more  closely:  what  is
+the  scientific  man?  Firstly,  a  commonplace  type  of  man,
+with  commonplace  virtues:  that  is  to  say,  a  non-ruling,  non-
+authoritative,  and  non-self-sufficient  type  of  man;  he  pos-
+sesses industry,  patient  adaptableness  to  rank  and  file,  equa-
+bility and  moderation  in  capacity  and  requirement;  he  has
+the  instinct  for  people  like  himself,  and  for  that  which  they
+require — for  instance:  the  portion  of  independence  and  green
+meadow  without  which  there  is  no  rest  from  labour,  the
+claim  to  honour  and  consideration  (which  first  and  foremost
+presupposes  recognition  and  recognisability) ,  the  sunshine
+of  a  good  name,  the  perpetual  ratification  of  his  value  and
+usefulness,  with  which  -the  inward  distrust  which  lies  at  the
+bottom  of  the  heart  of  all  dependent  men  and  gregarious
+animals,  has  again  and  again  to  be  overcome.  The  learned
+man,  as  is  appropriate,  has  also  maladies  and  faults  of  an
+ignoble  kind:  he  is  full  of  petty  envy,  and  has  a  lynx-eye
+for  the  weak  points  in  those  natures  to  whose  elevations
+he  cannot  attain.  He  is  confiding,  yet  only  as  one  who  lets
+himself  go,  but  does  not  flow;  and  precisely  before  the  man  of
+the  great  current  he  stands  all  the  colder  and  more  reserved —
+his  eye  is  then  like  a  smooth  and  irresponsive  lake,  which
+is  no  longer  moved  by  rapture  or  sympathy.  The  worst
+and  most  dangerous  thing  of  which  a  scholar  is  capable  re-
+sults from  the  instinct  of  mediocrity  of  his  type,  from  the
+Jesuitism  of  mediocrity,  which  labours  instinctively  for  the
+destruction  of  the  exceptional  man,  and  endeavours  to  break
+— or  still  better,  to  relax — every  bent  bow.  To  relax,  of
+course,  with  consideration,  and  naturally  with  an  indulgent
+hand — to  relax  with  confiding  sympathy:  that  is  the  real
+art  of  Jesuitism,  which  has  always  understood  how  to  intro-
+duce itself  as  the  religion  of  sympathy.  S
+
+BEYOND  GOOD  AND  EVIL  125
+
+207
+
+However  gratefully  one  may  welcome  the  objective  spirit
+— and  who  has  not  been  sick  to  death  of  all  subjectivity  and
+its  confounded  ipsisitnosity ! — in  the  end,  however,  one  must
+learn  caution  even  with  regard  to  one's  gratitude,  and  put
+a  stop  to  the  exaggeration  with  which  the  unselfing  and
+depersonalising  of  the  spirit  has  recently  been  celebrated,
+as  if  it  were  the  goal  in  itself,  as  if  it  were  salvation  and
+glorification — as  is  especially  accustomed  to  happen  in  the
+pessimist  school,  which  has  also  in  its  turn  good  reasons  for
+paying  the  highest  honours  to  "disinterested  knowledge."
+The  objective  man,  who  no  longer  curses  and  scolds  like
+the  pessimist,  the  ideal  man  of  learning  in  whom  the  scientific
+instinct  blossoms  forth  fully  after  a  thousand  complete  and
+partial  failures,  is  assuredly  one  of  the  most  costly  instru-
+ments that  exist,  but  his  place  is  in  the  hand  of  one  who  is
+more  powerful.  He  is  only  an  instrument;  we  may  say,  he
+is  a  mirror — ^he  is  no  ''purpose  in  himself."  The  objective
+man  is  in  truth  a  mirror:  accustomed  to  prostration  before
+everything  that  wants  to  be  known,  with  such  desires  only
+as  knowing  or  "reflecting"  imply — ^he  waits  until  something
+comes,  and  then  expands  himself  sensitively,  so  that  even
+the  light  footsteps  and  gliding  past  of  spiritual  beings  may
+not  be  lost  on  his  surface  and  film.  Whatever  "personality"
+he  still  possesses  seems  to  him  accidental,  arbitrary,  or  still
+oftener,  disturbing;  so  much  has  he  come  to  regard  himself
+as  the  passage  and  reflection  of  outside  forms  and  events.
+He  calls  up  the  recollection  of  "himself"  with  an  effort,  and
+not  infrequently  wrongly;  he  readily  confounds  himself  with
+other  persons,  he  makes  mistakes  with  regard  to  his  own
+needs,  and  here  only  is  he  unrefined  and  negligent.    Perhaps
+
+126  BEYOND  GOOD  AND  EVIL
+
+he  is  troubled  about  the  health,  or  the  pettiness  and  confined
+atmosphere  of  wife  and  friend,  or  the  lack  of  companions
+and  society — indeed,  he  sets  himself  to  reflect  on  his  suffer-
+ing, but  in  vain!  His  thoughts  already  rove  away  to  the
+more  general  case,  and  to-morrow  he  knows  as  little  as  he
+knew  yesterday  how  to  help  himself.  He  does  not  now  take
+himself  seriously  and  devote  time  to  himself:  he  is  serene,
+not  from  lack  of  trouble,  but  from  lack  of  capacity  for
+grasping  and  dealing  with  his  trouble.  The  habitual  com-
+plaisance with  respect  to  all  objects  and  experiences,  the
+radiant  and  impartial  hospitality  with  which  he  receives
+everything  that  comes  his  way,  his  habit  of  inconsiderate
+good-nature,  of  dangerous  indifference  as  to  Yea  and  Nay:
+alas!  there  are  enough  of  cases  in  which  he  has  to  atone  for
+these  virtues  of  his! — and  as  man  generally,  he  becomes  far
+too  easily  the  caput  mortuum  of  such  virtues.  Should  one
+wish  love  or  hatred  from  him — I  mean  love  and  hatred  as
+God,  woman,  and  animal  understand  them — he  will  do  what
+he  can,  and  furnish  what  he  can.  But  one  must  not  be
+surprised  if  it  should  not  be  much — if  he  should  show  him-
+self just  at  this  point  to  be  false,  fragile,  questionable,  and
+deteriorated.  His  love  is  constrained,  his  hatred  is  artificial,
+and  rather  un  tour  de  force,  a  slight  ostentation  and  exag-
+geration. He  is  only  genuine  so  far  as  he  can  be  objective;
+only  in  his  serene  totality  is  he  still  "nature"  and  "natural."
+His  mirroring  and  eternally  self-polishing  soul  no  longer
+knows  how  to  affirm,  no  longer  how  to  deny;  he  does  not
+command;  neither  does  he  destroy.  "Je  ne  tniprise  presque
+rien" — he  says,  with  Leibnitz:  let  us  not  overlook  nor  under-
+value the  presque!  Neither  is  he  a  model  man;  he  does
+not  go  in  advance  of  any  one,  nor  after  either;  he  places
+himself  generally  too  far  off  to  have  any  reason  for  espousing
+the  cause  of  either  good  or  evil.     If  he  has  been  so  long
+
+BEYOND  GOOD  AND  EVIL  127
+
+confounded  with  the  philosopher,  with  the  Caesarian  trainer
+and  dictator  of  civilisation,  he  has  had  far  too  much  honour,
+and  what  is  more  essential  in  him  has  been  overlooked — ^he
+is  an  instrument,  something  of  a  slave,  though  certainly  the
+sublimest  sort  of  slave,  but  nothing  in  himself — presque  rien!
+The  objective  man  is  an  instrument,  a  costly,  easily  injured,
+easily  tarnished,  measuring  instrument  and  mirroring  appara-
+tus, which  is  to  be  taken  care  of  and  respected;  but  he  is
+no  goal,  no  outgoing  nor  upgoing,  no  complementary  man
+in  whom  the  rest  of  existence  justifies  itself,  no  termination
+— and  still  less  a  commencement,  an  engendering,  or  pri-
+mary cause,  nothing  hardy,  powerful,  self-centred,  that  wants
+to  be  master;  but  rather  only  a  soft,  inflated,  delicate,  mov-
+able potter's-form,  that  must  wait  for  some  kind  of  content
+and  frame  to  "shape"  itself  thereto — for  the  most  part  a
+man  without  frame  and  content,  a  "selfless"  man.  Conse-
+quently, also,  nothing  for  womai,  in  parenthesi.
+
+208
+
+When  a  philosopher  nowadays  makes  known  that  he  is
+not  a  sceptic — I  hope  that  has  been  gathered  from  the  fore-
+going description  of  the  objective  spirit? — people  all  hear  it
+impatiently;  they  regard  him  on  that  account  with  some  ap-
+prehension, they  would  like  to  ask  so  many,  many  ques-
+tions .  .  .  indeed  among  timid  hearers,  of  whom  there  are
+now  so  many,  he  is  henceforth  said  to  be  dangerous.  With
+his  repudiation  of  scepticism,  it  seems  to  them  as  if  they
+heard  some  evil-threatening  sound  in  the  distance,  as  if  a
+new  kind  of  explosive  were  being  tried  somewhere,  a  d)ma-
+mite  of  the  spirit,  perhaps  a  newly  discovered  Russian
+nihiline,  a  pessimism  bonae  voluntatis,  that  not  only  denies,
+means    denial,    but — dreadful    thought!    practises    denial.
+
+128  BEYOND  GOOD  AND  EVIL
+
+Against  this  kind  of  "good  will" — a  will  to  the  veritable,
+actual  negation  of  life — there  is,  as  is  generally  acknowledged
+nowadays,  no  better  soporific  and  sedative  than  scepticism,
+the  mild,  pleasing,  lulling  poppy  of  scepticism;  and  Hamlet
+himself  is  now  prescribed  by  the  doctors  of  the  day  as  an
+antidote  to  the  "spirit,"  and  its  underground  noises.  "Are
+not  our  ears  already  full  of  bad  sounds?"  say  the  sceptics,  as
+lovers  of  repose,  and  almost  as  a  kind  of  safety  police,  "this
+subterranean  Nay  is  terrible!  Be  still,  ye  pessimistic  moles! "
+The  sceptic,  in  effect,  that  delicate  creature,  is  far  too  easily
+frightened;  his  conscience  is  schooled  so  as  to  start  at  every
+Nay,  and  even  at  that  sharp,  decided  Yea,  and  feels  some-
+thing like  a  bite  thereby.  Yea!  and  Nay! — they  seem  to
+him  opposed  to  morality;  he  loves,  on  the  contrary,  to  make
+a  festival  to  his  virtue  by  a  noble  aloofness,  while  perhaps
+he  says  with  Montaigne:  "What  do  I  know?"  Or  with
+Socrates:  "I  know  that  I  know  nothing."  Or:  "Here  I  do
+not  trust  myself,  no  door  is  open  to  me."  Or:  "Even  if  the
+door  were  open,  why  should  I  enter  immediately?"  Or:
+"What  is  the  use  of  any  hasty  hypotheses?  It  might  quite
+well  be  in  good  taste  to  make  no  hypotheses  at  all.  Are  you
+absolutely  obliged  to  straighten  at  once  what  is  crooked?  to
+stuff  every  hole  with  some  kind  of  oakum?  Is  there  not
+time  enough  for  that?  Has  not  the  time  leisure?  Oh,  ye
+demons,  can  ye  not  at  all  wait?  The  uncertain  also  has
+its  charms,  the  Sphinx,  too,  is  a  Circe,  and  Circe,  too,  was
+a  philosopher." — Thus  does  a  sceptic  console  himself;  and  in
+truth  he  needs  some  consolation.  For  scepticism  is  the  most
+spiritual  expression  of  a  certain  many-sided  physiological
+temperament,  which  in  ordinary  language  is  called  nervous
+debility  and  sickliness;  it  arises  whenever  races  or  classes
+which  have  been  long  separated,  decisively  and  suddenly
+blend  with  one  another.    In  the  new  generation,  which  has
+
+BEYOND  GOOD  AND  EVIL  129
+
+inherited  as  it  were  different  standards  and  valuations  in  its
+blood,  everything  is  disquiet,  derangement,  doubt,  and  tenta-
+tive; the  best  powers  operate  restrictively,  the  very  virtues
+prevent  each  other  growing  and  becoming  strong,  equilibrium,
+ballast,  and  perpendicular  stability  are  lacking  in  body  and
+soul.  That,  however,  which  is  most  diseased  and  degenerated
+in  such  nondescripts  is  the  will;  they  are  no  longer  familiar
+with  independence  of  decision,  or  the  courageous  feeling  of
+pleasure  in  willing — they  are  doubtful  of  the  "freedom  of  the
+will"  even  in  their  dreams.  Our  present-day  Europe,  the
+scene  of  a  senseless,  precipitate  attempt  at  a  radical  blending
+of  classes,  and  consequently  of  races,  is  therefore  sceptical
+in  all  its  heights  and  depths,  sometimes  exhibiting  the  mobile
+scepticism  which  springs  impatiently  and  wantonly  from
+branch  to  branch,  sometimes  with  gloomy  aspect,  like  a
+cloud  overcharged  with  interrogative  signs — and  often  sick
+xmto  death  of  its  will!  Paralysis  of  will;  where  do  we  not
+find  this  cripple  sitting  nowadays!  And  yet  how  bedecked
+oftentimes!  How  seductively  ornamented!  There  are  the
+finest  gala  dresses  and  disguises  for  this  disease;  and  that,
+for  instance,  most  of  what  places  itself  nowadays  in  the
+show-cases  as  "objectiveness,"  "the  scientific  spirit,"  "I'art
+pour  I'art,"  and  "pure  voluntary  knowledge,"  is  only  decked-
+out  scepticism  and  paralysis  of  will — I  am  ready  to  answer
+for  this  diagnosis  of  the  European  disease.— The  disease  of
+the  will  is  diffused  unequally  over  Europe;  it  is  worst  and
+most  varied  where  civilisation  has  longest  prevailed;  it
+decreases  according  as  "the  barbarian"  still — or  again — as-
+serts his  claims  under  the  loose  drapery  of  Western  culture.
+It  is  therefore  in  the  France  of  to-day,  as  can  be  readily  dis-
+closed and  comprehended,  that  the  will  is  most  infirm;  and
+France,  which  has  always  had  a  masterly  aptitude  for  con
+verting  even  the  portentous  crises  of  its  spirit  into  something
+
+130  BEYOND  GOOD  AND  EVIL
+
+charming  and  seductive,  now  manifests  emphatically  its  in-
+tellectual ascendency  over  Europe,  by  being  the  school  and
+exhibition  of  all  the  charms  of  scepticism.  The  power  to
+will  and  to  persist,  moreover,  in  a  resolution,  is  already
+somewhat  stronger  in  Germany,  and  again  in  the  North  of
+Germany  it  is  stronger  than  in  Central  Germany;  it  is
+considerably  stronger  in  England,  Spain,  and  Corsica,  asso-
+ciated with  phlegm  in  the  former  and  with  hard  skulls  in  the
+latter — not  to  mention  Italy,  which  is  too  young  yet  to
+know  what  it  wants,  and  must  first  show  whether  it  can
+exercise  will;  but  it  is  strongest  and  most  surprising  of  all
+in  that  immense  middle  empire  where  Europe  as  it  were  flows
+back  to  Asia — namely,  in  Russia.  There  the  power  to  will
+has  been  long  stored  up  and  accumulated,  there  the  will —
+uncertain  whether  to  be  negative  or  affirmative — waits  threat-
+eningly to  be  discharged  (to  borrow  their  pet  phrase  from
+our  physicists).  Perhaps  not  only  Indian  wars  and  compli-
+cations in  Asia  would  be  necessary  to  free  Europe  from  its
+greatest  danger,  but  also  internal  subversion,  the  shattering
+of  the  empire  into  small  states,  and  above  all  the  introduction
+of  parliamentary  imbecility,  together  with  the  obligation  of
+every  one  to  read  his  newspaper  at  breakfast.  I  do  not
+say  this  as  one  who  desires  it;  in  my  heart  I  should  rather
+prefer  the  contrary — I  mean  such  an  increase  in  the  threaten-
+ing attitude  of  Russia,  that  Europe  would  have  to  make  up
+its  mind  to  become  equally  threatening — namely,  to  acquire
+one  will,  by  means  of  a  new  caste  to  rule  over  the  Continent,
+a  persistent,  dreadful  will  of  its  own,  that  can  set  its  aims
+thousands  of  years  ahead ;  so  that  the  long  spun-out  comedy
+of  its  petty-stateism,  and  its  dynastic  as  well  as  its  demo-
+cratic many-willed-ness,  might  finally  be  brought  to  a  close.
+The  time  for  petty  politics  is  past;  the  next  century
+bring  the  struggle  for  the  dominion  of  the  world — the  cot
+Pulsion  to  GTeat  noh'tirs.
+
+wilL.
+omM,
+
+BEYOND  GOOD  AND  EVIL  131
+
+209
+
+As  to  how  far  the  new  warlike  age  on  which  we  Europeans
+have  evidently  entered  may  perhaps  favour  the  growth  of
+another  and  stronger  kind  of  scepticism,  I  should  like  to
+express  myself  preliminarily  merely  by  a  parable,  which  the
+lovers  of  German  history  will  already  understand.  That
+unscrupulous  enthusiast  for  big,  handsome  grenadiers  (who,
+as  King  of  Prussia,  brought  into  being  a  military  and  sceptical
+genius — and  therewith,  in  reality,  the  new  and  now  triumph-
+antly emerged  type  of  German),  the  problematic,  crazy
+father  of  Frederick  the  Great,  had  on  one  point  the  very
+knack  and  lucky  grasp  of  the  genius:  he  knew  what  was
+then  lacking  in  Germany,  the  want  of  which  was  a  hundred
+times  more  alarming  and  serious  than  any  lack  of  culture  and
+social  form — his  ill-will  to  the  young  Frederick  resulted  from
+the  anxiety  of  a  profound  instinct.  Men  were  lacking;  and
+he  suspected,  to  his  bitterest  regret,  that  his  own  son  was
+not  man  enough.  There,  however,  he  deceived  himself;
+but  who  would  not  have  deceived  himself  in  his  place?
+He  saw  his  son  lapsed  to  atheism,  to  the  esprit,  to  the  pleasant
+frivolity  of  clever  Frenchmen — ^he  saw  in  the  background
+the  great  bloodsucker,  the  spider  scepticism;  he  suspected  the
+incurable  wretchedness  of  a  heart  no  longer  hard  enough
+either  for  evil  or  good,  and  of  a  broken  will  that  no  longer
+commands,  is  no  longer  able  to  command.  Meanwhile,
+however,  there  grew  up  in  his  son  that  new  kind  of  harder
+and  more  dangerous  scepticism — who  knows  to  what  extent
+it  was  encouraged  just  by  his  father's  hatred  and  the  icy
+melancholy  of  a  will  condemned  to  solitude? — the  scepticism
+of  daring  manliness,  which  is  closely  related  to  the  genius
+for  war  and  conquest,  and  made  its  first  entrance  into  Ger-
+
+132  BEYOND  GOOD  AND  EVIL
+
+many  in  the  person  of  the  great  Frederick.  This  scepticism
+despises  and  nevertheless  grasps;  it  undermines  and  takes
+possession;  it  does  not  beheve,  but  it  does  not  thereby  lose
+itself;  it  gives  the  spirit  a  dangerous  liberty,  but  it  keeps
+strict  guard  over  the  heart.  It  is  the  German  form  of  scep-
+ticism, which,  as  a  continued  Fredericianism,  risen  to  the
+highest  spirituality,  has  kept  Europe  for  a  considerable  time
+under  the  dominion  of  the  German  spirit  and  its  critical  and
+historical  distrust.  Owing  to  the  insuperably  strong  and
+tough  masculine  character  of  the  great  German  philologists
+and  historical  critics  (who,  rightly  estimated,  were  also  all
+of  them  artists  of  destruction  and  dissolution),  a  new  con-
+ception of  the  German  spirit  gradually  established  itself — in
+spite  of  all  Romanticism  in  music  and  philosophy — in  which
+the  leaning  towards  masculine  scepticism  was  decidedly
+prominent:  whether,  for  instance,  as  fearlessness  of  gaze,
+as  courage  and  sternness  of  the  dissecting  hand,  or  as  resolute
+will  to  dangerous  voyages  of  discovery,  to  spiritualised
+North  Pole  expeditions  under  barren  and  dangerous  skies.
+There  may  be  good  groimds  for  it  when  warm-blooded  and
+superficial  humanitarians  cross  themselves  before  this  spirit,
+cet  esprit  jataliste,  ironique,  mephistophelique,  as  Michelet
+calls  it,  not  without  a  shudder.  But  if  one  would  realise
+how  characteristic  is  this  fear  of  the  "man"  in  the  German
+spirit  which  awakened  Europe  out  of  its  "dogmatic  slumber,"
+let  us  call  to  mind  the  former  conception  which  had  to  be
+overcome  by  this  new  one — and  that  it  is  not  so  very  long
+ago  that  a  masculinised  woman  could  dare,  with  unbridled
+presumption,  to  recommend  the  Germans  to  the  interest  of
+Europe  as  gentle,  good-hearted,  weak-willed,  and  poetical
+fools.  Finally,  let  us  only  understand  profoundly  enough
+Napoleon's  astonishment  when  he  saw  Goethe:  it  reveals
+what  had  been  regarded  for  centuries  as  the  "German  spirit."
+
+BEYOND  GOOD  AND  EVIL  133
+
+"Voila  un  homme!" — that  was  as  much  as  to  say:  "But  this
+is  a  man!    And  I  only  expected  to  see  a  German!"
+
+210
+
+Supposing,  then,  that  in  the  picture  of  the  philosophers  of
+the  future,  some  trait  suggests  the  question  whether  they
+must  not  perhaps  be  sceptics  in  the  last-mentioned  sense,
+something  in  them  would  only  be  designated  thereby — and
+not  they  themselves.  With  equal  right  they  might  call
+themselves  critics;  and  assuredly  they  will  be  men  of  experi-
+ments. By  the  name  with  which  I  ventured  to  baptize  them,
+I  have  already  expressly  emphasised  their  attempting  and
+their  love  of  attempting:  is  this  because,  as  critics  in  body
+and  soul,  they  will  love  to  make  use  of  experiments  in  a
+new,  and  perhaps  wider  and  more  dangerous  sense?  In
+their  passion  for  knowledge,  will  they  have  to  go  further
+in  daring  and  painful  attempts  than  the  sensitive  and  pam-
+pered taste  of  a  democratic  century  can  approve  of? — There
+is  no  doubt:  these  coming  ones  will  be  least  able  to  dispense
+with  the  serious  and  not  imscrupulous  qualities  which  dis-
+tinguish the  critic  from  the  sceptic:  I  mean  the  certainty
+as  to  standards  of  worth,  the  conscious  employment  of  a
+unity  of  method,  the  wary  courage,  the  standing-alone,  and
+the  capacity  for  self -responsibility;  indeed,  they  will  avow
+among  themselves  a  delight  in  denial  and  dissection,  and
+a  certain  considerate  cruelty,  which  knows  how  to  handle
+the  knife  surely  and  deftly,  even  when  the  heart  bleeds.
+They  will  be  sterner  (and  perhaps  not  always  towards  them-
+selves only)  than  humane  people  may  desire,  they  will  not
+deal  with  the  "truth"  in  order  that  it  may  "please"  them,
+or  "elevate"  and  "inspire"  them — they  will  rather  have
+little  faith  in  "truth"  bringing  with  it  such  revels  for  the
+
+134  BEYOND  GOOD  AND  EVIL
+
+feelings.  They  will  smile,  those  rigourous  spirits,  when  any
+one  says  in  their  presence:  "that  thought  elevates  me,  why
+should  it  not  be  true?"  or:  "that  work  enchants  me,  why
+should  it  not  be  beautiful?"  or:  "that  artist  enlarges  me,
+why  should  he  not  be  great?"  Perhaps  they  will  not  only
+have  a  smile,  but  a  genuine  disgust  for  all  that  is  thus  rap-
+turous, idealistic,  feminine,  and  hermaphroditic;  and  if  any
+one  could  look  into  their  inmost  hearts,  he  would  not  easily
+find  therein  the  intention  to  reconcile  "Christian  sentiments"
+with  "antique  taste,"  or  even  with  "modem  parliamentar-
+ism" (the  kind  of  reconciliation  necessarily  found  even
+amongst  philosophers  in  our  very  uncertain  and  consequently
+very  conciliatory  century).  Critical  discipline,  and  every
+habit  that  conduces  to  purity  and  rigour  in  intellectual  mat-
+ters, will  not  only  be  demanded  from  themselves  by  these
+philosophers  of  the  future;  they  may,  even  make  a  display
+thereof  as  their  special  adornment — nevertheless  they  will
+not  want  to  be  called  critics  on  that  account.  It  will  seem
+to  them  no  small  indignity  to  philosophy  to  have  it  decreed,
+as  is  so  welcome  nowadays,  that  "philosophy  itself  is  criti-
+cism and  critical  science — and  nothing  else  whatever!"
+Though  this  estimate  of  philosophy  may  enjoy  the  approval
+of  all  the  Positivists  of  France  and  Germany  (and  possibly  it
+even  flattered  the  heart  and  taste  of  Kant:  let  us  call  to
+mind  the  titles  of  his  principal  works) ,  our  new  philosophers
+will  say,  notwithstanding,  that  critics  are  instruments  of  the
+philosopher,  and  just  on  that  account,  as  instruments,  they
+are  far  from  being  philosophers  themselves!  Even  the  great
+Chinaman  of  Konigsberg  was  only  a  great  critic
+
+BEYOND  GOOD  AND  EVIL  135
+
+211
+
+I  insist  upon  it  that  people  finally  cease  confounding  philo-
+sophical workers,  and  in  general  scientific  men,  with  philoso-
+phers— that  precisely  here  one  should  strictly  give  "each  his
+own,"  £ind  not  give  those  far  too  much,  these  far  too  little.
+It  may  be  necessary  for  the  education  of  the  real  philosopher
+that  he  himself  should  have  once  stood  upon  all  those  steps
+upon  which  his  servants,  the  scientific  workers  of  philosophy,
+remain  standing,  and  must  remain  standing:  he  himself
+must  perhaps  have  been  critic,  and  dogmatist,  and  historian,
+and  besides,  poet,  and  collector,  and  traveller,  and  riddle-^
+reader^  and  moralist,  and  seer,  and  "free  spirit,"  and  almost
+everything,  in  order  to  traverse  the  whole  range  of  human
+values  and  estimations,  and  that  he  may  be  able  with  a
+variety  of  eyes  and  consciences  to  look  from  a  height  to  any
+distance,  from  a  depth  up  to  any  height,  from  a  nook  into
+any  expanse.  But  all  these  are  only  preliminary  conditions
+for  his  task;  this  task  itself  demands  something  else — it  re-
+quires him  to  create  values.  The  philosophical  workers,  after
+the  excellent  pattern  of  Kant  and  Hegel,  have  to  fix  and  for-
+malise some  great  existing  body  of  valuations — that  is  to
+say,  former  determinations  of  value,  creations  of  value,
+which  have  become  prevalent,  and  are  for  a  time  called
+"truths" — whether  in  the  domain  of  the  logical,  the  political
+(moral),  or  the  artistic.  It  is  for  these  investigators  to  make
+whatever  has  happened  and  been  esteemed  hitherto,  con-
+spicuous, conceivable,  intelligible,  and  manageable,  to  shorten
+everythmg  long,  even  "time"  itself,  and  to  subjugate  the
+entire  past:  an  immense  and  wonderful  task,  in  the  carrying
+out  of  which  all  refined  pride,  all  tenacious  will,  can  surely
+find  satisfaction.    The  real  philosophers,  however,  are  com'
+
+136  BEYOND  GOOD  AND  EVIL
+
+manders  and  law-givers;  they  say:  "Thus  shall  it  be!"
+They  determine  first  the  Whither  and  the  Why  of  mankind,
+and  thereby  set  aside  the  previous  labour  of  all  philosophi-
+cal workers,  and  all  subjugators  of  the  past — they  grasp  at
+the  future  with  a  creative  hand,  and  whatever  is  and  was,
+becomes  for  them  thereby  a  means,  an  instrument,  and  a
+hammer.  Their  "knowing"  is  creating,  their  creating  is  a
+law-giving,  their  will  to  truth  is — Will  to  Power. — Are  there
+at  present  such  philosophers?  Have  there  ever  been  such
+philosophers?  Must  there  not  be  such  philosophers  some
+day?  .  .  .
+
+212
+
+It  is  always  more  obvious  to  me  that  the  philosopher,  as  a
+man  indispensable  for  the  morrow  and  the  day  after  the
+morrow,  has  ever  found  himself,  and  has  been  obliged  to  find
+himself,  in  contradiction  to  the  day  in  which  he  lives;  his
+enemy  has  always  been  the  ideal  of  his  day.  Hitherto  all
+those  extraordinary  furtherers  of  humanity  whom  one  calls
+philosophers — ^who  rarely  regarded  themselves  as  lovers  of
+wisdom,  but  rather  as  disagreeable  fools  and  dangerous  in-
+terrogators— ^have  found  their  mission,  their  hard,  involun-
+tary, imperative  mission  (in  the  end  however  the  greatness
+of  their  mission),  in  being  the  bad  conscience  of  their  age.
+In  putting  the  vivisector's  knife  to  the  breast  of  the  very
+virtues  of  their  age,  they  have  betrayed  their  own  secret;  it
+has  been  for  the  sake  of  a  new  greatness  of  man,  a  new  im-
+trodden  path  to  his  aggrandisement.  They  have  always  dis-
+closed how  much  hypocrisy,  indolence,  self-indulgence,  and
+self-neglect,  how  much  falsehood  was  concealed  under  the
+most  venerated  types  of  contemporary  morality,  how  much
+virtue  was  outlived;  they  have  always  said:     "We  must  re-
+
+BEYOND  GOOD  AND  EVIL  137
+
+move  hence  to  where  you  are  least  at  home."  In  face  of  a
+world  of  "modem  ideas,"  which  would  like  to  confine  every
+one  in  a  comer,  in  a  "specialty,"  a  philosopher,  if  there
+could  be  philosophers  nowadays,  would  be  compelled  to
+place  the  greatness  of  man,  the  conception  of  "greatness,"
+precisely  in  his  comprehensiveness  and  multifariousness,  in
+his  all-roundness;  he  would  even  determine  worth  and  rank
+according  to  the  amount  and  variety  of  that  which  a  man
+could  bear  and  take  upon  himself,  according  to  the  extent
+to  which  a  man  could  stretch  his  responsibility.  Nowadays
+the  taste  and  virtue  of  the  age  weaken  and  attenuate  the
+will;  nothing  is  so  adapted  to  the  spirit  of  the  age  as  weak-
+ness of  will:  consequently,  in  the  ideal  of  the  philosopher,
+strength  of  will,  stemness  and  capacity  for  prolonged  reso-
+lution, must  specially  be  included  in  the  conception  of
+"greatness";  with  as  good  a  right  as  the  opposite  doctrine,
+with  its  ideal  of  a  silly,  renouncing,  humble,  selfless  human-
+ity, was  suited  to  an  opposite  age — such  as  the  sixteenth  cen-
+tury, which  suffered  from  its  accumulated  energy  of  will,
+and  from  the  wildest  torrents  and  floods  of  selfishness.  In
+the  time  of  Socrates,  among  men  only  of  wom-out  instincts,
+old  conservative  Athenians  who  let  themselves  go — "for  the
+sake  of  happiness,"  as  they  said;  for  the  sake  of  pleasure,  as
+their  conduct  indicated — and  who  had  continually  on  their
+lips  the  old  pompous  words  to  which  they  had  long  forfeited
+the  right  by  the  life  they  led,  irony  was  perhaps  necessary
+for  greatness  of  soul,  the  wicked  Socratic  assurance  of  the
+old  physician  and  plebeian,  who  cut  ruthlessly  into  his  own
+flesh,  as  into  the  flesh  and  heart  of  the  "noble,"  with  a  look
+that  said  plainly  enou^:  "Do  not  dissemble  before  me!
+here — we  are  equal!"  At  present,  on  the  contrary,  when
+throughout  Europe  the  herding  animal  alone  attains  to  hon-
+ours, and  dispenses  honours,  when  "equality  of  right"  can
+
+138  BEYOND  GOOD  AND  EVIL
+
+too  readily  be  transformed  into  equality  in  wrong:  I  mean  to
+say  into  general  war  against  everything  rare,  strange,  and
+privileged,  against  the  higher  man,  the  higher  soul,  the  higher
+duty,  the  higher  responsibility,  the  creative  plenipotence  and
+lordliness — at  present  it  belongs  to  the  conception  of  "great-
+ness" to  be  noble,  to  wish  to  be  apart,  to  be  capable  of
+being  different,  to  stand  alone,  to  have  to  live  by  personal
+initiative;  and  the  philosopher  will  betray  something  of  his
+own  ideal  when  he  asserts:  "He  shall  be  the  greatest  who
+can  be  the  most  solitary,  the  most  concealed,  the  most  di-
+vergent, the  man  beyond  good  and  evil,  the  master  of  his
+virtues,  and  of  superabundance  of  will;  precisely  this  shall
+be  called  greatness:  as  diversified  as  can  be  entire,  as  ample
+as  can  be  full."  And  to  ask  once  more  the  question:  Is
+greatness  possible — nowadays?
+
+213
+
+i
+
+It  is  difficult  to  learn  what  a  philosopher  is,  because  it
+cannot  be  taught:  one  must  "know"  it  by  experience — or
+one  should  have  the  pride  not  to  know  it.  The  fact  that  at
+present  people  all  talk  of  things  of  which  they  cannot  have
+any  experience,  is  true  more  especially  and  unfortunately  cis
+concerns  the  philosopher  and  philosophical  matters: — the
+very  few  know  them,  are  permitted  to  know  them,  and  all
+popular  ideas  about  them  are  false.  Thus,  for  instance,  the
+truly  philosophical  combination  of  a  bold,  exuberant  spirit-
+uality which  runs  at  presto  pace,  and  a  dialectic  rigour  and
+necessity  which  makes  no  false  step,  is  unknown  to  most
+thinkers  and  scholars  from  their  own  experience,  and  there-
+fore, should  any  one  speak  of  it  in  their  presence,  it  is  in-
+credible to  them.  They  conceive  of  every  necessity  as  trou-
+blesome, as  a  painful  compulsory  obedience  and  state  of  con-
+
+BEYOND  GOOD  AND  EVIL  139
+
+straint;  thinking  itself  is  regarded  by  them  as  something
+slow  and  hesitating,  almost  as  a  trouble,  and  often  enough
+as  "worthy  of  the  sweat  of  the  noble" — but  not  at  all  as
+something  easy  and  divine,  closely  related  to  dancing  and
+exuberance!  'To  think"  and  to  take  a  matter  "seriously,"
+"arduously" — that  is  one  and  the  same  thing  to  them;  such
+only  has  been  their  "experience." — Artists  have  here  per-
+haps a  finer  intuition;  they  who  know  only  too  well  that
+precisely  when  they  no  longer  do  anything  "arbitrarily,"
+and  everything  of  necessity,  their  feeling  of  freedom,  of
+subtlety,  of  power,  of  creatively  fixing,  disposing  and  shap-
+ing, reaches  its  climax — in  short,  that  necessity  and  "free-
+dom of  will"  are  then  the  same  thing  with  them.  There  is,
+in  fine,  a  gradation  of  rank  in  psychical  states,  to  which
+the  gradation  of  rank  in  the  problems  corresponds;  and  the
+highest  problems  repel  ruthlessly  every  one  who  ventures  too
+near  them,  without  being  predestined  for  their  solution  by
+the  loftiness  and  power  of  his  spirituality.  Of  what  use  is  it
+for  nimble,  everyday  intellects,  or  clumsy,  honest  mechanics
+and  empiricists  to  press,  in  their  plebeian  ambition,  close  to
+such  problems,  and  as  it  were  into  this  "holy  of  holies" —
+as  so  often  happens  nowadays!  But  coarse  feet  must  never
+tread  upon  such  carpets:  this  is  provided  for  in  the  primary
+law  of  things;  the  doors  remain  closed  to  those  intruders,
+though  they  may  dash  and  break  their  heads  thereon!
+People  have  always  to  be  born  to  a  high  station,  or,  more
+definitely,  they  have  to  be  bred  for  it:  a  person  has  only  a
+ri^t  to  philosophy — taking  the  word  in  its  higher  signifi-
+cance— in  virtue  of  his  descent;  the  ancestors,  the  "blood,"
+decide  here  also.  Many  generations  must  have  prepared
+the  way  for  the  coming  of  the  philosopher;  each  of  his  vir-
+tues must  have  been  separately  acquired,  nurtured,  trans-
+mitted, and  embodied;   not  only  the  bold,  easy,  delicate
+
+140  BEYOND  GOOD  AND  EVIL
+
+course  and  current  of  his  thoughts,  but  above  all  the  readi-
+ness for  great  responsibilities,  the  majesty  of  ruling  glance
+and  contemning  look,  the  feeling  of  separation  from  the
+multitude  with  their  duties  and  virtues,  the  kindly  patron-
+age and  defence  of  whatever  is  misunderstood  and  calum-
+niated, be  it  God  or  devil,  the  delight  and  practice  of  su-
+preme justice,  the  art  of  commanding,  the  amplitude  of  will,
+the  lingering  eye  which  rarely  admires,  rarely  looks  up,
+rarely  loves.  .  .  .
+
+■  ,j^gtd
+
+CHAPTER    VII
+
+Our  ViRiUES
+
+214
+
+Our  Virtues? — It  is  probable  that  we,  too,  have  still  our
+virtues,  although  naturally  they  are  not  those  sincere  and
+massive  virtues  on  account  of  which  we  hold  our  grand-
+fathers in  esteem  and  also  at  a  little  distance  from  us.  We
+Europeans  of  the  day  after  to-morrow,  we  firstlings  of  the
+twentieth  century — with  all  our  dangerous  curiosity,  our
+multifariousness  and  art  of  disguising,  our  mellow  and  seem-
+ingly sweetened  cruelty  in  sense  awd  spirit — we  shall  pre-
+sumably, if  we  must  have  virtues,  have  those  only  which
+have  come  to  agreement  with  our  most  secret  and  heartfelt
+inclinations,  with  our  most  ardent  requirements:  well,  then,
+let  us  look  for  them  in  our  labyrinths! — where,  as  we  know,
+so  many  things  lose  themselves,  so  mauy  things  get  quite
+lost!  And  is  there  anything  finer  than  to  search  for  one's
+own  virtues?  Is  it  not  almost  to  beliew  in  one's  own  vir-
+tues? But  this  "believing  in  one's  own  N'irtues" — is  it  not
+practically  the  same  as  what  was  formerly  called  one's
+"good  conscience,"  that  long,  respectable  pigfail  of  an  idea,
+which  our  grandfathers  used  to  hang  behind  their  heads,
+and  often  enough  also  behind  their  understibsndings?  It
+seems,  therefore,  that  however  little  we  may  imagine  our-
+selves to  be  old-fashioned  and  grandfatherly  respectable  in
+
+141
+
+142  BEYOND  GOOD  AND  EVIL
+
+other  respects,  in  one  thing  we  are  nevertheless  the  worthy
+grandchildren  of  our  grandfathers,  we  last  Europeans  with
+good  consciences:  we  also  still  wear  their  pigtail. — Ah!  if
+you  only  knew  how  soon,  so  very  soon — it  will  be  different!
+
+215
+
+As  in  the  stellar  firmament  there  are  sometimes  two  sims
+which  determine  the  path  of  one  planet,  and  in  certain
+cases  suns  of  different  colours  shine  around  a  single  planet,
+now  with  red  light,  now  with  green,  and  then  simultaneously
+illumine  and  flood  it  with  motley  colours:  so  we  modem
+men,  owing  to  the  complicated  mechanism  of  our  "firma-
+ment," are  determined  by  different  moralities;  our  actions
+shine  alternately  in  different  colours,  and  are  seldom  un-
+equivocal— and  there  are  often  cases,  also,  in  which  our
+actions  are  motley-coloured.
+
+216
+
+To  love  one's  enemies?  I  think  that  has  been  well
+learnt:  it  takes  place  thousands  of  times  at  present  on  a
+large  and  small  scale;  indeed,  at  times  the  higher  and  sub-
+limer  thing  takes  place: — we  learn  to  despise  when  we  love,
+and  precisely  when  we  love  best;  all  of  it,  however,  uncon-
+sciously, without  noise,  without  ostentation,  with  the  shame
+and  secrecy  of  goodness,  which  forbids  the  utterance  of  the
+pompous  word  and  the  formula  of  virtue.  Morality  as  atti-
+tude— is  opposed  to  our  taste  nowadays.  This  is  also  an
+%idvance,  as  it  was  an  advance  in  our  fathers  that  religion
+as  an  attitude  finally  became  opposed  to  their  taste,  in-
+cludKig  the  enmity  and  Voltairean  bitterness  against  reli-
+gion fand  all  that  formerly  belonged  to  freethinker-panto-
+
+BEYOND  GOOD  AND  EVIL  143
+
+mime).  It  is  the  music  in  our  conscience,  the  dance  in  our
+spirit,  to  which  Puritan  litanies,  moral  sermons,  and  goody-
+goodness  won't  chime.
+
+217
+
+Let  us  be  careful  in  dealing  with  those  who  attach  great
+importance  to  being  credited  with  moral  tact  and  subtlety
+in  moral  discernment!  They  never  forgive  us  if  they  have
+once  made  a  mistake  before  us  (or  even  with  regard  to  us) —
+they  inevitably  become  our  instinctive  calumniators  and  de-
+tractors, even  when  they  still  remain  our  "friends." —
+Blessed  are  the  forgetful:  for  they  "get  the  better"  even  of
+their  blunders.
+
+218
+
+The  psychologists  of  France — and  where  else  are  there
+still  psychologists  nowadays? — ^have  never  yet  exhausted
+their  bitter  and  manifold  enjoyment  of  the  betise  bour-
+geoise,  just  as  though  ...  in  short,  they  betray  something
+thereby.  Flaubert,  for  instance,  the  honest  citizen  of  Rouen,
+neither  saw,  heard,  nor  tasted  anything  else  in  the  end;  it
+was  his  mode  of  self-torment  and  refined  cruelty.  As  this
+is  growing  wearisome,  I  would  now  recommend  for  a  change
+something  else  for  a  pleasure — namely,  the  unconscious
+astuteness  with  which  good,  fat,  honest  mediocrity  always
+behaves  towards  loftier  spirits  and  the  tasks  they  have  to
+perform,  the  subtle,  barbed,  Jesuitical  astuteness,  which  is
+a  thousand  times  subtler  than  the  taste  and  understanding
+of  the  middle-class  in  its  best  moments — subtler  even  than
+the  understanding  of  its  victims: — a  repeated  proof  that
+"instinct"  is  the  most  intelligent  of  all  kinds  of  intelli-
+
+144  BEYOND  GOOD  AND  EVIL
+
+gence  which  have  hitherto  been  discovered.  In  short,  you
+psychologists,  study  the  philosophy  of  the  "rule"  in  its
+struggle  with  the  ''exception":  there  you  have  a  spectacle
+fit  for  Gods  and  godlike  malignity!  Or,  in  plainer  words,
+practise  vivisection  on  "good  people,"  on  the  "homo  bonae
+voluntatis,"  ...  on  yourselves!
+
+219
+
+The  practice  of  judging  and  condemning  morally,  is  the
+favourite  revenge  of  the  intellectually  shallow  on  those  who
+are  less  so;  it  is  also  a  kind  of  indemnity  for  their  being
+badly  endowed  by  nature;  and  finally,  it  is  an  opportunity
+for  acquiring  spirit  and  becoming  subtle: — malice  spiritual-
+ises. They  are  glad  in  their  inmost  heart  that  there  is  a
+standard  according  to  which  those  who  are  over-endowed
+with  intellectual  goods  and  privileges,  are  equal  to  them;
+they  contend  for  the  "equality  of  all  before  God,"  and
+almost  need  the  belief  in  God  for  this  purpose  It  is  among
+them  that  the  most  powerful  antagonists  of  atheism  are
+found.  If  any  one  were  to  say  to  them:  "a  lofty  spirituality
+is  beyond  all  comparison  with  the  honesty  and  respectability
+of  a  merely  moral  man" — it  would  make  them  furious;  I
+shall  take  care  not  to  say  so.  I  would  rather  flatter  them
+with  my  theory  that  lofty  spirituality  itself  exists  only  as
+the  ultimate  product  of  moral  qualities;  that  it  is  a  synthesis
+of  all  qualities  attributed  to  the  "merely  moral"  man,  after
+they  have  been  acquired  singly  through  long  training  and
+practice,  perhaps  during  a  whole  series  of  generations;  that
+lofty  spirituality  is  precisely  the  spiritualising  of  justice,  and
+the  beneficent  severity  which  knows  that  it  is  authorised  to.
+maintain  gradations  of  rank  in  the  world,  even  among  thing?
+■ — and  not  only  among  men.
+
+-I
+
+BEYOND  GOOD  AND  EVIL  145
+
+¥
+
+220
+
+Now  that  the  praise  of  the  "disinterested  person"  is  so
+popular  one  must — probably  not  without  some  danger — get
+an  idea  of  what  people  actually  take  an  interest  in,  and
+what  are  the  things  generally  which  fundamentally  and
+profoundly  concern  ordinary  men — including  the  cultured,
+even  the  learned,  and  perhaps  philosophers  also,  if  appear-
+ances do  not  deceive.  The  fact  thereby  becomes  obvious
+that  the  greater  part  of  what  interests  and  charms  higher
+natures,  and  more  refined  and  fastidious  tastes,  seems  abso-
+lutely "iminteresting"  to  the  average  man: — if,  notwith-
+standing, he  perceive  devotion  to  these  interests,  he  calls
+it  desinteresse,  and  wonders  how  it  is  possible  to  act  "disin-
+terestedly." There  have  been  philosophers  who  could  give
+this  popular  astonishment  a  seductive  and  mystical,  other-
+world  expression  (perhaps  because  they  did  not  know  the
+higher  nature  by  experience?),  instead  of  stating  the  naked
+and  candidly  reasonable  truth  that  "disinterested"  action
+is  very  interesting  and  "interested"  action,  provided  that  .  .  .
+"And  love?" — What!  Even  an  action  for  love's  sake  shall
+be  "unegoistic"?  But  you  fools — !  "And  the  praise  of  the
+self-sacrificer?" — But  whoever  has  really  offered  sacrifice
+knows  that  he  wanted  and  obtained  something  for  it — per-
+haps something  from  himself  for  something  from  himself;
+that  he  relinquished  here  in  order  to  have  more  there,  per-
+haps in  general  to  be  more,  or  even  feel  himself  "more.'"
+But  this  is  a  realm  of  questions  and  answers  in  which  a
+more  fastidious  spirit  does  not  like  to  stay:  for  here  truth
+has  to  stifle  her  yawns  so  much  when  she  is  obliged  to
+answer.  And  after  all,  truth  is  a  woman;  one  must  not  us<^
+force  with  her.
+
+146  BEYOND  GOOD  AND  EVIL
+
+221
+
+"It  sometimes  happens,"  said  a  moralistic  pedant  £ind
+trifle-retailer,  "that  I  honour  and  respect  an  unselfish  man:
+not,  however,  because  he  is  unselfish,  but  because  I  think  he
+has  a  right  to  be  useful  to  another  man  at  his  own  expense.
+In  short,  the  question  is  always  who  he  is,  and  who  the
+■other  is.  For  instance,  in  a  person  created  and  destined  for
+command,  self-denial  and  modest  retirement,  instead  of
+being  virtues  would  be  the  waste  of  virtues:  so  it  seems  to
+me.  Every  system  of  unegoistic  morality  which  takes  itself
+unconditionally  and  appeals  to  every  one,  not  only  sins
+against  good  taste,  but  is  also  an  incentive  to  sins  of  omis-
+sion, an  additional  seduction  under  the  mask  of  philanthropy
+— and  precisely  a  seduction  and  injury  to  the  higher,  rarer,
+and  more  privileged  types  of  men.  Moral  systems  must  be
+•compelled  first  of  all  to  bow  before  the  gradations  of  rank;
+their  presumption  must  be  driven  home  to  their  conscience
+— until  they  thoroughly  understand  at  last  that  it  is  immoral
+to  say  that  "what  is  right  for  one  is  proper  for  another," —
+So  said  my  moralistic  pedant  and  honhomme.  Did  he  per-
+haps deserve  to  be  laughed  at  when  he  thus  exhorted  sys-
+tems of  morals  to  practise  morality?  But  one  should  not
+be  too  much  in  the  right  if  one  wishes  to  have  the  laughers
+on  one's  own  side;  a  grain  of  wrong  pertains  even  to  good
+taste.
+
+222
+
+Wherever  S5mipathy  (fellow-suffering)  is  preached  nowa
+days — and,   if  I  gather  rightly,   no  other  religion  is  any
+longer  preached — let  the  psychologist  have  his  ears  open
+
+\
+
+i
+
+BEYOND  GOOD  AND  EVIL  147
+
+through  all  the  vanity,  through  all  the  noise  which  is  natural
+to  these  preachers  (as  to  all  preachers),  he  will  hear  a
+hoarse,  groaning,  genuine  note  of  self -contempt.  It  belongs
+to  the  overshadowing  and  uglifying  of  Europe,  which  has
+been  on  the  increase  for  a  century  (the  first  symptoms  of
+which  are  already  specified  documentarily  in  a  thoughtful
+letter  of  Galiani  to  Madame  d'Epinay) — if  it  is  not  really
+the  cause  thereof!  The  man  of  "modem  ideas,"  the  con-
+ceited ape,  is  excessively  dissatisfied  with  himself — this  is
+perfectly  certain.  He  suffers,  and  his  vanity  wants  him
+only  *'to  suffer  with  his  fellows."
+
+223
+
+The  hybrid  European — a  tolerably  ugly  plebeian,  taken
+all  in  all — absolutely  requires  a  costume:  he  needs  history
+as  a  storeroom  of  costumes.  To  be  sure,  he  notices  that
+none  of  the  costumes  fit  him  properly — he  changes  and
+changes.  Let  us  look  at  the  nineteenth  century  with  respect
+to  these  hasty  preferences  and  changes  in  its  masquerades
+of  style,  and  also  with  respect  to  its  moments  of  despera-
+tion on  accoimt  of  "nothing  suiting"  us.  It  is  in  vain  to
+get  ourselves  up  as  romsmtic,  or  classical,  or  Christian,  or
+Florentine,  or  barocco,  or  "national,"  in  moribus  et  artibus:
+it  does  not  "clothe  us"!  But  the  "spirit,"  especially  the
+"historical  spirit,"  profits  even  by  this  desperation:  once
+and  again  a  new  sample  of  the  past  or  of  the  foreign  is
+tested,  put  on,  taken  off,  packed  up,  and  above  all  studied —
+we  are  the  first  studious  age  in  puncto  of  "costumes,"  I
+mean  as  concerns  morals,  articles  of  belief,  artistic  tastes,
+and  religions;  we  are  prepared  as  no  other  age  has  ever
+been  for  a  carnival  in  the  grand  style,  for  the  most  spiritual
+festival-laughter  and  arrogance,  for  the  transcendental  height
+
+148  BEYOND  GOOD  AND  EVIL
+
+of  supreme  folly  and  Aristophanic  ridicule  of  the  world.
+Perhaps  we  are  still  discovering  the  domain  of  our  invention
+just  here,  the  domain  where  even  we  can  still  be  original,
+probably  as  parodists  of  the  world's  history  and  as  God's
+Merry-Andrews, — perhaps,  though  nothing  else  of  the  pres-
+ent have  a  future,  our  laughter  itself  may  have  a  future!
+
+224
+
+The  historical  sense  (or  the  capacity  for  divining  quickly
+the  order  of  rank  of  the  valuations  according  to  which  a
+people,  a  commimity,  or  an  individual  has  lived,  the  "divin-
+ing instinct"  for  the  relationships  of  these  valuations,  for
+the  relation  of  the  authority  of  the  valuations  to  the  author-
+ity of  the  operating  forces), — this  historical  sense,  which  we
+Europeans  claim  as  our  specialty,  has  come  to  us  in  the
+train  of  the  enchanting  and  mad  semi-barbarity  into  which
+Europe  has  been  plunged  by  the  democratic  mingling  of
+classes  and  races — it  is  only  the  nineteenth  century  that  has
+recognised  this  faculty  as  its  sixth  sense.  Owing  to  this
+mingling,  the  past  of  every  form  and  mode  of  life,  and  of
+cultures  which  were  formerly  closely  contiguous  and  super-
+imposed on  one  another,  flows  forth  into  us  "modem  souls";
+our  instincts  now  run  back  in  all  directions,  we  ourselves  are
+a  kind  of  chaos:  in  the  end,  as  we  have  said,  the  spirit  per-
+ceives its  advantage  therein.  By  means  of  our  semi-barbarity
+in  body  and  in  desire,  we  have  secret  access  everywhere,
+such  as  a  noble  age  never  had;  we  have  access  above  all  to
+the  labyrinth  of  imperfect  civilisations,  and  to  every  form
+of  semi-barbarity  that  has  at  any  time  existed  on  earth ;  and
+in  so  far  as  the  most  considerable  part  of  human  civilisation
+hitherto  has  just  been  semi-barbarity,  the  "historical  sense"
+implies  almost  the  sense  and  instinct  for  everything,  th
+
+1
+
+BEYOND  GOOD  AND  EVIL  149
+
+taste  and  tongue  for  everything:  whereby  it  immediately
+proves  itself  to  be  an  ignoble  sense.  For  instance,  we  enjoy
+Homer  once  more:  it  is  perhaps  our  happiest  acquisition  that
+we  know  how  to  appreciate  Homer,  whom  men  of  distin-
+guished culture  (as  the  French  of  the  seventeenth  century,
+like  Saint-Evremond,  who  reproached  him  for  his  esprit  vastCy
+and  even  Voltaire,  the  last  echo  of  the  century)  cannot  and
+could  not  so  easily  appropriate — whom  they  scarcely  per-
+mitted themselves  to  enjoy.  The  very  decided  Yea  and
+Nay  of  their  palate,  their  promptly  ready  disgust,  their
+hesitating  reluctance  with  regard  to  everything  strange,  their
+horror  of  the  bad  taste  even  of  lively  curiosity,  and  in
+general  the  averseness  of  every  distinguished  and  self-suffi-
+cing culture  to  avow  a  new  desire,  a  dissatisfaction  with  its
+own  condition,  or  an  admiration  of  what  is  strange:  all  this
+determines  and  disposes  them  unfavourably  even  towards  the
+best  things  of  the  world  which  are  not  their  property  or
+could  not  become  their  prey — and  no  faculty  is  more  unin-
+telligible to  such  men  than  just  this  historical  sense,  with
+its  truckling,  plebeian  curiosity.  The  case  is  not  different
+with  Shakespeare,  that  marvellous  Spanish-Moorish-Saxon
+synthesis  of  taste,  over  whom  an  ancient  Athenian  of  the
+circle  of  ^schylus  would  have  half-killed  himself  with  laugh-
+ter or  irritation:  but  we — accept  precisely  this  wild  motley-
+ness,  this  medley  of  the  most  delicate,  the  most  coarse,  and
+the  most  artificial,  with  a  secret  confidence  and  cordiality;
+we  enjoy  it  as  a  refinement  of  art  reserved  expressly  for  us,
+and  allow  ourselves  to  be  as  little  disturbed  by  the  repulsive
+fumes  and  the  proximity  of  the  English  populace  in  which
+Shakespeare's  art  and  taste  lives,  as  perhaps  on  the  Chiaja
+of  Naples,  where,  with  all  our  senses  awake,  we  go  our
+way,  enchanted  and  voluntarily,  in  spite  of  the  drain-odour
+of  the  lower  quarters  of  the  town.     That  as  men  of  the
+
+^50  BEYOND  GOOD  AND  EVIL
+
+"historical  sense"  we  have  our  virtues,  is  not  to  be  dis-
+puted:— we  are  unpretentious,  unselfish,  modest,  brave,
+habituated  to  self-control  and  self-renunication,  very  grate-
+ful, very  patient,  very  complaisant — ^but  with  all  this  we  are
+perhaps  not  very  "tasteful."  Let  us  finally  confess  it,  that
+what  is  most  difficult  for  us  men  of  the  "historical  sense"  to
+grasp,  feel,  taste,  and  love,  what  finds  us  fundamentally
+prejudiced  and  almost  hostile,  is  precisely  the  perfection  and
+ultimate  maturity  in  every  culture  and  art,  the  essentially
+noble  in  works  and  men,  their  moment  of  smooth  sea  and
+halcyon  self-sufficiency,  the  goldenness  and  coldness  which
+all  things  show  that  have  perfected  themselves.  Perhaps  our
+great  virtue  of  the  historical  sense  is  in  necessary  contrast
+to  good  taste,  at  least  to  the  very  bad  taste;  and  we  can
+only  evoke  in  ourselves  imperfectly,  hesitatingly,  and  withJ
+compulsion  the  small,  short,  and  happy  godsends  and  glori-
+fications of  human  life  as  they  shine  here  and  there:  those
+moments  and  marvellous  experiences  when  a  great  power  has
+voluntarily  come  to  a  halt  before  the  boundless  and  infinite,
+— when  a  superabundance  of  refined  delight  has  been  en-
+joyed by  a  sudden  checking  and  petrifying,  by  standing
+firmly  and  planting  oneself  fixedly  on  still  trembling  groimd.
+Proportionateness  is  strange  to  us,  let  us  confess  it  to  our-
+selves; our  itching  is  really  the  itching  for  the  infinite,  the
+immea
+
+<!-- Book text truncated by scrapem max_book_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。
