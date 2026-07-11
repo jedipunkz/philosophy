@@ -2,6 +2,7 @@ package scrapem
 
 import (
 	"fmt"
+	"io/fs"
 	"os"
 	"path/filepath"
 	"regexp"
@@ -12,15 +13,31 @@ import (
 var unsafeFileRe = regexp.MustCompile(`[/:*?"<>|\\]+`)
 var sourceLineRe = regexp.MustCompile(`(?m)^source:\s*"?([^"\n]+)"?\s*$`)
 
+// inboxSubdir returns the directory a note should be written to. Notes are
+// grouped under inbox/<著者>/ where <著者> is the scrape keyword (the
+// philosopher the material was collected for). Items without a keyword fall
+// back to the inbox root.
+func inboxSubdir(inbox string, item Item) string {
+	kw := strings.Trim(unsafeFileRe.ReplaceAllString(strings.TrimSpace(item.Keyword), "-"), " .-")
+	if kw == "" {
+		return inbox
+	}
+	return filepath.Join(inbox, kw)
+}
+
 func writeMarkdown(inbox string, item Item) (string, error) {
 	now := time.Now()
+	dir := inboxSubdir(inbox, item)
+	if err := os.MkdirAll(dir, 0o755); err != nil {
+		return "", err
+	}
 	base := buildMarkdownBase(now, item)
-	path := filepath.Join(inbox, base+".md")
+	path := filepath.Join(dir, base+".md")
 	for i := 2; ; i++ {
 		if _, err := os.Stat(path); os.IsNotExist(err) {
 			break
 		}
-		path = filepath.Join(inbox, fmt.Sprintf("%s-%d.md", base, i))
+		path = filepath.Join(dir, fmt.Sprintf("%s-%d.md", base, i))
 	}
 
 	content := chooseRenderer(now, item)
@@ -42,8 +59,12 @@ func updateMarkdownBySource(inbox string, item Item) error {
 			when = parsed
 		}
 	}
+	dir := inboxSubdir(inbox, item)
+	if err := os.MkdirAll(dir, 0o755); err != nil {
+		return err
+	}
 	desiredBase := buildMarkdownBase(when, item)
-	newPath := filepath.Join(inbox, desiredBase+".md")
+	newPath := filepath.Join(dir, desiredBase+".md")
 	if newPath != oldPath {
 		if _, err := os.Stat(newPath); os.IsNotExist(err) {
 			if err := os.Rename(oldPath, newPath); err != nil {
@@ -91,27 +112,31 @@ func primaryAuthor(authors string) string {
 }
 
 func findMarkdownBySource(inbox, source string) (string, string, error) {
-	entries, err := os.ReadDir(inbox)
-	if err != nil {
-		return "", "", err
-	}
-	for _, entry := range entries {
-		if entry.IsDir() || filepath.Ext(entry.Name()) != ".md" {
-			continue
+	var foundPath, capturedAt string
+	err := filepath.WalkDir(inbox, func(path string, d fs.DirEntry, err error) error {
+		if err != nil {
+			return err
 		}
-		path := filepath.Join(inbox, entry.Name())
+		if d.IsDir() || filepath.Ext(d.Name()) != ".md" {
+			return nil
+		}
 		data, err := os.ReadFile(path)
 		if err != nil {
-			return "", "", err
+			return err
 		}
 		text := string(data)
 		match := sourceLineRe.FindStringSubmatch(text)
 		if len(match) < 2 || match[1] != source {
-			continue
+			return nil
 		}
-		return path, frontMatterValue(text, "captured_at"), nil
+		foundPath = path
+		capturedAt = frontMatterValue(text, "captured_at")
+		return filepath.SkipAll
+	})
+	if err != nil {
+		return "", "", err
 	}
-	return "", "", nil
+	return foundPath, capturedAt, nil
 }
 
 func renderMarkdown(now time.Time, item Item) string {

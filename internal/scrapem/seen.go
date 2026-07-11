@@ -2,6 +2,7 @@ package scrapem
 
 import (
 	"encoding/json"
+	"io/fs"
 	"os"
 	"path/filepath"
 	"strings"
@@ -43,32 +44,35 @@ func (s *Seen) Add(rawURL string) {
 // This makes the seen state self-healing when seen-*.json is missing or stale
 // (e.g. when a previous run crashed before Save). Returns the number of URLs added.
 func syncSeenFromInbox(inbox string, seen *Seen) (int, error) {
-	entries, err := os.ReadDir(inbox)
-	if err != nil {
-		if os.IsNotExist(err) {
-			return 0, nil
-		}
-		return 0, err
-	}
 	added := 0
-	for _, entry := range entries {
-		if entry.IsDir() || filepath.Ext(entry.Name()) != ".md" {
-			continue
-		}
-		data, err := os.ReadFile(filepath.Join(inbox, entry.Name()))
+	err := filepath.WalkDir(inbox, func(path string, d fs.DirEntry, err error) error {
 		if err != nil {
-			return added, err
+			if os.IsNotExist(err) {
+				return nil
+			}
+			return err
+		}
+		if d.IsDir() || filepath.Ext(d.Name()) != ".md" {
+			return nil
+		}
+		data, err := os.ReadFile(path)
+		if err != nil {
+			return err
 		}
 		match := sourceLineRe.FindStringSubmatch(string(data))
 		if len(match) < 2 {
-			continue
+			return nil
 		}
 		url := strings.TrimSpace(match[1])
 		if url == "" || seen.Has(url) {
-			continue
+			return nil
 		}
 		seen.URLs[url] = ""
 		added++
+		return nil
+	})
+	if err != nil {
+		return added, err
 	}
 	return added, nil
 }

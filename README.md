@@ -1,6 +1,6 @@
 # 哲学ノート
 
-哲学者・著作ごとに内容をまとめた個人ナレッジベース。Obsidian Vault として管理し、Go 製スクレイパーが収集した論文・書籍情報を単一の `inbox/` に蓄積し、Codex / Claude Code が `notes/` の日本語ノートへ統合する。
+哲学者・著作ごとに内容をまとめた個人ナレッジベース。Obsidian Vault として管理し、Go 製スクレイパーが収集した論文・書籍情報を `inbox/<著者>/`（スクレイプのキーワードである哲学者ごと）に蓄積し、Codex / Claude Code が `notes/` の日本語ノートへ統合する。
 
 ---
 
@@ -9,6 +9,7 @@
 ```
 philosophy/
 ├── inbox/             # スクレイパーが保存する未処理素材（論文・書籍を一本化）
+│   └── <著者>/        # スクレイプのキーワード（哲学者）ごとにサブフォルダ分け
 ├── notes/             # Codex / Claude Code がまとめる整理済み日本語ノート
 │   ├── 西洋哲学/
 │   │   ├── 古代/      # ～紀元後5世紀ごろまで（ソクラテス、プラトン等）
@@ -85,7 +86,7 @@ scrape.yaml
   ↓
 Go Scraper（論文: Crossref / arXiv、書籍: Wikipedia ja / SEP / Internet Archive）
   ↓
-inbox/*.md   （未処理素材。論文は capture_tool: scrapem、書籍は capture_tool: scrapem-book）
+inbox/<著者>/*.md   （未処理素材。スクレイプのキーワード＝哲学者ごとにサブフォルダ分け。論文は capture_tool: scrapem、書籍は capture_tool: scrapem-book）
   ↓
 Codex / Claude Code
   ↓
@@ -105,7 +106,7 @@ PhilArchive / PhilPapers / gutendex.com（Gutenberg のサードパーティ API
 
 - `scrape.yaml`: 収集対象の著者・クエリ・情報源を指定する。`keywords:` セクションで対象を管理し、著者ごとに `sources` で使うソースを選ぶ
 - Go Scraper: 各 API / サイトからメタデータ・Abstract・Subjects・本文・公開 URL などを収集する
-- `inbox/`: 論文・書籍の未処理素材キュー。`## Full Text` / `## PDF Text` に本文が入り、`max_book_chars` / `max_pdf_chars` で truncate された場合は `book_text_truncated: true` / PDF text truncated のマーカーが付く
+- `inbox/`: 論文・書籍の未処理素材キュー。スクレイパーは Front Matter の `keyword`（哲学者名）ごとに `inbox/<著者>/` サブフォルダへ振り分けて保存する。`## Full Text` / `## PDF Text` に本文が入り、`max_book_chars` / `max_pdf_chars` で truncate された場合は `book_text_truncated: true` / PDF text truncated のマーカーが付く
 - `notes/`: 整理済み日本語ノート（地域・時代で整理し、`種別` で書籍／研究動向を区別）
 - Codex / Claude Code: `inbox/` と既存ノートを読み、重複を避けて統合する
 
