@@ -57,6 +57,54 @@ sources:
 
 keywords:
   # --- 古代（西洋）---
+  - name: ソクラテス
+    queries:
+      - Socrates
+      - ソクラテス
+      - ソクラテスの弁明
+      - Plato Apology of Socrates
+      - クリトン ソクラテス
+      - Plato Crito
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 古代哲学
+      - 倫理学
+      - 問答法
+
+  - name: ヘラクレイトス
+    queries:
+      - Heraclitus
+      - ヘラクレイトス
+      - 万物流転
+      - Heraclitus fragments
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 古代哲学
+      - 自然哲学
+      - 万物流転
+
+  - name: エピクロス
+    queries:
+      - Epicurus
+      - エピクロス
+      - メノイケウス宛の手紙
+      - Epicurus Letter to Menoeceus
+      - Epicurus Principal Doctrines
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 古代哲学
+      - エピクロス主義
+      - 快楽主義
+
   - name: プラトン
     queries:
       - Plato
@@ -90,6 +138,57 @@ keywords:
       - 形而上学
 
   # --- 近代（西洋）---
+  - name: ジョン・ロック
+    queries:
+      - John Locke
+      - ジョン・ロック
+      - 人間知性論
+      - Locke An Essay Concerning Human Understanding
+      - 統治二論
+      - Locke Two Treatises of Government
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 近代哲学
+      - 経験論
+      - 社会契約論
+
+  - name: デイヴィッド・ヒューム
+    queries:
+      - David Hume
+      - デイヴィッド・ヒューム
+      - 人間本性論
+      - Hume A Treatise of Human Nature
+      - 人間知性研究
+      - Hume An Enquiry Concerning Human Understanding
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 近代哲学
+      - 経験論
+      - 懐疑主義
+
+  - name: ルソー
+    queries:
+      - Jean-Jacques Rousseau
+      - ジャン＝ジャック・ルソー
+      - 社会契約論 ルソー
+      - Rousseau The Social Contract
+      - エミール ルソー
+      - Rousseau Emile
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 近代哲学
+      - 社会契約論
+      - 政治哲学
+
   - name: デカルト
     queries:
       - René Descartes
@@ -181,6 +280,41 @@ keywords:
       - 社会思想
       - 唯物論
 
+  - name: ショーペンハウアー
+    queries:
+      - Arthur Schopenhauer
+      - ショーペンハウアー
+      - 意志と表象としての世界
+      - Schopenhauer The World as Will and Representation
+      - Die Welt als Wille und Vorstellung
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 近代哲学
+      - 意志の哲学
+      - ペシミズム
+
+  - name: キェルケゴール
+    queries:
+      - Søren Kierkegaard
+      - キェルケゴール
+      - 死に至る病
+      - Kierkegaard The Sickness unto Death
+      - あれか、これか キェルケゴール
+      - Kierkegaard Either/Or
+      - 不安の概念
+      - Kierkegaard The Concept of Anxiety
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 近代哲学
+      - 実存主義
+      - キリスト教思想
+
   - name: ニーチェ
     queries:
       - Friedrich Nietzsche
@@ -202,6 +336,93 @@ keywords:
       - ニヒリズム
 
   # --- 現代（西洋）---
+  - name: ハイデガー
+    queries:
+      - Martin Heidegger
+      - マルティン・ハイデガー
+      - 存在と時間
+      - Heidegger Being and Time
+      - Sein und Zeit
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+    tags:
+      - 現代哲学
+      - 実存主義
+      - 存在論
+
+  - name: ウィトゲンシュタイン
+    queries:
+      - Ludwig Wittgenstein
+      - ウィトゲンシュタイン
+      - 論理哲学論考
+      - Tractatus Logico-Philosophicus
+      - 哲学探究
+      - Wittgenstein Philosophical Investigations
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+      - archive   # 論理哲学論考（1921）は public domain
+    tags:
+      - 現代哲学
+      - 分析哲学
+      - 言語哲学
+
+  - name: サルトル
+    queries:
+      - Jean-Paul Sartre
+      - ジャン＝ポール・サルトル
+      - 存在と無
+      - Sartre Being and Nothingness
+      - 実存主義とは何か
+      - Sartre Existentialism Is a Humanism
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+    tags:
+      - 現代哲学
+      - 実存主義
+      - 現象学
+
+  - name: フーコー
+    queries:
+      - Michel Foucault
+      - ミシェル・フーコー
+      - 言葉と物
+      - Foucault The Order of Things
+      - 監獄の誕生
+      - Foucault Discipline and Punish
+      - 狂気の歴史
+      - Foucault History of Madness
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+    tags:
+      - 現代哲学
+      - 構造主義
+      - 権力論
+
+  - name: ジョン・ロールズ
+    queries:
+      - John Rawls
+      - ジョン・ロールズ
+      - 正義論 ロールズ
+      - Rawls A Theory of Justice
+      - 政治的リベラリズム
+      - Rawls Political Liberalism
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+    tags:
+      - 現代哲学
+      - 政治哲学
+      - 正義論
+
   - name: ハンナ・アーレント
     queries:
       - Hannah Arendt
@@ -279,7 +500,111 @@ keywords:
       - ネオプラグマティズム
       - 反表象主義
 
-  # --- 東洋哲学（日本・仏教）---
+  # --- 東洋哲学 ---
+  - name: 孔子
+    queries:
+      - 孔子
+      - Confucius
+      - 論語
+      - Confucius Analects
+      - Analects of Confucius
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 東洋哲学
+      - 儒教
+      - 中国思想
+
+  - name: 老子
+    queries:
+      - 老子
+      - Laozi
+      - Lao Tzu
+      - 老子道徳経
+      - Tao Te Ching
+      - Daodejing
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 東洋哲学
+      - 道家
+      - 中国思想
+
+  - name: 荘子
+    queries:
+      - 荘子
+      - Zhuangzi
+      - Chuang Tzu
+      - 荘子 内篇
+      - Zhuangzi Inner Chapters
+      - 胡蝶の夢 荘子
+    sources:
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 東洋哲学
+      - 道家
+      - 中国思想
+
+  - name: 龍樹
+    queries:
+      - 龍樹
+      - ナーガールジュナ
+      - Nagarjuna
+      - 中論
+      - Mulamadhyamakakarika
+      - Nagarjuna Madhyamaka
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 東洋哲学
+      - 仏教
+      - 中観派
+
+  - name: 道元
+    queries:
+      - 道元
+      - Dogen
+      - 正法眼蔵
+      - Shobogenzo
+      - 曹洞宗 道元
+      - Dogen Zen
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 東洋哲学
+      - 日本仏教
+      - 禅
+
+  - name: 西田幾多郎
+    queries:
+      - 西田幾多郎
+      - Kitaro Nishida
+      - 善の研究
+      - Nishida An Inquiry into the Good
+      - 絶対矛盾的自己同一
+      - 京都学派 西田
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+      - archive   # 1945 年没・著作権消滅
+    tags:
+      - 東洋哲学
+      - 京都学派
+      - 日本哲学
+
   - name: 親鸞
     queries:
       - 親鸞
