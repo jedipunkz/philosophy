@@ -3,6 +3,7 @@ package scrapem
 import (
 	"context"
 	"fmt"
+	"io/fs"
 	"log"
 	"os"
 	"path/filepath"
@@ -17,30 +18,32 @@ import (
 // surviving files. Pass dryRun=true to preview without deleting.
 func (r *Runner) Dedupe(_ context.Context, dryRun bool) error {
 	inbox := filepath.Join(r.cfg.Vault.Root, r.cfg.Vault.Inbox)
-	entries, err := os.ReadDir(inbox)
-	if err != nil {
-		return err
-	}
 
 	groups := map[string][]string{}
-	for _, entry := range entries {
-		if entry.IsDir() || filepath.Ext(entry.Name()) != ".md" {
-			continue
+	err := filepath.WalkDir(inbox, func(path string, d fs.DirEntry, err error) error {
+		if err != nil {
+			return err
 		}
-		path := filepath.Join(inbox, entry.Name())
+		if d.IsDir() || filepath.Ext(d.Name()) != ".md" {
+			return nil
+		}
 		data, err := os.ReadFile(path)
 		if err != nil {
 			return err
 		}
 		match := sourceLineRe.FindStringSubmatch(string(data))
 		if len(match) < 2 {
-			continue
+			return nil
 		}
 		url := strings.TrimSpace(match[1])
 		if url == "" {
-			continue
+			return nil
 		}
 		groups[url] = append(groups[url], path)
+		return nil
+	})
+	if err != nil {
+		return err
 	}
 
 	statePath := filepath.Join(r.cfg.Vault.Root, ".scrapem", r.cfg.Vault.SeenFile)

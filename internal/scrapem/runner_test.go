@@ -191,17 +191,8 @@ func TestRunSkipsArchiveItemsWithNoExtractableText(t *testing.T) {
 	}
 
 	inbox := filepath.Join(vaultRoot, "inbox")
-	entries, err := os.ReadDir(inbox)
-	if err != nil {
-		if os.IsNotExist(err) {
-			return // no inbox dir at all is also an acceptable "wrote nothing"
-		}
-		t.Fatalf("ReadDir(inbox): %v", err)
-	}
-	for _, e := range entries {
-		if strings.HasSuffix(e.Name(), ".md") {
-			t.Errorf("expected no notes to be written for a textless item, found %s", e.Name())
-		}
+	for _, f := range inboxMarkdownFiles(t, inbox) {
+		t.Errorf("expected no notes to be written for a textless item, found %s", f)
 	}
 }
 
@@ -251,17 +242,8 @@ func TestRunSkipsCrossrefItemsWithNoBody(t *testing.T) {
 	}
 
 	inbox := filepath.Join(vaultRoot, "inbox")
-	entries, err := os.ReadDir(inbox)
-	if err != nil {
-		if os.IsNotExist(err) {
-			return
-		}
-		t.Fatalf("ReadDir(inbox): %v", err)
-	}
-	for _, e := range entries {
-		if strings.HasSuffix(e.Name(), ".md") {
-			t.Errorf("expected no notes to be written for a bodyless crossref item, found %s", e.Name())
-		}
+	for _, f := range inboxMarkdownFiles(t, inbox) {
+		t.Errorf("expected no notes to be written for a bodyless crossref item, found %s", f)
 	}
 }
 
@@ -317,17 +299,8 @@ func TestRunSkipsWikipediaPersonBiography(t *testing.T) {
 	}
 
 	inbox := filepath.Join(vaultRoot, "inbox")
-	entries, err := os.ReadDir(inbox)
-	if err != nil {
-		if os.IsNotExist(err) {
-			return
-		}
-		t.Fatalf("ReadDir(inbox): %v", err)
-	}
-	for _, e := range entries {
-		if strings.HasSuffix(e.Name(), ".md") {
-			t.Errorf("expected no notes for a person biography, found %s", e.Name())
-		}
+	for _, f := range inboxMarkdownFiles(t, inbox) {
+		t.Errorf("expected no notes for a person biography, found %s", f)
 	}
 }
 
@@ -337,4 +310,86 @@ func mustJSONString(s string) string {
 		panic(err)
 	}
 	return string(b)
+}
+
+// inboxMarkdownFiles returns every .md file under inbox (recursively), as paths
+// relative to inbox. Notes are grouped under inbox/<著者>/ subdirectories, so a
+// flat os.ReadDir is not enough to find them.
+func inboxMarkdownFiles(t *testing.T, inbox string) []string {
+	t.Helper()
+	var files []string
+	err := filepath.WalkDir(inbox, func(path string, d os.DirEntry, err error) error {
+		if err != nil {
+			if os.IsNotExist(err) {
+				return nil
+			}
+			return err
+		}
+		if d.IsDir() || !strings.HasSuffix(d.Name(), ".md") {
+			return nil
+		}
+		rel, err := filepath.Rel(inbox, path)
+		if err != nil {
+			return err
+		}
+		files = append(files, rel)
+		return nil
+	})
+	if err != nil {
+		t.Fatalf("walk inbox: %v", err)
+	}
+	return files
+}
+
+// TestRunWritesNoteIntoKeywordSubdir verifies the happy path: a note with a
+// usable body is written under inbox/<著者>/ where <著者> is the scrape keyword,
+// rather than flat in inbox/.
+func TestRunWritesNoteIntoKeywordSubdir(t *testing.T) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Content-Type", "application/json")
+		w.Write([]byte(`{"message":{"items":[
+			{"title":["Nietzsche on Tragedy"],"DOI":"10.1000/has-abstract","container-title":["Some Journal"],"abstract":"An abstract about tragedy."}
+		]}}`))
+	}))
+	defer srv.Close()
+
+	vaultRoot := t.TempDir()
+	cfg := config.Config{
+		Vault: config.VaultConfig{Root: vaultRoot, Inbox: "inbox", SeenFile: "seen-urls.json"},
+		Scrape: config.ScrapeConfig{
+			UserAgent:      "test-agent",
+			RequestTimeout: "5s",
+			RequestDelay:   "0s",
+			MaxResults:     5,
+		},
+		Sources: []config.SourceConfig{
+			{
+				Name:      "crossref",
+				Enabled:   true,
+				Type:      "crossref_api",
+				BaseURL:   srv.URL,
+				SearchURL: srv.URL + "/works?query={query}",
+			},
+		},
+		Keywords: []config.KeywordConfig{
+			{
+				Name:    "ニーチェ",
+				Queries: []string{"nietzsche"},
+				Sources: []string{"crossref"},
+			},
+		},
+	}
+
+	if err := New(cfg).Run(context.Background()); err != nil {
+		t.Fatalf("Run returned error: %v", err)
+	}
+
+	inbox := filepath.Join(vaultRoot, "inbox")
+	files := inboxMarkdownFiles(t, inbox)
+	if len(files) != 1 {
+		t.Fatalf("expected exactly 1 note, got %d: %v", len(files), files)
+	}
+	if dir := filepath.Dir(files[0]); dir != "ニーチェ" {
+		t.Errorf("note written to %q, want it under keyword subdir %q", files[0], "ニーチェ")
+	}
 }
