@@ -278,3 +278,39 @@ keywords:
       - プラグマティズム
       - ネオプラグマティズム
       - 反表象主義
+
+  # --- 東洋哲学（日本・仏教）---
+  - name: 親鸞
+    queries:
+      - 親鸞
+      - Shinran
+      - 教行信証
+      - 顕浄土真実教行証文類
+      - Kyogyoshinsho
+      - 正信偈
+      - 正信念仏偈
+      - Shoshinge
+      - 三帖和讃
+      - 浄土和讃
+      - 高僧和讃
+      - 正像末和讃
+      - 唯信鈔文意
+      - 一念多念文意
+      - 末灯鈔
+      - 愚禿鈔
+      - 歎異抄       # 弟子・唯円が親鸞の言葉を筆録した書
+      - Tannisho
+      - 唯円 歎異抄
+      - 浄土真宗 親鸞
+      - Shinran Pure Land Buddhism
+      - Jodo Shinshu Shinran
+    sources:
+      - crossref
+      - wikipedia_ja
+      - sep
+      - archive
+    tags:
+      - 東洋哲学
+      - 日本仏教
+      - 浄土真宗
+      - 他力本願
