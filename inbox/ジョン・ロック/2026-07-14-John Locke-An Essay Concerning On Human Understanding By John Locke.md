@@ -1,0 +1,6465 @@
+---
+source: "https://archive.org/details/an-essay-concerning-on-human-understanding-by-john-locke"
+title: "An Essay Concerning On Human Understanding By John Locke"
+author: "John Locke"
+year: "1690"
+captured_at: "2026-07-14T14:06:45Z"
+updated_at: "2026-07-14T14:06:45Z"
+capture_tool: "scrapem-book"
+source_name: "archive"
+keyword: "ジョン・ロック"
+query: "Locke An Essay Concerning Human Understanding"
+plain_text_url: "https://archive.org/download/an-essay-concerning-on-human-understanding-by-john-locke/An essay concerning on human understanding by John Locke_djvu.txt"
+public_domain: true
+book_text_truncated: true
+subjects:
+tags:
+  - "近代哲学"
+  - "経験論"
+  - "社会契約論"
+status: raw
+---
+
+# An Essay Concerning On Human Understanding By John Locke
+
+- 著者: John Locke
+- 初版: 1690
+- 情報源: [archive](https://archive.org/details/an-essay-concerning-on-human-understanding-by-john-locke)
+- パブリックドメイン: ✓
+
+## Obsidian Links
+
+- キーワード: [[ジョン・ロック]]
+- 研究動向: [[ジョン・ロック-現代研究動向]]
+
+## Full Text
+
+Tsong ee
+“e2 *® » byJohn Locke
+
+An Essay Concerning Human Understanding by John Locke (First pubulished 1690) is a publi-
+cation of the Pennsylvania State University. This Portable Document file is furnished free
+and without any charge of any kind. Any person using this document file, for any purpose,
+and in any way does so at his or her own risk. Neither the Pennsylvania State University
+nor Jim Manis, Faculty Editor, nor anyone associated with the Pennsylvania State University
+assumes any responsibility for the material contained within the document or for the file as
+an electronic transmission, in any way.
+
+An Essay Concerning Human Understanding by John Locke (First pubulished 1690), the Penn-
+sylvania State University, Electronic Classics Series, Jim Manis, Faculty Editor, Hazleton, PA
+18201-1291 is a Portable Document File produced as part of an ongoing student publication
+project to bring classical works of literature, in English, to free and easy access of those
+wishing to make use of them.
+
+Cover Design: Jim Manis
+
+Copyright © 1999 The Pennsylvania State University
+
+The Pennsylvania State University is an equal opportunity university.
+
+Contents
+
+AN ESSAY CONCERNING HUMAN UNDERSTANDING (1690) ........ssccsccsssssssssssessscsscssscsssssssssscssssssssessesenssessoss 6
+PEP TS UL CPT Bi assests bares siecc ican tease napa tgatabeane dale aa aiecacdaeicdasdadacaae aia aseenn dele mao aan radtemaeder 9
+tig B24) BO IV © Ji panne pe ret re Pre ve Peer reoper eer erirere-tr ep irvsery ntverstinr seri stir st Wyenrnern ryan eer reenter ttre rronererre tr rretrrnerrerr snr oe
+BOOK I Neither Principles nor Ideas Are Intnate ...............cssccssssccsssscssssccsssccsssscssssscsssccssscsssscsscsssscssscssscssssssessssoess 27
+Chapter lo Innate Speculative Primci less cccccsec eee tact oes ociiecns soak ecesdenteecdencncdestaidoeesbbivedcubticacetie chasse teldests pancceeacacecestecbeed 27
+Chapter Il No Innate Practical Poniiples cciciicctealcaiia neutescceicctausiacieslactecciebsc.2gsceaacette siatiendsslesadessucieddcauccolaceandendesbennceseetiee 46
+Chapter III Other considerations concerning Innate Principles, both Speculative and Practical ...........eseeseeeeeeeeeeneeeeeeees 67
+BOOK. UDOT CaS oisisasecssspadenscuanceanenscsuatsvanovascepssosscainsadteaasensssuanceusenssectaceensssciascvstesusecasesghbecdcaiaciet sussesdsdeneassiecescaueuases 86
+Chapter (Of Ideas in general, and their Original oiccca2 sac. 2ccscticcceescdeaccescucecuecnchceseveddenseseovecaubeiceceeeedhdasscbieuie peduacevbciceceesetbied 86
+(Cliapter UO Simple Neds .-22s2ctcaiacassciedciias tester nls ceacccec cea decdeen-asecledeeealeocactaee chat eclaaedecdesce adecespiaddcag cclaaeeieetetccaleeests 101
+Chapter TU Or Simple TASS OF Seis aise aac eset ca Gcec Socata vce cea cadacesde daa ceacastoakd xen iaataleeeatl aca ospeseuuiaie a onecacddcenewderadd 103
+Chrapter PV tdea OF SO ity bc2siapsctc oiccecst cca oicsceatecalccainetecacktaccdecsecedeotecaleseiccasdasarenddacceacndealcsale caiseetdieredulaleesesteeteadeeaate 105
+Chapter V (Of Simple Ideas cl Divers Senses sciscicccsasechecestesie cause sc teekal cen caaleade teidecenselebdedaciveste ahovuutaldecnsoneedexdeciescueenthe 109
+Chapter VOT Simple Ideas of Renlection 'a2.c23steiechicaesseced ceeds cdeela oceclcaledals cau ldeedcearecdaacecteedsacesace sauniedliaac coleacecneeteteiaceaauds 110
+Chapter VII Of Simple Ideas of both Sensation and Reflection 20.0.0... eeeeeseceseceseeeeseeceeeceseeseeeesaeecaaecsaeeeseeesaeeenaeenaeesees 110
+Chapter VIII Some further considerations concerning our Simple Ideas of Sensation ............eeeeeeeeeseceeeeeeeeeeaeecnaeenseenees 114
+Cliapter LX OF Perec tis cencec che ceceet ceeeciecch tsctte cieeiea sa cece da Lees edt eceeiceede cad) ead nice teunnsed eiteg oceans ba Shecuutaidects anced extacnaeauceatte 126
+Chapter xX Of Rebemeton x e5.223.2:<cizcsasagectectebeaatenl onda caattesdceauacies-cciualaseeecda an lcmaieedd oblaaincedelaalessce es pottaeaa endl icdadids 132
+Chapter XI Of Discerning, and other operations of the Mind 000.0... eee eeeeeesecsseceseeesseecaeeceaeeeeeeesneecsaecaeeeseeesaaeesaeenseesees 138
+Chapter UE Conia Fa aces coresces sucess 3ieccdy oeceuan tena seasencpvavveeceses Sateady ee patunnna aa penance de eee eee ee 146
+Chapter XIII Complex Ideas of Simple Modes:—and First, of the Simple Modes of the Idea of Space ...... eee 150
+Chapter XIV Idea of Duration and its Simple Modes ...............essesseesseceescecoeescensecesseecoeeescessoncessensoeesscestneenseeeonteeetsaes 165
+Chapter XV Ideas of Duration and Expansion, considered together .............::cceessecesneceeeeceeneeceeeeeceeeeeceeneeceeeeesneeeenteeeees 181
+
+Crepes OC VU Miser Nea ag cesses cheer etek scence ce ata eta esc eRea unt enon tebe gec tesa cutes at eenbececeauee 189
+
+Fie aU DeV TN COA TEARS cr ee ta vind Sear caches va asi Gp eis ec oh tea p g VE nie das ae nhac pees aaa esmatoe gee 193
+
+Chapters. Vall Others intl e NIOdES setsasce te ctsctsase cet ortecated Ga seqchecnaen tony seu te tot anepgeate eetannieseia ata ated eetheauan geet ows 208
+Chapter SIXT Une Wis OL MT a 55 cis os sew cake Gv acai ca hatte p Rea wee eas dao A Se a ets a Roa 211
+Chapter 22. OF Modes OF PlGAs Ure anc Pailiinc, x ca ascuesentcs raciade ota nasa ussendetcesdeGhawtaantovanseeasame eh ecoccesd ah Res ee Oana aaa 214
+Chapter XX OE PO Wer sea aes ete ee eae eee aa ene ae ede Teed 218
+Chapter XL Of Mixed: Made 525 assed css aaa digo cee eco sel eas ee ana te occa He op aed detarale ama aad eed bene caraceae eget iets daa tee 270
+Chapter UL Or our Complex Ideas Of SUDStances «24,27. cnsaege vas vachnsSiavehetias eons eas eG a eae ye ehds es bends Daves 240
+Chapter XXIV Of Collective-Ideas of Substances s,s Antes duee Ad Misael adel Dade ed eae ead aera Aaa ates 300
+Chapter XOX V On Relation: 2 035.0ui5. ck Sie hata eed eect aos osc dt ene el ulead ee ee eee: 302
+Chapter XX VI. Of Cause and Effect, ancvother Relations sa20g.ciee nie Qet ied aul Gedie hing LARA el Gaeta Olen 307
+Chapter XX VILOCIdentuty and: Diversity as.2324 ected ive GL ess Si Ne BAe Bid tes Be Neve BAe a ees 311
+Chapter XX VNLOF Other Relations: si .c1 4.25 asl sndssetenntee eaten deseo cates Qoarieteondee adele andes aera ales 333
+Chapter XXIX Of Clear and Obscure, Distinct and Confused Ideas .0.........eeceeesecesseceececeeseeceeneeceeneeceeeeecseeeecneeeeseeeee 345
+Chapter 22X Of Realsand Bantasticalldeas «sci2.0, sch; acascaia.ctenees ces Weed tas Gets guecdauhantgwe cay qua Wegaseagaass Nees depaecbonae duces abdee ety ees 355
+Chapter XX XLOT Adequate and Inadequate TAGs cs sssavsscssceaesvvshcawd avnsanecans hanes Geasdaantevanees ses oabnnenasganians oneeadbeaahecnsateane 358
+Chapter OCT OF True and alse ldeas fcc case eevty a occas tetas eetacesd tence segues tek ge dan ite ceor dey pies nee eaenaoelseaielsd 368
+Chapter XX XI Of the Association or Ideas ....40.0a pu B a bee Ae RO ee he nee eee: 3/9
+BOOK. TED OE WOES ssscssnscsesccapeceovacsnesoab clove veseshveseisooydckae seen coetasend eaeh sebubsoinccsuaveneansu'edpuscpnnsususeoseusdsnadouaepicoenaconsssedeaveeens 387
+Chapter LO Words-or Language in General .:...c%ccsisveasesazssaesetavaysasserseuntavedoaseatadvensicdesadegesteavsaenaiodaes agestand yeodeuas teontaeeata 387
+Chapter IL OF (he Signi Gallon Gt WOKS ss.2y os cceatedancs css xcpatensived vd ne aaatdivhun wis pct gear sei o¥ suis ah dnfeau ono eta hasabea ona ot ace handeben soeaeee 389
+Chapter TiLOr General Fernis:..2..7 4 ssuc.40s ase Sees anceasceasad seen beasaeastavabseagecessncanadysaageesindd ny esgaasdeaesastatao navdeioians Sees aneneateasaes 394
+Chapter.ly Orthe Names or Simple Ideas: 226255 aces cases setts dcesaves sesh oleaies ar tadastucda cons conse teas bade eikanes a deantde inn eae ots 406
+Chapter V Of the Names of Mixed Modes and Relations .............cecsccesssecesseecessceceeaeeceeacecesaeeceeneecseneeceeeeceueeecseeeeeeeeeees 415
+Chapter VOT (he Names OF SUDSCANCES s,s canes sicsvesicresehesa5 sca dy davsus tags eee ears saw ca es anes tase ian ine Kotd Gasslea Pena ge bse natu ee 425
+Chapter VIL OR Pai Cles 64, cccscdep sich sens oapsieonons keuies cea etauannsas auicaneeseeabetehaun tau peban es Boandany Hoa aaesdeaeatatagan dias eyioiaes Seeded boamenaaene 459
+Chapter. VL OFADstract and Concrete Tris: 25.0554; cies ccediaccetsedaeceknctanieso tess quctda uhnden uiejeese tania tases sues deeaacne sted deco emeadaateniee 462
+
+Chapter EX. OF the Imperhectiomiol WOrdS 45.92, sxcccienananeerepsceravsosbatersvguntaveynodertne tes sequae tenteas aaaaeedageReete et ednae homaaeraes 464
+
+Chapter-X Of the Abuse Ob WOrdS wxtce ties iatees ul hind Ata Bhd a Raa ue eee ae eee: 479
+
+Chapter XI Of the Remedies of the Foregoing Imperfections and Abuses Of Words .0..........scesseessesseeceseeeseeeeseecnaeenseeees 499
+BOOK TY Of Knowledge atid Probability s..scsssccscssisestsovasssessdecveassstsesonscseesoensivensosessnsenesscvbonsscnsseensivadsobessnssoesaseosnos 515
+Chapter? Of Knowledge in Getietalt..i35. 0s dct lek wet lade elem ated ad eet ale aaa enee ch aaeled 515
+Chapter POfthe Deerees oLour Knowledge <.22.422.tvistek cae Be ieee BW eee ae 520
+Chapter IIT Or the Extentor Human Knowledge. iac.0sek aetgstiedi idiot iareie Rena Goatees Gales 529
+Chapter [V Of the Reality Of Kn w led Secs ss sheets Bia tee Bap eee Bae ode Be eee BAA in Baga dlleee 353
+Chapter: V-Or Pruthiim' General o:.ts nie Seta it toes lated Aunt Aaa cals edad Dad secede aaa Sake Ra eats 565
+Chapter VI Of Universal Propositions: Their Truth and Certainty .0........ cece eeseceseceseceeseeesseceeeeseeseseecsaeceaeesseessaeessaeenseesees 571
+Chapter-V Ol Wiaxiins 3.2.3 c.5.fuise dt Giak Rl ee seA lta et eG ee eed tel Gated ee Rate eriet casa lentes 583
+Chapter: VIDOE Tri flit e:-PropOs ttt Onis i zoe ues gestae BA des Tae Sy Be ass Be Meee ee BA edad BG teas 602
+Chapter. Xx. Or-our Threefold: Knowledge of Existence. i220) anise eadee catered nates Daaciete nde ei iend Oaeees mde eaeted 611
+Chapter X Of our Knowledge of the Existence Of a God .......eeeecceesscessteceeseecesseecesaeeceeaeeceeaeeceaeeceeneeceeaeecseeecseeeeeseeeee 612
+Chapter XI Of our Knowledge of the Existence of Other Things 00.00.00... eesecesecsseeeeseeceeceseeeseeesseecsaecsseesseersaeessaecseenees 624
+Chapter XIT Of the Improvement of Otir KniOWled ge  is.0.ssscascaseseviyeassevsvennsavorscogauatcesseavevaddaeytdensasaueedagaeuncedeus qeadbonabeeseetoaes 633
+Chapter XIII Some Further Considerations Concerning our Knowledge ............::cesscecesscecesseeceseeeceeneeceeeeecseeeecsneeeeeeeeees 644
+Chiapter XT V OVE Tid eae sascha A ects need hace ac vee dee de teal et Teal aaa suena eee nade eee 646
+Chapter XV OD Probability: <5 c.tseeeiatet ested ids eae A tel ceed ceca ted ead ate a eternal Lede bases eatin deaues 648
+Chapter. VUOT the Desrees OLA SSENU oi. c05.0523 ayion veceaaseased nensagseravd yeasses ahountaeageadtaveadensasdqusd tye teonsaeatod anv aeasiaed adn emneene 652
+CHapter XVI OF REASON sa. r5 0d gs.igs sana cuyeesjarssakaiyhasea ued stagegea casvnseh deka kat wen 45) 4id ama aes PGA oH was Ha aap saga ea Nm aNna ea SH lew hae amen ond 663
+Chapter XVIII Of Faith and Reason, and their Distinct Provinces ........ ees eeseceseceseeeseeeseceseeeseeesaeecsaeceseeeseeeeaeecaeenseesees 685
+Chapter x DCE Bt usi asin 2.3.25 acca ven Saoey testes aats aut ceeceatte ce stds t dua Mesh aa ada aha tejeutueahana omy Deed iceaateuedet ead ene dak toting 693
+Chapter OF Wrong ASSENE Or BIEN o\2cge.5s aces seceatregead eensaadetavd goad seveounsavngeedaaeayausaad quad ty oyhbensanaeadagavanerectyeadtuaeaimeatt 703
+
+Chapter XXTOr the Divisiow OF ne SCISMCE S555 su5 ca sd seca cesststvendige aca sca css ves ian eaten cviyud gy Om ataepabeg eas ihase Mego ea Ss enced eed 717
+
+Human Understanding
+
+AN ESSAY CONCERNING
+HUMAN UNDERSTANDING (1690)
+
+by
+
+John Locke
+
+TO THE RIGHT HONOURABLE
+LORD THOMAS, EARL OF PEMBROKE AND MONT-
+GOMERY,
+BARRON HERBERT OF CARDIFF,
+LORD ROSS, OF KENDAL, PAR, FITZHUGH,
+MARMION, ST. QUINTIN,
+AND SHURLAND; LORD PRESIDENT OF HIS
+MAJESTY’S MOST
+HONOURABLE PRIVY COUNCIL; AND LORD LIEU-
+TENANT OF
+
+THE COUNTY OF WILTS, AND OF SOUTH WALES.
+
+MY LORD,
+
+Tuts Treatise, which is grown up under your lordship’s
+eye, and has ventured into the world by your order,
+does now, by a natural kind of right, come to your lord-
+ship for that protection which you several years since
+promised it. It is not that I think any name, how great
+soever, set at the beginning of a book, will be able to
+cover the faults that are to be found in it. Things in
+print must stand and fall by their own worth, or the
+reader's fancy. But there being nothing more to be de-
+sired for truth than a fair unprejudiced hearing, nobody
+is more likely to procure me that than your lordship,
+who are allowed to have got so intimate an acquain-
+tance with her, in her more retired recesses. Your lord-
+ship is known to have so far advanced your speculations
+in the most abstract and general knowledge of things,
+beyond the ordinary reach or common methods, that
+your allowance and approbation of the design of this
+Treatise will at least preserve it from being condemned
+without reading, and will prevail to have those parts a
+little weighted, which might otherwise perhaps be
+
+John Locke
+
+thought to deserve no consideration, for being some-
+what out of the common road. The imputation of Nov-
+elty is a terrible charge amongst those who judge of
+men’s heads, as they do of their perukes, by the fashion,
+and can allow none to be right but the received doc-
+trines. Truth scarce ever yet carried it by vote any-
+where at its first appearance: new opinions are always
+suspected, and usually opposed, without any other rea-
+son but because they are not already common. But truth,
+like gold, is not the less so for being newly brought out
+of the mine. It is trial and examination must give it
+price, and not any antique fashion; and though it be
+not yet current by the public stamp, yet it may, for all
+that, be as old as nature, and is certainly not the less
+genuine. Your lordship can give great and convincing
+instances of this, whenever you please to oblige the public
+with some of those large and comprehensive discoveries
+you have made of truths hitherto unknown, unless to
+some few, from whom your lordship has been pleased
+not wholly to conceal them. This alone were a sufficient
+reason, were there no other, why I should dedicate this
+
+Essay to your lordship; and its having some little corre-
+spondence with some parts of that nobler and vast sys-
+tem of the sciences your lordship has made so new, ex-
+act, and instructive a draught of, I think it glory enough,
+if your lordship permit me to boast, that here and there
+I have fallen into some thoughts not wholly different
+from yours. If your lordship think fit that, by your en-
+couragement, this should appear in the world, I hope it
+may be a reason, some time or other, to lead your lord-
+ship further; and you will allow me to say, that you
+here give the world an earnest of something that, if
+they can bear with this, will be truly worth their expec-
+tation. This, my lord, shows what a present I here make
+to your lordship; just such as the poor man does to his
+rich and great neighbour, by whom the basket of flow-
+ers or fruit is not ill taken, though he has more plenty
+of his own growth, and in much greater perfection.
+Worthless things receive a value when they are made
+the offerings of respect, esteem, and gratitude: these
+you have given me so mighty and peculiar reasons to
+have, in the highest degree, for your lordship, that if
+
+Human Understanding
+
+they can add a price to what they go along with, pro-
+portionable to their own greatness, I can with confi-
+dence brag, I here make your lordship the richest present
+you ever received. This Iam sure, I am under the great-
+est obligations to seek all occasions to acknowledge a
+long train of favours I have received from your lordship;
+favours, though great and important in themselves, yet
+made much more so by the forwardness, concern, and
+kindness, and other obliging circumstances, that never
+failed to accompany them. To all this you are pleased to
+add that which gives yet more weight and relish to all
+the rest: you vouchsafe to continue me in some degrees
+of your esteem, and allow me a place in your good
+thoughts, I had almost said friendship. This, my lord,
+your words and actions so constantly show on all occa-
+sions, even to others when I am absent, that it is not
+vanity in me to mention what everybody knows: but it
+would be want of good manners not to acknowledge
+what so many are witnesses of, and every day tell me I
+am indebted to your lordship for. I wish they could as
+easily assist my gratitude, as they convince me of the
+
+great and growing engagements it has to your lordship.
+This Iam sure, I should write of the Understanding with-
+out having any, if I were not extremely sensible of them,
+and did not lay hold on this opportunity to testify to
+the world how much I am obliged to be, and how much
+Iam,
+
+MY LORD,
+
+Your Lordship’s most humble and most obedient
+servant,
+
+JOHN LOCKE
+
+Dorset Court,
+24th of May, 1689
+
+John Locke
+
+EPISTLE TO THE READER
+
+I HAVE PUT INTO THY HANDS what has been the diversion of
+some of my idle and heavy hours. If it has the good luck to
+prove so of any of thine, and thou hast but half so much
+pleasure in reading as I had in writing it, thou wilt as little
+think thy money, as I do my pains, ill bestowed. Mistake
+not this for a commendation of my work; nor conclude,
+because I was pleased with the doing of it, that therefore I
+am fondly taken with it now it is done. He that hawks at
+larks and sparrows has no less sport, though a much less
+considerable quarry, than he that flies at nobler game: and
+he is little acquainted with the subject of this treatise—
+the understanding—who does not know that, as it is the
+most elevated faculty of the soul, so it is employed with a
+greater and more constant delight than any of the other.
+Its searches after truth are a sort of hawking and hunting,
+wherein the very pursuit makes a great part of the plea-
+sure. Every step the mind takes in its progress towards
+Knowledge makes some discovery, which is not only new,
+but the best too, for the time at least.
+
+For the understanding, like the eye, judging of objects
+only by its own sight, cannot but be pleased with what
+it discovers, having less regret for what has escaped it,
+because it is unknown. Thus he who has raised himself
+above the alms-basket, and, not content to live lazily
+on scraps of begged opinions, sets his own thoughts on
+work, to find and follow truth, will (whatever he lights
+on) not miss the hunter's satisfaction; every moment of
+his pursuit will reward his pains with some delight; and
+he will have reason to think his time not ill spent, even
+when he cannot much boast of any great acquisition.
+
+This, Reader, is the entertainment of those who let
+loose their own thoughts, and follow them in writing;
+which thou oughtest not to envy them, since they af-
+ford thee an opportunity of the like diversion, if thou
+wilt make use of thy own thoughts in reading. It is to
+them, if they are thy own, that I refer myself: but if
+they are taken upon trust from others, it is no great
+matter what they are; they are not following truth, but
+some meaner consideration; and it is not worth while to
+be concerned what he says or thinks, who says or thinks
+
+Human Understanding
+
+only as he is directed by another. If thou judgest for
+thyself I know thou wilt judge candidly, and then I shall
+not be harmed or offended, whatever be thy censure.
+For though it be certain that there is nothing in this
+Treatise of the truth whereof I am not fully persuaded,
+yet I consider myself as liable to mistakes as I can think
+thee, and know that this book must stand or fall with
+thee, not by any opinion I have of it, but thy own. If
+thou findest little in it new or instructive to thee, thou
+art not to blame me for it. It was not meant for those
+that had already mastered this subject, and made a thor-
+ough acquaintance with their own understandings; but
+for my own information, and the satisfaction of a few
+friends, who acknowledged themselves not to have suf-
+ficiently considered it.
+
+Were it fit to trouble thee with the history of this
+Essay, I should tell thee, that five or six friends meeting
+at my chamber, and discoursing on a subject very re-
+mote from this, found themselves quickly at a stand, by
+the difficulties that rose on every side. After we had
+awhile puzzled ourselves, without coming any nearer a
+
+10
+
+resolution of those doubts which perplexed us, it came
+into my thoughts that we took a wrong course; and
+that before we set ourselves upon inquiries of that na-
+ture, it was necessary to examine our own abilities, and
+see what objects our understandings were, or were not,
+fitted to deal with. This I proposed to the company, who
+all readily assented; and thereupon it was agreed that
+this should be our first inquiry. Some hasty and undi-
+gested thoughts, on a subject I had never before con-
+sidered, which I set down against our next meeting,
+gave the first entrance into this Discourse; which hav-
+ing been thus begun by chance, was continued by
+intreaty; written by incoherent parcels; and after long
+intervals of neglect, resumed again, as my humour or
+occasions permitted; and at last, in a retirement where
+an attendance on my health gave me leisure, it was
+brought into that order thou now seest it.
+
+This discontinued way of writing may have occasioned,
+besides others, two contrary faults, viz., that too little
+and too much may be said in it. If thou findest anything
+wanting, I shall be glad that what I have written gives
+
+John Locke
+
+thee any desire that I should have gone further. If it
+seems too much to thee, thou must blame the subject;
+for when I put pen to paper, I thought all I should have
+to say on this matter would have been contained in one
+sheet of paper; but the further I went the larger pros-
+pect I had; new discoveries led me still on, and so it
+grew insensibly to the bulk it now appears in. I will not
+deny, but possibly it might be reduced to a narrower
+compass than it is, and that some parts of it might be
+contracted, the way it has been writ in, by catches, and
+many long intervals of interruption, being apt to cause
+some repetitions. But to confess the truth, I am now
+too lazy, or too busy, to make it shorter.
+
+I am not ignorant how little I herein consult my own
+reputation, when I knowingly let it go with a fault, so
+apt to disgust the most judicious, who are always the
+nicest readers. But they who know sloth is apt to con-
+tent itself with any excuse, will pardon me if mine has
+prevailed on me, where I think I have a very good one.
+I will not therefore allege in my defence, that the same
+notion, having different respects, may be convenient or
+
+11
+
+necessary to prove or illustrate several parts of the same
+discourse, and that so it has happened in many parts of
+this: but waiving that, I shall frankly avow that I have
+sometimes dwelt long upon the same argument, and
+expressed it different ways, with a quite different de-
+sign. I pretend not to publish this Essay for the infor-
+mation of men of large thoughts and quick apprehen-
+sions; to such masters of knowledge I profess myself a
+scholar, and therefore warn them beforehand not to
+expect anything here, but what, being spun out of my
+own coarse thoughts, is fitted to men of my own size, to
+whom, perhaps, it will not be unacceptable that I have
+taken some pains to make plain and familiar to their
+thoughts some truths which established prejudice, or
+the abstractedness of the ideas themselves, might ren-
+der difficult. Some objects had need be turned on every
+side; and when the notion is new, as I confess some of
+these are to me; or out of the ordinary road, as I sus-
+pect they will appear to others, it is not one simple view
+of it that will gain it admittance into every understand-
+ing, or fix it there with a clear and lasting impression.
+
+Human Understanding
+
+There are few, I believe, who have not observed in them-
+selves or others, that what in one way of proposing was
+very obscure, another way of expressing it has made
+very clear and intelligible; though afterwards the mind
+found little difference in the phrases, and wondered why
+one failed to be understood more than the other. But
+everything does not hit alike upon every man’s imagi-
+nation. We have our understandings no less different
+than our palates; and he that thinks the same truth
+shall be equally relished by every one in the same dress,
+may as well hope to feast every one with the same sort
+of cookery: the meat may be the same, and the nourish-
+ment good, yet every one not be able to receive it with
+that seasoning; and it must be dressed another way, if
+you will have it go down with some, even of strong
+constitutions. The truth is, those who advised me to
+publish it, advised me, for this reason, to publish it as it
+is: and since I have been brought to let it go abroad, I
+desire it should be understood by whoever gives himself
+the pains to read it. I have so little affection to be in
+print, that if I were not flattered this Essay might be of
+
+IZ
+
+some use to others, as I think it has been to me, I should
+have confined it to the view of some friends, who gave
+the first occasion to it. My appearing therefore in print
+being on purpose to be as useful as I may, I think it
+necessary to make what I have to say as easy and intel-
+ligible to all sorts of readers as I can. And I had much
+rather the speculative and quick-sighted should com-
+plain of my being in some parts tedious, than that any
+one, not accustomed to abstract speculations, or pre-
+possessed with different notions, should mistake or not
+comprehend my meaning.
+
+It will possibly be censured as a great piece of vanity
+or insolence in me, to pretend to instruct this our know-
+ing age; it amounting to little less, when I own, that I
+publish this Essay with hopes it may be useful to oth-
+ers. But, if it may be permitted to speak freely of those
+who with a feigned modesty condemn as useless what
+they themselves write, methinks it savours much more
+of vanity or insolence to publish a book for any other
+end; and he fails very much of that respect he owes the
+public, who prints, and consequently expects men should
+
+John Locke
+
+read, that wherein he intends not they should meet
+with anything of use to themselves or others: and should
+nothing else be found allowable in this Treatise, yet my
+design will not cease to be so; and the goodness of my
+intention ought to be some excuse for the worthless-
+ness of my present. It is that chiefly which secures me
+from the fear of censure, which I expect not to escape
+more than better writers. Men’s principles, notions, and
+relishes are so different, that it is hard to find a book
+which pleases or displeases all men. I acknowledge the
+age we live in is not the least knowing, and therefore
+not the most easy to be satisfied. If I have not the good
+luck to please, yet nobody ought to be offended with
+me. I plainly tell all my readers, except half a dozen, this
+Treatise was not at first intended for them; and there-
+fore they need not be at the trouble to be of that num-
+ber. But yet if any one thinks fit to be angry and rail at
+it, he may do it securely, for I shall find some better way
+of spending my time than in such kind of conversation.
+I shall always have the satisfaction to have aimed sin-
+cerely at truth and usefulness, though in one of the
+
+13
+
+meanest ways. The commonwealth of learning is not at
+this time without master-builders, whose mighty de-
+signs, in advancing the sciences, will leave lasting monu-
+ments to the admiration of posterity: but every one
+must not hope to be a Boyle or a Sydenham; and in an
+age that produces such masters as the great Huygenius
+and the incomparable Mr. Newton, with some others of
+that strain, it is ambition enough to be employed as an
+under-labourer in clearing the ground a little, and re-
+moving some of the rubbish that lies in the way to knowl-
+edge;—which certainly had been very much more ad-
+vanced in the world, if the endeavours of ingenious and
+industrious men had not been much cumbered with the
+learned but frivolous use of uncouth, affected, or unin-
+telligible terms, introduced into the sciences, and there
+made an art of, to that degree that Philosophy, which is
+nothing but the true knowledge of things, was thought
+unfit or incapable to be brought into well-bred com-
+pany and polite conversation. Vague and insignificant
+forms of speech, and abuse of language, have so long
+passed for mysteries of science; and hard and misapplied
+
+Human Understanding
+
+words, with little or no meaning, have, by prescription,
+such a right to be mistaken for deep learning and height
+of speculation, that it will not be easy to persuade ei-
+ther those who speak or those who hear them, that
+they are but the covers of ignorance, and hindrance of
+true knowledge. To break in upon the sanctuary of van-
+ity and ignorance will be, I suppose, some service to
+human understanding; though so few are apt to think
+they deceive or are deceived in the use of words; or that
+the language of the sect they are of has any faults in it
+which ought to be examined or corrected, that I hope I
+shall be pardoned if I have in the Third Book dwelt long
+on this subject, and endeavoured to make it so plain,
+that neither the inveterateness of the mischief, nor the
+prevalency of the fashion, shall be any excuse for those
+who will not take care about the meaning of their own
+words, and will not suffer the significancy of their ex-
+pressions to be inquired into.
+
+I have been told that a short Epitome of this Treatise,
+which was printed in 1688, was by some condemned
+without reading, because innate ideas were denied in it;
+
+14
+
+they too hastily concluding, that if innate ideas were
+not supposed, there would be little left either of the
+notion or proof of spirits. If any one take the like of-
+fence at the entrance of this Treatise, I shall desire him
+to read it through; and then I hope he will be con-
+vinced, that the taking away false foundations is not to
+the prejudice but advantage of truth, which is never
+injured or endangered so much as when mixed with, or
+built on, falsehood.
+
+In the Second Edition I added as followeth:—
+
+The bookseller will not forgive me if I say nothing of
+this New Edition, which he has promised, by the cor-
+rectness of it, shall make amends for the many faults
+committed in the former. He desires too, that it should
+be known that it has one whole new chapter concern-
+ing Identity, and many additions and amendments in
+other places. These I must inform my reader are not all
+new matter, but most of them either further confirma-
+tion of what I had said, or explications, to prevent oth-
+ers being mistaken in the sense of what was formerly
+printed, and not any variation in me from it.
+
+John Locke
+
+I must only except the alterations I have made in Book
+II. chap. xxi.
+
+What I had there written concerning Liberty and the
+Will, I thought deserved as accurate a view as I am ca-
+pable of; those subjects having in all ages exercised the
+learned part of the world with questions and difficul-
+ties, that have not a little perplexed morality and divin-
+ity, those parts of knowledge that men are most con-
+cerned to be clear in. Upon a closer inspection into the
+working of men’s minds, and a stricter examination of
+those motives and views they are turned by, I have found
+reason somewhat to alter the thoughts I formerly had
+concerning that which gives the last determination to
+the Will in all voluntary actions. This I cannot forbear
+to acknowledge to the world with as much freedom and
+readiness as I at first published what then seemed to me
+to be right; thinking myself more concerned to quit and
+renounce any opinion of my own, than oppose that of
+another, when truth appears against it. For it is truth
+alone I seek, and that will always be welcome to me,
+when or from whencesoever it comes.
+
+15
+
+But what forwardness soever I have to resign any opin-
+ion I have, or to recede from anything I have writ, upon
+the first evidence of any error in it; yet this I must own,
+that I have not had the good luck to receive any light
+from those exceptions I have met with in print against
+any part of my book, nor have, from anything that has
+been urged against it, found reason to alter my sense in
+any of the points that have been questioned. Whether
+the subject I have in hand requires often more thought
+and attention than cursory readers, at least such as are
+prepossessed, are willing to allow; or whether any ob-
+scurity in my expressions casts a cloud over it, and these
+notions are made difficult to others’ apprehensions in
+my way of treating them; so it is, that my meaning, I
+find, is often mistaken, and I have not the good luck to
+be everywhere rightly understood.
+
+Of this the ingenious author of the Discourse Con-
+cerning the Nature of Man has given me a late instance,
+to mention no other. For the civility of his expressions,
+and the candour that belongs to his order, forbid me to
+think that he would have closed his Preface with an
+
+Human Understanding
+
+insinuation, as if in what I had said, Book II. ch. xxvii,
+concerning the third rule which men refer their actions
+to, I went about to make virtue vice and vice virtue
+unless he had mistaken my meaning; which he could
+not have done if he had given himself the trouble to
+consider what the argument was I was then upon, and
+what was the chief design of that chapter, plainly enough
+set down in the fourth section and those following. For
+I was there not laying down moral rules, but showing
+the original and nature of moral ideas, and enumerating
+the rules men make use of in moral relations, whether
+these rules were true or false: and pursuant thereto I
+tell what is everywhere called virtue and vice; which
+“alters not the nature of things,” though men generally
+do judge of and denominate their actions according to
+the esteem and fashion of the place and sect they are of.
+
+If he had been at the pains to reflect on what I had
+said, Bk. I. ch. ii. sect. 18, and Bk. II. ch. xxviii. sects.
+13, 14, 15 and 20, he would have known what I think of
+the eternal and unalterable nature of right and wrong,
+and what I call virtue and vice. And if he had observed
+
+16
+
+that in the place he quotes I only report as a matter of
+fact what others call virtue and vice, he would not have
+found it liable to any great exception. For I think I am
+not much out in saying that one of the rules made use of
+in the world for a ground or measure of a moral relation
+is—that esteem and reputation which several sorts of
+actions find variously in the several societies of men, ac-
+cording to which they are there called virtues or vices.
+And whatever authority the learned Mr. Lowde places in
+his Old English Dictionary, I daresay it nowhere tells him
+(if I should appeal to it) that the same action is not in
+credit, called and counted a virtue, in one place, which,
+being in disrepute, passes for and under the name of vice
+in another. The taking notice that men bestow the names
+of “virtue” and “vice” according to this rule of Reputa-
+tion is all I have done, or can be laid to my charge to have
+done, towards the making vice virtue or virtue vice. But
+the good man does well, and as becomes his calling, to be
+watchful in such points, and to take the alarm even at
+expressions, which, standing alone by themselves, might
+sound ill and be suspected.
+
+John Locke
+
+‘Tis to this zeal, allowable in his function, that I for-
+give his citing as he does these words of mine (ch. xxviii.
+sect. II): “Even the exhortations of inspired teachers
+have not feared to appeal to common repute, Philip. iv.
+8"; without taking notice of those immediately preced-
+ing, which introduce them, and run thus: “Whereby
+even in the corruption of manners, the true boundaries
+of the law of nature, which ought to be the rule of
+virtue and vice, were pretty well preserved. So that even
+the exhortations of inspired teachers,” &c. By which
+words, and the rest of that section, it is plain that I
+brought that passage of St. Paul, not to prove that the
+general measure of what men called virtue and vice
+throughout the world was, the reputation and fashion
+of each particular society within itself; but to show that,
+though it were so, yet, for reasons I there give, men, in
+that way of denominating their actions, did not for the
+most part much stray from the Law of Nature; which is
+that standing and unalterable rule by which they ought
+to judge of the moral rectitude and gravity of their ac-
+tions, and accordingly denominate them virtues or vices.
+
+7
+
+Had Mr. Lowde considered this, he would have found it
+little to his purpose to have quoted this passage in a
+sense I used it not; and would I imagine have spared the
+application he subjoins to it, as not very necessary. But
+I hope this Second Edition will give him satisfaction on
+the point, and that this matter is now so expressed as to
+show him there was no cause for scruple.
+
+Though I am forced to differ from him in these appre-
+hensions he has expressed, in the latter end of his pref-
+ace, concerning what I had said about virtue and vice,
+yet we are better agreed than he thinks in what he says
+in his third chapter (p. 78) concerning “natural inscrip-
+tion and innate notions.” I shall not deny him the privi-
+lege he claims (p. 52), to state the question as he pleases,
+especially when he states it so as to leave nothing in it
+contrary to what I have said. For, according to him,
+“innate notions, being conditional things, depending
+upon the concurrence of several other circumstances in
+order to the soul's exerting them,” all that he says for
+“innate, imprinted, impressed notions” (for of innate
+ideas he says nothing at all), amounts at last only to
+
+Human Understanding
+
+this—that there are certain propositions which, though
+the soul from the beginning, or when a man is born,
+does not know, yet “by assistance from the outward
+senses, and the help of some previous cultivation,” it
+may afterwards come certainly to know the truth of;
+which is no more than what I have affirmed in my First
+Book. For I suppose by the “soul's exerting them,” he
+means its beginning to know them; or else the soul’s
+“exerting of notions” will be to me a very unintelligible
+expression; and I think at best is a very unfit one in
+this, it misleading men’s thoughts by an insinuation, as
+if these notions were in the mind before the “soul exerts
+them,” i.e. before they are known;—whereas truly be-
+fore they are known, there is nothing of them in the
+mind but a capacity to know them, when the “concur-
+rence of those circumstances,” which this ingenious
+author thinks necessary “in order to the soul's exerting
+them,” brings them into our knowledge.
+
+P. 52 I find him express it thus: “These natural no-
+tions are not so imprinted upon the soul as that they
+naturally and necessarily exert themselves (even in chil-
+
+18
+
+dren and idiots) without any assistance from the out-
+ward senses, or without the help of some previous cul-
+tivation.” Here, he says, they exert themselves, as p.
+78, that the “soul exerts them.” When he has explained
+to himself or others what he means by “the soul's exert-
+ing innate notions,” or their “exerting themselves”; and
+what that “previous cultivation and circumstances” in
+order to their being exerted are—he will I suppose find
+there is so little of controversy between him and me on
+the point, bating that he calls that “exerting of no-
+tions” which I in a more vulgar style call “knowing,”
+that I have reason to think he brought in my name on
+this occasion only out of the pleasure he has to speak
+civilly of me; which I must gratefully acknowledge he
+has done everywhere he mentions me, not without con-
+ferring on me, as some others have done, a title I have
+no right to.
+
+There are so many instances of this, that I think it
+justice to my reader and myself to conclude, that either
+my book is plainly enough written to be rightly under-
+stood by those who peruse it with that attention and
+
+John Locke
+
+indifferency, which every one who will give himself the
+pains to read ought to employ in reading; or else that I
+have written mine so obscurely that it is in vain to go
+about to mend it. Whichever of these be the truth, it is
+myself only am affected thereby; and therefore I shall be
+far from troubling my reader with what I think might
+be said in answer to those several objections I have met
+with, to passages here and there of my book; since I
+persuade myself that he who thinks them of moment
+enough to be concerned whether they are true or false,
+will be able to see that what is said is either not well
+founded, or else not contrary to my doctrine, when I
+and my opposer come both to be well understood.
+
+If any other authors, careful that none of their good
+thoughts should be lost, have published their censures
+of my Essay, with this honour done to it, that they will
+not suffer it to be an essay, I leave it to the public to
+value the obligation they have to their critical pens,
+and shall not waste my reader's time in so idle or ill-
+natured an employment of mine, as to lessen the satis-
+faction any one has in himself, or gives to others, in so
+
+19
+
+hasty a confutation of what I have written.
+
+The booksellers preparing for the Fourth Edition of
+my Essay, gave me notice of it, that I might, if I had
+leisure, make any additions or alterations I should think
+fit. Whereupon I thought it convenient to advertise the
+reader, that besides several corrections I had made here
+and there, there was one alteration which it was neces-
+sary to mention, because it ran through the whole book,
+and is of consequence to be rightly understood. What I
+thereupon said was this:—
+
+Clear and distinct ideas are terms which, though fa-
+miliar and frequent in men’s mouths, I have reason to
+think every one who uses does not perfectly under-
+stand. And possibly ‘tis but here and there one who
+gives himself the trouble to consider them so far as to
+know what he himself or others precisely mean by them.
+I have therefore in most places chose to put determi-
+nate or determined, instead of clear and distinct, as more
+likely to direct men’s thoughts to my meaning in this
+matter. By those denominations, I mean some object in
+the mind, and consequently determined, i.e. such as it
+
+Human Understanding
+
+is there seen and perceived to be. This, I think, may
+fitly be called a determinate or determined idea, when
+such as it is at any time objectively in the mind, and so
+determined there, it is annexed, and without variation
+determined, to a name or articulate sound, which is to
+be steadily the sign of that very same object of the
+mind, or determinate idea.
+
+To explain this a little more particularly. By determi-
+nate, when applied to a simple idea, I mean that simple
+appearance which the mind has in its view, or perceives
+in itself, when that idea is said to be in it: by deter-
+mined, when applied to a complex idea, I mean such an
+one as consists of a determinate number of certain simple
+or less complex ideas, joined in such a proportion and
+situation as the mind has before its view, and sees in
+itself, when that idea is present in it, or should be present
+in it, when a man gives a name to it. I say should be,
+because it is not every one, nor perhaps any one, who is
+so careful of his language as to use no word till he views
+in his mind the precise determined idea which he re-
+solves to make it the sign of The want of this is the
+
+20
+
+cause of no small obscurity and confusion in men’s
+thoughts and discourses.
+
+I know there are not words enough in any language
+to answer all the variety of ideas that enter into men’s
+discourses and reasonings. But this hinders not but that
+when any one uses any term, he may have in his mind a
+determined idea, which he makes it the sign of, and to
+which he should keep it steadily annexed during that
+present discourse. Where he does not, or cannot do this,
+he in vain pretends to clear or distinct ideas: it is plain
+his are not so; and therefore there can be expected noth-
+ing but obscurity and confusion, where such terms are
+made use of which have not such a precise determina-
+tion.
+
+Upon this ground I have thought determined ideas a
+way of speaking less liable to mistakes, than clear and
+distinct: and where men have got such determined ideas
+of all that they reason, inquire, or argue about, they
+will find a great part of their doubts and disputes at an
+end; the greatest part of the questions and controver-
+sies that perplex mankind depending on the doubtful
+
+John Locke
+
+and uncertain use of words, or (which is the same)
+indetermined ideas, which they are made to stand for. I
+have made choice of these terms to signify, (1) Some
+immediate object of the mind, which it perceives and
+has before it, distinct from the sound it uses as a sign of
+it. (2) That this idea, thus determined, i.e. which the
+mind has in itself, and knows, and sees there, be deter-
+mined without any change to that name, and that name
+determined to that precise idea. If men had such deter-
+mined ideas in their inquiries and discourses, they would
+both discern how far their own inquiries and discourses
+went, and avoid the greatest part of the disputes and
+wranglings they have with others.
+
+Besides this, the bookseller will think it necessary I
+should advertise the reader that there is an addition of
+two chapters wholly new; the one of the Association of
+Ideas, the other of Enthusiasm. These, with some other
+larger additions never before printed, he has engaged to
+print by themselves, after the same manner, and for the
+same purpose, as was done when this Essay had the
+second impression.
+
+Zi
+
+In the Sixth Edition there is very little added or al-
+tered. The greatest part of what is new is contained in
+the twenty-first chapter of the second book, which any
+one, if he thinks it worth while, may, with a very little
+labour, transcribe into the margin of the former edition.
+
+Human Understanding
+
+INTRODUCTION:
+AN ESSAY
+CONCERNING HUMAN UNDERSTANDING
+
+As thou knowest not what is the way of the Spirit, nor
+how the bones do grow in the womb of her that is with
+child: even so thou knowest not the works of God, who
+maketh all things.—Eccles. 11. 5.
+
+Quam bellum est velle confiteri potius nescire quod
+nescias, quam ista effutientem nauseare, atque ipsum
+sibi displicere.—Cicero, de Natur. Deor. l. i.
+
+INTRODUCTION
+
+1. An Inquiry into the understanding, pleasant and
+useful. Since it is the understanding that sets man above
+the rest of sensible beings, and gives him all the advan-
+tage and dominion which he has over them; it is cer-
+tainly a subject, even for its nobleness, worth our labour
+to inquire into. The understanding, like the eye, whilst
+
+22
+
+it makes us see and perceive all other things, takes no
+notice of itself; and it requires art and pains to set it at
+a distance and make it its own object. But whatever be
+the difficulties that lie in the way of this inquiry; what-
+ever it be that keeps us so much in the dark to our-
+selves; sure I am that all the light we can let in upon
+our minds, all the acquaintance we can make with our
+own understandings, will not only be very pleasant, but
+bring us great advantage, in directing our thoughts in
+the search of other things.
+
+2. Design. This, therefore, being my purpose—to in-
+quire into the original, certainty, and extent of human
+knowledge, together with the grounds and degrees of
+belief, opinion, and assent;—I shall not at present meddle
+with the physical consideration of the mind; or trouble
+myself to examine wherein its essence consists; or by
+what motions of our spirits or alterations of our bodies
+we come to have any sensation by our organs, or any
+ideas in our understandings; and whether those ideas
+do in their formation, any or all of them, depend on
+matter or not. These are speculations which, however
+
+John Locke
+
+curious and entertaining, I shall decline, as lying out of
+my way in the design I am now upon. It shall suffice to
+my present purpose, to consider the discerning faculties
+of a man, as they are employed about the objects which
+they have to do with. And I shall imagine I have not
+wholly misemployed myself in the thoughts I shall have
+on this occasion, if, in this historical, plain method, I can
+give any account of the ways whereby our understand-
+ings come to attain those notions of things we have; and
+can set down any measures of the certainty of our knowl-
+edge; or the grounds of those persuasions which are to
+be found amongst men, so various, different, and wholly
+contradictory; and yet asserted somewhere or other with
+such assurance and confidence, that he that shall take a
+view of the opinions of mankind, observe their opposi-
+tion, and at the same time consider the fondness and
+devotion wherewith they are embraced, the resolution
+and eagerness wherewith they are maintained, may per-
+haps have reason to suspect, that either there is no such
+thing as truth at all, or that mankind hath no sufficient
+means to attain a certain knowledge of it.
+
+23
+
+3. Method. It is therefore worth while to search out
+the bounds between opinion and knowledge; and exam-
+ine by what measures, in things whereof we have no
+certain knowledge, we ought to regulate our assent and
+moderate our persuasion. In order whereunto I shall
+pursue this following method:—
+
+First, I shall inquire into the original of those ideas,
+notions, or whatever else you please to call them, which
+a man observes, and is conscious to himself he has in his
+mind; and the ways whereby the understanding comes
+to be furnished with them.
+
+Secondly, I shall endeavour to show what knowledge
+the understanding hath by those ideas; and the cer-
+tainty, evidence, and extent of it. Thirdly, I shall make
+some inquiry into the nature and grounds of faith or
+opinion: whereby I mean that assent which we give to
+any proposition as true, of whose truth yet we have no
+certain knowledge. And here we shall have occasion to
+examine the reasons and degrees of assent.
+
+4. Useful to know the extent of our comprehension. If
+by this inquiry into the nature of the understanding, I
+
+Human Understanding
+
+can discover the powers thereof; how far they reach; to
+what things they are in any degree proportionate; and
+where they fail us, I suppose it may be of use to prevail
+with the busy mind of man to be more cautious in med-
+dling with things exceeding its comprehension; to stop
+when it is at the utmost extent of its tether; and to sit
+down in a quiet ignorance of those things which, upon
+examination, are found to be beyond the reach of our
+capacities. We should not then perhaps be so forward,
+out of an affectation of an universal knowledge, to raise
+questions, and perplex ourselves and others with dis-
+putes about things to which our understandings are
+not suited; and of which we cannot frame in our minds
+any clear or distinct perceptions, or whereof (as it has
+perhaps too often happened) we have not any notions
+at all. If we can find out how far the understanding can
+extend its view; how far it has faculties to attain cer-
+tainty; and in what cases it can only judge and guess,
+we may learn to content ourselves with what is attain-
+able by us in this state.
+
+5. Our capacity suited to our state and concerns. For
+
+24
+
+though the comprehension of our understandings comes
+exceeding short of the vast extent of things, yet we
+shall have cause enough to magnify the bountiful Au-
+thor of our being, for that proportion and degree of
+knowledge he has bestowed on us, so far above all the
+rest of the inhabitants of this our mansion. Men have
+reason to be well satisfied with what God hath thought
+fit for them, since he hath given them (as St. Peter
+says) pana pros zoen kaieusebeian, whatsoever is neces-
+sary for the conveniences of life and information of vir-
+tue; and has put within the reach of their discovery,
+the comfortable provision for this life, and the way that
+leads to a better. How short soever their knowledge may
+come of an universal or perfect comprehension of what-
+soever is, it yet secures their great concernments, that
+they have light enough to lead them to the knowledge
+of their Maker, and the sight of their own duties. Men
+may find matter sufficient to busy their heads, and em-
+ploy their hands with variety, delight, and satisfaction,
+if they will not boldly quarrel with their own constitu-
+tion, and throw away the blessings their hands are filled
+
+John Locke
+
+with, because they are not big enough to grasp every-
+thing. We shall not have much reason to complain of
+the narrowness of our minds, if we will but employ them
+about what may be of use to us; for of that they are
+very capable. And it will be an unpardonable, as well as
+childish peevishness, if we undervalue the advantages
+of our knowledge, and neglect to improve it to the ends
+for which it was given us, because there are some things
+that are set out of the reach of it. It will be no excuse to
+an idle and untoward servant, who would not attend his
+business by candle light, to plead that he had not broad
+sunshine. The Candle that is set up in us shines bright
+enough for all our purposes. The discoveries we can
+make with this ought to satisfy us; and we shall then
+use our understandings right, when we entertain all
+objects in that way and proportion that they are suited
+to our faculties, and upon those grounds they are ca-
+pable of being proposed to us; and not peremptorily or
+intemperately require demonstration, and demand cer-
+tainty, where probability only is to be had, and which is
+sufficient to govern all our concernments.
+
+tas)
+
+If we will disbelieve everything, because we cannot cer-
+tainly know all things, we shall do muchwhat as wisely
+as he who would not use his legs, but sit still and per-
+ish, because he had no wings to fly.
+
+6. Knowledge of our capacity a cure of scepticism and
+idleness. When we know our own strength, we shall the
+better know what to undertake with hopes of success;
+and when we have well surveyed the powers of our own
+minds, and made some estimate what we may expect
+from them, we shall not be inclined either to sit still,
+and not set our thoughts on work at all, in despair of
+knowing anything; nor on the other side, question ev-
+erything, and disclaim all knowledge, because some things
+are not to be understood. It is of great use to the sailor
+to know the length of his line, though he cannot with
+it fathom all the depths of the ocean. It is well he knows
+that it is long enough to reach the bottom, at such
+places as are necessary to direct his voyage, and caution
+him against running upon shoals that may ruin him.
+Our business here is not to know all things, but those
+which concern our conduct. If we can find out those
+
+Human Understanding
+
+measures, whereby a rational creature, put in that state
+in which man is in this world, may and ought to govern
+his opinions, and actions depending thereon, we need
+not to be troubled that some other things escape our
+knowledge.
+
+7. Occasion of this essay. This was that which gave the
+first rise to this Essay concerning the understanding.
+For I thought that the first step towards satisfying sev-
+eral inquiries the mind of man was very apt to run into,
+was, to take a survey of our own understandings, exam-
+ine our own powers, and see to what things they were
+adapted. Till that was done I suspected we began at the
+wrong end, and in vain sought for satisfaction in a quiet
+and sure possession of truths that most concerned us,
+whilst we let loose our thoughts into the vast ocean of
+Being; as if all that boundless extent were the natural
+and undoubted possession of our understandings,
+wherein there was nothing exempt from its decisions,
+or that escaped its comprehension. Thus men, extend-
+ing their inquiries beyond their capacities, and letting
+their thoughts wander into those depths where they
+
+26
+
+can find no sure footing, it is no wonder that they raise
+questions and multiply disputes, which, never coming
+to any clear resolution, are proper only to continue and
+increase their doubts, and to confirm them at last in
+perfect scepticism. Whereas, were the capacities of our
+understandings well considered, the extent of our knowl-
+edge once discovered, and the horizon found which sets
+the bounds between the enlightened and dark parts of
+things; between what is and what is not comprehen-
+sible by us, men would perhaps with less scruple acqui-
+esce in the avowed ignorance of the one, and employ
+their thoughts and discourse with more advantage and
+satisfaction in the other.
+
+8. What “Idea” stands for. Thus much I thought neces-
+sary to say concerning the occasion of this Inquiry into
+human Understanding. But, before I proceed on to what
+I have thought on this subject, I must here in the en-
+trance beg pardon of my reader for the frequent use of
+the word idea, which he will find in the following trea-
+tise. It being that term which, I think, serves best to
+stand for whatsoever is the object of the understanding
+
+John Locke
+
+when a man thinks, I have used it to express whatever
+is meant by phantasm, notion, species, or whatever it is
+which the mind can be employed about in thinking; and
+I could not avoid frequently using it.
+
+I presume it will be easily granted me, that there are
+such ideas in men’s minds: every one is conscious of
+them in himself; and men’s words and actions will sat-
+isfy him that they are in others.
+
+Our first inquiry then shall be,—how they come into
+the mind.
+
+Om |
+
+BOOK I
+Neither Principles nor Ideas Are Innate
+
+Chapter I
+No Innate Speculative Principles
+
+1. The way shown how we come by any knowledge,
+sufficient to prove it not innate. It is an established
+opinion amongst some men, that there are in the un-
+derstanding certain innate principles; some primary no-
+tions, koinai ennoiai, characters, as it were stamped upon
+the mind of man; which the soul receives in its very
+first being, and brings into the world with it. It would
+be sufficient to convince unprejudiced readers of the
+falseness of this supposition, if I should only show (as I
+hope I shall in the following parts of this Discourse)
+how men, barely by the use of their natural faculties,
+may attain to all the knowledge they have, without the
+help of any innate impressions; and may arrive at cer-
+tainty, without any such original notions or principles.
+For I imagine any one will easily grant that it would be
+
+Human Understanding
+
+impertinent to suppose the ideas of colours innate in a
+creature to whom God hath given sight, and a power to
+receive them by the eyes from external objects: and no
+less unreasonable would it be to attribute several truths
+to the impressions of nature, and innate characters, when
+we may observe in ourselves faculties fit to attain as
+easy and certain knowledge of them as if they were origi-
+nally imprinted on the mind.
+
+But because a man is not permitted without censure
+to follow his own thoughts in the search of truth, when
+they lead him ever so little out of the common road, I
+shall set down the reasons that made me doubt of the
+truth of that opinion, as an excuse for my mistake, if I
+be in one; which I leave to be considered by those who,
+with me, dispose themselves to embrace truth wherever
+they find it.
+
+2. General assent the great argument. There is nothing
+more commonly taken for granted than that there are
+certain principles, both speculative and practical, (for
+they speak of both), universally agreed upon by all man-
+kind: which therefore, they argue, must needs be the
+
+28
+
+constant impressions which the souls of men receive in
+their first beings, and which they bring into the world
+with them, as necessarily and really as they do any of
+their inherent faculties.
+
+3. Universal consent proves nothing innate. This argu-
+ment, drawn from universal consent, has this misfor-
+tune in it, that if it were true in matter of fact, that
+there were certain truths wherein all mankind agreed,
+it would not prove them innate, if there can be any
+other way shown how men may come to that universal
+agreement, in the things they do consent in, which I
+presume may be done.
+
+4. “What is, is,” and “It is impossible for the same thing
+to be and not to be,” not universally assented to. But,
+which is worse, this argument of universal consent,
+which is made use of to prove innate principles, seems
+to me a demonstration that there are none such: be-
+cause there are none to which all mankind give an uni-
+versal assent. I shall begin with the speculative, and
+instance in those magnified principles of demonstration,
+“Whatsoever is, is,” and “It is impossible for the same
+
+John Locke
+
+thing to be and not to be”; which, of all others, I think
+have the most allowed title to innate. These have so
+settled a reputation of maxims universally received, that
+it will no doubt be thought strange if any one should
+seem to question it. But yet I take liberty to say, that
+these propositions are so far from having an universal
+assent, that there are a great part of mankind to whom
+they are not so much as known.
+
+5. Not on the mind naturally imprinted, because not
+known to children, idiots, &c. For, first, it is evident,
+that all children and idiots have not the least apprehen-
+sion or thought of them. And the want of that is enough
+to destroy that universal assent which must needs be
+the necessary concomitant of all innate truths: it seem-
+ing to me near a contradiction to say, that there are
+truths imprinted on the soul, which it perceives or un-
+derstands not: imprinting, if it signify anything, being
+nothing else but the making certain truths to be per-
+ceived. For to imprint anything on the mind without
+the mind’s perceiving it, seems to me hardly intelligible.
+If therefore children and idiots have souls, have minds,
+
+29
+
+with those impressions upon them, they must unavoid-
+ably perceive them, and necessarily know and assent to
+these truths; which since they do not, it is evident that
+there are no such impressions. For if they are not no-
+tions naturally imprinted, how can they be innate? and
+if they are notions imprinted, how can they be unknown?
+To say a notion is imprinted on the mind, and yet at the
+same time to say, that the mind is ignorant of it, and
+never yet took notice of it, is to make this impression
+nothing. No proposition can be said to be in the mind
+which it never yet knew, which it was never yet con-
+scious of. For if any one may, then, by the same reason,
+all propositions that are true, and the mind is capable
+ever of assenting to, may be said to be in the mind, and
+to be imprinted: since, if any one can be said to be in
+the mind, which it never yet knew, it must be only
+because it is capable of knowing it; and so the mind is of
+all truths it ever shall know. Nay, thus truths may be
+imprinted on the mind which it never did, nor ever shall
+know; for a man may live long, and die at last in igno-
+rance of many truths which his mind was capable of
+
+Human Understanding
+
+knowing, and that with certainty. So that if the capac-
+ity of knowing be the natural impression contended for,
+all the truths a man ever comes to know will, by this
+account, be every one of them innate; and this great
+point will amount to no more, but only to a very im-
+proper way of speaking; which, whilst it pretends to
+assert the contrary, says nothing different from those
+who deny innate principles. For nobody, I think, ever
+denied that the mind was capable of knowing several
+truths. The capacity, they say, is innate; the knowledge
+acquired. But then to what end such contest for certain
+innate maxims? If truths can be imprinted on the un-
+derstanding without being perceived, I can see no dif-
+ference there can be between any truths the mind is
+capable of knowing in respect of their original: they
+must all be innate or all adventitious: in vain shall a
+man go about to distinguish them. He therefore that
+talks of innate notions in the understanding, cannot (if
+he intend thereby any distinct sort of truths) mean such
+truths to be in the understanding as it never perceived,
+and is yet wholly ignorant of. For if these words “to be
+
+30
+
+in the understanding” have any propriety, they signify
+to be understood. So that to be in the understanding,
+and not to be understood; to be in the mind and never
+to be perceived, is all one as to say anything is and is
+not in the mind or understanding. If therefore these
+two propositions, “Whatsoever is, is,” and “It is impos-
+sible for the same thing to be and not to be,” are by
+nature imprinted, children cannot be ignorant of them:
+infants, and all that have souls, must necessarily have
+them in their understandings, know the truth of them,
+and assent to it.
+
+6. That men know them when they come to the use of
+reason, answered. To avoid this, it is usually answered,
+that all men know and assent to them, when they come
+to the use of reason; and this is enough to prove them
+innate. I answer:
+
+7. Doubtful expressions, that have scarce any significa-
+tion, go for clear reasons to those who, being prepos-
+sessed, take not the pains to examine even what they
+themselves say. For, to apply this answer with any toler-
+able sense to our present purpose, it must signify one
+
+John Locke
+
+of these two things: either that as soon as men come to
+the use of reason these supposed native inscriptions come
+to be known and observed by them; or else, that the use
+and exercise of men’s reason, assists them in the discov-
+ery of these principles, and certainly makes them known
+to them.
+
+8. If reason discovered them, that would not prove
+them innate. If they mean, that by the use of reason
+men may discover these principles, and that this is suf-
+ficient to prove them innate; their way of arguing will
+stand thus, viz. that whatever truths reason can cer-
+tainly discover to us, and make us firmly assent to, those
+are all naturally imprinted on the mind; since that uni-
+versal assent, which is made the mark of them, amounts
+to no more but this,—that by the use of reason we are
+capable to come to a certain knowledge of and assent to
+them; and, by this means, there will be no difference
+between the maxims of the mathematicians, and theo-
+rems they deduce from them: all must be equally al-
+lowed innate; they being all discoveries made by the use
+of reason, and truths that a rational creature may cer-
+
+31
+
+tainty come to know, if he apply his thoughts rightly
+that way.
+
+9. It is false that reason discovers them. But how can
+these men think the use of reason necessary to discover
+principles that are supposed innate, when reason (if we
+may believe them) is nothing else but the faculty of
+deducing unknown truths from principles or proposi-
+tions that are already known? That certainly can never
+be thought innate which we have need of reason to
+discover; unless, as I have said, we will have all the
+certain truths that reason ever teaches us, to be innate.
+We may as well think the use of reason necessary to
+make our eyes discover visible objects, as that there
+should be need of reason, or the exercise thereof, to
+make the understanding see what is originally engraven
+on it, and cannot be in the understanding before it be
+perceived by it. So that to make reason discover those
+truths thus imprinted, is to say, that the use of reason
+discovers to a man what he knew before: and if men
+have those innate impressed truths originally, and be-
+fore the use of reason, and yet are always ignorant of
+
+Human Understanding
+
+them till they come to the use of reason, it is in effect
+to say, that men know and know them not at the same
+time.
+
+10. No use made of reasoning in the discovery of these
+two maxims. It will here perhaps be said that math-
+ematical demonstrations, and other truths that are not
+innate, are not assented to as soon as proposed, wherein
+they are distinguished from these maxims and other in-
+nate truths. I shall have occasion to speak of assent
+upon the first proposing, more particularly by and by. I
+shall here only, and that very readily, allow, that these
+maxims and mathematical demonstrations are in this
+different: that the one have need of reason, using of
+proofs, to make them out and to gain our assent; but
+the other, as soon as understood, are, without any the
+least reasoning, embraced and assented to. But I withal
+beg leave to observe, that it lays open the weakness of
+this subterfuge, which requires the use of reason for
+the discovery of these general truths: since it must be
+confessed that in their discovery there is no use made of
+reasoning at all. AndI think those who give this answer
+
+a2
+
+will not be forward to affirm that the knowledge of this
+maxim, “That it is impossible for the same thing to be
+and not to be,” is a deduction of our reason. For this
+would be to destroy that bounty of nature they seem so
+fond of, whilst they make the knowledge of those prin-
+ciples to depend on the labour of our thoughts. For all
+reasoning is search, and casting about, and requires pains
+and application. And how can it with any tolerable sense
+be supposed, that what was imprinted by nature, as the
+foundation and guide of our reason, should need the
+use of reason to discover it?
+
+11. And if there were, this would prove them not in-
+nate. Those who will take the pains to reflect with a
+little attention on the operations of the understanding,
+will find that this ready assent of the mind to some
+truths, depends not, either on native inscription, or
+the use of reason, but on a faculty of the mind quite
+distinct from both of them, as we shall see hereafter.
+Reason, therefore, having nothing to do in procuring
+our assent to these maxims, if by saying, that “men
+know and assent to them, when they come to the use of
+
+John Locke
+
+reason,” be meant, that the use of reason assists us in
+the knowledge of these maxims, it is utterly false; and
+were it true, would prove them not to be innate.
+
+12. The coming to the use of reason not the time we
+come to know these maxims. If by knowing and assent-
+ing to them “when we come to the use of reason,” be
+meant, that this is the time when they come to be taken
+notice of by the mind; and that as soon as children
+come to the use of reason, they come also to know and
+assent to these maxims; this also is false and frivolous.
+First, it is false; because it is evident these maxims are
+not in the mind so early as the use of reason; and there-
+fore the coming to the use of reason is falsely assigned
+as the time of their discovery. How many instances of
+the use of reason may we observe in children, a long
+time before they have any knowledge of this maxim,
+“That it is impossible for the same thing to be and not
+to be?” And a great part of illiterate people and savages
+pass many years, even of their rational age, without
+ever thinking on this and the like general propositions.
+I grant, men come not to the knowledge of these gen-
+
+33
+
+eral and more abstract truths, which are thought in-
+nate, till they come to the use of reason; and I add, nor
+then neither. Which is so, because, till after they come
+to the use of reason, those general abstract ideas are
+not framed in the mind, about which those general
+maxims are, which are mistaken for innate principles,
+but are indeed discoveries made and verities introduced
+and brought into the mind by the same way, and dis-
+covered by the same steps, as several other proposi-
+tions, which nobody was ever so extravagant as to sup-
+pose innate. This I hope to make plain in the sequel of
+this Discourse. I allow therefore, a necessity that men
+should come to the use of reason before they get the
+knowledge of those general truths; but deny that men’s
+coming to the use of reason is the time of their discov-
+ery.
+
+13. By this they are not distinguished from other know-
+able truths. In the mean time it is observable, that this
+saying, that men know and assent to these maxims “when
+they come to the use of reason,” amounts in reality of
+fact to no more but this,—that they are never known
+
+Human Understanding
+
+nor taken notice of before the use of reason, but may
+possibly be assented to some time after, during a man’s
+life; but when is uncertain. And so may all other know-
+able truths, as well as these; which therefore have no
+advantage nor distinction from others by this note of
+being known when we come to the use of reason; nor
+are thereby proved to be innate, but quite the contrary.
+
+14. If coming to the use of reason were the time of
+their discovery it would not prove them innate. But,
+secondly, were it true that the precise time of their
+being known and assented to were, when men come to
+the use of reason; neither would that prove them in-
+nate. This way of arguing is as frivolous as the supposi-
+tion itself is false. For, by what kind of logic will it ap-
+pear that any notion is originally by nature imprinted
+in the mind in its first constitution, because it comes
+first to be observed and assented to when a faculty of
+the mind, which has quite a distinct province, begins to
+exert itself? And therefore the coming to the use of
+speech, if it were supposed the time that these maxims
+are first assented to, (which it may be with as much
+
+34
+
+truth as the time when men come to the use of reason,)
+would be as good a proof that they were innate, as to
+say they are innate because men assent to them when
+they come to the use of reason. I agree then with these
+men of innate principles, that there is no knowledge of
+these general and self-evident maxims in the mind, till
+it comes to the exercise of reason: but I deny that the
+coming to the use of reason is the precise time when
+they are first taken notice of, and if that were the pre-
+cise time, I deny that it would prove them innate. All
+that can with any truth be meant by this proposition,
+that men “assent to them when they come to the use of
+reason,” is no more but this,—that the making of gen-
+eral abstract ideas, and the understanding of general
+names, being a concomitant of the rational faculty, and
+growing up with it, children commonly get not those
+general ideas, nor learn the names that stand for them,
+till, having for a good while exercised their reason about
+familiar and more particular ideas, they are, by their
+ordinary discourse and actions with others, acknowl-
+edged to be capable of rational conversation. If assent-
+
+John Locke
+
+ing to these maxims, when men come to the use of
+reason, can be true in any other sense, I desire it may
+be shown; or at least, how in this, or any other sense, it
+proves them innate.
+
+15. The steps by which the mind attains several truths.
+The senses at first let in particular ideas, and furnish
+the yet empty cabinet, and the mind by degrees grow-
+ing familiar with some of them, they are lodged in the
+memory, and names got to them. Afterwards, the mind
+proceeding further, abstracts them, and by degrees learns
+the use of general names. In this manner the mind comes
+to be furnished with ideas and language, the materials
+about which to exercise its discursive faculty. And the
+use of reason becomes daily more visible, as these mate-
+rials that give it employment increase. But though the
+having of general ideas and the use of general words and
+reason usually grow together, yet I see not how this any
+way proves them innate. The knowledge of some truths,
+I confess, is very early in the mind but in a way that
+shows them not to be innate. For, if we will observe, we
+shall find it still to be about ideas, not innate, but ac-
+
+EIs)
+
+quired; it being about those first which are imprinted
+by external things, with which infants have earliest to
+do, which make the most frequent impressions on their
+senses. In ideas thus got, the mind discovers that some
+agree and others differ, probably as soon as it has any
+use of memory; as soon as it is able to retain and per-
+ceive distinct ideas. But whether it be then or no, this
+is certain, it does so long before it has the use of words;
+or comes to that which we commonly call “the use of
+reason.” For a child knows as certainly before it can
+speak the difference between the ideas of sweet and bit-
+ter (i.e. that sweet is not bitter), as it knows afterwards
+(when it comes to speak) that wormwood and sugar-
+plums are not the same thing.
+
+16. Assent to supposed innate truths depends on hav-
+ing clear and distinct ideas of what their terms mean,
+and not on their innateness. A child knows not that
+three and four are equal to seven, till he comes to be
+able to count seven, and has got the name and idea of
+equality; and then, upon explaining those words, he
+presently assents to, or rather perceives the truth of
+
+Human Understanding
+
+that proposition. But neither does he then readily as-
+sent because it is an innate truth, nor was his assent
+wanting till then because he wanted the use of reason;
+but the truth of it appears to him as soon as he has
+settled in his mind the clear and distinct ideas that these
+names stand for. And then he knows the truth of that
+proposition upon the same grounds and by the same
+means, that he knew before that a rod and a cherry are
+not the same thing; and upon the same grounds also
+that he may come to know afterwards “That it is impos-
+sible for the same thing to be and not to be,” as shall be
+more fully shown hereafter. So that the later it is before
+any one comes to have those general ideas about which
+those maxims are; or to know the signification of those
+general terms that stand for them; or to put together in
+his mind the ideas they stand for; the later also will it be
+before he comes to assent to those maxims;—whose
+terms, with the ideas they stand for, being no more
+innate than those of a cat or a weasel, he must stay till
+time and observation have acquainted him with them;
+and then he will be in a capacity to know the truth of
+
+36
+
+these maxims, upon the first occasion that shall make
+him put together those ideas in his mind, and observe
+whether they agree or disagree, according as is expressed
+in those propositions. And therefore it is that a man
+knows that eighteen and nineteen are equal to thirty-
+seven, by the same self-evidence that he knows one and
+two to be equal to three: yet a child knows this not so
+soon as the other; not for want of the use of reason,
+but because the ideas the words eighteen, nineteen,
+and thirty-seven stand for, are not so soon got, as those
+which are signified by one, two, and three.
+
+17. Assenting as soon as proposed and understood,
+proves them not innate. This evasion therefore of gen-
+eral assent when men come to the use of reason, failing
+as it does, and leaving no difference between those sup-
+pose innate and other truths that are afterwards ac-
+quired and learnt, men have endeavoured to secure an
+universal assent to those they call maxims, by saying,
+they are generally assented to as soon as proposed, and
+the terms they are proposed in understood: seeing all
+men, even children, as soon as they hear and under-
+
+John Locke
+
+stand the terms, assent to these propositions, they think
+it is sufficient to prove them innate. For since men never
+fail after they have once understood the words, to ac-
+knowledge them for undoubted truths, they would in-
+fer, that certainly these proposit ions were first lodged
+in the understanding, which, without any teaching, the
+mind, at the very first proposal immediately closes with
+and assents to, and after that never doubts again.
+
+18. If such an assent be a mark of innate, then “that
+one and two are equal to three, that sweetness is not
+bitterness,” and a thousand the like, must be innate. In
+answer to this, I demand whether ready assent given to
+a proposition, upon first hearing and understanding the
+terms, be a certain mark of an innate principle? If it be
+not, such a general assent is in vain urged as a proof of
+them: if it be said that it is a mark of innate, they must
+then allow all such propositions to be innate which are
+generally assented to as soon as heard, whereby they
+will find themselves plentifully stored with innate prin-
+ciples. For upon the same ground, viz. of assent at first
+hearing and understanding the terms, that men would
+
+a7
+
+have those maxims pass for innate, they must also ad-
+mit several propositions about numbers to be innate;
+and thus, that one and two are equal to three, that two
+and two are equal to four, and a multitude of other the
+like propositions in numbers, that everybody assents to
+at first hearing and understanding the terms, must have
+a place amongst these innate axioms. Nor is this the
+prerogative of numbers alone, and propositions made
+about several of them; but even natural philosophy, and
+all the other sciences, afford propositions which are sure
+to meet with assent as soon as they are understood.
+That “two bodies cannot be in the same place” is a truth
+that nobody any more sticks at than at these maxims,
+that “it is impossible for the same thing to be and not to
+be,” that “white is not black,” that “a square is not a
+circle,” that “bitterness is not sweetness.” These and a
+million of such other propositions, as many at least as
+we have distinct ideas of, every man in his wits, at first
+hearing, and knowing what the names stand for, must
+necessarily assent to. If these men will be true to their
+own rule, and have assent at first hearing and under-
+
+Human Understanding
+
+standing the terms to be a mark of innate, they must
+allow not only as many innate propositions as men have
+distinct ideas, but as many as men can make proposi-
+tions wherein different ideas are denied one of another.
+Since every proposition wherein one different idea is
+denied of another, will as certainly find assent at first
+hearing and understanding the terms as this general
+one, “It is impossible for the same thing to be and not
+to be,” or that which is the foundation of it, and is the
+easier understood of the two, “The same is not differ-
+ent”; by which account they will have legions of innate
+propositions of this one sort, without mentioning any
+other. But, since no proposition can be innate unless
+the ideas about which it is be innate, this will be to
+suppose all our ideas of colours, sounds, tastes, figure,
+&c., innate, than which there cannot be anything more
+opposite to reason and experience. Universal and ready
+assent upon hearing and understanding the terms is, I
+grant, a mark of self-evidence; but self-evidence, de-
+pending not on innate impressions, but on something
+else, (as we shall show hereafter,) belongs to several
+
+38
+
+propositions which nobody was yet so extravagant as to
+pretend to be innate.
+
+19. Such less general propositions known before these
+universal maxims. Nor let it be said, that those more
+particular self-evident propositions, which are assented
+to at first hearing, as that “one and two are equal to
+three,” that “green is not red,” &c., are received as the
+consequences of those more universal propositions which
+are looked on as innate principles; since any one, who
+will but take the pains to observe what passes in the
+understanding, will certainly find that these, and the
+like less general propositions, are certainly known, and
+firmly assented to by those who are utterly ignorant of
+those more general maxims; and so, being earlier in the
+mind than those (as they are called) first principles,
+cannot owe to them the assent wherewith they are re-
+ceived at first hearing.
+
+20. “One and one equal to Two, &c., not general nor
+useful,” answered. If it be said, that these propositions,
+
+wea
+
+viz. “two and two are equal to four,” “red is not blue,”
+
+&c., are not general maxims, nor of any great use, I
+
+John Locke
+
+answer, that makes nothing to the argument of univer-
+sal assent upon hearing and understanding. For, if that
+be the certain mark of innate, whatever proposition can
+be found that receives general assent as soon as heard
+and understood, that must be admitted for an innate
+proposition, as well as this maxim, “That it is impossible
+for the same thing to be and not to be,” they being
+upon this ground equal. And as to the difference of
+being more general, that makes this maxim more remote
+from being innate; those general and abstract ideas be-
+ing more strangers to our first apprehensions than those
+of more particular self-evident propositions; and there-
+fore it is longer before they are admitted and assented
+to by the growing understanding. And as to the useful-
+ness of these magnified maxims, that perhaps will not
+be found so great as is generally conceived, when it
+comes in its due place to be more fully considered.
+
+21. These maxims not being known sometimes till pro-
+posed, proves them not innate. But we have not yet
+done with “assenting to propositions at first hearing
+and understanding their terms.” It is fit we first take
+
+a9
+
+notice that this, instead of being a mark that they are
+innate, is a proof of the contrary; since it supposes that
+several, who understand and know other things, are
+ignorant of these principles till they are proposed to
+them; and that one may be unacquainted with these
+truths till he hears them from others. For, if they were
+innate, what need they be proposed in order to gaining
+assent, when, by being in the understanding, by a natural
+and original impression, (if there were any such,) they
+could not but be known before? Or doth the proposing
+them print them clearer in the mind than nature did? If
+so, then the consequence will be, that a man knows
+them better after he has been thus taught them than
+he did before. Whence it will follow that these principles
+may be made more evident to us by others’ teaching
+than nature has made them by impression: which will ill
+agree with the opinion of innate principles, and give
+but little authority to them; but, on the contrary, makes
+them unfit to be the foundations of all our other knowl-
+edge; as they are pretended to be. This cannot be de-
+nied, that men grow first acquainted with many of these
+
+Human Understanding
+
+self-evident truths upon their being proposed: but it is
+clear that whosoever does so, finds in himself that he
+then begins to know a proposition, which he knew not
+before, and which from thenceforth he never questions;
+not because it was innate, but because the consider-
+ation of the nature of the things contained in those
+words would not suffer him to think otherwise, how, or
+whensoever he is brought to reflect on them. And if
+whatever is assented to at first hearing and understand-
+ing the terms must pass for an innate principle, every
+well-grounded observation, drawn from particulars into
+a general rule, must be innate. When yet it is certain
+that not all, but only sagacious heads, light at first on
+these observations, and reduce them into general propo-
+sitions: not innate, but collected from a preceding ac-
+quaintance and reflection on particular instances. These,
+when observing men have made them, unobserving men,
+when they are proposed to them, cannot refuse their
+assent to.
+
+22. Implicitly known before proposing, signifies that
+the mind is capable of understanding them, or else sig-
+
+40
+
+nifies nothing. If it be said, the understanding hath an
+implicit knowledge of these principles, but not an ex-
+plicit, before this first hearing (as they must who will
+say “that they are in the understanding before they are
+known,”) it will be hard to conceive what is meant by a
+principle imprinted on the understanding implicitly,
+unless it be this,—that the mind is capable of under-
+standing and assenting firmly to such propositions. And
+thus all mathematical demonstrations, as well as first
+principles, must be received as native impressions on
+the mind; which I fear they will scarce allow them to be,
+who find it harder to demonstrate a proposition than
+assent to it when demonstrated. And few mathemati-
+cians will be forward to believe, that all the diagrams
+they have drawn were but copies of those innate char-
+acters which nature had engraven upon their minds.
+
+23. The argument of assenting on first hearing, is upon
+a false supposition of no precedent teaching. There is, I
+fear, this further weakness in the foregoing argument,
+which would persuade us that therefore those maxims
+are to be thought innate, which men admit at first hear-
+
+John Locke
+
+ing; because they assent to propositions which they are
+not taught, nor do receive from the force of any argu-
+ment or demonstration, but a bare explication or un-
+derstanding of the terms. Under which there seems to
+me to lie this fallacy, that men are supposed not to be
+taught nor to learn anything de novo; when, in truth,
+they are taught, and do learn something they were ig-
+norant of before. For, first, it is evident that they have
+learned the terms, and their signification; neither of
+which was born with them. But this is not all the ac-
+quired knowledge in the case: the ideas themselves, about
+which the proposition is, are not born with them, no
+more than their names, but got afterwards. So that in
+all propositions that are assented to at first hearing, the
+terms of the proposition, their standing for such ideas,
+and the ideas themselves that they stand for, being nei-
+ther of them innate, I would fain know what there is
+remaining in such propositions that is innate. For I would
+gladly have any one name that proposition whose terms
+or ideas were either of them innate. We by degrees get
+ideas and names, and learn their appropriated connexion
+
+4]
+
+one with another; and then to propositions made in
+such terms, whose signification we have learnt, and
+wherein the agreement or disagreement we can perceive
+in our ideas when put together is expressed, we at first
+hearing assent; though to other propositions, in them-
+selves as certain and evident, but which are concerning
+ideas not so soon or so easily got, we are at the same
+time no way capable of assenting. For, though a child
+quickly assents to this proposition, “That an apple is
+not fire,” when by familiar acquaintance he has got the
+ideas of those two different things distinctly imprinted
+on his mind, and has learnt that the names apple and
+fire stand for them; yet it will be some years after, per-
+haps, before the same child will assent to this proposi-
+tion, “That it is impossible for the same thing to be and
+not to be”; because that, though perhaps the words are
+as easy to be learnt, yet the signification of them being
+more large, comprehensive, and abstract than of the
+names annexed to those sensible things the child hath
+to do with, it is longer before he learns their precise
+meaning, and it requires more time plainly to form in
+
+Human Understanding
+
+his mind those general ideas they stand for. Till that be
+done, you will in vain endeavour to make any child as-
+sent to a proposition made up of such general terms;
+but as soon as ever he has got those ideas, and learned
+their names, he forwardly closes with the one as well as
+the other of the forementioned propositions: and with
+both for the same reason; viz. because he finds the ideas
+he has in his mind to agree or disagree, according as the
+words standing for them are affirmed or denied one of
+another in the proposition. But if propositions be brought
+to him in words which stand for ideas he has not yet in
+his mind, to such propositions, however evidently true
+or false in themselves, he affords neither assent nor dis-
+sent, but is ignorant. For words being but empty sounds,
+any further than they are signs of our ideas, we cannot
+but assent to them as they correspond to those ideas we
+have, but no further than that. But the showing by
+what steps and ways knowledge comes into our minds;
+and the grounds of several degrees of assent, being the
+business of the following Discourse, it may suffice to
+have only touched on it here, as one reason that made
+
+42
+
+me doubt of those innate principles.
+
+24. Not innate, because not universally assented to. To
+conclude this argument of universal consent, I agree
+with these defenders of innate principles,—that if they
+are innate, they must needs have universal assent. For
+that a truth should be innate and yet not assented to,
+is to me as unintelligible as for a man to know a truth
+and be ignorant of it at the same time. But then, by
+these men’s own confession, they cannot be innate; since
+they are not assented to by those who understand not
+the terms; nor by a great part of those who do under-
+stand them, but have yet never heard nor thought of
+those propositions; which, I think, is at least one half of
+mankind. But were the number far less, it would be
+enough to destroy universal assent, and thereby show
+these propositions not to be innate, if children alone
+were ignorant of them.
+
+25. These maxims not the first known. But that I may
+not be accused to argue from the thoughts of infants,
+which are unknown to us, and to conclude from what
+passes in their understandings before they express it; I
+
+John Locke
+
+say next, that these two general propositions are not the
+truths that first possess the minds of children, nor are
+antecedent to all acquired and adventitious notions: which,
+if they were innate, they must needs be. Whether we can
+determine it or no, it matters not, there is certainly a time
+when children begin to think, and their words and actions
+do assure us that they do so. When therefore they are
+capable of thought, of knowledge, of assent, can it ratio-
+nally be supposed they can be ignorant of those notions
+that nature has imprinted, were there any such? Can it be
+imagined, with any appearance of reason, that they per-
+ceive the impressions from things without, and be at the
+same time ignorant of those characters which nature itself
+has taken care to stamp within? Can they receive and as-
+sent to adventitious notions, and be ignorant of those which
+are supposed woven into the very principles of their being,
+and imprinted there in indelible characters, to be the foun-
+dation and guide of all their acquired knowledge and fu-
+ture reasonings? This would be to make nature take pains
+to no purpose; or at least to write very ill; since its charac-
+ters could not be read by those eyes which saw other things
+
+43
+
+very well: and those are very ill supposed the clearest parts
+of truth, and the foundations of all our knowledge, which
+are not first known, and without which the undoubted
+knowledge of several other things may be had. The child
+certainly knows, that the nurse that feeds it is neither the
+cat it plays with, nor the blackmoor it is afraid of: that the
+wormseed or mustard it refuses, is not the apple or sugar it
+cries for: this it is certainly and undoubtedly assured of:
+but will any one say, it is by virtue of this principle, “That
+it is impossible for the same thing to be and not to be,”
+that it so firmly assents to these and other parts of its
+knowledge? Or that the child has any notion or apprehen-
+sion of that proposition at an age, wherein yet, it is plain,
+it knows a great many other truths? He that will say, chil-
+dren join in these general abstract speculations with their
+sucking-bottles and their rattles, may perhaps, with jus-
+tice, be thought to have more passion and zeal for his
+opinion, but less sincerity and truth, than one of that age.
+
+26. And so not innate. Though therefore there be sev-
+eral general propositions that meet with constant and
+ready assent, aS soon as proposed to men grown up,
+
+Human Understanding
+
+who have attained the use of more general and abstract
+ideas, and names standing for them; yet they not being
+to be found in those of tender years, who nevertheless
+know other things, they cannot pretend to universal
+assent of intelligent persons, and so by no means can be
+supposed innate;—it being impossible that any truth
+which is innate (if there were any such) should be un-
+known, at least to any one who knows anything else.
+Since, if they are innate truths, they must be innate
+thoughts: there being nothing a truth in the mind that
+it has never thought on. Whereby it is evident, if there
+by any innate truths, they must necessarily be the first
+of any thought on; the first that appear.
+
+27. Not innate, because they appear least where what is
+innate shows itself clearest. That the general maxims we
+are discoursing of are not known to children, idiots, and
+a great part of mankind, we have already sufficiently
+proved: whereby it is evident they have not an universal
+assent, nor are general impressions. But there is this fur-
+ther argument in it against their being innate: that these
+characters, if they were native and original impressions,
+
+a4
+
+should appear fairest and clearest in those persons in whom
+yet we find no footsteps of them; and it is, in my opinion,
+a strong presumption that they are not innate, since they
+are least known to those in whom, if they were innate,
+they must needs exert themselves with most force and
+vigour. For children, idiots, savages, and illiterate people,
+being of all others the least corrupted by custom, or bor-
+rowed opinions; learning and education having not cast
+their native thoughts into new moulds; nor by super-
+inducing foreign and studied doctrines, confounded those
+fair characters nature had written there; one might rea-
+sonably imagine that in their minds these innate notions
+should lie open fairly to every one’s view, as it is certain
+the thoughts of children do. It might very well be ex-
+pected that these principles should be perfectly known to
+naturals; which being stamped immediately on the soul,
+(as these men suppose,) can have no dependence on the
+constitution or organs of the body, the only confessed
+difference between them and others. One would think,
+according to these men’s principles, that all these native
+beams of light (were there any such) should, in those
+
+John Locke
+
+who have no reserves, no arts of concealment, shine out
+in their full lustre, and leave us in no more doubt of their
+being there, than we are of their love of pleasure and
+abhorrence of pain. But alas, amongst children, idiots,
+savages, and the grossly illiterate, what general maxims
+are to be found? What universal principles of knowledge?
+Their notions are few and narrow, borrowed only from
+those objects they have had most to do with, and which
+have made upon their senses the frequentest and stron-
+gest impressions. A child knows his nurse and his cradle,
+and by degrees the playthings of a little more advanced
+age; and a young savage has, perhaps, his head filled with
+love and hunting, according to the fashion of his tribe.
+But he that from a child untaught, or a wild inhabitant
+of the woods, will expect these abstract maxims and re-
+puted principles of science, will, I fear, find himself mis-
+taken. Such kind of general propositions are seldom men-
+tioned in the huts of Indians: much less are they to be
+found in the thoughts of children, or any impressions of
+them on the minds of naturals. They are the language
+and business of the schools and academies of learned na-
+
+45
+
+tions, accustomed to that sort of conversation or learn-
+ing, where disputes are frequent; these maxims being
+suited to artificial argumentation and useful for convic-
+tion, but not much conducing to the discovery of truth
+or advancement of knowledge. But of their small use for
+the improvement of knowledge I shall have occasion to
+speak more at large, 1. 4, c. 7.
+
+28. Recapitulation. I know not how absurd this may
+seem to the masters of demonstration. And probably it
+will hardly go down with anybody at first hearing. I
+must therefore beg a little truce with prejudice, and the
+forbearance of censure, till I have been heard out in the
+sequel of this Discourse, being very willing to submit to
+better judgments. And since I impartially search after
+truth, I shall not be sorry to be convinced, that I have
+been too fond of my own notions; which I confess we
+are all apt to be, when application and study have warmed
+our heads with them.
+
+Upon the whole matter, I cannot see any ground to
+think these two speculative Maxims innate: since they
+are not universally assented to; and the assent they so
+
+Human Understanding
+
+generally find is no other than what several proposi-
+tions, not allowed to be innate, equally partake in with
+them: and since the assent that is given them is pro-
+duced another way, and comes not from natural inscrip-
+tion, as I doubt not but to make appear in the following
+Discourse. And if these “first principles” of knowledge
+and science are found not to be innate, no other specu-
+lative maxims can (I suppose), with better right pre-
+tend to be so.
+
+Chapter II
+No Innate Practical Principles
+
+1. No moral principles so clear and so generally received
+as the forementioned speculative maxims. If those specu-
+lative Maxims, whereof we discoursed in the foregoing
+chapter, have not an actual universal assent from all
+mankind, as we there proved, it is much more visible
+
+concerning practical Principles, that they come short of
+an universal reception: and I think it will be hard to
+instance any one moral rule which can pretend to so
+
+46
+
+general and ready an assent as, “What is, is”; or to be so
+manifest a truth as this, that “It is impossible for the
+same thing to be and not to be.” Whereby it is evident
+that they are further removed from a title to be innate;
+and the doubt of their being native impressions on the
+mind is stronger against those moral principles than the
+other. Not that it brings their truth at all in question.
+They are equally true, though not equally evident. Those
+speculative maxims carry their own evidence with them:
+but moral principles require reasoning and discourse,
+and some exercise of the mind, to discover the certainty
+of their truth. They lie not open as natural characters
+engraven on the mind; which, if any such were, they
+must needs be visible by themselves, and by their own
+light be certain and known to everybody. But this is no
+derogation to their truth and certainty; no more than
+it is to the truth or certainty of the three angles of a
+triangle being equal to two right ones: because it is not
+so evident as “the whole is bigger than a part,” nor so
+apt to be assented to at first hearing. It may suffice that
+these moral rules are capable of demonstration: and there-
+
+John Locke
+
+fore it is our own faults if we come not to a certain
+knowledge of them. But the ignorance wherein many
+men are of them, and the slowness of assent wherewith
+others receive them, are manifest proofs that they are
+not innate, and such as offer themselves to their view
+without searching.
+
+2. Faith and justice not owned as principles by all men.
+Whether there be any such moral principles, wherein all
+men do agree, I appeal to any who have been but mod-
+erately conversant in the history of mankind, and looked
+abroad beyond the smoke of their own chimneys. Where
+is that practical truth that is universally received, with-
+out doubt or question, as it must be if innate? Justice,
+and keeping of contracts, is that which most men seem
+to agree in. This is a principle which is thought to ex-
+tend itself to the dens of thieves, and the confederacies
+of the greatest villains; and they who have gone fur-
+thest towards the putting off of humanity itself, keep
+faith and rules of justice one with another. I grant that
+outlaws themselves do this one amongst another: but it
+is without receiving these as the innate laws of nature.
+
+47
+
+They practise them as rules of convenience within their
+own communities: but it is impossible to conceive that
+he embraces justice as a practical principle, who acts
+fairly with his fellow-highwayman, and at the same time
+plunders or kills the next honest man he meets with.
+Justice and truth are the common ties of society; and
+therefore even outlaws and robbers, who break with all
+the world besides, must keep faith and rules of equity
+amongst themselves; or else they cannot hold together.
+But will any one say, that those that live by fraud or
+rapine have innate principles of truth and justice which
+they allow and assent to?
+
+3. Objection: “though men deny them in their practice,
+yet they admit them in their thoughts,” answered. Per-
+haps it will be urged, that the tacit assent of their minds
+agrees to what their practice contradicts. I answer, first,
+I have always thought the actions of men the best in-
+terpreters of their thoughts. But, since it is certain that
+most men’s practices, and some men’s open professions,
+have either questioned or denied these principles, it is
+impossible to establish an universal consent, (though
+
+Human Understanding
+
+we should look for it only amongst grown men,) with-
+out which it is impossible to conclude them innate. Sec-
+ondly, it is very strange and unreasonable to suppose
+innate practical principles, that terminate only in con-
+templation. Practical principles, derived from nature, are
+there for operation, and must produce conformity of
+action, not barely speculative assent to their truth, or
+else they are in vain distinguished from speculative max-
+ims. Nature, I confess, has put into man a desire of
+happiness and an aversion to misery: these indeed are
+innate practical principles which (as practical principles
+ought) do continue constantly to operate and influence
+all our actions without ceasing: these may be observed
+in all persons and all ages, steady and universal; but
+these are inclinations of the appetite to good, not im-
+pressions of truth on the understanding. I deny not
+that there are natural tendencies imprinted on the minds
+of men; and that from the very first instances of sense
+and perception, there are some things that are grateful
+and others unwelcome to them; some things that they
+incline to and others that they fly: but this makes noth-
+
+48
+
+ing for innate characters on the mind, which are to be
+the principles of knowledge regulating our practice. Such
+natural impressions on the understanding are so far from
+being confirmed hereby, that this is an argument against
+them; since, if there were certain characters imprinted
+by nature on the understanding, as the principles of
+knowledge, we could not but perceive them constantly
+operate in us and influence our knowledge, as we do
+those others on the will and appetite; which never cease
+to be the constant springs and motives of all our ac-
+tions, to which we perpetually feel them strongly im-
+pelling us.
+
+4. Moral rules need a proof, ergo not innate. Another
+reason that makes me doubt of any innate practical prin-
+ciples is, that I think there cannot any one moral rule
+be proposed whereof a man may not justly demand a
+reason: which would be perfectly ridiculous and absurd
+if they were innate; or so much as self-evident, which
+every innate principle must needs be, and not need any
+proof to ascertain its truth, nor want any reason to
+gain it approbation. He would be thought void of com-
+
+John Locke
+
+mon sense who asked on the one side, or on the other
+side went to give a reason why “it is impossible for the
+same thing to be and not to be.” It carries its own light
+and evidence with it, and needs no other proof: he that
+understands the terms assents to it for its own sake or
+else nothing will ever be able to prevail with him to do
+it. But should that most unshaken rule of morality and
+foundation of all social virtue, “That one should do as
+he would be done unto,” be proposed to one who never
+heard of it before, but yet is of capacity to understand
+its meaning; might he not without any absurdity ask a
+reason why? And were not he that proposed it bound to
+make out the truth and reasonableness of it to him?
+Which plainly shows it not to be innate; for if it were it
+could neither want nor receive any proof; but must needs
+(at least as soon as heard and understood) be received
+and assented to as an unquestionable truth, which a
+man can by no means doubt of. So that the truth of all
+these moral rules plainly depends upon some other an-
+tecedent to them, and from which they must be de-
+duced; which could not be if either they were innate or
+
+49
+
+so much as self-evident.
+
+5. Instance in keeping compacts. That men should keep
+their compacts is certainly a great and undeniable rule
+in morality. But yet, if a Christian, who has the view of
+happiness and misery in another life, be asked why a
+man must keep his word, he will give this as a reason:-
+Because God, who has the power of eternal life and death,
+requires it of us. But if a Hobbist be asked why? he will
+answer:—Because the public requires it, and the Levia-
+than will punish you if you do not. And if one of the old
+philosophers had been asked, he would have answered:—
+Because it was dishonest, below the dignity of a man,
+and opposite to virtue, the highest perfection of human
+nature, to do otherwise.
+
+6. Virtue generally approved, not because innate, but
+because profitable. Hence naturally flows the great vari-
+ety of opinions concerning moral rules which are to be
+found among men, according to the different sorts of
+happiness they have a prospect of, or propose to them-
+selves; which could not be if practical principles were
+innate, and imprinted in our minds immediately by the
+
+Human Understanding
+
+hand of God. I grant the existence of God is so many
+ways manifest, and the obedience we owe him so con-
+gruous to the light of reason, that a great part of man-
+kind give testimony to the law of nature: but yet I think
+it must be allowed that several moral rules may receive
+from mankind a very general approbation, without ei-
+ther knowing or admitting the true ground of morality;
+which can only be the will and law of a God, who sees
+men in the dark, has in his hand rewards and punish-
+ments and power enough to call to account the proud-
+est offender. For, God having, by an inseparable
+connexion, joined virtue and public happiness together,
+and made the practice thereof necessary to the preser-
+vation of society, and visibly beneficial to all with whom
+the virtuous man has to do; it is no wonder that every
+one should not only allow, but recommend and magnify
+those rules to others, from whose observance of them
+he is sure to reap advantage to himself He may, out of
+interest as well as conviction, cry up that for sacred,
+which, if once trampled on and profaned, he himself
+cannot be safe nor secure. This, though it takes noth-
+
+50
+
+ing from the moral and eternal obligation which these
+rules evidently have, yet it shows that the outward ac-
+knowledgment men pay to them in their words proves
+not that they are innate principles: nay, it proves not so
+much as that men assent to them inwardly in their own
+minds, as the inviolable rules of their own practice; since
+we find that self-interest, and the conveniences of this
+life, make many men own an outward profession and
+approbation of them, whose actions sufficiently prove
+that they very little consider the Lawgiver that pre-
+scribed these rules; nor the hell that he has ordained for
+the punishment of those that transgress them.
+
+7. Men's actions convince us that the rule of virtue is
+not their internal principle. For, if we will not in civility
+allow too much sincerity to the professions of most men,
+but think their actions to be the interpreters of their
+thoughts, we shall find that they have no such internal
+veneration for these rules, nor so full a persuasion of
+their certainty and obligation. The great principle of
+morality, “To do as one would be done to,” is more com-
+mended than practised. But the breach of this rule can-
+
+John Locke
+
+not be a greater vice, than to teach others, that it is no
+moral rule, nor obligatory, would be thought madness,
+and contrary to that interest men sacrifice to, when
+they break it themselves. Perhaps conscience will be urged
+as checking us for such breaches, and so the internal
+obligation and establishment of the rule be preserved.
+
+8. Conscience no proof of any innate moral rule. To
+which I answer, that I doubt not but, without being
+written on their hearts, many men may, by the same
+way that they come to the knowledge of other things,
+come to assent to several moral rules, and be convinced
+of their obligation. Others also may come to be of the
+same mind, from their education, company, and cus-
+toms of their country; which persuasion, however got,
+will serve to set conscience on work; which is nothing
+else but our own opinion or judgment of the moral rec-
+titude or pravity of our own actions; and if conscience
+be a proof of innate principles, contraries may be innate
+principles; since some men with the same bent of con-
+science prosecute what others avoid.
+
+9. Instances of enormities practised without remorse.
+
+af
+
+But I cannot see how any men should ever transgress
+those moral rules, with confidence and serenity, were
+they innate, and stamped upon their minds. View but
+an army at the sacking of a town, and see what observa-
+tion or sense of moral principles, or what touch of con-
+science for all the outrages they do. Robberies, murders,
+rapes, are the sports of men set at liberty from punish-
+ment and censure. Have there not been whole nations,
+and those of the most civilized people, amongst whom
+the exposing their children, and leaving them in the
+fields to perish by want or wild beasts has been the
+
+practice; as little condemned or scrupled as the beget-
+ting them? Do they not still, in some countries, put
+them into the same graves with their mothers, if they
+die in childbirth; or despatch them, if a pretended as-
+trologer declares them to have unhappy stars? And are
+there not places where, at a certain age, they kill or
+expose their parents, without any remorse at all? Ina
+part of Asia, the sick, when their case comes to be
+thought desperate, are carried out and laid on the earth
+before they are dead; and left there, exposed to wind
+
+Human Understanding
+
+and weather, to perish without assistance or pity. It is
+familiar among the Mingrelians, a people professing Chris-
+tianity, to bury their children alive without scruple.
+There are places where they eat their own children. The
+Caribbees were wont to geld their children, on purpose
+to fat and eat them. And Garcilasso de la Vega tells us of
+a people in Peru which were wont to fat and eat the
+children they got on their female captives, whom they
+kept as concubines for that purpose, and when they
+were past breeding, the mothers themselves were killed
+too and eaten. The virtues whereby the Tououpinambos
+believed they merited paradise, were revenge, and eat-
+ing abundance of their enemies. They have not so much
+as a name for God, and have no religion, no worship.
+The saints who are canonized amongst the Turks, lead
+lives which one cannot with modesty relate. A remark-
+able passage to this purpose, out of the voyage of
+Baumgarten, which is a book not every day to be met
+with, I shall set down at large, in the language it is
+published in. Ibi (sc. prope Belbes in Agypto) vidimus
+sanctum unum Saracenicum inter arenarum cumulos,
+
+52
+
+ita ut ex utero matris prodiit nudum sedentem. Mos-est,
+ut didicimus, Mahometistis, ut eos, qui amentes et sine
+ratione sunt, prosanctis colant et venerentur. Insuper et
+eos, qui cum diu vitam egerint inquinatissimam,
+voluntariam demum poenitentiam et paupertatem,
+sanctitate venerandos deputant. Ejusmodi vero genus
+hominum libertatem quandam effrenem habent, domos
+quos volunt intrandi, edendi, bibendi, et quod majus
+est, concumbendi; ex quo concubitu, si proles secuta
+fuerit, sancta similiter habetur. His ergo hominibus dum
+vivunt, magnos exhibent honores; mortuis vero vel templa
+vel monumenta extruunt amplissima, eosque contingere
+ac sepelire maximae fortunae ducunt loco. Audivimus
+haec dicta et dicenda per interpretem a Mucrelo nostro.
+Insuper sanctum illum, quem eo loco vidimus, publicitus
+apprime commendari, eum esse hominem sanctum,
+divinum ac integritate praecipuum; eo quod, nec
+foeminarum unquam esset, nec puerorum, sed
+tantummodo asellarum concubitor atque mularum.
+(Peregr. Baumgarten, 1. ii. c. I. p. 73.) More of the same
+kind concerning these precious saints amongst the Turks
+
+John Locke
+
+may be seen in Pietro della Valle, in his letter of the
+
+25th of January, 1616.
+
+Where then are those innate principles of justice, pi-
+ety, gratitude, equity, chastity? Or where is that uni-
+versal consent that assures us there are such inbred
+rules? Murders in duels, when fashion has made them
+honourable, are committed without remorse of con-
+science: nay, in many places innocence in this case is
+the greatest ignominy. And if we look abroad to take a
+view of men as they are, we shall find that they have
+remorse, in one place, for doing or omitting that which
+others, in another place, think they merit by.
+
+10. Men have contrary practical principles. He that will
+carefully peruse the history of mankind, and look abroad
+into the several tribes of men, and with indifferency
+survey their actions, will be able to satisfy himself, that
+there is scarce that principle of morality to be named, or
+rule of virtue to be thought on, (those only excepted
+that are absolutely necessary to hold society together,
+which commonly too are neglected betwixt distinct so-
+cieties,) which is not, somewhere or other, slighted and
+
+33
+
+condemned by the general fashion of whole societies of
+men, governed by practical opinions and rules of living
+quite opposite to others.
+
+11. Whole nations reject several moral rules. Here per-
+haps it will be objected, that it is no argument that the
+rule is not known, because it is broken. I grant the
+objection good where men, though they transgress, yet
+disown not the law; where fear of shame, censure, or
+punishment carries the mark of some awe it has upon
+them. But it is impossible to conceive that a whole na-
+tion of men should all publicly reject and renounce what
+every one of them certainly and infallibly knew to be a
+law; for so they must who have it naturally imprinted
+on their minds. It is possible men may sometimes own
+rules of morality which in their private thoughts they
+do not believe to be true, only to keep themselves in
+reputation and esteem amongst those who are persuaded
+of their obligation. But it is not to be imagined that a
+whole society of men should publicly and professedly
+disown and cast off a rule which they could not in their
+own minds but be infallibly certain was a law; nor be
+
+Human Understanding
+
+ignorant that all men they should have to do with knew
+it to be such: and therefore must every one of them
+apprehend from others all the contempt and abhorrence
+due to one who professes himself void of humanity: and
+one who, confounding the known and natural measures
+of right and wrong, cannot but be looked on as the
+professed enemy of their peace and happiness. Whatever
+practical principle is innate, cannot but be known to
+every one to be just and good. It is therefore little less
+than a contradiction to suppose, that whole nations of
+men should, both in their professions and practice, unani-
+mously and universally give the lie to what, by the most
+invincible evidence, every one of them knew to be true,
+right, and good. This is enough to satisfy us that no
+practical rule which is anywhere universally, and with
+public approbation or allowance, transgressed, can be
+supposed innate.—But I have something further to add
+in answer to this objection.
+
+12. The generally allowed breach of a rule, proof that it
+is not innate. The breaking of a rule, say you, is no
+argument that it is unknown. I grant it: but the gener-
+
+54
+
+ally allowed breach of it anywhere, I say, is a proof that
+it is not innate. For example: let us take any of these
+rules, which, being the most obvious deductions of hu-
+man reason, and comformable to the natural inclination
+of the greatest part of men, fewest people have had the
+impudence to deny or inconsideration to doubt of. If
+any can be thought to be naturally imprinted, none, I
+think, can have a fairer pretence to be innate than this:
+“Parents, preserve and cherish your children.” When,
+therefore, you say that this is an innate rule, what do
+you mean? Either that it is an innate principle which
+upon all occasions excites and directs the actions of all
+men; or else, that it is a truth which all men have im-
+printed on their minds, and which therefore they know
+and assent to. But in neither of these senses is it innate.
+First, that it is not a principle which influences all men’s
+actions, is what I have proved by the examples before
+cited: nor need we seek so far as Mingrelia or Peru to
+find instances of such as neglect, abuse, nay, and de-
+stroy their children; or look on it only as the more than
+brutality of some savage and barbarous nations, when
+
+John Locke
+
+we remember that it was a familiar and uncondemned
+practice amongst the Greeks and Romans to expose, with-
+out pity or remorse, their innocent infants. Secondly,
+that it is an innate truth, known to all men, is also
+
+la
+
+false. For, “Parents preserve your children,” is so far
+from an innate truth, that it is no truth at all: it being
+a command, and not a proposition, and so not capable
+of truth or falsehood. To make it capable of being as-
+sented to as true, it must be reduced to some such propo-
+sition as this: “It is the duty of parents to preserve their
+children.” But what duty is, cannot be understood with-
+out a law; nor a law be known or supposed without a
+lawmaker, or without reward and punishment; so that
+it is impossible that this, or any other, practical prin-
+ciple should be innate, i.e. be imprinted on the mind as
+a duty, without supposing the ideas of God, of law, of
+obligation, of punishment, of a life after this, innate:
+for that punishment follows not in this life the breach
+of this rule, and consequently that it has not the force
+of a law in countries where the generally allowed prac-
+tice runs counter to it, is in itself evident. But these
+
+55
+
+ideas (which must be all of them innate, if anything as
+
+a duty be so) are so far from being innate, that it is not
+every studious or thinking man, much less every one
+that is born, in whom they are to be found clear and
+distinct; and that one of them, which of all others seems
+most likely to be innate, is not so, (I mean the idea of
+God,) I think, in the next chapter, will appear very evi-
+dent to any considering man.
+
+13. If men can be ignorant of what is innate, certainty
+is not described by innate principles. From what has
+been said, I think we may safely conclude, that what-
+ever practical rule is in any place generally and with
+allowance broken, cannot be supposed innate; it being
+impossible that men should, without shame or fear, con-
+fidently and serenely, break a rule which they could not
+but evidently know that God had set up, and would
+certainly punish the breach of, (which they must, if it
+were innate,) to a degree to make it a very ill bargain to
+the transgressor. Without such a knowledge as this, a
+man can never be certain that anything is his duty.
+Ignorance or doubt of the law, hopes to escape the knowl-
+
+Human Understanding
+
+edge or power of the law-maker, or the like, may make
+men give way to a present appetite; but let any one see
+the fault, and the rod by it, and with the transgression,
+a fire ready to punish it; a pleasure tempting, and the
+hand of the Almighty visibly held up and prepared to
+take vengeance, (for this must be the case where any
+duty is imprinted on the mind,) and then tell me whether
+it be possible for people with such a prospect, such a
+certain knowledge as this, wantonly, and without scruple,
+to offend against a law which they carry about them in
+indelible characters, and that stares them in the face
+whilst they are breaking it? Whether men, at the same
+time that they feel in themselves the imprinted edicts of
+an Omnipotent Law-maker, can, with assurance and
+gaiety, slight and trample underfoot his most sacred in-
+junctions? And lastly, whether it be possible that whilst
+a man thus openly bids defiance to this innate law and
+supreme Lawgiver, all the bystanders, yea, even the gov-
+ernors and rulers of the people, full of the same sense
+both of the law and Law-maker, should silently connive,
+without testifying their dislike or laying the least blame
+
+56
+
+on it? Principles of actions indeed there are lodged in
+men’s appetites; but these are so far from being innate
+moral principles, that if they were left to their full swing
+they would carry men to the overturning of all moral-
+ity. Moral laws are set as a curb and restraint to these
+exorbitant desires, which they cannot be but by re-
+wards and punishments that will overbalance the satis-
+faction any one shall propose to himself in the breach of
+the law. If, therefore, anything be imprinted on the minds
+of all men as a law, all men must have a certain and
+unavoidable knowledge that certain and unavoidable
+punishment will attend the breach of it. For if men can
+be ignorant or doubtful of what is innate, innate prin-
+ciples are insisted on, and urged to no purpose; truth
+and certainty (the things pretended) are not at all se-
+cured by them; but men are in the same uncertain float-
+ing estate with as without them. An evident indubi-
+table knowledge of unavoidable punishment, great
+enough to make the transgression very uneligible, must
+accompany an innate law; unless with an innate law
+they can suppose an innate Gospel too. I would not
+
+John Locke
+
+here be mistaken, as if, because I deny an innate law, I
+thought there were none but positive laws. There is a
+great deal of difference between an innate law, and a
+law of nature; between something imprinted on our
+minds in their very original, and something that we,
+being ignorant of, may attain to the knowledge of, by
+the use and due application of our natural faculties.
+And I think they equally forsake the truth who, run-
+ning into contrary extremes, either affirm an innate
+law, or deny that there is a law knowable by the light of
+nature, i.e. without the help of positive revelation.
+
+14. Those who maintain innate practical principles tell
+us not what they are. The difference there is amongst
+men in their practical principles is so evident that I think
+I need say no more to evince, that it will be impossible
+to find any innate moral rules by this mark of general
+assent; and it is enough to make one suspect that the
+supposition of such innate principles is but an opinion
+taken up at pleasure; since those who talk so confi-
+dently of them are so sparing to tell us which they are.
+This might with justice be expected from those men
+
+ay
+
+who lay stress upon this opinion; and it gives occasion
+to distrust either their knowledge or charity, who, de-
+claring that God has imprinted on the minds of men the
+foundations of knowledge and the rules of living, are
+yet so little favourable to the information of their
+neighbours, or the quiet of mankind, as not to point
+out to them which they are, in the variety men are
+distracted with. But, in truth, were there any such in-
+nate principles there would be no need to teach them.
+Did men find such innate propositions stamped on their
+minds, they would easily be able to distinguish them
+from other truths that they afterwards learned and de-
+duced from them; and there would be nothing more
+easy than to know what, and how many, they were.
+There could be no more doubt about their number than
+there is about the number of our fingers; and it is like
+then every system would be ready to give them us by
+tale. But since nobody, that I know, has ventured yet to
+give a catalogue of them, they cannot blame those who
+doubt of these innate principles; since even they who
+require men to believe that there are such innate propo-
+
+Human Understanding
+
+sitions, do not tell us what they are. It is easy to fore-
+see, that if different men of different sects should go
+about to give us a list of those innate practical prin-
+ciples, they would set down only such as suited their
+distinct hypotheses, and were fit to support the doc-
+trines of their particular schools or churches; a plain
+evidence that there are no such innate truths. Nay, a
+great part of men are so far from finding any such in-
+nate moral principles in themselves, that, by denying
+freedom to mankind, and thereby making men no other
+than bare machines, they take away not only innate,
+but all moral rules whatsoever, and leave not a possibil-
+ity to believe any such, to those who cannot conceive
+how anything can be capable of a law that is not a free
+agent. And upon that ground they must necessarily re-
+ject all principles of virtue, who cannot put morality
+and mechanism together, which are not very easy to be
+reconciled or made consistent.
+
+15. Lord Herbert’s innate principles examined. When I
+had written this, being informed that my Lord Herbert
+had, in his book De Veritate, assigned these innate prin-
+
+58
+
+ciples, I presently consulted him, hoping to find in a
+man of so great parts, something that might satisfy me
+in this point, and put an end to my inquiry. In his
+chapter De Instinctu Naturali, p. 72, ed. 1656, I met
+with these six marks of his Notitiae, Communes:—1.
+Prioritas. 2. Independentia. 3. Universalitas. 4. Certitudo.
+5. Necessitas, t.e. as he explains it, faciunt ad hominis
+conservationem. 6. Modus conformationis, i.e. Assensus
+mulla interposita mora. And at the latter end of his
+little treatise De Religione Laici, he says this of these
+innate principles: Adeo ut non uniuscujusvis religionis
+confinio arctentur quae ubique vigent veritates. Sunt
+enim in ipsa mente caelitus descriptae, nullisque
+traditionibus, sive scriptis, sive non scriptis, obnoxiae, p.
+3. And Veritates nostrae catholicae, quae tanquam indubia
+Dei emata inforo interiori descriptae.
+
+Thus, having given the marks of the innate principles
+or common notions, and asserted their being imprinted
+on the minds of men by the hand of God, he proceeds to
+set them down, and they are these: 1. Esse aliquod
+supremum numen. 2. Numen illud coli debere. 3. Virtutem
+
+John Locke
+
+cum pietate conjunctam optimam esse rationem cultus
+divini. 4. Resipiscendum esse a peccatis. 5. Dari praemium
+vel paenam post hanc vitam transactam. Though I allow
+these to be clear truths, and such as, if rightly explained,
+a rational creature can hardly avoid giving his assent
+to, yet I think he is far from proving them innate im-
+pressions in foro interiori descriptae. For I must take
+leave to observe:—
+
+16. These five either not all, or more than all, if there are
+any. First, that these five propositions are either not all, or
+more than all, those common notions written on our minds
+by the finger of God; if it were reasonable to believe any at
+all to be so written. Since there are other propositions
+which, even by his own rules, have as just a pretence to
+such an original, and may be as well admitted for innate
+principles, as at least some of these five he enumerates,
+viz. “Do as thou wouldst be done unto.” And perhaps some
+hundreds of others, when well considered.
+
+17. The supposed marks wanting. Secondly, that all his
+marks are not to be found in each of his five proposi-
+tions, viz. his first, second, and third marks agree per-
+
+59
+
+fectly to neither of them; and the first, second, third,
+fourth, and sixth marks agree but ill to his third, fourth,
+and fifth propositions. For, besides that we are assured
+from history of many men, nay whole nations, who doubt
+or disbelieve some or all of them, I cannot see how the
+third, viz. “That virtue joined with piety is the best
+worship of God,” can be an innate principle, when the
+name or sound virtue, is so hard to be understood; li-
+able to so much uncertainty in its signification; and the
+thing it stands for so much contended about and diffi-
+cult to be known. And therefore this cannot be but a
+very uncertain rule of human practice, and serve but
+very little to the conduct of our lives, and is therefore
+very unfit to be assigned as an innate practical prin-
+ciple.
+
+18. Of little use if they were innate. For let us consider
+this proposition as to its meaning, (for it is the sense,
+and not sound, that is and must be the principle or
+common notion,) viz. “Virtue is the best worship of
+God,” i.e. is most acceptable to him; which, if virtue be
+taken, as most commonly it is, for those actions which,
+
+Human Understanding
+
+according to the different opinions of several countries,
+are accounted laudable, will be a proposition so far from
+being certain, that it will not be true. If virtue be taken
+for actions conformable to God’s will, or to the rule
+prescribed by God—which is the true and only measure
+of virtue when virtue is used to signify what is in its
+own nature right and good—then this proposition, “That
+virtue is the best worship of God,” will be most true and
+certain, but of very little use in human life: since it will
+amount to no more but this, viz. “That God is pleased
+with the doing of what he commands;"—which a man
+may certainly know to be true, without knowing what
+it is that God doth command; and so be as far from any
+rule or principle of his actions as he was before. And I
+think very few will take a proposition which amounts to
+no more than this, viz. “That God is pleased with the
+doing of what he himself commands,” for an innate moral
+principle written on the minds of all men, (however
+true and certain it may be,) since it teaches so little.
+Whosoever does so will have reason to think hundreds
+of propositions innate principles; since there are many
+
+60
+
+which have as good a title as this to be received for
+such, which nobody yet ever put into that rank of in-
+nate principles.
+
+19. Scarce possible that God should engrave principles
+in words of uncertain meaning. Nor is the fourth propo-
+sition (viz.”Men must repent of their sins”) much more
+instructive, till what those actions are that are meant
+by sins be set down. For the word peccata, or sins, being
+put, as it usually is, to signify in general ill actions that
+will draw punishment upon the doers, what great prin-
+ciple of morality can that be to tell us we should be
+sorry, and cease to do that which will bring mischief
+upon us; without knowing what those particular ac-
+tions are that will do so? Indeed this is a very true
+proposition, and fit to be incated on and received by
+those who are supposed to have been taught what ac-
+tions in all kinds are sins: but neither this nor the former
+can be imagined to be innate principles; nor to be of any
+use if they were innate, unless the particular measures
+and bounds of all virtues and vices were engraven in
+men’s minds, and were innate principles also, which I
+
+John Locke
+
+think is very much to be doubted. And, therefore, I
+imagine, it will scarcely seem possible that God should
+engrave principles in men’s minds, in words of uncer-
+tain signification, such as virtues and sins, which
+amongst different men stand for different things: nay,
+it cannot be supposed to be in words at all, which,
+being in most of these principles very general, names,
+cannot be understood but by knowing the particulars
+comprehended under them. And in the practical in-
+stances, the measures must be taken from the knowl-
+edge of the actions themselves, and the rules of them,—
+abstracted from words, and antecedent to the knowl-
+edge of names; which rules a man must know, what
+language soever he chance to learn, whether English or
+Japan, or if he should learn no language at all, or never
+should understand the use of words, as happens in the
+case of dumb and deaf men. When it shall be made out
+that men ignorant of words, or untaught by the laws
+and customs of their country, know that it is part of the
+worship of God, not to kill another man; not to know
+more women than one; not to procure abortion; not to
+
+61
+
+expose their children; not to take from another what is
+his, though we want it ourselves, but on the contrary,
+relieve and supply his wants; and whenever we have
+done the contrary we ought to repent, be sorry, and
+resolve to do so no more;—when I say, all men shall be
+proved actually to know and allow all these and a thou-
+sand other such rules, all of which come under these
+two general words made use of above, viz. virtutes et
+peccata, virtues and sins, there will be more reason for
+admitting these and the like, for common notions and
+practical principles. Yet, after all, universal consent (were
+there any in moral principles) to truths, the knowledge
+whereof may be attained otherwise, would scarce prove
+them to be innate; which is all I contend for.
+
+20. Objection, “innate principles may be corrupted,”
+answered. Nor will it be of much moment here to offer
+that very ready but not very material answer, viz. that
+the innate principles of morality may, by education, and
+custom, and the general opinion of those amongst whom
+we converse, be darkened, and at last quite worn out of
+the minds of men. Which assertion of theirs, if true,
+
+Human Understanding
+
+quite takes away the argument of universal consent, by
+which this opinion of innate principles is endeavoured
+to be proved; unless those men will think it reasonable
+that their private persuasions, or that of their party,
+should pass for universal consent;—a thing not
+unfrequently done, when men, presuming themselves
+to be the only masters of right reason, cast by the votes
+and opinions of the rest of mankind as not worthy the
+reckoning. And then their argument stands thus:—"The
+principles which all mankind allow for true, are innate;
+those that men of right reason admit, are the principles
+allowed by all mankind; we, and those of our mind, are
+men of reason; therefore, we agreeing, our principles
+are innate;”—which is a very pretty way of arguing,
+and a short cut to infallibility. For otherwise it will be
+very hard to understand how there be some principles
+which all men do acknowledge and agree in; and yet
+there are none of those principles which are not, by
+depraved custom and ill education, blotted out of the
+minds of many men: which is to say, that all men admit,
+but yet many men do deny and dissent from them. And
+
+62
+
+indeed the supposition of such first principles will serve
+us to very little purpose; and we shall be as much at a
+loss with as without them, if they may, by any human
+power—such as the will of our teachers, or opinions of
+our companions—be altered or lost in us: and notwith-
+standing all this boast of first principles and innate light,
+we shall be as much in the dark and uncertainty as if
+there were no such thing at all: it being all one to have
+no rule, and one that will warp any way; or amongst
+various and contrary rules, not to know which is the
+right. But concerning innate principles, I desire these
+men to say, whether they can or cannot, by education
+and custom, be blurred and blotted out; if they cannot,
+we must find them in all mankind alike, and they must
+be clear in everybody; and if they may suffer variation
+from adventitious notions, we must then find them
+clearest and most perspicuous nearest the fountain, in
+children and illiterate people, who have received least
+impression from foreign opinions. Let them take which
+side they please, they will certainly find it inconsistent
+with visible matter of fact and daily observation.
+
+John Locke
+
+21. Contrary principles in the world. I easily grant that
+there are great numbers of opinions which, by men of
+different countries, educations, and tempers, are received
+and embraced as first and unquestionable principles;
+many whereof, both for their absurdity as well as oppo-
+sitions to one another, it is impossible should be true.
+But yet all those propositions, how remote soever from
+reason, are so sacred somewhere or other, that men even
+of good understanding in other matters, will sooner part
+with their lives, and whatever is dearest to them, than
+suffer themselves to doubt, or others to question, the
+truth of them.
+
+22. How men commonly come by their principles. This,
+however strange it may seem, is that which every day’s
+experience confirms; and will not, perhaps, appear so
+wonderful, if we consider the ways and steps by which
+it is brought about; and how really it may come to pass,
+that doctrines that have been derived from no better
+original than the superstition of a nurse, or the author-
+ity of an old woman, may, by length of time and con-
+sent of neighbours, grow up to the dignity of principles
+
+63
+
+in religion or morality. For such, who are careful (as
+they call it) to principle children well, (and few there be
+who have not a set of those principles for them, which
+they believe in,) instil into the unwary, and as yet un-
+prejudiced, understanding, (for white paper receives any
+characters,) those doctrines they would have them re-
+tain and profess. These being taught them as soon as
+they have any apprehension; and still as they grow up
+confirmed to them, either by the open profession or
+tacit consent of all they have to do with; or at least by
+those of whose wisdom, knowledge, and piety they have
+an opinion, who never suffer those propositions to be
+otherwise mentioned but as the basis and foundation
+on which they build their religion and manners, come,
+by these means, to have the reputation of unquestion-
+able, self-evident, and innate truths.
+
+23. Principles supposed innate because we do not re-
+member when we began to hold them. To which we may
+add, that when men so instructed are grown up, and
+reflect on their own minds, they cannot find anything
+more ancient there than those opinions, which were
+
+Human Understanding
+
+taught them before their memory began to keep a reg-
+ister of their actions, or date the time when any new
+thing appeared to them; and therefore make no scruple
+to conclude, that those propositions of whose knowl-
+edge they can find in themselves no original, were cer-
+tainly the impress of God and nature upon their minds,
+and not taught them by any one else. These they enter-
+tain and submit to, as many do to their parents with
+veneration; not because it is natural; nor do children do
+it where they are not so taught; but because, having
+been always so educated, and having no remembrance
+of the beginning of this respect, they think it is natu-
+ral.
+
+24. How such principles come to be held. This will ap-
+pear very likely, and almost unavoidable to come to pass,
+if we consider the nature of mankind and the constitu-
+tion of human affairs; wherein most men cannot live
+without employing their time in the daily labours of
+their callings; nor be at quiet in their minds without
+some foundation or principle to rest their thoughts on.
+There is scarcely any one so floating and superficial in
+
+64
+
+his understanding, who hath not some reverenced propo-
+sitions, which are to him the principles on which he
+bottoms his reasonings, and by which he judgeth of
+truth and falsehood, right and wrong; which some, want-
+ing skill and leisure, and others the inclination, and
+some being taught that they ought not to examine,
+there are few to be found who are not exposed by their
+ignorance, laziness, education, or precipitancy, to take
+them upon trust.
+
+25. Further explained. This is evidently the case of all
+children and young folk; and custom, a greater power
+than nature, seldom failing to make them worship for
+divine what she hath inured them to bow their minds
+and submit their understandings to, it is no wonder
+that grown men, either perplexed in the necessary af-
+fairs of life, or hot in the pursuit of pleasures, should
+not seriously sit down to examine their own tenets;
+especially when one of their principles is, that principles
+ought not to be questioned. And had men leisure, parts,
+and will, who is there almost that dare shake the foun-
+dations of all his past thoughts and actions, and endure
+
+John Locke
+
+to bring upon himself the shame of having been a long
+time wholly in mistake and error? Who is there hardy
+enough to contend with the reproach which is every-
+where prepared for those who dare venture to dissent
+from the received opinions of their country or party?
+And where is the man to be found that can patiently
+prepare himself to bear the name of whimsical, scepti-
+cal, or atheist; which he is sure to meet with, who does
+in the least scruple any of the common opinions? And
+he will be much more afraid to question those prin-
+ciples, when he shall think them, as most men do, the
+standards set up by God in his mind, to be the rule and
+touchstone of all other opinions. And what can hinder
+him from thinking them sacred, when he finds them the
+earliest of all his own thoughts, and the most rever-
+enced by others?
+
+26. A worship of idols. It is easy to imagine how, by
+these means, it comes to pass than men worship the
+idols that have been set up in their minds; grow fond of
+the notions they have been long acquainted with there;
+and stamp the characters of divinity upon absurdities
+
+65
+
+and errors; become zealous votaries to bulls and mon-
+keys, and contend too, fight, and die in defence of their
+opinions. Dum solos credit habendos esse deos, quos ipse
+colit. For, since the reasoning faculties of the soul, which
+are almost constantly, though not always warily nor
+wisely employed, would not know how to move, for want
+of a foundation and footing, in most men, who through
+laziness or avocation do not, or for want of time, or
+true helps, or for other causes, cannot penetrate into
+the principles of knowledge, and trace truth to its foun-
+tain and original, it is natural for them, and almost
+unavoidable, to take up with some borrowed principles;
+which being reputed and presumed to be the evident
+proofs of other things, are thought not to need any
+other proof themselves. Whoever shall receive any of
+these into his mind, and entertain them there with the
+reverence usually paid to principles, never venturing to
+examine them, but accustoming himself to believe them,
+because they are to be believed, may take up, from his
+education and the fashions of his country, any absur-
+dity for innate principles; and by long poring on the
+
+Human Understanding
+
+same objects, so dim his sight as to take monsters lodged
+in his own brain for the images of the Deity, and the
+workmanship of his hands.
+
+27. Principles must be examined. By this progress, how
+many there are who arrive at principles which they be-
+lieve innate may be easily observed, in the variety of
+opposite principles held and contended for by all sorts
+and degrees of men. And he that shall deny this to be
+the method wherein most men proceed to the assurance
+they have of the truth and evidence of their principles,
+will perhaps find it a hard matter any other way to
+account for the contrary tenets, which are firmly be-
+lieved, confidently asserted, and which great numbers
+are ready at any time to seal with their blood. And,
+indeed, if it be the privilege of innate principles to be
+received upon their own authority, without examina-
+tion, I know not what may not be believed, or how any
+one’s principles can be questioned. If they may and ought
+to be examined and tried, I desire to know how first and
+innate principles can be tried; or at least it is reasonable
+to demand the marks and characters whereby the genu-
+
+66
+
+ine innate principles may be distinguished from others:
+that so, amidst the great variety of pretenders, I may be
+kept from mistakes in so material a point as this. When
+this is done, I shall be ready to embrace such welcome
+and useful propositions; and till then I may with mod-
+esty doubt; since I fear universal consent, which is the
+only one produced, will scarcely prove a sufficient mark
+to direct my choice, and assure me of any innate prin-
+ciples.
+
+From what has been said, I think it past doubt, that
+there are no practical principles wherein all men agree;
+and therefore none innate.
+
+John Locke
+
+Chapter III
+Other considerations concerning Innate Principles,
+both Speculative and Practical
+
+1. Principles not innate, unless their ideas be innate.
+Had those who would persuade us that there are innate
+principles not taken them together in gross, but consid-
+ered separately the parts out of which those proposi-
+tions are made, they would not, perhaps, have been so
+forward to believe they were innate. Since, if the ideas
+which made up those truths were not, it was impossible
+that the propositions made up of them should be in-
+nate, or our knowledge of them be born with us. For, if
+the ideas be not innate, there was a time when the mind
+was without those principles; and then they will not be
+innate, but be derived from some other original. For,
+where the ideas themselves are not, there can be no
+knowledge, no assent, no mental or verbal propositions
+about them.
+
+2. Ideas, especially those belonging to principles, not
+born with children. If we will attentively consider new-
+
+67
+
+born children, we shall have little reason to think that
+they bring many ideas into the world with them. For,
+bating perhaps some faint ideas of hunger, and thirst,
+and warmth, and some pains, which they may have felt
+in the womb, there is not the least appearance of any
+settled ideas at all in them; especially of ideas answering
+the terms which make up those universal propositions
+that are esteemed innate principles. One may perceive
+how, by degrees, afterwards, ideas come into their minds;
+and that they get no more, nor other, than what expe-
+rience, and the observation of things that come in their
+way, furnish them with; which might be enough to sat-
+isfy us that they are not original characters stamped on
+the mind.
+
+3. “Impossibility” and “identity” not innate ideas. “It is
+impossible for the same thing to be, and not to be,” is
+certainly (if there be any such) an innate principle. But
+can any one think, or will any one say, that “impossibil-
+ity” and “identity” are two innate ideas? Are they such
+as all mankind have, and bring into the world with them?
+And are they those which are the first in children, and
+
+Human Understanding
+
+antecedent to all acquired ones? If they are innate, they
+must needs be so. Hath a child an idea of impossibility
+and identity, before it has of white or black, sweet or
+bitter? And is it from the knowledge of this principle
+that it concludes, that wormwood rubbed on the nipple
+hath not the same taste that it used to receive from
+thence? Is it the actual knowledge of impossible est idem
+esse, et non esse, that makes a child distinguish be-
+tween its mother and a stranger; or that makes it fond
+of the one and flee the other? Or does the mind regulate
+itself and its assent by ideas that it never yet had? Or
+the understanding draw conclusions from principles
+which it never yet knew or understood? The names im-
+possibility and identity stand for two ideas, so far from
+being innate, or born with us, that I think it requires
+great care and attention to form them right in our un-
+derstandings. They are so far from being brought into
+the world with us, so remote from the thoughts of in-
+fancy and childhood, that I believe, upon examination
+it will be found that many grown men want them.
+
+4. “Identity,” an idea not innate. If identity (to in-
+
+68
+
+stance that alone) be a native impression, and conse-
+quently so clear and obvious to us that we must needs
+know it even from our cradles, I would gladly be re-
+solved by any one of seven, or seventy years old, whether
+a man, being a creature consisting of soul and body, be
+the same man when his body is changed? Whether
+Euphorbus and Pythagoras, having had the same soul,
+were the same men, though they lived several ages asun-
+der? Nay, whether the cock too, which had the same
+soul, were not the same with both of them? Whereby,
+perhaps, it will appear that our idea of sameness is not
+so settled and clear as to deserve to be thought innate
+in us. For if those innate ideas are not clear and dis-
+tinct, so as to be universally known and naturally agreed
+on, they cannot be subjects of universal and undoubted
+truths, but will be the unavoidable occasion of perpetual
+uncertainty. For, I suppose every one’s idea of identity
+will not be the same that Pythagoras and thousands of
+his followers have. And which then shall be true? Which
+innate? Or are there two different ideas of identity, both
+innate?
+
+John Locke
+
+5. What makes the same man? Nor let any one think
+that the questions I have here proposed about the iden-
+tity of man are bare empty speculations; which, if they
+were, would be enough to show, that there was in the
+understandings of men no innate idea of identity. He
+that shall with a little attention reflect on the resurrec-
+tion, and consider that divine justice will bring to judg-
+ment, at the last day, the very same persons, to be happy
+or miserable in the other, who did well or ill in this life,
+will find it perhaps not easy to resolve with himself,
+what makes the same man, or wherein identity consists;
+and will not be forward to think he, and every one, even
+children themselves, have naturally a clear idea of it.
+
+6. Whole and part, not innate ideas. Let us examine
+that principle of mathematics, viz. that the whole is
+bigger than a part. This, I take it, is reckoned amongst
+innate principles. I am sure it has as good a title as any
+to be thought so; which yet nobody can think it to be,
+when he considers [that] the ideas it comprehends in it,
+whole and part, are perfectly relative; but the positive
+ideas to which they properly and immediately belong
+
+69
+
+are extension and number, of which alone whole and
+part are relations. So that if whole and part are innate
+ideas, extension and number must be so too; it being
+impossible to have an idea of a relation, without having
+any at all of the thing to which it belongs, and in which
+it is founded. Now, whether the minds of men have natu-
+rally imprinted on them the ideas of extension and num-
+ber, I leave to be considered by these who are the pa-
+trons of innate principles.
+
+7. Idea of worship not innate. That God is to be wor-
+shipped, is, without doubt, as great a truth as any that
+can enter into the mind of man, and deserves the first
+place amongst all practical principles. But yet it can by
+no means be thought innate, unless the ideas of God
+and worship are innate. That the idea the term worship
+stands for is not in the understanding of children, and a
+character stamped on the mind in its first original, I
+think will be easily granted, by any one that considers
+how few there be amongst grown men who have a clear
+and distinct notion of it. And, I suppose, there cannot
+be anything more ridiculous than to say, that children
+
+Human Understanding
+
+have this practical principle innate, “That God is to be
+worshipped,” and yet that they know not what that
+worship of God is, which is their duty. But to pass by
+this.
+
+8. Idea of God not innate. If any idea can be imagined
+innate, the idea of God may, of all others, for many
+reasons, be thought so; since it is hard to conceive how
+there should be innate moral principles, without an in-
+nate idea of a Deity. Without a notion of a law-maker, it
+is impossible to have a notion of a law, and an obliga-
+tion to observe it. Besides the atheists taken notice of
+amongst the ancients, and left branded upon the records
+of history, hath not navigation discovered, in these later
+ages, whole nations, at the bay of Soldania, in Brazil,
+[in Boranday,] and in the Caribbee islands, &c., amongst
+whom there was to be found no notion of a God, no
+religion? Nicholaus del Techo, in Literis ex Paraquaria,
+de Caiguarum Conversione, has these words: Reperi eam
+gentem nullum nomen habere quod Deum, et hominis
+animam significet; nulla sacra habet, nulla idola. These
+are instances of nations where uncultivated nature has
+
+70
+
+been left to itself, without the help of letters and disci-
+pline, and the improvements of arts and sciences. But
+there are others to be found who have enjoyed these in
+a very great measure, who yet, for want of a due appli-
+cation of their thoughts this way, want the idea and
+knowledge of God. It will, I doubt not, be a surprise to
+others, as it was to me, to find the Siamites of this
+number. But for this, let them consult the King of
+France's late envoy thither, who gives no better account
+of the Chinese themselves. And if we will not believe La
+Loubere, the missionaries of China, even the Jesuits
+themselves, the great encomiasts of the Chinese, do all
+to a man agree, and will convince us, that the sect of
+the literari, or learned, keeping to the old religion of
+China, and the ruling party there, are all of them athe-
+ists. Vid. Navarette, in the Collection of Voyages, vol. i.,
+and Historia Cultus Sinensium. And perhaps, if we should
+with attention mind the lives and discourses of people
+not so far off, we should have too much reason to fear,
+that many, in more civilized countries, have no very
+strong and clear impressions of a Deity upon their minds,
+
+John Locke
+
+and that the complaints of atheism made from the pul-
+pit are not without reason. And though only some prof-
+ligate wretches own it too barefacedly now; yet perhaps
+we should hear more than we do of it from others, did
+not the fear of the magistrate’s sword, or their
+neighbour's censure, tie up people’s tongues; which, were
+the apprehensions of punishment or shame taken away,
+would as openly proclaim their atheism as their lives do.
+9. The name of God not universal or obscure in mean-
+ing. But had all mankind everywhere a notion of a God,
+(whereof yet history tells us the contrary,) it would not
+from thence follow, that the idea of him was innate. For,
+though no nation were to be found without a name,
+and some few dark notions of him, yet that would not
+prove them to be natural impressions on the mind; no
+more than the names of fire, or the sun, heat, or num-
+ber, do prove the ideas they stand for to be innate;
+because the names of those things, and the ideas of
+them, are so universally received and known amongst
+mankind. Nor, on the contrary, is the want of such a
+name, or the absence of such a notion out of men’s
+
+71
+
+minds, any argument against the being of a God; any
+more than it would be a proof that there was no load-
+stone in the world, because a great part of mankind had
+neither a notion of any such thing nor a name for it; or
+be any show of argument to prove that there are no
+distinct and various species of angels, or intelligent be-
+ings above us, because we have no ideas of such distinct
+species, or names for them. For, men being furnished
+with words, by the common language of their own coun-
+tries, can scarce avoid having some kind of ideas of those
+things whose names those they converse with have oc-
+casion frequently to mention to them. And if they carry
+with it the notion of excellency, greatness, or some-
+thing extraordinary; if apprehension and concernment
+accompany it; if the fear of absolute and irresistible power
+set it on upon the mind,—the idea is likely to sink the
+deeper, and spread the further; especially if it be such
+an idea as is agreeable to the common light of reason,
+and naturally deducible from every part of our knowl-
+edge, as that of a God is. For the visible marks of ex-
+traordinary wisdom and power appear so plainly in all
+
+Human Understanding
+
+the works of the creation, that a rational creature, who
+will but seriously reflect on them, cannot miss the dis-
+covery of a Deity. And the influence that the discovery
+of such a Being must necessarily have on the minds of
+all that have but once heard of it is so great, and carries
+such a weight of thought and communication with it,
+that it seems stranger to me that a whole nation of men
+should be anywhere found so brutish as to want the
+notion of a God, than that they should be without any
+notion of numbers, or fire.
+
+10. Ideas of God and idea of fire. The name of God
+being once mentioned in any part of the world, to ex-
+press a superior, powerful, wise, invisible Being, the
+suitableness of such a notion to the principles of com-
+mon reason, and the interest men will always have to
+mention it often, must necessarily spread it far and wide;
+and continue it down to all generations: though yet the
+general reception of this name, and some imperfect and
+unsteady notions conveyed thereby to the unthinking
+part of mankind, prove not the idea to be innate; but
+only that they who made the discovery had made a right
+
+cP:
+
+use of their reason, thought maturely of the causes of
+things, and traced them to their original; from whom
+other less considering people having once received so
+important a notion, it could not easily be lost again.
+
+11. Idea of God not innate. This is all could be inferred
+from the notion of a God, were it to be found univer-
+sally in all the tribes of mankind, and generally acknowl-
+edged, by men grown to maturity in all countries. For
+the generality of the acknowledging of a God, as Iimag-
+ine, is extended no further than that; which, if it be
+sufficient to prove the idea of God innate, will as well
+prove the idea of fire innate; since I think it may be
+truly said, that there is not a person in the world who
+has a notion of a God, who has not also the idea of fire.
+I doubt not but if a colony of young children should be
+placed in an island where no fire was, they would cer-
+tainly neither have any notion of such a thing, nor
+name for it, how generally soever it were received and
+known in all the world besides; and perhaps too their
+apprehensions would be as far removed from any name,
+or notion, of a God, till some one amongst them had
+
+John Locke
+
+employed his thoughts to inquire into the constitution
+and causes of things, which would easily lead him to the
+notion of a God; which having once taught to others,
+reason, and the natural propensity of their own thoughts,
+would afterwards propagate, and continue amongst them.
+
+12. Suitable to God’s goodness, that all men should
+have an idea of Him, therefore naturally imprinted by
+Him, answered. Indeed it is urged, that it is suitable to
+the goodness of God, to imprint upon the minds of men
+characters and notions of himself, and not to leave them
+in the dark and doubt in so grand a concernment; and
+also, by that means, to secure to himself the homage
+and veneration due from so intelligent a creature as
+man; and therefore he has done it. This argument, if it
+be of any force, will prove much more than those who
+use it in this case expect from it. For, if we may con-
+clude that God hath done for men all that men shall
+judge is best for them, because it is suitable to his good-
+ness so to do, it will prove, not only that God has im-
+printed on the minds of men an idea of himself, but that
+he hath plainly stamped there, in fair characters, all
+
+73
+
+that men ought to know or believe of him; all that they
+ought to do in obedience to his will; and that he hath
+given them a will and affections conformable to it. This,
+no doubt, every one will think better for men, than
+that they should, in the dark, grope after knowledge, as
+St. Paul tells us all nations did after God (Acts 17. 27);
+than that their wills should clash with their understand-
+ings, and their appetites cross their duty. The Romanists
+say it is best for men, and so suitable to the goodness of
+God, that there should be an infallible judge of contro-
+versies on earth; and therefore there is one. And I, by
+the same reason, say it is better for men that every man
+himself should be infallible. I leave them to consider,
+whether, by the force of this argument, they shall think
+that every man is so. I think it a very good argument to
+say,—the infinitely wise God hath made it so; and there-
+fore it is best. But it seems to me a little too much
+confidence of our own wisdom to say,—“I think it best;
+and therefore God hath made it so.” And in the matter
+in hand, it will be in vain to argue from such a topic,
+that God hath done so, when certain experience shows
+
+Human Understanding
+
+us that he hath not. But the goodness of God hath not
+been wanting to men, without such original impres-
+sions of knowledge or ideas stamped on the mind; since
+he hath furnished man with those faculties which will
+serve for the sufficient discovery of all things requisite
+to the end of such a being; and I doubt not but to show,
+that a man, by the right use of his natural abilities,
+may, without any innate principles, attain a knowledge
+of a God, and other things that concern him. God hav-
+ing endued man with those faculties of knowledge which
+he hath, was no more obliged by his goodness to plant
+those innate notions in his mind, than that, having
+given him reason, hands, and materials, he should build
+him bridges or houses,—which some people in the world,
+however of good parts, do either totally want, or are
+but ill provided of, as well as others are wholly without
+ideas of God and principles of morality, or at least have
+but very ill ones; the reason in both cases, being, that
+they never employed their parts, faculties, and powers
+industriously that way, but contented themselves with
+the opinions, fashions, and things of their country, as
+
+74
+
+they found them, without looking any further. Had you
+or I been born at the Bay of Soldania, possibly our
+thoughts and notions had not exceeded those brutish
+ones of the Hottentots that inhabit there. And had the
+Virginia king Apochancana been educated in England,
+he had been perhaps as knowing a divine, and as gooda
+mathematician as any in it; the difference between him
+and a more improved Englishman lying barely in this,
+that the exercise of his faculties was bounded within
+the ways, modes, and notions of his own country, and
+never directed to any other or further inquiries. And if
+he had not any idea of a God, it was only because he
+pursued not those thoughts that would have led him to
+it.
+
+13. Ideas of God various in different men. I grant that
+if there were any ideas to be found imprinted on the
+minds of men, we have reason to expect it should be the
+notion of his Maker, as a mark God set on his own work-
+manship, to mind man of his dependence and duty; and
+that herein should appear the first instances of human
+knowledge. But how late is it before any such notion is
+
+John Locke
+
+discoverable in children? And when we find it there,
+how much more does it resemble the opinion and no-
+tion of the teacher, than represent the true God? He
+that shall observe in children the progress whereby their
+minds attain the knowledge they have, will think that
+the objects they do first and most familiarly converse
+with are those that make the first impressions on their
+understandings; nor will he find the least footsteps of
+any other. It is easy to take notice how their thoughts
+enlarge themselves, only as they come to be acquainted
+with a greater variety of sensible objects; to retain the
+ideas of them in their memories; and to get the skill to
+compound and enlarge them, and several ways put them
+together. How, by these means, they come to frame in
+their minds an idea men have of a Deity, I shall hereafter
+show.
+
+14. Contrary and inconsistent ideas of God under the
+same name. Can it be thought that the ideas men have
+of God are the characters and marks of himself, engraven
+in their minds by his own finger, when we see that, in
+the same country, under one and the same name, men
+
+fe
+
+have far different, nay often contrary and inconsistent
+ideas and conceptions of him? Their agreeing in a name,
+or sound, will scarce prove an innate notion of him.
+
+15. Gross ideas of God. What true or tolerable notion of
+a Deity could they have, who acknowledged and wor-
+shipped hundreds? Every deity that they owned above
+one was an infallible evidence of their ignorance of Him,
+and a proof that they had no true notion of God, where
+unity, infinity, and eternity were excluded. To which, if
+we add their gross conceptions of corporeity, expressed
+in their images and representations of their deities; the
+amours, marriages, copulations, lusts, quarrels, and other
+mean qualities attributed by them to their gods; we
+shall have little reason to think that the heathen world,
+i.e. the greatest part of mankind, had such ideas of God
+in their minds as he himself, out of care that they should
+not be mistaken about him, was author of. And this
+universality of consent, so much argued, if it prove any
+native impressions, it will be only this:—that God im-
+printed on the minds of all men speaking the same lan-
+guage, a name for himself, but not any idea; since those
+
+Human Understanding
+
+people who agreed in the name, had, at the same time, far
+different apprehensions about the thing signified. If they
+say that the variety of deities worshipped by the heathen
+world were but figurative ways of expressing the several
+attributes of that incomprehensible Being, or several parts
+of his providence, I answer: what they might be in the
+original I will not here inquire; but that they were so in
+the thoughts of the vulgar I think nobody will affirm.
+And he that will consult the voyage of the Bishop of
+Beryte, c. 13, (not to mention other testimonies,) will
+find that the theology of the Siamites professedly owns a
+plurality of gods: or, as the Abbe de Choisy more judi-
+ciously remarks in his Journal du Voyage de Siam, 107/
+177, it consists properly in acknowledging no God at all.
+16. Idea of God not innate although wise men of all na-
+tions come to have it. If it be said, that wise men of all
+nations came to have true conceptions of the unity and
+infinity of the Deity, I grant it. But then this, First,
+excludes universality of consent in anything but the name;
+for those wise men being very few, perhaps one of a thou-
+sand, this universality is very narrow.
+
+76
+
+Secondly, it seems to me plainly to prove, that the
+truest and best notions men have of God were not im-
+printed, but acquired by thought and meditation, anda
+right use of their faculties: since the wise and consider-
+ate men of the world, by a right and careful employ-
+ment of their thoughts and reason, attained true no-
+tions in this as well as other things; whilst the lazy and
+inconsiderate part of men, making far the greater num-
+ber, took up their notions by chance, from common
+tradition and vulgar conceptions, without much beat-
+ing their heads about them. And if it be a reason to
+think the notion of God innate, because all wise men
+had it, virtue too must be thought innate; for that also
+wise men have always had.
+
+17. Odd, low, and pitiful ideas of God common among
+men. This was evidently the case of all Gentilism. Nor
+hath even amongst Jews, Christians, and Mahometans,
+who acknowledged but one God, this doctrine, and the
+care taken in those nations to teach men to have true
+notions of a God, prevailed so far as to make men to
+have the same and the true ideas of him. How many
+
+John Locke
+
+even amongst us, will be found upon inquiry to fancy
+him in the shape of a man sitting in heaven; and to
+have many other absurd and unfit conceptions of him?
+Christians as well as Turks have had whole sects owning
+and contending earnestly for it,—that the Deity was
+corporeal, and of human shape: and though we find few
+now amongst us who profess themselves
+Anthropomorphites, (though some I have met with that
+own it,) yet I believe he that will make it his business
+may find amongst the ignorant and uninstructed Chris-
+tians many of that opinion. Talk but with country people,
+almost of any age, or young people almost of any condi-
+tion, and you shall find that, though the name of God
+be frequently in their mouths, yet the notions they
+apply this name to are so odd, low, and pitiful, that
+nobody can imagine they were taught by a rational man;
+much less that they were characters written by the fin-
+ger of God himself. Nor do I see how it derogates more
+from the goodness of God, that he has given us minds
+unfurnished with these ideas of himself, than that he
+
+hath sent us into the world with bodies unclothed; and
+
+a7
+
+that there is no art or skill born with us. For, being
+fitted with faculties to attain these, it is want of indus-
+try and consideration in us, and not of bounty in him,
+if we have them not. It is as certain that there is a God,
+as that the opposite angles made by the intersection of
+two straight lines are equal. There was never any ratio-
+nal creature that set himself sincerely to examine the
+truth of these propositions that could fail to assent to
+them; though yet it be past doubt that there are many
+men, who, having not applied their thoughts that way,
+are ignorant both of the one and the other. If any one
+think fit to call this (which is the utmost of its extent)
+universal consent, such an one I easily allow; but such
+an universal consent as this proves not the idea of God,
+any more than it does the idea of such angles, innate.
+18. If the idea of God be not innate, no other can be
+supposed innate. Since then though the knowledge of a
+God be the most natural discovery of human reason, yet
+the idea of him is not innate, as I think is evident from
+what has been said; I imagine there will be scarce any
+other idea found that can pretend to it. Since if God
+
+Human Understanding
+
+hath set any impression, any character, on the under-
+standing of men, it is most reasonable to expect it should
+have been some clear and uniform idea of Himself; as far
+as our weak capacities were capable to receive so incom-
+prehensible and infinite an object. But our minds being
+at first void of that idea which we are most concerned
+to have, it is a strong presumption against all other
+innate characters. I must own, as far as I can observe, I
+can find none, and would be glad to be informed by any
+other.
+
+19. Idea of substance not innate. I confess there is
+another idea which would be of general use for mankind
+to have, as it is of general talk as if they had it; and that
+is the idea of substance; which we neither have nor can
+have by sensation or reflection. If nature took care to
+provide us any ideas, we might well expect they should
+be such as by our own faculties we cannot procure to
+ourselves; but we see, on the contrary, that since, by
+those ways whereby other ideas are brought into our
+minds, this is not, we have no such clear idea at all; and
+therefore signify nothing by the word substance but
+
+78
+
+only an uncertain supposition of we know not what,
+i.e. of something whereof we have no [particular dis-
+tinct positive] idea, which we take to be the substra-
+tum, or support, of those ideas we do know.
+
+20. No propositions can be innate, since no ideas are
+innate. Whatever then we talk of innate, either specula-
+tive or practical, principles, it may with as much prob-
+ability be said, that a man hath £100 sterling in his
+pocket, and yet denied that he hath there either penny,
+shilling, crown, or other coin out of which the sum is
+to be made up; as to think that certain propositions are
+innate when the ideas about which they are can by no
+means be supposed to be so. The general reception and
+assent that is given doth not at all prove, that the ideas
+expressed in them are innate; for in many cases, how-
+ever the ideas came there, the assent to words express-
+ing the agreement or disagreement of such ideas, will
+necessarily follow. Every one that hath a true idea of
+God and worship, will assent to this proposition, “That
+God is to be worshipped,” when expressed in a language
+he understands; and every rational man that hath not
+
+John Locke
+
+thought on it to-day, may be ready to assent to this
+proposition to-morrow; and yet millions of men may be
+well supposed to want one or both those ideas to-day.
+For, if we will allow savages, and most country people,
+to have ideas of God and worship, (which conversation
+with them will not make one forward to believe,) yet I
+think few children can be supposed to have those ideas,
+which therefore they must begin to have some time or
+other; and then they will also begin to assent to that
+proposition, and make very little question of it ever
+after. But such an assent upon hearing, no more proves
+the ideas to be innate, than it does that one born blind
+(with cataracts which will be couched to-morrow) had
+the innate ideas of the sun, or light, or saffron, or yel-
+low; because, when his sight is cleared, he will certainly
+assent to this proposition, “That the sun is lucid, or
+that saffron is yellow.” And therefore, if such an assent
+upon hearing cannot prove the ideas innate, it can much
+less the propositions made up of those ideas. If they
+have any innate ideas, I would be glad to be told what,
+and how many, they are.
+
+719
+
+21. No innate ideas in the memory. To which let me
+add: if there be any innate ideas, any ideas in the mind
+which the mind does not actually think on, they must
+be lodged in the memory; and from thence must be
+brought into view by remembrance; i.e. must be known,
+when they are remembered, to have been perceptions in
+the mind before; unless remembrance can be without
+remembrance. For, to remember is to perceive anything
+with memory, or with a consciousness that it was per-
+ceived or known before. Without this, whatever idea
+comes into the mind is new, and not remembered; this
+consciousness of its having been in the mind before,
+being that which distinguishes remembering from all
+other ways of thinking. Whatever idea was never per-
+ceived by the mind was never in the mind. Whatever
+idea is in the mind, is, either an actual perception, or
+else, having been an actual perception, is so in the mind
+that, by the memory, it can be made an actual percep-
+tion again. Whenever there is the actual perception of
+any idea without memory, the idea appears perfectly
+new and unknown before to the understanding. When-
+
+Human Understanding
+
+ever the memory brings any idea into actual view, it is
+with a consciousness that it had been there before, and
+was not wholly a stranger to the mind. Whether this be
+not so, I appeal to every one’s observation. And then I
+desire an instance of an idea, pretended to be innate,
+which (before any impression of it by ways hereafter to
+be mentioned) any one could revive and remember, as
+an idea he had formerly known; without which con-
+sciousness of a former perception there is no remem-
+brance; and whatever idea comes into the mind without
+that consciousness is not remembered, or comes not
+out of the memory, nor can be said to be in the mind
+before that appearance. For what is not either actually
+in view or in the memory, is in the mind no way at all,
+and is all one as if it had never been there. Suppose a
+child had the use of his eyes till he knows and distin-
+guishes colours; but then cataracts shut the windows,
+and he is forty or fifty years perfectly in the dark; and
+in that time perfectly loses all memory of the ideas of
+colours he once had. This was the case of a blind man I
+once talked with, who lost his sight by the small-pox
+
+80
+
+when he was a child, and had no more notion of colours
+than one born blind. I ask whether any one can say this
+man had then any ideas of colours in his mind, any
+more than one born blind? And I think nobody will say
+that either of them had in his mind any ideas of colours
+at all. His cataracts are couched, and then he has the
+ideas (which he remembers not) of colours, de novo, by
+his restored sight, conveyed to his mind, and that with-
+out any consciousness of a former acquaintance. And
+these now he can revive and call to mind in the dark. In
+this case all these ideas of colours, which, when out of
+view, can be revived with a consciousness of a former
+acquaintance, being thus in the memory, are said to be
+in the mind. The use I make of this is,—that whatever
+idea, being not actually in view, is in the mind, is there
+only by being in the memory; and if it be not in the
+memory, it is not in the mind; and if it be in the memory,
+it cannot by the memory be brought into actual view
+without a perception that it comes out of the memory;
+which is this, that it had been known before, and is
+now remembered. If therefore there be any innate ideas,
+
+John Locke
+
+they must be in the memory, or else nowhere in the
+mind; and if they be in the memory, they can be revived
+without any impression from without; and whenever
+they are brought into the mind they are remembered,
+i.e. they bring with them a perception of their not be-
+ing wholly new to it. This being a constant and distin-
+guishing difference between what is, and what is not in
+the memory, or in the mind;—that what is not in the
+memory, whenever it appears there, appears perfectly
+new and unknown before; and what is in the memory,
+or in the mind, whenever it is suggested by the memory,
+appears not to be new, but the mind finds it in itself,
+and knows it was there before. By this it may be tried
+whether there be any innate ideas in the mind before
+impression from sensation or reflection. I would fain
+meet with the man who, when he came to the use of
+reason, or at any other time, remembered any of them;
+and to whom, after he was born, they were never new.
+If any one will say, there are ideas in the mind that are
+not in the memory, I desire him to explain himself, and
+make what he says intelligible.
+
+81
+
+22. Principles not innate, because of little use or little
+certainty. Besides what I have already said, there is an-
+other reason why I doubt that neither these nor any
+other principles are innate. I that am fully persuaded
+that the infinitely wise God made all things in perfect
+wisdom, cannot satisfy myself why he should be sup-
+posed to print upon the minds of men some universal
+principles; whereof those that are pretended innate, and
+concern speculation, are of no great use; and those that
+concern practice, not self-evident; and neither of them
+distinguishable from some other truths not allowed to
+be innate. For, to what purpose should characters be
+graven on the mind by the finger of God, which are not
+clearer there than those which are afterwards intro-
+duced, or cannot be distinguished from them? If any
+one thinks there are such innate ideas and propositions,
+which by their clearness and usefulness are distinguish-
+able from all that is adventitious in the mind and ac-
+quired, it will not be a hard matter for him to tell us
+which they are; and then every one will be a fit judge
+whether they be so or no. Since if there be such innate
+
+Human Understanding
+
+ideas and impressions, plainly different from all other
+perceptions and knowledge, every one will find it true
+in himself of the evidence of these supposed innate max-
+ims, I have spoken already: of their usefulness I shall
+have occasion to speak more hereafter.
+
+23. Difference of men’s discoveries depends upon the
+different application of their faculties. To conclude: some
+ideas forwardly offer themselves to all men’s understand-
+ing; and some sorts of truths result from any ideas, as
+soon as the mind puts them into propositions: other
+truths require a train of ideas placed in order, a due
+comparing of them, and deductions made with atten-
+tion, before they can be discovered and assented to.
+Some of the first sort, because of their general and easy
+reception, have been mistaken for innate: but the truth
+is, ideas and notions are no more born with us than arts
+and sciences; though some of them indeed offer them-
+selves to our faculties more readily than others; and
+therefore are more generally received: though that too
+be according as the organs of our bodies and powers of
+our minds happen to be employed; God having fitted
+
+82
+
+men with faculties and means to discover, receive, and
+retain truths, according as they are employed. The great
+difference that is to be found in the notions of mankind
+is, from the different use they put their faculties to.
+Whilst some (and those the most) taking things upon
+trust, misemploy their power of assent, by lazily enslav-
+ing their minds to the dictates and dominion of others,
+in doctrines which it is their duty carefully to examine,
+and not blindly, with an implicit faith, to swallow; oth-
+ers, employing their thoughts only about some few
+things, grow acquainted sufficiently with them, attain
+great degrees of knowledge in them, and are ignorant of
+all other, having never let their thoughts loose in the
+search of other inquiries. Thus, that the three angles of
+a triangle are quite equal to two right ones is a truth as
+certain as anything can be, and I think more evident
+than many of those propositions that go for principles;
+and yet there are millions, however expert in other
+things, who know not this at all, because they never set
+their thoughts on work about such angles. And he that
+certainly knows this proposition may yet be utterly igno-
+
+John Locke
+
+rant of the truth of other propositions, in mathematics
+itself, which are as clear and evident as this; because, in
+his search of those mathematical truths, he stopped his
+thoughts short and went not so far. The same may hap-
+pen concerning the notions we have of the being of a
+Deity. For, though there be no truth which a man may
+more evidently make out to himself than the existence of
+a God, yet he that shall content himself with things as he
+finds them in this world, as they minister to his pleasures
+and passions, and not make inquiry a little further into
+their causes, ends, and admirable contrivances, and pur-
+sue the thoughts thereof with diligence and attention,
+may live long without any notion of such a Being. And if
+any person hath by talk put such a notion into his head,
+he may perhaps believe it; but if he hath never examined
+it, his knowledge of it will be no perfecter than his, who
+having been told, that the three angles of a triangle are
+equal to two right ones, takes it upon trust, without
+examining the demonstration; and may yield his assent
+as a probable opinion, but hath no knowledge of the
+truth of it; which yet his faculties, if carefully employed,
+
+83
+
+were able to make clear and evident to him. But this only,
+by the by, to show how much our knowledge depends
+upon the right use of those powers nature hath bestowed
+upon us, and how little upon such innate principles as
+are in vain supposed to be in all mankind for their direc-
+tion; which all men could not but know if they were
+there, or else they would be there to no purpose. And
+which since all men do not know, nor can distinguish
+from other adventitious truths, we may well conclude
+there are no such.
+
+24. Men must think and know for themselves. What
+censure doubting thus of innate principles may deserve
+from men, who will be apt to call it pulling up the old
+foundations of knowledge and certainty, I cannot tell;—
+I persuade myself at least that the way I have pursued,
+being conformable to truth, lays those foundations surer.
+This I am certain, I have not made it my business either
+to quit or follow any authority in the ensuing Discourse.
+Truth has been my only aim; and wherever that has
+appeared to lead, my thoughts have impartially followed,
+without minding whether the footsteps of any other lay
+
+Human Understanding
+
+that way or not. Not that I want a due respect to other
+men’s opinions; but, after all, the greatest reverence is
+due to truth: and I hope it will not be thought arro-
+gance to say, that perhaps we should make greater
+progress in the discovery of rational and contemplative
+knowledge, if we sought it in the fountain, in the con-
+sideration of things themselves; and made use rather of
+our own thoughts than other men’s to find it. For I
+think we may as rationally hope to see with other men’s
+eyes, as to know by other men’s understandings. So much
+as we ourselves consider and comprehend of truth and
+reason, so much we possess of real and true knowledge.
+The floating of other men’s opinions in our brains, makes
+us not one jot the more knowing, though they happen
+to be true. What in them was science, is in us but
+opiniatrety; whilst we give up our assent only to rever-
+end names, and do not, as they did, employ our own
+reason to understand those truths which gave them
+reputation. Aristotle was certainly a knowing man, but
+nobody ever thought him so because he blindly em-
+braced, and confidently vented the opinions of another.
+
+84
+
+And if the taking up of another's principles, without
+examining them, made not him a philosopher, I suppose
+it will hardly make anybody else so. In the sciences,
+every one has so much as he really knows and compre-
+hends. What he believes only, and takes upon trust, are
+but shreds; which, however well in the whole piece,
+make no considerable addition to his stock who gathers
+them. Such borrowed wealth, like fairy money, though
+it were gold in the hand from which he received it, will
+be but leaves and dust when it comes to use.
+
+25. Whence the opinion of innate principles. When men
+have found some general propositions that could not be
+doubted of as soon as understood, it was, I know, a
+short and easy way to conclude them innate. This being
+once received, it eased the lazy from the pains of search,
+and stopped the inquiry of the doubtful concerning all
+that was once styled innate. And it was of no small
+advantage to those who affected to be masters and teach-
+ers, to make this the principle of principles,—that prin-
+ciples must not he questioned. For, having once estab-
+lished this tenet,—that there are innate principles, it
+
+John Locke
+
+put their followers upon a necessity of receiving some
+doctrines as such; which was to take them off from the
+use of their own reason and judgment, and put them on
+believing and taking them upon trust without further
+examination: in which posture of blind credulity, they
+might be more easily governed by, and made useful to
+some sort of men, who had the skill and office to prin-
+ciple and guide them. Nor is it a small power it gives one
+man over another, to have the authority to be the dic-
+tator of principles, and teacher of unquestionable truths;
+and to make a man swallow that for an innate principle
+which may serve to his purpose who teacheth them.
+Whereas had they examined the ways whereby men came
+to the knowledge of many universal truths, they would
+have found them to result in the minds of men from the
+being of things themselves, when duly considered; and
+that they were discovered by the application of those
+faculties that were fitted by nature to receive and judge
+of them, when duly employed about them.
+
+26. Conclusion. To show how the understanding pro-
+ceeds herein is the design of the following Discourse;
+
+85
+
+which I shall proceed to when I have first premised,
+that hitherto,—to clear my way to those foundations
+which I conceive are the only true ones, whereon to
+establish those notions we can have of our own knowl-
+edge,—it hath been necessary for me to give an ac-
+count of the reasons I had to doubt of innate principles.
+And since the arguments which are against them do,
+some of them, rise from common received opinions, I
+have been forced to take several things for granted; which
+is hardly avoidable to any one, whose task is to show
+the falsehood or improbability of any tenet;—it hap-
+pening in controversial discourses as it does in assault-
+ing of towns; where, if the ground be but firm whereon
+the batteries are erected, there is no further inquiry of
+whom it is borrowed, nor whom it belongs to, so it
+affords but a fit rise for the present purpose. But in the
+future part of this Discourse, designing to raise an edi-
+fice uniform and consistent with itself, as far as my own
+experience and observation will assist me, I hope to erect
+it on such a basis that I shall not need to shore it up
+with props and buttresses, leaning on borrowed or begged
+
+Human Understanding
+
+foundations: or at least, if mine prove a castle in the air,
+I will endeavour it shall be all of a piece and hang to-
+gether. Wherein I warn the reader not to expect undeni-
+able cogent demonstrations, unless I may be allowed the
+privilege, not seldom assumed by others, to take my
+principles for granted; and then, I doubt not, but I can
+demonstrate too. All that I shall say for the principles I
+proceed on is, that I can only appeal to men’s own un-
+prejudiced experience and observation whether they be
+true or not; and this is enough for a man who professes
+no more than to lay down candidly and freely his own
+conjectures, concerning a subject lying somewhat in the
+dark, without any other design than an unbiased in-
+quiry after truth.
+
+86
+
+BOOK II
+Of Ideas
+
+Chapter I
+Of Ideas in general, and their Original
+
+1. Idea is the object of thinking. Every man being con-
+scious to himself that he thinks; and that which his
+mind is applied about whilst thinking being the ideas
+that are there, it is past doubt that men have in their
+minds several ideas,—such as are those expressed by
+the words whiteness, hardness, sweetness, thinking,
+motion, man, elephant, army, drunkenness, and others:
+it is in the first place then to be inquired, How he comes
+by them?
+
+I know it is a received doctrine, that men have native
+ideas, and original characters, stamped upon their minds
+in their very first being. This opinion I have at large
+examined already; and, I suppose what I have said in
+the foregoing Book will be much more easily admitted,
+when I have shown whence the understanding may get
+
+John Locke
+
+all the ideas it has; and by what ways and degrees they
+may come into the mind;—for which I shall appeal to
+every one’s own observation and experience.
+
+2. All ideas come from sensation or reflection. Let us
+then suppose the mind to be, as we say, white paper,
+void of all characters, without any ideas:—How comes
+it to be furnished? Whence comes it by that vast store
+which the busy and boundless fancy of man has painted
+on it with an almost endless variety? Whence has it all
+the materials of reason and knowledge? To this I answer,
+in one word, from experience. In that all our knowledge
+is founded; and from that it ultimately derives itself.
+Our observation employed either, about external sen-
+sible objects, or about the in ternal operations of our
+minds perceived and reflected on by ourselves, is that
+which supplies our understandings with all the materi-
+als of thinking. These two are the fountains of knowl-
+edge, from whence all the ideas we have, or can natu-
+rally have, do spring.
+
+3. The objects of sensation one source of ideas. First,
+our Senses, conversant about particular sensible objects,
+
+87
+
+do convey into the mind several distinct perceptions of
+things, according to those various ways wherein those
+objects do affect them. And thus we come by those ideas
+we have of yellow, white, heat, cold, soft, hard, bitter,
+sweet, and all those which we call sensible qualities;
+which when I say the senses convey into the mind, I
+mean, they from external objects convey into the mind
+what produces there those perceptions. This great source
+of most of the ideas we have, depending wholly upon
+our senses, and derived by them to the understanding,
+I call sensation.
+
+4. The operations of our minds, the other source of
+them. Secondly, the other fountain from which experi-
+ence furnisheth the understanding with ideas is,—the
+perception of the operations of our own mind within
+us, as it is employed about the ideas it has got;—which
+operations, when the soul comes to reflect on and con-
+sider, do furnish the understanding with another set of
+ideas, which could not be had from things without. And
+such are perception, thinking, doubting, believing, rea-
+soning, knowing, willing, and all the different actings
+
+Human Understanding
+
+of our own minds;—which we being conscious of, and
+observing in ourselves, do from these receive into our
+understandings as distinct ideas as we do from bodies
+affecting our senses. This source of ideas every man has
+wholly in himself; and though it be not sense, as having
+nothing to do with external objects, yet it is very like
+it, and might properly enough be called internal sense.
+But as I call the other sensation, so I Call this reflection,
+the ideas it affords being such only as the mind gets by
+reflecting on its own operations within itself. By reflec-
+tion then, in the following part of this discourse, I would
+be understood to mean, that notice which the mind
+takes of its own operations, and the manner of them, by
+reason whereof there come to be ideas of these opera-
+tions in the understanding. These two, I say, viz. exter-
+nal material things, as the objects of sensation, and the
+operations of our own minds within, as the objects of
+reflection, are to me the only originals from whence all
+our ideas take their beginnings. The term operations
+here I use in a large sense, as comprehending not barely
+the actions of the mind about its ideas, but some sort of
+
+88
+
+passions arising sometimes from them, such as is the
+satisfaction or uneasiness arising from any thought.
+
+5. All our ideas are of the one or the other of these.
+The understanding seems to me not to have the least
+glimmering of any ideas which it doth not receive from
+one of these two. External objects furnish the mind
+with the ideas of sensible qualities, which are all those
+different perceptions they produce in us; and the mind
+furnishes the understanding with ideas of its own op-
+erations. These, when we have taken a full survey of
+them, and their several modes, combinations, and rela-
+tions, we shall find to contain all our whole stock of
+ideas; and that we have nothing in our minds which did
+not come in one of these two ways. Let any one exam-
+ine his own thoughts, and thoroughly search into his
+understanding; and then let him tell me, whether all
+the original ideas he has there, are any other than of
+the objects of his senses, or of the operations of his
+mind, considered as objects of his reflection. And how
+great a mass of knowledge soever he imagines to be lodged
+there, he will, upon taking a strict view, see that he has
+
+John Locke
+
+not any idea in his mind but what one of these two
+have imprinted;—though perhaps, with infinite variety
+compounded and enlarged by the understanding, as we
+shall see hereafter.
+
+6. Observable in children. He that attentively considers
+the state of a child, at his first coming into the world,
+will have little reason to think him stored with plenty of
+ideas, that are to be the matter of his future knowledge.
+It is by degrees he comes to be furnished with them.
+And though the ideas of obvious and familiar qualities
+imprint themselves before the memory begins to keep a
+register of time or order, yet it is often so late before
+some unusual qualities come in the way, that there are
+few men that cannot recollect the beginning of their
+acquaintance with them. And if it were worth while, no
+doubt a child might be so ordered as to have but a very
+few, even of the ordinary ideas, till he were grown up to
+a man. But all that are born into the world, being sur-
+rounded with bodies that perpetually and diversely af-
+fect them, variety of ideas, whether care be taken of it
+or not, are imprinted on the minds of children. Light
+
+89
+
+and colours are busy at hand everywhere, when the eye
+is but open; sounds and some tangible qualities fail not
+to solicit their proper senses, and force an entrance to
+the mind;—but yet, I think, it will be granted easily,
+that if a child were kept in a place where he never saw
+any other but black and white till he were a man, he
+would have no more ideas of scarlet or green, than he
+that from his childhood never tasted an oyster, or a
+pine-apple, has of those particular relishes.
+
+7. Men are differently furnished with these, according
+to the different objects they converse with. Men then
+come to be furnished with fewer or more simple ideas
+from without, according as the objects they converse
+with afford greater or less variety; and from the opera-
+tions of their minds within, according as they more or
+less reflect on them. For, though he that contemplates
+the operations of his mind, cannot but have plain and
+clear ideas of them; yet, unless he turn his thoughts
+that way, and considers them attentively, he will no
+more have clear and distinct ideas of all the operations
+of his mind, and all that may be observed therein, than
+
+Human Understanding
+
+he will have all the particular ideas of any landscape, or
+of the parts and motions of a clock, who will not turn
+his eyes to it, and with attention heed all the parts of it.
+The picture, or clock may be so placed, that they may
+come in his way every day; but yet he will have but a
+confused idea of all the parts they are made up of, till he
+applies himself with attention, to consider them each in
+particular.
+
+8. Ideas of reflection later, because they need atten-
+tion. And hence we see the reason why it is pretty late
+before most children get ideas of the operations of their
+own minds; and some have not any very clear or perfect
+ideas of the greatest part of them all their lives. Be-
+cause, though they pass there continually, yet, like float-
+ing visions, they make not deep impressions enough to
+leave in their mind clear, distinct, lasting ideas, till the
+understanding turns inward upon itself, reflects on its
+own operations, and makes them the objects of its own
+contemplation. Children when they come first into it,
+are surrounded with a world of new things, which, by a
+constant solicitation of their senses, draw the mind con-
+
+90
+
+stantly to them; forward to take notice of new, and apt
+to be delighted with the variety of changing objects.
+Thus the first years are usually employed and diverted
+in looking abroad. Men’s business in them is to acquaint
+themselves with what is to be found without; and so
+growing up in a constant attention to outward sensa-
+tions, seldom make any considerable reflection on what
+passes within them, till they come to be of riper years;
+and some scarce ever at all.
+
+9. The soul begins to have ideas when it begins to per-
+ceive. To ask, at what time a man has first any ideas, is
+to ask, when he begins to perceive;—having ideas, and
+perception, being the same thing. I know it is an opin-
+ion, that the soul always thinks, and that it has the
+actual perception of ideas in itself constantly, as long as
+it exists; and that actual thinking is as inseparable from
+the soul as actual extension is from the body; which if
+true, to inquire after the beginning of a man’s ideas is
+the same as to inquire after the beginning of his soul.
+For, by this account, soul and its ideas, as body and its
+extension, will begin to exist both at the same time.
+
+John Locke
+
+10. The soul thinks not always; for this wants proofs.
+But whether the soul be supposed to exist antecedent
+to, or coeval with, or some time after the first rudi-
+ments of organization, or the beginnings of life in the
+body, I leave to be disputed by those who have better
+thought of that matter. I confess myself to have one of
+those dull souls, that doth not perceive itself always to
+contemplate ideas; nor can conceive it any more neces-
+sary for the soul always to think, than for the body
+always to move: the perception of ideas being (as I con-
+ceive) to the soul, what motion is to the body; not its
+essence, but one of its operations. And therefore, though
+thinking be supposed never so much the proper action
+of the soul, yet it is not necessary to suppose that it
+should be always thinking, always in action. That, per-
+haps, is the privilege of the infinite Author and Pre-
+server of all things, who “never slumbers nor sleeps;”
+but is not competent to any finite being, at least not to
+the soul of man. We know certainly, by experience, that
+we sometimes think; and thence draw this infallible con-
+sequence,—that there is something in us that has a
+
+a1
+
+power to think. But whether that substance perpetu-
+ally thinks or no, we can be no further assured than
+experience informs us. For, to say that actual thinking
+is essential to the soul, and inseparable from it, is to beg
+what is in question, and not to prove it by reason;—
+which is necessary to be done, if it be not a self-evident
+proposition. But whether this, “That the soul always
+thinks,” be a self-evident proposition, that everybody
+assents to at first hearing, I appeal to mankind. It is
+doubted whether I thought at all last night or no. The
+question being about a matter of fact, it is begging it to
+bring, as a proof for it, an hypothesis, which is the very
+thing in dispute: by which way one may prove any-
+thing, and it is but supposing that all watches, whilst
+the balance beats, think, and it is sufficiently proved,
+and past doubt, that my watch thought all last night.
+But he that would not deceive himself, ought to build
+his hypothesis on matter of fact, and make it out by
+sensible experience, and not presume on matter of fact,
+because of his hypothesis, that is, because he supposes
+it to be so; which way of proving amounts to this, that
+
+Human Understanding
+
+I must necessarily think all last night, because another
+supposes I always think, though I myself cannot per-
+ceive that I always do so.
+
+But men in love with their opinions may not only
+suppose what is in question, but allege wrong matter of
+fact. How else could any one make it an inference of
+mine, that a thing is not, because we are not sensible of
+it in our sleep? I do not say there is no soul in a man,
+because he is not sensible of it in his sleep; but I do say,
+he cannot think at any time, waking or sleeping: with-
+out being sensible of it. Our being sensible of it is not
+necessary to anything but to our thoughts; and to them
+it is; and to them it always will be necessary, till we can
+think without being conscious of it.
+
+11. It is not always conscious of it. I grant that the
+soul, in a waking man, is never without thought, be-
+cause it is the condition of being awake. But whether
+sleeping without dreaming be not an affection of the
+whole man, mind as well as body, may be worth a wak-
+ing man’s consideration; it being hard to conceive that
+anything should think and not be conscious of it. If the
+
+02
+
+soul doth think in a sleeping man without being con-
+scious of it, I ask whether, during such thinking, it has
+any pleasure or pain, or be capable of happiness or mis-
+ery? I am sure the man is not; no more than the bed or
+earth he lies on. For to be happy or miserable without
+being conscious of it, seems to me utterly inconsistent
+and impossible. Or if it be possible that the soul can,
+whilst the body is sleeping, have its thinking, enjoy-
+ments, and concerns, its pleasures or pain, apart, which
+the man is not conscious of nor partakes in, —it is cer-
+tain that Socrates asleep and Socrates awake is not the
+same person; but his soul when he sleeps, and Socrates
+the man, consisting of body and soul, when he is wak-
+ing, are two persons: since waking Socrates has no knowl-
+edge of, or concernment for that happiness or misery of
+his soul, which it enjoys alone by itself whilst he sleeps,
+without perceiving anything of it; no more than he has
+for the happiness or misery of a man in the Indies, whom
+he knows not. For, if we take wholly away all conscious-
+ness of our actions and sensations, especially of pleasure
+and pain, and the concernment that accompanies it, it
+
+John Locke
+
+will be hard to know wherein to place personal identity.
+12. If a sleeping man thinks without knowing it, the
+sleeping and waking man are two persons. The soul,
+during sound sleep, thinks, say these men. Whilst it
+thinks and perceives, it is capable certainly of those of
+delight or trouble, as well as any other perceptions; and
+it must necessarily be conscious of its own perceptions.
+But it has all this apart: the sleeping man, it is plain, is
+conscious of nothing of all this. Let us suppose, then,
+the soul of Castor, while he is sleeping, retired from his
+body; which is no impossible supposition for the men I
+have here to do with, who so liberally allow life, with-
+out a thinking soul, to all other animals. These men
+cannot then judge it impossible, or a contradiction, that
+the body should live without the soul; nor that the soul
+should subsist and think, or have perception, even per-
+ception of happiness or misery, without the body. Let
+us then, I say, suppose the soul of Castor separated
+during his sleep from his body, to think apart. Let us
+suppose, too, that it chooses for its scene of thinking
+the body of another man, v.g. Pollux, who is sleeping
+
+93
+
+without a soul. For, if Castor’s soul can think, whilst
+Castor is asleep, what Castor is never conscious of, it is
+no matter what place it chooses to think in. We have
+here, then, the bodies of two men with only one soul
+between them, which we will suppose to sleep and wake
+by turns; and the soul still thinking in the waking man,
+whereof the sleeping man is never conscious, has never
+the least perception. I ask, then, whether Castor and
+Pollux, thus with only one soul between them, which
+thinks and perceives in one what the other is never
+conscious of, nor is concerned for, are not two as dis-
+tinct persons as Castor and Hercules, or as Socrates and
+Plato were? And whether one of them might not be
+very happy, and the other very miserable? Just by the
+same reason, they make the soul and the man two per-
+sons, who make the soul think apart what the man is
+not conscious of. For, I suppose nobody will make iden-
+tity of persons to consist in the soul's being united to
+the very same numercial particles of matter. For if that
+be necessary to identity, it will be impossible, in that
+constant flux of the particles of our bodies, that any
+
+Human Understanding
+
+man should be the same person two days, or two mo-
+ments, together.
+
+13. Impossible to convince those that sleep without
+dreaming, that they think. Thus, methinks, every drowsy
+nod shakes their doctrine, who teach that the soul is
+always thinking. Those, at least, who do at any time
+sleep without dreaming, can never be convinced that
+their thoughts are sometimes for four hours busy with-
+out their knowing of it; and if they are taken in the
+very act, waked in the middle of that sleeping contem-
+plation, can give no manner of account of it.
+
+14. That men dream without remembering it, in vain
+urged. It will perhaps be said,—That the soul thinks
+even in the soundest sleep, but the memory retains it
+not. That the soul in a sleeping man should be this
+moment busy a thinking, and the next moment in a
+waking man not remember nor be able to recollect one
+jot of all those thoughts, is very hard to be conceived,
+and would need some better proof than bare assertion
+to make it be believed. For who can without any more
+ado, but being barely told so, imagine that the greatest
+
+94
+
+part of men do, during all their lives, for several hours
+every day, think of something, which if they were asked,
+even in the middle of these thoughts, they could re-
+member nothing at all of? Most men, I think, pass a
+great part of their sleep without dreaming. I once knew
+a man that was bred a scholar, and had no bad memory,
+who told me he had never dreamed in his life, till he had
+that fever he was then newly recovered of, which was
+about the five or six and twentieth year of his age. I
+suppose the world affords more such instances: at least
+every one’s acquaintance will furnish him with examples
+enough of such as pass most of their nights without
+dreaming.
+
+15. Upon this hypothesis, the thoughts of a sleeping
+man ought to be most rational. To think often, and
+never to retain it so much as one moment, is a very
+useless sort of thinking; and the soul, in such a state of
+thinking, does very little, if at all, excel that of a look-
+ing-glass, which constantly receives variety of images,
+or ideas, but retains none; they disappear and vanish,
+and there remain no footsteps of them; the looking-
+
+John Locke
+
+glass is never the better for such ideas, nor the soul for
+such thoughts. Perhaps it will be said, that in a waking
+man the materials of the body are employed, and made
+use of, in thinking; and that the memory of thoughts is
+retained by the impressions that are made on the brain,
+and the traces there left after such thinking; but that in
+the thinking of the soul, which is not perceived in a
+sleeping man, there the soul thinks apart, and making no
+use of the organs of the body, leaves no impressions on
+it, and consequently no memory of such thoughts. Not
+to mention again the absurdity of two distinct persons,
+which follows from this supposition, I answer, further,—
+That whatever ideas the mind can receive and contem-
+plate without the help of the body, it is reasonable to
+conclude it can retain without the help of the body too;
+or else the soul, or any separate spirit, will have but little
+advantage by thinking. If it has no memory of its own
+thoughts; if it cannot lay them up for its own use, and be
+able to recall them upon occasion; if it cannot reflect
+upon what is past, and make use of its former experi-
+ences, reasonings, and contemplations, to what purpose
+
+95
+
+does it think? They who make the soul a thinking thing,
+at this rate, will not make it a much more noble being
+than those do whom they condemn, for allowing it to be
+nothing but the subtilist parts of matter. Characters drawn
+on dust, that the first breath of wind effaces; or impres-
+sions made on a heap of atoms, or animal spirits, are
+altogether as useful, and render the subject as noble, as
+the thoughts of a soul that perish in thinking; that, once
+out of sight, are gone forever, and leave no memory of
+themselves behind them. Nature never makes excellent
+things for mean or no uses: and it is hardly to be con-
+ceived that our infinitely wise Creator should make so
+admirable a faculty which comes nearest the excellency of
+his own incomprehensible being, to be so idly and use-
+lessly employed, at least a fourth part of its time here, as
+to think constantly, without remembering any of those
+thoughts, without doing any good to itself or others, or
+being any way useful to any other part of the creation, If
+we will examine it, we shall not find, I suppose, the mo-
+tion of dull and senseless matter, any where in the uni-
+verse, made so little use of and so wholly thrown away.
+
+Human Understanding
+
+16. On this hypothesis, the soul must have ideas not
+derived from sensation or reflection, of which there is
+no appearance. It is true, we have sometimes instances
+of perception whilst we are asleep, and retain the memory
+of those thoughts: but how extravagant and incoherent
+for the most part they are; how little conformable to
+the perfection and order of a rational being, those who
+are acquainted with dreams need not be told. This I
+would willingly be satisfied in,—whether the soul, when
+it thinks thus apart, and as it were separate from the
+body, acts less rationally than when conjointly with it,
+or no. If its separate thoughts be less rational, then
+these men must say, that the soul owes the perfection
+of rational thinking to the body: if it does not, it is a
+wonder that our dreams should be, for the most part, so
+frivolous and irrational; and that the soul should retain
+none of its more rational soliloquies and meditations.
+
+17. If I think when I know it not, nobody else can
+know it. Those who so confidently tell us that the soul
+always actually thinks, I would they would also tell us,
+what those ideas are that are in the soul of a child,
+
+96
+
+before or just at the union with the body, before it hath
+received any by sensation. The dreams of sleeping men
+are, as I take it, all made up of the waking man’s ideas;
+though for the most part oddly put together. It is strange,
+if the soul has ideas of its own that it derived not from
+sensation or reflection, (as it must have, if it thought
+before it received any impressions from the body,) that
+it should never, in its private thinking, (so private, that
+the man himself perceives it not,) retain any of them
+the very moment it wakes out of them, and then make
+the man glad with new discoveries. Who can find it rea-
+son that the soul should, in its retirement during sleep,
+have so many hours’ thoughts, and yet never light on
+any of those ideas it borrowed not from sensation or
+reflection; or at least preserve the memory of none but
+such, which, being occasioned from the body, must needs
+be less natural to a spirit? It is strange the soul should
+never once in a man’s whole life recall over any of its
+pure native thoughts, and those ideas it had before it
+borrowed anything from the body; never bring into the
+waking man’s view any other ideas but what have a
+
+John Locke
+
+tang of the cask, and manifestly derive their original
+from that union. If it always thinks, and so had ideas
+before it was united, or before it received any from the
+body, it is not to be supposed but that during sleep it
+recollects its native ideas; and during that retirement
+from communicating with the body, whilst it thinks by
+itself, the ideas it is busied about should be, sometimes
+at least, those more natural and congenial ones which it
+had in itself, underived from the body, or its own opera-
+tions about them: which, since the waking man never
+remembers, we must from this hypothesis conclude ei-
+ther that the soul remembers something that the man
+does not; or else that memory belongs only to such
+ideas as are derived from the body, or the mind's opera-
+tions about them.
+
+18. How knows any one that the soul always thinks?
+For if it be not a self-evident proposition, it needs proof.
+I would be glad also to learn from these men who so
+confidently pronounce that the human soul, or, which
+is all one, that a man always thinks, how they come to
+know it; nay, how they come to know that they them-
+
+a7
+
+selves think when they themselves do not perceive it.
+This, I am afraid, is to be sure without proofs, and to
+know without perceiving. It is, I suspect, a confused
+notion, taken up to serve an hypothesis; and none of
+those clear truths, that either their own evidence forces
+us to admit, or common experience makes it impudence
+to deny. For the most that can be said of it is, that it is
+possible the soul may always think, but not always re-
+tain it in memory. And I say, it is as possible that the
+soul may not always think; and much more probable
+that it should sometimes not think, than that it should
+often think, and that a long while together, and not be
+conscious to itself, the next moment after, that it had
+thought.
+
+19. “That a man should be busy in thinking, and yet
+not retain it the next moment,” very improbable. To
+suppose the soul to think, and the man not to perceive
+it, is, as has been said, to make two persons in one man.
+And if one considers well these men’s way of speaking,
+one should be led into a suspicion that they do so. For
+they who tell us that the soul always thinks, do never,
+
+Human Understanding
+
+that I remember, say that a man always thinks. Can the
+soul think, and not the man? Or a man think, and not
+be conscious of it? This, perhaps, would be suspected of
+jargon in others. If they say the man thinks always, but
+is not always conscious of it, they may as well say his
+body is extended without having parts. For it is alto-
+gether as intelligible to say that a body is extended with-
+out parts, as that anything thinks without being con-
+scious of it, or perceiving that it does so. They who talk
+thus may, with as much reason, if it be necessary to
+their hypothesis, say that a man is always hungry, but
+that he does not always feel it; whereas hunger consists
+in that very sensation, as thinking consists in being
+conscious that one thinks. If they say that a man is
+always conscious to himself of thinking, I ask, How they
+know it? Consciousness is the perception of what passes
+in a man’s own mind. Can another man perceive that I
+am conscious of anything, when I perceive it not my-
+self? No man’s knowledge here can go beyond his expe-
+rience. Wake a man out of a sound sleep, and ask him
+what he was that moment thinking of. If he himself be
+
+98
+
+conscious of nothing he then thought on, he must be a
+notable diviner of thoughts that can assure him that he
+was thinking. May he not, with more reason, assure
+him he was not asleep? This is something beyond phi-
+losophy; and it cannot be less than revelation, that dis-
+covers to another thoughts in my mind, when I can find
+none there myself, And they must needs have a pen-
+etrating sight who can certainly see that I think, when
+I cannot perceive it myself, and when I declare that I do
+not; and yet can see that dogs or elephants do not think,
+when they give all the demonstration of it imaginable,
+except only telling us that they do so. This some may
+suspect to be a step beyond the Rosicrucians; it seeming
+easier to make one’s self invisible to others, than to
+make another's thoughts visible to me, which are not
+visible to himself. But it is but defining the soul to be “a
+substance that always thinks,” and the business is done.
+If such definition be of any authority, I know not what
+it can serve for but to make many men suspect that
+they have no souls at all; since they find a good part of
+their lives pass away without thinking. For no defini-
+
+John Locke
+
+tions that I know, no suppositions of any sect, are of
+force enough to destroy constant experience; and per-
+haps it is the affectation of knowing beyond what we
+perceive, that makes so much useless dispute and noise
+in the world.
+
+20. No ideas but from sensation and reflection, evi-
+dent, if we observe children. I see no reason, therefore,
+to believe that the soul thinks before the senses have
+furnished it with ideas to think on; and as those are
+increased and retained, so it comes, by exercise, to im-
+prove its faculty of thinking in the several parts of it; as
+well as, afterwards, by compounding those ideas, and
+reflecting on its own operations, it increases its stock,
+as well as facility in remembering, imagining, reasoning,
+and other modes of thinking.
+
+21. State of a child in the mother’s womb. He that will
+suffer himself to be informed by observation and experi-
+ence, and not make his own hypothesis the rule of na-
+ture, will find few signs of a soul accustomed to much
+thinking in a new-born child, and much fewer of any
+reasoning at all. And yet it is hard to imagine that the
+
+99
+
+rational soul should think so much, and not reason at
+all. And he that will consider that infants newly come
+into the world spend the greatest part of their time in
+sleep, and are seldom awake but when either hunger
+calls for the teat, or some pain (the most importunate
+of all sensations), or some other violent impression on
+the body, forces the mind to perceive and attend to
+it;—he, I say, who considers this, will perhaps find rea-
+son to imagine that a foetus in the mother’s womb dif-
+fers not much from the state of a vegetable, but passes
+the greatest part of its time without perception or
+thought; doing very little but sleep in a place where it
+needs not seek for food, and is surrounded with liquor,
+always equally soft, and near of the same temper; where
+the eyes have no light, and the ears so shut up are not
+very susceptible of sounds; and where there is little or
+no variety, or change of objects, to move the senses.
+
+22. The mind thinks in proportion to the matter it gets
+from experience to think about. Follow a child from its
+birth, and observe the alterations that time makes, and
+you shall find, as the mind by the senses comes more
+
+Human Understanding
+
+and more to be furnished with ideas, it comes to be
+more and more awake; thinks more, the more it has
+matter to think on. After some time it begins to know
+the objects which, being most familiar with it, have
+made lasting impressions. Thus it comes by degrees to
+know the persons it daily converses with, and distin-
+guishes them from strangers; which are instances and
+effects of its coming to retain and distinguish the ideas
+the senses convey to it. And so we may observe how the
+mind, by degrees, improves in these; and advances to
+the exercise of those other faculties of enlarging, com-
+pounding, and abstracting its ideas, and of reasoning
+about them, and reflecting upon all these; of which I
+shall have occasion to speak more hereafter.
+
+23. A man begins to have ideas when he first has sen-
+sation. What sensation is. If it shall be demanded then,
+when a man begins to have any ideas, I think the true
+answer is,—when he first has any sensation. For, since
+there appear not to be any ideas in the mind before the
+senses have conveyed any in, I conceive that ideas in
+the understanding are coeval with sensation; which is
+
+100
+
+such an impression or motion made in some part of the
+body, as produces some perception in the understand-
+ing. It is about these impressions made on our senses by
+outward objects that the mind seems first to employ
+itself, in such operations as we call perception, remem-
+bering, consideration, reasoning, &c.
+
+24. The original of all our knowledge. In time the mind
+comes to reflect on its own operations about the ideas
+got by sensation, and thereby stores itself with a new
+set of ideas, which I call ideas of reflection. These are
+the impressions that are made on our senses by outward
+objects that are extrinsical to the mind; and its own
+operations, proceeding from powers intrinsical and proper
+to itself, which, when reflected on by itself, become
+also objects of its contemplation—are, as I have said,
+the original of all knowledge. Thus the first capacity of
+human intellect is,—that the mind is fitted to receive
+the impressions made on it; either through the senses
+by outward objects, or by its own operations when it
+reflects on them. This is the first step a man makes
+towards the discovery of anything, and the groundwork
+
+John Locke
+
+whereon to build all those notions which ever he shall
+have naturally in this world. All those sublime thoughts
+which tower above the clouds, and reach as high as
+heaven itself, take their rise and footing here: in all that
+great extent wherein the mind wanders, in those re-
+mote speculations it may seem to be elevated with, it
+stirs not one jot beyond those ideas which sense or re-
+flection have offered for its contemplation.
+
+25. In the reception of simple ideas, the understanding
+is for the most part passive. In this part the under-
+standing is merely passive; and whether or no it will
+have these beginnings, and as it were materials of knowl-
+edge, is not in its own power. For the objects of our
+senses do, many of them, obtrude their particular ideas
+upon our minds whether we will or not; and the opera-
+tions of our minds will not let us be without, at least,
+some obscure notions of them. No man can be wholly
+ignorant of what he does when he thinks. These simple
+ideas, when offered to the mind, the understanding can
+no more refuse to have, nor alter when they are im-
+printed, nor blot them out and make new ones itself,
+
+101
+
+than a mirror can refuse, alter, or obliterate the images
+or ideas which the objects set before it do therein pro-
+duce. As the bodies that surround us do diversely affect
+our organs, the mind is forced to receive the impres-
+sions; and cannot avoid the perception of those ideas
+that are annexed to them.
+
+Chapter II
+Of Simple Ideas
+
+1. Uncompounded appearances. The better to under-
+stand the nature, manner, and extent of our knowledge,
+one thing is carefully to be observed concerning the
+ideas we have; and that is, that some of them are simple
+and some complex.
+
+Though the qualities that affect our senses are, in the
+things themselves, so united and blended, that there is
+no separation, no distance between them; yet it is plain,
+the ideas they produce in the mind enter by the senses
+simple and unmixed. For, though the sight and touch
+often take in from the same object, at the same time,
+
+Human Understanding
+
+different ideas;—as a man sees at once motion and colour;
+the hand feels softness and warmth in the same piece of
+wax: yet the simple ideas thus united in the same sub-
+ject, are as perfectly distinct as those that come in by
+different senses. The coldness and hardness which a man
+feels in a piece of ice being as distinct ideas in the mind
+as the smell and whiteness of a lily; or as the taste of
+sugar, and smell of a rose. And there is nothing can be
+plainer to a man than the clear and distinct perception
+he has of those simple ideas; which, being each in itself
+uncompounded, contains in it nothing but one uniform
+appearance, or conception in the mind, and is not dis-
+tinguishable into different ideas.
+
+2. The mind can neither make nor destroy them. These
+simple ideas, the materials of all our knowledge, are sug-
+gested and furnished to the mind only by those two
+ways above mentioned, viz. sensation and reflection.
+When the understanding is once stored with these simple
+ideas, it has the power to repeat, compare, and unite
+them, even to an almost infinite variety, and so can
+make at pleasure new complex ideas. But it is not in the
+
+102
+
+power of the most exalted wit, or enlarged understand-
+ing, by any quickness or variety of thought, to invent
+or frame one new simple idea in the mind, not taken in
+by the ways before mentioned: nor can any force of the
+understanding destroy those that are there. The domin-
+ion of man, in this little world of his own understanding
+being muchwhat the same as it is in the great world of
+visible things; wherein his power, however managed by
+art and skill, reaches no farther than to compound and
+divide the materials that are made to his hand; but can
+do nothing towards the making the least particle of new
+matter, or destroying one atom of what is already in
+being. The same inability will every one find in himself,
+who shall go about to fashion in his understanding one
+simple idea, not received in by his senses from external
+objects, or by reflection from the operations of his own
+mind about them. I would have any one try to fancy
+any taste which had never affected his palate; or frame
+the idea of a scent he had never smelt: and when he can
+do this, I will also conclude that a blind man hath ideas
+of colours, and a deaf man true distinct notions of sounds.
+
+John Locke
+
+3. Only the qualities that affect the senses are imagin-
+able. This is the reason why—though we cannot believe
+it impossible to God to make a creature with other or-
+gans, and more ways to convey into the understanding
+the notice of corporeal things than those five, as they are
+usually counted, which he has given to man—yet I think
+it is not possible for any man to imagine any other quali-
+ties in bodies, howsoever constituted, whereby they can
+be taken notice of, besides sounds, tastes, smells, visible
+and tangible qualities. And had mankind been made but
+with four senses, the qualities then which are the objects
+of the fifth sense had been as far from our notice, imagi-
+nation, and conception, as now any belonging to a sixth,
+seventh, or eighth sense can possibly be;—which, whether
+yet some other creatures, in some other parts of this vast
+and stupendous universe, may not have, will be a great
+presumption to deny. He that will not set himself proudly
+at the top of all things, but will consider the immensity
+of this fabric, and the great variety that is to be found in
+this little and inconsiderable part of it which he has to do
+with, may be apt to think that, in other mansions of it,
+
+there may be other and different intelligent beings, of
+whose faculties he has as little knowledge or apprehen-
+sion as a worm shut up in one drawer of a cabinet hath of
+the senses or understanding of a man; such variety and
+excellency being suitable to the wisdom and power of the
+Maker. I have here followed the common opinion of man’s
+having but five senses; though, perhaps, there may be
+justly counted more;—but either supposition serves
+equally to my present purpose.
+
+Chapter III
+Of Simple Ideas of Sense
+
+1. Division of simple ideas. The better to conceive the
+ideas we receive from sensation, it may not be amiss for
+us to consider them, in reference to the different ways
+whereby they make their approaches to our minds, and
+make themselves perceivable by us. First, then, There
+are some which come into our minds by one sense only.
+
+Secondly, There are others that convey themselves
+into the mind by more senses than one.
+
+103
+
+Human Understanding
+
+Thirdly, Others that are had from reflection only.
+
+Fourthly, There are some that make themselves way,
+and are suggested to the mind by all the ways of sensa-
+tion and reflection.
+
+We shall consider them apart under these several heads.
+
+Ideas of one sense. There are some ideas which have
+admittance only through one sense, which is peculiarly
+adapted to receive them. Thus light and colours, as white,
+red, yellow, blue; with their several degrees or shades and
+mixtures, as green, scarlet, purple, sea-green, and the
+rest, come in only by the eyes. All kinds of noises, sounds,
+and tones, only by the ears. The several tastes and smells,
+by the nose and palate. And if these organs, or the nerves
+which are the conduits to convey them from without to
+their audience in the brain,—the mind's presence-room
+(as I may so call it)—are any of them so disordered as not
+to perform their functions, they have no postern to be
+admitted by; no other way to bring themselves into view,
+and be perceived by the understanding.
+
+The most considerable of those belonging to the touch,
+are heat and cold, and solidity: all the rest, consisting
+
+104
+
+almost wholly in the sensible configuration, as smooth
+and rough; or else, more or less firm adhesion of the
+parts, as hard and soft, tough and brittle, are obvious
+enough.
+
+2. Few simple ideas have names. I think it will be need-
+less to enumerate all the particular simple ideas belong-
+ing to each sense. Nor indeed is it possible if we would;
+there being a great many more of them belonging to
+most of the senses than we have names for. The
+variety of smells, which are as many almost, if not more,
+than species of bodies in the world, do most of them
+want names. Sweet and stinking commonly serve our
+turn for these ideas, which in effect is little more than
+to call them pleasing or displeasing; though the smell of
+arose and violet, both sweet, are certainly very distinct
+ideas. Nor are the different tastes, that by our palates
+we receive ideas of, much better provided with names.
+Sweet, bitter, sour, harsh, and salt are almost all the
+epithets we have to denominate that numberless vari-
+ety of relishes, which are to be found distinct, not only
+in almost every sort of creatures, but in the different
+
+John Locke
+
+parts of the same plant, fruit, or animal. The same may
+be said of colours and sounds. I shall, therefore, in the
+account of simple ideas I am here giving, content myself
+to set down only such as are most material to our present
+purpose, or are in themselves less apt to be taken notice
+of though they are very frequently the ingredients of
+our complex ideas; amongst which, I think, I may well
+account solidity, which therefore I shall treat of in the
+next chapter.
+
+Chapter IV
+Idea of Solidity
+
+1. We receive this idea from touch. The idea of solidity
+we receive by our touch: and it arises from the resis-
+tance which we find in body to the entrance of any
+other body into the place it possesses, till it has left it.
+There is no idea which we receive more constantly from
+sensation than solidity. Whether we move or rest, in
+what posture soever we are, we always feel something
+under us that support us, and hinders our further sink-
+
+105
+
+ing downwards; and the bodies which we daily handle
+make us perceive that, whilst they remain between them,
+they do, by an insurmountable force, hinder the ap-
+proach of the parts of our hands that press them. That
+which thus hinders the approach of two bodies, when
+they are moved one towards another, I call solidity. I
+will not dispute whether this acceptation of the word
+solid be nearer to its original signification than that
+which mathematicians use it in. It suffices that I think
+the common notion of solidity will allow, if not justify,
+this use of it; but if any one think it better to call it
+impenetrability, he has my consent. Only I have thought
+the term solidity the more proper to express this idea,
+
+not only because of its vulgar use in that sense, but also
+because it carries something more of positive in it than
+impenetrability; which is negative, and is perhaps more
+a consequence of solidity, than solidity itself. This, of all
+other, seems the idea most intimately connected with,
+and essential to body; so as nowhere else to be found or
+imagined, but only in matter. And though our senses
+take no notice of it, but in masses of matter, of a bulk
+
+Human Understanding
+
+sufficient to cause a sensation in us: yet the mind, hav-
+ing once got this idea from such grosser sensible bodies,
+traces it further, and considers it, as well as figure, in
+the minutest particle of matter that can exist; and finds
+it inseparably inherent in body, wherever or however
+modified.
+
+2. Solidity fills space. This is the idea which belongs to
+body, whereby we conceive it to fill space. The idea of
+which filling of space is,—that where we imagine any
+space taken up by a solid substance, we conceive it so to
+possess it, that it excludes all other solid substances;
+and will for ever hinder any other two bodies, that move
+towards one another in a straight line, from coming to
+touch one another, unless it removes from between them
+in a line not parallel to that which they move in. This
+idea of it, th e bodies whichwe ordinarily handle suffi-
+ciently furnish us with.
+
+3. Distinct from space. This resistance, whereby it keeps
+other bodies out of the space which it possesses, is so
+great, that no force, how great soever, can surmount it.
+All the bodies in the world, pressing a drop of water on
+
+106
+
+all sides, will never be able to overcome the resistance
+which it will make, soft as it is, to their approaching
+one another, till it be removed out of their way: whereby
+our idea of solidity is distinguished both from pure space,
+which is capable neither of resistance nor motion; and
+from the ordinary idea of hardness. For a man may con-
+ceive two bodies at a distance, so as they may approach
+one another, without touching or displacing any solid
+thing, till their superficies come to meet; whereby, I
+think, we have the clear idea of space without solidity.
+For (not to go so far as annihilation of any particular
+body) I ask, whether a man cannot have the idea of the
+motion of one single body alone, without any other suc-
+ceeding immediately into its place? I think it is evident
+he can: the idea of motion in one body no more includ-
+ing the idea of motion in another, than the idea of a
+square figure in one body includes the idea of a square
+figure in another. I do not ask, whether bodies do so
+exist, that the motion of one body cannot really be
+without the motion of another. To determine this either
+way, 1s to beg the question for or against a vacuum. But
+
+John Locke
+
+my question is,—whether one cannot have the idea of
+one body moved, whilst others are at rest? And I think
+this no one will deny. If so, then the place it deserted
+gives us the idea of pure space without solidity; whereinto
+any other body may enter, without either resistance or
+protrusion of anything. When the sucker in a pump is
+drawn, the space it filled in the tube is certainly the
+same whether any other body follows the motion of the
+sucker or not: nor does it imply a contradiction that,
+upon the motion of one body, another that is only con-
+tiguous to it should not follow it. The necessity of such
+a motion is built only on the supposition that the world
+is full; but not on the distinct ideas of space and solid-
+ity, which are as different as resistance and not resis-
+tance, protrusion and not protrusion. And that men
+have ideas of space without a body, their very disputes
+about a vacuum plainly demonstrate, as is shown in
+another place.
+
+4. From hardness. Solidity is hereby also differenced
+from hardness, in that solidity consists in repletion, and
+so an utter exclusion of other bodies out of the space it
+
+107
+
+possesses: but hardness, in a firm cohesion of the parts
+of matter, making up masses of a sensible bulk, so that
+the whole does not easily change its figure. And indeed,
+hard and soft are names that we give to things only in
+relation to the constitutions of our own bodies; that
+being generally called hard by us, which will put us to
+pain sooner than change figure by the pressure of any
+part of our bodies; and that, on the contrary, soft, which
+changes the situation of its parts upon an easy and
+unpainful touch.
+
+But this difficulty of changing the situation of the
+sensible parts amongst themselves, or of the figure of
+the whole, gives no more solidity to the hardest body in
+the world than to the softest; nor is an adamant one jot
+more solid than water. For, though the two flat sides of
+two pieces of marble will more easily approach each other,
+between which there is nothing but water or air, than if
+there be a diamond between them; yet it is not that the
+parts of the diamond are more solid than those of water,
+or resist more; but because the parts of water, being
+more easily separable from each other, they will, by a
+
+Human Understanding
+
+side motion, be more easily removed, and give way to
+the approach of the two pieces of marble. But if they
+could be kept from making place by that side motion,
+they would eternally hinder the approach of these two
+pieces of marble, as much as the diamond; and it would
+be as impossible by any force to surmount their resis-
+tance, as to surmount the resistance of the parts of a
+diamond. The softest body in the world will as invinci-
+bly resist the coming together of any other two bodies,
+if it be not put out of the way, but remain between
+them, as the hardest that can be found or imagined. He
+that shall fill a yielding soft body well with air or water,
+will quickly find its resistance. And he that thinks that
+nothing but bodies that are hard can keep his hands
+from approaching one another, may be pleased to make
+a trial, with the air inclosed in a football. The experi-
+ment, I have been told, was made at Florence, with a
+hollow globe of gold filled with water, and exactly closed;
+which further shows the solidity of so soft a body as
+water. For the golden globe thus filled, being put into a
+press, which was driven by the extreme force of screws,
+
+108
+
+the water made itself way through the pores of that
+very close metal, and finding no room for a nearer ap-
+proach of its particles within, got to the outside, where
+it rose like a dew, and so fell in drops, before the sides of
+the globe could be made to yield to the violent compres-
+sion of the engine that squeezed it.
+
+5. On solidity depend impulse, resistance, and protru-
+sion. By this idea of solidity is the extension of body
+distinguished from the extension of space:—the exten-
+sion of body being nothing but the cohesion or continu-
+ity of solid, separable, movable parts; and the extension
+of space, the continuity of unsolid, inseparable, and im-
+movable parts. Upon the solidity of bodies also depend
+their mutual impulse, resistance, and protrusion. Of pure
+space then, and solidity, there are several (amongst which
+I confess myself one) who persuade themselves they have
+clear and distinct ideas; and that they can think on space,
+without anything in it that resists or is protruded by
+body. This is the idea of pure space, which they think
+they have as clear as any idea they can have of the exten-
+sion of body: the idea of the distance between the oppo-
+
+John Locke
+
+site parts of a concave superficies being equally as clear
+without as with the idea of any solid parts between: and
+on the other side, they persuade themselves that they
+have, distinct from that of pure space, the idea of some-
+thing that fills space, that can be protruded by the im-
+pulse of other bodies, or resist their motion. If there be
+others that have not these two ideas distinct, but con-
+found them, and make but one of them, I know not
+how men, who have the same idea under different names,
+or different ideas under the same name, can in that case
+talk with one another; any more than a man who, not
+being blind or deaf, has distinct ideas of the colour of
+scarlet and the sound of a trumpet, could discourse con-
+cerning scarlet colour with the blind man I mentioned
+in another place, who fancied that the idea of scarlet
+was like the sound of a trumpet.
+
+6. What solidity is. If any one ask me, What this solid-
+ity is, I send him to his senses to inform him. Let him
+put a flint or a football between his hands, and then
+endeavour to join them, and he will know. If he thinks
+this not a sufficient explication of solidity, what it is,
+
+109
+
+and wherein it consists; I promise to tell him what it is,
+and wherein it consists, when he tells me what thinking
+is, or wherein it consists; or explains to me what exten-
+sion or motion is, which perhaps seems much easier.
+The simple ideas we have, are such as experience teaches
+them us; but if, beyond that, we endeavour by words to
+make them clearer in the mind, we shall succeed no
+better than if we went about to clear up the darkness of
+a blind man’s mind by talking; and to discourse into him
+the ideas of light and colours. The reason of this I shall
+show in another place.
+
+Chapter V
+Of Simple Ideas of Divers Senses
+
+Ideas received both by seeing and touching. The ideas we
+get by more than one sense are, of space or extension,
+figure, rest, and motion. For these make perceivable im-
+pressions, both on the eyes and touch; and we can re-
+ceive and convey into our minds the ideas of the exten-
+sion, figure, motion, and rest of bodies, both by seeing
+
+Human Understanding
+
+and feeling. But having occasion to speak more at large
+of these in another place, I here only enumerate them.
+
+Chapter VI
+Of Simple Ideas of Reflection
+
+1. Simple ideas are the operations of mind about its
+other ideas. The mind receiving the ideas mentioned in
+the foregoing chapters from without, when it turns its
+view inward upon itself, and observes its own actions
+about those ideas it has, takes from thence other ideas,
+which are as capable to be the objects of its contempla-
+tion as any of those it received from foreign things.
+
+2. The idea of perception, and idea of willing, we have
+from reflection. The two great and principal actions of
+the mind, which are most frequently considered, and
+which are so frequent that every one that pleases may
+take notice of them in himself, are these two:—
+
+Perception, or Thinking; and
+Volition, or Willing.
+
+The power of thinking is called the Understanding,
+and the power of volition is called the Will; and these
+two powers or abilities in the mind are denominated
+faculties.
+
+Of some of the modes of these simple ideas of reflec-
+tion, such as are remembrance, discerning, reasoning,
+judging, knowledge, faith, &c., I shall have occasion to
+speak hereafter.
+
+Chapter VII
+Of Simple Ideas of both Sensation and Reflection
+
+1. Ideas of pleasure and pain. There be other simple
+ideas which convey themselves into the mind by all the
+ways of sensation and reflection, viz. pleasure or de-
+light, and its opposite, pain, or uneasiness; power; ex-
+istence; unity.
+
+2. Mix with almost all our other ideas. Delight or un-
+easiness, one or other of them, join themselves to al-
+most all our ideas both of sensation and reflection: and
+there is scarce any affection of our senses from with-
+
+110
+
+John Locke
+
+out, any retired thought of our mind within, which is
+not able to produce in us pleasure or pain. By pleasure
+and pain, I would be understood to signify, whatsoever
+delights or molests us; whether it arises from the
+thoughts of our minds, or anything operating on our
+bodies. For, whether we call it satisfaction, delight, plea-
+sure, happiness, &c., on the one side, or uneasiness,
+trouble, pain, torment, anguish, misery, &c., on the
+other, they are still but different degrees of the same
+thing, and belong to the ideas of pleasure and pain,
+delight or uneasiness; which are the names I shall most
+commonly use for those two sorts of ideas.
+
+3. As motives of our actions. The infinite wise Author of
+our being, having given us the power over several parts
+of our bodies, to move or keep them at rest as we think
+fit; and also. by the motion of them, to move ourselves
+and other contiguous bodies, in which consist all the
+actions of our body: having also given a power to our
+minds, in several instances, to choose, amongst its ideas,
+which it will think on, and to pursue the inquiry of this
+or that subject with consideration and attention, to ex-
+
+111
+
+cite us to these actions of thinking and motion that we
+are capable of,—has been pleased to join to several
+thoughts, and several sensations a perception of delight.
+If this were wholly separated from all our outward sensa-
+tions, and inward thoughts, we should have no reason to
+prefer one thought or action to another; negligence to
+attention, or motion to rest. And so we should neither
+stir our bodies, nor employ our minds, but let our thoughts
+(if I may so call it) run adrift, without any direction or
+design, and suffer the ideas of our minds, like unregarded
+shadows, to make their appearances there, as it happened,
+without attending to them. In which state man, however
+furnished with the faculties of understanding and will,
+would be a very idle, inactive creature, and pass his time
+only in a lazy, lethargic dream. It has therefore pleased
+our wise Creator to annex to several objects, and the
+ideas which we receive from them, as also to several of
+our thoughts, a concomitant pleasure, and that in sev-
+eral objects, to several degrees, that those faculties which
+he had endowed us with might not remain wholly idle
+and unemployed by us.
+
+Human Understanding
+
+4. Anend and use of pain. Pain has the same efficacy and
+use to set us on work that pleasure has, we being as
+ready to employ our faculties to avoid that, as to pursue
+this: only this is worth our consideration, that pain is
+often produced by the same objects and ideas that pro-
+duce pleasure in us. This their near conjunction, which
+makes us often feel pain in the sensations where we ex-
+pected pleasure, gives us new occasion of admiring the
+wisdom and goodness of our Maker, who, designing the
+preservation of our being, has annexed pain to the appli-
+cation of many things to our bodies, to warn us of the
+harm that they will do, and as advices to withdraw from
+them. But he, not designing our preservation barely, but
+the preservation of every part and organ in its perfec-
+tion, hath in many cases annexed pain to those very
+ideas which delight us. Thus heat, that is very agreeable
+to us in one degree, by a little greater increase of it proves
+no ordinary torment: and the most pleasant of all sensible
+objects, light itself, if there be too much of it, if increased
+beyond a due proportion to our eyes, causes a very pain-
+ful sensation. Which is wisely and favourably so ordered
+
+112
+
+by nature, that when any object does, by the vehemency
+of its operation, disorder the instruments of sensation,
+whose structures cannot but be very nice and delicate,
+we might, by the pain, be warned to withdraw, before
+the organ be quite put out of order, and so be unfitted
+for its proper function for the future. The consideration
+of those objects that produce it may well persuade us,
+that this is the end or use of pain. For, though great light
+be insufferable to our eyes, yet the highest degree of
+darkness does not at all disease them: because that, caus-
+ing no disorderly motion in it, leaves that curious organ
+unharmed in its natural state. But yet excess of cold as
+well as heat pains us: because it is equally destructive to
+that temper which is necessary to the preservation of
+life, and the exercise of the several functions of the body,
+and which consists in a moderate degree of warmth; or, if
+you please, a motion of the insensible parts of our bodies,
+confined within certain bounds.
+
+5. Another end. Beyond all this, we may find another
+reason why God hath scattered up and down several
+degrees of pleasure and pain, in all the things that environ
+
+John Locke
+
+and affect us; and blended them together in almost all
+that our thoughts and senses have to do with;—that
+we, finding imperfection, dissatisfaction, and want of
+complete happiness, in all the enjoyments which the
+creatures can afford us, might be led to seek it in the
+enjoyment of Him with whom there is fullness of joy,
+and at whose right hand are pleasures for evermore.
+
+6. Goodness of God in annexing pleasure and pain to
+our other ideas. Though what I have here said may not,
+perhaps, make the ideas of pleasure and pain clearer to
+us than our own experience does, which is the only way
+that we are capable of having them; yet the consider-
+ation of the reason why they are annexed to so many
+other ideas, serving to give us due sentiments of the
+wisdom and goodness of the Sovereign Disposer of all
+things, may not be unsuitable to the main end of these
+inquiries: the knowledge and veneration of him being
+the chief end of all our thoughts, and the proper busi-
+ness of all understandings.
+
+7. Ideas of existence and unity. Existence and Unity are
+two other ideas that are suggested to the understand-
+
+113
+
+ing by every object without, and every idea within. When
+ideas are in our minds, we consider them as being actu-
+ally there, as well as we consider things to be actually
+without us;—which is, that they exist, or have exist-
+ence. And whatever we can consider as one thing,
+whether a real being or idea, suggests to the under-
+standing the idea of unity.
+
+8. Idea of power. Power also is another of those simple
+ideas which we receive from sensation and reflection.
+For, observing in ourselves that we do and can think,
+and that we can at pleasure move several parts of our
+bodies which were at rest; the effects, also, that natural
+bodies are able to produce in one another, occurring
+every moment to our senses,—we both these ways get
+the idea of power.
+
+9. Idea of succession. Besides these there is another
+idea, which, though suggested by our senses, yet is
+more constantly offered to us by what passes in our
+minds; and that is the idea of succession. For if we look
+immediately into ourselves, and reflect on what is ob-
+servable there, we shall find our ideas always, whilst we
+
+Human Understanding
+
+are awake, or have any thought, passing in train, one
+going and another coming, without intermission.
+
+10. Simple ideas the materials of all our knowledge.
+These, if they are not all, are at least (as I think) the
+most considerable of those simple ideas which the mind
+has, and out of which is made all its other knowledge;
+all which it receives only by the two forementioned ways
+of sensation and reflection.
+
+Nor let any one think these too narrow bounds for
+the capacious mind of man to expatiate in, which takes
+its flight further than the stars, and cannot be confined
+by the limits of the world; that extends its thoughts
+often even beyond the utmost expansion of Matter, and
+makes excursions into that incomprehensible Inane. I
+grant all this, but desire any one to assign any simple
+idea which is not received from one of those inlets be-
+fore mentioned, or any complex idea not made out of
+those simple ones. Nor will it be so strange to think
+these few simple ideas sufficient to employ the quickest
+thought, or largest capacity; and to furnish the materi-
+als of all that various knowledge, and more various fan-
+
+114
+
+cies and opinions of all mankind, if we consider how
+many words may be made out of the various composi-
+tion of twenty-four letters; or if, going one step fur-
+ther, we will but reflect on the variety of combinations
+that may be made with barely one of the above-men-
+tioned ideas, viz. number, whose stock is inexhaustible
+and truly infinite: and what a large and immense field
+doth extension alone afford the mathematicians?
+
+Chapter VIII
+Some further considerations concerning our
+Simple Ideas of Sensation
+
+1. Positive ideas from privative causes. Concerning the
+simple ideas of Sensation, it is to be considered,—that
+whatsoever is so constituted in nature as to be able, by
+affecting our senses, to cause any perception in the mind,
+doth thereby produce in the understanding a simple idea;
+which, whatever be the external cause of it, when it
+comes to be taken notice of by our discerning faculty, it
+is by the mind looked on and considered there to be a
+
+John Locke
+
+real positive idea in the understanding, as much as any
+other whatsoever; though, perhaps, the cause of it be
+but a privation of the subject.
+
+2. Ideas in the mind distinguished from that in things
+which gives rise to them. Thus the ideas of heat and cold,
+light and darkness, white and black, motion and rest, are
+equally clear and positive ideas in the mind; though, per-
+haps, some of the causes which produce them are barely
+privations, in those subjects from whence our senses de-
+rive those ideas. These the understanding, in its view of
+them, considers all as distinct positive ideas, without tak-
+ing notice of the causes that produce them: which is an
+inquiry not belonging to the idea, as it is in the under-
+standing, but to the nature of the things existing without
+us. These are two very different things, and carefully to be
+distinguished; it being one thing to perceive and know the
+idea of white or black, and quite another to examine what
+kind of particles they must be, and how ranged in the
+superficies, to make any object appear white or black.
+
+3. We may have the ideas when we are ignorant of their
+physical causes. A painter or dyer who never inquired
+
+115
+
+into their causes hath the ideas of white and black, and
+other colours, as clearly, perfectly, and distinctly in his
+understanding, and perhaps more distinctly, than the
+philosopher who hath busied himself in considering their
+natures, and thinks he knows how far either of them is,
+in its cause, positive or privative; and the idea of black
+is no less positive in his mind than that of white, how-
+ever the cause of that colour in the external object may
+be only a privation.
+
+4, Why a privative cause in nature may occasion a posi-
+tive idea. If it were the design of my present undertak-
+ing to inquire into the natural causes and manner of
+perception, I should offer this as a reason why a priva-
+tive cause might, in some cases at least, produce a posi-
+tive idea; viz. that all sensation being produced in us
+only by different degrees and modes of motion in our
+animal spirits, variously agitated by external objects,
+the abatement of any former motion must as necessarily
+produce a new sensation as the variation or increase of
+it; and so introduce a new idea, which depends only on
+a different motion of the animal spirits in that organ.
+
+Human Understanding
+
+5. Negative names need not be meaningless. But whether
+
+this be so or not I will not here determine, but appeal to
+every one’s own experience, whether the shadow of a
+man, though it consists of nothing but the absence of
+light (and the more the absence of light is, the more
+discernible is the shadow) does not, when a man looks
+on it, cause as clear and positive idea in his mind as a
+man himself, though covered over with clear sunshine?
+And the picture of a shadow is a positive thing. Indeed,
+we have negative names, which stand not directly for
+positive ideas, but for their absence, such as insipid,
+silence, nihil, &c.; which words denote positive ideas,
+v.g. taste, sound, being, with a signification of their
+absence.
+
+6. Whether any ideas are due to causes really privative.
+And thus one may truly be said to see darkness. For,
+supposing a hole perfectly dark, from whence no light is
+reflected, it is certain one may see the figure of it, or it
+may be painted; or whether the ink I write with makes
+any other idea, is a question. The privative causes I
+have here assigned of positive ideas are according to the
+
+116
+
+common opinion; but, in truth, it will be hard to deter-
+mine whether there be really any ideas from a privative
+cause, till it be determined, whether rest be any more a
+privation than motion.
+
+7. Ideas in the mind, qualities in bodies. To discover
+the nature of our ideas the better, and to discourse of
+them intelligibly, it will be convenient to distinguish
+them as they are ideas or perceptions in our minds; and
+as they are modifications of matter in the bodies that
+cause such perceptions in us: that so we may not think
+(as perhaps usually is done) that they are exactly the
+images and resemblances of something inherent in the
+subject; most of those of sensation being in the mind no
+more the likeness of something existing without us, than
+the names that stand for them are the likeness of our
+ideas, which yet upon hearing they are apt to excite in
+us.
+
+8. Our ideas and the qualities of bodies. Whatsoever the
+mind perceives in itself, or is the immediate object of
+perception, thought, or understanding, that I call idea;
+and the power to produce any idea in our mind, I call
+
+John Locke
+
+quality of the subject wherein that power is. Thus a
+snowball having the power to produce in us the ideas of
+white, cold, and round,—the power to produce those
+ideas in us, as they are in the snowball, I call qualities;
+and as they are sensations or perceptions in our under-
+standings, I call them ideas; which ideas, if I speak of
+sometimes as in the things themselves, I would be un-
+derstood to mean those qualities in the objects which
+produce them in us.
+
+9. Primary qualities of bodies. Qualities thus considered
+in bodies are,
+
+First, such as are utterly inseparable from the body, in
+what state soever it be; and such as in all the alter-
+ations and changes it suffers, all the force can be used
+upon it, it constantly keeps; and such as sense con-
+stantly finds in every particle of matter which has bulk
+enough to be perceived; and the mind finds inseparable
+from every particle of matter, though less than to make
+itself singly be perceived by our senses: v.g. Take a grain
+of wheat, divide it into two parts; each part has still
+solidity, extension, figure, and mobility: divide it again,
+
+117
+
+and it retains still the same qualities; and so divide it
+on, till the parts become insensible; they must retain
+still each of them all those qualities. For division (which
+is all that a mill, or pestle, or any other body, does upon
+another, in reducing it to insensible parts) can never
+take away either solidity, extension, figure, or mobility
+from any body, but only makes two or more distinct
+separate masses of matter, of that which was but one
+before; all which distinct masses, reckoned as so many
+distinct bodies, after division, make a certain numbey.
+These I call original or primary qualities of body, which
+I think we may observe to produce simple ideas in us,
+viz. solidity, extension, figure, motion or rest, and num-
+ber.
+
+10. Secondary qualities of bodies. Secondly, such quali-
+ties which in truth are nothing in the objects them-
+selves but power to produce various sensations in us by
+their primary qualities, i.e. by the bulk, figure, texture,
+and motion of their insensible parts, as colours, sounds,
+tastes, &c. These I call secondary qualities. To these might
+be added a third sort, which are allowed to be barely
+
+Human Understanding
+
+powers; though they are as much real qualities in the
+subject as those which I, to comply with the common
+way of speaking, call qualities, but for distinction, sec-
+ondary qualities. For the power in fire to produce a new
+colour, or consistency, in wax or clay,—by its primary
+qualities, is as much a quality in fire, as the power it has
+to produce in me a new idea or sensation of warmth or
+burning, which I felt not before,—by the same primary
+qualities, viz. the bulk, texture, and motion of its in-
+sensible parts.
+
+11. How bodies produce ideas in us. The next thing to
+be considered is, how bodies produce ideas in us; and
+that is manifestly by impulse, the only way which we
+can conceive bodies to operate in.
+
+12. By motions, external, and in our organism. If then
+external objects be not united to our minds when they
+produce ideas therein; and yet we perceive these origi-
+nal qualities in such of them as singly fall under our
+senses, it is evident that some motion must be thence
+continued by our nerves, or animal spirits, by some parts
+of our bodies, to the brains or the seat of sensation,
+
+118
+
+there to produce in our minds the particular ideas we
+have of them. And since the extension, figure, number,
+and motion of bodies of an observable bigness, may be
+perceived at a distance by the sight, it is evident some
+singly imperceptible bodies must come from them to the
+eyes, and thereby convey to the brain some motion;
+which produces these ideas which we have of them in
+us.
+
+13. How secondary qualities produce their ideas. After
+the same manner, that the ideas of these original quali-
+ties are produced in us, we may conceive that the ideas
+of secondary qualities are also produced, viz. by the
+operation of insensible particles on our senses. For, it
+being manifest that there are bodies and good store of
+bodies, each whereof are so small, that we cannot by
+any of our senses discover either their bulk, figure, or
+motion,—as is evident in the particles of the air and
+water, and others extremely smaller than those; per-
+haps as much smaller than the particles of air and water,
+as the particles of air and water are smaller than peas or
+hail-stones;—let us suppose at present that the differ-
+
+John Locke
+
+ent motions and figures, bulk and number, of such par-
+ticles, affecting the several organs of our senses, pro-
+duce in us those different sensations which we have
+from the colours and smells of bodies; v.g. that a violet,
+by the impulse of such insensible particles of matter, of
+peculiar figures and bulks, and in different degrees and
+modifications of their motions, causes the ideas of the
+blue colour, and sweet scent of that flower to be pro-
+duced in our minds. It being no more impossible to con-
+ceive that God should annex such ideas to such mo-
+tions, with which they have no similitude, than that he
+should annex the idea of pain to the motion of a piece of
+steel dividing our flesh, with which that idea hath no
+resemblance.
+
+14. They depend on the primary qualities. What I have
+said concerning colours and smells may be understood
+also of tastes and sounds, and other the like sensible
+qualities; which, whatever reality we by mistake attribute
+to them, are in truth nothing in the objects themselves,
+but powers to produce various sensations in us; and
+depend on those primary qualities, viz. bulk, figure,
+
+texture, and motion of parts as I have said.
+
+15. Ideas of primary qualities are resemblances; of sec-
+ondary, not. From whence I think it easy to draw this
+observation,—that the ideas of primary qualities of bodies
+are resemblances of them, and their patterns do really
+exist in the bodies themselves, but the ideas produced
+in us by these secondary qualities have no resemblance
+of them at all. There is nothing like our ideas, existing
+in the bodies themselves. They are, in the bodies we
+denominate from them, only a power to produce those
+sensations in us: and what is sweet, blue, or warm in
+idea, is but the certain bulk, figure, and motion of the
+insensible parts, in the bodies themselves, which we call
+so.
+
+16. Examples. Flame is denominated hot and light; snow,
+white and cold; and manna, white and sweet, from the
+ideas they produce in us. Which qualities are commonly
+thought to be the same in those bodies that those ideas
+are in us, the one the perfect resemblance of the other,
+as they are in a mirror, and it would by most men be
+judged very extravagant if one should say otherwise.
+
+119
+
+Human Understanding
+
+And yet he that will consider that the same fire that, at
+one distance produces in us the sensation of warmth,
+does, at a nearer approach, produce in us the far differ-
+ent sensation of pain, ought to bethink himself what
+reason he has to say—that this idea of warmth, which
+was produced in him by the fire, is actually in the fire;
+and his idea of pain, which the same fire produced in
+him the same way, is not in the fire. Why are whiteness
+and coldness in snow, and pain not, when it produces
+the one and the other idea in us; and can do neither,
+but by the bulk, figure, number, and motion of its solid
+parts?
+
+17. The ideas of the primary alone really exist. The
+particular bulk, number, figure, and motion of the parts
+of fire or snow are really in them,—whether any one’s
+senses perceive them or no: and therefore they may be
+called real qualities, because they really exist in those
+bodies. But light, heat, whiteness, or coldness, are no
+more really in them than sickness or pain is in manna.
+Take away the sensation of them; let not the eyes see
+light or colours, nor the ears hear sounds; let the palate
+
+120
+
+not taste, nor the nose smell, and all colours, tastes,
+odours, and sounds, as they are such particular ideas,
+vanish and cease, and are reduced to their causes, i.e.
+bulk, figure, and motion of parts.
+
+18. The secondary exist in things only as modes of the
+primary. A piece of manna of a sensible bulk is able to
+produce in us the idea of a round or square figure; and
+by being removed from one place to another, the idea of
+motion. This idea of motion represents it as it really is in
+manna moving: a circle or square are the same, whether
+in idea or existence, in the mind or in the manna. And
+this, both motion and figure, are really in the manna,
+whether we take notice of them or no: this everybody is
+ready to agree to. Besides, manna, by tie bulk, figure,
+texture, and motion of its parts, has a power to produce
+the sensations of sickness, and sometimes of acute pains
+or gripings in us. That these ideas of sickness and pain
+are not in the manna, but effects of its operations on
+us, and are nowhere when we feel them not; this also
+every one readily agrees to. And yet men are hardly to
+be brought to think that sweetness and whiteness are
+
+John Locke
+
+not really in manna; which are but the effects of the
+operations of manna, by the motion, size, and figure of
+its particles, on the eyes and palate: as the pain and
+sickness caused by manna are confessedly nothing but
+the effects of its operations on the stomach and guts,
+by the size, motion, and figure of its insensible parts,
+(for by nothing else can a body operate, as has been
+proved): as if it could not operate on the eyes and pal-
+ate, and thereby produce in the mind particular distinct
+ideas, which in itself it has not, as well as we allow it
+can operate on the guts and stomach, and thereby pro-
+duce distinct ideas, which in itself it has not. These
+ideas, being all effects of the operations of manna on
+several parts of our bodies, by the size, figure number,
+and motion of its parts;—why those produced by the
+eyes and palate should rather be thought to be really in
+the manna, than those produced by the stomach and
+guts; or why the pain and sickness, ideas that are the
+effect of manna, should be thought to be nowhere when
+they are not felt; and yet the sweetness and whiteness,
+effects of the same manna on other parts of the body,
+
+121
+
+by ways equally as unknown, should be thought to ex-
+ist in the manna, when they are not seen or tasted,
+would need some reason to explain.
+
+19. Examples. Let us consider the red and white colours
+in porphyry. Hinder light from striking on it, and its
+colours vanish; it no longer produces any such ideas in
+us: upon the return of light it produces these appear-
+ances on us again. Can any one think any real alter-
+ations are made in the porphyry by the presence or ab-
+sence of light; and that those ideas of whiteness and
+redness are really in porphyry in. the light, when it is
+plain it has no colour in the dark? It has, indeed, sucha
+configuration of particles, both night and day, as are
+apt, by the rays of light rebounding from some parts of
+that hard stone, to produce in us the idea of redness,
+and from others the idea of whiteness; but whiteness or
+redness are not in it at any time, but such a texture
+that hath the power to produce such a sensation in us.
+20. Pound an almond, and the clear white colour will
+be altered into a dirty one, and the sweet taste into an
+oily one. What real alteration can the beating of the
+
+Human Understanding
+
+pestle make in any body, but an alteration of the tex-
+ture of it?
+
+21. Explains how water felt as cold by one hand may be
+warm to the other. Ideas being thus distinguished and
+understood, we may be able to give an account how the
+same water, at the same time, may produce the idea of
+cold by one hand and of heat by the other: whereas it is
+impossible that the same water, if those ideas were re-
+ally in it, should at the same time be both hot and cold.
+For, if we imagine warmth, as it is in our hands, to be
+nothing but a certain sort and degree of motion in the
+minute particles of our nerves or animal spirits, we may
+understand how it is possible that the same water may,
+at the same time, produce the sensations of heat in one
+hand and cold in the other; which yet figure never does,
+that never producing—the idea of a square by one hand
+which has produced the idea of a globe by another. But
+if the sensation of heat and cold be nothing but the
+increase or diminution of the motion of the minute parts
+of our bodies, caused by the corpuscles of any other
+body, it is easy to be understood, that if that motion be
+
+122
+
+greater in one hand than in the other; if a body be
+applied to the two hands, which has in its minute par-
+ticles a greater motion than in those of one of the hands,
+and a less than in those of the other, it will increase the
+motion of the one hand and lessen it in the other; and
+so cause the different sensations of heat and cold that
+depend thereon.
+
+22. An excursion into natural philosophy. I have in
+what just goes before been engaged in physical inquiries
+a little further than perhaps I intended. But, it being
+necessary to make the nature of sensation a little un-
+derstood; and to make the difference between the quali-
+ties in bodies, and the ideas produced by them in the
+mind, to be distinctly conceived, without which it were
+impossible to discourse intelligibly of them;—I hope I
+shall be pardoned this little excursion into natural phi-
+losophy; it being necessary in our present inquiry to
+distinguish the primary and real qualities of bodies, which
+are always in them (viz. solidity, extension, figure, num-
+ber, and motion, or rest, and are sometimes perceived
+by us, viz. when the bodies they are in are big enough
+
+John Locke
+
+singly to be discerned), from those secondary and im-
+puted qualities, which are but the powers of several
+combinations of those primary ones, when they operate
+without being distinctly discerned;—whereby we may
+also come to know what ideas are, and what are not,
+resemblances of something really existing in the bodies
+we denominate from them.
+
+23. Three sorts of qualities in bodies. The qualities,
+then, that are in bodies, rightly considered, are of three
+sorts: —
+
+First, The bulk, figure, number, situation, and motion
+or rest of their solid parts. Those are in them, whether
+we perceive them or not; and when they are of that size
+that we can discover them, we have by these an idea of
+the thing as it is in itself; as is plain in artificial things.
+These I call primary qualities.
+
+Secondly, The power that is in any body, by reason of
+its insensible primary qualities, to operate after a pecu-
+liar manner on any of our senses, and thereby produce
+in us the different ideas of several colours, sounds, smells,
+tastes, &c. These are usually called sensible qualities.
+
+123
+
+Thirdly, The power that is in any body, by reason of
+the particular constitution of its primary qualities, to
+make such a change in the bulk, figure, texture, and
+motion of another body, as to make it operate on our
+senses differently from what it did before. Thus the sun
+has a power to make wax white, and fire to make lead
+fluid. These are usually called powers.
+
+The first of these, as has been said, I think may be
+properly called real, original, or primary qualities; be-
+cause they are in the things themselves, whether they
+are perceived or not: and upon their different modifica-
+tions it is that the secondary qualities depend.
+
+The other two are only powers to act differently upon
+other things: which powers result from the different
+modifications of those primary qualities.
+
+24. The first are resemblances; the second thought to
+be resemblances, but are not; the third neither are nor
+are thought so. But, though the two latter sorts of
+qualities are powers barely, and nothing but powers,
+relating to several other bodies, and resulting from the
+different modifications of the original qualities, yet they
+
+Human Understanding
+
+are generally otherwise thought of. For the second sort,
+viz, the powers to produce several ideas in us, by our
+senses, are looked upon as real qualities in the things
+thus affecting us: but the third sort are called and es-
+teemed barely powers. v.g. The idea of heat or light,
+which we receive by our eyes, or touch, from the sun,
+are commonly thought real qualities existing in the sun,
+and something more than mere powers in it. But when
+we consider the sun in reference to wax, which it melts
+or blanches, we look on the whiteness and softness pro-
+duced in the wax, not as qualities in the sun, but ef-
+fects produced by powers in it. Whereas, if rightly con-
+sidered, these qualities of light and warmth, which are
+perceptions in me when I am warmed or enlightened by
+the sun, are no otherwise in the sun, than the changes
+made in the wax, when it is blanched or melted, are in
+the sun. They are all of them equally powers in the sun,
+depending on its primary qualities; whereby it is able, in
+the one case, so to alter the bulk, figure, texture, or
+motion of some of the insensible parts of my eyes or
+hands, as thereby to produce in me the idea of light or
+
+124
+
+heat; and in the other, it is able so to alter the bulk,
+figure, texture, or motion of the insensible parts of the
+wax, as to make them fit to produce in me the distinct
+ideas of white and fluid.
+
+25. Why the secondary are ordinarily taken for real
+qualities, and not for bare powers. The reason why the
+one are ordinarily taken for real qualities, and the other
+only for bare powers, seems to be, because the ideas we
+have of distinct colours, sounds, &c., containing noth-
+ing at all in them of bulk, figure, or motion, we are not
+apt to think them the effects of these primary qualities;
+which appear not, to our senses, to operate in their
+production, and with which they have not any appar-
+ent congruity or conceivable connexion. Hence it is that
+we are so forward to imagine, that those ideas are the
+resemblances of something really existing in the objects
+themselves: since sensation discovers nothing of bulk,
+figure, or motion of parts in their production; nor can
+reason show how bodies, by their bulk, figure, and mo-
+tion, should produce in the mind the ideas of blue or
+yellow, &c. But, in the other case, in the operations of
+
+John Locke
+
+bodies changing the qualities one of another, we plainly
+discover that the quality produced hath commonly no
+resemblance with anything in the thing producing it;
+wherefore we look on it as a bare effect of power. For,
+through receiving the idea of heat or light from the
+sun, we are apt to think it is a perception and resem-
+blance of such a quality in the sun; yet when we see
+wax, or a fair face, receive change of colour from the
+sun, we cannot imagine that to be the reception or
+resemblance of anything in the sun, because we find
+not those different colours in the sun itself. For, our
+senses being able to observe a likeness or unlikeness of
+sensible qualities in two different external objects, we
+forwardly enough conclude the production of any sen-
+sible quality in any subject to be an effect of bare power,
+and not the communication of any quality which was
+really in the efficient, when we find no such sensible
+quality in the thing that produced it. But our senses,
+not being able to discover any unlikeness between the
+idea produced in us, and the quality of the object pro-
+ducing it, we are apt to imagine that our ideas are re-
+
+125
+
+semblances of something in the objects, and not the
+effects of certain powers placed in the modification of
+their primary qualities, with which primary qualities the
+ideas produced in us have no resemblance.
+
+26. Secondary qualities twofold; first, immediately per-
+ceivable; secondly, mediately perceivable. To conclude.
+Besides those before-mentioned primary qualities in bod-
+ies, viz. bulk, figure, extension, number, and motion of
+their solid parts; all the rest, whereby we take notice of
+bodies, and distinguish them one from another, are noth-
+ing else but several powers in them, depending on those
+primary qualities; whereby they are fitted, either by
+immediately operating on our bodies to produce several
+different ideas in us; or else, by operating on other bod-
+ies, so to change their primary qualities as to render
+them capable of producing ideas in us different from
+what before they did. The former of these, I think, may
+be called secondary qualities immediately perceivable:
+the latter, secondary qualities, mediately perceivable.
+
+Human Understanding
+
+Chapter IX
+Of Perception
+
+1. Perception the first simple idea of reflection. Percep-
+tion, as it is the first faculty of the mind exercised about
+our ideas; so it is the first and simplest idea we have
+from reflection, and is by some called thinking in gen-
+eral. Though thinking, in the propriety of the English
+tongue, signifies that sort of operation in the mind about
+its ideas, wherein the mind is active; where it, with
+some degree of voluntary attention, considers anything.
+For in bare naked perception, the mind is, for the most
+part, only passive; and what it perceives, it cannot avoid
+perceiving.
+
+2. Reflection alone can give us the idea of what percep-
+tion is. What perception is, every one will know better by
+reflecting on what he does himself, when he sees, hears,
+feels, &c., or thinks, than by any discourse of mine. Who-
+ever reflects on what passes in his own mind cannot miss
+it. And if he does not reflect, all the words in the world
+cannot make him have any notion of it.
+
+126
+
+3. Arises in sensation only when the mind notices the
+organic impression. This is certain, that whatever alter-
+ations are made in the body, if they reach not the mind;
+whatever impressions are made on the outward parts, if
+they are not taken notice of within, there is no percep-
+tion. Fire may burn our bodies with no other effect than it
+does a billet, unless the motion be continued to the brain,
+and there the sense of heat, or idea of pain, be produced in
+the mind; wherein consists actual perception.
+
+4. Impulse on the organ insufficient. How often may a
+man observe in himself, that whilst his mind is intently
+employed in the contemplation of some objects, and
+curiously surveying some ideas that are there, it takes
+no notice of impressions of sounding bodies made upon
+the organ of hearing, with the same alteration that uses
+to be for the producing the idea of sound? A sufficient
+impulse there may be on the organ; but it not reaching
+the observation of the mind, there follows no percep-
+tion: and though the motion that uses to produce the
+idea of sound be made in the ear, yet no sound is heard.
+Want of sensation, in this case, is not through any de-
+
+John Locke
+
+fect in the organ, or that the man’s ears are less af-
+fected than at other times when he does hear: but that
+which uses to produce the idea, though conveyed in by
+the usual organ, not being taken notice of in the un-
+derstanding, and so imprinting no idea in the mind,
+there follows no sensation. So that wherever there is
+sense or perception, there some idea is actually pro-
+duced, and present in the understanding.
+
+5. Children, though they may have ideas in the womb,
+have none innate. Therefore I doubt not but children,
+by the exercise of their senses about objects that affect
+them in the womb, receive some few ideas before they
+are born, as the unavoidable effects, either of the bod-
+ies that environ them, or else of those wants or diseases
+they suffer; amongst which (if one may conjecture con-
+cerning things not very capable of examination) I think
+the ideas of hunger and warmth are two: which prob-
+ably are some of the first that children have, and which
+they scarce ever part with again.
+
+6. The effects of sensation in the womb. But though it
+be reasonable to imagine that children receive some ideas
+
+127
+
+before they come into the world, yet these simple ideas
+are far from those innate principles which some con-
+tend for, and we, above, have rejected. These here men-
+tioned, being the effects of sensation, are only from
+some affections of the body, which happen to them there,
+and so depend on something exterior to the mind; no
+otherwise differing in their manner of production from
+other ideas derived from sense, but only in the prece-
+dency of time. Whereas those innate principles are sup-
+posed to be quite of another nature; not coming into
+the mind by any accidental alterations in, or operations
+on the body; but, as it were, original characters im-
+pressed upon it, in the very first moment of its being
+and constitution.
+
+7. Which ideas appear first, is not evident, nor impor-
+tant. As there are some ideas which we may reasonably
+suppose may be introduced into the minds of children
+in the womb, subservient to the necessities of their life
+and being there: so, after they are born, those ideas are
+the earliest imprinted which happen to be the sensible
+qualities which first occur to them; amongst which light
+
+Human Understanding
+
+is not the least considerable, nor of the weakest effi-
+cacy. And how covetous the mind is to be furnished
+with all such ideas as have no pain accompanying them,
+may be a little guessed by what is observable in children
+new-born; who always turn their eyes to that part from
+whence the light comes, lay them how you please. But
+the ideas that are most familiar at first, being various
+according to the divers circumstances of children’s first
+entertainment in the world, the order wherein the sev-
+eral ideas come at first into the mind is very various,
+and uncertain also; neither is it much material to know
+it.
+
+8. Sensations often changed by the judgment. We are
+further to consider concerning perception, that the ideas
+we receive by sensation are often, in grown people, al-
+tered by the judgment, without our taking notice of it.
+When we set before our eyes a round globe of any uni-
+form colour, v.g. gold, alabaster, or jet, it is certain that
+the idea thereby imprinted on our mind is of a flat circle,
+variously shadowed, with several degrees of light and
+brightness coming to our eyes. But we having, by use,
+
+128
+
+been accustomed to perceive what kind of appearance
+convex bodies are wont to make in us; what alterations
+are made in the reflections of light by the difference of
+the sensible figures of bodies;—the judgment presently,
+by an habitual custom, alters the appearances into their
+causes. So that from that which is truly variety of shadow
+or colour, collecting the figure, it makes it pass for a
+mark of figure, and frames to itself the perception of a
+convex figure and an uniform colour; when the idea we
+receive from thence is only a plane variously coloured,
+as is evident in painting. To which purpose I shall here
+insert a problem of that very ingenious and studious
+promoter of real knowledge, the learned and worthy Mr.
+Molyneux, which he was pleased to send me in a letter
+some months since; and it is this:—”’Suppose a man
+born blind, and now adult, and taught by his touch to
+distinguish between a cube and a sphere of the same
+metal, and nighly of the same bigness, so as to tell,
+when he felt one and the other, which is the cube,
+which the sphere. Suppose then the cube and sphere
+placed on a table, and the blind man be made to see:
+
+John Locke
+
+quaere, whether by his sight, before he touched them,
+he could now distinguish and tell which is the globe,
+which the cube?” To which the acute and judicious
+proposer answers, “Not. For, though he has obtained
+the experience of how a globe, how a cube affects his
+touch, yet he has not yet obtained the experience, that
+what affects his touch so or so, must affect his sight so
+or so; or that a protuberant angle in the cube, that
+pressed his hand unequally, shall appear to his eye as it
+does in the cube.”—I agree with this thinking gentle-
+man, whom I am proud to call my friend, in his answer
+to this problem; and am of opinion that the blind man,
+at first sight, would not be able with certainty to say
+which was the globe, which the cube, whilst he only
+saw them; though he could unerringly name them by
+his touch, and certainly distinguish them by the differ-
+ence of their figures felt. This I have set down, and
+leave with my reader, as an occasion for him to consider
+how much he may be beholden to experience, improve-
+ment, and acquired notions, where he thinks he had
+not the least use of, or help from them. And the rather,
+
+i273
+
+because this observing gentleman further adds, that
+“having, upon the occasion of my book, proposed this
+to divers very ingenious men, he hardly ever met with
+one that at first gave the answer to it which he thinks
+true, till by hearing his reasons they were convinced.”
+9. This judgment apt to be mistaken for direct percep-
+tion. But this is not, I think, usual in any of our ideas,
+but those received by sight. Because sight, the most
+comprehensive of all our senses, conveying to our minds
+the ideas of light and colours, which are peculiar only
+to that sense; and also the far different ideas of space,
+figure, and motion, the several varieties whereof change
+the appearances of its proper object, viz. light and
+colours; we bring ourselves by use to judge of the one
+by the other. This, in many cases by a settled habit, —in
+things whereof we have frequent experience, is performed
+so constantly and so quick, that we take that for the
+perception of our sensation which is an idea formed by
+our judgment; so that one, viz. that of sensation, serves
+only to excite the other, and is scarce taken notice of
+itself; —as a man who reads or hears with attention and
+
+Human Understanding
+
+understanding, takes little notice of the characters or
+sounds, but of the ideas that are excited in him by them.
+10. How, by habit, ideas of sensation are unconsciously
+changed into ideas of judgment. Nor need we wonder
+that this is done with so little notice, if we consider
+how quick the actions of the mind are performed. For,
+as itself is thought to take up no space, to have no
+extension; so its actions seem to require no time, but
+many of them seem to be crowded into an instant. I
+speak this in comparison to the actions of the body.
+Any one may easily observe this in his own thoughts,
+who will take the pains to reflect on them. How, as it
+were in an instant, do our minds, with one glance, see
+all the parts of a demonstration, which may very well be
+called a long one, if we consider the time it will require
+to put it into words, and step by step show it another?
+Secondly, we shall not be so much surprised that this is
+done in us with so little notice, if we consider how the
+facility which we get of doing things, by a custom of
+doing, makes them often pass in us without our notice.
+Habits, especially such as are begun very early, come at
+
+130
+
+last to produce actions in us, which often escape our
+observation. How frequently do we, in a day, cover our
+eyes with our eyelids, without perceiving that we are at
+all in the dark! Men that, by custom, have got the use
+of a by-word, do almost in every sentence pronounce
+sounds which, though taken notice of by others, they
+themselves neither hear nor observe. And therefore it is
+not so strange, that our mind should often change the
+idea of its sensation into that of its judgment, and make
+one serve only to excite the other, without our taking
+notice of it.
+
+11. Perception puts the difference between animals and
+vegetables. This faculty of perception seems to me to be,
+that which puts the distinction betwixt the animal king-
+dom and the inferior parts of nature. For, however veg-
+etables have, many of them, some degrees of motion,
+and upon the different application of other bodies to
+them, do very briskly alter their figures and motions,
+and so have obtained the name of sensitive plants, from
+a motion which has some resemblance to that which in
+animals follows upon sensation: yet I suppose it is all
+
+John Locke
+
+bare mechanism; and no otherwise produced than the
+turning of a wild oat-beard, by the insinuation of the
+particles of moisture, or the shortening of a rope, by
+the affusion of water. All which is done without any
+sensation in the subject, or the having or receiving any
+ideas.
+
+12. Perception in all animals. Perception, I believe, is,
+in some degree, in all sorts of animals; though in some
+possibly the avenues provided by nature for the recep-
+tion of sensations are so few, and the perception they
+are received with so obscure and dull, that it comes
+extremely short of the quickness and variety of sensa-
+tion which is in other animals; but yet it is sufficient
+for, and wisely adapted to, the state and condition of
+that sort of animals who are thus made. So that the
+wisdom and goodness of the Maker plainly appear in all
+the parts of this stupendous fabric, and all the several
+degrees and ranks of creatures in it.
+
+13. According to their condition. We may, I think, from
+the make of an oyster or cockle, reasonably conclude
+that it has not so many, nor so quick senses as a man,
+
+131
+
+or several other animals; nor if it had, would it, in that
+state and incapacity of transferring itself from one place
+to another, be bettered by them. What good would sight
+and hearing do to a creature that cannot move itself to
+or from the objects wherein at a distance it perceives
+good or evil? And would not quickness of sensation be
+an inconvenience to an animal that must lie still where
+chance has once placed it, and there receive the afflux
+of colder or warmer, clean or foul water, as it happens to
+come to it?
+
+14. Decay of perception in old age. But yet I cannot
+but think there is some small dull perception, whereby
+they are distinguished from perfect insensibility. And
+that this may be so, we have plain instances, even in
+mankind itself. Take one in whom decrepit old age has
+blotted out the memory of his past knowledge, and clearly
+wiped out the ideas his mind was formerly stored with,
+and has, by destroying his sight, hearing, and smell quite,
+and his taste to a great degree, stopped up almost all
+the passages for new ones to enter; or if there be some
+of the inlets yet half open, the impressions made are
+
+Human Understanding
+
+scarcely perceived, or not at all retained. How
+
+far such an one (notwithstanding all that is boasted of
+innate principles) is in his knowledge and intellectual
+faculties above the condition of a cockle or an oyster, I
+leave to be considered. And if a man had passed sixty
+years in such a state, as it is possible he might, as well
+as three days, I wonder what difference there would be,
+in any intellectual perfections, between him and the
+lowest degree of animals.
+
+15. Perception the inlet of all materials of knowledge.
+Perception then being the first step and degree towards
+knowledge, and the inlet of all the materials of it; the
+fewer senses any man, as well as any other creature,
+hath; and the fewer and duller the impressions are that
+are made by them, and the duller the faculties are that
+are employed about them,—the more remote are they
+from that knowledge which is to be found in some men.
+But this being in great variety of degrees (as may be
+perceived amongst men) cannot certainly be discovered
+in the several species of animals, much less in their par-
+ticular individuals. It suffices me only to have remarked
+
+{32
+
+here,—that perception is the first operation of all our
+intellectual faculties, and the inlet of all knowledge in
+our minds. And I am apt too to imagine, that it is per-
+ception, in the lowest degree of it, which puts the bound-
+aries between animals and the inferior ranks of crea-
+tures. But this I mention only as my conjecture by the
+by; it being indifferent to the matter in hand which way
+the learned shall determine of it.
+
+Chapter X
+Of Retention
+
+1. Contemplation. The next faculty of the mind, whereby
+it makes a further progress towards knowledge, is that
+which I call retention; or the keeping of those simple
+ideas which from sensation or reflection it hath received.
+This is done two ways.
+
+First, by keeping the idea which is brought into it, for
+some time actually in view, which is called contemplation.
+2. Memory. The other way of retention is, the power to
+revive again in our minds those ideas which, after im-
+
+John Locke
+
+printing, have disappeared, or have been as it were laid
+aside out of sight. And thus we do, when we conceive
+heat or light, yellow or sweet,—the object being re-
+moved. This is memory, which is as it were the store-
+house of our ideas. For, the narrow mind of man not
+being capable of having many ideas under view and con-
+sideration at once, it was necessary to have a reposi-
+tory, to lay up those ideas which, at another time, it
+might have use of. But, our ideas being nothing but
+actual perceptions in the mind, which cease to be any-
+thing when there is no perception of them; this laying
+up of our ideas in the repository of the memory signifies
+no more but this,—that the mind has a power in many
+cases to revive perceptions which it has once had, with
+this additional perception annexed to them, that it has
+had them before. And in this sense it is that our ideas
+are said to be in our memories, when indeed they are
+actually nowhere;—but only there is an ability in the
+mind when it will to revive them again, and as it were
+paint them anew on itself, though some with more, some
+with less difficulty; some more lively, and others more
+
+133
+
+obscurely. And thus it is, by the assistance of this fac-
+ulty, that we are said to have all those ideas in our
+understandings which, though we do not actually con-
+template, yet we can bring in sight, and make appear
+again, and be the objects of our thoughts, without the
+help of those sensible qualities which first imprinted
+them there.
+
+3. Attention, repetition, pleasure and pain, fix ideas.
+Attention and repetition help much to the fixing any
+ideas in the memory. But those which naturally at first
+make the deepest and most lasting impressions, are those
+which are accompanied with pleasure or pain. The great
+business of the senses being, to make us take notice of
+what hurts or advantages the body, it is wisely ordered
+by nature, as has been shown, that pain should accom-
+pany the reception of several ideas; which, supplying the
+place of consideration and reasoning in children, and act-
+ing quicker than consideration in grown men, makes both
+the old and young avoid painful objects with that haste
+which is necessary for their preservation; and in both
+settles in the memory a caution for the future.
+
+Human Understanding
+
+4. Ideas fade in the memory. Concerning the several
+degrees of lasting, wherewith ideas are imprinted on the
+memory, we may observe,—that some of them have been
+produced in the understanding by an object affecting
+the senses once only, and no more than once; others,
+that have more than once offered themselves to the
+senses, have yet been little taken notice of: the mind,
+either heedless, as in children, or otherwise employed,
+as in men intent only on one thing; not setting the
+stamp deep into itself. And in some, where they are set
+on with care and repeated impressions, either through
+the temper of the body, or some other fault, the memory
+is very weak. In all these cases, ideas in the mind quickly
+fade, and often vanish quite out of the understanding,
+leaving no more footsteps or remaining characters of
+themselves than shadows do flying over fields of corn,
+and th
+
+<!-- Book text truncated by scrapem max_book_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。
