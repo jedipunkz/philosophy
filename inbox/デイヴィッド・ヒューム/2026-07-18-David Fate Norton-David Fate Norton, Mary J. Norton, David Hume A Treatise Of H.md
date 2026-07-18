@@ -1,0 +1,6141 @@
+---
+source: "https://archive.org/details/david-fate-norton-mary-j.-norton-david-hume-a-treatise-of-human-nature-volume-1-2007-clarendon-press"
+title: "David Fate Norton, Mary J. Norton, David Hume A Treatise Of Human Nature Volume 1, 2007, Clarendon Press"
+author: "David Fate Norton, Mary J. Norton"
+year: "2007"
+captured_at: "2026-07-18T03:10:40Z"
+updated_at: "2026-07-18T03:10:40Z"
+capture_tool: "scrapem-book"
+source_name: "archive"
+keyword: "デイヴィッド・ヒューム"
+query: "Hume A Treatise of Human Nature"
+plain_text_url: "https://archive.org/download/david-fate-norton-mary-j.-norton-david-hume-a-treatise-of-human-nature-volume-1-2007-clarendon-press/David Fate Norton, Mary J. Norton, David Hume A Treatise of Human Nature Volume 1, 2007, clarendon press_djvu.txt"
+public_domain: true
+book_text_truncated: true
+subjects:
+tags:
+  - "近代哲学"
+  - "経験論"
+  - "懐疑主義"
+status: raw
+---
+
+# David Fate Norton, Mary J. Norton, David Hume A Treatise Of Human Nature Volume 1, 2007, Clarendon Press
+
+- 著者: David Fate Norton, Mary J. Norton
+- 初版: 2007
+- 情報源: [archive](https://archive.org/details/david-fate-norton-mary-j.-norton-david-hume-a-treatise-of-human-nature-volume-1-2007-clarendon-press)
+- パブリックドメイン: ✓
+
+## Obsidian Links
+
+- キーワード: [[デイヴィッド・ヒューム]]
+- 研究動向: [[デイヴィッド・ヒューム-現代研究動向]]
+
+## Full Text
+
+THE CLARENDON EDITION OF
+THE WORKS OF DAVID HUME
+
+is
+
+A TREATISE OF HUMAN NATURE
+
+VOLUME 1
+
+EDITED BY DAVID FATE NORTON
+AND MARY J. NORTON
+
+DAVID HUME
+
+OXFORD
+
+THE CLARENDON EDITION OF THE
+WORKS OF DAVID HUME
+
+A Treatise of Human Nature
+An Abstract of .. . A Treatise of Human Nature
+
+A Letter from a Gentleman to his Friend in Edinburgh
+
+THE CLARENDON EDITION OF THE
+WORKS OF DAVID HUME
+
+General Editors of the Philosophical Works
+Tom L. Beauchamp David Fate Norton M. A. Stewart
+
+OXFORD
+
+UNIVERSITY PRESS
+Great Clarendon Street, Oxford OX2 6DP
+Oxford University Press is a department of the University of Oxford.
+
+It furthers the University’s objective of excellence in research, scholarship,
+and education by publishing worldwide in
+
+Oxford New York
+Auckland Cape Town Dares Salaam Hong Kong Karachi
+Kuala Lumpur Madrid Melbourne Mexico City Nairobi
+New Delhi Shanghai Taipei Toronto
+With offices in
+Argentina Austria Brazil Chile Czech Republic France Greece
+
+Guatemala Hungary Italy Japan Poland Portugal Singapore
+South Korea Switzerland Thailand Turkey Ukraine Vietnam
+
+Oxford is a registered trade mark of Oxford University Press
+in the UK and in certain other countries
+
+Published in the United States
+by Oxford University Press Inc., New York
+© Oxford University Press 2007
+Historical Account and other editorial material
+© David Fate Norton and Mary J. Norton 2007
+
+The moral rights of the authors have been asserted
+Database right Oxford University Press (maker)
+
+First published 2007
+
+Royalties from this edition support the McGill David
+Hume Collection Research Grant.
+
+All rights reserved. No part of this publication may be reproduced,
+stored in a retrieval system, or transmitted, in any form or by any means,
+without the prior permission in writing of Oxford University Press,
+or as expressly permitted by law, or under terms agreed with the appropriate
+reprographics rights organization. Enquiries concerning reproduction
+outside the scope of the above should be sent to the Rights Department,
+Oxford University Press, at the address above
+
+You must not circulate this book in any other binding or cover
+and you must impose the same condition on any acquirer
+British Library Cataloguing in Publication Data
+Data available
+
+Library of Congress Cataloging in Publication Data
+Data available
+Typeset by Newgen Imaging Systems (P) Ltd., Chennai, India
+Printed in Great Britain
+on acid-free paper by
+Biddles Ltd., King’s Lynn, Norfolk
+
+Volume 1 ISBN 978-0-19-926383-7
+Set ISBN 978—0-19-926385-1
+
+L335 7.9.10 8 6 4 2.
+
+Preface
+
+A Treatise of Human Nature, David Hume’s earliest and most comprehensive
+philosophical work, was first published, anonymously, in January 1739
+(Volume 1 and Volume 2) and late October 1740 (Volume 3). The first volume
+included a brief Advertisement, an Introduction, and Book 1, ‘Of the
+Understanding’; the second volume contained Book 2, ‘Of the Passions’; the
+third volume included a second brief Advertisement, Book 3, ‘Of Morals’,
+and an Appendix, ‘Wherein some Passages of the foregoing Volumes are
+illustrated and explain’d’. Between these two instalments of the Treatise,
+Hume published, in March 1740, a pamphlet, An Abstract of a Book lately
+Published; Entituled, A Treatise of Human Nature, a work he hoped would
+make the Treatise more readily understood. In 1745, when the Treatise
+was under attack from certain Church of Scotland ministers who wished
+to prevent Hume from becoming Professor of Moral Philosophy in the
+University of Edinburgh, Hume wrote a letter defending it. His friend
+Henry Home (later Lord Kames) combined this letter with the statement of
+charges made against the 7reatise, and published both items under the title
+A Letter from a Gentleman to his Friend in Edinburgh. None of these works was
+republished in Hume’s lifetime.
+
+Critical texts of the Treatise, the Abstract, and the Letter make up this
+volume. The accompanying second volume begins with a ‘Historical Account’
+of the Treatise, an account that runs from the beginnings of the work to the
+period immediately following Hume’s death in 1776. The second volume
+also includes ‘Editing the Texts’, a discussion of our editorial procedures and
+policies and a record of the differences between the first-edition text of the
+Treatise and the critical text; an extensive set of ‘Editors’ Annotations’
+intended to illuminate, but not interpret, Hume’s texts; a four-part bibliog-
+raphy of materials cited in both volumes; and indexes.
+
+Acknowledgements
+
+In the nearly twenty years since we began working on the several parts of this
+critical edition of Hume’s Treatise, we have had the assistance and support of
+many individuals and several institutions. We acknowledge the value of this
+help in the preparation of the volumes that follow, and offer our warm and
+sincere thanks to all who have given it to us.
+
+First, we wish to mention Tom Beauchamp and M. A. Stewart. As friends,
+colleagues, and General Editors of the Clarendon Edition of the Works
+of David Hume, each has read and reread earlier drafts of much of what
+follows in Volume 2, and provided indispensable assistance, criticism,
+encouragement, and information. We are especially indebted to Prof.
+Stewart for guidance regarding the text and context of the Letter from a
+Gentleman.
+
+We have also received assistance and advice from many other members of
+what Hume called the ‘Republic of Letters’. Louis Loeb, Isabel Rivers, and
+John Stephens served as readers for the Press and provided us with many
+valuable comments and suggestions. Donald Baxter, Phillip Cummins,
+Deborah Danowski, Roland Hall, and F- L. van Holthoon have corresponded
+with us about textual matters. Randall McLeod showed us how to use his
+visual collator to identify textual variants. Lady Mary Hyde allowed us to
+collate the copy of the Treatise presented by Hume to Alexander Pope. The
+Earl and Countess of Rosebery made archival research a memorable occa-
+sion. Michael Crump took David Norton behind the scenes of ESTC in its
+early days, thus enabling him, with further help from James Mosley of the
+St Bride Library, to identify the printer of the three volumes of the Treatise.
+
+David Raynor commented on an early draft of the ‘Historical Account’,
+while Manfred Kuehn and Dario Perinetti generously assisted with parts
+of that account. Others who have advised us on matters discussed in the
+‘Historical Account’ include Lawrence Bongie, Roger Emerson, James Fieser,
+Heiner Klemme, Bruno Lagarrigue, Michel Malherbe, Richard Sher,
+Piet Steenbakkers and John Wright. Those who have given us help with the
+editorial annotations include Michael Barfoot, Mark Box, Alexander Broadie,
+Lorraine Daston, George di Giovanni, Roger Emerson, Lorne Falkenstein,
+James Franklin, Knud Haakonssen, Thomas Holden, Alison Laywine,
+Thomas Lennon, Stephen Menn, Eric Schliesser, Graham Solomon, and Paul
+Wood. Michael Silverthorne has provided both guidance about things classical
+and translations of the Latin texts quoted by Hume. Research assistance has
+
+Vi
+
+Acknowledgements
+
+been provided by Michael Anderson, Christopher Hillyard, Jane Roscoe, and
+Daniella Shippey, while Salim Hirji, Angela Norton, and Roger Norton have
+kept our computers in good order. Norman Swartz helped us take maximum
+advantage of the software used in preparing the indexes to these volumes.
+
+We are also grateful for the assistance or encouragement of many others,
+including George Allen, Herb Bailey, Nicolas Barker, Hans Boediker,
+O. M. Brack, Jack Davidson, Francis Dauer, George Davie, Rolf George, Anil
+Gupta, Moheba Hanif, Raymond Klibansky, Gertrud Jaron Lewis, Peter
+Lamarque, Emilio Mazza, Jane McIntyre, Jodo Paulo Monteiro, Robin Myers,
+David Owen, Terence Penelhum, Ewan David Ross-Hume, Andrea Rotundo,
+Tatsyua Sakamoto, Ryu Susuato, Sandy Thatcher, Saul Traiger, James Tully,
+Ken Winkler, D. C. Yalden-Thomson, and James Young. Still other acknow-
+ledgements are found in our notes and in the editorial annotations. If we have
+inadvertently omitted anyone to whom thanks are due, we offer our apologies.
+
+This project could not have been carried out without the continuing
+assistance and co-operation of many libraries and librarians. We are fortunate to
+have been able to draw on the extensive resources of the David Hume Collection
+of the Rare Books and Special Collections Division of the McGill University
+Libraries. We thank Elizabeth Lewis, Bruce Whiteman, and Richard Virr, past
+and present overseers of that Collection, for their help. We are especially
+indebted to Brian Hillyard, Iain Brown, Patrick Cadell, and Jan Cunningham of
+the National Library of Scotland; to Richard Landon of the Thomas Fisher
+Rare Book Library, University of Toronto; to Elliot Shore, former librarian at
+the Institute for Advanced Study in Princeton; to Bridget Molloy and Ross
+Scimeca of the Hoose Philosophy Library, University of Southern California.
+We also wish to thank the special collections librarians of the Firestone
+Library, Princeton University; the University of Edinburgh Library; the
+Edinburgh Central Library; the Signet Library, Edinburgh; the Aberdeen
+University Library; the Glasgow University Library; the Bodleian Library,
+Oxford University; the Pembroke College Library; the British Library; the
+Cambridge University Library; Dr William’s Library; and the Australian
+National University. We are also indebted to the staffs of the Royal Society of
+Edinburgh; the Scottish National Archives; the Huntington Library; and the
+William Andrews Clark Library, University of California, Los Angeles. Still
+other librarians we wish to thank include Peter Jones (King’s College,
+Cambridge), Kendall Wallis (McGill) and Charles Benson (Trinity College,
+Dublin), and those dozens who responded to our enquiries in search of the
+copies of Volumes | and 2 of the Treatise containing ‘a Vast of Corrections and
+Additions in the handwriting of the Author’. In recent years we have benefited
+from the assistance of the helpful staff of the University of Victoria Library.
+
+Vii
+
+Acknowledgements
+
+Institutional support for our work began with the Department of Philosophy
+and the Faculty of Arts, McGill University, and the former Dean of that
+Faculty, Michael Maxwell. Sabbatical leaves, combined on one occasion with
+a Killam Research Fellowship from The Canada Council for the Arts,
+enabled David Norton to concentrate on the project for relatively lengthy
+periods. The McGill Faculty of Graduate Studies and Research, the Social
+Sciences and Humanities Research Council of Canada, and the American
+Council of Learned Societies provided further financial assistance to David
+Norton, as did the Institute for Advanced Study, Princeton. We are grateful
+to Morton White for his part in making possible a fruitful academic year at
+the Institute. A year at the Institute for Advanced Studies in the Humanities,
+University of Edinburgh, and a term at the History of Ideas Unit, Research
+School of Social Sciences, Australian National University, were equally
+valuable. We are grateful to Peter Jones and Knud Haakonnsen for helping to
+make these two opportunities possible. Interested staff at the Centre for the
+New Oxford English Dictionary, University of Waterloo, generously helped
+us take advantage of their resources.
+
+We note that Angela Blackburn was instrumental in steering the critical
+edition of Hume to the Clarendon Press, where we have been encouraged
+and guided by Tim Barton, Peter Momtchiloff, and Rupert Cousens.
+Jenni Craig has patiently smoothed the process of production. Jean van
+Altena has provided thoughtful copy-editing, and Andrew Hawkey, meticu-
+lous proof reading. We are pleased to have had this opportunity to work with
+these and other individuals at the Clarendon Press.
+
+Davip Fate NoRTON
+Mary J. NoRTON
+
+Vili
+
+Contents
+
+VOLUME 1
+
+A Note on the Texts
+
+Contents of A Treatise of Human Nature
+
+A Treatise of Human Nature
+
+An Abstract of... A Treatise of Human Nature
+
+A Letter from a Gentleman to his Friend in Edinburgh
+
+VOLUME 2
+
+Abbreviations and Conventions
+
+Historical Account of A Treatise of Human Nature from its
+Beginnings to the Time of Hume’s Death
+
+Editing the Texts of the Treatise, the Abstract, and the Letter
+from a Gentleman
+
+Editorial Appendix 1: Reproductions
+
+Editorial Appendix 2: The Appendix to Volume 3
+Editors’ Annotations
+Bibliography
+Index 1: Historical Account and Editing the Texts
+Index 2: Hume’s Texts and Editors’ Annotations
+
+980
+1035
+1063
+
+A Note on the Texts
+
+As early as March 1740, Hume told Francis Hutcheson that he was impatient
+to publish a second edition of the two volumes of the Treatise already
+published, because he wanted to make alterations to his work. Regrettably,
+because sales of the Treatise were unexpectedly slow, no further edition of
+these volumes, or of Volume 3, was published during Hume’s lifetime. Hume
+did, however, take steps both to correct and to amend all three volumes of the
+Treatise. The critical text of that work found below reflects what we know or
+suppose to be Hume’s intentions for a second edition of it, and inferences
+we have drawn about many of the formal features of the no longer extant
+manuscripts that were delivered to the printer responsible for the production of
+the three first-edition volumes. More specifically, the critical text follows
+Hume’s directions, found in the Appendix to the third and final volume of the
+first edition, concerning additions and corrections to be made to the text of
+Book 1. In addition, the critical edition incorporates the hand-written
+corrections made by Hume in presentation copies of Volumes 1 and 2, and the
+amendments he made in his own copy of Volume 3. Finally, on relatively few
+occasions, it reflects judgements that we and other editors have made about
+the wording of the text. Consequently, the critical text of the Treatise is, like all
+critical texts, a constructed text. It is a hybrid constituted of the first-edition
+text as modified by Hume’s corrections and amendments and by editorial
+corrections and emendations. As far as circumstances permit, this text in some
+respects approaches the second edition of the work that Hume envisioned. In
+other respects it restores, by eliminating inconsistencies of form introduced
+by the compositors of the first edition, some of the formal features of the
+manuscripts that Hume put into the hands of his publishers. The circumstances
+alluded to include the fact that we have limited evidence of Hume’s intentions
+regarding a second edition of the Treatise, and to the further fact that the
+critical text has been printed in a modern, scholarly format that facilitates, in
+ways outlined below, its use by the modern scholarly reader. A detailed account
+of our editorial procedures and policies and a complete record of the differences
+between the first-edition text of the Treatise and the critical text that follows
+is set out in ‘Editing the Texts’.!
+
+| This record and the relevant editorial annotations identify and explain four substantive differences
+between the critical texts of the Treatise published here and the prototype of it found in the first ten
+printings (copies issued from 2000 to mid-2006) of the Oxford Philosophical Texts edition of these
+works. All subsequent printings of this edition will use the texts of the Treatise and Abstract found here.
+
+xi
+
+A Note on the Texts
+
+The texts of the Abstract and the Letter from a Gentleman are also critical
+texts, but these pamphlets were the consequences of circumstances signi-
+ficantly different from those associated with the Treatise. The Abstract, or at
+least the main body of its text, was composed initially with the hope that it
+would be published in a journal largely made up of abridgements or accounts
+of new books, and that the attention to the Treatise thus brought about would
+both clarify a central argument and improve sales of the work. When that
+plan failed, Hume and John Noon, the publisher of the first two volumes of
+the Treatise, arranged for the Abstract to be published anonymously and with
+the imprint of a publisher who specialized in clandestine publication. Hume
+subsequently made a few autograph alterations in his copy of the Abstract.
+Although we have no evidence that he hoped for a second edition of this
+work, his amendments to the text are incorporated into the critical text, as are
+some minor editorial emendations. ‘Editing the Texts’ also provides a full
+account of these textual changes.
+
+The Letter from a Gentleman had still another, different kind of history.
+Roughly half of the pamphlet derives from a manuscript circulated by
+William Wishart in an effort to forestall Hume’s appointment as Professor of
+Moral Philosophy in the University of Edinburgh. This manuscript quoted
+extensively, though not always accurately, from the Treatise, and then levelled
+six charges at the author of that work. The second half of the pamphlet is
+made up of Hume’s reply to these charges, a reply that Hume sent as a letter
+that he may have intended to be circulated in manuscript, but which he
+apparently did not intend to have published. If Hume did not intend a first
+edition of this work, itis highly unlikely that he intended a second. Consequently,
+except for the correction of some obvious typographical errors, we have fol-
+lowed the first-edition text as closely as present printing conventions permit.
+
+The critical texts facilitate modern scholarship in several ways. (1) Each
+larger segment of the Treatise (each book, part, and section) has been num-
+bered in arabic, and each paragraph of the three texts has been numbered.
+These paragraph numbers are printed in the left-hand margin of each page.
+(2) The footnotes to the Treatise have been numbered consecutively. (3) A
+guide to line numbers has been printed in the right-hand margin of all but
+pp. 420-4. (4) The corresponding page numbers of the widely used Oxford
+University Press edition of the Treatise first edited by L. A. Selby-Bigge in
+1888, and lightly revised by P. H. Nidditch (with the addition of the Abstract)
+in 1978, have also been printed in the right-hand margins of these two texts.
+
+The use of arabic numbering throughout, the numbering of each para-
+graph of the texts, and the consecutive numbering of footnotes (items 1
+and 2) are consistent with the intent of the General Editors of the Clarendon
+
+xii
+
+A Note on the Texts
+
+Edition of Hume’s works to provide Hume scholarship with a standard or
+universal form of reference for all the works found in this edition. By the
+simple expedient of numbering the paragraphs in other complete editions of
+the Treatise or the two associated pamphlets, and then by using the resulting
+references to book, part, section, and paragraph, scholars can provide
+convenient, inter-edition direction to those using either the present edition
+or other complete editions of these texts. It should be noted, however, that
+those using the older Oxford University Press edition edited by Selby-Bigge
+must adjust the numbering of the text of five sections, the footnotes, and the
+Appendix. More specifically, paragraph numbering in the Selby-Bigge
+edition must be adjusted to accommodate paragraphs added, at Hume’s
+direction, to the main body of the critical text at 1.2.4.31; 1.3.5.4; 1.3.7.7;
+1.3.10-12 (a different paragraph 10 and two added paragraphs, 11-12);
+and 1.3.14.12. In addition, footnote numbering must be adjusted to
+accommodate three notes (numbers 5, 12, and 21 in the critical edition)
+added, at Hume’s direction, to the text of Book 1.? Finally, within the
+Appendix itself, only those paragraphs which are not headed with directions
+for insertion into the main body of the text should be numbered.
+
+The guide to line numbers (item 3) facilitates the use of the annotations
+and critical apparatus found in our commentary. The use of line numbers
+is also expected to facilitate future scholarly discussion of the texts. The
+inclusion of the page numbers of the Selby-Bigge edition of the Treatise
+(item 4) enables readers of the extensive secondary literature based on
+that edition to find cited materials in this critical edition.
+
+? The beginning and end of each passage or note found originally in the Appendix to Volume 3
+of the first edition are marked by the abbreviation 4??., otherwise the critical texts are clear texts,
+free of editorial symbols. The abbreviations and conventions used in vol. 2 are listed in the
+preliminary pages of that volume.
+
+xiii
+
+Contents of
+A Treatise of Human Nature
+
+BOOK 1. OF THE UNDERSTANDING
+
+Advertisement
+
+Introduction
+
+Part 1. Of ideas, their origin, composition, connexion, abstraction, &c.
+
+Sect. 1.
+Sect. 2.
+Sect. 3.
+Sect. 4.
+Sect. 5.
+Sect. 6.
+Sect. 7.
+
+Of the origin of our ideas
+
+Division of the subject
+
+Of the ideas of the memory and imagination
+Of the connexion or association of ideas
+
+Of relations
+
+Of modes and substances
+
+Of abstract ideas
+
+Part 2. Of the ideas of space and time
+
+Sect. 1.
+Sect. 2.
+Sect. 3.
+Sect. 4.
+Sect. 5.
+Sect. 6.
+
+Of the infinite divisibility of our ideas of space and time
+Of the infinite divisibility of space and time
+
+Of the other qualities of our ideas of space and time
+Objections answer’d
+
+The same subject continu’d
+
+Of the idea of existence, and of external existence
+
+Part 3. Of knowledge and probability
+
+Sect. 1.
+Sect. 2.
+Sect. 3.
+Sect. 4.
+Sect. 5.
+Sect. 6.
+Sect. 7.
+Sect. 8.
+Sect. 9.
+
+Sect. 10.
+Sect. 11.
+Sect. 12.
+Sect. 13.
+Sect. 14.
+Sect. 15.
+Sect. 16.
+
+Of knowledge
+
+Of probability; and of the idea of cause and effect
+Why a cause is always necessary
+
+Of the component parts of our reasonings concerning cause and effect
+Of the impressions of the senses and memory
+
+Of the inference from the impression to the idea
+Of the nature of the idea or belief
+
+Of the causes of belief
+
+Of the effects of other relations and other habits
+Of the influence of belief
+
+Of the probability of chances
+
+Of the probability of causes
+
+Of unphilosophical probability
+
+Of the idea of necessary connexion
+
+Rules by which to judge of causes and effects
+
+Of the reason of animals
+
+Part 4. Of the sceptical and other systems of philosophy
+
+Sect. 1.
+Sect. 2.
+
+Of scepticism with regard to reason
+Of scepticism with regard to the senses
+
+XIV
+
+Contents
+
+Of the antient philosophy
+
+Of the modern philosophy
+
+Of the immateriality of the soul
+Of personal identity
+Conclusion of this book
+
+BOOK 2. OF THE PASSIONS
+
+Part 1. Of pride and humility
+
+Sect. 9.
+
+Sect. 10.
+Sect. 11.
+Sect. 12.
+
+Division of the subject
+
+Of pride and humility; their objects and causes
+Whence these objects and causes are deriv’d
+Of the relations of impressions and ideas
+
+Of the influence of these relations on pride and humility
+Limitations of this system
+
+Of vice and virtue
+
+Of beauty and deformity
+
+Of external advantages and disadvantages
+
+Of property and riches
+
+Of the love of fame
+
+Of the pride and humility of animals
+
+Part 2. Of love and hatred
+
+Sect. 1.
+Sect. 2.
+
+Sect. 10.
+Sect. 11.
+Sect. 12.
+
+Of the objects and causes of love and hatred
+Experiments to confirm this system
+
+Difficulties solv’d
+
+Of the love of relations
+
+Of our esteem for the rich and powerful
+
+Of benevolence and anger
+
+Of compassion
+
+Of malice and envy
+
+Of the mixture of benevolence and anger with compassion and malice
+Of respect and contempt
+
+Of the amorous passion, or love betwixt the sexes
+Of the love and hatred of animals
+
+Part 3. Of the will and direct passions
+
+Sect. 9.
+Sect. 10.
+
+Of liberty and necessity
+
+The same subject continu’d
+
+Of the influencing motives of the will
+
+Of the causes of the violent passions
+
+Of the effects of custom
+
+Of the influence of the imagination on the passions
+Of contiguity and distance in space and time
+
+The same subject continu’d
+
+Of the direct passions
+
+Of curiosity, or the love of truth
+
+Xv
+
+144
+148
+152
+164
+171
+
+179
+181
+
+181
+182
+184
+185
+187
+190
+193
+195
+198
+202
+206
+211
+
+214
+
+214
+216
+225
+227
+231
+236
+238
+240
+245
+250
+253
+255
+
+257
+
+257
+262
+265
+268
+271
+272
+274
+277
+280
+286
+
+A Treatise of Human Nature
+
+BOOK 3. OF MORALS
+
+Advertisement
+
+Part 1. Of virtue and vice in general
+
+Sect. 1.
+Sect. 2.
+
+Moral distinctions not deriv’d from reason
+Moral distinctions deriv’d from a moral sense
+
+Part 2. Of justice and injustice
+
+Sect. 1.
+Sect. 2.
+Sect. 3.
+Sect. 4.
+Sect. 5.
+Sect. 6.
+Sect. 7.
+Sect. 8.
+Sect. 9.
+Sect. 10.
+Sect. 11.
+Sect. 12.
+
+Justice, whether a natural or artificial virtue?
+Of the origin of justice and property
+
+Of the rules, which determine property
+
+Of the transference of property by consent
+Of the obligation of promises
+
+Some farther reflections concerning justice and injustice
+Of the origin of government
+
+Of the source of allegiance
+
+Of the measures of allegiance
+
+Of the objects of allegiance
+
+Of the laws of nations
+
+Of chastity and modesty
+
+Part 3. Of the other virtues and vices
+
+Sect. 1.
+Sect. 2.
+Sect. 3.
+Sect. 4.
+Sect. 5.
+Sect. 6.
+
+Appendix
+
+Of the origin of the natural virtues and vices
+
+Of greatness of mind
+
+Of goodness and benevolence
+
+Of natural abilities
+
+Some farther reflections concerning the natural abilities
+Conclusion of this book
+
+XVi
+
+291
+292
+
+293
+
+293
+302
+
+307
+
+307
+311
+322
+330
+331
+337
+342
+345
+352
+354
+362
+364
+
+367
+
+367
+378
+384
+387
+391
+393
+
+396
+
+A TREATISE OF HUMAN NATURE:
+
+BEING AN ATTEMPT TO INTRODUCE
+THE EXPERIMENTAL METHOD
+OF REASONING
+INTO MORAL SUBJECTS
+
+Rara temporum felicitas, ubi sentire, que velis;
+& que sentias, dicere licet. TACITUS
+
+Book 1. Of the Understanding
+
+ADVERTISEMENT
+
+My design in the present work is sufficiently explain’d in the Introduction. The
+reader must only observe, that all the subjects I have there plann’d out to myself, are
+not treated of in these two volumes. The subjects of the Understanding and Passions
+make a compleat chain of reasoning by themselves; and I was willing to take advan-
+tage of this natural division, in order to try the taste of the public. If I have the good
+fortune to meet with success, I shall proceed to the examination of Morals, Politics,
+and Criticism; which will compleat this Treatise of Human Nature. The approba-
+tion of the public I consider as the greatest reward of my labours; but am determin’d to
+regard its judgment, whatever it be, as my best instruction.
+
+INTRODUCTION
+
+Nothing is more usual and more natural for those, who pretend to discover any
+thing new to the world in philosophy and the sciences, than to insinuate the
+praises of their own systems, by decrying all those, which have been advanc’d
+before them. And indeed were they content with lamenting that ignorance,
+which we still lie under in the most important questions, that can come before
+the tribunal of human reason, there are few, who have an acquaintance with the
+sciences, that wou’d not readily agree with them. ’Tis easy for one of judgment
+and learning, to perceive the weak foundation even of those systems, which have
+obtain’d the greatest credit, and have carry’d their pretensions highest to accu-
+rate and profound reasoning. Principles taken upon trust, consequences lamely
+deduc’d from them, want of coherence in the parts, and of evidence in the
+whole, these are every where to be met with in the systems of the most eminent
+philosophers, and seem to have drawn disgrace upon philosophy itself.
+
+Nor is there requir’d such profound knowledge to discover the present imper-
+fect condition of the sciences, but even the rabble without doors may judge from
+the noise and clamour, which they hear, that all goes not well within. There is
+nothing which is not the subject of debate, and in which men of learning are not
+of contrary opinions. The most trivial question escapes not our controversy, and
+in the most momentous we are not able to give any certain decision. Disputes are
+multiply’d, as if every thing was uncertain; and these disputes are manag’d with
+the greatest warmth, as if every thing was certain. Amidst all this bustle ’tis not
+reason, which carries the prize, but eloquence; and no man needs ever despair of
+gaining proselytes to the most extravagant hypothesis, who has art enough to
+represent it in any favourable colours. The victory is not gain’d by the men at
+arms, who manage the pike and the sword; but by the trumpeters, drummers,
+and musicians of the army.
+
+From hence in my opinion arises that common prejudice against metaphysi-
+cal reasonings of all kinds, even amongst those, who profess themselves scholars,
+and have a just value for every other part of literature. By metaphysical reason-
+ings, they do not understand those on any particular branch of science, but every
+kind of argument, which is any way abstruse, and requires some attention to be
+comprehended. We have so often lost our labour in such researches, that we
+commonly reject them without hesitation, and resolve, if we must for ever be a
+prey to errors and delusions, that they shall at least be natural and entertaining.
+And indeed nothing but the most determin’d scepticism, along with a great
+degree of indolence, can justify this aversion to metaphysics. For if truth be at
+all within the reach of human capacity, ’tis certain it must lie very deep and
+abstruse; and to hope we shall arrive at it without pains, while the greatest
+geniuses have fail’d with the utmost pains, must certainly be esteem’d suffi-
+ciently vain and presumptuous. I pretend to no such advantage in the philosophy
+
+SB [xiii]
+
+10
+
+SB xiv
+
+20
+
+30
+
+SB xv
+40
+
+A Treatise of Human Nature
+
+Tam going to unfold, and wou’d esteem it a strong presumption against it, were
+it so very easy and obvious.
+
+Tis evident, that all the sciences have a relation, greater or less, to human
+nature; and that however wide any of them may seem to run from it, they still
+return back by one passage or another. Even Mathematics, Natural Philosophy,
+and Natural Religion, are in some measure dependent on the science of MAN;
+since they lie under the cognizance of men, and are judg’d of by their powers and
+faculties. *Tis impossible to tell what changes and improvements we might make
+in these sciences were we thoroughly acquainted with the extent and force of
+human understanding, and cou’d explain the nature of the ideas we employ, and
+of the operations we perform in our reasonings. And these improvements are
+the more to be hop’d for in natural religion, as it is not content with instructing
+us in the nature of superior powers, but carries its views farther, to their disposi-
+tion towards us, and our duties towards them; and consequently we ourselves
+are not only the beings, that reason, but also one of the objects, concerning
+which we reason.
+
+If therefore the sciences of Mathematics, Natural Philosophy, and Natural
+Religion, have such a dependence on the knowledge of man, what may be
+expected in the other sciences, whose connexion with human nature is more
+close and intimate? The sole end of logic is to explain the principles and opera-
+tions of our reasoning faculty, and the nature of our ideas: Morals and criti-
+cism regard our tastes and sentiments: And politics consider men as united in
+society, and dependent on each other. In these four sciences of Logic, Morals,
+Criticism, and Politics, is comprehended almost every thing, which it can any way
+import us to be acquainted with, or which can tend either to the improvement
+or ornament of the human mind.
+
+Here then is the only expedient, from which we can hope for success in our
+philosophical researches, to leave the tedious lingring method, which we have
+hitherto follow’d, and instead of taking now and then a castle or village on the
+frontier, to march up directly to the capital or center of these sciences, to human
+nature itself; which being once masters of, we may every where else hope for an
+easy victory. From this station we may extend our conquests over all those sci-
+ences, which more intimately concern human life, and may afterwards proceed
+at leisure to discover more fully those, which are the objects of pure curiosity.
+There is no question of importance, whose decision is not compriz’d in the
+science of man; and there is none, which can be decided with any certainty,
+before we become acquainted with that science. In pretending therefore to
+explain the principles of human nature, we in effect propose a compleat system
+of the sciences, built on a foundation almost entirely new, and the only one upon
+which they can stand with any security.
+
+And as the science of man is the only solid foundation for the other sciences,
+so the only solid foundation we can give to this science itself must be laid on
+experience and observation. ’Tis no astonishing reflection to consider, that the
+application of experimental philosophy to moral subjects shou’d come after
+that to natural at the distance of above a whole century; since we find in fact, that
+
+10
+
+20
+
+SB xvi
+
+30
+
+40
+
+10
+
+Introduction
+
+there was about the same interval betwixt the origins of these sciences; and that
+reckoning from THALES to SocraTEs, the space of time is nearly equal to that
+betwixt my Lorp Bacon and some late philosophers in England,' who have
+begun to put the science of man on a new footing, and have engag’d the atten-
+tion, and excited the curiosity of the public. So true it is, that however other
+nations may rival us in poetry, and excel us in some other agreeable arts, the
+improvements in reason and philosophy can only be owing toa land of toleration
+and of liberty.
+
+Nor ought we to think, that this latter improvement in the science of man will
+do less honour to our native country than the former in natural philosophy, but
+ought rather to esteem it a greater glory, upon account of the greater importance
+of that science, as well as the necessity it lay under of such a reformation. For to
+me it seems evident, that the essence of the mind being equally unknown to us
+with that of external bodies, it must be equally impossible to form any notion of
+its powers and qualities otherwise than from careful and exact experiments, and
+the observation of those particular effects, which result from its different cir-
+cumstances and situations. And tho’ we must endeavour to render all our prin-
+ciples as universal as possible, by tracing up our experiments to the utmost, and
+explaining all effects from the simplest and fewest causes, ’tis still certain we
+cannot go beyond experience; and any hypothesis, that pretends to discover the
+ultimate original qualities of human nature, ought at first to be rejected as pre-
+sumptuous and chimerical.
+
+I do not think a philosopher, who wou’d apply himself so earnestly to the
+explaining the ultimate principles of the soul, wou’d show himself a great
+master in that very science of human nature, which he pretends to explain, or
+very knowing in what is naturally satisfactory to the mind of man. For nothing is
+more certain, than that despair has almost the same effect upon us with enjoy-
+ment, and that we are no sooner acquainted with the impossibility of satisfying
+any desire, than the desire itself vanishes. When we see, that we have arriv’d at
+the utmost extent of human reason, we sit down contented; tho’ we be perfectly
+satisfy’d in the main of our ignorance, and perceive that we can give no reason
+for our most general and most refin’d principles, beside our experience of their
+reality; which is the reason of the mere vulgar, and what it requir’d no study at
+first to have discover’d for the most particular and most extraordinary phenom-
+enon. And as this impossibility of making any farther progress is enough to
+satisfy the reader, so the writer may derive a more delicate satisfaction from the
+free confession of his ignorance, and from his prudence in avoiding that error,
+into which so many have fallen, of imposing their conjectures and hypotheses on
+the world for the most certain principles. When this mutual contentment and
+satisfaction can be obtain’d betwixt the master and scholar, I know not what
+more we can require of our philosophy.
+
+But if this impossibility of explaining ultimate principles shou’d be esteem’d
+a defect in the science of man, I will venture to affirm, that ’tis a defect common
+
+" Mr. Locke, my Lord Shaftesbury, Dr. Mandeville, Mr. Hutcheson, Dr. Butler, &c.
+
+SB xvii
+
+10
+
+20
+
+SB xviii
+
+30
+
+40
+
+SB xvii
+
+A Treatise of Human Nature
+
+to it with all the sciences, and all the arts, in which we can employ ourselves,
+whether they be such as are cultivated in the schools of the philosophers, or
+practis’d in the shops of the meanest artizans. None of them can go beyond
+experience, or establish any principles which are not founded on that authority.
+Moral philosophy has, indeed, this peculiar disadvantage, which is not found in
+natural, that in collecting its experiments, it cannot make them purposely, with
+premeditation, and after such a manner as to satisfy itself concerning every par-
+ticular difficulty which may arise. When I am ata loss to know the effects of one
+body upon another in any situation, I need only put them in that situation, and
+observe what results from it. But shou’d I endeavour to clear up after the same
+manner any doubt in moral philosophy, by placing myself in the same case with
+that which I consider, ’tis evident this reflection and premeditation wou’d so
+disturb the operation of my natural principles, as must render it impossible to
+form any just conclusion from the phenomenon. We must therefore glean up
+our experiments in this science from a cautious observation of human life, and
+take them as they appear in the common course of the world, by men’s behaviour
+in company, in affairs, and in their pleasures. Where experiments of this kind
+are judiciously collected and compar’d, we may hope to establish on them a
+science, which will not be inferior in certainty, and will be much superior in
+utility to any other of human comprehension.
+
+SB xix
+
+10
+
+20
+
+BOOK 1. Of the Understanding
+
+PART 1
+
+Of ideas, their origin, composition, connexion, abstraction, &c.
+
+Sect. 1. Of the origin of our ideas
+
+All the perceptions of the human mind resolve themselves into two distinct
+kinds, which I shall call IMPRESSIONS and weas. The difference betwixt these
+consists in the degrees of force and liveliness, with which they strike upon the
+mind, and make their way into our thought or consciousness. Those percep-
+tions, which enter with most force and violence, we may name impressions; and
+under this name I comprehend all our sensations, passions and emotions, as they
+make their first appearance in the soul. By zdeas I mean the faint images of these
+in thinking and reasoning; such as, for instance, are all the perceptions excited
+by the present discourse, excepting only, those which arise from the sight and
+touch, and excepting the immediate pleasure or uneasiness it may occasion. I
+believe it will not be very necessary to employ many words in explaining this dis-
+tinction. Every one of himself will readily perceive the difference betwixt
+feeling and thinking. The common degrees of these are easily distinguish’d; tho’
+it is not impossible but in particular instances they may very nearly approach to
+each other. Thus in sleep, in a fever, in madness, or in any very violent emotions
+of soul, our ideas may approach to our impressions: As on the other hand it
+sometimes happens, that our impressions are so faint and low, that we cannot
+distinguish them from our ideas. But notwithstanding this near resemblance in a
+few instances, they are in general so very different, that no one can make a
+scruple to rank them under distinct heads, and assign to each a peculiar name to
+mark the difference.”
+
+There is another division of our perceptions, which it will be convenient
+to observe, and which extends itself both to our impressions and ideas. This
+division is into SIMPLE and COMPLEX. Simple perceptions or impressions
+and ideas are such as admit of no distinction nor separation. The complex
+are the contrary to these, and may be distinguish’d into parts. Tho’ a particular
+colour, taste, and smell are qualities all united together in this apple, ’tis easy
+
+* There make use of these terms, impression and idea, ina sense different from what is usual, and
+Thope this liberty will be allow’d me. Perhaps I rather restore the word, idea, to its original sense,
+from which Mr. Locke had perverted it, in making it stand for all our perceptions. By the term of
+impression 1 wou’d not be understood to express the manner, in which our lively perceptions are
+produc’d in the soul, but merely the perceptions themselves; for which there is no particular
+name either in the English or any other language, that I know of.
+
+SB [1]
+
+10
+
+SB2
+
+20
+
+1.1.1 A Treatise of Human Nature
+
+to perceive they are not the same, but are at least distinguishable from each
+other.
+
+Having by these divisions given an order and arrangement to our objects, we
+may now apply ourselves to consider with the more accuracy their qualities and
+relations. The first circumstance, that strikes my eye, is the great resemblance
+betwixt our impressions and ideas in every other particular, except their degree
+of force and vivacity. The one seem to be in a manner the reflection of the other;
+so that all the perceptions of the mind are double, and appear both as impres-
+sions and ideas. When I shut my eyes and think of my chamber, the ideas I form
+are exact representations of the impressions I felt; nor is there any circumstance
+of the one, which is not to be found in the other. In running over my other per-
+ceptions, I find still the same resemblance and representation. Ideas and impres-
+sions appear always to correspond to each other. This circumstance seems to me
+remarkable, and engages my attention for a moment.
+
+Upon a more accurate survey I find I have been carry’d away too far by the
+first appearance, and that I must make use of the distinction of perceptions
+into sumple and complex, to limit this general decision, that all our ideas and
+impressions are resembling. I observe, that many of our complex ideas never had
+impressions, that corresponded to them, and that many of our complex im-
+pressions never are exactly copy’d in ideas. I can imagine to myself such a city
+as the New Jerusalem, whose pavement is gold and walls are rubies, tho’ I never
+saw any such. I have seen Paris; but shall I affirm I can form such an idea of
+that city, as will perfectly represent all its streets and houses in their real and just
+proportions?
+
+I perceive, therefore, that tho’ there is in general a great resemblance betwixt
+our complex impressions and ideas, yet the rule is not universally true, that they
+are exact copies of each other. We may next consider how the case stands with
+our simple perceptions. After the most accurate examination, of which I am
+capable, I venture to affirm, that the rule here holds without any exception, and
+that every simple idea has a simple impression, which resembles it; and every
+simple impression a correspondent idea. That idea of red, which we form in the
+dark, and that impression, which strikes our eyes in sun-shine, differ only in
+degree, not in nature. That the case is the same with all our simple impressions
+and ideas, ’tis impossible to prove by a particular enumeration of them. Every
+one may satisfy himself in this point by running over as many as he pleases. But
+if any one shou’d deny this universal resemblance, I know no way of convinc-
+ing him, but by desiring him to show a simple impression, that has not a corre-
+spondent idea, or a simple idea, that has not a correspondent impression. If he
+does not answer this challenge, as tis certain he cannot, we may from his silence
+and our own observation establish our conclusion.
+
+Thus we find, that all simple ideas and impressions resemble each other; and
+as the complex are form’d from them, we may affirm in general, that these two
+species of perception are exactly correspondent. Having discover’d this relation,
+which requires no farther examination, I am curious to find some other of their
+
+SB 3
+
+10
+
+20
+
+30
+
+SB4
+
+40
+
+10
+
+Of the origin of our ideas 1.1.1
+
+qualities. Let us consider how they stand with regard to their existence, and
+which of the impressions and ideas are causes, and which effects.
+
+The fu// examination of this question is the subject of the present treatise;
+and therefore we shall here content ourselves with establishing one general
+proposition, that all our simple ideas in their first appearance are deriv’d from simple
+impressions, which are correspondent to them, and which they exactly
+represent.
+
+In seeking for phenomena to prove this proposition, I find only those of two
+kinds; but in each kind the phenomena are obvious, numerous, and conclusive. I
+first make myself certain, by a new review, of what I have already asserted, that
+every simple impression is attended with a correspondent idea, and every simple
+idea with a correspondent impression. From this constant conjunction of
+resembling perceptions I immediately conclude, that there is a great connexion
+betwixt our correspondent impressions and ideas, and that the existence of the
+one has a considerable influence upon that of the other. Such a constant con-
+junction, in such an infinite number of instances, can never arise from chance;
+but clearly proves a dependence of the impressions on the ideas, or of the ideas
+on the impressions. That I may know on which side this dependence lies, I con-
+sider the order of their first appearance; and find by constant experience, that the
+simple impressions always take the precedence of their correspondent ideas, but
+never appear in the contrary order. To give a child an idea of scarlet or orange, of
+sweet or bitter, I present the objects, or in other words, convey to him these
+impressions; but proceed not so absurdly, as to endeavour to produce the
+impressions by exciting the ideas. Our ideas upon their appearance produce not
+their correspondent impressions, nor do we perceive any colour, or feel any sen-
+sation merely upon thinking of them. On the other hand we find, that any
+impression either of the mind or body is constantly follow’d by an idea, which
+resembles it, and is only different in the degrees of force and liveliness. The con-
+stant conjunction of our resembling perceptions, is a convincing proof, that the
+one are the causes of the other; and this priority of the impressions is an equal
+proof, that our impressions are the causes of our ideas, not our ideas of our
+impressions.
+
+To confirm this I consider another plain and convincing phenomenon; which
+is, that wherever by any accident the faculties, which give rise to any impres-
+sions, are obstructed in their operations, as when one is born blind or deaf; not
+only the impressions are lost, but also their correspondent ideas; so that there
+never appear in the mind the least traces of either of them. Nor is this only true,
+where the organs of sensation are entirely destroy’d, but likewise where they
+have never been put in action to produce a particular impression. We cannot
+form to ourselves a just idea of the taste of a pine-apple, without having actually
+tasted it.
+
+There is however one contradictory phenomenon, which may prove, that ’tis
+not absolutely impossible for ideas to go before their correspondent impressions.
+I believe it will readily be allow’d, that the several distinct ideas of colours, which
+
+10
+
+SBS
+
+20
+
+30
+
+40
+
+11
+
+12
+
+1.1.1 A Treatise of Human Nature
+
+enter by the eyes, or those of sounds, which are convey’d by the hearing, are
+really different from each other, tho’ at the same time resembling. Now if this be
+true of different colours, it must be no less so of the different shades of the same
+colour, that each of them produces a distinct idea, independent of the rest. For if
+this shou’d be deny’d, ’tis possible, by the continual gradation of shades, to runa
+colour insensibly into what is most remote from it; and if you will not allow any
+of the means to be different, you cannot without absurdity deny the extremes to
+be the same. Suppose therefore a person to have enjoy’d his sight for thirty years,
+and to have become perfectly well acquainted with colours of all kinds, excepting
+one particular shade of blue, for instance, which it never has been his fortune to
+meet with. Let all the different shades of that colour, except that single one, be
+plac’d before him, descending gradually from the deepest to the lightest; ’tis
+plain, that he will perceive a blank, where that shade is wanting, and will be sen-
+sible, that there is a greater distance in that place betwixt the contiguous colours,
+than in any other. Now I ask, whether ’tis possible for him, from his own imagi-
+nation, to supply this deficiency, and raise up to himself the idea of that particu-
+lar shade, tho’ it had never been convey’d to him by his senses? I believe there are
+few but will be of opinion that he can; and this may serve as a proof, that the
+simple ideas are not always deriv’d from the correspondent impressions; tho’ the
+instance is so particular and singular, that ’tis scarce worth our observing, and
+does not merit that for it alone we shou’d alter our general maxim.
+
+But besides this exception, it may not be amiss to remark on this head, that the
+principle of the priority of impressions to ideas must be understood with
+another limitation, viz. that as our ideas are images of our impressions, so we can
+form secondary ideas, which are images of the primary; as appears from this very
+reasoning concerning them. This is not, properly speaking, an exception to the
+rule so much as an explanation of it. Ideas produce the images of themselves in
+new ideas; but as the first ideas are suppos’d to be deriv’d from impressions, it
+still remains true, that all our simple ideas proceed, either mediately or immedi-
+ately, from their correspondent impressions.
+
+This then is the first principle I establish in the science of human nature;
+nor ought we to despise it because of the simplicity of its appearance. For ’tis
+remarkable, that the present question concerning the precedency of our impres-
+sions or ideas, is the same with what has made so much noise in other terms,
+when it has been disputed whether there be any innate ideas, or whether all ideas
+be deriv’d from sensation and reflection. We may observe, that in order to prove
+the ideas of extension and colour not to be innate, philosophers do nothing but
+show, that they are convey’d by our senses. To prove the ideas of passion and
+desire not to be innate, they observe that we have a preceding experience of these
+emotions in ourselves. Now if we carefully examine these arguments, we shall
+find that they prove nothing but that ideas are preceded by other more lively per-
+ceptions, from which they are deriv’d, and which they represent. I hope this
+clear stating of the question will remove all disputes concerning it, and will
+render this principle of more use in our reasonings, than it seems hitherto to
+have been.
+
+10
+
+SB6
+
+10
+
+20
+
+SB7
+
+30
+
+40
+
+Of the ideas of the memory and imagination 1.1.3
+
+Sect. 2. Division of the subject
+
+Since it appears, that our simple impressions are prior to their correspondent
+ideas, and that the exceptions are very rare, method seems to require we shou’d
+examine our impressions, before we consider our ideas. Impressions may be
+divided into two kinds, those of SENSATION and those of REFLECTION. The first
+kind arises in the soul originally, from unknown causes. The second is deriv’d in
+a great measure from our ideas, and that in the following order. An impression
+first strikes upon the senses, and makes us perceive heat or cold, thirst or hunger,
+pleasure or pain of some kind or other. Of this impression there is a copy taken
+by the mind, which remains after the impression ceases; and this we call an idea.
+This idea of pleasure or pain, when it returns upon the soul, produces the new
+impressions of desire and aversion, hope and fear, which may properly be call’d
+impressions of reflection because deriv’d from it. These again are copy’d by the
+memory and imagination, and become ideas; which perhaps in their turn give
+rise to other impressions and ideas. So that the impressions of reflection are
+only antecedent to their correspondent ideas; but posterior to those of sensation,
+and deriv’d from them. The examination of our sensations belongs more to
+anatomists and natural philosophers than to moral; and therefore shall not at
+present be enter’d upon. And as the impressions of reflection, viz. passions,
+desires, and emotions, which principally deserve our attention, arise mostly
+from ideas, ’twill be necessary to reverse that method, which at first sight seems
+most natural; and in order to explain the nature and principles of the human
+mind, give a particular account of ideas, before we proceed to impressions. For
+this reason I have here chosen to begin with ideas.
+
+Sect. 3. Of the ideas of the memory and imagination
+
+We find by experience, that when any impression has been present with the
+mind, it again makes its appearance there as an idea; and this it may do after
+two different ways: Either when in its new appearance it retains a considerable
+degree of its first vivacity, and is somewhat intermediate betwixt an impression
+and an idea; or when it entirely loses that vivacity, and is a perfect idea. The
+faculty, by which we repeat our impressions in the first manner, is call’d the
+MEMORY, and the other the IMAGINATION. ”Tis evident at first sight, that the ideas
+of the memory are much more lively and strong than those of the imagination,
+and that the former faculty paints its objects in more distinct colours, than any
+which are employ’d by the latter. When we remember any past event, the idea of
+it flows in upon the mind in a forcible manner; whereas in the imagination the
+perception is faint and languid, and cannot without difficulty be preserw’d by
+the mind steady and uniform for any considerable time. Here then is a sensible
+difference betwixt one species of ideas and another. But of this more fully
+hereafter.’
+
+3 Part 3. Sect. 5.
+
+11
+
+SBS
+
+10
+
+20
+
+SB9
+
+1.1.4 A Treatise of Human Nature
+
+There is another difference betwixt these two kinds of ideas, which is no less
+evident, namely that tho’ neither the ideas of the memory nor imagination,
+neither the lively nor faint ideas can make their appearance in the mind, unless
+their correspondent impressions have gone before to prepare the way for them,
+yet the imagination is not restrain’d to the same order and form with the original
+impressions; while the memory is in a manner ty’d down in that respect,
+without any power of variation.
+
+Tis evident, that the memory preserves the original form, in which its
+objects were presented, and that wherever we depart from it in recollecting
+any thing, it proceeds from some defect or imperfection in that faculty.
+An historian may, perhaps, for the more convenient carrying on of his nar-
+ration, relate an event before another, to which it was in fact posterior; but then
+he takes notice of this disorder, if he be exact; and by that means replaces the idea
+in its due position. *Tis the same case in our recollection of those places and
+persons, with which we were formerly acquainted. The chief exercise of the
+memory is not to preserve the simple ideas, but their order and position. In
+short, this principle is supported by such a number of common and vulgar
+phenomena, that we may spare ourselves the trouble of insisting on it any
+farther.
+
+The same evidence follows us in our second principle, of the liberty of the
+imagination to transpose and change its ideas. The fables we meet with in poems
+and romances put this entirely out of question. Nature there is totally con-
+founded, and nothing mention’d but winged horses, fiery dragons, and
+monstrous giants. Nor will this liberty of the fancy appear strange, when we
+consider, that all our ideas are copy’d from our impressions, and that there are
+not any two impressions which are perfectly inseparable. Not to mention, that
+this is an evident consequence of the division of ideas into simple and complex.
+Wherever the imagination perceives a difference among ideas, it can easily
+produce a separation.
+
+Sect. 4. Of the connexion or association of ideas
+
+Asall simple ideas may be separated by the imagination, and may be united again
+in what form it pleases, nothing wou’d be more unaccountable than the opera-
+tions of that faculty, were it not guided by some universal principles, which
+render it, in some measure, uniform with itself in all times and places. Were
+ideas entirely loose and unconnected, chance alone wou’d join them; and ’tis
+impossible the same simple ideas shou’d fall regularly into complex ones (as they
+commonly do) without some bond of union among them, some associating
+quality, by which one idea naturally introduces another. This uniting principle
+among ideas is not to be consider’d as an inseparable connexion; for that has been
+already excluded from the imagination: Nor yet are we to conclude, that
+without it the mind cannot join two ideas; for nothing is more free than that
+faculty: But we are only to regard it as a gentle force, which commonly prevails,
+
+12;
+
+10
+
+SB 10
+
+30
+
+40
+
+Of the connexion or association of ideas 1.1.4
+
+and is the cause why, among other things, languages so nearly correspond to each
+other; nature in a manner pointing out to every one those simple ideas, which
+are most proper to be united into a complex one. The qualities, from which this
+association arises, and by which the mind is after this manner convey’d from one
+idea to another, are three, v7z. RESEMBLANCE, CONTIGUITY in time or place, and
+CAUSE and EFFECT.
+
+I believe it will not be very necessary to prove, that these qualities produce
+an association among ideas, and upon the appearance of one idea naturally
+introduce another. Tis plain, that in the course of our thinking, and in the con-
+stant revolution of our ideas, our imagination runs easily from one idea to any
+other that resembles it, and that this quality alone is to the fancy a sufficient bond
+and association. "Tis likewise evident, that as the senses, in changing their
+objects, are necessitated to change them regularly, and take them as they lie
+contiguous to each other, the imagination must by long custom acquire the same
+method of thinking, and run along the parts of space and time in conceiving
+its objects. As to the connexion, that is made by the relation of cause and effect,
+we shall have occasion afterwards to examine it to the bottom, and therefore
+shall not at present insist upon it. Tis sufficient to observe, that there is no rela-
+tion, which produces a stronger connexion in the fancy, and makes one idea
+more readily recal another, than the relation of cause and effect betwixt their
+objects.
+
+That we may understand the full extent of these relations, we must consider,
+that two objects are connected together in the imagination, not only when the
+one is immediately resembling, contiguous to, or the cause of the other, but also
+when there is interpos’d betwixt them a third object, which bears to both of
+them any of these relations. This may be carry’d on toa great length; tho’ at the
+same time we may observe, that each remove considerably weakens the relation.
+Cousins in the fourth degree are connected by causation, if I may be allow’d to
+use that term; but not so closely as brothers, much less as child and parent. In
+general we may observe, that all the relations of blood depend upon cause and
+effect, and are esteem’d near or remote, according to the number of connecting
+causes interpos’d betwixt the persons.
+
+Of the three relations above-mention’d this of causation is the most exten-
+sive. Two objects may be consider’d as plac’d in this relation, as well when
+one is the cause of any of the actions or motions of the other, as when the
+former is the cause of the existence of the latter. For as that action or motion
+is nothing but the object itself, consider’d in a certain light, and as the object
+continues the same in all its different situations, tis easy to imagine how
+such an influence of objects upon one another may connect them in the
+imagination.
+
+We may carry this farther, and remark, not only that two objects are connected
+by the relation of cause and effect, when the one produces a motion or any action
+in the other, but also when it has a power of producing it. And this we may
+observe to be the source of all the relations of interest and duty, by which
+
+13
+
+SB II
+
+10
+
+20
+
+SB 12
+
+40
+
+1.1.5 A Treatise of Human Nature
+
+men influence each other in society, and are plac’d in the ties of government
+and subordination. A master is such-a-one as by his situation, arising either
+from force or agreement, has a power of directing in certain particulars the
+actions of another, whom we call servant. A judge is one, who in all disputed
+cases can fix by his opinion the possession or property of any thing betwixt any
+members of the society. When a person is possess’d of any power, there is no
+more requir’d to convert it into action, but the exertion of the will; and that in
+every case is consider’d as possible, and in many as probable; especially in the
+case of authority, where the obedience of the subject is a pleasure and advantage
+to the superior.
+
+These are therefore the principles of union or cohesion among our simple
+ideas, and in the imagination supply the place of that inseparable connexion, by
+which they are united in our memory. Here is a kind of ATTRACTION, which in
+the mental world will be found to have as extraordinary effects as in the natural,
+and to show itself in as many and as various forms. Its effects are every where
+conspicuous; but as to its causes, they are mostly unknown, and must be resolv’d
+into original qualities of human nature, which I pretend not to explain. Nothing
+is more requisite for a true philosopher, than to restrain the intemperate desire of
+searching into causes, and having establish’d any doctrine upon a sufficient
+number of experiments, rest contented with that, when he sees a farther exami-
+nation woud lead him into obscure and uncertain speculations. In that case his
+enquiry wou’d be much better employ’d in examining the effects than the causes
+of his principle.
+
+Amongst the effects of this union or association of ideas, there are none more
+remarkable, than those complex ideas, which are the common subjects of our
+thoughts and reasoning, and generally arise from some principle of union
+among our simple ideas. These complex ideas may be divided into RELATIONS,
+MODES, and SUBSTANCES. We shall briefly examine each of these in order, and shall
+subjoin some considerations concerning our general and particular ideas, before
+we leave the present subject, which may be consider’d as the elements of this
+philosophy.
+
+Sect. 5. Of relations
+
+The word relation is commonly us’d in two senses considerably different from
+each other. Either for that quality, by which two ideas are connected together in
+the imagination, and the one naturally introduces the other, after the manner
+above-explain’d; or for that particular circumstance, in which, even upon the
+arbitrary union of two ideas in the fancy, we may think proper to compare them.
+In common language the former is always the sense, in which we use the word,
+relation; and ’tis only in philosophy, that we extend it to mean any particular
+subject of comparison, without a connecting principle. Thus distance will be
+allow’d by philosophers to be a true relation, because we acquire an idea of it by
+the comparing of objects: But in a common way we say, that nothing can be more
+
+14
+
+10
+
+SB 13
+
+20
+
+30
+
+SB 14
+
+40
+
+10
+
+Of relations 1.1.5
+
+distant than such or such things from each other, nothing can have less relation; as if
+distance and relation were incompatible.
+
+It may perhaps be esteem’d an endless task to enumerate all those qualities,
+which make objects admit of comparison, and by which the ideas of philosophi-
+cal relation are produc’d. But if we diligently consider them, we shall find that
+without difficulty they may be compriz’d under seven general heads, which may
+be consider’d as the sources of all philosophical relation.
+
+1. The first is resemblance: And this is a relation, without which no philo-
+sophical relation can exist; since no objects will admit of comparison, but what
+have some degree of resemblance. But tho’ resemblance be necessary to all
+philosophical relation, it does not follow, that it always produces a connexion or
+association of ideas. When a quality becomes very general, and is common to a
+great many individuals, it leads not the mind directly to any one of them; but by
+presenting at once too great a choice, does thereby prevent the imagination from
+fixing on any single object.
+
+2. Identity may be esteem’d a second species of relation. This relation I
+here consider as apply’d in its strictest sense to constant and unchangeable
+objects; without examining the nature and foundation of personal identity,
+which shall find its place afterwards. Of all relations the most universal is
+that of identity, being common to every being, whose existence has any
+duration.
+
+3. After identity the most universal and comprehensive relations are those of
+space and time, which are the sources of an infinite number of comparisons, such
+as distant, contiguous, above, below, before, after, &c.
+
+4. All those objects, which admit of guantity, or number, may be compar’d in
+that particular; which is another very fertile source of relation.
+
+5. When any two objects possess the same quality in common, the degrees, in
+which they possess it, form a fifth species of relation. Thus of two objects, which
+are both heavy, the one may be either of greater, or less weight than the other.
+Two colours, that are of the same kind, may yet be of different shades, and in
+that respect admit of comparison.
+
+6. The relation of contrariety may at first sight be regarded as an exception to
+the rule, that no relation of any kind can subsist without some degree of resemblance.
+But let us consider, that no two ideas are in themselves contrary, except those of
+existence and non-existence, which are plainly resembling, as implying both of
+them an idea of the object; tho’ the latter excludes the object from all times and
+places, in which it is suppos’d not to exist.
+
+7. Allother objects, such as fire and water, heat and cold, are only found to be
+contrary from experience, and from the contrariety of their causes or effects;
+which relation of cause and effect is a seventh philosophical relation, as well
+as a natural one. The resemblance imply’d in this relation, shall be explain’d
+afterwards.
+
+It might naturally be expected, that I shou’d join difference to the other
+relations. But that I consider rather as a negation of relation, than as any
+thing real or positive. Difference is of two kinds as oppos’d either to
+
+15
+
+10
+
+20
+
+SB 1S
+
+30
+
+40
+
+1.1.6 A Treatise of Human Nature
+
+identity or resemblance. The first is call’d a difference of number; the other of
+kind.
+
+Sect. 6. Of modes and substances
+
+I wou’d fain ask those philosophers, who found so much of their reasonings on
+the distinction of substance and accident, and imagine we have clear ideas of
+each, whether the idea of substance be deriv’d from the impressions of sensation
+or reflection? If it be convey’d to us by our senses, I ask, which of them; and
+after what manner? If it be perceiv’d by the eyes, it must be a colour; if by the
+ears, a sound; if by the palate, a taste; and so of the other senses. But I believe
+none will assert, that substance is either a colour, or a sound, or a taste. The idea
+of substance must therefore be deriv’d from an impression of reflection, if it
+really exist. But the impressions of reflection resolve themselves into our
+passions and emotions; none of which can possibly represent a substance. We
+have therefore no idea of substance, distinct from that of a collection of particu-
+lar qualities, nor have we any other meaning when we either talk or reason
+concerning it.
+
+The idea of a substance as well as that of a mode, is nothing but a collec-
+tion of simple ideas, that are united by the imagination, and have a partic-
+ular name assign’d them, by which we are able to recal, either to ourselves
+or others, that collection. But the difference betwixt these ideas consists in
+this, that the particular qualities, which form a substance, are commonly
+referr’d to an unknown something, in which they are suppos’d to inhere; or
+granting this fiction shou’d not take place, are at least suppos’d to be
+closely and inseparably connected by the relations of contiguity and causa-
+tion. The effect of this is, that whatever new simple quality we discover to
+have the same connexion with the rest, we immediately comprehend it
+among them, even tho’ it did not enter into the first conception of the sub-
+stance. Thus our idea of gold may at first be a yellow colour, weight, mall-
+eableness, fusibility; but upon the discovery of its dissolubility in aqua regia,
+we join that to the other qualities, and suppose it to belong to the substance
+as much as if its idea had from the beginning made a part of the com-
+pound one. The principle of union being regarded as the chief part of the
+complex idea, gives entrance to whatever quality afterwards occurs, and
+is equally comprehended by it, as are the others, which first presented
+themselves.
+
+That this cannot take place in modes, is evident from considering their nature.
+The simple ideas of which modes are form’d, either represent qualities, which
+are not united by contiguity and causation, but are dispers’d in different sub-
+jects; or if they be all united together, the uniting principle is not regarded as the
+foundation of the complex idea. The idea of a dance is an instance of the first
+kind of modes; that of beauty of the second. The reason is obvious, why such
+complex ideas cannot receive any new idea, without changing the name, which
+distinguishes the mode.
+
+16
+
+SB 16
+
+10
+
+20
+
+30
+
+SB 17
+
+40
+
+1
+
+Of abstract ideas 1.1.7
+
+Sect. 7. Of abstract ideas
+
+A very material question has been started concerning abstract or general ideas,
+Whether they be general or particular in the mind’s conception of them? A great
+philosopher* has disputed the receiv’d opinion in this particular, and has
+asserted, that all general ideas are nothing but particular ones, annex’d to a
+certain term, which gives them a more extensive signification, and makes them
+recal upon occasion other individuals, which are similar to them. As I look upon
+this to be one of the greatest and most valuable discoveries that has been made of
+late years in the Republic of Letters, I shall here endeavour to confirm it by
+some arguments, which I hope will put it beyond all doubt and controversy.
+
+Tis evident, that in forming most of our general ideas, if not all of them, we
+abstract from every particular degree of quantity and quality, and that an object
+ceases not to be of any particular species on account of every small alteration in
+its extension, duration and other properties. It may therefore be thought, that
+here is a plain dilemma, that decides concerning the nature of those abstract
+ideas, which have afforded so much speculation to philosophers. The abstract
+idea of a man represents men of all sizes and all qualities; which ’tis concluded it
+cannot do, but either by representing at once all possible sizes and all possible
+qualities, or by representing no particular one at all. Now it having been esteem’d
+absurd to defend the former proposition, as implying an infinite capacity in the
+mind, it has been commonly inferr’d in favour of the latter; and our abstract
+ideas have been suppos’d to represent no particular degree either of quantity or
+quality. But that this inference is erroneous, I shall endeavour to make appear,
+first, by proving, that ’tis utterly impossible to conceive any quantity or quality,
+without forming a precise notion of its degrees: And secondly by showing, that
+tho’ the capacity of the mind be not infinite, yet we can at once form a notion of
+all possible degrees of quantity and quality, in sucha manner at least, as, however
+imperfect, may serve all the purposes of reflection and conversation.
+
+To begin with the first proposition, that the mind cannot form any notion of
+quantity or quality without forming a precise notion of the degrees of each; we may
+prove this by the three following arguments. First, We have observ’d, that what-
+ever objects are different are distinguishable, and that whatever objects are dis-
+tinguishable are separable by the thought and imagination. And we may here
+add, that these propositions are equally true in the inverse, and that whatever
+objects are separable are also distinguishable, and that whatever objects are dis-
+tinguishable are also different. For how is it possible we can separate what is not
+distinguishable, or distinguish what is not different? In order therefore to know,
+whether abstraction implies a separation, we need only consider it in this view,
+and examine, whether all the circumstances, which we abstract from in our
+general ideas, be such as are distinguishable and different from those, which we
+retain as essential parts of them. But ’tis evident at first sight, that the precise
+length of a line is not different nor distinguishable from the line itself; nor the
+
+* Dr. Berkeley.
+
+17
+
+10
+
+SB 18
+
+20
+
+30
+
+40
+SB 19
+
+SB17
+
+1.1.7 A Treatise of Human Nature
+
+precise degree of any quality from the quality. These ideas, therefore, admit no
+more of separation than they do of distinction and difference. They are conse-
+quently conjoin’d with each other in the conception; and the general idea of a
+line, notwithstanding all our abstractions and refinements, has in its appearance
+in the mind a precise degree of quantity and quality; however it may be made to
+represent others, which have different degrees of both.
+
+Secondly, ’Tis confest, that no object can appear to the senses; or in other
+words, that no impression can become present to the mind, without being
+determin’d in its degrees both of quantity and quality. The confusion, in which
+impressions are sometimes involv’d, proceeds only from their faintness and
+unsteadiness, not from any capacity in the mind to receive any impression,
+which in its real existence has no particular degree nor proportion. That is a con-
+tradiction in terms; and even implies the flattest of all contradictions, viz. that
+tis possible for the same thing both to be and not to be.
+
+Now since all ideas are deriv’d from impressions, and are nothing but copies
+and representations of them, whatever is true of the one must be acknowledg’d
+concerning the other. Impressions and ideas differ only in their strength and
+vivacity. The foregoing conclusion is not founded on any particular degree
+of vivacity. It cannot therefore be affected by any variation in that particular.
+An idea is a weaker impression; and as a strong impression must necessarily have
+a determinate quantity and quality, the case must be the same with its copy or
+representative.
+
+Thirdly, *Tis a principle generally receiv’d in philosophy, that every thing in
+nature is individual, and that ’tis utterly absurd to suppose a triangle really ex-
+istent, which has no precise proportion of sides and angles. If this therefore be
+absurd in fact and reality, it must also be absurd in zdea; since nothing of which
+we can form a clear and distinct idea is absurd and impossible. But to form the
+idea of an object, and to form an idea simply is the same thing; the reference of
+the idea to an object being an extraneous denomination, of which in itself it
+bears no mark or character. Now as ’tis impossible to form an idea of an object,
+that is possest of quantity and quality, and yet is possest of no precise degree of
+either; it follows, that there is an equal impossibility of forming an idea, that is
+not limited and confin’d in both these particulars. Abstract ideas are therefore in
+themselves individual, however they may become general in their representa-
+tion. The image in the mind is only that of a particular object, tho’ the applica-
+tion of it in our reasoning be the same, as if it were universal.
+
+This application of ideas beyond their nature proceeds from our collecting
+all their possible degrees of quantity and quality in such an imperfect manner as
+may serve the purposes of life, which is the second proposition I propos’d to
+explain. When we have found a resemblance among several objects, that often
+
+AP’ Tis evident, that even different simple ideas may have a similarity or resemblance to each
+other; nor is it necessary, that the point or circumstance of resemblance shou’d be distinct or sepa-
+rable from that in which they differ. Blue and green are different simple ideas, but are more resem-
+bling than b/ue and scarlet; tho’ their perfect simplicity excludes all possibility of separation or
+distinction. ”Tis the same case with particular sounds, and tastes and smells. These admit of infinite
+
+18
+
+10
+
+20
+
+SB 20
+
+30
+
+40
+
+SB 637
+
+Of abstract ideas 1.1.7
+
+occur to us, we apply the same name to all of them, whatever differences we may
+observe in the degrees of their quantity and quality, and whatever other differ-
+ences may appear among them. After we have acquir’d a custom of this kind,
+the hearing of that name revives the idea of one of these objects, and makes the
+imagination conceive it with all its particular circumstances and proportions.
+But as the same word is suppos’d to have been frequently apply’d to other indi-
+viduals, that are different in many respects from that idea, which is immediately
+present to the mind; the word not being able to revive the idea of all these indi-
+viduals, only touches the soul, if I may be allow’d so to speak, and revives that
+custom, which we have acquir’d by surveying them. They are not really and in
+fact present to the mind, but only in power; nor do we draw them all out dis-
+tinctly in the imagination, but keep ourselves in a readiness to survey any of
+them, as we may be prompted by a present design or necessity. The word raises
+up an individual idea, along with a certain custom; and that custom produces any
+other individual one, for which we may have occasion. But as the production of
+all the ideas, to which the name may be apply’d, is in most cases impossible, we
+abridge that work by a more partial consideration, and find but few inconvenien-
+cies to arise in our reasoning from that abridgment.
+
+For this is one of the most extraordinary circumstances in the present affair,
+that after the mind has produc’d an individual idea, upon which we reason, the
+attendant custom, reviv’d by the general or abstract term, readily suggests any
+other individual, if by chance we form any reasoning, that agrees not with it.
+Thus shou’d we mention the word, triangle, and form the idea of a particular
+equilateral one to correspond to it, and shou’d we afterwards assert, that the three
+angles of a triangle are equal to each other, the other individuals of a scalenum and
+isosceles, which we over-look’d at first, immediately crowd in upon us, and
+make us perceive the falshood of this proposition, tho’ it be true with relation to
+that idea, which we had form’d. If the mind suggests not always these ideas upon
+occasion, it proceeds from some imperfection in its faculties; and such-a-one as
+is often the source of false reasoning and sophistry. But this is principally the
+case with those ideas which are abstruse and compounded. On other occasions
+the custom is more entire, and ’tis seldom we run into such errors.
+
+Nay so entire is the custom, that the very same idea may be annext to several
+different words, and may be employ’d in different reasonings, without any
+danger of mistake. Thus the idea of an equilateral triangle of an inch perpen-
+dicular may serve us in talking of a figure, of a rectilineal figure, of a regular
+figure, of a triangle, and of an equilateral triangle. All these terms, therefore, are
+in this case attended with the same idea; but as they are wont to be apply’d ina
+
+resemblances upon the general appearance and comparison, without having any common circum-
+stance the same. And of this we may be certain, even from the very abstract terms simple idea. They
+comprehend all simple ideas under them. These resemble each other in their simplicity. And yet
+from their very nature, which excludes all composition, this circumstance, in which they resemble,
+is not distinguishable nor separable from the rest. "Tis the same case with all the degrees in any
+quality. They are all resembling, and yet the quality, in any individual, is not distinct from the
+degree.*?”
+
+19
+
+10
+
+SB 21
+
+20
+
+30
+
+SB 637
+
+10
+
+10
+
+11
+
+12
+
+13
+
+14
+
+1.1.7 A Treatise of Human Nature
+
+greater or lesser compass, they excite their particular habits, and thereby keep
+the mind ina readiness to observe, that no conclusion be form’d contrary to any
+ideas, which are usually compriz’d under them.
+
+Before those habits have become entirely perfect, perhaps the mind may not
+be content with forming the idea of only one individual, but may run over
+several, in order to make itself comprehend its own meaning, and the compass of
+that collection, which it intends to express by the general term. That we may fix
+the meaning of the word, figure, we may revolve in our mind the ideas of circles,
+squares, parallelograms, triangles of different sizes and proportions, and may
+not rest on one image or idea. However this may be, ’tis certain that we form the
+idea of individuals, whenever we use any general term; that we seldom or never
+can exhaust these individuals; and that those, which remain, are only repre-
+sented by means of that habit, by which we recal them, whenever any present
+occasion requires it. This then is the nature of our abstract ideas and general
+terms; and ’tis after this manner we account for the foregoing paradox, that some
+ideas are particular in their nature, but general in their representation. A particular
+idea becomes general by being annex’d toa general term; that is, toa term, which
+from a customary conjunction has a relation to many other particular ideas, and
+readily recals them in the imagination.
+
+The only difficulty, that can remain on this subject, must be with regard to
+that custom, which so readily recals every particular idea, for which we may have
+occasion, and is excited by any word or sound, to which we commonly annex it.
+The most proper method, in my opinion, of giving a satisfactory explication of
+this act of the mind, is by producing other instances, which are analogous to it,
+and other principles, which facilitate its operation. To explain the ultimate
+causes of our mental actions is impossible. Tis sufficient, if we can give any sat-
+isfactory account of them from experience and analogy.
+
+First then I observe, that when we mention any great number, such as a thou-
+sand, the mind has generally no adequate idea of it, but only a power of produc-
+ing such an idea, by its adequate idea of the decimals, under which the number is
+comprehended. This imperfection, however, in our ideas, is never felt in our
+reasonings; which seems to be an instance parallel to the present one of univer-
+sal ideas.
+
+Secondly, We have several instances of habits, which may be reviv’d by one
+single word; as when a person, who has by rote any periods of a discourse, or any
+number of verses, will be put in remembrance of the whole, which he is at a loss
+to recollect, by that single word or expression, with which they begin.
+
+Thirdly, I believe every one, who examines the situation of his mind in rea-
+soning, will agree with me, that we do not annex distinct and compleat ideas to
+every term we make use of, and that in talking of government, church, negotiation,
+conquest, we seldom spread out in our minds all the simple ideas, of which these
+complex ones are compos’d. ’Tis however observable, that notwithstanding this
+imperfection we may avoid talking nonsense on these subjects, and may perceive
+any repugnance among the ideas, as well as if we had a full comprehension of
+them. Thus if instead of saying, that in war the weaker have always recourse to
+
+20
+
+SB22
+
+10
+
+20
+
+40
+
+15
+
+16
+
+17
+
+18
+
+Of abstract ideas 1.1.7
+
+negotiation, we shou’d say, that they have always recourse to conquest, the custom,
+which we have acquir’d of attributing certain relations to ideas, still follows the
+words, and makes us immediately perceive the absurdity of that proposition; in
+the same manner as one particular idea may serve us in reasoning concerning
+other ideas, however different from it in several circumstances.
+
+Fourthly, As the individuals are collected together, and plac’d under a general
+term with a view to that resemblance, which they bear to each other, this relation
+must facilitate their entrance in the imagination, and make them be suggested
+more readily upon occasion. And indeed if we consider the common progress
+of the thought, either in reflection or conversation, we shall find great reason
+to be satisfy’d in this particular. Nothing is more admirable, than the readiness,
+with which the imagination suggests its ideas, and presents them at the very
+instant, in which they become necessary or useful. The fancy runs from one
+end of the universe to the other in collecting those ideas, which belong to any
+subject. One wou’d think the whole intellectual world of ideas was at once
+subjected to our view, and that we did nothing but pick out such as were most
+proper for our purpose. There may not, however, be any present, beside
+those very ideas, that are thus collected by a kind of magical faculty in the soul,
+which, tho’ it be always most perfect in the greatest geniuses, and is properly
+what we call a genius, is however inexplicable by the utmost efforts of human
+understanding.
+
+Perhaps these four reflections may help to remove all difficulties to the
+hypothesis I have propos’d concerning abstract ideas, so contrary to that, which
+has hitherto prevail’d in philosophy. But to tell the truth I place my chief confi-
+dence in what I have already prov’d concerning the impossibility of general
+ideas, according to the common method of explaining them. We must certainly
+seek some new system on this head, and there plainly is none beside what I have
+propos’d. If ideas be particular in their nature, and at the same time finite in their
+number, ’tis only by custom they can become general in their representation, and
+contain an infinite number of other ideas under them.
+
+Before I leave this subject I shall employ the same principles to explain
+that distinction of reason, which is so much talk’d of, and is so little understood,
+in the schools. Of this kind is the distinction betwixt figure and the body
+figur’d; motion and the body mov’d. The difficulty of explaining this distinction
+arises from the principle above-explain’d, that all ideas, which are different, are
+separable. For it follows from thence, that if the figure be different from the
+body, their ideas must be separable as well as distinguishable; if they be not
+different, their ideas can neither be separable nor distinguishable. What then
+is meant by a distinction of reason, since it implies neither a difference nor
+separation?
+
+To remove this difficulty we must have recourse to the foregoing explication
+of abstract ideas. *Tis certain that the mind wou’d never have dream’d of distin-
+guishing a figure from the body figur’d, as being in reality neither distinguish-
+able, nor different, nor separable; did it not observe, that even in this simplicity
+there might be contain’d many different resemblances and relations. Thus when
+
+21
+
+SB 24
+
+20
+
+30
+
+SB 25
+
+40
+
+1.1.7 A Treatise of Human Nature
+
+a globe of white marble is presented, we receive only the impression of a white
+colour dispos’d in a certain form, nor are we able to separate and distinguish the
+colour from the form. But observing afterwards a globe of black marble and a
+cube of white, and comparing them with our former object, we find two separate
+resemblances, in what formerly seem’d, and really is, perfectly inseparable.
+After a little more practice of this kind, we begin to distinguish the figure from
+the colour by a distinction of reason; that is, we consider the figure and colour
+together, since they are in effect the same and undistinguishable; but still view
+them in different aspects, according to the resemblances, of which they are sus-
+ceptible. When we wou’d consider only the figure of the globe of white marble,
+we form in reality an idea both of the figure and colour, but tacitly carry our eye
+to its resemblance with the globe of black marble: And in the same manner, when
+we wou’d consider its colour only, we turn our view to its resemblance with the
+cube of white marble. By this means we accompany our ideas with a kind of
+reflection, of which custom renders us, in a great measure, insensible. A person,
+who desires us to consider the figure of a globe of white marble without thinking
+on its colour, desires an impossibility; but his meaning is, that we shou’d
+consider the colour and figure together, but still keep in our eye the resemblance
+to the globe of black marble, or that to any other globe of whatever colour or
+substance.
+
+22
+
+10
+
+20
+
+PART 2
+Of the ideas of space and time
+
+Sect. 1. Of the infinite divisibility of our ideas of space and time
+
+Whatever has the air of a paradox, and is contrary to the first and most unpreju-
+dic’d notions of mankind is often greedily embrac’d by philosophers, as showing
+the superiority of their science, which cou’d discover opinions so remote from
+vulgar conception. On the other hand, any thing propos’d to us, which causes
+surprize and admiration, gives such a satisfaction to the mind, that it indulges
+itself in those agreeable emotions, and will never be perswaded that its pleasure
+is entirely without foundation. From these dispositions in philosophers and
+their disciples arises that mutual complaisance betwixt them; while the former
+furnish such plenty of strange and unaccountable opinions, and the latter so
+readily believe them. Of this mutual complaisance I cannot give a more evident
+instance than in the doctrine of infinite divisibility, with the examination of
+which I shall begin this subject of the ideas of space and time.
+
+Tis universally allow’d, that the capacity of the mind is limited, and can
+never attain a full and adequate conception of infinity: And tho’ it were not
+allow’d, ’twou’d be sufficiently evident from the plainest observation and expe-
+rience. ’Tis also obvious, that whatever is capable of being divided in infinitum,
+must consist of an infinite number of parts, and that ’tis impossible to set any
+bounds to the number of parts, without setting bounds at the same time to the
+division. It requires scarce any induction to conclude from hence, that the idea,
+which we form of any finite quality, is not infinitely divisible, but that by proper
+distinctions and separations we may run up this idea to inferior ones, which will
+be perfectly simple and indivisible. In rejecting the infinite capacity of the mind,
+we suppose it may arrive at an end in the division of its ideas; nor are there any
+possible means of evading the evidence of this conclusion.
+
+Tis therefore certain, that the imagination reaches a minimum, and may raise
+up to itself an idea, of which it cannot conceive any sub-division, and which
+cannot be diminish’d without a total annihilation. When you tell me of the
+thousandth and ten thousandth part of a grain of sand, I have a distinct idea of
+these numbers and of their different proportions; but the images, which I form
+in my mind to represent the things themselves, are nothing different from each
+other, nor inferior to that image, by which I represent the grain of sand itself,
+which is suppos’d so vastly to exceed them. What consists of parts is distin-
+guishable into them, and what is distinguishable is separable. But whatever we
+may imagine of the thing, the idea of a grain of sand is not distinguishable, nor
+separable into twenty, much less into a thousand, ten thousand, or an infinite
+number of different ideas.
+
+23
+
+SB [26]
+
+10
+
+20
+
+30
+
+1.2.2 A Treatise of Human Nature
+
+Tis the same case with the impressions of the senses as with the ideas of the
+imagination. Put a spot of ink upon paper, fix your eye upon that spot, and retire
+to such a distance, that at last you lose sight of it; ’tis plain, that the moment
+before it vanish’d the image or impression was perfectly indivisible. *Tis not for
+want of rays of light striking on our eyes, that the minute parts of distant bodies
+convey not any sensible impression; but because they are remov’d beyond that
+distance, at which their impressions were reduc’d to a minimum, and were inca-
+pable of any farther diminution. A microscope or telescope, which renders them
+visible, produces not any new rays of light, but only spreads those, which always
+flow’d from them; and by that means both gives parts to impressions, which to
+the naked eye appear simple and uncompounded, and advances to a minimum,
+what was formerly imperceptible.
+
+We may hence discover the error of the common opinion, that the capacity of
+the mind is limited on both sides, and that ’tis impossible for the imagination to
+form an adequate idea, of what goes beyond a certain degree of minuteness as
+well as of greatness. Nothing can be more minute, than some ideas, which we
+form in the fancy; and images, which appear to the senses; since these are ideas
+and images perfectly simple and indivisible. The only defect of our senses is,
+that they give us disproportion’d images of things, and represent as minute and
+uncompounded what is really great and compos’d of a vast number of parts.
+This mistake we are not sensible of; but taking the impressions of those minute
+objects, which appear to the senses, to be equal or nearly equal to the objects, and
+finding by reason, that there are other objects vastly more minute, we too hastily
+conclude, that these are inferior to any idea of our imagination or impression of
+our senses. This however is certain, that we can form ideas, which shall be no
+greater than the smallest atom of the animal spirits of an insect a thousand times
+less than a mite: And we ought rather to conclude, that the difficulty lies in
+enlarging our conceptions so much as to form a just notion of a mite, or even of
+an insect a thousand times less than a mite. For in order to form a just notion of
+these animals, we must have a distinct idea representing every part of them;
+which, according to the system of infinite divisibility, is utterly impossible, and
+according to that of indivisible parts or atoms, is extremely difficult, by reason of
+the vast number and multiplicity of these parts.
+
+Sect. 2. Of the infinite divisibility of space and time
+
+Wherever ideas are adequate representations of objects, the relations, contradic-
+tions and agreements of the ideas are all applicable to the objects; and this we
+may in general observe to be the foundation of all human knowledge. But our
+ideas are adequate representations of the most minute parts of extension; and
+thro’ whatever divisions and sub-divisions we may suppose these parts to be
+arriv’d at, they can never become inferior to some ideas, which we form. The
+plain consequence is, that whatever appears impossible and contradictory upon
+the comparison of these ideas, must be rea//y impossible and contradictory,
+without any farther excuse or evasion.
+
+24
+
+SB28
+
+10
+
+20
+
+30
+
+40
+
+2
+
+Of the infinite divisibility of space and time 1.2.2
+
+Every thing capable of being infinitely divided contains an infinite number of
+parts; otherwise the division wou’d be stopt short by the indivisible parts, which
+we shou’d immediately arrive at. If therefore any finite extension be infinitely
+divisible, it can be no contradiction to suppose, that a finite extension contains an
+infinite number of parts: And vice versa, if it be a contradiction to suppose, that
+a finite extension contains an infinite number of parts, no finite extension can be
+infinitely divisible. But that this latter supposition is absurd, I easily convince
+myself by the consideration of my clear ideas. I first take the least idea I can form
+of a part of extension, and being certain that there is nothing more minute than
+this idea, I conclude, that whatever I discover by its means must be a real quality
+of extension. I then repeat this idea once, twice, thrice, &c. and find the com-
+pound idea of extension, arising from its repetition, always to augment, and
+become double, triple, quadruple, &c. till at last it swells up to a considerable
+bulk, greater or smaller, in proportion as I repeat more or less the same idea.
+When I stop in the addition of parts, the idea of extension ceases to augment;
+and were I to carry on the addition in infinitum, I clearly perceive, that the idea of
+extension must also become infinite. Upon the whole, I conclude, that the idea of
+an infinite number of parts is individually the same idea with that of an infinite
+extension; that no finite extension is capable of containing an infinite number of
+parts; and consequently that no finite extension is infinitely divisible.°
+
+I may subjoin another argument propos’d by a noted author,’ which seems to
+me very strong and beautiful. ’Tis evident, that existence in itself belongs only
+to unity, and is never applicable to number, but on account of the unites, of
+which the number is compos’d. Twenty men may be said to exist; but ’tis only
+because one, two, three, four, &c. are existent; and if you deny the existence of
+the latter, that of the former falls of course. "Tis therefore utterly absurd
+to suppose any number to exist, and yet deny the existence of unites; and as
+extension is always a number, according to the common sentiment of metaphysi-
+cians, and never resolves itself into any unite or indivisible quantity, it follows,
+that extension can never at all exist. "Tis in vain to reply, that any determinate
+quantity of extension is an unite; but such-a-one as admits of an infinite number
+of fractions, and is inexhaustible in its sub-divisions. For by the same rule these
+twenty men may be consider’d as an unite. The whole globe of the earth, nay the
+whole universe may be consider’d as an unite. That term of unity is merely a ficti-
+tious denomination, which the mind may apply to any quantity of objects it
+collects together; nor can such an unity any more exist alone than number can, as
+being in reality a true number. But the unity, which can exist alone, and whose
+existence is necessary to that of all number, is of another kind, and must be per-
+fectly indivisible, and incapable of being resolv’d into any lesser unity.
+
+° Tt has been objected to me, that infinite divisibility supposes only an infinite number of propor-
+tional not of aliquot parts, and that an infinite number of proportional parts does not form an infi-
+nite extension. But this distinction is entirely frivolous. Whether these parts be call’d aliquot or
+proportional, they cannot be inferior to those minute parts we conceive; and therefore cannot forma
+less extension by their conjunction. 7 Mons. Malezieu.
+
+25
+
+10
+
+SB 30
+
+20
+
+30
+
+SB31
+
+SB 30
+
+1.2.2 A Treatise of Human Nature
+
+All this reasoning takes place with regard to time; along with an additional
+argument, which it may be proper to take notice of. ’Tis a property inseparable
+from time, and which in a manner constitutes its essence, that each of its parts
+succeeds another, and that none of them, however contiguous, can ever be co-
+existent. For the same reason, that the year 1737 cannot concur with the present
+year 1738, every moment must be distinct from, and posterior or antecedent to
+another. ’Tis certain then, that time, as it exists, must be compos’d of indivisible
+moments. For if in time we cou’d never arrive at an end of division, and if each
+moment, as it succeeds another, were not perfectly single and indivisible, there
+wou’d be an infinite number of co-existent moments, or parts of time; which I
+believe will be allow’d to be an arrant contradiction.
+
+The infinite divisibility of space implies that of time, as is evident from the
+nature of motion. If the latter, therefore, be impossible, the former must be
+equally so.
+
+I doubt not but it will readily be allow’d by the most obstinate defender of the
+doctrine of infinite divisibility, that these arguments are difficulties, and that ’tis
+impossible to give any answer to them which will be perfectly clear and satis-
+factory. But here we may observe, that nothing can be more absurd, than this
+custom of calling a difficulty what pretends to be a demonstration, and endeavour-
+ing by that means to elude its force and evidence. ”Tis not in demonstrations
+as in probabilities, that difficulties can take place, and one argument counter-
+ballance another, and diminish its authority. A demonstration, if just, admits of
+no opposite difficulty; and if not just, ’tis a mere sophism, and consequently can
+never be a difficulty. ’Tis either irresistible, or has no manner of force. To talk
+therefore of objections and replies, and ballancing of arguments in such a ques-
+tion as this, is to confess, either that human reason is nothing but a play of words,
+or that the person himself, who talks so, has not a capacity equal to such subjects.
+Demonstrations may be difficult to be comprehended, because of the abstract-
+edness of the subject; but can never have any such difficulties as will weaken
+their authority, when once they are comprehended.
+
+Tis true, mathematicians are wont to say, that there are here equally strong
+arguments on the other side of the question, and that the doctrine of indivisible
+points is also liable to unanswerable objections. Before I examine these argu-
+ments and objections in detail, I will here take them in a body, and endeavour by
+a short and decisive reasoning to prove at once, that ’tis utterly impossible they
+can have any just foundation.
+
+Tis an establish’d maxim in metaphysics, that whatever the mind clearly con-
+ceives includes the idea of possible existence, or in other words, that nothing we
+imagine is absolutely impossible. We can form the idea of a golden mountain, and
+from thence conclude that such a mountain may actually exist. We can form no
+idea of a mountain without a valley, and therefore regard it as impossible.
+
+Now ’tis certain we have an idea of extension; for otherwise why do we talk
+and reason concerning it? ’Tis likewise certain, that this idea, as conceiv’d by
+the imagination, tho’ divisible into parts or inferior ideas, is not infinitely divisi-
+
+26
+
+10
+
+20
+
+SB 32
+
+30
+
+40
+
+10
+
+Of the other qualities of our ideas of space and time 1.2.3
+
+ble, nor consists of an infinite number of parts: For that exceeds the comprehen-
+sion of our limited capacities. Here then is an idea of extension, which consists
+of parts or inferior ideas, that are perfectly indivisible: Consequently this idea
+implies no contradiction: Consequently ’tis possible for extension really to exist
+conformable to it: And consequently all the arguments employ’d against the
+possibility of mathematical points are mere scholastick quibbles, and unworthy
+of our attention.
+
+These consequences we may carry one step farther, and conclude that all the
+pretended demonstrations for the infinite divisibility of extension are equally
+sophistical; since ’tis certain these demonstrations cannot be just without
+proving the impossibility of mathematical points; which ’tis an evident absur-
+dity to pretend to.
+
+Sect. 3. Of the other qualities of our ideas of space and time
+
+No discovery cou’d have been made more happily for deciding all controversies
+concerning ideas, than that above-mention’d, that impressions always take
+the precedency of them, and that every idea, with which the imagination is
+furnish’d, first makes its appearance in a correspondent impression. These
+latter perceptions are all so clear and evident, that they admit of no controversy;
+tho’ many of our ideas are so obscure, that ’tis almost impossible even for the
+mind, which forms them, to tell exactly their nature and composition. Let us
+apply this principle, in order to discover farther the nature of our ideas of space
+and time.
+
+Upon opening my eyes, and turning them to the surrounding objects, I per-
+ceive many visible bodies; and upon shutting them again, and considering the
+distance betwixt these bodies, I acquire the idea of extension. As every idea is
+deriv’d from some impression, which is exactly similar to it, the impressions
+similar to this idea of extension, must either be some sensations deriv’d from the
+sight, or some internal impressions arising from these sensations.
+
+Our internal impressions are our passions, emotions, desires and aversions;
+none of which, I believe, will ever be asserted to be the model, from which the
+idea of space is deriv’d. There remains therefore nothing but the senses, which
+can convey to us this original impression. Now what impression do our senses
+here convey to us? This is the principal question, and decides without appeal
+concerning the nature of the idea.
+
+The table before me is alone sufficient by its view to give me the idea of exten-
+sion. This idea, then, is borrow’d from, and represents some impression, which
+this moment appears to the senses. But my senses convey to me only the impres-
+sions of colour’d points, dispos’d in a certain manner. If the eye is sensible of
+any thing farther, I desire it may be pointed out to me. But if it be impossible to
+show any thing farther, we may conclude with certainty, that the idea of exten-
+sion is nothing but a copy of these colour’d points, and of the manner of their
+appearance.
+
+27
+
+SB 33
+
+10
+
+20
+
+30
+
+SB 34
+
+40
+
+8
+
+1.2.3 A Treatise of Human Nature
+
+Suppose that in the extended object, or composition of colour’d points, from
+which we first receiv’d the idea of extension, the points were of a purple colour;
+it follows, that in every repetition of that idea we wou’d not only place the points
+in the same order with respect to each other, but also bestow on them that precise
+colour, with which alone we are acquainted. But afterwards having experience of
+the other colours of violet, green, red, white, black, and of all the different com-
+positions of these, and finding a resemblance in the disposition of colour’d
+points, of which they are compos’d, we omit the peculiarities of colour, as far as
+possible, and found an abstract idea merely on that disposition of points, or
+manner of appearance, in which they agree. Nay even when the resemblance is
+carry’d beyond the objects of one sense, and the impressions of touch are found
+to be similar to those of sight in the disposition of their parts; this does not
+hinder the abstract idea from representing both, upon account of their resem-
+blance. All abstract ideas are really nothing but particular ones, consider’d in a
+certain light; but being annex’d to general terms, they are able to represent a vast
+variety, and to comprehend objects, which, as they are alike in some particulars,
+are in others vastly wide of each other.
+
+The idea of time, being deriv’d from the succession of our perceptions
+of every kind, ideas as well as impressions, and impressions of reflection as
+well as of sensation, will afford us an instance of an abstract idea, which
+comprehends a still greater variety than that of space, and yet is represented
+in the fancy by some particular individual idea of a determinate quantity and
+quality.
+
+As tis from the disposition of visible and tangible objects we receive the idea
+of space, so from the succession of ideas and impressions we form the idea of
+time, nor is it possible for time alone ever to make its appearance, or be taken
+notice of by the mind. A man ina sound sleep, or strongly occupy’d with one
+thought, is insensible of time; and according as his perceptions succeed each
+other with greater or less rapidity, the same duration appears longer or shorter to
+his imagination. It has been remark’d by a great philosopher,’ that our percep-
+tions have certain bounds in this particular, which are fix’d by the original nature
+and constitution of the mind, and beyond which no influence of external objects
+on the senses is ever able to hasten or retard our thought. If you wheel about a
+burning coal with rapidity, it will present to the senses an image of a circle of
+fire; nor will there seem to be any interval of time betwixt its revolutions; merely
+because ’tis impossible for our perceptions to succeed each other with the same
+rapidity, that motion may be communicated to external objects. Wherever we
+have no successive perceptions, we have no notion of time, even tho’ there be a
+real succession in the objects. From these phenomena, as well as from many
+others, we may conclude, that time cannot make its appearance to the mind,
+either alone, or attended with a steady unchangeable object, but is always dis-
+cover’d by some perceivable succession of changeable objects.
+
+To confirm this we may add the following argument, which to me seems per-
+
+8 Mr. Locke.
+
+28
+
+10
+
+SB35
+
+20
+
+30
+
+40
+
+10
+
+11
+
+Of the other qualities of our ideas of space and time 1.2.3
+
+fectly decisive and convincing. ’Tis evident, that time or duration consists of
+different parts: For otherwise we cou’d not conceive a longer or shorter dura-
+tion. ’Tis also evident, that these parts are not co-existent: For that quality of
+the co-existence of parts belongs to extension, and is what distinguishes it from
+duration. Now as time is compos’d of parts, that are not co-existent; an
+unchangeable object, since it produces none but co-existent impressions, pro-
+duces none that can give us the idea of time; and consequently that idea must be
+deriv’d from a succession of changeable objects, and time in its first appearance
+can never be sever’d from such a succession.
+
+Having therefore found, that time in its first appearance to the mind is always
+conjoin’d with a succession of changeable objects, and that otherwise it can
+never fall under our notice, we must now examine whether it can be conceiv’d
+without our conceiving any succession of objects, and whether it can alone form
+a distinct idea in the imagination.
+
+In order to know whether any objects, which are join’d in impression, be
+separable in idea, we need only consider, if they be different from each other; in
+which case, ’tis plain they may be conceiv’d apart. Every thing, that is different,
+is distinguishable; and every thing, that is distinguishable, may be separated,
+according to the maxims above-explain’d. If on the contrary they be not differ-
+ent, they are not distinguishable; and if they be not distinguishable, they cannot
+be separated. But this is precisely the case with respect to time, compar’d with
+our successive perceptions. The idea of time is not deriv’d from a particular
+impression mix’d up with others, and plainly distinguishable from them; but
+arises altogether from the manner, in which impressions appear to the mind,
+without making one of the number. Five notes play’d on a flute give us the
+impression and idea of time; tho’ time be nota sixth impression, which presents
+itself to the hearing or any other of the senses. Nor is it a sixth impression, which
+the mind by reflection finds in itself. These five sounds making their appearance
+in this particular manner, excite no emotion in the mind, nor produce an affec-
+tion of any kind, which being observ’d by it can give rise to a new idea. For that is
+necessary to produce a new idea of reflection, nor can the mind, by revolving
+over a thousand times all its ideas of sensation, ever extract from them any
+new original idea, unless nature has so fram’d its faculties, that it feels some new
+original impression arise from such a contemplation. But here it only takes
+notice of the manner, in which the different sounds make their appearance; and
+that it may afterwards consider without considering these particular sounds, but
+may conjoin it with any other objects. The ideas of some objects it certainly
+must have, nor is it possible for it without these ideas ever to arrive at any con-
+ception of time; which since it appears not as any primary distinct impression,
+can plainly be nothing but different ideas, or impressions, or objects dispos’d in
+a certain manner, that is, succeeding each other.
+
+I know there are some who pretend, that the idea of duration is applicable in a
+proper sense to objects, which are perfectly unchangeable; and this I take to be
+the common opinion of philosophers as well as of the vulgar. But to be con-
+vine’d of its falshood we need but reflect on the foregoing conclusion, that the
+
+29
+
+SB 36
+
+10
+
+20
+
+SB 37
+
+30
+
+40
+
+12
+
+13
+
+14
+
+15
+
+16
+
+1.2.3 A Treatise of Human Nature
+
+idea of duration is always deriv’d from a succession of changeable objects, and
+can never be convey’d to the mind by any thing stedfast and unchangeable. For it
+inevitably follows from thence, that since the idea of duration cannot be deriv’d
+from such an object, it can never in any propriety or exactness be apply’d to it,
+nor can any thing unchangeable be ever said to have duration. Ideas always
+represent the objects or impressions, from which they are deriv’d, and can
+never without a fiction represent or be apply’d to any other. By what fiction
+we apply the idea of time, even to what is unchangeable, and suppose, as is
+common, that duration is a measure of rest as well as of motion, we shall
+consider afterwards.”
+
+There is another very decisive argument, which establishes the present doc-
+trine concerning our ideas of space and time, and is founded only on that simple
+principle, that our ideas of them are compounded of parts, which are indivisible. This
+argument may be worth the examining.
+
+Every idea, that is distinguishable, being also separable, let us take one of
+those simple indivisible ideas, of which the compound one of extension is form’d,
+and separating it from all others, and considering it apart, let us form a judgment
+of its nature and qualities.
+
+Tis plain it is not the idea of extension. For the idea of extension consists of
+parts; and this idea, according to the supposition, is perfectly simple and indivis-
+ible. Is it therefore nothing? That is absolutely impossible. For as the compound
+idea of extension, which is real, is compos’d of such ideas; were these so many
+non-entities, there wou’d be a real existence compos’d of non-entities; which is
+absurd. Here therefore I must ask, What is our idea of a simple and indivisible
+point? No wonder if my answer appear somewhat new, since the question itself
+has scarce ever yet been thought of. We are wont to dispute concerning the
+nature of mathematical points, but seldom concerning the nature of their
+ideas.
+
+The idea of space is convey’d to the mind by two senses, the sight and
+touch; nor does any thing ever appear extended, that is not either visible or
+tangible. That compound impression, which represents extension, consists of
+several lesser impressions, that are indivisible to the eye or feeling, and may be
+call’d impressions of atoms or corpuscles endow’d with colour and solidity. But
+this is not all. Tis not only requisite, that these atoms shou’d be colour’d or tan-
+gible, in order to discover themselves to our senses; ’tis also necessary we shou’d
+preserve the idea of their colour or tangibility in order to comprehend them
+by our imagination. There is nothing but the idea of their colour or tangibility,
+which can render them conceivable by the mind. Upon the removal of the
+ideas of these sensible qualities, they are utterly annihilated to the thought or
+imagination.
+
+Now such as the parts are, such is the whole. If a point be not consider’d as
+colour’d or tangible, it can convey to us no idea; and consequently the idea of
+
+* Sect. 5.
+
+30
+
+10
+SB38
+
+20
+
+30
+
+SB 39
+
+40
+
+SB 37
+
+17
+
+Objections answer’d 1.2.4
+
+extension, which is compos’d of the ideas of these points, can never possibly
+exist. But if the idea of extension really can exist, as we are conscious it does, its
+parts must also exist; and in order to that, must be consider’d as colour’d or tan-
+gible. We have therefore no idea of space or extension, but when we regard it as
+an object either of our sight or feeling.
+
+The same reasoning will prove, that the indivisible moments of time must be
+fill’d with some real object or existence, whose succession forms the duration,
+and makes it be conceivable by the mind.
+
+Sect. 4. Objections answer’d
+
+Our system concerning space and time consists of two parts, which are inti-
+mately connected together. The first depends on this chain of reasoning. The
+capacity of the mind is not infinite; consequently no idea of extension or dura-
+tion consists of an infinite number of parts or inferior ideas, but of a finite
+number, and these simple and indivisible: ’Tis therefore possible for space and
+time to exist conformable to this idea: And if it be possible, ’tis certain they actu-
+ally do exist conformable to it; since their infinite divisibility is utterly impos-
+sible and contradictory.
+
+The other part of our system is a consequence of this. The parts, into which
+the ideas of space and time resolve themselves, become at last indivisible; and
+these indivisible parts, being nothing in themselves, are inconceivable when not
+fill’d with something real and existent. The ideas of space and time are therefore
+no separate or distinct ideas, but merely those of the manner or order, in which
+objects exist: Or, in other words, ’tis impossible to conceive either a vacuum and
+extension without matter, or a time, when there was no succession or change in
+any real existence. The intimate connexion betwixt these parts of our system is
+the reason why we shall examine together the objections, which have been urg’d
+against both of them, beginning with those against the finite divisibility of
+extension.
+
+1. The first of these objections, which I shall take notice of, is more proper to
+prove this connexion and dependance of the one part upon the other, than to
+destroy either of them. It has often been maintain’d in the schools, that exten-
+sion must be divisible, im infinitum, because the system of mathematical points
+is absurd; and that system is absurd, because a mathematical point is a non-
+entity, and consequently can never by its conjunction with others form a real
+existence. This wou’d be perfectly decisive, were there no medium betwixt the
+infinite divisibility of matter, and the non-entity of mathematical points. But
+there is evidently a medium, viz. the bestowing a colour or solidity on these
+points; and the absurdity of both the extremes is a demonstration of the truth
+and reality of this medium. The system of physical points, which is another
+medium, is too absurd to need a refutation. A real extension, such as a physical
+point is suppos’d to be, can never exist without parts, different from each other;
+and wherever objects are different, they are distinguishable and separable by the
+imagination.
+
+31
+
+10
+
+20
+
+SB 40
+
+30
+
+40
+
+1.2.4 A Treatise of Human Nature
+
+2. The second objection is deriv’d from the necessity there wou’d be of pene-
+tration, if extension consisted of mathematical points. A simple and indivisible
+atom, that touches another, must necessarily penetrate it; for ’tis impossible
+it can touch it by its external parts, from the very supposition of its perfect
+simplicity, which excludes all parts. It must therefore touch it intimately, and
+in its whole essence, secundum se, tota, © totaliter; which is the very definition
+of penetration. But penetration is impossible: Mathematical points are of
+consequence equally impossible.
+
+I answer this objection by substituting a juster idea of penetration. Suppose
+two bodies containing no void within their circumference, to approach each
+other, and to unite in such a manner that the body, which results from their
+union, is no more extended than either of them; ’tis this we must mean when we
+talk of penetration. But ’tis evident this penetration is nothing but the annihila-
+tion of one of these bodies, and the preservation of the other, without our being
+able to distinguish particularly which is preserv’d and which annihilated. Before
+the approach we have the idea of two bodies. After it we have the idea only of
+one. ’Tis impossible for the mind to preserve any notion of difference betwixt
+two bodies of the same nature existing in the same place at the same time.
+
+Taking then penetration in this sense, for the annihilation of one body upon
+its approach to another, I ask any one, if he sees a necessity, that a colour’d or tan-
+gible point shou’d be annihilated upon the approach of another colour’d or tan-
+gible point? On the contrary, does he not evidently perceive, that from the union
+of these points there results an object, which is compounded and divisible, and
+may be distinguish’d into two parts, of which each preserves its existence dis-
+tinct and separate, notwithstanding its contiguity to the other? Let him aid his
+fancy by conceiving these points to be of different colours, the better to prevent
+their coalition and confusion. A blue and a red point may surely lie contiguous
+without any penetration or annihilation. For if they cannot, what possibly can
+become of them? Whether will the red or the blue be annihilated? Or if these
+colours unite into one, what new colour will they produce by their union?
+
+What chiefly gives rise to these objections, and at the same time renders it so
+difficult to give a satisfactory answer to them, is the natural infirmity and
+unsteadiness both of our imagination and senses, when employ’d on such
+minute objects. Put a spot of ink upon paper, and retire to such a distance, that
+the spot becomes altogether invisible; you will find, that upon your return and
+nearer approach the spot first becomes visible by short intervals; and afterwards
+becomes always visible; and afterwards acquires only a new force in its colouring
+without augmenting its bulk; and afterwards, when it has encreas’d to such a
+degree as to be really extended, ’tis still difficult for the imagination to break it
+into its component parts, because of the uneasiness it finds in the conception of
+such a minute object as a single point. This infirmity affects most of our reason-
+ings on the present subject, and makes it almost impossible to answer in an intel-
+ligible manner, and in proper expressions, many questions which may arise
+concerning it.
+
+32
+
+SB41
+
+10
+
+20
+
+30
+
+SB42
+
+40
+
+8
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Objections answer’d 1.2.4
+
+3. There have been many objections drawn from the mathematics against the
+indivisibility of the parts of extension; tho’ at first sight that science seems
+rather favourable to the present doctrine; and if it be contrary in its demonstra-
+tions, tis perfectly conformable in its definitions. My present business then must
+be to defend the definitions, and refute the demonstrations.
+
+A surface is defin’d to be length and breadth without depth: A line to be length
+without breadth or depth: A point to be what has neither length, breadth
+nor depth. ’Tis evident, that all this is perfectly unintelligible upon any other
+supposition than that of the composition of extension by indivisible points
+or atoms. How else cou’d any thing exist without length, without breadth, or
+without depth?
+
+Two different answers, I find, have been made to this argument; neither of
+which is in my opinion satisfactory. The first is, that the objects of geometry,
+those surfaces, lines and points, whose proportions and positions it examines,
+are mere ideas in the mind; and not only never did, but never can exist in nature.
+They never did exist; for no one will pretend to draw a line or make a surface
+entirely conformable to the definition: They never can exist; for we may produce
+demonstrations from these very ideas to prove, that they are impossible.
+
+But can any thing be imagin’d more absurd and contradictory than this
+reasoning? Whatever can be conceiv’d by a clear and distinct idea necessarily
+implies the possibility of existence; and he who pretends to prove the
+impossibility of its existence by any argument deriv’d from the clear idea, in
+reality asserts, that we have no clear idea of it, because we have a clear idea. ’Tis
+in vain to search for a contradiction in any thing that is distinctly conceiv’d
+by the mind. Did it imply any contradiction, ’tis impossible it cou’d ever be
+conceiv’d.
+
+There is therefore no medium betwixt allowing at least the possibility of indi-
+visible points, and denying their idea; and ’tis on this latter principle, that the
+second answer to the foregoing argument is founded. It has been pretended,"”
+that tho’ it be impossible to conceive a length without any breadth, yet by an
+abstraction without a separation, we can consider the one without regarding the
+other; in the same manner as we may think of the length of the way betwixt two
+towns, and overlook its breadth. The length is inseparable from the breadth both
+in nature and in our minds; but this excludes not a partial consideration, and a
+distinction of reason, after the manner above-explain’d.
+
+In refuting this answer I shall not insist on the argument, which I have already
+sufficiently explain’d, that if it be impossible for the mind to arrive at a minimum
+in its ideas, its capacity must be infinite, in order to comprehend the infinite
+number of parts, of which its idea of any extension wou’d be compos’d. I shall
+here endeavour to find some new absurdities in this reasoning.
+
+A surface terminates a solid; a line terminates a surface; a point terminates a
+line; but I assert, that if the zdeas of a point, line or surface were not indivisible,
+
+0 L’Art de penser.
+
+33
+
+10
+
+SB43
+
+20
+
+30
+
+40
+
+15
+
+16
+
+17
+
+18
+
+19
+
+1.2.4 A Treatise of Human Nature
+
+*tis impossible we shou’d ever conceive these terminations. For let these ideas be
+suppos’d infinitely divisible; and then let the fancy endeavour to fix itself on the
+idea of the last surface, line or point; it immediately finds this idea to break into
+parts; and upon its seizing the last of these parts, it loses its hold by a new divi-
+sion, and so on in infinitum, without any possibility of its arriving at a concluding
+idea. The number of fractions bring it no nearer the last division, than the first
+idea it form’d. Every particle eludes the grasp by a new fraction; like quick-
+silver, when we endeavour to seize it. But as in fact there must be something,
+which terminates the idea of every finite quantity; and as this terminating idea
+cannot itself consist of parts or inferior ideas; otherwise it wou’d be the last of its
+parts, which finish’d the idea, and so on; this is a clear proof, that the ideas of
+surfaces, lines and points admit not of any division; those of surfaces in depth; of
+lines in breadth and depth; and of points in any dimension.
+
+The schoolmen were so sensible of the force of this argument, that some of
+them maintain’d, that nature has mix’d among those particles of matter, which
+are divisible in infinitum, anumber of mathematical points, in order to give a ter-
+mination to bodies; and others eluded the force of this reasoning by a heap of
+unintelligible cavils and distinctions. Both these adversaries equally yield the
+victory. A man who hides himself, confesses as evidently the superiority of his
+enemy, as another, who fairly delivers his arms.
+
+Thus it appears, that the definitions of mathematics destroy the pre-
+tended demonstrations; and that if we have the idea of indivisible points,
+lines and surfaces conformable to the definition, their existence is certainly pos-
+sible: But if we have no such idea, ’tis impossible we can ever conceive the termi-
+nation of any figure; without which conception there can be no geometrical
+demonstration.
+
+But I go farther, and maintain, that none of these demonstrations can have
+sufficient weight to establish such a principle, as this of infinite divisibility; and
+that because with regard to such minute objects, they are not properly demon-
+strations, being built on ideas, which are not exact, and maxims, which are not
+precisely true. When geometry decides any thing concerning the proportions of
+quantity, we ought not to look for the utmost precision and exactness. None of its
+proofs extend so far. It takes the dimensions and proportions of figures justly;
+but roughly, and with some liberty. Its errors are never considerable; nor wou’d
+it err at all, did it not aspire to such an absolute perfection.
+
+I first ask mathematicians, what they mean when they say one line or surface is
+EQUAL to, Or GREATER, or LESS than another? Let any of them give an answer, to
+whatever sect he belongs, and whether he maintains the composition of exten-
+sion by indivisible points, or by quantities divisible im infinitum. This question
+will embarrass both of them.
+
+There are few or no mathematicians, who defend the hypothesis of indivisible
+points; and yet these have the readiest and justest answer to the present question.
+They need only reply, that lines or surfaces are equal, when the numbers of
+points in each are equal; and that as the proportion of the numbers varies, the
+proportion of the lines and surfaces is also vary’d. But tho’ this answer be just, as
+
+34
+
+SB 44
+
+10
+
+20
+
+SB45
+
+30
+
+40
+
+20
+
+21
+
+22
+
+Objections answer’d 1.2.4
+
+well as obvious; yet I may affirm, that this standard of equality is entirely useless,
+and that it never is from such a comparison we determine objects to be equal or
+unequal with respect to each other. For as the points, which enter into the com-
+position of any line or surface, whether perceiv’d by the sight or touch, are
+so minute and so confounded with each other, that ’tis utterly impossible for
+the mind to compute their number, such a computation will never afford us a
+standard, by which we may judge of proportions. No one will ever be able to
+determine by an exact numeration, that an inch has fewer points than a foot, or a
+foot fewer than an ell or any greater measure; for which reason we seldom or
+never consider this as the standard of equality or inequality.
+
+As to those, who imagine, that extension is divisible im infinitum, ’tis impos-
+sible they can make use of this answer, or fix the equality of any line or surface by
+a numeration of its component parts. For since, according to their hypothesis,
+the least as well as greatest figures contain an infinite number of parts; and since
+infinite numbers, properly speaking, can neither be equal nor unequal with
+respect to each other; the equality or inequality of any portions of space can
+never depend on any proportion in the number of their parts. ”Tis true, it may be
+said, that the inequality of an ell and a yard consists in the different numbers of
+the feet, of which they are compos’d; and that of a foot and a yard in the number
+of the inches. But as that quantity we call an inch in the one is suppos’d equal to
+what we call an inch in the other, and as ’tis impossible for the mind to find this
+equality by proceeding in infinitum with these references to inferior quantities;
+tis evident, that at last we must fix some standard of equality different from an
+enumeration of the parts.
+
+There are some,'! who pretend, that equality is best defin’d by congruity, and
+that any two figures are equal, when upon the placing of one upon the other, all
+their parts correspond to and touch each other. In order to judge of this defini-
+tion let us consider, that since equality is a relation, it is not, strictly speaking, a
+property in the figures themselves, but arises merely from the comparison,
+which the mind makes betwixt them. If it consists, therefore, in this imaginary
+application and mutual contact of parts, we must at least have a distinct notion of
+these parts, and must conceive their contact. Now ’tis plain, that in this concep-
+tion we wou’d run up these parts to the greatest minuteness, which can possibly
+be conceiv’d; since the contact of large parts wou’d never render the figures
+equal. But the minutest parts we can conceive are mathematical points; and
+consequently this standard of equality is the same with that deriv’d from the
+equality of the number of points; which we have already determin’d to be a just
+but an useless standard. We must therefore look to some other quarter for a solu-
+tion of the present difficulty.
+
+4pp-There are many philosophers, who refuse to assign any standard of equal-
+ity, but assert, that ’tis sufficient to present two objects, that are equal, in order to
+give us a just notion of this proportion. All definitions, say they, are fruitless,
+without the perception of such objects; and where we perceive such objects, we
+
+"' See Dr. Barrow’s mathematical lectures.
+
+35
+
+10
+SB 46
+
+20
+
+30
+
+SB47
+
+SB 637
+
+SB 46
+
+23
+
+24
+
+1.2.4 A Treatise of Human Nature
+
+no longer stand in need of any definition. To this reasoning I entirely agree; and
+assert, that the only useful notion of equality, or inequality, is deriv’d from the
+whole united appearance and the comparison of particular objects. For*?? ’tis
+evident, that the eye, or rather the mind is often able at one view to determine the
+proportions of bodies, and pronounce them equal to, or greater or less than each
+other, without examining or comparing the number of their minute parts. Such
+judgments are not only common, but in many cases certain and infallible. When
+the measure of a yard and that of a foot are presented, the mind can no more
+question, that the first is longer than the second, than it can doubt of those prin-
+ciples, which are the most clear and self-evident.
+
+There are therefore three proportions, which the mind distinguishes in the
+general appearance of its objects, and calls by the names of greater, less and equal.
+But tho’ its decisions concerning these proportions be sometimes infallible, they
+are not always so; nor are our judgments of this kind more exempt from doubt
+and error, than those on any other subject. We frequently correct our first
+opinion by a review and reflection; and pronounce those objects to be equal,
+which at first we esteem’d unequal; and regard an object as less, tho’ before it
+appear’d greater than another. Nor is this the only correction, which these judg-
+ments of our senses undergo; but we often discover our error by a juxta-position
+of the objects; or where that is impracticable, by the use of some common and
+invariable measure, which being successively apply’d to each, informs us of their
+different proportions. And even this correction is susceptible of a new correc-
+tion, and of different degrees of exactness, according to the nature of the instru-
+ment, by which we measure the bodies, and the care which we employ in the
+comparison.
+
+When therefore the mind is accustom’d to these judgments and their correc-
+tions, and finds that the same proportion which makes two figures have in the eye
+that appearance, which we call equality, makes them also correspond to each
+other, and to any common measure, with which they are compar’d, we form a
+mix’d notion of equality deriv’d both from the looser and stricter methods of
+comparison. But we are not content with this. For as sound reason convinces us
+that there are bodies vast/y more minute than those, which appear to the senses;
+and as a false reason wou’d perswade us, that there are bodies infinitely more
+minute; we clearly perceive, that we are not possess’d of any instrument or art of
+measuring, which can secure us from all error and uncertainty. We are sensible,
+that the addition or removal of one of these minute parts, is not discernible
+either in the appearance or measuring; and as we imagine, that two figures,
+which were equal before, cannot be equal after this removal or addition, we
+therefore suppose some imaginary standard of equality, by which the appear-
+ances and measuring are exactly corrected, and the figures reduc’d entirely to
+that proportion. This standard is plainly imaginary. For as the very idea of
+equality is that of such a particular appearance corrected by juxta-position or a
+common measure, the notion of any correction beyond what we have instru-
+ments and art to make, isa mere fiction of the mind, and useless as well as incom-
+prehensible. But tho’ this standard be only imaginary, the fiction however is very
+
+36
+
+SB47
+
+10
+
+20
+
+SB48
+
+30
+
+40
+
+25
+
+26
+
+Objections answer’d 1.2.4
+
+natural; nor is any thing more usual, than for the mind to proceed after this
+manner with any action, even after the reason has ceas’d, which first determin’d
+it to begin. This appears very conspicuously with regard to time; where tho’ ’tis
+evident we have no exact method of determining the proportions of parts, not
+even so exact as in extension, yet the various corrections of our measures, and
+their different degrees of exactness, have given us an obscure and implicit notion
+of a perfect and entire equality. The case is the same in many other subjects. A
+musician finding his ear become every day more delicate, and correcting himself
+by reflection and attention, proceeds with the same act of the mind, even when
+the subject fails him, and entertains a notion of a compleat tierce or octave,
+without being able to tell whence he derives his standard. A painter forms the
+same fiction with regard to colours. A mechanic with regard to motion. To the
+one light and shade; to the other swift and s/om are imagin’d to be capable of an
+exact comparison and equality beyond the judgments of the senses.
+
+We may apply the same reasoning to CURVE and RIGHT lines. Nothing is more
+apparent to the senses, than the distinction betwixt a curve and a right line; nor
+are there any ideas we more easily form than the ideas of these objects. But
+however easily we may form these ideas, ’tis impossible to produce any definition
+of them, which will fix the precise boundaries betwixt them. When we draw
+lines upon paper or any continu’d surface, there is a certain order, by which the
+lines run along from one point to another, that they may produce the entire
+impression of a curve or right line; but this order is perfectly unknown, and
+nothing is observ’d but the united appearance. Thus even upon the system of
+indivisible points, we can only form a distant notion of some unknown standard
+to these objects. Upon that of infinite divisibility we cannot go even this length;
+but are reduc’d merely to the general appearance, as the rule by which we deter-
+mine lines to be either curve or right ones. But tho’ we can give no perfect de-
+finition of these lines, nor produce any very exact method of distinguishing the
+one from the other; yet this hinders us not from correcting the first appearance
+by a more accurate consideration, and by a comparison with some rule, of whose
+rectitude from repeated trials we have a greater assurance. And ’tis from these
+corrections, and by carrying on the same action of the mind, even when its
+reason fails us, that we form the loose idea of a perfect standard to these figures,
+without being able to explain or comprehend it.
+
+Tis true, mathematicians pretend they give an exact definition of a right line,
+when they say, it 1s the shortest way betwixt two points. But in the first place I
+observe, that this is more properly the discovery of one of the properties of a
+right line, than a just definition of it. For lask any one, if upon mention of a right
+line he thinks not immediately on such a particular appearance, and if ’tis not by
+accident only that he considers this property? A right line can be comprehended
+alone; but this definition is unintelligible without a comparison with other lines,
+which we conceive to be more extended. In common life ’tis establish’d as a
+maxim, that the streightest way is always the shortest; which wou’d be as absurd
+as to say, the shortest way is always the shortest, if our idea of a right line was not
+different from that of the shortest way betwixt two points.
+
+37
+
+SB49
+
+20
+
+30
+
+SBSO
+
+40
+
+27
+
+28
+
+29
+
+30
+
+1.2.4 A Treatise of Human Nature
+
+Secondly, I repeat what I have already establish’d, that we have no precise
+idea of equality and inequality, shorter and longer, more than of a right line
+or a curve; and consequently that the one can never afford us a perfect standard
+for the other. An exact idea can never be built on such as are loose and
+undeterminate.
+
+The idea of a plane surface is as little susceptible of a precise standard as that of
+a right line; nor have we any other means of distinguishing such a surface, than
+its general appearance. “Tis in vain, that mathematicians represent a plane
+surface as produc’d by the flowing of a right line. “Twill immediately be
+objected, that our idea of a surface is as independent of this method of forming
+a surface, as our idea of an ellipse is of that of a cone; that the idea of a right line
+is no more precise than that of a plane surface; that a right line may flow irregu-
+larly, and by that means form a figure quite different from a plane; and that
+therefore we must suppose it to flow along two right lines, parallel to each other,
+and on the same plane; which is a description, that explains a thing by itself, and
+returns ina circle.
+
+It appears, then, that the ideas which are most essential to geometry, viz. those
+of equality and inequality, of a right line and a plane surface, are far from being
+exact and determinate, according to our common method of conceiving them.
+Not only we are incapable of telling, if the case be in any degree doubtful, when
+such particular figures are equal; when such a line is a right one, and such a
+surface a plane one; but we can form no idea of that proportion, or of these
+figures, which is firm and invariable. Our appeal is still to the weak and fallible
+judgment, which we make from the appearance of the objects, and correct by a
+compass or common measure; and if we join the supposition of any farther cor-
+rection, tis of such-a-one as is either useless or imaginary. In vain shou’d we
+have recourse to the common topic, and employ the supposition of a deity,
+whose omnipotence may enable him to form a perfect geometrical figure, and
+describe a right line without any curve or inflexion. As the ultimate standard of
+these figures is deriv’d from nothing but the senses and imagination, ’tis absurd
+to talk of any perfection beyond what these faculties can judge of; since the true
+perfection of any thing consists in its conformity to its standard.
+
+Now since these ideas are so loose and uncertain, I wou’d fain ask any mathe-
+matician what infallible assurance he has, not only of the more intricate and
+obscure propositions of his science, but of the most vulgar and obvious princi-
+ples? How can he prove to me, for instance, that two right lines cannot have one
+common segment? Or that ’tis impossible to draw more than one right line
+betwixt any two points? Shou’d he tell me, that these opinions are obviously
+absurd, and repugnant to our clear ideas; I wou’d answer, that I do not deny,
+where two right lines incline upon each other with a sensible angle, but ’tis
+absurd to imagine them to have a common segment. But supposing these two
+lines to approach at the rate of an inch in twenty leagues, I perceive no absurdity
+in asserting, that upon their contact they become one. For, I beseech you, by
+what rule or standard do you judge, when you assert, that the line, in which I
+have suppos’d them to concur, cannot make the same right line with those two,
+
+38
+
+10
+
+SBS1
+
+20
+
+30
+
+40
+
+SBS52
+
+31
+
+32
+
+33
+
+Objections answer’d 1.2.4
+
+that form so small an angle betwixt them? You must surely have some idea of a
+right line, to which this line does not agree. Do you therefore mean, that it takes
+not the points in the same order and by the same rule, as is peculiar and essential
+to a right line? If so, I must inform you, that besides that in judging after this
+manner you allow, that extension is compos’d of indivisible points (which,
+perhaps, is more than you intend) besides this, I say, I must inform you, that
+neither is this the standard from which we form the idea of a right line; nor, if it
+were, is there any such firmness in our senses or imagination, as to determine
+when such an order is violated or preserv’d. The original standard of a right line
+is in reality nothing but a certain general appearance; and ’tis evident right lines
+may be made to concur with each other, and yet correspond to this standard, tho’
+corrected by all the means either practicable or imaginable.
+
+eP-To whatever side mathematicians turn, this dilemma still meets them. If
+they judge of equality, or any other proportion, by the accurate and exact stan-
+dard, viz. the enumeration of the minute indivisible parts, they both employ a
+standard, which is useless in practice, and actually establish the indivisibility of
+extension, which they endeavour to explode. Or if they employ, as is usual, the
+inaccurate standard, deriv’d from a comparison of objects, upon their general
+appearance, corrected by measuring and juxta-position; their first principles,
+tho’ certain and infallible, are too coarse to afford any such subtile inferences as
+they commonly draw from them. The first principles are founded on the imagi-
+nation and senses: The conclusion, therefore, can never go beyond, much less
+contradict these faculties.*??:
+
+This may open our eyes a little, and let us see, that no geometrical demonstra-
+tion for the infinite divisibility of extension can have so much force as what we
+naturally attribute to every argument, which is supported by such magnificent
+pretensions. At the same time we may learn the reason, why geometry fails of
+evidence in this single point, while all its other reasonings command our fullest
+assent and approbation. And indeed it seems more requisite to give the reason of
+this exception, than to show, that we really must make such an exception, and
+regard all the mathematical arguments for infinite divisibility as utterly sophisti-
+cal. For ’tis evident, that as no idea of quantity is infinitely divisible, there cannot
+be imagin’d a more glaring absurdity, than to endeavour to prove, that quantity
+itself admits of such a division; and to prove this by means of ideas, which are
+directly opposite in that particular. And as this absurdity is very glaring in itself,
+so there is no argument founded on it, which is not attended with a new absur-
+dity, and involves not an evident contradiction.
+
+I may give as instances those arguments for infinite divisibility, which are
+deriv’d from the point of contact. I know there is no mathematician, who will not
+refuse to be judg’d by the diagrams he describes upon paper, these being loose
+draughts, as he will tell us, and serving only to convey with greater facility
+certain ideas, which are the true foundation of all our reasoning. This I am
+satisfy’d with, and am willing to rest the controversy merely upon these ideas. I
+desire therefore our mathematician to form, as accurately as possible, the ideas of
+acircle and a right line; and I then ask, if upon the conception of their contact he
+
+39
+
+10
+
+SB 638
+
+20
+
+SBS52
+
+30
+
+SBS53
+
+40
+
+1.2.5 A Treatise of Human Nature
+
+can conceive them as touching in a mathematical point, or if he must necessarily
+imagine them to concur for some space? Which-ever side he chooses, he runs
+himself into equal difficulties. If he affirms, that in tracing these figures in his
+imagination, he can imagine them to touch only in a point, he allows the pos-
+sibility of that idea, and consequently of the thing. If he says, that in his concep-
+tion of the contact of those lines he must make them concur, he thereby
+acknowledges the fallacy of geometrical demonstrations, when carry’d beyond a
+certain degree of minuteness; since ’tis certain he has such demonstrations
+against the concurrence of a circle and a right line; that is, in other words, he can
+prove an idea, viz. that of concurrence, to be incompatible with two other ideas,
+viz. those of a circle and right line; tho’ at the same time he acknowledges these
+ideas to be inseparable.
+
+Sect.5. The same subject continu’d
+
+If the second part of my system be true, that the idea of space or extension is
+nothing but the idea of visible or tangible points distributed in a certain order; it
+follows, that we can form no idea of a vacuum, or space, where there is nothing
+visible or tangible. This gives rise to three objections, which I shall examine
+together, because the answer I shall give to one is a consequence of that which I
+shall make use of for the others.
+
+First, It may be said, that men have disputed for many ages concerning a
+vacuum and a plenum, without being able to bring the affair to a final decision;
+and philosophers, even at this day, think themselves at liberty to take party on
+either side, as their fancy leads them. But whatever foundation there may be for
+a controversy concerning the things themselves, it may be pretended, that the
+very dispute is decisive concerning the idea, and that ’tis impossible men cou’d
+so long reason about a vacuum, and either refute or defend it, without having a
+notion of what they refuted or defended.
+
+Secondly, If this argument shou’d be contested, the reality or at least possibil-
+ity of the zdea of a vacuum may be prov’d by the following reasoning. Every idea
+is possible, which is a necessary and infallible consequence of such as are pos-
+sible. Now tho’ we allow the world to be at present a plenum, we may easily con-
+ceive it to be depriv’d of motion; and this idea will certainly be allow’d possible.
+It must also be allow’d possible, to conceive the annihilation of any part of matter
+by the omnipotence of the deity, while the other parts remain at rest. For as
+every idea, that is distinguishable, is separable by the imagination; and as every
+idea, that is separable by the imagination, may be conceiv’d to be separately exis-
+tent; ’tis evident, that the existence of one particle of matter, no more implies the
+existence of another, than a square figure in one body implies a square figure in
+every one. This being granted, I now demand what results from the concurrence
+of these two possible ideas of rest and annihilation, and what must we conceive to
+follow upon the annihilation of all the air and subtile matter in the chamber,
+supposing the walls to remain the same, without any motion or alteration? There
+are some metaphysicians, who answer, that since matter and extension are the
+
+40
+
+10
+
+SB 54
+
+20
+
+30
+
+40
+
+The same subject continu’d 1.2.5
+
+same, the annihilation of one necessarily implies that of the other; and there
+being now no distance betwixt the walls of the chamber, they touch each other;
+in the same manner as my hand touches the paper, which is immediately before
+me. But tho’ this answer be very common, I defy these metaphysicians to con-
+ceive the matter according to their hypothesis, or imagine the floor and roof, with
+all the opposite sides of the chamber, to touch each other, while they continue in
+rest, and preserve the same position. For how can the two walls, that run from
+south to north, touch each other, while they touch the opposite ends of two
+walls, that run from east to west? And how can the floor and roof ever meet,
+while they are separated by the four walls, that lie in a contrary position? If you
+change their position, you suppose a motion. If you conceive any thing betwixt
+them, you suppose a new creation. But keeping strictly to the two ideas of rest
+and annihilation, ’tis evident, that the idea, which results from them, is not that
+of a contact of parts, but something else; which is concluded to be the idea of a
+vacuum.
+
+The third objection carries the matter still farther, and not only asserts, that
+the idea of a vacuum is real and possible, but also necessary and unavoidable.
+This assertion is founded on the motion we observe in bodies, which, ’tis
+maintain’d, wou’d be impossible and inconceivable without a vacuum, into
+which one body must move in order to make way for another. I shall not enlarge
+upon this objection, because it principally belongs to natural philosophy, which
+lies without our present sphere.
+
+In order to answer these objections, we must take the matter pretty deep, and
+consider the nature and origin of several ideas, lest we dispute without under-
+standing perfectly the subject of the controversy. ’Tis evident the idea of dark-
+ness is no positive idea, but merely the negation of light, or more properly
+speaking, of colour’d and visible objects. A man, who enjoys his sight, receives
+no other perception from turning his eyes on every side, when entirely depriv’d
+of light, than what is common to him with one born blind; and ’tis certain such-
+a-one has no idea either of light or darkness. The consequence of this is, that ’tis
+not from the mere removal of visible objects we receive the impression of exten-
+sion without matter; and that the idea of utter darkness can never be the same
+with that of vacuum.
+
+Suppose again a man to be supported in the air, and to be softly convey’d along
+by some invisible power; ’tis evident he is sensible of nothing, and never
+receives the idea of extension, nor indeed any idea, from this invariable motion.
+Even supposing he moves his limbs to and fro, this cannot convey to him that
+idea. He feels in that case a certain sensation or impression, the parts of which
+are successive to each other, and may give him the idea of time: But certainly
+are not dispos’d in such a manner, as is necessary to convey the idea of space or
+extension.
+
+Since then it appears, that darkness and motion, with the utter removal of
+every thing visible and tangible, can never give us the idea of extension without
+matter, or of a vacuum; the next question is, whether they can convey this idea,
+when mix’d with something visible and tangible?
+
+4l
+
+SBSS
+
+10
+
+20
+
+SB 56
+
+30
+
+40
+
+10
+
+11
+
+12
+
+1.2.5 A Treatise of Human Nature
+
+*Tis commonly allow’d by philosophers, that all bodies, which discover them-
+selves to the eye, appear as if painted on a plane surface, and that their different
+degrees of remoteness from ourselves are discover’d more by reason than by the
+senses. When I hold up my hand before me, and spread my fingers, they are
+separated as perfectly by the blue colour of the firmament, as they cou’d be by
+any visible object, which I cou’d place betwixt them. In order, therefore, to know
+whether the sight can convey the impression and idea of a vacuum, we must
+suppose, that amidst an entire darkness, there are luminous bodies presented to
+us, whose light discovers only these bodies themselves, without giving us any
+impression of the surrounding objects.
+
+We must form a parallel supposition concerning the objects of our feeling.
+Tis not proper to suppose a perfect removal of all tangible objects: We must
+allow something to be perceiv’d by the feeling; and after an interval and motion
+of the hand or other organ of sensation, another object of the touch to be met
+with; and upon leaving that, another; and so on, as often as we please. The ques-
+tion is, whether these intervals do not afford us the idea of extension without
+body?
+
+To begin with the first case; ’tis evident, that when only two luminous bodies
+appear to the eye, we can perceive, whether they be conjoin’d or separate;
+whether they be separated by a great or small distance; and if this distance varies,
+we can perceive its encrease or diminution, with the motion of the bodies. But as
+the distance is not in this case any thing colour’d or visible, it may be thought that
+there is here a vacuum or pure extension, not only intelligible to the mind, but
+obvious to the very senses.
+
+This is our natural and most familiar way of thinking; but which we shall
+learn to correct by a little reflection. We may observe, that when two bodies
+present themselves, where there was formerly an entire darkness, the only
+change, that is discoverable, is in the appearance of these two objects, and that all
+the rest continues to be as before, a perfect negation of light, and of every
+colour’d or visible object. This is not only true of what may be said to be remote
+from these bodies, but also of the very distance, which is interpos’d betwixt
+them; ‘hat being nothing but darkness, or the negation of light; without parts,
+without composition, invariable and indivisible. Now since this distance causes
+no perception different from what a blind man receives from his eyes, or what is
+convey’d to us in the darkest night, it must partake of the same properties: And
+as blindness and darkness afford us no ideas of extension, ’tis impossible that
+the dark and undistinguishable distance betwixt two bodies can ever produce
+that idea.
+
+The sole difference betwixt an absolute darkness and the appearance of two or
+more visible luminous objects consists, as I said, in the objects themselves, and in
+the manner they affect our senses. The angles, which the rays of light flowing
+from them, form with each other; the motion that is requir’d in the eye, in its
+passage from one to the other; and the different parts of the organs, which are
+affected by them; these produce the only perceptions, from which we can judge
+
+42
+
+10
+SBS7
+
+20
+
+30
+
+SBS8
+40
+
+13
+
+14
+
+15
+
+16
+
+17
+
+The same subject continu’d 1.2.5
+
+of the distance. But as these perceptions are each of them simple and indivisible,
+they can never give us the idea of extension.
+
+We may illustrate this by considering the sense of feeling, and the imaginary
+distance or interval interpos’d betwixt tangible or solid objects. I suppose two
+cases, viz. that of a man supported in the air, and moving his limbs to and fro,
+without meeting any thing tangible; and that of a man, who feeling something
+tangible, leaves it, and after a motion, of which he is sensible, perceives another
+tangible object; and I then ask, wherein consists the difference betwixt these two
+cases? No one will make any scruple to affirm, that it consists merely in the per-
+ceiving those objects, and that the sensation, which arises from the motion, is in
+both cases the same: And as that sensation is not capable of conveying to us an
+idea of extension, when unaccompany’d with some other perception, it can no
+more give us that idea, when mix’d with the impressions of tangible objects;
+since that mixture produces no alteration upon it.
+
+But tho’ motion and darkness, either alone, or attended with tangible and
+visible objects, convey no idea of a vacuum or extension without matter, yet they
+are the causes why we falsly imagine we can form such an idea. For there is a
+close relation betwixt that motion and darkness, and a real extension, or compo-
+sition of visible and tangible objects.
+
+First, We may observe, that two visible objects appearing in the midst of utter
+darkness, affect the senses in the same manner, and form the same angle by the
+rays, which flow from them, and meet in the eye, as if the distance betwixt them
+were fill’d with visible objects, that give us a true idea of extension. The sensa-
+tion of motion is likewise the same, when there is nothing tangible interpos’d
+betwixt two bodies, as when we feel a compounded body, whose different parts
+are plac’d beyond each other.
+
+Secondly, We find by experience, that two bodies, which are so plac’d as to
+affect the senses in the same manner with two others, that havea certain extent of
+visible objects interpos’d betwixt them, are capable of receiving the same extent,
+without any sensible impulse or penetration, and without any change on that
+angle, under which they appear to the senses. In like manner, where there is one
+object, which we cannot feel after another without an interval, and the perceiv-
+ing of that sensation we call motion in our hand or organ of sensation; experi-
+ence shows us, that ’tis possible the same objects may be felt with the same
+sensation of motion, along with the interpos’d impression of solid and tangible
+objects, attending the sensation. That is, in other words, an invisible and intan-
+gible distance may be converted into a visible and tangible one, without any
+change on the distant objects.
+
+Thirdly, We may observe, as another relation betwixt these two kinds of dis-
+tance, that they have nearly the same effects on every natural phenomenon. For
+as all qualities, such as heat, cold, light, attraction, &c. diminish in proportion to
+the distance; there is but little difference observ’d, whether this distance be
+mark’d out by compounded and sensible objects, or be known only by the
+manner, in which the distant objects affect the senses.
+
+43
+
+10
+
+20
+
+SBS9
+
+30
+
+40
+
+18
+
+19
+
+20
+
+21
+
+1.2.5 A Treatise of Human Nature
+
+Here then are three relations betwixt that distance, which conveys the idea
+of extension, and that other, which is not fill’d with any colour’d or solid
+object. The distant objects affect the senses in the same manner, whether sepa-
+rated by the one distance or the other; the second species of distance is found
+capable of receiving the first; and they both equally diminish the force of every
+quality.
+
+These relations betwixt the two kinds of distance will afford us an easy reason,
+why the one has so often been taken for the other, and why we imagine we have an
+idea of extension without the idea of any object either of the sight or feeling. For
+we may establish it as a general maxim in this science of human nature, that
+wherever there is a close relation betwixt two ideas, the mind is very apt to
+mistake them, and in all its discourses and reasonings to use the one for the other.
+This phenomenon occurs on so many occasions, and is of such consequence,
+that I cannot forbear stopping a moment to examine its causes. I shall only
+premise, that we must distinguish exactly betwixt the phenomenon itself, and
+the causes, which I shall assign for it; and must not imagine from any uncertainty
+in the latter, that the former is also uncertain. The phenomenon may be real,
+tho’ my explication be chimerical. The falshood of the one is no consequence of
+that of the other; tho’ at the same time we may observe, that ’tis very natural for
+us to draw such a consequence; which is an evident instance of that very princi-
+ple, which I endeavour to explain.
+
+When I receiv’d the relations of resemblance, contiguity and causation, as prin-
+ciples of union among ideas, without examining into their causes, twas more in
+prosecution of my first maxim, that we must in the end rest contented with
+experience, than for want of something specious and plausible, which I might
+have display’d on that subject. *"Twou’d have been easy to have made an imagi-
+nary dissection of the brain, and have shown, why upon our conception of any
+idea, the animal spirits run into all the contiguous traces, and rouze up the other
+ideas, that are related to it. But tho’ I have neglected any advantage, which I
+might have drawn from this topic in explaining the relations of ideas, [am afraid
+I must here have recourse to it, in order to account for the mistakes that arise
+from these relations. I shall therefore observe, that as the mind is endow’d witha
+power of exciting any idea it pleases; whenever it dispatches the spirits into that
+region of the brain, in which the idea is plac’d; these spirits always excite the
+idea, when they run precisely into the proper traces, and rummage that cell,
+which belongs to the idea. But as their motion is seldom direct, and naturally
+turns a little to the one side or the other; for this reason the animal spirits, falling
+into the contiguous traces, present other related ideas in lieu of that, which the
+mind desir’d at first to survey. This change we are not always sensible of; but
+continuing still the same train of thought, make use of the related idea, which
+is presented to us, and employ it in our reasoning, as if it were the same with
+what we demanded. This is the cause of many mistakes and sophisms in phi-
+losophy; as will naturally be imagin’d, and as it wou’d be easy to show, if there
+was occasion.
+
+Of the three relations above-mention’d, that of resemblance is the most fertile
+
+44
+
+SB 60
+
+10
+
+20
+
+30
+
+SB61
+
+40
+
+22
+
+23
+
+24
+
+The same subject continu’d 1.2.5
+
+source of error; and indeed there are few mistakes in reasoning, which do not
+borrow largely from that origin. Resembling ideas are not only related together,
+but the actions of the mind, which we employ in considering them, are so little
+different, that we are not able to distinguish them. This last circumstance is of
+great consequence; and we may in general observe, that wherever the actions of
+the mind in forming any two ideas are the same or resembling, we are very apt to
+confound these ideas, and take the one for the other. Of this we shall see many
+instances in the progress of this treatise. But tho’ resemblance be the relation,
+which most readily produces a mistake in ideas, yet the others of causation and
+contiguity may also concur in the same influence. We might produce the figures
+of poets and orators, as sufficient proofs of this, were it as usual, as it is reason-
+able, in metaphysical subjects to draw our arguments from that quarter. But lest
+metaphysicians shou’d esteem this below their dignity, I shall borrow a proof
+from an observation, which may be made on most of their own discourses, viz.
+that ’tis usual for men to use words for ideas, and to talk instead of thinking in
+their reasonings. We use words for ideas, because they are commonly so closely
+connected, that the mind easily mistakes them. And this likewise is the reason,
+why we substitute the idea of a distance, which is not consider’d either as visible
+or tangible, in the room of extension, which is nothing but a composition of
+visible or tangible points dispos’d in a certain order. In causing this mistake there
+concur both the relations of causation and resemblance. As the first species of dis-
+tance is found to be convertible into the second, ’tis in this respect a kind of
+cause; and the similarity of their manner of affecting the senses, and diminish-
+ing every quality, forms the relation of resemblance.
+
+After this chain of reasoning and explication of my principles, I am
+now prepar’d to answer all the objections that have been offer’d, whether deriv’d
+from metaphysics or mechanics. The frequent disputes concerning a vacuum,
+or extension without matter, prove not the reality of the idea, upon which
+the dispute turns; there being nothing more common, than to see men
+deceive themselves in this particular; especially when by means of any close
+relation, there is another idea presented, which may be the occasion of their
+mistake.
+
+We may make almost the same answer to the second objection, deriv’d from
+the conjunction of the ideas of rest and annihilation. When every thing is anni-
+hilated in the chamber, and the walls continue immoveable, the chamber must be
+conceiv’d much in the same manner as at present, when the air that fills it, is not
+an object of the senses. This annihilation leaves to the eye, that fictitious dis-
+tance, which is discover’d by the different parts of the organ, that are affected,
+and by the degrees of light and shade; and to the fee/ing, that which consists in a
+sensation of motion in the hand, or other member of the body. In vain shou’d we
+search any farther. On which-ever side we turn this subject, we shall find that
+these are the only impressions such an object can produce after the suppos’d
+annihilation; and it has already been remark’d, that impressions can give rise to
+no ideas, but to such as resemble them.
+
+Since a body interpos’d betwixt two others may be suppos’d to be annihilated,
+
+45
+
+10
+
+SB 62
+
+20
+
+30
+
+40
+
+SB63
+
+25
+
+26
+
+1.2.5 A Treatise of Human Nature
+
+without producing any change upon such as lie on each hand of it, ’tis easily con-
+ceiv’d, how it may be created anew, and yet produce as little alteration. Now the
+motion of a body has much the same effect as its creation. The distant bodies are
+no more affected in the one case, than in the other. This suffices to satisfy the
+imagination, and proves there is no repugnance in such a motion. Afterwards
+experience comes in play to perswade us that two bodies, situated in the manner
+above-describ’d, have really sucha capacity of receiving body betwixt them, and
+that there is no obstacle to the conversion of the invisible and intangible distance
+into one that is visible and tangible. However natural that conversion may seem,
+we cannot be sure it is practicable, before we have had experience of it.
+
+Thus I seem to have answer’d the three objections above-mention’d; tho’ at
+the same time I am sensible, that few will be satisfy’d with these answers, but will
+immediately propose new objections and difficulties. "Twill probably be said,
+that my reasoning makes nothing to the matter in hand, and that I explain only
+the manner in which objects affect the senses, without endeavouring to account
+for their real nature and operations. Tho’ there be nothing visible or tangible
+interpos’d betwixt two bodies, yet we find by experience, that the bodies may be
+plac’d in the same manner, with regard to the eye, and require the same motion
+of the hand in passing from one to the other, as if divided by something visible
+and tangible. This invisible and intangible distance is also found by experience to
+contain a capacity of receiving body, or of becoming visible and tangible. Here is
+the whole of my system; and in no part of it have I endeavour’d to explain the
+cause, which separates bodies after this manner, and gives them a capacity of
+receiving others betwixt them, without any impulse or penetration.
+
+I answer this objection, by pleading guilty, and by confessing that my inten-
+tion never was to penetrate into the nature of bodies, or explain the secret causes
+of their operations. For besides that this belongs not to my present purpose, I am
+afraid, that such an enterprize is beyond the reach of human understanding, and
+that we can never pretend to know body otherwise than by those external prop-
+erties, which discover themselves to the senses. As to those who attempt any
+thing farther, I cannot approve of their ambition, till I see, in some one instance
+at least, that they have met with success. But at present I content myself with
+knowing perfectly the manner in which objects affect my senses, and their con-
+nexions with each other, as far as experience informs me of them. This suffices
+for the conduct of life; and this also suffices for my philosophy, which pretends
+only to explain the nature and causes of our perceptions, or impressions
+and ideas.”
+
+2App- As long as we confine our speculations to the appearances of objects to our senses, without
+entering into disquisitions concerning their real nature and operations, we are safe from all difficul-
+ties, and can never be embarrass’d by any question. Thus, if it be ask’d, whether the invisible and
+intangible distance, interpos’d betwixt two objects, be something or nothing: ’Tis easy to answer,
+that it is something, viz. a property of the objects, which affect the senses after such a particular
+manner. If it be ask’d, whether two objects, having such a distance betwixt them, touch or not: It
+may be answer’d, that this depends upon the definition of the word, touch. If objects be said to
+touch, when there is nothing sensible interpos’d betwixt them, these objects touch: If objects be said
+
+46
+
+10
+
+20
+
+SB 64
+
+30
+
+SB 638
+
+27
+
+28
+
+29
+
+The same subject continu’d 1.2.5
+
+I shall conclude this subject of extension with a paradox, which will easily be
+explain’d from the foregoing reasoning. This paradox is, that if you are pleas’d to
+give to the invisible and intangible distance, or in other words, to the capacity of
+becoming a visible and tangible distance, the name of a vacuum, extension and
+matter are the same, and yet there is a vacuum. If you will not give it that name,
+motion is possible ina plenum, without any impulse zz infinitum, without return-
+ing in a circle, and without penetration. But however we may express ourselves,
+we must always confess, that we have no idea of any real extension without filling
+it with sensible objects, and conceiving its parts as visible or tangible.
+
+As to the doctrine, that time is nothing but the manner, in which some real
+objects exist; we may observe, that ’tis liable to the same objections as the similar
+doctrine with regard to extension. If it bea sufficient proof, that we have the idea
+of a vacuum, because we dispute and reason concerning it; we must for the same
+reason have the idea of time without any changeable existence; since there is no
+subject of dispute more frequent and common. But that we really have no such
+idea, is certain. For whence shou’d it be deriv’d? Does it arise from an impression
+of sensation or of reflection? Point it out distinctly to us, that we may know its
+nature and qualities. But if you cannot point out any such impression, you may be
+certain you are mistaken, when you imagine you have any such idea.
+
+But tho’ it be impossible to show the impression, from which the idea of time
+without a changeable existence is deriv’d; yet we can easily point out those
+appearances, which make us fancy we have that idea. For we may observe, that
+there is a continual succession of perceptions in our mind; so that the idea of
+time being for ever present with us; when we consider a stedfast object at five-a-
+clock, and regard the same at six; we are apt to apply to it that idea in the same
+manner as if every moment were distinguish’d by a different position, or an
+alteration of the object. The first and second appearances of the object, being
+compar’d with the succession of our perceptions, seem equally remov’d as if the
+object had really chang’d. To which we may add, what experience shows us, that
+the object was susceptible of such a number of changes betwixt these appear-
+ances; as also that the unchangeable or rather fictitious duration has the same
+
+to touch, when their images strike contiguous parts of the eye, and when the hand fee/s both objects
+successively, without any interpos’d motion, these objects do not touch. The appearances of objects
+to our senses are all consistent; and no difficulties can ever arise, but from the obscurity of the terms
+we make use of.
+
+If we carry our enquiry beyond the appearances of objects to the senses, I am afraid, that most of
+our conclusions will be full of scepticism and uncertainty. Thus, if it be ask’d, whether or not the
+invisible and intangible distance be always full of body, or of something that by an improvement of
+our organs might become visible or tangible, I must acknowledge, that I find no very decisive argu-
+ments on either side; tho’ I am inclin’d to the contrary opinion, as being more suitable to vulgar and
+popular notions. If the Newtonian philosophy be rightly understood, it will be found to mean no
+more. A vacuum is asserted: That is, bodies are said to be plac’d after such a manner, as to receive
+bodies betwixt them, without impulsion or penetration. The real nature of this position of bodies is
+unknown. We are only acquainted with its effects on the senses, and its power of receiving body.
+Nothing is more suitable to that philosophy, than a modest scepticism to a certain degree, and a fair
+
+confession of ignorance in subjects, that exceed all human capacity.*”””
+
+47
+
+10
+
+SBO65
+
+20
+
+30
+
+SB 639
+10
+
+20
+
+1.2.6 A Treatise of Human Nature
+
+effect upon every quality, by encreasing or diminishing it, as that succession,
+which is obvious to the senses. From these three relations we are apt to confound
+our ideas, and imagine we can form the idea of a time and duration, without any
+change or succession.
+
+Sect. 6. Of the idea of existence, and of external existence
+
+It may not be amiss, before we leave this subject, to explain the ideas of existence
+and of external existence; which have their difficulties, as well as the ideas of space
+and time. By this means we shall be the better prepar’d for the examination of
+knowledge and probability, when we understand perfectly all those particular
+ideas, which may enter into our reasoning.
+
+There is no impression nor idea of any kind, of which we have any conscious-
+ness or memory, that is not conceiv’d as existent; and ’tis evident, that from
+this consciousness the most perfect idea and assurance of being is deriv’d.
+From hence we may form a dilemma, the most clear and conclusive that can be
+imagin’d, viz. that since we never remember any idea or impression without
+attributing existence to it, the idea of existence must either be deriv’d from a dis-
+tinct impression, conjoin’d with every perception or object of our thought, or
+must be the very same with the idea of the perception or object.
+
+As this dilemma is an evident consequence of the principle, that every idea
+arises from a similar impression, so our decision betwixt the propositions of the
+dilemma is no more doubtful. So far from there being any distinct impression,
+attending every impression and every idea, that I do not think there are any two
+distinct impressions, which are inseparably conjoin’d. Tho’ certain sensations
+may at one time be united, we quickly find they admit of a separation, and may
+be presented apart. And thus, tho’ every impression and idea we remember be
+consider’d as existent, the idea of existence is not deriv’d from any particular
+impression.
+
+The idea of existence, then, is the very same with the idea of what we conceive
+to be existent. To reflect on any thing simply, and to reflect on it as existent, are
+nothing different from each other. That idea, when conjoin’d with the idea of
+any object, makes no addition to it. Whatever we conceive, we conceive to be
+existent. Any idea we please to form is the idea of a being; and the idea of a being
+is any idea we please to form.
+
+Whoever opposes this, must necessarily point out that distinct impression,
+from which the idea of entity is deriv’d, and must prove, that this impression is
+inseparable from every perception we believe to be existent. This we may
+without hesitation conclude to be impossible.
+
+Our foregoing reasoning" concerning the distinction of ideas without any real
+difference will not here serve us in any stead. That kind of distinction is founded
+on the different resemblances, which the same simple idea may have to several
+different ideas. But no object can be presented resembling some object with
+
+3 Part 1. Sect. 7.
+
+48
+
+SB 66
+
+10
+
+20
+
+SB67
+
+30
+
+40
+
+Of the idea of existence, and of external existence 1.2.6
+
+respect to its existence, and different from others in the same particular; since
+every object, that is presented, must necessarily be existent.
+
+A like reasoning will account for the idea of external existence. We may
+observe, that ’tis universally allow’d by philosophers, and is besides pretty
+obvious of itself, that nothing is ever really present with the mind but its percep-
+tions or impressions and ideas, and that external objects become known to us
+only by those perceptions they occasion. To hate, to love, to think, to feel, to see;
+all this is nothing but to perceive.
+
+Now since nothing is ever present to the mind but perceptions, and since all
+ideas are deriv’d from something antecedently present to the mind; it follows,
+that ’tis impossible for us so much as to conceive or form an idea of any thing
+specifically different from ideas and impressions. Let us fix our attention out of
+ourselves as muchas possible: Let us chace our imagination to the heavens, or to
+the utmost limits of the universe; we never really advance a step beyond our-
+selves, nor can conceive any kind of existence, but those perceptions, which have
+appear’d in that narrow compass. This is the universe of the imagination, nor
+have we any idea but what is there produc’d.
+
+The farthest we can go towards a conception of external objects, when
+suppos’d specifically different from our perceptions, is to form a relative idea
+of them, without pretending to comprehend the related objects. Generally
+speaking we do not suppose them specifically different; but only attribute
+to them different relations, connexions and durations. But of this more fully
+hereafter.'*
+
+Part 4. Sect. 2.
+
+49
+
+10
+
+SBO68
+
+20
+
+PART 3
+Of knowledge and probability
+
+Sect. 1. Of knowledge
+
+There are seven different kinds of philosophical relation," viz. resemblance, iden-
+tity, relations of time and place, proportion in quantity or number, degrees in any
+quality, contrariety, and causation. These relations may be divided into two
+classes; into such as depend entirely on the ideas, which we compare together,
+and such as may be chang’d without any change in the ideas. ”Tis from the idea
+of atriangle, that we discover the relation of equality, which its three angles bear
+to two right ones; and this relation is invariable, as long as our idea remains the
+same. On the contrary, the relations of contiguity and distance betwixt two
+objects may be chang’d merely by an alteration of their place, without any
+change on the objects themselves or on their ideas; and the place depends on a
+hundred different accidents, which cannot be foreseen by the mind. Tis the
+same case with identity and causation. Two objects, tho’ perfectly resembling
+each other, and even appearing in the same place at different times, may be
+numerically different: And as the power, by which one object produces another,
+is never discoverable merely from their ideas, tis evident cause and effect are rela-
+tions, of which we receive information from experience, and not from any
+abstract reasoning or reflection. There is no single phenomenon, even the most
+simple, which can be accounted for from the qualities of the objects, as they
+appear to us; or which we cou’d foresee without the help of our memory and
+experience.
+
+It appears, therefore, that of these seven philosophical relations, there remain
+only four, which depending solely upon ideas, can be the objects of knowledge
+and certainty. These four are resemblance, contrariety, degrees in quality, and pro-
+portions in quantity or number. Three of these relations are discoverable at first
+sight, and fall more properly under the province of intuition than demonstra-
+tion. When any objects resemble each other, the resemblance will at first strike
+the eye, or rather the mind; and seldom requires a second examination. The case
+is the same with contrariety, and with the degrees of any quality. No one can once
+doubt but existence and non-existence destroy each other, and are perfectly
+incompatible and contrary. And tho’ it be impossible to judge exactly of the
+degrees of any quality, such as colour, taste, heat, cold, when the difference
+betwixt them is very small; yet ’tis easy to decide, that any of them is superior or
+inferior to another, when their difference is considerable. And this decision we
+always pronounce at first sight, without any enquiry or reasoning.
+
+'S Part 1. Sect. 5.
+
+50
+
+SB [69]
+
+10
+
+SB70
+
+20
+
+30
+
+SB69
+
+3
+
+Of knowledge 1.3.1
+
+We might proceed, after the same manner, in fixing the proportions of quantity
+or number, and might at one view observe a superiority or inferiority betwixt any
+numbers, or figures; especially where the difference is very great and remark-
+able. As to equality or any exact proportion, we can only guess at it from a single
+consideration; except in very short numbers, or very limited portions of exten-
+sion; which are comprehended in an instant, and where we perceive an impos-
+sibility of falling into any considerable error. In all other cases we must settle the
+proportions with some liberty, or proceed in a more artificial manner.
+
+Thave already observ’d, that geometry, or the art, by which we fix the propor-
+tions of figures; tho’ it much excels both in universality and exactness, the loose
+judgments of the senses and imagination; yet never attains a perfect precision
+and exactness. Its first principles are still drawn from the general appearance of
+the objects; and that appearance can never afford us any security, when we
+examine the prodigious minuteness of which nature is susceptible. Our ideas
+seem to give a perfect assurance, that no two right lines can have a common
+segment; but if we consider these ideas, we shall find, that they always suppose a
+sensible inclination of the two lines, and that where the angle they form is
+extremely small, we have no standard of a right line so precise as to assure us of
+the truth of this proposition. ’Tis the same case with most of the primary deci-
+sions of the mathematics.
+
+There remain, therefore, algebra and arithmetic as the only sciences, in which
+we can carry ona chain of reasoning to any degree of intricacy, and yet preserve
+a perfect exactness and certainty. We are possest of a precise standard, by which
+we can judge of the equality and proportion of numbers; and according as they
+correspond or not to that standard, we determine their relations, without any
+possibility of error. When two numbers are so combin’d, as that the one has
+always an unite answering to every unite of the other, we pronounce them equal;
+and ’tis for want of sucha standard of equality in extension, that geometry can
+scarce be esteem’d a perfect and infallible science.
+
+But here it may not be amiss to obviate a difficulty, which may arise from my
+asserting, that tho’ geometry falls short of that perfect precision and certainty,
+which are peculiar to arithmetic and algebra, yet it excels the imperfect judg-
+ments of our senses and imagination. The reason why I impute any defect to
+geometry, is, because its original and fundamental principles are deriv’d merely
+from appearances; and it may perhaps be imagin’d, that this defect must always
+attend it, and keep it from ever reaching a greater exactness in the comparison of
+objects or ideas, than what our eye or imagination alone is able to attain. I own
+that this defect so far attends it, as to keep it from ever aspiring to a full certainty:
+But since these fundamental principles depend on the easiest and least deceitful
+appearances, they bestow on their consequences a degree of exactness, of which
+these consequences are singly incapable. ’Tis impossible for the eye to determine
+the angles of a chiliagon to be equal to 1996 right angles, or make any conjec-
+ture, that approaches this proportion; but when it determines, that right lines
+cannot concur; that we cannot draw more than one right line betwixt two given
+points; its mistakes can never be of any consequence. And this is the nature and
+
+51
+
+10
+SB7I
+
+20
+
+30
+
+SB72
+
+40
+
+1.3.2 A Treatise of Human Nature
+
+use of geometry, to run us up to such appearances, as, by reason of their sim-
+plicity, cannot lead us into any considerable error.
+
+I shall here take occasion to propose a second observation concerning our
+demonstrative reasonings, which is suggested by the same subject of the mathe-
+matics. Tis usual with mathematicians, to pretend, that those ideas, which are
+their objects, are of so refin’d and spiritual a nature, that they fall not under the
+conception of the fancy, but must be comprehended by a pure and intellectual
+view, of which the superior faculties of the soul are alone capable. The same
+notion runs thro’ most parts of philosophy, and is principally made use of to
+explain our abstract ideas, and to show how we can form an idea of a triangle, for
+instance, which shall neither be an isosceles nor scalenum, nor be confin’d to any
+particular length and proportion of sides. Tis easy to see, why philosophers are
+so fond of this notion of some spiritual and refin’d perceptions; since by that
+means they cover many of their absurdities, and may refuse to submit to the
+decisions of clear ideas, by appealing to such as are obscure and uncertain. But
+to destroy this artifice, we need but reflect on that principle so oft insisted on,
+that all our ideas are copy’d from our impressions. For from thence we may im-
+mediately conclude, that since all impressions are clear and precise, the ideas,
+which are copy’d from them, must be of the same nature, and can never, but from
+our fault, contain any thing so dark and intricate. An idea is by its very nature
+weaker and fainter than an impression; but being in every other respect the same,
+cannot imply any very great mystery. If its weakness render it obscure, ’tis our
+business to remedy that defect, as much as possible, by keeping the idea steady
+and precise; and till we have done so, ’tis in vain to pretend to reasoning and
+philosophy.
+
+Sect.2. Of probability; and of the idea of cause and effect
+
+This is all I think necessary to observe concerning those four relations, which are
+the foundation of science; but as to the other three, which depend not upon the
+idea, and may be absent or present even while that remains the same, twill be
+proper to explain them more particularly. These three relations are identity, the
+situations in time and place, and causation.
+
+All kinds of reasoning consist in nothing but a comparison, and a discovery of
+those relations, either constant or inconstant, which two or more objects bear to
+each other. This comparison we may make, either when both the objects are
+present to the senses, or when neither of them is present, or when only one.
+When both the objects are present to the senses along with the relation, we
+call this perception rather than reasoning; nor is there in this case any exercise of
+the thought, or any action, properly speaking, but a mere passive admission
+of the impressions thro’ the organs of sensation. According to this way of
+thinking, we ought not to receive as reasoning any of the observations we may
+make concerning identity, and the relations of time and place; since in none of
+them the mind can go beyond what is immediately present to the senses, either
+
+52
+
+10
+
+SB73
+
+30
+
+40
+
+6
+
+Of probability; and of the idea of cause and effect 1.3.2
+
+to discover the real existence or the relations of objects. "Tis only causation,
+which produces such a connexion, as to give us assurance from the existence or
+action of one object, that ’twas follow’d or preceded by any other existence or
+action; nor can the other two relations be ever made use of in reasoning, except
+so far as they either affect or are affected by it. There is nothing in any objects to
+perswade us, that they are either always remote or always contiguous; and when
+from experience and observation we discover, that their relation in this particu-
+lar is invariable, we always conclude there is some secret cause, which separates
+or unites them. The same reasoning extends to zdentity. We readily suppose
+an object may continue individually the same, tho’ several times absent from
+and present to the senses; and ascribe to it an identity, notwithstanding the
+interruption of the perception, whenever we conclude, that if we had kept our
+eye or hand constantly upon it, it wou’d have convey’d an invariable and un-
+interrupted perception. But this conclusion beyond the impressions of our
+senses can be founded only on the connexion of cause and effect; nor can we oth-
+erwise have any security, that the object is not chang’d upon us, however much
+the new object may resemble that which was formerly present to the senses.
+Whenever we discover such a perfect resemblance, we consider, whether it be
+common in that species of objects; whether possibly or probably any cause cou’d
+operate in producing the change and resemblance; and according as we deter-
+mine concerning these causes and effects, we form our judgment concerning the
+identity of the object.
+
+Here then it appears, that of those three relations, which depend not upon the
+mere ideas, the only one, that can be trac’d beyond our senses, and informs us
+of existences and objects, which we do not see or feel, is causation. This relation,
+therefore, we shall endeavour to explain fully before we leave the subject of the
+understanding.
+
+To begin regularly, we must consider the idea of causation, and see from what
+origin it is deriv’d. *Tis impossible to reason justly, without understanding per-
+fectly the idea concerning which we reason; and ’tis impossible perfectly to
+understand any idea, without tracing it up to its origin, and examining that
+primary impression, from which it arises. The examination of the impression
+bestows a clearness on the idea; and the examination of the idea bestows a like
+clearness on all our reasoning.
+
+Let us therefore cast our eye on any two objects, which we call cause and
+effect, and turn them on all sides, in order to find that impression, which pro-
+duces an idea of such prodigious consequence. At first sight I perceive, that I
+must not search for it in any of the particular qualities of the objects; since,
+which-ever of these qualities I pitch on, I find some object, that is not possest of
+it, and yet falls under the denomination of cause or effect. And indeed there is
+nothing existent, either externally or internally, which is not to be consider’d
+either as a cause or an effect; tho’ ’tis plain there is no one quality, which univer-
+sally belongs to all beings, and gives them a title to that denomination.
+
+The idea, then, of causation must be deriv’d from some re/ation among
+
+53
+
+SB74
+
+10
+
+20
+
+30
+
+SB75
+
+40
+
+1.3.2 A Treatise of Human Nature
+
+objects; and that relation we must now endeavour to discover. I find in the first
+place, that whatever objects are consider’d as causes or effects, are contiguous;
+and that nothing can operate in a time or place, which is ever so little remov’d
+from those of its existence. Tho’ distant objects may sometimes seem productive
+of each other, they are commonly found upon examination to be link’d bya chain
+of causes, which are contiguous among themselves, and to the distant objects;
+and when in any particular instance we cannot discover this connexion, we still
+presume it to exist. We may therefore consider the relation of CONTIGUITY as
+essential to that of causation; at least may suppose it such, according to the
+general opinion, till we can find a more proper occasion’ to clear up this matter,
+by examining what objects are or are not susceptible of juxta-position and
+conjunction.
+
+The second relation I shall observe as essential to causes and effects, is not so
+universally acknowledg’d, but is liable to some controversy. ”Tis that of PRIORITY
+of time in the cause before the effect. Some pretend that ’tis not absolutely nec-
+essary a cause shou’d precede its effect; but that any object or action, in the very
+first moment of its existence, may exert its productive quality, and give rise to
+another object or action, perfectly co-temporary with itself. But beside that
+experience in most instances seems to contradict this opinion, we may establish
+the relation of priority by a kind of inference or reasoning. ’Tis an establish’d
+maxim both in natural and moral philosophy, that an object, which exists for any
+time in its full perfection without producing another, is not its sole cause; but
+is assisted by some other principle, which pushes it from its state of inactivity,
+and makes it exert that energy, of which it was secretly possest. Now if any cause
+may be perfectly co-temporary with its effect, ’tis certain, according to this
+maxim, that they must all of them be so; since any one of them, which retards its
+operation for a single moment, exerts not itself at that very individual time, in
+which it might have operated; and therefore is no proper cause. The conse-
+quence of this wou’d be no less than the destruction of that succession of causes,
+which we observe in the world; and indeed, the utter annihilation of time. For if
+one cause were co-temporary with its effect, and this effect with its effect, and so
+on, ’tis plain there wou’d be no such thing as succession, and all objects must be
+co-existent.
+
+If this argument appear satisfactory, tis well. If not, I beg the reader to allow
+me the same liberty, which I have us’d in the preceding case, of supposing it
+such. For he shall find, that the affair is of no great importance.
+
+Having thus discover’d or suppos’d the two relations of contiguity and succes-
+sion to be essential to causes and effects, I find Iam stopt short, and can proceed
+no farther in considering any single instance of cause and effect. Motion in one
+body is regarded upon impulse as the cause of motion in another. When we con-
+sider these objects with the utmost attention, we find only that the one body
+approaches the other; and that the motion of it precedes that of the other, but
+without any sensible interval. ’Tis in vain to rack ourselves with farther thought
+
+'© Part 4. Sect. 5.
+
+54
+
+10
+
+SB 76
+
+20
+
+30
+
+SB77
+
+SB75
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+Of probability; and of the idea of cause and effect 1.3.2
+
+and reflection upon this subject. We can go no farther in considering this par-
+ticular instance.
+
+Shou’d any one leave this instance, and pretend to define a cause, by saying
+it is something productive of another, ’tis evident he wou’d say nothing. For
+what does he mean by production? Can he give any definition of it, that will not
+be the same with that of causation? If he can; I desire it may be produc’d. If
+he cannot; he here runs in a circle, and gives a synonimous term instead of a
+definition.
+
+Shall we then rest contented with these two relations of contiguity and suc-
+cession, as affording a compleat idea of causation? By no means. An object may
+be contiguous and prior to another, without being consider’d as its cause. There
+iS a NECESSARY CONNEXION to be taken into consideration; and that relation is of
+much greater importance, than any of the other two above-mention’d.
+
+Here again I turn the object on all sides, in order to discover the nature of this
+necessary connexion, and find the impression, or impressions, from which its
+idea may be deriv’d. When I cast my eye on the known qualities of objects, I
+immediately discover that the relation of cause and effect depends not in the
+least on them. When I consider their re/ations, I can find none but those of con-
+tiguity and succession; which I have already regarded as imperfect and unsatis-
+factory. Shall the despair of success make me assert, that I am here possest of an
+idea, which is not preceded by any similar impression? This wou’d be too strong
+a proof of levity and inconstancy; since the contrary principle has been already
+so firmly establish’d, as to admit of no farther doubt; at least, till we have more
+fully examin’d the present difficulty.
+
+We must, therefore, proceed like those, who being in search of any thing, that
+lies conceal’d from them, and not finding it in the place they expected, beat about
+all the neighbouring fields, without any certain view or design, in hopes their
+good fortune will at last guide them to what they search for. *Tis necessary for us
+to leave the direct survey of this question concerning the nature of that necessary
+connexion, which enters into our idea of cause and effect; and endeavour to find
+some other questions, the examination of which will perhaps afford a hint, that
+may serve to clear up the present difficulty. Of these questions there occur two,
+which I shall proceed to examine, viz.
+
+First, For what reason we pronounce it necessary, that every thing whose exis-
+tence has a beginning, shou’d also have a cause?
+
+Secondly, Why we conclude, that such particular causes must necessarily have
+such particular effects; and what is the nature of that inference we draw from the
+one to the other, and of the belief we repose in it?
+
+I shall only observe before I proceed any farther, that tho’ the ideas of cause
+and effect be deriv’d from the impressions of reflection as well as from those of
+sensation, yet for brevity’s sake, I commonly mention only the latter as the origin
+of these ideas; tho’ I desire that whatever I say of them may also extend to the
+former. Passions are connected with their objects and with one another; no less
+than external bodies are connected together. The same relation, then, of cause
+and effect, which belongs to one, must be common to all of them.
+
+55
+
+10
+
+20
+
+SB78
+
+30
+
+40
+
+1.3.3 A Treatise of Human Nature
+
+Sect. 3. Why a cause is always necessary
+
+To begin with the first question concerning the necessity of a cause: ’Tis a
+general maxim in philosophy, that whatever begins to exist, must have a cause of
+existence. This is commonly taken for granted in all reasonings, without any
+proof given or demanded. ’Tis suppos’d to be founded on intuition, and to be
+one of those maxims, which tho’ they may be deny’d with the lips, ’tis impossible
+for men in their hearts really to doubt of. But if we examine this maxim by the
+idea of knowledge above-explain’d, we shall discover in it no mark of any such
+intuitive certainty; but on the contrary shall find, that ’tis of a nature quite
+foreign to that species of conviction.
+
+All certainty arises from the comparison of ideas, and from the discovery of
+such relations as are unalterable, so long as the ideas continue the same. These
+relations are resemblance, proportions in quantity and number, degrees of any
+quality, and contrariety; none of which are imply’d in this proposition, whatever
+has a beginning has also a cause of existence. That proposition therefore is not in-
+tuitively certain. At least any one, who wou’d assert it to be intuitively certain,
+must deny these to be the only infallible relations, and must find some other rela-
+tion of that kind to be imply’d in it; which it will then be time enough to examine.
+
+But here is an argument, which proves at once, that the foregoing proposition
+is neither intuitively nor demonstrably certain. We can never demonstrate the
+necessity of a cause to every new existence, or new modification of existence,
+without showing at the same time the impossibility there is, that any thing can
+ever begin to exist without some productive principle; and where the latter
+proposition cannot be prov’d, we must despair of ever being able to prove the
+former. Now that the latter proposition is utterly incapable of a demonstrative
+proof, we may satisfy ourselves by considering, that as all distinct ideas are sepa-
+rable from each other, and as the ideas of cause and effect are evidently distinct,
+twill be easy for us to conceive any object to be non-existent this moment, and
+existent the next, without conjoining to it the distinct idea of a cause or produc-
+tive principle. The separation, therefore, of the idea of a cause from that of a
+beginning of existence, is plainly possible for the imagination; and consequently
+the actual separation of these objects is so far possible, that it implies no contra-
+diction nor absurdity; and is therefore incapable of being refuted by any reason-
+ing from mere ideas; without which ’tis impossible to demonstrate the necessity
+of a cause.
+
+Accordingly we shall find upon examination, that every demonstration,
+which has been produc’d for the necessity of a cause, is fallacious and sophistical.
+All the points of time and place, say some philosophers,” in which we can
+suppose any object to begin to exist, are in themselves equal; and unless there be
+some cause, which is peculiar to one time and to one place, and which by that
+means determines and fixes the existence, it must remain in eternal suspence;
+and the object can never begin to be, for want of something to fix its beginning.
+
+'” Mr. Hobbes.
+
+56
+
+SB79
+
+10
+
+20
+
+SB80
+
+30
+
+40
+
+Why a cause is always necessary 1.3.3
+
+But I ask; Is there any more difficulty in supposing the time and place to be fix’d
+without a cause, than to suppose the existence to be determin’d in that manner?
+The first question that occurs on this subject is always, whether the object shall
+exist or not? The next, when and where it shall begin to exist? If the removal of a
+cause be intuitively absurd in the one case, it must be so in the other: And if that
+absurdity be not clear without a proof in the one case, it will equally require one
+in the other. The absurdity, then, of the one supposition can never be a proof of
+that of the other; since they are both upon the same footing, and must stand or
+fall by the same reasoning.
+
+The second argument," which I find us’d on this head, labours under an equal
+difficulty. Every thing, ’tis said, must have a cause; for if any thing wanted a
+cause, it wou’d produce itse/f; that is, exist before it existed; which is impossible.
+But this reasoning is plainly unconclusive; because it supposes, that in our denial
+of a cause we still grant what we expressly deny, viz. that there must be a cause;
+which therefore is taken to be the object itself; and that, no doubt, is an evident
+contradiction. But to say that any thing is produc’d, or to express myself more
+properly, comes into existence, without a cause, is not to affirm, that ’tis itself its
+own cause; but on the contrary in excluding all external causes, excludes a for-
+tiori the thing itself, which is created. An object, that exists absolutely without
+any cause, certainly is not its own cause; and when you assert, that the one
+follows from the other, you suppose the very point in question, and take it for
+granted, that ’tis utterly impossible any thing can ever begin to exist without a
+cause, but that upon the exclusion of one productive principle, we must still have
+recourse to another.
+
+Tis exactly the same case with the third argument,” which has been employ’d
+to demonstrate the necessity of a cause. Whatever is produc’d without any
+cause, is produc’d by nothing; or in other words, has nothing for its cause. But
+nothing can never be a cause, no more than it can be something, or equal to two
+right angles. By the same intuition, that we perceive nothing not to be equal
+to two right angles, or not to be something, we perceive, that it can never be a
+cause; and consequently must perceive, that every object has a real cause of its
+existence.
+
+I believe it will not be necessary to employ many words in showing the weak-
+ness of this argument, after what I have said of the foregoing. They are all of
+them founded on the same fallacy, and are deriv’d from the same turn of
+thought. ’Tis sufficient only to observe, that when we exclude all causes we really
+do exclude them, and neither suppose nothing nor the object itself to be the
+causes of the existence; and consequently can draw no argument from the absur-
+dity of these suppositions to prove the absurdity of that exclusion. If every thing
+must have a cause, it follows, that upon the exclusion of other causes we must
+accept of the object itself or of nothing as causes. But ’tis the very point in ques-
+tion, whether every thing must have a cause or not; and therefore, according to all
+just reasoning, it ought never to be taken for granted.
+
+'S Dr. Clarke and others. Mr. Locke.
+
+57
+
+10
+
+SBS81
+
+20
+
+30
+
+40
+
+SBS82
+
+SB 80-1
+
+1.3.4 A Treatise of Human Nature
+
+They are still more frivolous, who say, that every effect must have a cause,
+because ’tis imply’d in the very idea of effect. Every effect necessarily pre-
+supposes a cause; effect being a relative term, of which cause is the correlative.
+But this does not prove, that every being must be preceded by a cause; no more
+than it follows, because every husband must have a wife, that therefore every man
+must be marry’d. The true state of the question is, whether every object, which
+begins to exist, must owe its existence to a cause; and this I assert neither to be
+intuitively nor demonstratively certain, and hope to have prov’d it sufficiently by
+the foregoing arguments.
+
+Since it is not from knowledge or any scientific reasoning, that we derive the
+opinion of the necessity of a cause to every new production, that opinion must
+necessarily arise from observation and experience. The next question, then,
+shou’d naturally be, Hom experience gives rise to such a principle? But as I find it
+will be more convenient to sink this question in the following, Why we conclude,
+that such particular causes must necessarily have such particular effects, and why we
+form an inference from one to another? we shall make that the subject of our future
+enquiry. "Twill, perhaps, be found in the end, that the same answer will serve for
+both questions.
+
+Sect. 4. Of the component parts of our reasonings concerning cause
+
+and effect
+
+Tho’ the mind in its reasonings from causes or effects carries its view beyond
+those objects, which it sees or remembers, it must never lose sight of them
+entirely, nor reason merely upon its own ideas, without some mixture of impres-
+sions, or at least of ideas of the memory, which are equivalent to impressions.
+When we infer effects from causes, we must establish the existence of these
+causes; which we have only two ways of doing, either by an immediate percep-
+tion of our memory or senses, or by an inference from other causes; which
+causes again we must ascertain in the same manner, either by a present impres-
+sion, or by an inference from their causes, and so on, till we arrive at some object,
+which we see or remember. *Tis impossible for us to carry on our inferences im
+infinitum; and the only thing, that can stop them, is an impression of the
+memory or senses, beyond which there is no room for doubt or enquiry.
+
+To give an instance of this, we may choose any point of history, and consider
+for what reason we either believe or reject it. Thus we believe that Caesar was
+kill’d in the senate-house on the zdes of March; and that because this fact is estab-
+lish’d on the unanimous testimony of historians, who agree to assign this precise
+time and place to that event. Here are certain characters and letters present
+either to our memory or senses; which characters we likewise remember to have
+been us’d as the signs of certain ideas; and these ideas were either in the minds of
+such as were immediately present at that action, and receiv’d the ideas directly
+from its existence; or they were deriv’d from the testimony of others, and that
+again from another testimony, by a visible gradation, till we arrive at those who
+were eye-witnesses and spectators of the event. ’Tis obvious all this chain of
+
+58
+
+10
+
+20
+
+SB83
+
+30
+
+40
+
+Of the impressions of the senses and memory 1.3.5
+
+argument or connexion of causes and effects, is at first founded on those charac-
+ters or letters, which are seen or remember’d, and that without the authority
+either of the memory or senses our whole reasoning wou’d be chimerical and
+without foundation. Every link of the chain wou’d in that case hang upon
+another; but there wou’d not be any thing fix’d to one end of it, capable of sus-
+taining the whole; and consequently there wou’d be no belief nor evidence. And
+this actually is the case with all Aypothetical arguments, or reasonings upon a
+supposition; there being in them, neither any present impression, nor belief of a
+real existence.
+
+I need not observe, that ’tis no just objection to the present doctrine, that we
+can reason upon our past conclusions or principles, without having recourse
+to those impressions, from which they first arose. For even supposing these
+impressions shou’d be entirely effac’d from the memory, the conviction they
+produc’d may still remain; and ’tis equally true, that all reasonings concerning
+causes and effects are originally deriv’d from some impression; in the same
+manner, as the assurance of a demonstration proceeds always from a comparison
+of ideas, tho’ it may continue after the comparison is forgot.
+
+Sect. 5. Of the impressions of the senses and memory
+
+In this kind of reasoning, then, from causation, we employ materials, which are
+of a mix’d and heterogeneous nature, and which, however connected, are yet
+essentially different from each other. All our arguments concerning causes and
+effects consist both of an impression of the memory or senses, and of the idea of
+that existence, which produces the object of the impression, or is produc’d by it.
+Here therefore we have three things to explain, viz. First, The original impres-
+sion. Secondly, The transition to the idea of the connected cause or effect.
+Thirdly, The nature and qualities of that idea.
+
+As to those impressions, which arise from the senses, their ultimate cause is, in
+my opinion, perfectly inexplicable by human reason, and ’twill always be impos-
+sible to decide with certainty, whether they arise immediately from the object,
+or are produc’d by the creative power of the mind, or are deriv’d from the
+author of our being. Nor is such a question any way material to our present
+purpose. We may draw inferences from the coherence of our perceptions,
+whether they be true or false; whether they represent nature justly, or be mere
+illusions of the senses.
+
+When we search for the characteristic, which distinguishes the memory from
+the imagination, we must immediately perceive, that it cannot lie in the simple
+ideas it presents to us; since both these faculties borrow their simple ideas from
+the impressions, and can never go beyond these original perceptions. These fac-
+ulties are as little distinguish’d from each other by the arrangement of their
+complex ideas. For tho’ it be a peculiar property of the memory to preserve the
+original order and position of its ideas, while the imagination transposes and
+changes them, as it pleases; yet this difference is not sufficient to distinguish
+them in their operation, or make us know the one from the other; it being
+
+59
+
+SB 84
+
+20
+
+30
+
+SBS85
+
+40
+
+1.3.5 A Treatise of Human Nature
+
+impossible to recal the past impressions, in order to compare them with our
+present ideas, and see whether their arrangement be exactly similar. Since there-
+fore the memory is known, neither by the order of its complex ideas, nor the
+nature of its szmple ones; it follows, that the difference betwixt it and the imagi-
+nation lies in its superior force and vivacity. A man may indulge his fancy in
+feigning any past scene of adventures; nor wou’d there be any possibility of dis-
+tinguishing this from a remembrance of a like kind, were not the ideas of the
+imagination fainter and more obscure.
+
+ePTt frequently happens, that when two men have been engag’d in any scene
+of action, the one shall remember it much better than the other, and shall have all
+the difficulty in the world to make his companion recollect it. He runs over
+several circumstances in vain; mentions the time, the place, the company, what
+was said, what was done on all sides; till at last he hits on some lucky circum-
+stance, that revives the whole, and gives his friend a perfect memory of every
+thing. Here the person that forgets receives at first all the ideas from the dis-
+course of the other, with the same circumstances of time and place; tho’ he con-
+siders them as mere fictions of the imagination. But as soon as the circumstance
+is mention’d, that touches the memory, the very same ideas now appear in a new
+light, and have, in a manner, a different feeling from what they had before.
+Without any other alteration, beside that of the feeling, they become immedi-
+ately ideas of the memory, and are assented to.
+
+Since, therefore, the imagination can represent all the same objects that the
+memory can offer to us, and since those faculties are only distinguish’d by the
+different feeling of the ideas they present, it may be proper to consider what is
+the nature of that feeling. And here I believe every one will readily agree with
+me, that the ideas of the memory are more strong and /ively than those of the
+fancy.’ A painter, who intended to represent a passion or emotion of any kind,
+wou’d endeavour to get a sight of a person actuated by a like emotion, in order to
+enliven his ideas, and give them a force and vivacity superior to what is found in
+those, which are mere fictions of the imagination. The more recent this memory
+is, the clearer is the idea; and when after a long interval he wou’d return to the
+contemplation of his object, he always finds its idea to be much decay’d, if not
+wholly obliterated. We are frequently in doubt concerning the ideas of the
+memory, as they become very weak and feeble; and are at a loss to determine
+whether any image proceeds from the fancy or the memory, when it is not drawn
+in such lively colours as distinguish that latter faculty. I think I remember such
+an event, says one; but am not sure. A long tract of time has almost worn it out of
+my memory, and leaves me uncertain whether or not it be the pure offspring of
+my fancy.
+
+And as an idea of the memory, by losing its force and vivacity, may degenerate
+to such a degree, as to be taken for an idea of the imagination; so on the other
+hand an idea of the imagination may acquire such a force and vivacity, as to pass
+for an idea of the memory, and counterfeit its effects on the belief and judgment.
+This is noted in the case of liars; who by the frequent repetition of their lies,
+
+60
+
+SB 627
+10
+
+SB 628
+
+20
+
+SB85
+
+30
+
+SB 86
+
+40
+
+Of the inference from the impression to the idea 1.3.6
+
+come at last to believe and remember them, as realities; custom and habit having
+in this case, as in many others, the same influence on the mind as nature, and
+infixing the idea with equal force and vigour.
+
+Thus it appears, that the belief or assent, which always attends the memory and
+senses, is nothing but the vivacity of those perceptions they present; and that
+this alone distinguishes them from the imagination. To believe is in this case to
+feel an immediate impression of the senses, or a repetition of that impression in
+the memory. ’Tis merely the force and liveliness of the perception, which con-
+stitutes the first act of the judgment, and lays the foundation of that reasoning,
+which we build upon it, when we trace the relation of cause and effect.
+
+Sect. 6. Of the inference from the impression to the idea
+
+Tis easy to observe, that in tracing this relation, the inference we draw from
+cause to effect, is not deriv’d merely from a survey of these particular objects,
+and from such a penetration into their essences as may discover the dependance
+of the one upon the other. There is no object, which implies the existence of any
+other if we consider these objects in themselves, and never look beyond the ideas
+which we form of them. Such an inference wou’d amount to knowledge, and
+wou’d imply the absolute contradiction and impossibility of conceiving any
+thing different. But as all distinct ideas are separable, tis evident there can be no
+impossibility of that kind. When we pass from a present impression to the idea of
+any object, we might possibly have separated the idea from the impression, and
+have substituted any other idea in its room.
+
+Tis therefore by EXPERIENCE only, that we can infer the existence of one object
+from that of another. The nature of experience is this. We remember to have
+had frequent instances of the existence of one species of objects; and also
+remember, that the individuals of another species of objects have always
+attended them, and have existed in a regular order of contiguity and succession
+with regard to them. Thus we remember to have seen that species of object we
+call flame, and to have felt that species of sensation we call heat. We likewise call
+to mind their constant conjunction in all past instances. Without any farther cer-
+emony, we call the one cause and the other effect, and infer the existence of the
+one from that of the other. In all those instances, from which we learn the con-
+junction of particular causes and effects, both the causes and effects have been
+perceiv’d by the senses, and are remember’d: But in all cases, wherein we reason
+concerning them, there is only one perceiv’d or remember’d, and the other is
+supply’d in conformity to our past experience.
+
+Thus in advancing we have insensibly discover’d a new relation betwixt
+cause and effect, when we least expected it, and were entirely employ’d upon
+another subject. This relation is their CONSTANT CONJUNCTION. Contiguity and
+succession are not sufficient to make us pronounce any two objects to be cause
+and effect, unless we perceive, that these two relations are preserv’d in several
+instances. We may now see the advantage of quitting the direct survey of this
+
+61
+
+10
+
+SB87
+
+20
+
+30
+
+40
+
+6
+
+1.3.6 A Treatise of Human Nature
+
+relation, in order to discover the nature of that necessary connexion, which makes
+so essential a part of it. There are hopes, that by this means we may at last arrive
+at our propos’d end; tho’ to tell the truth, this new-discover’d relation of
+a constant conjunction seems to advance us but very little in our way. For it
+implies no more than this, that like objects have always been plac’d in like rela-
+tions of contiguity and succession; and it seems evident, at least at first sight,
+that by this means we can never discover any new idea, and can only multiply, but
+not enlarge the objects of our mind. It may be thought, that what we learn not
+from one object, we can never learn from a hundred, which are all of the same
+kind, and are perfectly resembling in every circumstance. As our senses show us
+in one instance two bodies, or motions, or qualities in certain relations of succes-
+sion and contiguity; so our memory presents us only with a multitude of
+instances, wherein we always find like bodies, motions, or qualities in like rela-
+tions. From the mere repetition of any past impression, even to infinity, there
+never will arise any new original idea, such as that of a necessary connexion; and
+the number of impressions has in this case no more effect than if we confin’d
+ourselves to one only. But tho’ this reasoning seems just and obvious; yet as it
+wou’d be folly to despair too soon, we shall continue the thread of our discourse;
+and having found, that after the discovery of the constant conjunction of any
+objects, we always draw an inference from one object to another, we shall now
+examine the nature of that inference, and of the transition from the impression
+to the idea. Perhaps ’twill appear in the end, that the necessary connexion
+depends on the inference, instead of the inference’s depending on the necessary
+connexion.
+
+Since it appears, that the transition from an impression present to the
+memory or senses to the idea of an object, which we call cause or effect, is
+founded on past experience, and on our remembrance of their constant conjunc-
+tion, the next question is, whether experience produces the idea by means of the
+understanding or imagination; whether we are determin’d by reason to make the
+transition, or by a certain association and relation of perceptions? If reason
+determin’d us, it wou’d proceed upon that principle, that instances, of which we
+have had no experience, must resemble those, of which we have had experience, and
+that the course of nature continues always uniformly the same. In order therefore to
+clear up this matter, let us consider all the arguments, upon which such a propo-
+sition may be suppos’d to be founded; and as these must be deriv’d either from
+knowledge or probability, let us cast our eye on each of these degrees of evidence,
+and see whether they afford any just conclusion of this nature.
+
+Our foregoing method of reasoning will easily convince us, that there can be
+no demonstrative arguments to prove, that those instances, of which we have had no
+experience, resemble those, of which we have had experience. We can at least conceive
+a change in the course of nature; which sufficiently proves, that such a change is
+not absolutely impossible. To form a clear idea of any thing, is an undeniable
+argument for its possibility, and is alone a refutation of any pretended demon-
+stration against it.
+
+Probability, as it discovers not the relations of ideas, consider’d as such, but
+
+62
+
+SBS8
+
+10
+
+20
+
+SB89
+
+40
+
+10
+
+Of the inference from the impression to the idea 1.3.6
+
+only those of objects, must in some respects be founded on the impressions of
+our memory and senses, and in some respects on our ideas. Were there no
+mixture of any impression in our probable reasonings, the conclusion wou’d be
+entirely chimerical: And were there no mixture of ideas, the action of the mind,
+in observing the relation, wou’d, properly speaking, be sensation, not reason-
+ing. ’Tis therefore necessary, that in all probable reasonings there be something
+present to the mind, either seen or remember’d; and that from this we infer
+something connected with it, which is not seen nor remember’d.
+
+The only connexion or relation of objects, which can lead us beyond the
+immediate impressions of our memory and senses, is that of cause and effect;
+and that because ’tis the only one, on which we can found a just inference from
+one object to another. The idea of cause and effect is deriv’d from experience,
+which informs us, that such particular objects, in all past instances, have
+been constantly conjoin’d with each other: And as an object similar to one of
+these is suppos’d to be immediately present in its impression, we thence
+presume on the existence of one similar to its usual attendant. According to this
+account of things, which is, I think, in every point unquestionable, probability is
+founded on the presumption of a resemblance betwixt those objects, of which
+we have had experience, and those, of which we have had none; and therefore ’tis
+impossible this presumption can arise from probability. The same principle
+cannot be both the cause and effect of another; and this is, perhaps, the only
+proposition concerning that relation, which is either intuitively or demonstra-
+tively certain.
+
+Shou’d any one think to elude this argument; and without determining
+whether our reasoning on this subject be deriv’d from demonstration or prob-
+ability, pretend that all conclusions from causes and effects are built on solid
+reasoning: I can only desire, that this reasoning may be produc’d, in order to be
+expos’d to our examination. It may, perhaps, be said, that after experience of the
+constant conjunction of certain objects, we reason in the following manner.
+Such an object is always found to produce another. Tis impossible it cou’d have
+this effect, if it was not endow’d with a power of production. The power neces-
+sarily implies the effect; and therefore there is a just foundation for drawing a
+conclusion from the existence of one object to that of its usual attendant. The
+past production implies a power: The power implies a new production: And the
+new production is what we infer from the power and the past production.
+
+> Twere easy for me to show the weakness of this reasoning, were I willing to
+make use of those observations, I have already made, that the idea of production
+is the same with that of causation, and that no existence certainly and demon-
+stratively implies a power in any other object; or were it proper to anticipate what
+I shall have occasion to remark afterwards concerning the idea we form of power
+and efficacy. But as such a method of proceeding may seem either to weaken my
+system, by resting one part of it on another, or to breed a confusion in my rea-
+soning, I shall endeavour to maintain my present assertion without any such
+assistance.
+
+It shall therefore be allow’d for a moment, that the production of one object
+
+63
+
+10
+
+SB90
+
+20
+
+30
+
+SB91
+40
+
+11
+
+12
+
+13
+
+1.3.6 A Treatise of Human Nature
+
+by another in any one instance implies a power; and that this power is connected
+with its effect. But it having been already prov’d, that the power lies not in the
+sensible qualities of the cause; and there being nothing but the sensible qualities
+present to us; I ask, why in other instances you presume that the same power still
+exists, merely upon the appearance of these qualities? Your appeal to past ex-
+perience decides nothing in the present case; and at the utmost can only prove,
+that that very object, which produc’d any other, was at that very instant endow’d
+with such a power; but can never prove, that the same power must continue in
+the same object or collection of sensible qualities; much less, that a like power is
+always conjoin’d with like sensible qualities. Shou’d it be said, that we have
+experience, that the same power continues united with the same object, and
+that like objects are endow’d with like powers, I wou’d renew my question, Why
+from this experience we form any conclusion beyond those past instances, of which we
+have had experience? If you answer this question in the same manner as the
+preceding, your answer gives still occasion to a new question of the same kind,
+even in infinitum; which clearly proves, that the foregoing reasoning had no just
+foundation.
+
+Thus not only our reason fails us in the discovery of the ultimate connexion of
+causes and effects, but even after experience has inform’d us of their constant
+conjunction, *tis impossible for us to satisfy ourselves by our reason, why we
+shou’d extend that experience beyond those particular instances, which have
+fallen under our observation. We suppose, but are never able to prove, that there
+must be a resemblance betwixt those objects, of which we have had experience,
+and those which lie beyond the reach of our discovery.
+
+We have already taken notice of certain relations, which make us pass from
+one object to another, even tho’ there be no reason to determine us to that transi-
+tion; and this we may establish for a general rule, that wherever the mind con-
+stantly and uniformly makes a transition without any reason, it is influenc’d by
+these relations. Now this is exactly the present case. Reason can never show us
+the connexion of one object with another, tho’ aided by experience, and the
+observation of their constant conjunction in all past instances. When the mind,
+therefore, passes from the idea or impression of one object to the idea or belief
+of another, it is not determin’d by reason, but by certain principles, which asso-
+ciate together the ideas of these objects, and unite them in the imagination.
+Had ideas no more union in the fancy than objects seem to have to the under-
+standing, we cou’d never draw any inference from causes to effects, nor repose
+belief in any matter of fact. The inference, therefore, depends solely on the
+union of ideas.
+
+The principles of union among ideas, I have reduc’d to three general ones,
+and have asserted, that the idea or impression of any object naturally introduces
+the idea of any other object, that is resembling, contiguous to, or connected with
+it. These principles I allow to be neither the infallible nor the sole causes of an
+union among ideas. They are not the infallible causes. For one may fix his atten-
+tion during some time on any one object without looking farther. They are not
+the sole causes. For the thought has evidently a very irregular motion in running
+
+64
+
+10
+
+20
+
+SB92
+
+30
+
+40
+
+14
+
+15
+
+16
+
+Of the nature of the idea or belief 1.3.7
+
+along its objects, and may leap from the heavens to the earth, from one end of the
+creation to the other, without any certain method or order. But tho’ I allow this
+weakness in these three relations, and this irregularity in the imagination; yet I
+assert that the only general principles, which associate ideas, are resemblance,
+contiguity and causation.
+
+There is indeed a principle of union among ideas, which at first sight may be
+esteem’d different from any of these, but will be found at the bottom to depend
+on the same origin. When every individual of any species of objects is found
+by experience to be constantly united with an individual of another species,
+the appearance of any new individual of either species naturally conveys the
+thought to its usual attendant. Thus because such a particular idea is commonly
+annex’d to such a particular word, nothing is requir’d but the hearing of that
+word to produce the correspondent idea; and ’twill scarce be possible for the
+mind, by its utmost efforts, to prevent that transition. In this case it is not
+absolutely necessary, that upon hearing such a particular sound, we shou’d
+reflect on any past experience, and consider what idea has been usually con-
+nected with the sound. The imagination of itself supplies the place of this
+reflection, and is so accustom’d to pass from the word to the idea, that it inter-
+poses not amoment’s delay betwixt the hearing of the one, and the conception of
+the other.
+
+But tho’ I acknowledge this to be a true principle of association among ideas,
+Tassert it to be the very same with that betwixt the ideas of cause and effect, and
+to be an essential part in all our reasonings from that relation. We have no other
+notion of cause and effect, but that of certain objects, which have been always
+conjoin’d together, and which in all past instances have been found inseparable.
+We cannot penetrate into the reason of the conjunction. We only observe the
+thing itself, and always find that from the constant conjunction the objects
+acquire an union in the imagination. When the impression of one becomes
+present to us, we immediately form an idea of its usual attendant; and conse-
+quently we may establish this as one part of the definition of an opinion or belief,
+that ’tis an idea related to or associated with a present impression.
+
+Thus tho’ causation bea philosophical relation, as implying contiguity, succes-
+sion, and constant conjunction, yet ’tis only so far as it is a natural relation, and
+produces an union among our ideas, that we are able to reason upon it, or draw
+any inference from it.
+
+Sect. 7. Of the nature of the idea or belief
+
+The idea of an object is an essential part of the belief of it, but not the whole. We
+conceive many things, which we do not believe. In order then to discover more
+fully the nature of belief, or the qualities of those ideas we assent to, let us weigh
+the following considerations.
+
+Tis evident, that all reasonings from causes or effects terminate in conclu-
+sions, concerning matter of fact; that is, concerning the existence of objects
+or of their qualities. "Tis also evident, that the idea of existence is nothing
+
+65
+
+SB93
+
+10
+
+20
+
+30
+
+SB94
+
+40
+
+1.3.7 A Treatise of Human Nature
+
+different from the idea of any object, and that when after the simple conception
+of any thing we wou’d conceive it as existent, we in reality make no addition to or
+alteration on our first idea. Thus when we affirm, that God is existent, we simply
+form the idea of such a being, as he is represented to us; nor is the existence,
+which we attribute to him, conceiv’d by a particular idea, which we join to the
+idea of his other qualities, and can again separate and distinguish from them.
+But I go farther; and not content with asserting, that the conception of the exis-
+tence of any object is no addition to the simple conception of it, I likewise main-
+tain, that the belief of the existence joins no new ideas to those, which compose
+the idea of the object. When I think of God, when I think of him as existent, and
+when I believe him to be existent, my idea of him neither encreases nor dimin-
+ishes. But as ’tis certain there is a great difference betwixt the simple conception
+of the existence of an object, and the belief of it, and as this difference lies not in
+the parts or composition of the idea, which we conceive; it follows, that it must
+lie in the manner, in which we conceive it.
+
+Suppose a person present with me, who advances propositions, to which I do
+not assent, that Cesar dy’d in his bed, that silver is more fusible than lead, or
+mercury heavier than gold; ’tis evident, that notwithstanding my incredulity, I
+clearly understand his meaning, and form all the same ideas, which he forms.
+My imagination is endow’d with the same powers as his; nor is it possible for him
+to conceive any idea, which I cannot conceive; or conjoin any, which I cannot
+conjoin. I therefore ask, wherein consists the difference betwixt believing and
+disbelieving any proposition? The answer is easy with regard to propositions,
+that are prov’d by intuition or demonstration. In that case, the person, who
+assents, not only conceives the ideas according to the proposition, but is neces-
+sarily determin’d to conceive them in that particular manner, either immediately
+or by the interposition of other ideas. Whatever is absurd is unintelligible; nor is
+it possible for the imagination to conceive any thing contrary toa demonstration.
+But as in reasonings from causation, and concerning matters of fact, this
+absolute necessity cannot take place, and the imagination is free to conceive
+both sides of the question, I still ask, Wherein consists the difference betmixt
+incredulity and belief ? since in both cases the conception of the idea is equally
+possible and requisite.
+
+Twill not be a satisfactory answer to say, that a person, who does not assent to
+a proposition you advance; after having conceiv’d the object in the same manner
+with you; immediately conceives it in a different manner, and has different ideas
+of it. This answer is unsatisfactory; not because it contains any falshood, but
+because it discovers not all the truth. ’Tis confest, that in all cases, wherein we
+dissent from any person, we conceive both sides of the question; but as we can
+believe only one, it evidently follows, that the belief must make some difference
+betwixt that conception to which we assent, and that from which we dissent. We
+may mingle, and unite, and separate, and confound, and vary our ideas in a
+hundred different ways; but till there appears some principle, which fixes one of
+these different situations, we have in reality no opinion: And this principle, as it
+
+66
+
+10
+
+SB9S
+
+20
+
+30
+
+SB 9%
+
+Of the nature of the idea or belief 1.3.7
+
+plainly makes no addition to our precedent ideas, can only change the manner of
+our conceiving them.
+
+All the perceptions of the mind are of two kinds, viz. impressions and ideas,
+which differ from each other only in their different degrees of force and vivac-
+ity. Our ideas are copy’d from our impressions, and represent them in all their
+parts. When you wou’d any way vary the idea of a particular object, you can only
+encrease or diminish its force and vivacity. If you make any other change on it, it
+represents a different object or impression. The case is the same as in colours.
+A particular shade of any colour may acquire a new degree of liveliness or
+brightness without any other variation. But when you produce any other vari-
+ation, ’tis no longer the same shade or colour. So that as belief does nothing but
+vary the manner, in which we conceive any object, it can only bestow on our ideas
+an additional force and vivacity. An opinion, therefore, or belief may be most
+accurately defin’d, A LIVELY IDEA RELATED TO OR ASSOCIATED WITH A PRESENT
+IMPRESSION.”
+
+Here are the heads of those arguments, which lead us to this conclusion.
+When we infer the existence of an object from that of others, some object must
+always be present either to the memory or senses, in order to be the foundation of
+our reasoning; since the mind cannot run up with its inferences in infinitum.
+Reason can never satisfy us that the existence of any one object does ever imply
+that of another; so that when we pass from the impression of one to the idea or
+belief of another, we are not determin’d by reason, but by custom or a principle
+of association. But belief is somewhat more than a simple idea. Tis a particular
+
+°0 We may here take occasion to observe a very remarkable error, which being frequently incul-
+cated in the schools, has become a kind of establish’d maxim, and is universally receiv’d by all logi-
+cians. This error consists in the vulgar division of the acts of the understanding, into conception,
+judgment and reasoning, and in the definitions we give of them. Conception is defin’d to be the
+simple survey of one or more ideas: Judgment to be the separating or uniting of different ideas:
+Reasoning to be the separating or uniting of different ideas by the interposition of others, which
+show the relation they bear to each other. But these distinctions and definitions are faulty in very
+considerable articles. For /irst, tis far from being true, that in every judgment, which we form, we
+unite two different ideas; since in that proposition, God is, or indeed any other, which regards exis-
+tence, the idea of existence is no distinct idea, which we unite with that of the object, and which is
+capable of forming a compound idea by the union. Secondly, As we can thus form a proposition,
+which contains only one idea, so we may exert our reason without employing more than two ideas,
+and without having recourse to a third to serve as a medium betwixt them. We infer a cause imme-
+diately from its effect; and this inference is not only a true species of reasoning, but the strongest of
+all others, and more convincing than when we interpose another idea to connect the two extremes.
+What we may in general affirm concerning these three acts of the understanding is, that taking
+them in a proper light, they all resolve themselves into the first, and are nothing but particular ways
+of conceiving our objects. Whether we consider a single object, or several; whether we dwell on
+these objects, or run from them to others; and in whatever form or order we survey them, the act of
+the mind exceeds not a simple conception; and the only remarkable difference, which occurs on this
+occasion, is, when we join belief to the conception, and are perswaded of the truth of what we con-
+ceive. This act of the mind has never yet been explain’d by any philosopher; and therefore I am at
+liberty to propose my hypothesis concerning it; which is, that ’tis only a strong and steady concep-
+tion of any idea, and such as approaches in some measure to an immediate impression.
+
+67
+
+10
+
+SBI
+
+20
+
+SB %
+
+10
+SB 97
+
+20
+
+1.3.7 A Treatise of Human Nature
+
+manner of forming an idea: And as the same idea can only be vary’d by a vari-
+ation of its degrees of force and vivacity; it follows upon the whole, that belief is
+a lively idea produc’d by a relation toa present impression, according to the fore-
+going definition.
+
+‘ep'This operation of the mind, which forms the belief of any matter of fact,
+seems hitherto to have been one of the greatest mysteries of philosophy; tho’ no
+one has so much as suspected, that there was any difficulty in explaining it. For
+my part I must own, that I find a considerable difficulty in the case; and that even
+when I think I understand the subject perfectly, I am at a loss for terms to express
+my meaning. I conclude, by an induction which seems to me very evident, that
+an opinion or belief is nothing but an idea, that is different from a fiction, not in
+the nature, or the order of its parts, but in the manner of its being conceiv’d. But
+when I wou’d explain this manner, I scarce find any word that fully answers the
+case, but am oblig’d to have recourse to every one’s feeling, in order to give hima
+perfect notion of this operation of the mind. An idea assented to fee/s different
+from a fictitious idea, that the fancy alone presents to us: And this different
+feeling I endeavour to explain by calling it a superior force, or vivacity, or solidity,
+or firmness, or steadiness. This variety of terms, which may seem so unphiloso-
+phical, is intended only to express that act of the mind, which renders realities
+more present to us than fictions, causes them to weigh more in the thought, and
+gives them a superior influence on the passions and imagination. Provided we
+agree about the thing, ’tis needless to dispute about the terms. The imagination
+has the command over all its ideas, and can join, and mix, and vary them in all the
+ways possible. It may conceive objects with all the circumstances of place and
+time. It may set them, in a manner, before our eyes in their true colours, just as
+they might have existed. But as it is impossible, that that faculty can ever, of
+itself, reach belief, ’tis evident, that belief consists not in the nature and order of
+our ideas, but in the manner of their conception, and in their feeling to the mind.
+I confess, that tis impossible to explain perfectly this feeling or manner of con-
+ception. We may make use of words, that express something near it. But its true
+and proper name is belief, which is a term that every one sufficiently understands
+in common life. And in philosophy we can go no farther, than assert, that it is
+something fe/t by the mind, which distinguishes the ideas of the judgment from
+the fictions of the imagination. It gives them more force and influence; makes
+them appear of greater importance; infixes them in the mind; and renders them
+the governing principles of all our actions.*??
+
+This definition will also be found to be entirely conformable to every one’s
+feeling and experience. Nothing is more evident, than that those ideas, to which
+we assent, are more strong, firm, and vivid, than the loose reveries of a castle-
+builder. If one person sits down to read a book as a romance, and another as a true
+history, they plainly receive the same ideas, and in the same order; nor does the
+incredulity of the one, and the belief of the other hinder them from putting the
+very same sense upon their author. His words produce the same ideas in both;
+tho’ his testimony has not the same influence on them. The latter has a more
+lively conception of all the incidents. He enters deeper into the concerns of the
+
+68
+
+SB 628
+
+10
+
+SB 629
+
+20
+
+30
+
+SB97
+
+40
+SBIS
+
+Of the causes of belief 1.3.8
+
+persons: Represents to himself their actions, and characters, and friendships,
+and enmities: He even goes so far as to form a notion of their features, and air,
+and person. While the former, who gives no credit to the testimony of the author,
+has a more faint and languid conception of all these particulars; and except on
+account of the style and ingenuity of the composition, can receive little enter-
+tainment from it.
+
+Sect. 8. Of the causes of belief
+
+Having thus explain’d the nature of belief, and shown that it consists in a lively
+idea related to a present impression; let us now proceed to examine from what
+principles it is deriv’d, and what bestows the vivacity on the idea.
+
+I wou’d willingly establish it as a general maxim in the science of human
+nature, that when any impression becomes present to us, 1t not only transports the mind
+to such ideas as are related to it, but likewise communicates to them a share of its force
+and vivacity. All the operations of the mind depend ina great measure on its dis-
+position, when it performs them; and according as the spirits are more or less
+elevated, and the attention more or less fix’d, the action will always have more or
+less vigour and vivacity. When therefore any object is presented, which elevates
+and enlivens the thought, every action, to which the mind applies itself, will be
+more strong and vivid, as long as that disposition continues. Now ’tis evident the
+continuance of the disposition depends entirely on the objects, about which
+the mind is employ’d; and that any new object naturally gives a new direction to
+the spirits, and changes the disposition; as on the contrary, when the mind fixes
+constantly on the same object, or passes easily and insensibly along related
+objects, the disposition has a much longer duration. Hence it happens, that when
+the mind is once enliven’d by a present impression, it proceeds to form a more
+lively idea of the related objects, by a natural transition of the disposition from
+the one to the other. The change of the objects is so easy, that the mind is scarce
+sensible of it, but applies itself to the conception of the related idea with all the
+force and vivacity it acquir’d from the present impression.
+
+If in considering the nature of relation, and that facility of transition, which
+is essential to it, we can satisfy ourselves concerning the reality of this phanom-
+enon, ’tis well: But I must confess I place my chief confidence in experience to
+prove so material a principle. We may, therefore, observe, as the first experiment
+to our present purpose, that upon the appearance of the picture of an absent
+friend, our idea of him is evidently enliven’d by the resemblance, and that every
+passion, which that idea occasions, whether of joy or sorrow, acquires new force
+and vigour. In producing this effect there concur both a relation and a present
+impression. Where the picture bears him no resemblance, or at least was not
+intended for him, it never so much as conveys our thought to him: And where it
+is absent, as well as the person; tho’ the mind may pass from the thought of the
+one to that of the other; it feels its idea to be rather weaken’d than enliven’d by
+that transition. We take a pleasure in viewing the picture of a friend, when ’tis set
+
+69
+
+10
+
+SB99
+
+20
+
+30
+
+40
+
+1.3.8 A Treatise of Human Nature
+
+before us; but when ’tis remov’d, rather choose to consider him directly, than by
+reflection in an image, which is equally distant and obscure.
+
+The ceremonies of the Roman Catholic religion may be consider’d as
+experiments of the same nature. The devotees of that strange superstition
+usually plead in excuse of the mummeries, with which they are upbraided,
+that they feel the good effect of those external motions, and postures, and
+actions, in enlivening their devotion, and quickening their fervour, which other-
+wise wou’d decay away, if directed entirely to distant and immaterial objects.
+We shadow out the objects of our faith, say they, in sensible types and images,
+and render them more present to us by the immediate presence of these types,
+than ’tis possible for us to do, merely by an intellectual view and contemplation.
+Sensible objects have always a greater influence on the fancy than any other; and
+this influence they readily convey to those ideas, to which they are related, and
+which they resemble. I shall only infer from these practices, and this reasoning,
+that the effect of resemblance in enlivening the idea is very common; and as
+in every case a resemblance and a present impression must concur, we are
+abundantly supply’d with experiments to prove the reality of the foregoing
+principle.
+
+We may add force to these experiments by others of a different kind, in con-
+sidering the effects of contiguity, as well as of resemblance. ’Tis certain, that dis-
+tance diminishes the force of every idea, and that upon our approach to any
+object; tho’ it does not discover itself to our senses; it operates upon the mind
+with an influence that imitates an immediate impression. The thinking on any
+object readily transports the mind to what is contiguous; but ’tis only the actual
+presence of an object, that transports it with a superior vivacity. When Iama few
+miles from home, whatever relates to it touches me more nearly than when I am
+two hundred leagues distant; tho’ even at that distance the reflecting on any
+thing in the neighbourhood of my friends and family naturally produces an idea
+of them. But as in this latter case, both the objects of the mind are ideas;
+notwithstanding there is an easy transition betwixt them; that transition alone is
+not able to give a superior vivacity to any of the ideas, for want of some immedi-
+ate impression.”!
+
+No one can doubt but causation has the same influence as the other two
+relations of resemblance and contiguity. Superstitious people are fond of the
+relicts of saints and holy men, for the same reason that they seek after types and
+images, in order to enliven their devotion, and give them a more intimate and
+
+214pP- Naturane nobis, inquit, datum dicam, an errore quodam, ut, cum ea loca videamus, in quibus
+memoria dignos viros acceperimus multum esse versatos, magis moveamur, quam siquando eorum ipsorum
+aut facta audiamus aut scriptum aliquod legamus? Velut ego nunc moveor. Venit enim mihi Platonis in
+mentem, quem accepimus primum hic disputare solitum: Cuyus etiam ilh hortuli propinqui non memoriam
+solum mihi afferunt, sed ipsum videntur in conspectu meo hic ponere. Hic Speusippus, hic Xenocrates, hic
+ejus auditor Polemo; cujus ipsa illa sessio fuit, quam videmus. Equidem etiam curiam nostram, Hostiliam
+dico, non hance novam, que mihi minor esse videtur postquam est major, solebam intuens Scipionem,
+Catonem, Lelium, nostrum vero in primis avum cogitare. Tanta vis admonitionis inest in locis; ut non sine
+causa ex his memoria ducta sit disciplina. Cicero de Finibus, lib. 5.“
+
+70
+
+SB 100
+
+10
+
+20
+
+30
+
+SB 101
+
+SB 630
+
+10
+
+Of the causes of belief 1.3.8
+
+strong conception of those exemplary lives, which they desire to imitate. Now
+tis evident, one of the best relicts a devotee cou’d procure, wou’d be the handy-
+work of a saint; and if his cloaths and furniture are ever to be consider’d in this
+light, ’tis because they were once at his disposal, and were mov’d and affected by
+him; in which respect they are to be consider’d as imperfect effects, and as con-
+nected with him by a shorter chain of consequences than any of those, from
+which we learn the reality of his existence. This phenomenon clearly proves,
+that a present impression with a relation of causation may enliven any idea, and
+consequently produce belief or assent, according to the precedent definition
+of it.
+
+But why need we seek for other arguments to prove, that a present impression
+with a relation or transition of the fancy may enliven any idea, when this very
+instance of our reasonings from cause and effect will alone suffice to that
+purpose? ’Tis certain we must have an idea of every matter of fact, which we
+believe. Tis certain, that this idea arises only from a relation to a present impres-
+sion. ’Tis certain, that the belief super-adds nothing to the idea, but only
+changes our manner of conceiving it, and renders it more strong and lively. The
+present conclusion concerning the influence of relation is the immediate conse-
+quence of all these steps; and every step appears to me sure and infallible. There
+enters nothing into this operation of the mind but a present impression, a lively
+idea, and a relation or association in the fancy betwixt the impression and idea;
+so that there can be no suspicion of mistake.
+
+In order to put this whole affair ina fuller light, let us consider it as a question
+in natural philosophy, which we must determine by experience and observation.
+I suppose there is an object presented, from which I draw a certain conclusion,
+and form to myself ideas, which I am said to believe or assent to. Here ’tis
+evident, that however that object, which is present to my senses, and that other,
+whose existence I infer by reasoning, may be thought to influence each other by
+their particular powers or qualities; yet as the phenomenon of belief, which we
+at present examine, is merely internal, these powers and qualities, being entirely
+unknown, can have no hand in producing it. ’Tis the present impression, which
+is to be consider’d as the true and real cause of the idea, and of the belief which
+attends it. We must therefore endeavour to discover by experiments the particu-
+lar qualities, by which ’tis enabled to produce so extraordinary an effect.
+
+First then I observe, that the present impression has not this effect by its own
+proper power and efficacy, and when consider’d alone, as a single perception,
+limited to the present moment. I find, that an impression, from which, on its first
+appearance, I can draw no conclusion, may afterwards become the foundation of
+belief, when I have had experience of its usual consequences. We must in every
+case have observ’d the same impression in past instances, and have found it to be
+constantly conjoin’d with some other impression. This is confirm’d by such a
+multitude of experiments, that it admits not of the smallest doubt.
+
+From a second observation I conclude, that the belief, which attends the
+present impression, and is produc’d by a number of past impressions and con-
+junctions; that this belief, I say, arises immediately, without any new operation of
+
+71
+
+10
+
+20
+
+SB 102
+
+30
+
+40
+
+11
+
+12
+
+13
+
+1.3.8 A Treatise of Human Nature
+
+the reason or imagination. Of this I can be certain, because I never am conscious
+of any such operation, and find nothing in the subject, on which it can be
+founded. Now as we call every thing custom, which proceeds from a past repeti-
+tion, without any new reasoning or conclusion, we may establish it as a certain
+truth, that all the belief, which follows upon any present impression, is deriv’d
+solely from that origin. When we are accustom’d to see two impressions con-
+join’d together, the appearance or idea of the one immediately carries us to the
+idea of the other.
+
+Being fully satisfy’d on this head, I make a third set of experiments, in order to
+know, whether any thing be requisite, beside the customary transition, towards
+the production of this phenomenon of belief. I therefore change the first
+impression into an idea; and observe, that tho’ the customary transition to the
+correlative idea still remains, yet there is in reality no belief nor perswasion. A
+present impression, then, is absolutely requisite to this whole operation; and
+when after this I compare an impression with an idea, and find that their only
+difference consists in their different degrees of force and vivacity, I conclude
+upon the whole, that belief is a more vivid and intense conception of an idea,
+proceeding from its relation to a present impression.
+
+Thus all probable reasoning is nothing but a species of sensation. ”Tis not
+solely in poetry and music, we must follow our taste and sentiment, but likewise
+in philosophy. When I am convinc’d of any principle, ’tis only an idea, which
+strikes more strongly upon me. When I give the preference to one set of argu-
+ments above another, I do nothing but decide from my feeling concerning the
+superiority of their influence. Objects have no discoverable connexion together;
+nor is it from any other principle but custom operating upon the imagination,
+that we can draw any inference from the appearance of one to the existence of
+another.
+
+Twill here be worth our observation, that the past experience, on which all
+our judgments concerning cause and effect depend, may operate on our mind in
+such an insensible manner as never to be taken notice of, and may even in some
+measure be unknown to us. A person, who stops short in his journey upon
+meeting a river in his way, foresees the consequences of his proceeding forward;
+and his knowledge of these consequences is convey’d to him by past experience,
+which informs him of such certain conjunctions of causes and effects. But can
+we think, that on this occasion he reflects on any past experience, and calls to
+remembrance instances, that he has seen or heard of, in order to discover the
+effects of water on animal bodies? No surely; this is not the method, in which he
+proceeds in his reasoning. The idea of sinking is so closely connected with that
+of water, and the idea of suffocating with that of sinking, that the mind makes
+the transition without the assistance of the memory. The custom operates before
+we have time for reflection. The objects seem so inseparable, that we interpose
+not a moment’s delay in passing from the one to the other. But as this transition
+proceeds from experience, and not from any primary connexion betwixt the
+ideas, we must necessarily acknowledge, that experience may produce a belief
+
+72
+
+SB 103
+
+10
+
+20
+
+30
+
+SB 104
+
+40
+
+14
+
+15
+
+Of the causes of belief 1.3.8
+
+and a judgment of causes and effects by a secret operation, and without being
+once thought of. This removes all pretext, if there yet remains any, for asserting
+that the mind is convine’d by reasoning of that principle, that instances of which
+we have no experience, must necessarily resemble those, of which we have. For we
+here find, that the understanding or imagination can draw inferences from past
+experience, without reflecting on it; much more without forming any principle
+concerning it, or reasoning upon that principle.
+
+In general we may observe, that in all the most establish’d and uniform con-
+junctions of causes and effects, such as those of gravity, impulse, solidity, &c.
+the mind never carries its view expressly to consider any past experience: Tho’ in
+other associations of objects, which are more rare and unusual, it may assist the
+custom and transition of ideas by this reflection. Nay we find in some cases, that
+the reflection produces the belief without the custom; or more properly speak-
+ing, that the reflection produces the custom in an oblique and artificial manner. I
+explain myself. ’Tis certain, that not only in philosophy, but even in common
+life, we may attain the knowledge of a particular cause merely by one experi-
+ment, provided it be made with judgment, and after a careful removal of all
+foreign and superfluous circumstances. Now as after one experiment of this
+kind, the mind, upon the appearance either of the cause or the effect, can draw
+an inference concerning the existence of its correlative; and as a habit can never
+be acquir’d merely by one instance; it may be thought, that belief cannot in this
+case be esteem’d the effect of custom. But this difficulty will vanish, if we con-
+sider, that tho’ we are here suppos’d to have had only one experiment of a par-
+ticular effect, yet we have many millions to convince us of this principle; that like
+objects, plac’d in like circumstances, will always produce like effects; and as this prin-
+ciple has establish’d itself by a sufficient custom, it bestows an evidence and
+firmness on any opinion, to which it can be apply’d. The connexion of the ideas
+is not habitual after one experiment; but this connexion is comprehended under
+another principle, that is habitual; which brings us back to our hypothesis. In all
+cases we transfer our experience to instances, of which we have no experience,
+either expressly or tacitly, either directly or indirectly.
+
+I must not conclude this subject without observing, that ’tis very difficult to
+talk of the operations of the mind with perfect propriety and exactness; because
+common language has seldom made any very nice distinctions among them, but
+has generally call’d by the same term all such as nearly resemble each other. And
+as this is a source almost inevitable of obscurity and confusion in the author; so it
+may frequently give rise to doubts and objections in the reader, which otherwise
+he wou’d never have dream’d of. Thus my general position, that an opinion or
+belief is nothing but a strong and lively idea deriv’d from a present impression related
+to it, may be liable to the following objection, by reason of a little ambiguity in
+those words strong and lively. It may be said, that not only an impression may
+give rise to reasoning, but that an idea may also have the same influence; espe-
+cially upon my principle, that all our ideas are deriv’d from correspondent impres-
+sions. For suppose I form at present an idea, of which I have forgot the
+
+73
+
+10
+
+SB 105
+
+20
+
+30
+
+40
+
+16
+
+17
+
+1.3.9 A Treatise of Human Nature
+
+correspondent impression, I am able to conclude from this idea, that such an
+impression did once exist; and as this conclusion is attended with belief, it may
+be ask’d, from whence are the qualities of force and vivacity deriv’d, which con-
+stitute this belief? And to this I answer very readily, from the present idea. For as
+this idea is not here consider’d, as the representation of any absent object, but as
+a real perception in the mind, of which we are intimately conscious, it must be
+able to bestow on whatever is related to it the same quality, call it firmness, or
+solidity, or force, or vivacity, with which the mind reflects upon it, and is assur’d
+of its present existence. The idea here supplies the place of an impression, and
+is entirely the same, so far as regards our present purpose.
+
+Upon the same principles we need not be surpriz’d to hear of the remem-
+brance of an idea; that is, of the idea of an idea, and of its force and vivacity
+superior to the loose conceptions of the imagination. In thinking of our past
+thoughts we not only delineate out the objects, of which we were thinking,
+but also conceive the action of the mind in the meditation, that certain je-ne-
+scai-quo1, of which ’tis impossible to give any definition or description, but
+which every one sufficiently understands. When the memory offers an idea of
+this, and represents it as past, tis easily conceiv’d how that idea may have more
+vigour and firmness, than when we think of a past thought, of which we have no
+remembrance.
+
+After this any one will understand how we may form the idea of an impression
+and of an idea, and how we may believe the existence of an impression and of
+an idea.
+
+Sect.9. Of the effects of other relations and other habits
+
+However convincing the foregoing arguments may appear, we must not rest
+contented with them, but must turn the subject on every side, in order to find
+some new points of view, from which we may illustrate and confirm such extra-
+ordinary, and such fundamental principles. A scrupulous hesitation to receive
+any new hypothesis is so laudable a disposition in philosophers, and so necessary
+to the examination of truth, that it deserves to be comply’d with, and requires
+that every argument be produc’d, which may tend to their satisfaction, and every
+objection remov’d, which may stop them in their reasoning.
+
+I have often observ’d, that, beside cause and effect, the two relations of
+resemblance and contiguity, are to be consider’d as associating principles of
+thought, and as capable of conveying the imagination from one idea to another. I
+have also observ’d, that when of two objects connected together by any of these
+relations, one is immediately present to the memory or senses, not only the mind
+is convey’d to its correlative by means of the associating principle; but likewise
+conceives it with an additional force and vigour, by the united operation of that
+principle, and of the present impression. All this I have observ’d, in order to
+confirm by analogy, my explication of our judgments concerning cause and
+effect. But this very argument may, perhaps, be turn’d against me, and instead of
+a confirmation of my hypothesis, may become an objection to it. For it may be
+
+74
+
+SB 106
+
+10
+
+20
+
+SB 107
+
+30
+
+40
+
+Of the effects of other relations and other habits 1.3.9
+
+said, that if all the parts of that hypothesis be true, viz. that these three species of
+relation are deriv’d from the same principles; that their effects in enforcing and
+enlivening our ideas are the same; and that belief is nothing but a more forcible
+and vivid conception of an idea; it shou’d follow, that that action of the mind
+may not only be deriv’d from the relation of cause and effect, but also from those
+of contiguity and resemblance. But as we find by experience, that belief arises
+only from causation, and that we can draw no inference from one object to
+another, except they be connected by this relation, we may conclude, that there
+is some error in that reasoning, which leads us into such difficulties.
+
+This is the objection; let us now consider its solution. ”Tis evident, that what-
+ever is present to the memory, striking upon the mind with a vivacity, which
+resembles an immediate impression, must become of considerable moment in
+all the operations of the mind, and must easily distinguish itself above the mere
+fictions of the imagination. Of these impressions or ideas of the memory we
+form a kind of system, comprehending whatever we remember to have been
+present, either to our internal perception or senses; and every particular of that
+system, join’d to the present impressions, we are pleas’d to call a reality. But
+the mind stops not here. For finding, that with this system of perceptions,
+there is another connected by custom, or if you will, by the relation of cause or
+effect, it proceeds to the consideration of their ideas; and as it feels that ’tis in a
+manner necessarily determin’d to view these particular ideas, and that the
+custom or relation, by which it is determin’d, admits not of the least change, it
+forms them into a new system, which it likewise dignifies with the title of reali-
+ties. The first of these systems is the object of the memory and senses; the
+second of the judgment.
+
+Tis this latter principle, which peoples the world, and brings us acquainted
+with such existences, as by their removal in time and place, lie beyond the
+reach of the senses and memory. By means of it I paint the universe in my im-
+agination, and fix my attention on any part of it I please. I form an idea of Rome,
+which I neither see nor remember; but which is connected with such impres-
+sions as I remember to have receiv’d from the conversation and books of trav-
+ellers and historians. This idea of Rome I place in a certain situation on the
+idea of an object, which I call the globe. I join to it the conception of a particular
+government, and religion, and manners. I look backward and consider its first
+foundation; its several revolutions, successes, and misfortunes. All this, and
+every thing else, which I believe, are nothing but ideas; tho’ by their force and
+settled order, arising from custom and the relation of cause and effect, they dis-
+tinguish themselves from the other ideas, which are merely the offspring of the
+imagination.
+
+As to the influence of contiguity and resemblance, we may observe, that if the
+contiguous and resembling objects be comprehended in this system of realities,
+there is no doubt but these two relations will assist that of cause and effect, and
+infix the related idea with more force in the imagination. This I shall enlarge
+upon presently. Mean while I shall carry my observation a step farther, and
+assert, that even where the related object is but feign’d, the relation will serve to
+
+75
+
+10
+
+SB 108
+
+20
+
+30
+
+SB 109
+
+1.3.9 A Treatise of Human Nature
+
+enliven the idea, and encrease its influence. A poet, no doubt, will be the better
+able to form a strong description of the Elysian fields, that he prompts his im-
+agination by the view of a beautiful meadow or garden; as at another time he may
+by his fancy place himself in the midst of these fabulous regions, that by the
+feign’d contiguity he may enliven his imagination.
+
+But tho’ I cannot altogether exclude the relations of resemblance and conti-
+guity from operating on the fancy in this manner, ’tis observable that, when
+single, their influence is very feeble and uncertain. As the relation of cause and
+effect is requisite to perswade us of any real existence, so is this perswasion
+requisite to give force to these other relations. For where upon the appearance of
+an impression we not only feign another object, but likewise arbitrarily, and of
+our mere good-will and pleasure give it a particular relation to the impression,
+this can have but a small effect upon the mind; nor is there any reason, why, upon
+the return of the same impression, we shou’d be determin’d to place the same
+object in the same relation to it. There is no manner of necessity for the mind to
+feign any resembling and contiguous objects; and if it feigns such, there is as
+little necessity for it always to confine itself to the same, without any difference
+or variation. And indeed such a fiction is founded on so little reason, that
+nothing but pure caprice can determine the mind to form it; and that principle
+being fluctuating and uncertain, tis impossible it can ever operate with any con-
+siderable degree of force and constancy. The mind foresees and anticipates the
+change; and even from the very first instant feels the looseness of its actions, and
+the weak hold it has of its objects. And as this imperfection is very sensible in
+every single instance, it still encreases by experience and observation, when we
+compare the several instances we may remember, and form a general rule against
+the reposing any assurance in those momentary glimpses of light, which arise in
+the imagination from a feign’d resemblance and contiguity.
+
+The relation of cause and effect has all the opposite advantages. The objects it
+presents are fixt and unalterable. The impressions of the memory never change
+in any considerable degree; and each impression draws along with it a precise
+idea, which takes its place in the imagination, as something solid and real, certain
+and invariable. The thought is always determin’d to pass from the impression to
+the idea, and from that particular impression to that particular idea, without any
+choice or hesitation.
+
+But not content with removing this objection, I shall endeavour to extract
+from it a proof of the present doctrine. Contiguity and resemblance have an
+effect much inferior to causation; but still have some effect, and augment the
+conviction of any opinion, and the vivacity of any conception. If this can be
+prov’d in several new instances, beside what we have already observ’d, ’twill be
+allow’d no inconsiderable argument, that belief is nothing but a lively idea
+related to a present impression.
+
+To begin with contiguity; it has been remark’d among the Mahometans as well
+as Christians, that those pilgrims, who have seen Mecca or the Holy Land are ever
+after more faithful and zealous believers, than those who have not had that
+advantage. A man, whose memory presents him with a lively image of the
+
+76
+
+10
+
+20
+
+SB 110
+
+30
+
+40
+
+10
+
+11
+
+Of the effects of other relations and other habits 1.3.9
+
+Red-Sea, and the Desert, and Jerusalem, and Galilee, can never doubt of any
+miraculous events, which are related either by Moses or the Evangelists. The
+lively idea of the places passes by an easy transition to the facts, which are
+suppos’d to have been related to them by contiguity, and encreases the belief by
+encreasing the vivacity of the conception. The remembrance of these fields and
+rivers has the same influence on the vulgar as a new argument; and from the same
+causes.
+
+We may form a like observation concerning resemblance. We have remark’d,
+that the conclusion, which we draw from a present object to its absent cause
+or effect, is never founded on any qualities, which we observe in that object,
+consider’d in itself; or, in other words, that ’tis impossible to determine, other-
+wise than by experience, what will result from any phenomenon, or what has
+preceded it. But tho’ this be so evident in itself, that it seem’d not to require any
+proof; yet some philosophers have imagin’d that there is an apparent cause for
+the communication of motion, and that a reasonable man might immediately
+infer the motion of one body from the impulse of another, without having
+recourse to any past observation. That this opinion is false will admit of an easy
+proof. For if such an inference may be drawn merely from the ideas of body, of
+motion, and of impulse, it must amount to a demonstration, and must imply the
+absolute impossibility of any contrary supposition. Every effect, then, beside
+the communication of motion, implies a formal contradiction; and ’tis impos-
+sible not only that it can exist, but also that it can be conceiv’d. But we may soon
+satisfy ourselves of the contrary, by forming a clear and consistent idea of one
+body’s moving upon another, and of its rest immediately upon the contact; or of
+its returning back in the same line, in which it came; or of its annihilation; or cir-
+cular or elliptical motion: And in short, of an infinite number of other changes,
+which we may suppose it to undergo. These suppositions are all consistent and
+natural; and the reason, why we imagine the communication of motion to be
+more consistent and natural not only than those suppositions, but also than any
+other natural effect, is founded on the relation of resemblance betwixt the cause
+and effect, which is here united to experience, and binds the objects in the closest
+and most intimate manner to each other, so as to make us imagine them to be
+absolutely inseparable. Resemblance, then, has the same or a parallel influence
+with experience; and as the only immediate effect of experience is to associate
+our ideas together, it follows, that all belief arises from the association of ideas,
+according to my hypothesis.
+
+Tis universally allow’d by the writers on optics, that the eye at all times sees
+an equal number of physical points, and that a man on the top of a mountain has
+no larger an image presented to his senses, than when he is coop’d up in the nar-
+rowest court or chamber. ’Tis only by experience that he infers the greatness of
+the object from some peculiar qualities of the image; and this inference of the
+judgment he confounds with sensation, as is common on other occasions. Now
+*tis evident, that the inference of the judgment is here much more lively than
+what is usual in our common reasonings, and that a man has a more vivid con-
+ception of the vast extent of the ocean from the image he receives by the eye,
+
+77
+
+SBII1
+
+10
+
+20
+
+SB 112
+
+40
+
+12
+
+13
+
+1.3.9 A Treatise of Human Nature
+
+when he stands on the top of a high promontory, than merely from hearing the
+roaring of the waters. He feels a more sensible pleasure from its magnificence;
+which is a proof of a more lively idea: And he confounds his judgment with sen-
+sation; which is another proof of it. But as the inference is equally certain and
+immediate in both cases, this superior vivacity of our conception in one case
+can proceed from nothing but this, that in drawing an inference from the
+sight, beside the customary conjunction, there is also a resemblance betwixt the
+image and the object we infer; which strengthens the relation, and conveys
+the vivacity of the impression to the related idea with an easier and more natural
+movement.
+
+No weakness of human nature is more universal and conspicuous than what
+we commonly call CREDULITY, or a too easy faith in the testimony of others; and
+this weakness is also very naturally accounted for from the influence of resem-
+blance. When we receive any matter of fact upon human testimony, our faith
+arises from the very same origin as our inferences from causes to effects, and
+from effects to causes; nor is there any thing but our experience of the governing
+principles of human nature, which can give us any assurance of the veracity of
+men. But tho’ experience be the true standard of this, as well as of all other judg-
+ments, we seldom regulate ourselves entirely by it; but have a remarkable
+propensity to believe whatever is reported, even concerning apparitions,
+enchantments, and prodigies, however contrary to daily experience and observa-
+tion. The words or discourses of others have an intimate connexion with certain
+ideas in their mind; and these ideas have also a connexion with the facts or
+objects, which they represent. This latter connexion is generally much over-
+rated, and commands our assent beyond what experience will justify; which can
+proceed from nothing beside the resemblance betwixt the ideas and the facts.
+Other effects only point out their causes in an oblique manner; but the testimony
+of men does it directly, and is to be consider’d as an image as well as an effect. No
+wonder, therefore, we are so rash in drawing our inferences from it, and are less
+guided by experience in our judgments concerning it, than in those upon any
+other subject.
+
+As resemblance, when conjoin’d with causation, fortifies our reasonings; so
+the want of it in any very great degree is able almost entirely to destroy them. Of
+this there is a remarkable instance in the universal carelessness and stupidity of
+men with regard to a future state, where they show as obstinate an incredulity, as
+they do a blind credulity on other occasions. There is not indeed a more ample
+matter of wonder to the studious, and of regret to the pious man, than to observe
+the negligence of the bulk of mankind concerning their approaching condition;
+and ’tis with reason, that many eminent theologians have not scrupled to affirm,
+that tho’ the vulgar have no formal principles of infidelity, yet they are really infi-
+dels in their hearts, and have nothing like what we can call a belief of the eternal
+duration of their souls. For let us consider on the one hand what divines have
+display’d with such eloquence concerning the importance of eternity; and at the
+same time reflect, that tho’ in matters of rhetoric we ought to lay our account
+
+78
+
+10
+
+SB 113
+
+20
+
+30
+
+SB 114
+
+14
+
+15
+
+Of the effects of other relations and other habits 1.3.9
+
+with some exaggeration, we must in this case allow, that the strongest figures are
+infinitely inferior to the subject: And after this let us view on the other hand the
+prodigious security of men in this particular: I ask, if these people really believe
+what is inculcated on them, and what they pretend to affirm; and the answer is
+obviously in the negative. As belief is an act of the mind arising from custom, ’tis
+not strange the want of resemblance shou’d overthrow what custom has estab-
+lish’d, and diminish the force of the idea, as much as that latter principle
+encreases it. A future state is so far remov’d from our comprehension, and we
+have so obscure an idea of the manner, in which we shall exist after the dissolu-
+tion of the body, that all the reasons we can invent, however strong in them-
+selves, and however much assisted by education, are never able with slow
+imaginations to surmount this difficulty, or bestow a sufficient authority and
+force on the idea. I rather choose to ascribe this incredulity to the faint idea we
+form of our future condition, deriv’d from its want of resemblance to the
+present life, than to that deriv’d from its remoteness. For I observe, that men are
+every where concern’d about what may happen after their death, provided it
+regard this world; and that there are few to whom their name, their family, their
+friends, and their country are in any period of time entirely indifferent.
+
+And indeed the want of resemblance in this case so entirely destroys belief,
+that except those few, who upon cool reflection on the importance of the subject,
+have taken care by repeated meditation to imprint in their minds the arguments
+for a future state, there scarce are any, who believe the immortality of the soul
+with a true and establish’d judgment; such as is deriv’d from the testimony of
+travellers and historians. This appears very conspicuously wherever men have
+occasion to compare the pleasures and pains, the rewards and punishments of
+this life with those of a future; even tho’ the case does not concern themselves,
+and there is no violent passion to disturb their judgment. The Roman Catholics
+are certainly the most zealous of any sect in the christian world; and yet you'll
+find few among the more sensible people of that communion, who do not blame
+the Gunpomder-treason, and the massacre of St. Bartholomem, as cruel and
+barbarous, tho’ projected or executed against those very people, whom without
+any scruple they condemn to eternal and infinite punishments. All we can say
+in excuse for this inconsistency is, that they really do not believe what they
+affirm concerning a future state; nor is there any better proof of it than the very
+inconsistency.
+
+We may add to this a remark, that in matters of religion men take a pleasure in
+being terrify’d, and that no preachers are so popular, as those who excite the
+most dismal and gloomy passions. In the common affairs of life, where we feel
+and are penetrated with the solidity of the subject, nothing can be more dis-
+agreeable than fear and terror; and ’tis only in dramatic performances and in
+religious discourses, that they ever give pleasure. In these latter cases the imagi-
+nation reposes itself indolently on the idea; and the passion, being soften’d by
+the want of belief in the subject, has no more than the agreeable effect of
+enlivening the mind, and fixing the attention.
+
+79
+
+10
+
+20
+
+SB IIS
+
+30
+
+40
+
+16
+
+17
+
+18
+
+19
+
+1.3.9 A Treatise of Human Nature
+
+The present hypothesis will receive additional confirmation, if we examine
+the effects of other kinds of custom, as well as of other relations. To understand
+this we must consider, that custom, to which J attribute all belief and reasoning,
+may operate upon the mind in invigorating an idea after two several ways. For
+supposing that in all past experience we have found two objects to have been
+always conjoin’d together, ’tis evident, that upon the appearance of one of these
+objects in an impression, we must from custom make an easy transition to the
+idea of that object, which usually attends it; and by means of the present impres-
+sion and easy transition must conceive that idea in a stronger and more lively
+manner, than we do any loose floating image of the fancy. But let us next
+suppose, that a mere idea alone, without any of this curious and almost artificial
+preparation, shou’d frequently make its appearance in the mind, this idea must
+by degrees acquire a facility and force; and both by its firm hold and easy intro-
+duction distinguish itself from any new and unusual idea. This is the only par-
+ticular, in which these two kinds of custom agree; and if it appear, that their
+effects on the judgment are similar and proportionable, we may certainly con-
+clude, that the foregoing explication of that faculty is satisfactory. But can we
+doubt of this agreement in their influence on the judgment, when we consider
+the nature and effects of EDUCATION?
+
+All those opinions and notions of things, to which we have been accustom’d
+from our infancy, take such deep root, that tis impossible for us, by all the
+powers of reason and experience, to eradicate them; and this habit not only
+approaches in its influence, but even on many occasions prevails over that which
+arises from the constant and inseparable union of causes and effects. Here we
+must not be contented with saying, that the vividness of the idea produces the
+belief: We must maintain that they are individually the same. The frequent re-
+petition of any idea infixes it in the imagination; but cou’d never possibly of itself
+produce belief, if that act of the mind was, by the original constitution of our
+natures, annex’d only to a reasoning and comparison of ideas. Custom may lead
+us into some false comparison of ideas. This is the utmost effect we can conceive
+of it. But ’tis certain it cou’d never supply the place of that comparison, nor
+produce any act of the mind, which naturally belong’d to that principle.
+
+A person, that has lost a leg or an arm by amputation, endeavours for a long
+time afterwards to serve himself with them. After the death of any one, ’tis a
+common remark of the whole family, but especially of the servants, that they can
+scarce believe him to be dead, but still imagine him to be in his chamber or in any
+other place, where they were accustom’d to find him. I have often heard in con-
+versation, after talking of a person, that is any way celebrated, that one, who has
+no acquaintance with him, will say, / have never seen such-a-one, but almost fancy I
+have; so often have I heard talk of him. All these are parallel instances.
+
+If we consider this argument from education in a proper light, ’twill appear
+very convincing; and the more so, that ’tis founded on one of the most common
+phenomena, that is any where to be met with. Iam perswaded, that upon exami-
+nation we shall find more than one half of those opinions, that prevail among
+mankind, to be owing to education, and that the principles, which are thus
+
+80
+
+SB 116
+
+10
+
+20
+
+30
+
+SB117
+
+40
+
+Of the influence of belief 1.3.10
+
+implicitly embrac’d, over-ballance those, which are owing either to abstract rea-
+soning or experience. As liars, by the frequent repetition of their lies, come at
+last to remember them; so the judgment, or rather the imagination, by the like
+means, may have ideas so strongly imprinted on it, and conceive them in so fulla
+light, that they may operate upon the mind in the same manner with those,
+which the senses, memory or reason present to us. But as education is an artificial
+and not a natural cause, and as its maxims are frequently contrary to reason, and
+even to themselves in different times and places, it is never upon that account
+recogniz’d by philosophers; tho’ in reality it be built almost on the same founda-
+tion of custom and repetition as our experience or reasonings from causes and
+effects.
+
+Sect. 10. Of the influence of behef
+
+But tho’ education be disclaim’d by philosophy, as a fallacious ground of assent
+to any opinion, it prevails nevertheless in the world, and is the cause why all
+systems, upon whatever convincing arguments they may be founded, are apt to
+be rejected at first as new and unusual. This perhaps will be the fate of what I
+have here advance’d concerning belief, and our reasonings from causes to effects;
+and tho’ the proofs I have produc’d appear to me perfectly conclusive, I expect
+not to make many proselytes to my opinion. Men will scarce ever be perswaded,
+that effects of such consequence can flow from principles, which are seemingly
+so inconsiderable, and that the far greatest part of our reasonings with all our
+actions and passions can be deriv’d from nothing but custom and habit. To
+obviate this objection, I shall here anticipate a little what wou’d more properly
+fall under our consideration afterwards, when we come to treat of the passions
+and the sense of beauty.
+
+Nature has implanted in the human mind a perception of good or evil, or in
+other words, of pain and pleasure, as the chief spring and moving principle of all
+its actions. But pain and pleasure have two ways of making their appearance in
+the mind; of which the one has effects very different from the other. They may
+either appear in impression to the actual feeling and experience, or only in idea,
+as at present when I mention them. ”Tis evident the influence of these upon our
+actions is far from being equal. Impressions always actuate the soul, and that in
+the highest degree; but ’tis not every idea which has the same effect. Nature has
+proceeded with caution in this case, and seems to have carefully avoided the
+
+” In general we may observe, that as our assent to all probable reasonings is founded on the
+vivacity of ideas, it resembles many of those whimsies and prejudices, which are rejected under the
+opprobrious character of being the offspring of the imagination. By this expression it appears that
+the word, imagination, is commonly us’d in two different senses; and tho’ nothing be more contrary
+to true philosophy, than this inaccuracy, yet in the following reasonings I have often been oblig’d to
+fall into it. When I oppose the imagination to the memory, I mean the faculty, by which we form our
+fainter ideas. When I oppose it to reason, I mean the same faculty, excluding only our demonstrative
+and probable reasonings. When I oppose it to neither, ’tis indifferent whether it be taken in the
+larger or more limited sense, or at least the context will sufficiently explain the meaning.
+
+81
+
+10
+
+SB 118
+
+20
+
+30
+
+SB119
+
+SB1I7
+
+SB 118
+
+1.3.10 A Treatise of Human Nature
+
+inconveniencies of two extremes. Did impressions alone influence the will, we
+shou’d every moment of our lives be subject to the greatest calamities; because,
+tho’ we foresaw their approach, we shou’d not be provided by nature with any
+principle of action, which might impel us to avoid them. On the other hand, did
+every idea influence our actions, our condition wou’d not be much mended. For
+such is the unsteadiness and activity of thought, that the images of every thing,
+especially of goods and evils, are always wandering in the mind; and were it
+mov’d by every idle conception of this kind, it wou’d never enjoy a moment’s
+peace and tranquillity.
+
+Nature has, therefore, chosen a medium, and has neither bestow’d on every
+idea of good and evil the power of actuating the will, nor yet has entirely
+excluded them from this influence. Tho’ an idle fiction has no efficacy, yet we
+find by experience, that the ideas of those objects, which we believe either are or
+will be existent, produce in a lesser degree the same effect with those impres-
+sions, which are immediately present to the senses and perception. The effect,
+then, of belief is to raise up a simple idea to an equality with our impressions,
+and bestow on it a like influence on the passions. This effect it can only have by
+making an idea approach an impression in force and vivacity. For as the different
+degrees of force make all the original difference betwixt an impression and an
+idea, they must of consequence be the source of all the differences in the effects
+of these perceptions, and their removal, in whole or in part, the cause of every
+new resemblance they acquire. Wherever we can make an idea approach the
+impressions in force and vivacity, it will likewise imitate them in its influence on
+the mind; and vice versa, where it imitates them in that influence, as in the
+present case, this must proceed from its approaching them in force and vivacity.
+Belief, therefore, since it causes an idea to imitate the effects of the impressions,
+must make it resemble them in these qualities, and is nothing but a more vivid and
+intense conception of any idea. This, then, may both serve as an additional argu-
+ment for the present system, and may give us a notion after what manner our rea-
+sonings from causation are able to operate on the will and passions.
+
+As belief is almost absolutely requisite to the exciting our passions, so the pas-
+sions in their turn are very favourable to belief; and not only such facts as convey
+agreeable emotions, but very often such as give pain, do upon that account
+become more readily the objects of faith and opinion. A coward, whose fears are
+easily awaken’d, readily assents to every account of danger he meets with; as a
+person of a sorrowful and melancholy disposition is very credulous of every
+thing, that nourishes his prevailing passion. When any affecting object is pre-
+sented, it gives the alarm, and excites immediately a degree of its proper passion;
+especially in persons who are naturally inclin’d to that passion. This emotion
+passes by an easy transition to the imagination; and diffusing itself over our idea
+of the affecting object, makes us form that idea with greater force and vivacity,
+and consequently assent to it, according to the precedent system. Admiration
+and surprize have the same effect as the other passions; and accordingly we may
+observe, that among the vulgar, quacks and projectors meet with a more easy
+faith upon account of their magnificent pretensions, than if they kept them-
+
+82
+
+10
+
+20
+
+SB 120
+
+30
+
+40
+
+Of the influence of belief 1.3.10
+
+selves within the bounds of moderation. The first astonishment, which natu-
+rally attends their miraculous relations, spreads itself over the whole soul, and so
+vivifies and enlivens the idea, that it resembles the inferences we draw from
+experience. This is a mystery, with which we may be already a little acquainted,
+and which we shall have farther occasion to be let into in the progress of this
+treatise.
+
+After this account of the influence of belief on the passions, we shall find less
+difficulty in explaining its effects on the imagination, however extraordinary
+they may appear. ’Tis certain we cannot take pleasure in any discourse, where
+our judgment gives no assent to those images which are presented to our fancy.
+The conversation of those, who have acquir’d a habit of lying, tho’ in affairs of
+no moment, never gives any satisfaction; and that because those ideas they
+present to us, not being attended with belief, make no impression upon the
+mind. Poets themselves, tho’ liars by profession, always endeavour to give an air
+of truth to their fictions; and where that is totally neglected, their performances,
+however ingenious, will never be able to afford much pleasure. In short, we may
+observe, that even when ideas have no manner of influence on the will and pas-
+sions, truth and reality are still requisite, in order to make them entertaining to
+the imagination.
+
+But if we compare together all the phenomena that occur on this head, we
+shall find, that truth, however necessary it may seem in all works of genius, has
+no other effect than to procure an easy reception for the ideas, and to make the
+mind acquiesce in them with satisfaction, or at least without reluctance. But as
+this is an effect, which may easily be suppos’d to flow from that solidity and
+force, which, according to my system, attend those ideas that are establish’d by
+reasonings from causation; it follows, that all the influence of belief upon the
+fancy may be explain’d from that system. Accordingly we may observe, that
+wherever that influence arises from any other principles beside truth or reality,
+they supply its place, and give an equal entertainment to the imagination. Poets
+have form’d what they call a poetical system of things, which tho’ it be beliew’d
+neither by themselves nor readers, is commonly esteem’d a sufficient foundation
+for any fiction. We have been so much accustom’d to the names of Mars,
+JUPITER, VENUS, that in the same manner as education infixes any opinion, the
+constant repetition of these ideas makes them enter into the mind with facility,
+and prevail upon the fancy, without influencing the judgment. In like manner
+tragedians always borrow their fable, or at least the names of their principal
+actors, from some known passage in history; and that not in order to deceive the
+spectators; for they will frankly confess, that truth is not in any circumstance
+inviolably observ’d; but in order to procure a more easy reception into the im-
+agination for those extraordinary events, which they represent. But this is a
+precaution, which is not requir’d of comic poets, whose personages and inci-
+dents, being of a more familiar kind, enter easily into the conception, and are
+receiv'd without any such formality, even tho’ at first sight they be known to be
+fictitious, and the pure offspring of the fancy.
+
+This mixture of truth and falshood in the fables of tragic poets not only serves
+
+83
+
+SB121
+
+20
+
+30
+
+SB 122
+
+40
+
+10
+
+1.3.10 A Treatise of Human Nature
+
+our present purpose, by showing, that the imagination can be satisfy’d without
+any absolute belief or assurance; but may in another view be regarded as a very
+strong confirmation of this system. ’Tis evident, that poets make use of this
+artifice of borrowing the names of their persons, and the chief events of their
+poems, from history, in order to procure a more easy reception for the whole, and
+cause it to make a deeper impression on the fancy and affections. The several
+incidents of the piece acquire a kind of relation by being united into one poem or
+representation; and if any of these incidents be an object of belief, it bestows a
+force and vivacity on the others, which are related to it. The vividness of the first
+conception diffuses itself along the relations, and is convey’d, as by so many
+pipes or canals, to every idea that has any communication with the primary one.
+This, indeed, can never amount to a perfect assurance; and that because the
+union among the ideas is, in a manner, accidental: But still it approaches so near,
+in its influence, as may convince us, that they are deriv’d from the same origin.
+Belief must please the imagination by means of the force and vivacity which
+attends it; since every idea, which has force and vivacity, is found to be agreeable
+to that faculty.
+
+To confirm this we may observe, that the assistance is mutual betwixt the
+judgment and fancy, as well as betwixt the judgment and passion; and that belief
+not only gives vigour to the imagination, but that a vigorous and strong imagina-
+tion is of all talents the most proper to procure belief and authority. ’Tis difficult
+for us to withhold our assent from what is painted out to us in all the colours of
+eloquence; and the vivacity produc’d by the fancy is in many cases greater than
+that which arises from custom and experience. We are hurry’d away by the lively
+imagination of our author or companion; and even he himself is often a victim to
+his own fire and genius.
+
+Nor will it be amiss to remark, that as a lively imagination very often de-
+generates into madness or folly, and bears it a great resemblance in its opera-
+tions; so they influence the judgment after the same manner, and produce
+belief from the very same prin
+
+<!-- Book text truncated by scrapem max_book_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。
