@@ -1,0 +1,1409 @@
+---
+source: "https://archive.org/details/HUNTEREdwardCIAFile"
+title: "HUNTER, Edward -- CIA File"
+author: ""
+year: ""
+captured_at: "2026-07-19T19:45:45Z"
+updated_at: "2026-07-19T19:45:45Z"
+capture_tool: "scrapem-book"
+source_name: "archive"
+keyword: "マルクス"
+query: "Communist Manifesto"
+plain_text_url: "https://archive.org/download/HUNTEREdwardCIAFile/HUNTER, Edward - CIA file_djvu.txt"
+public_domain: true
+subjects:
+tags:
+  - "近代哲学"
+  - "社会思想"
+  - "唯物論"
+status: raw
+---
+
+# HUNTER, Edward -- CIA File
+
+- 著者: -
+- 情報源: [archive](https://archive.org/details/HUNTEREdwardCIAFile)
+- パブリックドメイン: ✓
+
+## Obsidian Links
+
+- キーワード: [[マルクス]]
+- 研究動向: [[マルクス-現代研究動向]]
+
+## Full Text
+
+Central Intelligence Agency
+
+Washington, DC. 20505
+
+Mr. Ernie Lazar
+P.O. Box 423434
+San Francisco, CA 94142-3434
+
+Reference: F-2000-01373
+
+APR 0 4 2001
+
+I
+
+T*
+
+Dear Mr. Lazar:
+
+In the course of processing your 5 June 1999 Freedom of Information
+Act (FOIA) request for information regarding Edward Hunter, the FBI located
+two CIA documents and referred them to us for review and direct response to
+you.
+
+We have reviewed the documents and have determined that document
+530091 can be released in segregable form with the deletions made on the
+basis of FOIA exemptions (b)(1) and (b)(3). A copy of the sanitized document
+and an explanation of exemptions are enclosed.
+
+We have also determined that one document must be denied in its
+entirety on the basis of FOIA exemptions (b)(1) and (b)(3).
+
+You have the right to appeal these decisions by addressing your appeal
+to the Agency Release Panel within 45 days from the date of this letter, in my
+care. Should you choose to do this, please explain the basis of your appeal.
+
+Thank you for your patience and understanding while we were
+processing this referral.
+
+Sincerely,
+
+Enclosure
+
+Kathryn I. Dyer
+
+Information and Privacy Coordinator
+
+MORI DocID: 530091
+
+Dear Sir:
+
+Attention:
+
+The Director
+
+Federal Bureau of Investigation
+Tenth & Pennsylvania Ave., N. W.
+Washington 25, D. C.
+
+CENTRAL INTELLIGENCE AGE
+WASHINGTON 25, D. C.
+
+&
+
+Remarks: Limited investigation by 19U2 disclosed no deroga
+
+information. Name check in March jwl^wrat^your Bureau, State, Ar my, Navy;
+CSC and HCUA revealed certain derogatory information in the files of MID
+i concerning__ari_IIIl^_Rp_JiJJiJT0^j___h_qwever, it is not known whether this~IYi3Ivldua
+is identifiable with -Subject.
+
+• ,y —-
+
+Jr? TO JC
+
+50 APR 4 1 SA 3 . •
+
+alt. vm onzjrsvrrsj
+
+ESMKH Du';..01' Ji/Al'IK'u ^ aul ft
+
+It is requested fhkt an investigation of the following named person be
+conducted in order t p a^termine loyalty, character, discretion, trustworthiness,
+financial habits, foreign connections, and general suitability for Government
+employment: /
+
+/ Name Reference
+
+^HUNTER, Edward
+The above-named person:
+
+M Is
+W£
+
+V
+
+itiu.
+
+1 t. rv
+
+:b an applicant for employment. 1 V V,-‘‘
+
+Was employed _ and has no access to classified information.
+
+Was employed _ on unclassified duties in cover status.
+
+i Has been a full employee of this Agency since
+k Will be
+
+Form No. A
+Feb 1949 38-103
+
+APPROVED FOR RELEASE
+DATE: MAR 2001
+
+MORI DocID: 530091
+
+* ” ^
+
+rERSONM. HISTORY STATEMENl -
+
+INSTRUCTIONS: ANSWER ALL QUESTIONS COMPLETELY. 19 QUESTION DOES NOT APPLY WR I T LE" .
+WRITE "UNKNOWN” ONLY IF YOU DO NOT KNOW THE ANSWER AND CANNOT OBTAIN THE ANSWER FROM PERSONAL RECORDS.
+USE A SEPARATE SHEET OF PAPER FOR EXTRA DETAILS ON ANY QUESTION OR QUESTIONS FOR WHICH YOU DO NOT HAVE
+SUFFICIENT, ROOM. ATTACH TWO RECENT PASSPORT SIZE PICTURES TO THIS FORM. DATE TAKEN WRITTEN ON THE BACK
+OF EACH. TYPE, PRINT OR WRITE CAREFULLY; ILLEGIBLE OR INCOMPLETE FORMS WILL NOT RECEIVE CONSIDERATION.
+
+HAVE YOU READ AND UNDERSTOOD THE ABOVE l-NSTRUCT IONS?
+
+SECTION 1. PERSONAL BACKGROUND
+
+NO CZJ
+
+Hunter 1445-R
+
+PRESENT ADDRESS STREET AND NUMBER CITY STATE COUNTRY
+
+64 Webster Ave. Pprt Y/ashington,L.I* New York _
+
+LEGAL RESIDENCE STREET AND NUMBER ' CITY
+
+above
+
+NICKNAMES OTHER NAMES THAT YOU HAVE USED
+
+none
+
+UNDER WHAT CIRCUMSTANCES HAVE YOU EVER USED THESE NAMES?
+
+COUNTRY
+
+HOW LONG?
+
+IF LEGAL CHANGE, GIVE PARTICULARS' (WHERE,WHEN AND BY WHAT AUTHORITY)
+
+PLACE OF BIRTH CITY
+
+New York New Y ork
+
+ACQUIR
+
+COUNTRY
+
+NATURALIZATION
+
+CERTIFICATE
+
+LOCATION OF COURT
+
+PREVIOUS CITIZENSHIP
+
+NATURALIZATION I-1
+
+DATE ISSUED NAME OF COURT
+
+OTHER CITIZENSHIPS (GIVE PARTICULARS
+
+STEPS TAKEN TO CHANGE PRESENT NATIONALITY (GIVE PARTICULARS
+
+LAST U S NUMBER
+
+passport' Diplomatic
+
+ALL OTHER U.S. PASSPORTS YOU HAVE HAD (GIVE APPROXIMATE DATES)
+
+Iona,1936; renewed 1938, no. 1546
+
+PASSPORTS OF OTHER NATIONS
+
+Washinglon, D.C.
+
+IF BORN
+OUTSIDE U.S.
+
+LAST U.S.
+V ISA
+
+DATE OF ARRIVAL IN THIS COUNTRY I PORT OF ENTRY
+
+PASSPORT OF COUNTRY
+
+COMPLEX
+
+scars almost indiscernable on left eydlid
+
+and acar on my right side—cut I _ thin to medium
+
+OTHER DISTINGUISHING FEATURES
+
+ENCLOSURE
+
+MORI DocID: 530091
+
+NAME OF COURT
+
+NUMBER
+
+DATE ISSUED
+
+LOCATION OF COURT
+
+PORT OF ENTRY
+
+irown
+
+scars almost indiscernahle
+
+OTHER DISTINGUISHING FEATURES
+
+INSTRUCTIONS: ‘ ANSWER ALL QUESTIONS COMPLETELY. 19 QUES T ION DOES NOT APPLY WRITE "NOT APPLICABLE".
+
+WRITE "UNKNOWN" ONLY IF YOU DO NOT KNOW THE ANSWER AND CANNOT OBTAIN THE ANSWER FROM PERSONAL RECORDS.
+USE A SEPARATE SHEET OF PAPER FOR EXTRA DETAILS ON ANY QUESTION OR QUESTIONS FOR WHICH YOU DO NOT HAVE
+SUFFICIENT ROOM. ATTACH TWO RECENT PASSPORT SIZE PICTURES TO THIS FORM. DATE TAKEN WRITTEN ON THE BACK
+OF EACH. TYPE, PRINT OR WRITE CAREFULLY; ILLEGIBLE OR INCOMPLETE FORMS WILL NOT RECEIVE CONSIDERATION.
+
+PRESENT ADDRESS STREET AND NUMBER CITY
+
+64 WebBter Ave. _ Pprt Washington,L.I«
+
+STATE
+
+New York
+
+COUNTRY
+
+LEGAL RESIDENCE
+
+STREET ANO NUMBER
+
+above
+
+OTHER NAMES THAT YOU HAVE USED
+
+none_
+
+NICKNAMES
+
+UNDER WHAT CIRCUMSTANCES HAVE YOU EVER USEO THESE NAMES?
+
+FROM:
+
+PREVIOUS CITIZENSHIP
+
+DATE
+
+HELD
+
+OTHER CITIZENSHIPS (GIVE PARTICULARS
+
+STEPS TAKEN TO CHANGE PRESENT NATIONALITY (GIVE PARTICULARS
+
+Washington, D.C.
+
+LAST U.S.
+PASSPORT
+
+DATE
+
+NUMBER
+
+Diplomatic
+
+IF BORN
+OUTSIDE U.S.
+
+DATE OF ARRIVAL IN THIS COUNTRY
+
+<
+
+LAST U.S.
+V ISA
+
+TYPE
+
+PLACE OF ISSUE
+
+PHYSICAL DESCRIPTION
+
+AGE
+
+45
+
+SECTION 1. PERSONAL BACKGROUND
+
+.left eyifilia
+cut
+
+thin to medium
+
+HAVE YOU READ AND UNDERSTOOD THE ABOVE l-HSTRUCTIONS?
+
+YES
+
+ENCLOSURE // '
+
+IF LEGAL CHANGE, GIVE PARTICULARS (WHERE,WHEN AND BY WHAT AUTHORITY)
+
+PLACE OF BIRTH CITY STATE
+
+New York New Y ork
+
+COUNTRY
+
+ACQUIRED BY:
+
+TO:
+
+PASSPORTS OF OTHER NATIONS
+
+SECT ION y, MARITAL STATUS
+
+MARRISO r* I WIDOWED I I ,
+SINGLE | 1 DIVORCEO I 1 (
+
+SINGLE |-1 DIVORCEDI-I^P
+
+REASON FOR SEPARATION OR DIVORCE
+
+, SEPARATED
+
+DATE OF SEPARATION
+
+NOTE: IF YOU HAVE BEEN MARRIED MORE THAN ONCE USE A SEPARATE SHEET FOR FORMER WIFE OR HUSBAND AND GIVE DATA
+REOUIREO BELOW FOR ALL PREVIOUS MARRIAGES.
+
+NAME OF WIFE FIRST MI DOLE (FOR Wl FE. M AI DEN) LAST DATE OF MARRIAGE
+
+ormxotbisc Tatiana (Pestrikoff) Hunter June 30,.1932
+
+PLACE OF MARRIAGE (HIS OR HERjAODRESS STREET AND NUMBER CITY STATE COUNTRY
+
+Harbin, China ^Fbftft R ,'{JfeLn a, 198 N 0 vogorodnaya St., Harbin, China
+
+DATE OF DECEASE CAUSE
+
+PRESENT OR
+LAST ADDRESS
+
+DATE OF 81-RTH
+
+Dec. 8, 1921
+
+CITIZENSHIP
+
+American
+
+OCCUPATION
+
+vrife
+
+EMPLOYER'S OR OWN
+BUSINESS ADDRESS
+
+STREET AND NUMBER CITY STATE
+
+64 Webster Ave. Port Washington,!.I. H.Y.
+
+PLACE OF BIRTH CITY STATE
+
+Vladivostok Russia
+
+DATE ACQUIRED WH ERE
+
+_ Apr. 9,1934 |acquire
+
+I LAST EMPLOYER
+
+CITY STATE ,
+
+Hew York 1 -New *ork
+
+STREET AND NUMBER
+
+STATE
+
+BRANCH OF SERVICE
+
+COUNTRY
+
+COUNTRY
+
+COUNTRY
+
+COUNTRY
+
+OTHER GOVERNMENT SERVICE. U.S. OR FOREIGN (GIVE OETAILS)
+
+SECTION <■ CHILDREN OR DEPENDENTS (INCLUDE PARTIAL DEPENDENTS)
+
+NAME RELATE
+
+Robert Hunter
+
+CITIZENSHIP
+
+American
+
+ADDRESS. . STREET AND HUMBER
+
+64 WebBier Awe.
+
+Tate Ann Hunter_
+
+ADDRESS STREET AND NUMBER
+
+64 Webster Ave.
+
+CITIZENSHIP
+
+American
+
+NAME
+
+CITIZENSHIP
+
+RELATIONSHIP
+
+son
+
+ADDRESS STREET AND NUMBER
+
+% Y rt Washing,!. I. V&*™
+
+RELAT daughter AG? 7
+
+Porl'^ashington 5 ;^.!. N.Y. C0UNTRY
+
+RELATIONSHIP * AGE
+
+CITY STATE COUNTRY
+
+SECTION g. PARENTS _
+
+NOTE: FOR STEPFATHER. STEPMOTHER AND/OR GUARDIAN. GIVE THE SAME INFORMATION AS REQUIRED BELOW ON SEPARATE SHEET
+NAfC OF FATHER FIRST MIDDLE LAST
+
+d -_ _Hunter _
+
+DECEASED l I
+
+ATE OF DECEASE CAUSE
+
+AT^RTH
+
+CITIZEN
+
+STREET AND NUMBER
+
+RlwH Woo + Wont Wow
+
+place SaHFf, England
+
+1936
+
+OCCUPATION
+
+Electrical Engineer
+
+COUNT
+
+COUNTRY
+
+CITY
+
+STATE
+
+COUNTRY
+
+Jersey City
+
+H.J.
+
+MORI DocID: 530091
+
+SeCTlOH 10. SELECTIV E
+
+CU W- CAT l-ON n^pjTjTuMB,.
+
+Ia pprox i hat|
+
+- 714'"
+
+STATE
+
+ADDRESS OF BOARD STREET AND NUMBER CITY STATE
+
+_ 79 Main St,, Port Washington, L.I., N.Y. _
+
+IF DEFERRED. STATE REASON : ~ ' rr
+
+SECTION 11. MILITARY, NAVAL OR OTHER GOVERNMENT SERVICE - UNITED 3TATE8 OR FOREIGN ~
+
+COUNTRY SERVICE IsERV I CeI FB0M: [TO:
+
+U.S. O.S.S.fS.S.U. c | dates | Oct. 1944 | May. '1946
+
+GRADE " [SERIAL NUMBER “ [TYPE OF DTSCHARGE
+
+please refer to Cffice of Strategic Eervicea recordB
+
+•last station [commanding officer
+
+War Dept.',' please refer to government records
+
+[SECTION li. CHRONOLOGICAL HISTORY OF EMPLOYMENT (USE ADDITIONAL SHEET IF
+
+NECESSARY)
+
+NOTE: INCLUDE BELOW PERIODS OF UNEMPLOYMENT AND CASUAL EMPLOYMEN'
+DID DURING PERIODS OF UNEMPLOYMENT. INCLUDE LAST 5 POSITIONS ANI
+
+r. GIVE ADDRESS AND STATE WHAT YOU
+
+3 COVER AT LEAST 15 YEARS.
+
+EMPLOYER
+
+N.Y.Post •. .
+
+1 JOB'TITLE
+
+Asst.Cable Editor
+
+ADDRESS STREET AND NUMBER CITY ““ ‘ STATE
+
+75 West St., New York City
+
+KIND OF BUSINESS' s
+
+newspaper
+
+I
+
+g and interpreting
+
+TO:
+
+. 1940 to present
+
+REASONS FOR LEAVING
+
+I haven’t left
+
+Leo HonBky,NewB Editor
+
+F «-1 c- e .* -
+
+SALARY
+
+$150
+
+PER
+
+week
+
+fcjll&ic Relations
+
+00RES Wefm T er AH fc«t, Newark CiW TE
+
+writing speeches for mayor
+
+is »
+
+COVEREO
+
+m 1938
+
+A. Hianey, now
+
+PEB week Mas
+
+’ll
+
+T0: Jan. 1939
+
+REASONS FOR leaving uni j er tainty of campaign "business; I raised money successful
+
+A+ValNCi WA+ f AY» mvafll "F
+
+employer international News Service
+
+ADDRESS .street and NUMBER _ CITY.. . STATE
+
+235 W. 45th St., New York City
+
+YOUR DUTIES AND SPECIALITY . . „ . __ .
+
+covering and interpreting foreign affairs
+
+J0 §tyf£ .Correspondent
+
+KIND OF BUSINESS . -
+
+news syndicate
+
+NAME OF SUPERVISOR
+
+Barry Earis
+
+FROM:
+
+1931
+
+TO:
+
+• * 1937
+
+S *ai»out $100
+
+PER
+
+week
+
+REASONS FOR LEAVING > .
+
+left in "best of relations, "but I did not approve of news policy
+
+EMPLOYER JOB TITLE
+
+Peking Leader Editor
+
+KIND OF BUSINESS /
+
+reKing. wuua i newspaper (American;
+
+ADDRESS
+
+I Peking,
+
+Hfiina AN ° NUM0ER
+
+CITY STATE
+
+(CONTINUED TO PAGE 6)
+
+IK
+
+MORI DocID: 530091
+
+SALARY
+
+STREET AMO NUM8LR
+
+IOVERED
+
+REASONS FOR LEAVING
+
+I joined the Peking Leader to- "become editor
+
+Editor
+
+o about 1928
+
+[REASONS FOR LEAVING'
+
+to join the Hankow Herald; I wanted to go to China
+
+OH 13. CHARACTER BEFEREHCES-FIVE IN THE UNITED STATES (GIVE BUSINESS ADDRESS WHERE POSSIBLE
+
+John Goette
+
+Victor Riesel
+
+NAME
+
+Oliver Pilat
+
+en Russell
+
+IN I TED STATES (GIVE BUSINESS ADDRESS WHERE POSSIBl
+
+16 38th Av. Bavsxde, L.I«
+iBMr& 5f i>orter c 92 Wma.^VNYC
+
+drew KirBChner
+
+L.I s . T J ,E Herald Tr
+
+ijaul and Helen Morgan
+
+$ o ward -
+
+tester HenBell
+
+ifes Club*
+
+ES (AT YOUR LAST NORMAL ADDRESS)
+
+■CTI0B.15. NELSHBOBS-THBEE IN THE UNITEO
+
+SECTION 12. CHRONOLOGICAL HISTORY OF EMPLOYMENT (CONTINUED FROM PAGE 5)
+
+HoitO^o^Ef^riBh-^^guage paper in China
+I FR °l929 | T0: 1931
+
+0F rf ^IS0R
+
+§125
+
+PER week
+
+EMPLOYER
+
+Japan Advertiser
+
+ADDRESS
+
+STREET AND NUMBER
+
+YOUR DUTIES ANO SPECIALITY
+
+NAME OF SUPERVISOR
+
+B.VT.PleiBher
+
+SALARY PER ,
+
+$75 week
+
+NOTE: IN SPACE BELOW GIVE DETAILS CONCERNING ANY POSITION FROM WHICH YOU MAY HAVE BEEN DISCHARGED OR WHICH YOU
+MAY HAVE LEFT UNDER. CIRCUMSTANCES WHICH WERE NOT ENTIRELY FAVORABLE. i
+
+was assassinated.* I thihk I showed good judgment*
+
+i m ain :
+
+• t 1
+
+.COUNTRY
+
+ffilO ADOPTED
+
+NAME OF FATHER-I H-O'AW^; F TRSTSP"
+
+* *r:«
+
+DOLE
+
+CAUSE
+
+LAST EMPLOYER
+
+COUNTRY
+
+COUNTRY
+
+WHERE
+
+ACQUIRED
+
+LAST EMPLOYER
+
+PAGE J
+
+PRESENT OR
+LAST ADDRESS
+
+DATE OF BIRTH
+
+WHERE
+
+ACQUIRED
+
+CITIZENSHIP
+
+OCCUPATION
+
+PRESENT OR
+LAST ADDRESS
+
+DATE OF B IRTH
+
+CITIZENSHIP
+
+OCCUPATION
+
+NAME OF MOTHER-IN-LAW
+
+COUNTRY
+
+COUNTRY
+
+COUNTRY
+
+COUNTRY
+
+MORI DocID: 530091
+
+DATE OF DECEASE
+
+PLACE OF BIRTH
+DATE ACQUIRED
+
+PLACE OF BIRTH
+
+CITY
+
+STREET ANO NUMBER
+
+DATE OF DECEASE
+
+STREET AND NUMBER
+
+MORI DocID: 530091
+
+fattest
+
+RELATIONSHIP
+
+w -"I 1 ■> —n— r ' i ^a i : r, j ; - rrtr
+
+ha uftefj %o \>e mi r.r'ohifcettt
+
+for JJtnte rt VJtmwsiok for y<*\rn«
+
+ADDRESS STREET AND NUMBER
+
+STATE
+
+COUNTRY
+
+REASON FOR LISTING UNDER THIS QUESTION
+
+MOTE: INDICATE BELOW THE RELATIVES BY BLOOD OR MARRIAGE. IN MILITARY. NAVAL OR OTHER GOVERNMENT
+SERVICE (UNITED STATES OR FOREIGN)
+
+RELATIONSHIP
+
+CITIZENSHIP
+
+%ODRESSSTREET AND NUMBER
+
+COUNTRY
+
+STATE
+
+[TYPE AND LOCATION OF SERVICE (IF KNOWN)
+
+NAME
+
+[CITIZENSHIP
+
+ATES
+
+TTENDED
+
+ADDRESS
+
+CHOOL
+
+OEGREE
+
+FROM
+
+DATES
+
+ATTENDED
+
+STAJE
+
+COUNTRY
+
+ADDRE
+
+i?r tzy hi rh s«hoc>3. ottuoatton*
+
+,Ho4 tSww*
+
+COUNTRY
+
+ADDRESS
+
+STATE
+
+ICOLLEGE
+
+DEGREE
+
+FROM
+
+ItCT I ON 10. .SELECTIVE SEBVHCE
+
+MOTE: INDICATE BELOW THE .
+.INFLUENCE OF A FOREIGN P0 (
+
+iTIVES BY BLOOD, MARRIAGE OR ADOPTIO
+ARE NOT CITIZENS OF THE UNITED STA
+
+HO LIVE ABROAD. ARE UNDER THE
+OR ARE MARRIED TO NON-CITIZENS.
+
+RELATIONSHIP
+
+AGE
+
+TYPE AND LOCATION OF SERVICE
+
+IF KNOWN
+
+RELATIONSHIP
+
+AGE
+
+TYPE AND LOCATION OF SERVICE (IF KNOWN)
+
+TuyvtfBFmt Kltfi
+
+DEGREE
+
+SECTION 6. RELATIVES
+
+ADDRESS STREET AND NUMBER
+
+CITY
+
+STATE
+
+COUNTRY
+
+ADDRESS STREET AND NUMBER
+
+CITY
+
+STATE COUNTRY
+
+FROM
+
+CITY
+
+STATE COUNTRY
+
+MORI DocID: 530091
+
+ECUQM 15. NEIQHBORS-THREE IH TH^ki:
+
+AME
+
+J£r.andMrB.Bremer
+Mr. and Mrs, Guerry
+
+STATESfAT YOUR LAST NORMAL ADDRESS)^* 8 ?
+
+ADDRESS STREET AND NUMBER CITY * STATE
+
+66 Webster Ave., Port Washington,!!.!. BY
+
+Mr, and Mrs. 'RVb c fc p na Elke
+
+TfON 16. MISCELUNEOUS
+
+ADDRESS STREET AND NUMBER
+
+7A Jefferson St.,
+
+ADDRESS STREET AND NUMBER
+
+i 5 Jefferson St.,
+
+CITY STATE
+
+Port Washington,!.I. NY
+
+CITY STATE
+
+Port Washington,1.,!.? BY
+
+DID YOU EVER HAVE OR DO YOU NOW HAVE MEMBERSHIP IN, OR SUPPORT ANY POLITICAL PARTY OR ORGANIZATION W HICH A DVOCATES
+THE OVERTHROW OE OUR CONSTITUTIONAL EORM OF GOVERNMENT IN THE UNITED STATES? YES I I NO I TC I
+
+IF ANSWER IS "YES" EXPLAIN BELOW: -
+
+DO YOU USE , OR HAVE YOU USED INTOXICANTS?
+
+yes, but very little, indeed
+
+HAVE YOU EVER BEEN ARRESTED, INDICTED OR CONVICTED FOR ANY VIOLATION OF LAW OTHER THAN A MINOR TRSFFIC VIOLATION?
+IF SO, STATE NAME OF COURT, CITY, STATE , COUNTRY, NATURE OF OFFENCE, AND DISPOSITION OF CASE.
+
+HAVE YOU EVER BEEN COURT-MARTIALED WHILE A MEMBER OF THE ARMED FORCES?
+IF ANSWER IS “YES", GIVE OETAILS BELOW:
+
+YES □
+
+SECTION 17. FINANCIAL BACKGROUND
+
+ARE YOU ENTIRELY DEPENDENT ON YOUR SALARY? YES Uf I NO l I IF ANSWER IS ”N0\ STATE SOURCES OF OTHER INCOME.
+
+_little income from magazine writing, etc._
+
+NAMES OF BANKS WITH WHICH YOU HAVE ACCOUNTS
+
+my wife*s account is with Port Washington National Bank-
+all banking through her -
+
+— I do
+
+HAVE YOU EVER BEEN IN BANKRUPTCY? YES
+
+NO I X I IF ANSWER IS ’YES’. GIVE PARTICULARS:
+
+SECTION 18. CREDIT REFERENCES-THREE IN THE UNITED STATES __
+
+NAME Iadoress street and number
+
+Stem Bros, 42d St. and 6th Ave.
+
+ADDRESS STREET AND HUMBER
+
+Main St.. Port Washii
+
+NAME Iaddress street and number
+
+SECTION
+
+RESIDENCES FOR PAST IS YEARS
+
+ADDRTSS STREET AND NUMBER CITY STATE COUNTRY
+
+64 Webster Awe., Port Washington. L.I._
+
+AODRESS STREET AND' NUMBER CITY STATE COUNTRY
+
+21 Fifth Awe., Port Washington, L.I._
+
+ADDRESS STREET AND NUMBER CITY STATE COUNTRY
+
+95 Park AVe., Port Washington, L.i. _
+
+CONTINUED TO PAGE 8)
+
+PACE 7
+
+MORI DocID: 530091
+
+YEARS (CONTINUED FROM PAGE 7
+
+FROM:(MO. AND YR.)
+
+and Africa
+
+ADDRESS STREET AND NUMBER . CITY STATE . COUNTRY
+
+nonaent for International News Servioe
+
+ADDRESS
+
+STREET AND NUMBER
+
+CITY
+
+STATE
+
+COUNTRY
+
+AODRESS
+
+STREET AND NUMBER
+
+CITY
+
+STATE
+
+COUNTRY
+
+ADDRESS
+
+STREET AND NUMBER
+
+. m
+
+CITY
+
+_c_
+
+STATE
+
+COUNTRY
+
+IDE THE UNITED STATES
+
+CITY OR SECTION COUNTRY
+
+Correspondent I was abroad,
+
+PURPOSE
+
+in Europe, Asia
+
+—
+
+lan 15
+
+CITY OR SECTION COUNTRY PURPOSE
+
+years-constantly traveling when
+
+would
+
+CITY OR SECTION
+
+be impossible
+
+COUNTRY
+
+to recall
+
+dates
+
+PURPOSE
+
+or specific
+
+rope,
+
+CITY OR SECTION
+
+JapChina,
+
+COUNTRY
+
+Ethiopia, Egypt,
+
+PURPOSE
+
+etc etc
+
+CITY OR SECTION
+
+COUNTRY
+
+••
+
+PURPOSE
+
+CITY OR SECTION
+
+COUNTRY
+
+•
+
+PURPOSE
+
+TO:(MO. AND YR.
+
+FROM:(MO. AND YR.) TO:(MO. AND YR.)
+
+ROTE: IN SPACE BELOW LIST NAMES AND ADDRESSES OF ALL DOMESTIC AND FOREIGN CLUBS. SOCIETIES AND ORGANIZATIONS
+OF ALL KINDS TO WHICH YOU HAVE BELONGED, OTHER THAN RELIGIOUS SOCIETIES, POLITICAL PARTIES AND LABOR UNIONS.
+INCLUDE ANY ORGANIZATION HAVING HEADQUARTERS OR A BRANCH IN A FOREIGN COUNTRY OF WHICH YOU HAVE BEEN A MEM¬
+BER OR TO WHICH YOU HAVE GIVEN SUPPORT.
+
+Peking Club
+
+SIBEET.AND NUMBER, CITY . SJATE
+
+Peking China life member
+
+COUNTRY
+
+NAME
+
+Amer, Club of Peking
+
+SIPEET.AND NUMBER.
+
+Peking China
+
+file member”
+
+COUNTRY
+
+NAME
+
+Mukden Club
+
+C i T Ife
+
+SJATE
+
+member
+
+COUNTRY
+
+NAME
+
+Overseas Press Club
+
+(Time^ld
+
+g.) Wev? York
+
+WSr
+
+NAME
+
+STREET AND NUMBER
+
+CITY
+
+STATE
+
+COUNTRY
+
+NAME
+
+STREET AND NUMBER
+
+CITY
+
+STATE
+
+COUNTRY
+
+NAME
+
+* i »
+
+STREET AND NUMBER
+
+CITY
+
+STATE
+
+COUNTRY
+
+NAME
+
+STREET AND NUMBER
+
+CITY
+
+STATE
+
+COUNTRY
+
+CTIOR 22. LARflUAOES-FOREI 6 N (STATE DEGREE OF PROFICIENCY AS "SLIGHT*. ■FAIR" OR "FLUENT*)
+
+LANGUAGE
+
+French
+
+LANGUAGE
+
+Chinese
+
+fluent
+
+LANGUAGE
+
+J apanese
+
+LANGUAGE
+
+*■ «
+
+■ *
+
+. - .
+
+LANGUAGE
+
+LANGUAGE
+
+* •
+
+READ
+
+WRITE
+
+4 i
+
+• •
+
+READ
+
+WRITE
+
+** 4
+
+* * V
+
+MORI DocID: 530091
+
+SECTION 23.'GENERAL QUADF ICATi
+
+CATIONS AS A RESULT ,0F TRAINING
+
+indicate ant special knowledge or training you have, also, set forth ant oual
+or experience, which might fit too for a particular position.
+
+rei'er to t<-y crucial carnaltlao rb lay 13? osr^iir^tlonel
+
+[d~73? niiU0ti i w ? wo rtc i Ffall a tr llh l *t ts n tT-r y PsxeSytlatak-w^k ». - !$
+.U*U # Iffor tteWLltj. I c-th mu? mst«r tc goveximent **»«>»£«
+
+ISy %>«eleXi{^<! ImovsT.©^© h«« u Uusk^xvirnd of T>n*.©tlcaJ. urn*
+
+w a flfty vrid c fo t* itm 3 Ld --e m& 3 ,Q tiv to ccM aarrt tnota planning -ca td paro »i t*o» &
+viitai th© of notual xwxZcing ©o«tU iicma.
+
+- s otcj f^e ci t i ot ee ting»**«nd uwj i ntF. - awft a t&nt; <;« 3Va r— im a m ■
+
+1931 in K«ui« 3 Auxltw—fitat© ahowXU lu.w ?«wvaa on
+
+Hationa than amv ftw<r, we
+
+and » diamvtqh ©f nine vma ywul lit
+
+___ __ _ _ .,__ fa»4©»t^** rS <>n£l» t lttg tit © &
+
+Ylllugot? around til Ain cool flaias In liiaiciiuj&iw—i£sr.
+
+Jid thnjfced rr* fur *iu; vvosfc*
+
+SECTION 21. SPORTS AND HOBBIES
+
+leaving the ©losing of it t© r®r eon, and looker, pagdvnpB, \4ten stt-Jccm
+
+SECTION 25. EMERGENCY ADDRESSEE
+
+RELATIONSHIP
+
+ADDRESS STREET AND NUMBER
+
+CITY
+
+STATE COUNTRY
+
+*..« T 1 «T V
+
+SECTION 26. INFORMATION AND FINAL COMMENTS
+
+NOTE: YOU ARE INFORMED THAT CORRECTNESS OF ALL STATEMENTS MADE HEREIN MILL BE INVESTIGATED, AND YOU ARE INVITED
+TO MAKE ANY CHANGES (OR ADDITIONS) IN YOUR STATEMENTS THAT YOU MAY THINK ADVISABLE.
+
+ARE THERE ANT UNFAVORABLE INCIDENTS IN TOUR LIFE NOT WENTI0NE0 ABOVE WHICH MAY BE 01SCOVEREO IH SUBSEQUENT INVESTIGA¬
+TION, WHETHER YOU WERE 01RECTL V INVOLVED ORNOT, WHICH MIGHT REQUIRE EXPLANATION, IF SO, DESCRIBE, IF NOT, ANSWER, "NO".
+
+SECTION 27. CERTIFICATION
+
+I CERTIFY THAT THE FOREGOING ANSWERS ARE TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE AND BELIEF, AND I AGREE
+THAT ANY INTENTIONAL MISSTATEMENT OR OMISSION AS TO A MATERIAL FACTWILL CONSTITUTE GROUNDS FOR MY IMMEDIATE DISMISSAL.
+
+SIGNEO AT
+
+Witness
+
+MORI DocID: 530091
+
+U. 8. GOVERNMENT PRINTING OFFICE
+1M2—3—>1947
+
+## Notes
+
+- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。
