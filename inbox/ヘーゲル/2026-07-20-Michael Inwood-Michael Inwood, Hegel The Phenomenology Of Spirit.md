@@ -1,0 +1,4646 @@
+---
+source: "https://archive.org/details/michael-inwood-hegel-the-phenomenology-of-spirit"
+title: "Michael Inwood, Hegel The Phenomenology Of Spirit"
+author: "Michael Inwood"
+year: "1910"
+captured_at: "2026-07-20T04:10:09Z"
+updated_at: "2026-07-20T04:10:09Z"
+capture_tool: "scrapem-book"
+source_name: "archive"
+keyword: "ヘーゲル"
+query: "Hegel Phenomenology of Spirit"
+plain_text_url: "https://archive.org/download/michael-inwood-hegel-the-phenomenology-of-spirit/Michael Inwood, Hegel the Phenomenology of Spirit_djvu.txt"
+public_domain: true
+book_text_truncated: true
+subjects:
+tags:
+  - "近代哲学"
+  - "弁証法"
+  - "観念論"
+status: raw
+---
+
+# Michael Inwood, Hegel The Phenomenology Of Spirit
+
+- 著者: Michael Inwood
+- 初版: 1910
+- 情報源: [archive](https://archive.org/details/michael-inwood-hegel-the-phenomenology-of-spirit)
+- パブリックドメイン: ✓
+
+## Obsidian Links
+
+- キーワード: [[ヘーゲル]]
+- 研究動向: [[ヘーゲル-現代研究動向]]
+
+## Full Text
+
+OXFORD
+
+The Phenomenology
+of Spirit
+
+GEew AF BA BGEL
+
+*%
++e
+ts
+y
+‘
+
+Te ay
+
+Translated with introduction and commentary by
+
+MICHAEL INWOOD
+
+Hegel: The Phenomenology of Spirit
+
+Hegel: The Phenomenology of Spirit
+G. W. F. Hegel
+
+TRANSLATED WITH INTRODUCTION AND COMMENTARY BY
+Michael Inwood
+
+OXFORD
+
+UNIVERSITY PRESS
+
+OXFORD
+
+UNIVERSITY PRESS
+Great Clarendon Street, Oxford, OX2 6DP, United Kingdom
+Oxford University Press is a department of the University of Oxford. It furthers the University's
+
+objective of excellence in research, scholarship, and education by publishing worldwide. Oxford is a
+registered trade mark of Oxford University Press in the UK and in certain other countries
+
+© Michael Inwood 2018
+The moral rights of the authors have been asserted
+
+First Edition published in 2018
+Impression: 1
+
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, without the prior permission in writing of Oxford
+University Press, or as expressly permitted by law, by licence or under terms agreed with the
+appropriate reprographics rights organization. Enquiries concerning reproduction outside the scope of
+the above should be sent to the Rights Department, Oxford University Press, at the address above
+
+You must not circulate this work in any other form and you must impose this same condition on any
+acquirer
+
+Published in the United States of America by Oxford University Press 198 Madison Avenue, New
+York, NY 10016, United States of America
+
+British Library Cataloguing in Publication Data
+Data available
+
+Library of Congress Control Number: 2017954184
+
+ISBN 978—0-19-879062—4
+ebook ISBN 978—0—19-253459-0
+
+Printed and bound by CPI Group (UK) Ltd, Croydon, CRO 4YY
+
+Links to third party websites are provided by Oxford in good faith and for information only. Oxford
+disclaims any responsibility for the materials contained in any third party website referenced in this
+work.
+
+Contents
+
+Editor’s Introduction
+Note on the Translation and Commentary
+Bibliography and Abbreviations
+
+Phenomenology of Spirit, by G.W.F. Hegel
+
+Contents
+Preface
+
+Introduction
+I. Sensory Certainty: The This and Meaning
+
+II. Perception: The Thing and Illusion
+III. Force and Understanding: Appearance and Supersensible World
+IV. The Truth of Certainty of Oneself
+V. Certainty and Truth of Reason
+VI. Spirit
+VII. Religion
+VIII. Absolute Knowledge
+
+Glossary of Some Key Terms
+Commentary
+Index
+
+Editor’s Introduction
+
+It has been said that the difference between Nietzsche and Hegel is that we
+can understand Nietzsche’s individual sentences, but not what he is saying
+overall, whereas with Hegel it is the other way around: we can understand
+what he is saying overall, but not his individual sentences. This dictum is
+overoptimistic as far as the Phenomenology of Spirit is concerned. Not only
+are its individual sentences often obscure, if not impenetrable, it is far from
+clear what the book is about overall. The problems begin with the title. In
+conformity with its derivation from the Greek words phainomai (‘appear’)
+and logos (‘account, reason, etc.’) ‘phenomenology’ means ‘study of
+appearance(s)’. But ‘appearance’ is ambiguous. It may mean the emergence
+or manifestation of something (‘Hegel’s book appeared in 1807’, ‘His
+honesty was quite apparent’) or it may mean the way something seems in
+contrast to the way it really is (‘Hegel’s book appears to solve all
+philosophical problems’, ‘His honesty was only apparent’). Hegel uses
+‘appearance’ (Erscheinung) and the verb ‘to appear’ (erscheinen) in both
+ways.! What appears is Geist. Geist is the usual German word for the
+intellectual aspect of an individual, the mind, but in the Phenomenology it
+more commonly refers to the collective mind or ‘spirit’ shared by a group
+of people. It is, as Hegel memorably puts it, ‘J that is We, and We that is I’
+(PS 4177). It can also refer to the third person of the Trinity, the holy spirit,
+and this religious connotation is never far from Hegel’s mind when he uses
+the word Geist. Spirit appears on the scene in the course of the
+Phenomenology, but it does not appear all at once, as does, say, a book, or a
+person on my doorstep. It rather presents aspects of itself, fragmentary
+appearances in which fully fledged spirit is not revealed as a whole, but can
+be seen in retrospect as the source from which they stem: see 9938, 47, and
+440.
+
+In Search of the Absolute
+
+To learn more about the subject-matter of Hegel’s book, we need to turn not
+to the long ‘Preface’ with which it begins, but to the shorter ‘Introduction’
+that follows it. The Preface was written after Hegel had completed the rest
+of the book and was meant as an introduction not only to the
+Phenomenology, but to the whole philosophical system to which the
+Phenomenology was originally intended as an introduction. The Preface is
+thus more closely connected with the concluding paragraphs of the book,
+which present his whole system in outline, than it is with the earlier stages
+of the work.* The Introduction raises a problem to which the
+Phenomenology purports to provide an answer, namely: can we know the
+‘absolute’ and, if so, how? The problem arose with particular poignancy in
+the wake of Kant’s Critique of Pure Reason (1781) which had argued that
+we cannot know ‘things in themselves’, rock-bottom reality, but only things
+as they ‘appear’ to us.° Traditionally, the realm of things in themselves had
+been supposed to be populated by various supernatural entities, God or
+gods, and one of the motives of Kant’s ‘transcendental idealism’ was to
+leave a space open for such entities. Kant argues, for example, that if we
+believe that God and His knowledge of the world are atemporal, then we
+must regard time as ideal, and not as a feature of rock-bottom reality (CPR,
+B71—72). Religious belief is, however, a matter not of knowledge, but of
+faith, a faith that is required if, as Kant did, we take morality seriously. (For
+Hegel’s criticism of this, see his account of the moral world-view in the
+Phenomenology {{599ff.) According to Hegel, such scepticism about our
+knowledge of the absolute presupposes that our cognitive equipment is like
+an ‘instrument’ or ‘medium’ or, as we might anachronistically say, a
+camera, which may distort our pictures of the absolute. There is no way in
+which we could, by inspecting the pictures of such a global camera and
+comparing them with reality, discover the distortion it introduces and make
+allowance for it. I cannot step outside my own consciousness to survey and
+assess it from an external standpoint.*
+
+However, the camera-model of cognition is defective in several respects.
+First, it postulates a rift between myself and my cognitive equipment,
+
+between the photographer and the camera. But the photographer cannot be
+wholly denuded of primary cognitive equipment independent of the camera.
+I have, after all, to inspect the pictures supplied by my camera and to ask
+whether they are veridical or not. If I cannot rely on this primary
+equipment, more intimately connected with myself than the other, I have no
+basis for raising sceptical doubts about the reliability of my secondary
+cognitive equipment.° I also need this primary equipment to have
+knowledge of myself, including the camera-model of my own cognition—
+unless we suppose (as Kant in effect did) that I take unreliable selfies with
+my secondary equipment. An adequate account of the Self must explain my
+ability to give that account. Here we have, in effect, two Selves, one that
+has a view of the world and another that has a reliable view, not of the
+world itself, but of that view of the world, and raises sceptical doubts about
+It.
+
+But there are further Selves in play too. For, secondly, the camera-model
+neglects the fact that I am only one among very many similar Selves and
+that my knowledge of the world would be intolerably impoverished if I
+could not supplement my own meagre first-hand experience of it with the
+testimony of other Selves who perceive parts of the world that I do not and
+from viewpoints that I do not occupy. How does the camera-model
+accommodate other Selves? Does it lapse into solipsism, regarding others
+not as Selves on a par with myself, but simply as entities recorded by my
+camera? Or does each of us have a camera of our own? Or do we all view
+the world through a single global camera? Each of these alternatives
+involves difficulties, difficulties that had not been squarely confronted by
+Kant, who distinguished between myself and others, between ‘I’ and ‘we’,
+only in his ethical writings, but not in his theoretical philosophy.° Hegel, by
+contrast, is vividly aware of the distinction between oneself and others, and
+seems to repair this deficiency in Kant. Other Selves play at least two roles
+in Hegel’s enterprise. First, they figure within some, if not all, of the shapes
+of consciousness that Hegel goes on to consider, most vividly in his account
+of self-consciousness in chapter IV.’ Secondly, they are responsible for a
+pressing sceptical problem that Hegel attempts to overcome in the
+Phenomenology: if others hold a view different from my own (or from
+‘science’), how can I settle the dispute in my own favour without begging
+the question?®
+
+Thirdly, the camera-model differentiates the Self and its camera from the
+absolute itself. But how can that be? If the absolute is genuinely absolute, it
+cannot be sheerly distinct from Selves with their cameras and photographs.
+If it were, there would be two absolutes mysteriously disconnected from
+each other, since Selves and their pictures undoubtedly exist: they cannot,
+or at least J cannot, be yet one more illusory appearance. The Selves, their
+cameras, and photographs must rather be offshoots of the absolute, sent
+down by the absolute itself. It is open to dispute whether Hegel believed in
+such a thing as the absolute. But what is not in dispute is that he did not
+believe in an absolute that is separate from human knowers. Any absolute
+worthy of its name must encompass and account for the minds that,
+however imperfectly, know the absolute, and the onward advance of the
+Phenomenology is in large part driven by the quest for a type of knowledge
+that incorporates the knower in what is known.?
+
+Hegel’s Response
+
+Despite these deficiencies of the camera-model in terms of which the
+problem of the absolute is posed, the problem still remains. The derivation
+of our concepts and beliefs from the absolute itself does not entail that they
+are appropriate or true. Illusions and error, as well as truths, must stem from
+the absolute. How can we know which, if any, of our beliefs about ultimate
+reality are true and which are false? Hegel proposes the following solution:
+we should consider, not directly the absolute itself, but the series of forms
+or ‘shapes’ of consciousness that have occurred in our attempts to grasp the
+absolute.!° Each shape of consciousness—apart from the last, science itself,
+Hegel’s own system!!—falls short of the truth, but Hegel’s strategy is to
+advance towards the truth by using errors as stepping stones—not to avoid
+error at all costs (as Descartes attempted to do), since errors are, for Hegel,
+never sheer errors, but always contain a grain, or more, of truth. We begin
+with the simplest shape, the immediate sensory awareness of individual
+entities. This collapses, but not because Hegel criticizes it: that would allow
+Hegel’s opponents to claim that he rejects sensory certainty only because of
+its failure to satisfy a criterion that he chooses to apply to it, a criterion that
+sensory certainty itself might not acknowledge. Sensory certainty collapses
+because it fails to meet a criterion that it itself endorses and applies to itself.
+Sensory certainty can do this because, as Hegel says in 985, ‘consciousness
+is on the one hand consciousness of the object, on the other hand
+consciousness of itself; consciousness of what to it is the true, and
+consciousness of its knowledge of the true. Since both are for
+consciousness, consciousness itself is their comparison; it becomes a matter
+for consciousness whether its knowledge of the object corresponds to the
+object or not.’ The sense-certain consciousness becomes aware of a conflict
+between what its objects purport to be, pure individuals, and its own way of
+getting to know them, by the use of universal terms (such as ‘this’, ‘here’,
+and ‘now’), terms which therefore (in Hegel’s view) capture only
+universals, not the individuals they aimed for. From the debris of sensory
+certainty there emerges a new shape of consciousness, perception of things
+with properties. Hegel himself purports to play no more part in its
+emergence than he did in the assessment of its predecessor. This new object
+
+of consciousness is, he tells us in 987, ‘the knowledge of the first object’,
+that is, sensory certainty’s illicit universal knowledge of its individual
+objects becomes the object of the next shape of consciousness, the thing
+with its universal properties. In Hegel’s view, any given shape necessarily
+has an immediate successor, and necessarily has the immediate successor it
+does have: the knowledge of its object acquired by shape of consciousness
+n becomes the object of shape of consciousness n+1. Hegel himself plays
+no part in deciding how the sequence is to proceed: his role is simply that of
+an onlooker. He does, however, see things that the shapes of consciousness
+themselves do not. Hegel (or ‘we’) can see that, and how, perception
+emerged from sensory certainty, but neither of these shapes can see this: see
+87. If they knew as much as Hegel knows, they would have the conceptual
+resources of Hegel, and would amount to ‘absolute knowledge’ itself rather
+than simply rungs on the ladder towards it. Perception, in turn, undergoes a
+fate similar to that of sensory certainty, and is likewise supplanted by
+another shape, understanding and force. After that, there is a more abrupt
+transition, less easy to comprehend than the previous two and seemingly
+less conformable to the strategy Hegel outlines in the Introduction. This is
+the transition from ‘Consciousness’ in chapters I-III to ‘Self-consciousness’
+in chapter IV, which is not only a different ‘shape’ (Gestalt), but also a new
+‘configuration’ (Gestaltung), grouping together several related ‘shapes’, in
+contrast to those of the first configuration in chapters I-III.!* Unlike the
+first three shapes, which have no obvious historical setting, but only a
+logical order, the shapes falling under the heading of self-consciousness
+form a rough historical sequence: the struggle for recognition and the
+ensuing enslavement remind us of the ancient world or perhaps of the state
+of nature, Stoicism and scepticism developed in the Hellenistic and Roman
+periods, while unhappy consciousness recalls early Christianity, though all
+four shapes occasionally resurface in subsequent, and historically later,
+shapes of consciousness. Reason, in chapter V, forms another configuration,
+but is divided into three sections—theoretical, practical, and a combination
+of the two. Theoretical (or ‘observing’) reason may be good enough for
+dealing with inorganic and organic nature but it flounders when it comes to
+the human Self: see 49309ff. To deal with the Self, reason needs to become
+practical. Neither reason, nor its subsections, have any specific historical
+location. History begins in earnest with Geist in chapter VI, which ranges
+from the Greek city-state (as portrayed in Greek tragedy) down to the
+
+revolution in France and the contemporaneous development of
+individualistic morality in Germany. Spirit gathers up the preceding shapes
+of consciousness and presents their emergence in history: see e.g. 9295,
+440f., and 446. Finally, Religion, in chapter VII, introduces a new historical
+sequence, which begins with Zoroastrianism-cum-Judaism (see 720) and
+ends with Lutheranism, on the brink of its transformation into Hegelian
+philosophy. In his final chapter, VIII, Hegel stresses the unfolding of the
+shapes of consciousness in history (see {803 and 808). But the series of
+shapes in the Phenomenology corresponds to no single temporal sequence.
+Their ordering is primarily logical and only occasionally does the logical
+order mesh with a historical order.
+
+Hegel believes that the process whereby each shape of consciousness
+generates its immediate successor—that each shape’s knowledge of its
+object becomes the object of the next shape—guarantees the completeness
+of the shapes of consciousness he presents: see 479. This is somewhat
+overoptimistic, both because it is not obvious that the process in question
+does ensure completeness—after all, the process whereby numbers are
+generated by beginning with 0 and continually applying the operation ‘+1’
+does not capture all the numbers there are—and because Hegel’s
+application of the procedure becomes more perfunctory, or at least less
+scrutable, as the Phenomenology proceeds. But even if the process that
+Hegel applied (or, rather, ‘considered’—in view of his non-interventionist
+stance) were guaranteed to omit no shape of consciousness, it would not
+follow that consciousness of the absolute itself was to be found among
+them. For even if the absolute itself is ultimately accessible to human
+consciousness,!° there is little reason to suppose that our quest for it will
+ever come to an end and not continue indefinitely (as number-generation
+does), turning up new shapes of consciousness that Hegel never lived to
+consider. !*
+
+The Absolute Unmasked?
+
+Here we need to ask: does Hegel answer, or even attempt to answer, the
+question about the absolute? In the Introduction, he seems to have
+dismissed the question, along with its presuppositions, and to have turned to
+a quite different subject, our successive views of the absolute. How could
+an account of our views of the absolute tell us anything about the absolute
+itself? Our successive diverse views about, say, the atom surely do tell us
+more about atoms, since they are supported by appropriate empirical
+evidence and are regarded as continually approximating closer to the real
+nature of the atom, even if there is no guarantee that our knowledge of it
+will ever be complete. But the absolute is not susceptible to empirical
+investigation in the way that atoms are. Any empirical evidence we have of
+the nature of rock-bottom reality can be dismissed by the Kantian sceptic as
+simply evidence concerning appearances, atoms included, and irrelevant to
+the nature of the underlying absolute. At this point, Hegel might have
+conceded that the investigation of successive views of the absolute is
+simply the best we can do and that we can never reach the absolute itself.
+This is not what he does, however. Contrary to our earlier supposition, he
+does not believe that shapes of consciousness proceed indefinitely. They
+advance towards a goal: ‘the goal is fixed for knowledge just as necessarily
+as the sequence of the advance; it is situated where knowledge no longer
+needs to go beyond itself, where knowledge finds itself, and the concept
+corresponds to the object and the object to the concept. So the advance
+towards this goal is also relentless, and no satisfaction is to be found at any
+earlier station’ ((80). Generally speaking, each shape of consciousness finds
+itself to be unsatisfactory and gives way to a more complex and satisfactory
+shape, which is the ‘truth’ of its immediate predecessor, not, that is, the
+truth unqualified, since this new shape too will find itself unsatisfactory in
+turn, but what the predecessor really amounts to and what provides a
+resolution, albeit temporary, of its difficulties. No such defective shape of
+consciousness can reveal the absolute, not only because of its defects, the
+mismatch between object and concept, but also because it is necessary, even
+possible, to go beyond it: no lower shape of consciousness can express the
+full potential of the absolute’s generative power. So the final shape of
+
+consciousness must be unsurpassable, such that it neither needs to be, nor
+can be, supplanted by another shape that amounts to the ‘truth’ of it.
+Hegel’s presentation of this final shape is two-pronged. It is so, because
+something like a distinction between the phenomenal world and the
+absolute occurs not only in the minds of us phenomenological philosophers
+surveying the successive shapes of consciousness, but also within the
+shapes of consciousness themselves. This is the distinction between worldly
+life, the history of which is surveyed in chapter VI (‘Spirit’), and religion,
+the history of which is recorded in chapter VII (‘Religion’). Religion, as
+Hegel conceives it, is our shared self-consciousness, in contrast to the
+consciousness of our worldly life. Hence the worldly shapes of
+consciousness that appear historically in chapter VI are accompanied by a
+religion, postulating a division between the social world and a relatively
+determinate absolute. This is true of the Greek world ({{446ff., 699ff.) and
+especially of the period from the medieval world down to the French
+revolution (4487, 528ff.). The history of religions in VII correlates only
+very roughly with the history of worldly consciousness in VI, but their final
+stages neatly coincide. Chapter VI ends with the ‘beautiful soul’ (see
+q{658ff. and 795), the conscientious individual who forms the basis of the
+new State that is beginning to emerge in the wake of the French
+revolution,!° a State that gives due weight both to ‘ethical life’, or
+communal social morality, and to the individual moral conscience—in
+contrast to the ancient city-state, which merged the individual with ethical
+life, and to the revolutionary order of absolute freedom, which recognized
+only the individual citizen, guided, if by anything at all, only by
+individualistic morality and not by any objective ethical order. The beautiful
+soul is self-contained and autonomous. In his conscience and in his
+environing ethical society, he has all he needs for the moral management of
+his life. He does not need to look to heaven for guidance. Conversely, the
+concluding stage of religion, Lutheran Christianity, descends to meet the
+beautiful soul. Christianity is ‘manifest’ or ‘revealed’ religion, that is, the
+religion that is entirely open and above board, in which the absolute
+discloses itself to mankind. This is an essential characteristic of God
+Himself—God cannot be God unless He is known to humans, since humans
+are an essential aspect of God. This religion also provides a gratifying
+model of the way in which the shapes of our consciousness are involved in
+the absolute itself: they are, as it were, rungs of a ladder thrown down to us
+
+by God Himself, because of His need to be known by us. But this religion
+brings God down to earth in the form of a man, and subsequently situates
+Him, as the holy spirit, in the Christian community rather than in a remote
+heaven. ‘God is dead’, Hegel proclaims (9/752, 785), anticipating
+Nietzsche, but himself anticipated by Lutheran hymnists and no more
+intending his dictum as an unequivocal declaration of atheism than they did.
+Conversely, man, in the form of the beautiful soul, has risen to meet God
+halfway. In contrast to Descartes, and to many another philosopher, Hegel
+does not regard the Self as fixed and determinate, and in particular not as a
+free-floating ego. It undergoes a transforming education in parallel with the
+changes in its objects and in its attitudes towards them. The Phenomenology
+is, among other things, a quest for an adequate conception of the Self. The
+conscious Self is itself an offshoot of the absolute, and every shape of
+consciousness involves a conception not only of its object, but also of the
+Self and of its relationship to its object. It does not follow, however, that
+every shape involves an adequate conception of its own Self. In general, an
+adequate conception of the Self of shape n is provided only by its successor,
+n+1, so that ‘knowledge...needs to go beyond itself’ in order to ‘find
+itself’. A shape adequate to the absolute must provide the Self with an
+adequate account of itself, and not leave it to the immediately successive
+shape to provide such an account.!° Only after this long education are we in
+a fit state to fuse with the similarly transformed deity. Thus God becomes
+man and, conversely, man becomes God. The absolute, Hegel believes, has
+at last come down to earth.
+
+Who Am I?
+
+This solution may well leave us dissatisfied. For one thing, it gives a
+disconcertingly parochial account of the humanization of the absolute. Why
+should we regard the religion, and the idealized citizen, of early 19th-
+century Germany as the appropriate juncture for the revelation of the
+absolute? Why should we even accept this religion’s account of the
+absolute? Secondly, the account misses out Hegel himself. Even if we
+accept his assurance that he is simply an onlooker and that the shapes of
+consciousness are supplied by ‘spirit’ and not by himself, his own role and
+his insight into the succession of shapes needs to be explained in terms of
+the absolute from which it, like everything else, stems, not shuffled off onto
+the unphilosophical beautiful soul. Hegel found a division within himself: ‘T
+raise myself in thought to the Absolute...thus being infinite consciousness;
+yet at the same time I am finite consciousness....Both aspects seek each
+other and flee each other...I am the struggle between them’.!’ Here we
+encounter the distinction that Hegel often marks as that between the
+‘singular’ Self and the ‘universal’ Self. God is not to be identified with the
+singular Self, with what Kant memorably described as the ‘crooked timber
+of humanity’, but rather with the universal Self. However, we now have two
+candidates for the role of the universal Self: the dutiful conscientious citizen
+and the philosopher. Both have a claim to universality. Insofar as someone
+is a citizen, he (or she, as we might add, even if Hegel would not) is not a
+singular person, with all the idiosyncrasies that that implies, but a rational,
+dutiful and morally sensitive performer in a rational social order consisting
+of similarly exemplary people. Hegel qua philosopher is not the singular
+dance-loving, pie-eating, lottery-playing, wine-drinking Georg Wilhelm
+Friedrich Hegel described in his biographies, but a pure thinker, whose
+thoughts might in principle be shared by any similarly gifted individual—
+and are, at some level, shared even by ungifted individuals. However, the
+two universal candidates are not one and the same. Hegel was no doubt a
+conscientious and dutiful citizen, as well as a philosopher. But not every
+dutiful citizen is a philosopher. This suggests that Hegel might have
+followed a different route in introducing his system to beginners. In the
+Phenomenology he proceeds by examining shapes of consciousness which,
+
+although they are often suffused with philosophical ideas, are not, for the
+most part, established philosophical doctrines. In his Encyclopaedia, by
+contrast, he presents a briefer alternative introduction, by way of an
+exposition and critique of various recent philosophies, especially pre-
+Kantian metaphysics (Leibniz, etc.), Hume’s empiricism and Kant’s
+transcendental idealism, and Descartes and Jacobi (see Enc. I, 4925-78). He
+sketches an even briefer history of philosophy in {803 of the
+Phenomenology, and also remarks, in §805, on the fact that shapes of
+consciousness embody, or deploy, the general categories that later appear
+explicitly in the Logic.!® Sensory certainty, for example, is structured,
+initially at least, by the category of Being; and its successors, perception
+and understanding, depend respectively on the category of the thing and its
+properties and on such categories as force and law, categories that are
+applicable both to ourselves and to the things around us. In the shapes of
+consciousness of the Phenomenology categories are intertwined with
+empirical material and not considered in their purity. Perception, for
+example, does not explicitly consider the category of thing and properties; it
+deploys it in order to say that salt is white, cubical, and tart and to extricate
+itself from the difficulties this involves. By contrast, when science emerges
+fully fledged at the end of the book, under the heading ‘Absolute
+Knowledge’, categories are extracted from their empirical embodiment and
+considered in their purity. This is what Hegel primarily means by saying, in
+77, that the soul purifies itself to spirit. It has broken free of empirical
+material and deals with pure categories. Liberation from the empirical
+progresses over the course of the Phenomenology.
+
+However, Hegel’s great philosophical predecessors have only subdued
+presence in the book as a whole. Why, we might ask, do they, and Hegel
+himself, not play a greater part in it? If God has become man, the
+philosopher has as good a claim to be His repository as does the dutiful
+citizen. Hegel has something to say about this at the very beginning of the
+Phenomenology, in {2 of the Preface. Philosophies are related to each other
+in a manner similar to that in which shapes of consciousness are. They form
+a succession analogous to the gradual growth of a tree:...Plato, Aristotle,...
+Descartes, Locke—Leibniz—Spinoza, Kant,...Hegel. Each of these
+philosophies (except perhaps the last!) is false, and this explains why it is
+followed by another philosophy. But none of them, or at least none of those
+that enter the philosophical mainstream,’ is entirely false, and that explains
+
+why each philosophy retains something of its predecessors. In fact, Hegel
+tends to regard a philosophy (like a shape of consciousness) as the ‘truth of’
+its supplanted predecessor, though, again, this does not mean that it is ‘the
+true’, since it will in tur be supplanted by its successor. Not every
+philosopher has regarded himself as absorbing the thought of his
+predecessors. Descartes, for example, believed that he was starting from a
+clean slate, whereas Aristotle explicitly tried to extract and absorb the views
+of his predecessors insofar as they were correct.2? Hegel more explicitly
+and deliberately than any of his predecessors attempts to take his
+predecessors on board, to integrate their findings in what he regards as
+philosophy, or ‘science’, as such, not simply Hegel’s philosophy: ‘In the
+different philosophies that make their appearance, the history of philosophy
+presents, firstly, only one philosophy at different stages of its development
+and, secondly, it shows that the particular principles, on one of which each
+system was grounded, are only branches of one and the same whole. The
+last philosophy in time is the result of all preceding philosophies and must
+therefore contain the principles of all of them; and so, if it is in fact
+philosophy, it is the fullest, richest, and most concrete philosophy’ (Enc. I,
+413). Taken in isolation each of these preceding philosophies is false, if for
+no other reason, because they are ‘one-sided’, exclusively empiricist, for
+example, and neglecting the role of reason. This type of falsity is remedied
+when the philosophy is integrated into a more comprehensive philosophy,
+one that gives reason, as well as experience, its due. But, in other respects
+too, a philosophy may need modification before it can be integrated in a
+later philosophy; Plato’s theory of recollection was for example adopted by
+Leibniz for his theory of innate ideas, but shorn of the doctrine of the soul’s
+pre-existence with which Plato associated it. Past philosophies undergo
+similar modifications when they are integrated into Hegel’s philosophy. So
+although, say, Platonism is false on its own it is no longer false once it is
+integrated or ‘sublated’ (see §30) in Hegelianism.
+
+Why, then, did Hegel not proceed in this way towards fully fledged
+science, as he did in later works? There are several answers to this question.
+First, such a procedure may well tell us why, if we are already operating at
+the level of philosophy, we should advance to Hegelianism and not remain
+at some earlier stage of philosophy. What it does not tell us, however, is
+why we should ascend to philosophy in the first place. Yet this is precisely
+what Hegel wants to explain to his audience. He wants to guide us from the
+
+‘natural consciousness’ characteristic of philosophers and non-philosophers
+alike, by way of his own ‘presentation’ of ‘knowledge as it appears’, the
+sort of knowledge that natural consciousness has, to science. ‘Natural
+consciousness’ and ‘knowledge as it appears’ are distinct from science.
+They are subject to empirical constraints and are confined, at any given
+stage of their development, to a particular way of looking at things, to the
+exclusion of other ways of looking at things. Science, by contrast, is free of
+empirical constraints and of such one-sidedness; it incorporates and surveys
+all possible ways of looking at things. In this respect, Hegel’s own
+presentation is akin to, if not already, science. However, it displays the
+connection of science with non-philosophical communal life and its history,
+and its emergence from it. In particular, Hegel wants to establish the link
+between science and religion, and to show how the latter gives rise to the
+former. Secondly, if Hegel were simply to proceed from each philosophy to
+the next, there would be no special reason to suppose that the process ends
+with Hegel rather than continuing indefinitely to ever more advanced
+philosophies. But Hegel is not content with such a modest position. He
+regards his own philosophy not as simply one stage in the development of
+philosophy, but as the culmination of philosophy as such. One reason that
+might be offered for this startling claim is that Hegel, alone among the great
+philosophers, views philosophy as a single developing organism, each stage
+of which incorporates and advances on its predecessors. But though that
+might be a significant innovation, it would surely not be enough to establish
+that Hegelianism is the full-grown tree or, indeed, that there is any limit to
+the growth of the organism. By contrast, the Phenomenology offers what
+would be more compelling reasons, if only we could believe them, for
+accepting the special status of Hegelianism. It alone, among all possible
+ways of viewing things, leaves no loose ends that need to be tied up by a
+successor. It alone, with the cooperation of Lutheranism, brings gods, God,
+and the various versions of the absolute postulated by its predecessors,
+down to earth in the form of the logical structure of reality. It alone shows,
+at long last, that the world is cognitively and morally manageable. But why
+now? How come that this stupendous climax in the course of the world
+occurs now, in 1806? That is a third advantage that Hegel sees in the
+procedure he adopts in the Phenomenology. It gives an answer to this
+question that could not easily be derived simply from Hegel’s position in
+the sequence of great philosophers. His system emerges in a cultural
+
+environment involving a confluence of extra-philosophical circumstances,
+as well as philosophical, especially Lutheranism and the moral conscience
+of the romantics, that are especially favourable to the birth of this new
+science: see e.g. 411.
+
+‘Glory to Man in the highest! for Man is the
+
+master of things’?!
+
+Hegel is respectful of religion and regards it as an indispensable stepping
+stone on the road to truth. He is, however, equally respectful of the
+enlightenment’s criticisms of religion ({{541ff.). His own criticisms of
+religion are twofold. First, it populates heaven with pictorial representations
+derived from the sensory world and, in the case of Christianity, bases its
+faith on ill-attested events remote in time and space.** Secondly, it splits the
+universe in two, postulating a sharp rift between the divine world and the
+human world.*? As a consequence it also divides the human Self, at least
+the religious Self, who has one foot planted in heaven and the other on
+earth. Providentially, however, religion itself, in the form of Lutheranism,
+supplies a solution, and the loose ends are tied up by philosophy. God has
+become man or, conversely, man has become God. The man in question is,
+however, the universal man, whether this be the dutiful citizen or the all-
+seeing philosopher. Moreover, the man in question has not simply cast aside
+his past history. The shapes of consciousness that Hegel surveys are
+familiar to this man and they constitute his ‘substance’: see 30. He has a
+Greek, a Roman, a medieval Catholic, an enlightened philosophe, a French
+revolutionary, and a conscientious moralist packed within him. That is why
+he can understand these shapes of consciousness when they are presented to
+him. Hence Hegel’s humanism, if such it be, does not stand in stark contrast
+to theism, but is conceived as a development of it and preserves, as well as
+abolishes, its religious origins.** Such a humanism is not, however,
+immovably rooted in its parochial birth-place. Lutheranism and the
+beautiful soul explain, in Hegel’s view, how it came to birth, but it might
+well appeal to many who are not 19th-century German Lutherans.
+
+Hegel’s humanism (or, as we might better call it, his ‘theanthropism’)
+need not remain parochial. It is, however, thoroughly anthropocentric. An
+important strand in Hegel’s argument is this. In Kant’s usage, as we have
+seen, ‘things in themselves’, Dinge an sich, are things as they are
+intrinsically, independently of us, independently, in fact, of anything else.
+Since we cannot know things as they are in themselves, but only as they
+
+appear to us, mediated and distorted by our cognitive equipment, our
+knowledge is less than fully satisfactory. Indeed, in 975, Hegel doubts
+whether such so-called knowledge is really knowledge at all. He, by
+contrast, confers another meaning on an sich. Something that is an sich is
+merely potential, not fully actual, not ‘for itself’, let alone ‘in and for
+itself’.*° If ‘things in themselves’ are taken in this sense, then it is the things
+that are defective, merely potential, rather than our knowledge. When we
+come to know them, we do not distort them, we actualize them and make
+them into what they really are. This is why God is not properly God unless
+He is known by man. To reach this conclusion, however, Hegel must
+already confer a special status on man and also on knowledge. We might
+well agree that to be properly actual a thing must enter into relations with
+other things. It is hard to conceive of anything existing even in a potential
+form, if it is wholly unrelated to everything else. Even an acorm, a merely
+potential oak-tree, is related to other entities. To realize its potential and
+become an actual tree, it needs to enter into closer relations, with soil,
+water, sunlight, and so on. But it does not need to be known by man. Why
+should it be otherwise with God? No doubt, God was in a barely
+comprehensible state of sheer potentiality before He created the world,*°
+but His relationship to a world, even a world bereft of human knowers,
+should surely be enough to actualize Him. In religious terms, Hegel’s
+answer is that God is spirit; that to be fully actualized, spirit must be self-
+conscious, know itself; and that God can only become self-conscious in
+virtue of being known by humans. It is not enough that they should love
+Him and worship Him; they must know Him inside and out. In more secular
+terms, Hegel’s world-view is thoroughly anthropocentric: humankind is not
+simply one among many other species, perched precariously above the
+physical, organic, and animal levels of nature. Not only are we the highest
+creatures the universe contains,2’ it is we who confer meaning and value on
+the universe and, above all, bring to it self-knowledge, knowledge of the
+universe as a whole. It is only for us that the question of the knowability of
+the absolute arises as a problem at all. There is, as far as we know, nothing
+else that asks the question ‘What is the absolute?’, nothing else from which
+the absolute is hidden, since there is nothing else to which it could possibly
+be revealed. It does not follow from this that our answer to the question
+should be as anthropocentric as the question itself. Hegel’s justification for
+this step is perhaps twofold. First, whatever else the absolute may be, it
+
+must at least be sufficient to generate the human spirit and the succession of
+shapes of consciousness in which it gradually unfolds; in Hegel’s eyes this
+implies that the absolute is itself spirit. Secondly, the culmination of the
+onward march of the human spirit is the final completion of a logical
+system that is not only the underpinning of human thought, but, in Hegel’s
+view, the logical structure of the universe itself. In theological terms, God’s
+plan for the creation of the world is mirrored in the depths of the human
+mind and becomes fully explicit in that mind. Thanks to ourselves God
+becomes aware of what he had in mind all along.*® Hegel’s humanism
+differs from the humanism of the enlightenment in several respects. It does
+not stand in sharp contrast to theism: the new man-god is laden with his
+religious past. It is not open to the charge that it postulates a uniform and
+unchanging human nature: man has not always been God, he has
+laboriously developed in order to become God. It is not so thoroughly
+egalitarian as the enlightenment version: not everyone is a philosopher or
+even a politically active citizen. Here Hegel’s collectivism comes into play.
+Peasants, as well as philosophers, play a part in the social order, and they
+are elevated to divinity along with the rest. Quite likely religious worship
+will continue in order to give them a glimpse of the absolute.*? Hegel’s
+humanism is a curious beast.
+
+1 When an ordinary writer uses a word that is assigned more than one meaning in the dictionary,
+we normally assume that s/he is using it in only one of these meanings. But Hegel is not an ordinary
+writer and he often has in mind more than one meaning of a word when he uses it. His intention is to
+unearth deep and significant connections between seemingly disparate concepts. A striking example
+of this procedure is his use of aufheben, ‘sublate’, in all its senses at once: ‘elevate’, ‘destroy’, and
+‘preserve’, i.e. ‘kick upstairs’.
+
+2 Strictly speaking, the Preface should be read at the end of the book rather than the beginning.
+In his commentary, Quentin Lauer (1992) adopts this order, leaving the Preface until last.
+
+3 It is tempting to paraphrase ‘the absolute’ as ‘mind-independent reality’. No doubt the absolute
+would be independent of minds, if there were no minds. But since there are minds and the absolute is
+responsible for them, minds cannot be independent of the absolute and, conversely, the absolute
+cannot be entirely independent of minds. Moreover, in Hegel’s view, there necessarily are minds,
+since the absolute must be known by minds. He never considers the possibility that there might have
+been no human minds.
+
+4 No more can I, Hegel believes, step outside my own ethical order in order to assess it from a
+neutral standpoint. See 4437, where the attempt to establish laws for one’s society, or to test the laws
+that are already in place, is implicitly criticized for its pretension to occupying an Archimedean point
+outside one’s society.
+
+5 Cf. Hume (1975: pp.145f. (§116)): ‘There is a species of scepticism, antecedent to all study
+and philosophy...It recommends an universal doubt, not only of our former opinions and principles,
+but also of our very faculties; of whose veracity, say they, we must assure ourselves, by a chain of
+
+reasoning, deduced from some original principle, which cannot possibly be fallacious or deceitful.
+But neither is there any such original principle, which has a prerogative above others, that are self-
+evident and convincing; or if there were, could we advance a step beyond it, but by the use of those
+very faculties, of which we are supposed to be already diffident.’
+
+6 Bishop Berkeley, by contrast, assigned to minds, including minds other than one’s own, a more
+solid ontological status than that of material objects. The being of material things is simply to be
+perceived, both by us and by God, but the being of a mind consists in perceiving. Though we depend
+on God for our existence, we are not simply ideas in the mind of God. However, this conflicts with
+his empiricist arguments for his overall doctrine, some of which—such as his argument that I cannot
+imagine a tree that is not perceived by me—tend towards solipsism.
+
+7 It must be admitted, however, that the distinction becomes salient in political and ethical
+contexts of the work, beginning with chapter IV on ‘self-consciousness’, and is relatively subdued in
+the more theoretical parts of the work, such as chapters I-III on ‘consciousness’ and chapter V.A on
+theoretical reason.
+
+8 This problem is examined by Forster (1989). Hegel’s solution to it is, roughly speaking, to take
+his opponents on board and incorporate a modified version of their views into his own. Past
+philosophies and past shapes of consciousness are not simply rejected, but are ‘sublated’ or ‘kicked
+upstairs’: the truth in them is integrated into their successors, especially into Hegel’s own ‘science’.
+
+9 This is a problem faced not only by an idealist, such as Hegel, but also by a materialist. Insofar
+as a materialist regards matter or energy as the absolute, s/he must treat ‘matter’ not as simply
+contrasting with ‘mind’, but as able to accommodate and account for minds, along with everything
+else.
+
+10 ‘Shape’ translates Gestalt throughout. It is tempting, and perhaps closer to Hegel’s meaning, to
+translate Gestalt as ‘form’, but this is excluded by the fact that in other contexts Hegel also uses the
+word Form, a near synonym of Gestalt, but not an exact synonym.
+
+11 The word ‘science’ (Wissenschaft) is used more widely in German than in English. What we
+would call ‘art-history’, for example, is in German ‘art-science’ (Kunstwissenschaft). Whenever
+Hegel speaks of ‘science’ in the Phenomenology, however, he means the ideal philosophy, i.e. the
+philosophy that he aspires to develop.
+
+12 In the Introduction, 478, Hegel seems to use Gestaltung in the same way as Gestalt. But later
+in the work, he uses it to refer to larger groups of related ‘shapes’: see 4447.
+
+13 In a sense, Hegel himself accepts that the absolute is not accessible to human consciousness,
+since he believes that insofar as there is an absolute at all, it is the pure thoughts of his logic, which
+form the scaffolding both of nature and of the mind. When one thinks about, and in terms of, these
+thoughts, one is not ‘conscious’ in Hegel’s sense, since the thoughts are not an object distinct from
+oneself.
+
+14 Stekeler (2014) argues, reasonably enough, that humanity’s quest for truth is never-ending, but
+his attribution of this view to Hegel is more controversial.
+
+15 In §§658ff. The beautiful soul is presented as a dead-end, who has dwindled away because of
+his inertia. His reappearance in §{7795—7 as a crucial link between earth and heaven is surprising and
+hard to explain. My own explanation is therefore conjectural and controversial.
+
+16 This requirement is attested by ‘observing reason’, whose aim it is to find itself, or the mind,
+in things, since no account of the world can be complete if it leaves ourselves out (4257-62).
+
+17 Quoted by Fackenheim (1967), p.31 from Hegel (1895) I, p.65.
+
+18 The plural ‘categories’ is Aristotle’s and Kant’s word rather than Hegel’s. Hegel prefers such
+terms as ‘thought-determinations’ (Denkbestimmungen). In the Phenomenology he uses ‘Kategorie’
+in the singular and identifies it with the I or Self, regarding its differentiation into distinct categories
+as problematic: see 4235.
+
+19 One problem with this conception of philosophy is the difficulty of deciding what counts as a
+philosophy and what does not. Hegel gives short shrift to some of his philosophical contemporaries,
+
+such as W.T. Krug and G.E. Schulze, and Romantics such as Friedrich Schlegel, who might be
+regarded by others as very reputable philosophers. The question what is to count as philosophy, and
+as significant or great philosophy, is itself a philosophical question. Hence different philosophers may
+well present different histories of their subject. Some figures—Plato, Aristotle, and Kant, for
+example—would surely appear in any serious history, but the status of others—Nietzsche,
+Kierkegaard, Jesus, St. Paul—is more precarious.
+
+20 There is a similar contrast between Jeremy Bentham, who purported to start afresh, and John
+Stuart Mill, who wanted to take the best from his predecessors.
+
+21 From the Hymn of Man, by Algernon Charles Swinburne.
+
+22 In 9554 Hegel suggests that Christianity resorts to historical texts to buttress its faith only
+because its enlightenment critics seduce it into doing so, and in 4568 that appeal to such empirical
+contingencies is only one aspect of Christian faith and is overemphasized by the enlightenment.
+
+23 Hegel’s criticisms apply more incisively to ‘faith’—the 18th-century target of the
+enlightenment’s attack—than to ‘religion’. For the distinction between faith and religion, see {487
+and 673.
+
+24 That is, it ‘sublates’ them.
+
+25 Hegel is here influenced by Aristotle’s distinction between what is dunameéi, ‘potential’, and
+what is energeiai, ‘actual’.
+
+26 Hegel is at odds with the Christian tradition, which regards God as wholly actual even before
+the creation: see 4769.
+
+27 The characterization of humanity as the highest creature is itself anthropocentric, but no other
+creature has any say in the matter. A justification of it might be that humans involve the other levels
+of nature—physical, organic, and animal—but also something extra, namely rationality and all that
+goes with it.
+
+28 Apart from Hegel’s reluctance to admit that anything is incomprehensible, there is more than a
+remote analogy between his attitude to theism and that expressed in Hume (2008), p.120: ‘I ask the
+Theist, if he does not allow, that there is a great and immeasurable, because incomprehensible,
+difference between the human and the divine mind: The more pious he is, the more readily will he
+assent to the affirmative, and the more will he be disposed to magnify the difference: He will even
+assert, that the difference is of a nature which cannot be too much magnified. I next turn to the
+Atheist, who, I assert, is only nominally so, and can never possibly be in earnest; and I ask him,
+whether, from the coherence and apparent sympathy in all the parts of this world, there be not a
+certain degree of analogy among all the operations of Nature, in every situation and in every age;
+whether the rotting of a turnip, the generation of an animal, and the structure of human thought be not
+energies that probably bear some remote analogy to each other: It is impossible he can deny it: He
+will readily acknowledge it. Having obtained this concession, I push him still farther in his retreat;
+and I ask him, if it be not probable, that the principle which first arranged, and still maintains order in
+this universe, bears not also some remote inconceivable analogy to the other operations of Nature,
+and among the rest to the oeconomy of human mind and thought. However reluctant, he must give
+his assent. Where then, cry I to both these antagonists, is the subject of your dispute? The Theist
+allows, that the original intelligence is very different from human reason: The Atheist allows, that the
+original principle of order bears some remote analogy to it. Will you quarrel, Gentlemen, about the
+degrees, and enter into a controversy, which admits not of any precise meaning, nor consequently of
+any determination?’
+
+29 Hegel proclaims the end of art, but never the end of religion. See Hegel (1993).
+
+Note on the Translation and Commentary
+
+My translation policy differs from Arnold Miller’s in at least three respects.
+In the first place, Hegel’s own punctuation and italicization often get lost in
+Miller. I have attempted to restore them in the belief that, while they often
+strike us as eccentric, it should be left for the reader to decide what effect
+they have on Hegel’s meaning and not imposed on the reader by the
+translator. I have, however, moderated this policy when intelligibility
+seemed to require it. Secondly, Miller usually capitalized words that he took
+to have a significant technical meaning for Hegel. Thus he has ‘Notion’ for
+Begriff (which I transform into ‘concept’), ‘Understanding’ for Verstand,
+and so on. This has no justification in Hegel’s text and, in my view, draws
+an unwarranted sharp distinction between what is a technical use and what
+is not. Again, it should be left to the reader (or to a note) to decide this
+question and not imposed by the translator. I myself capitalize words only
+where grammar requires it, and also for the purpose of disambiguation: to
+distinguish between grammatically different uses of a word (especially
+between its use as a plain adjective or adverb and its use as a noun) and
+between different German words that have to be translated by the same
+English word, between, for example, ‘self’ for sich and ‘Self’ for das Selbst
+or again between (das) Sein (‘Being’) and seiend (‘being, that is, in being’)
+or das Seiende (sometimes ‘beings’). I have been encouraged in this by the
+time-honoured practice in English prose, even non-philosophical prose, of
+differentiating a ‘state’ in the sense of ‘condition’ from a ‘State’ in the
+political sense, and a ‘church’ as a building from a ‘Church’ as an
+institution. Finally, despite his exaggerated respect for some of Hegel’s
+technical terms, Miller nevertheless dissolves others into various
+paraphrases, especially in the case of an sich, ftir sich, an und fiir sich, das
+Ansich, etc. I have restored such terms in the form of ‘in itself’, etc., leaving
+it to the reader (or a note) to decide what Hegel means in the context. I have
+been especially concerned to preserve Hegel’s distinction between what are
+for him near-synonyms, but not exact synonyms. An example of this is the
+distinction between individuell, etc. and einzeln, etc., a distinction that gets
+lost in Miller, but is preserved in the French translations and in the 1991
+translation of Enc. I.
+
+I highlight and explain some of these terminological niceties in their
+context in the Commentary with which I have replaced John Findlay’s
+‘Analysis of the Text’. Like Findlay, I attempt to explain what Hegel is
+saying in every paragraph of the Phenomenology. However, I pay more
+attention than Findlay did to explaining Hegel’s way of expressing what he
+means. In addition, I supply details of the other works to which Hegel
+refers, and of the other philosophers with whom he engages. I also give
+references to parallel passages in Hegel’s other works, and cross-references
+between different passages within the Phenomenology, which shed light on
+each other and on the structure of the work as a whole. Finally, I am more
+ready than Findlay was to assess Hegel’s argument from a philosophical
+point of view. The overall aim of the Commentary is to enable readers to
+navigate their way through Hegel’s text with philosophical understanding.
+
+Bibliography and Abbreviations
+
+I usually cite a work by its author and the date of the edition I consulted, but
+I also use the following abbreviations:
+CPR Kant, Critique of Pure Reason
+
+Enc. I, Il, 111 the respective volumes of Hegel’s Encyclopaedia of the
+Philosophical Sciences
+
+PH Hegel, The Philosophy of History
+
+PR Hegel, Outlines of the Philosophy of Right
+PS Hegel, Phenomenology of Spirit
+
+SL Hegel, Science of Logic
+
+Aeschylus (2008) Oresteia. Tr. C. Collard (Oxford: Oxford University Press)
+
+Aristophanes (2005) The Complete Plays. Tr. P. Roche (New York: New American Library)
+
+Aristotle (1996) Physics. Tr. R. Waterfield (Oxford: Oxford University Press)
+
+Broad, C.D. (1941-42) ‘Kant’s Theory of Mathematical and Philosophical Reasoning’, in
+Proceedings of the Aristotelian Society, vol. 42
+
+Chisholm, R.M. (1981) The First Person: An Essay on Reference and Intentionality (Minneapolis:
+University of Minnesota Press)
+
+Diderot, D. (1916) Early Philosophical Works (Chicago: Open Court)
+
+Diderot, D. (1976) Rameau’s Nephew/d’Alembert’s Dream (London: Penguin)
+
+Di Giovanni, G. and Harris, H.S. (1985) Between Kant and Hegel: Texts in the Development of Post-
+Kantian Idealism (Albany: SUNY Press)
+
+Euripides (2000) Bacchae and Other Plays. Tr. J. Morwood (Oxford: Oxford University Press)
+
+Fackenheim, E. (1967) The Religious Dimension in Hegel’s Thought (Bloomington: Indiana
+University Press)
+
+Farrell, R.B. (1977) Dictionary of German Synonyms, 3rd edition (Cambridge: Cambridge University
+Press)
+
+Fichte, J.G. (1993) Fichte’s Wissenschaftslehre of 1794, ed. G. Seidel (West Lafayette, IN: Purdue
+University Press)
+
+Findlay, J.N. (1977) ‘Analysis of the Text’ in G.W.F. Hegel, Phenomenology of Spirit. Tr. A.V. Miller
+(Oxford: Oxford University Press), pp.495—591.
+
+Forster, M.N. (1989) Hegel and Skepticism (Cambridge, MA: Harvard University Press)
+
+Goethe, J.W. von (1962) Wilhelm Meister’s Apprenticeship. Tr. T. Carlyle (New York: Collier)
+
+Goethe, J.W. von (2005) Faust, Part I. Tr. D. Constantine (London: Penguin)
+
+Hegel, G.W.F. (1895) Lectures on the Philosophy of Religion, I-UI. Tr. E.B. Speirs and J.B.
+Sanderson (London: Routledge and Kegan Paul)
+
+Hegel, G.W.F. (1948) Early Theological Writings, Tr. T.M. Knox (Philadelphia: Pennsylvania
+University Press)
+
+Hegel, G.W.F. (1975) Natural Law (1802-3). Tr. T.M. Knox (Philadelphia: Pennsylvania University
+Press)
+
+Hegel, G.W.F. (1977) Faith and Knowledge. Tr. H.S. Harris (Albany: SUNY Press)
+
+Hegel, G.W.F. (1977) Phenomenology of Spirit. Tr. A.V. Miller (Oxford: Oxford University Press)
+
+Hegel, G.W.F. (1993) Introductory Lectures on Aesthetics (London: Penguin)
+
+Hegel, G.W.F. (1970) Hegel’s Philosophy of Nature. Tr. A.V. Miller (Oxford: Clarendon) (‘Enc. II’,
+quoted by paragraph)
+
+Hegel, G.W.F. (2008) Outlines of the Philosophy of Right. Tr. T.M. Knox, revised by S. Houlgate
+(Oxford: Oxford University Press) (‘PR’, quoted by paragraph)
+
+Hegel, G.W.F. (2007) Philosophy of Mind. Tr. W. Wallace and A.V. Miller, revised by M. Inwood
+(Oxford: Oxford University Press) (‘Enc. III’, quoted by paragraph)
+
+Hegel, G.W.F. (1991) The Encyclopaedia Logic: Part I of the Encyclopaedia of Philosophical
+Sciences with the Zusdtze. Tr. T.F. Geraets, W.A. Suchting, and H.S. Harris (Indianapolis: Hackett)
+(‘Enc. I’, quoted by paragraph)
+
+Hegel, G.W.F. (1956) The Philosophy of History. Tr. J. Sibree (New York: Dover) (‘PH’)
+
+Hegel, G.W.F. (2010) The Science of Logic. Tr. G. Di Giovanni (Cambridge: Cambridge University
+Press) (‘SL’)
+
+Heidegger, M. (1970) Hegel’s Concept of Experience. Tr. A. Hofstadter (San Francisco: Harper and
+Row)
+
+Holderlin, F. (2004) Poems and Fragments. Tr. M. Hamburger (London: Anvil Press)
+
+Homer (1974) The Iliad. Tr. R. Fitzgerald (Oxford: Oxford University Press)
+
+Hume, D. (1975) Enquiry Concerning Human Understanding and Concerning the Principles of
+Morals, ed. L.A. Selby-Bigge (Oxford: Oxford University Press)
+
+Hume, D. (2008) Dialogues Concerning Natural Religion and the Natural History of Religion, ed.
+J.C.A Gaskin (Oxford: Oxford University Press)
+
+Hyppolite, J. (1947) La Phénoménologie de l’Esprit, 2 vols. (Paris: Aubier)
+
+Inwood, M. (1987) ‘Kant and Hegel on Space and Time’ in S. Priest (ed.) Hegel’s Critique of Kant
+(Oxford: Oxford University Press), pp.49-64
+
+Inwood, M. (1986) ‘Hegel on Death’ in International Journal of Moral and Social Studies, I.
+pp.109—22
+
+Inwood, M. (1991) ‘Aristotle on the Reality of Time’ in R.L. Judson (ed.) Aristotle’s Physics: A
+Collection of Essays (Oxford: Oxford University Press), pp.151—78
+
+Inwood, M. (2005) ‘Hegel: Phenomenology of Spirit’ in J. Shand (ed.) Central Works of Philosophy,
+Vol. 3: The Nineteenth Century (London: Routledge), pp.69-92
+
+Inwood, M. (2012) ‘Heidegger on Time’ in R. Baiasu, G. Bird, and A.W. Moore (eds.) Contemporary
+Kantian Metaphysics: New Essays on Space and Time (London: Palgrave Macmillan), pp.233-52
+
+Inwood, M. (2013) ‘Hegel, Cassirer, and Heidegger’ in L. Herzog (ed.) Hegel’s Thought in Europe:
+Currents, Crosscurrents and Undercurrents (London: Palgrave Macmillan), pp.106—32
+
+Inwood, M. (2016) ‘Hegel’s Critique of Physiognomy and Phrenology’ in L. Ziglioli and S.
+Herrmann-Sinai (eds.) Hegel’s Philosophical Psychology (Abingdon: Routledge)
+
+Jacobi, F.H. (1994) The Main Philosophical Writings and the Novel ‘Allwill’. Tr. G. Di Giovanni
+(Montreal: McGill-Queen’s University Press)
+
+Jarczyk, G. and Labarrieére, P.-J. (1993) Phénoménologie de |’Esprit, 2 vols. (Paris: Gallimard)
+
+Kainz, H.P. (1994) Hegel’s Phenomenology of Spirit: A Selection Translated and Annotated
+(University Park, PA: Pennsylvania State University Press)
+
+Kant, I. (1977) Prolegomena to Any Future Metaphysics (Indianapolis: Hackett)
+
+Kant, I. (1987) Critique of Judgement (Indianapolis: Hackett)
+
+Kant, I. (2007) Critique of Pure Reason (London: Palgrave Macmillan) (‘CPR’)
+
+Kant, I. (2015) Critique of Practical Reason (Cambridge: Cambridge University Press)
+
+Korner, S. (1960) The Philosophy of Mathematics (London: Hutchinson)
+
+Lambert, J.H. (1764) Neues Organon oder Gedanken tiber die Erforschung und Bezeichnung des
+Wahren und dessen Unterscheidung vom Irrtum und Schein (Leipzig: Wendler)
+
+Lauer, Q. (1992) A Reading of Hegel’s Phenomenology of Spirit (New York: Fordham University
+Press)
+
+Lavater, J.K. (1878) Essays on Physiognomy. Tr. T. Holcroft (London: William Tegg)
+
+Lessing, G.E. (1957) Theological Writings. Ed. H. Chadwick (Stanford: Stanford University Press)
+
+Lessing, G.E. (2004) Nathan the Wise, with Related Documents. Tr. R. Schechter (Boston/New York:
+Bedford/St. Martin’s)
+
+Lichtenberg, G.C. (1778) Uber Physiognomik, 2nd edition (Gottingen: Dieterich)
+
+Mill, J.S. (1962) Mill on Bentham and Coleridge, with an Introduction by F.R. Leavis (London:
+Chatto and Windus)
+
+Montesquieu, C. de (1973) Persian Letters (London: Penguin)
+
+Moore, G.E. (1925) ‘A Defence of Common Sense’ in Contemporary British Philosophy (2nd
+series), ed. J.H. Muirhead (London: Allen and Unwin)
+
+Nietzsche, F. (1990) Twilight of the Idols and The Anti-Christ (London: Penguin)
+
+Nietzsche, F. (2013) On the Genealogy of Morals (London: Penguin)
+
+Novalis [Georg Philipp Friedrich Freiherr von Hardenberg] (2003) Fichte Studies (Cambridge:
+Cambridge University Press)
+
+Plato (1996) Parmenides. Tr. M.L. Gill and P. Ryan (Indianapolis: Hackett)
+
+Plato (2002) Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo. Tr. G. Grube and J. Cooper
+(Indianapolis: Hackett)
+
+Plato (2008) Republic. Tr. R. Waterfield (Oxford: Oxford University Press)
+
+Plato (2008) Timaeus and Critias. Tr. H.D.P. Lee (London: Penguin)
+
+Plotinus (1991) Enneads (London: Penguin)
+
+Powell, S. (2001) The Trinity in German Thought (Cambridge: Cambridge University Press)
+
+Reid, T. (2011) Essays on the Intellectual Powers of Man (Cambridge: Cambridge University Press)
+
+Russell, B. (2004) Power: A New Social Analysis (Abingdon: Routledge)
+
+Sartre, J.-P. (2003) Being and Nothingness: An Essay on Phenomenological Ontology (Abingdon:
+Routledge)
+
+Schelling, F.W.J. (1978) System of Transcendental Idealism (1800). Tr. P. Heath with an introduction
+by M. Vater (Charlottesville: University Press of Virginia)
+
+Schiller, F. (1979) The Robbers and Wallenstein. Tr. F.J. Lamport (London: Penguin)
+
+Schlegel, F. (1971) Friedrich Schlegel’s Lucinde and the Fragments. Tr. P. Firchow (Minneapolis:
+University of Minnesota Press)
+
+Schleiermacher, F. (1996) On Religion: Speeches to its Cultured Despisers. Ed. R. Coulter
+(Cambridge: Cambridge University Press)
+
+Schopenhauer, A. (2000) The World as Will and Representation. Tr. E.J.F. Payne (New York: Dover)
+
+Sellars, W. (2007) In the Space of Reasons (Cambridge, MA: Harvard University Press)
+
+Sophocles (1984) The Three Theban Plays: Antigone, Oedipus the King, Oedipus at Colonus. Tr. R.
+Fagles (London: Penguin)
+
+Spinoza, B. de (1951) The Chief Works of Benedict de Spinoza. Tr. R.H.M. Elwes (New York: Dover)
+
+Stekeler, P. (2014) Hegels Phdnomenologie des Geistes: Ein dialogischer Kommentar, Band I:
+Gewissheit und Vernunft; Band II: Geist und Religion (Hamburg: Meiner)
+
+Stern, R. (2002) Hegel and the Phenomenology of Spirit (Abingdon: Routledge)
+
+Strawson, P.F. (1961) ‘Social Morality and Individual Ideal’ in Philosophy, vol. 36, pp.1-17
+
+Thucydides (2000) The History of the Peloponnesian War. Tr. R. Warner (London: Penguin)
+
+Voltaire, F. (1971) Philosophical Dictionary (London: Penguin)
+
+Wolff, R.P. (1970) In Defence of Anarchism (New York: Harper and Row)
+
+Yovel, Y. (2005) Hegel’s Preface to the Phenomenology of Spirit (Princeton, NJ: Princeton University
+Press)
+
+System of Science
+
+BY
+Georg Wilhelm Friedrich Hegel
+
+Doctor and Professor of Philosophy at Jena,
+Assessor in Jena of the Ducal Society of Minerology,
+and member of other learned societies
+
+First Part: The Phenomenology of
+Spirit
+
+Bamberg and Wiirzburg
+Joseph Anton Goebhardt
+1807
+
+Contents
+
+Preface: On Scientific Cognition
+
+The element of the true is the concept and its true shape is the scientific
+system (8). Standpoint of the spirit at the present time (9). The principle
+is not the completion: against formalism (10). The absolute is subject
+(12), and what this is (13). Element of knowledge (15). The elevation
+into this element is the phenomenology of spirit (16). Transformation of
+what is represented and familiar into the thought (17), and of this into the
+concept (19). To what extent the phenomenology of spirit is negative, or
+contains the false (21). Historical and mathematical truth (21). Nature of
+philosophical truth and its method (24), against schematizing formalism
+(25). What is required in the study of philosophy (29). Ratiocinative
+thinking in its negative attitude (29), in its positive attitude (29); its
+subject (29). Natural philosophizing as sound common sense and as
+genius (33). Conclusion: relationship of the author to the public (34).
+
+Introduction
+
+A. Consciousness
+I. Sensory Certainty: The This and Meaning
+II. Perception: The Thing and Illusion
+III. Force and Understanding: Appearance and Supersensible World
+
+B. Self-Consciousness
+IV. The Truth of Certainty of Oneself
+A. Independence and dependence of self-consciousness: lordship
+and bondage
+
+B. Freedom of self-consciousness: stoicism, scepticism, and the
+unhappy consciousness
+
+C. (AA.) Reason
+V. Certainty and Truth of Reason
+A. Observing reason
+a. Observation of nature
+Describing in general (102). Distinguishing marks (103).
+Laws (105). Observation of the organic (106). a. Relation of
+
+the organic to theinorganic (106). B. Teleology (107). y.
+Inner and outer (110). aa. The inner (110). Laws of the pure
+moments of the inner, sensibility,etc. (110). The inner and its
+outer (113). BB. The inner and the outeras shape (114). yy.
+The outer itself as inner and outer, or the organicldea
+transferred to the inorganic (118). The organic in this
+respect:its genus, species, and individuality (120)
+b. Observation of self-consciousness in its purity and in its
+relation to external actuality. Logical and psychological laws
+c. Observation of the relation of self-consciousness to its
+immediate actuality. Physiognomy and phrenology
+B. The actualization of rational self-consciousness through itself
+a. Pleasure and necessity
+b. The law of the heart and the frenzy of self-conceit
+c. Virtue and the course of the world
+C. Individuality which takes itself to be real in and for itself
+a. The spiritual animal kingdom and deceit, or the Thing itself
+b. Reason as lawgiver
+c. Reason as law-testing
+(BB.) Spirit
+VI. Spirit
+A. The true spirit, the ethical order
+a. The ethical world. Human and divine law: man and woman
+b. The ethical action. Human and divine knowledge. Guilt and
+destiny
+c. The state of right
+B. Self-alienated spirit. Culture
+I. The world of self-alienated spirit
+a. Culture and its realm of actuality
+b. Faith and pure insight
+Il. The enlightenment
+a. The struggle of the enlightenment with superstition
+b. The truth of enlightenment
+III. Absolute freedom and terror
+C. Spirit certain of itself. Morality
+
+a. The moral world-view
+b. Shifting
+c. Conscience. The beautiful soul, evil and its forgiveness
+(CC.) Religion
+VII. Religion
+A. Natural religion
+a. The light-essence
+b. The plant and the animal
+c. The artisan
+B. Religion of art
+a. The abstract work of art
+b. The living work of art
+c. The spiritual work of art
+C. The revealed religion
+(DD.) Absolute Knowledge
+VIII. Absolute Knowledge
+
+Preface
+
+q1. It is customary to begin a work by explaining in a preface the aim that
+the author set himself in the work, his reasons for writing it, and the
+relationship in which he believes it to stand to other earlier or contemporary
+treatments of the same subject. In the case of a philosophical work,
+however, such an explanation seems not only superfluous but, in view of
+the nature of the Thing,’ even inappropriate and misleading. For the sort of
+statement that might properly be made about philosophy in a preface—say,
+a historical report of the main direction and standpoint, of the general
+content and results, a string of desultory assertions and assurances about the
+true—cannot be accepted as the way and manner in which to expound
+philosophical truth. Also, philosophy moves essentially in the element* of
+universality that embraces the particular within itself, and this creates the
+impression, more here than in the case of other sciences, that the Thing
+itself, in all its essentials, is expressed in the aim and the final results,
+whereas the elaboration is really the inessential. By contrast, we need no
+convincing that, in the general idea? of what (for example) anatomy is—
+say, the knowledge of the parts of the body considered in their lifeless state
+—we are not yet in possession of the Thing itself, the content of this
+science, that we must in addition get to grips with the particular. Further, in
+the case of such an aggregate of information, which has no right to bear the
+name of science, a conversational account of aims and other such
+generalities is no different from the historical and unconceptual way in
+which the content itself (these nerves, muscles, etc.) is discussed. In the
+case of philosophy, by contrast, this would give rise to the incongruity that
+this manner of which philosophy makes use is shown by philosophy itself
+to be incapable of grasping the truth.*
+
+(2. So too, determining the relationship that a philosophical work
+supposes it has with other undertakings on the same subject introduces an
+extraneous concer, and obscures what really matters in the cognition of the
+truth. As the opposition between the true and the false becomes firmly fixed
+for opinion,! opinion tends to expect either assent or contradiction in
+response to a current philosophical system, and to see in any comment on
+
+such a system only the one or the other. Opinion does not comprehend the
+diversity of philosophical systems as the progressive unfolding of the truth;
+rather it sees in the diversity only contradiction. The bud disappears when
+the blossom bursts forth, and one could say that the bud is refuted by the
+blossom; similarly, when the fruit appears, the blossom is declared to be a
+false Being-there* of the plant, and the fruit replaces the blossom as the
+truth of the plant. These forms are not only different, they also supplant one
+another as mutually incompatible. Yet at the same time their fluid nature
+makes them moments of the organic unity, in which they not only do not
+conflict, but each is as necessary as the other; and this shared necessity
+alone constitutes the life of the whole. But the contradiction levelled against
+a philosophical system does not usually comprehend itself in this way; nor
+does the apprehending consciousness generally know how to liberate the
+contradiction from its one-sidedness or keep it free, and to recognize the
+reciprocally necessary moments in the shape of seeming conflict and
+contrariety.°
+
+43. The demand for such explanations and the satisfaction of it are easily
+mistaken for a concern with what is essential. Where could a fuller
+expression of the inner core of a philosophical work be given than in its
+aims and results, and how could these be more distinctly recognized than by
+their difference from whatever else the age produces in the same sphere?
+But when this procedure is taken for more than the beginning of cognition,
+when it is accepted as actual cognition, then we must in fact count it as one
+of the devices for bypassing the Thing itself, and combining the semblance
+of seriousness and of application to the Thing with an actual avoidance of
+both. For the Thing is not exhausted by its aim, but by its elaboration, nor
+is the result the actual whole, but only the result together with its becoming.
+The aim by itself is a lifeless universal, while the tendency is a mere drift
+that as yet lacks its actuality; and the naked result is a corpse which has left
+the tendency behind. Similarly, the difference is really the limit of the
+Thing; it lies where the Thing ceases, or it is what the Thing is not. These
+exertions over the aim or the results, as well as over the differences and
+assessments of the one and the other, are therefore an easier task than they
+perhaps seem to be. For instead of dealing with the Thing, this sort of
+procedure is always away beyond it; instead of lingering in the Thing and
+forgetting itself in it, this sort of knowledge is always hankering for
+something else; it remains preoccupied with itself rather than absorbed in
+
+the Thing and surrendering to it. The easiest course is to pass judgement on
+a work of substance and solidity; to grasp it is harder; hardest of all is to
+combine the two by producing an account of it.!
+
+74. Culture and the emergence from the immediacy of substantial life
+will always have to begin in the following way. We get acquainted with
+universal principles and points of view; we work our way up at first only to
+the thought of the Thing in general; equally we learn to support or refute
+the Thing with reasons; we learn to apprehend the rich and concrete
+abundance with determinate precision, and to give an accurate account and
+a serious judgement of it. But this beginning of culture will first of all make
+room for the seriousness of life in its fullness, which leads into the
+experience of the Thing itself. And even if, in addition to all this, the
+seriousness of the concept descends into the depths of the Thing, this sort of
+information and assessment will retain its appropriate place in
+conversation.!
+
+q5. The true shape in which truth exists can only be the scientific system
+of truth. To help bring philosophy closer to the form of science—to the goal
+of its being able to give up the name of love of knowledge and become
+actual knowledge'—that is what I have set out to do. The inner necessity
+that knowledge should be science lies in its nature, and the only satisfactory
+explanation of this is the presentation of philosophy itself. But the external
+necessity, insofar as it is conceived in a general way, leaving aside
+contingencies of the person and individual motives, is the same as the inner
+necessity, in the shape, that is, in which time represents the Being-there of
+its moments. To show that the time is ripe for the elevation of philosophy to
+a science—this would therefore be the only true justification of the attempts
+that have this aim, because this would demonstrate the necessity of the aim,
+because it would indeed at the same time fulfil this very aim.
+
+46. When the true shape of truth is posited in this scientific character—
+or, what is the same thing, when the truth is asserted to have the element of
+its existence only in the concept—I am well aware that this seems to stand
+in contradiction with an idea, and with the consequences of that idea, whose
+presumption is as great as its prevalence in the convictions of our age. An
+explanation of this contradiction therefore seems hardly superfluous, even
+though here it can be no more than an affirmation, just like the view that it
+opposes. This is the view that the true exists only in what, or rather as what,
+
+is variously called intuition, immediate knowledge of the absolute, religion,
+Being—not in the centre of divine love, but the Being of this centre itself. If
+this is so, it follows that what is then required for the presentation of
+philosophy is not the form of the concept, but rather its contrary. The
+absolute is supposed not to be comprehended, but felt and intuited; it is not
+the concept of the absolute that is to have its say and find expression, but
+the feeling and intuition of it.
+
+47. If we look at the appearance of such a demand in its wider context,
+and consider the stage at which self-conscious spirit stands at present, it is
+clear that spirit has now advanced beyond the substantial life it formerly led
+in the element of thought,—beyond this immediacy of its faith, beyond the
+satisfaction and security of the certainty that consciousness possessed of its
+reconciliation with the essence and of the universal presence of the essence
+both within and without. It has not only passed beyond all this into the other
+extreme of the insubstantial reflection of itself into itself, but beyond that
+too. Spirit has not only lost its essential life; it is also conscious of this loss,
+and of the finitude that is its own content. Turning away from the husks,
+and confessing and cursing its sorry state, it now requires from philosophy,
+not so much knowledge of what it is, as philosophy’s help in establishing
+once more its substantiality and solidity of Being. Philosophy is supposed
+to meet this need, not by opening up the locked fastness of substance and
+raising this to self-consciousness, not by restoring its chaotic consciousness
+to the order of thought and the simplicity of the concept, but rather by
+blurring the distinctions of thought, by suppressing the differentiating
+concept and by establishing the feeling of the essence, providing edification
+rather than insight. The beautiful, the holy, the eternal, religion, and love are
+the bait required to arouse the desire to bite; not the concept, but ecstasy,
+not the cold advance of necessity in the Thing, but the ferment of
+enthusiasm, these are supposed to be what sustains and promotes the
+expansion of the wealth of substance.!
+
+8. Corresponding to this demand is the strenuous, almost zealous and
+apparently furious effort to tear men away from their absorption in the
+sensory, the commonplace, the singular,! and to direct their gaze to the
+stars; as if they had forgotten all about the divine, and were ready like
+worms to satisfy themselves with dirt and water. Formerly they had a
+heaven furnished with a vast wealth of thoughts and images. The meaning
+of all that is lay in the thread of light by which it was linked to heaven;
+
+instead of abiding in this present, our gaze glided along this thread beyond
+the present, up to the divine essence, to a present beyond, so to speak. The
+eye of the spirit had to be forcibly directed to earthly things and held there;
+and it has taken a long time and laborious effort to introduce the clarity that
+only other-worldly things used to have into the fog and confusion
+enveloping the sense for this world, and to make attention to the present as
+such, to make what was called experience, interesting and valid.—Now we
+seem to need the opposite: sense seems so firmly rooted in the world that it
+requires just as much force to raise it up. The spirit is clearly so
+impoverished that, like a wanderer in the desert longing for a simple drink
+of water, it seems to crave for its refreshment only the meagre feeling of the
+divine in general. The extent of spirit’s loss is to be measured by what
+satisfies it.°
+
+q9. This modest contentment in receiving, or parsimony in giving, is not,
+however, right for science. Whoever seeks mere edification, whoever wants
+to shroud in fog the worldly variety of his Being-there and of thought, in
+order to get the indeterminate enjoyment of this indeterminate divinity, can
+look for this where he likes. He will easily find the wherewithal to vent his
+ardour, and pride himself on it. But philosophy must beware of the wish to
+be edifying.
+
+410. Still less must this complacency which renounces science make the
+claim that such hazy enthusiasm is superior to science. This prophetic talk
+supposes that it remains right in the centre and in the depths, looks
+disdainfully at determinacy (the Horos), and deliberately keeps away from
+the concept and necessity, away from the reflection that resides only in
+finitude. But just as there is an empty breadth, so too there is an empty
+depth; and just as there is an extension of substance that pours out into
+finite multiplicity without the power to hold it together, so is this an
+intensity without content, sheer force without any spread, and this is the
+same as superficiality. The force of spirit is only as great as its expression,
+its depth only as deep as it dares to spread out and lose itself in its display.
+Moreover, when this non-conceptual, substantial knowledge professes to
+have submerged the ownness of the Self in the essence, and to philosophize
+in a true and holy manner, it deludes itself: instead of surrendering to God,
+by spurning measure and determination it merely gives free rein by turns to
+the contingency of the content within itself and to its own wilfulness. When
+they give themselves up to the untamed ferment of the substance, they
+
+suppose that, by enshrouding self-consciousness and surrendering the
+understanding they become the beloved of God to whom he gives wisdom
+in sleep; and so what they in fact conceive and give birth to in their sleep
+are of course dreams.!
+
+q11. Incidentally, it is not difficult to see that our time is a time of birth
+and of transition to a new period. Spirit has broken with the previous world
+of its life and ideas, and is on the point of submerging it in the past; it is at
+work on its own transformation. Indeed, spirit is never at rest but always
+engaged in moving forward. But just as the first breath drawn by a child
+after its long, quiet nourishment breaks the gradualness of merely
+quantitative growth,—a qualitative leap,—and now the child is born, so the
+spirit that cultivates itself matures slowly and quietly into its new shape,
+dissolving bit by bit the structure of its previous world, whose instability is
+indicated only by isolated symptoms; the frivolity and boredom that infest
+the established order, the vague foreboding of something unknown, are
+heralds of approaching change. This gradual crumbling that did not alter the
+physiognomy of the whole is interrupted by the sunrise which, like
+lightning, all of a sudden reveals the contour of the new world.!
+
+q12. But this new world does not have a complete actuality any more
+than the new-born child; and it is essential to bear this in mind. The first
+emergence is only its immediacy or its concept. Just as a building is not
+finished when its foundation has been laid, so the achieved concept of the
+whole is not the whole itself. When we wish to see an oak in the power of
+its trunk and in the spread of its branches and the mass of its foliage, we are
+not satisfied if we are shown an acorn instead. So too, science, the crown of
+a world of the spirit, is not complete in its beginnings. The beginning of the
+new spirit is the product of a wide-ranging revolution in various forms of
+culture, the reward of a complicated, tortuous journey and of an equally
+immense and strenuous effort. This beginning is the whole that has returned
+into itself from succession as well as extension, the resultant simple concept
+of the whole. But the actuality of this simple whole consists in this: these
+configurations that have become moments again develop anew and take on
+a configuration, but now in their new element, in the sense that has
+emerged.!
+
+413. The initial appearance of the new world is, on the one hand, only
+the whole shrouded in its simplicity, or the general foundation of the whole.
+Yet the wealth of the former Being-there is still present to consciousness in
+
+recollection. In the newly appearing shape consciousness misses the range
+and particularization of content; but even more it misses the articulation of
+form whereby distinctions are securely determined and ordered in their firm
+relationships. Without this articulation, science lacks universal
+intelligibility, and gives the impression of being the esoteric possession of a
+few singletons;—an esoteric possession, since it is as yet present only in its
+concept, or only its interior is present; of a few singletons, since its
+unexpanded appearance makes its Being-there a singular thing. Only what
+is completely determined is at the same time exoteric, comprehensible, and
+capable of being learned and becoming the property of everyone. The
+intelligible form of science is the way to science, open to everyone and
+equally accessible to everyone, and to attain to rational knowledge through
+the understanding is the just demand of the consciousness that approaches
+science; for the understanding is thinking, is the pure I in general; and what
+is intelligible is what is already familiar and common to science and the
+unscientific consciousness alike, enabling the unscientific consciousness to
+enter science immediately.
+
+414. When it first begins and has thus achieved neither completeness of
+detail nor perfection of form, science is open to criticism for this. But it
+would be unjust, if such criticism is supposed to affect the essence of
+science, and it is equally inadmissible to refuse to recognize the demand for
+such articulation. This opposition seems to be the most important knot with
+which scientific culture is at present grappling, and which it still does not
+properly understand. One side insists on its wealth of material and its
+intelligibility, the other side scorns this intelligibility at least, and insists on
+its immediate rationality and divinity. Even if the former side is reduced to
+silence, whether by the force of truth alone or by the browbeating of the
+other, and even if it feels overwhelmed with regard to the fundamentals of
+the Thing, still it is by no means satisfied regarding the demands it makes:
+the demands are just, but not fulfilled. Its silence is only half due to the
+victory, but half to the boredom and indifference that are apt to be the
+consequence of a constantly aroused expectation and of promises not
+attended by fulfilment.!
+
+q15. As for the content, sometimes the others certainly make it easy for
+themselves to have a wide range. They draw into their domain a mass of
+material, namely material that is already familiar and well ordered, and by
+focusing chiefly on oddities and curiosities they seem all the more to have
+
+in their possession everything else that knowledge has already dealt with in
+its way, and also to be in control of what is still in disarray. And so they
+seem to subject everything to the absolute Idea, which thus seems to be
+cognized in everything and to have matured into an expanded science. But a
+closer inspection shows that this expansion has not come about through one
+and the same principle’s spontaneous adoption of different shapes, but it is
+rather the shapeless repetition of one and the same principle, which is just
+externally applied to the different material, and acquires a tedious
+semblance of diversity. The Idea, which for itself is no doubt true, in fact
+always remains at its starting-point, if the development consists in nothing
+more than such a repetition of the same formula. When the knowing subject
+parades this single immobile form around in whatever is at hand, when the
+material is dipped into this stagnant element from outside, this does not
+fulfil what is needed any better than arbitrary notions about the content. It is
+not, that is, the wealth of shapes surging up from itself and their self-
+determining differentiation. Rather it is a monochromatic formalism that
+only arrives at the differentiation of the material because the material is
+already prepared and familiar.!
+
+416. Yet this formalism presents this monotony and abstract universality
+as the absolute; it assures us that dissatisfaction with it is an incapacity to
+master the absolute standpoint and stick to it. Formerly, the empty
+possibility of representing something in another way was sufficient to refute
+an idea, and this bare possibility, the universal thought, also had the entire
+positive value of actual cognition. Here too we see all value ascribed to the
+universal Idea in this form of non-actuality, and the dissolution of the
+distinct and determinate—or rather their banishment into the abyss of
+emptiness with no further development or intrinsic justification—presented
+as the speculative approach. To consider some Being-there as it is in the
+absolute just consists in saying of it: of course we have spoken of it just
+now as if it were something, but in the absolute, the A=A, there is nothing
+of the sort; in the absolute everything is one. To pit this single insight, that
+in the absolute everything is the same, against discriminating and fulfilled
+cognition, or cognition seeking and demanding fulfilment—or to pass off its
+absolute as the night in which, as the saying goes, all cows are black—this
+is the naiveté of emptiness of cognition—The formalism that recent
+philosophy denounced and reviled revived in its very midst, and it will not
+disappear from science, though its inadequacy is familiar and felt, until the
+
+cognizing of absolute actuality has become entirely clear about its nature.—
+A general idea, if it precedes the attempt to implement it, makes the
+implementation easier to follow. In consideration of this, it is useful to give
+a rough indication of it here, with the concomitant intention of taking the
+opportunity to eliminate some forms whose habitual acceptance is an
+obstacle for philosophical cognition.!
+
+417. In my view, which must be justified only by the presentation of the
+system itself, everything depends on conceiving and expressing the true not
+as substance, but just as much as subject. At the same time it should be
+noted that substantiality includes within itself the universal, or the
+immediacy of knowledge itself, as well as the immediacy that is Being or
+immediacy for knowledge.—If the conception of God as the one substance
+shocked the age in which this definition was announced, the reason for this
+was on the one hand the instinct that self-consciousness was only
+submerged in it and not preserved. On the other hand, the contrary, which
+clings to thinking as thinking, to universality as such, is the same simplicity
+or undifferentiated, immobile substantiality. And if, thirdly, thinking unites
+the Being of substance with itself, and conceives immediacy or intuition as
+thinking, then the question is still whether this intellectual intuition does not
+fall back again into inert simplicity and does not present actuality itself in a
+non-actual manner.!
+
+q 18. The living substance is, moreover, Being which is in truth subject,
+or, what comes to the same thing, Being which is in truth actual only insofar
+as it is the movement of self-positing, or is the mediation of becoming-
+other-to-itself with itself. As subject, substance is pure simple negativity,
+and for this very reason the bifurcation of the simple; or the opposing
+duplication, which is again the negation of this indifferent diversity and of
+its opposition: it is only this self-restoring equality, or reflection into itself
+in otherness—not an original unity as such, or immediate unity as such—
+that is the true. The true is the becoming of itself, the circle that
+presupposes its end as its goal, and has its end as its beginning, and is only
+actual through implementation and its end.!
+
+q19. Thus the life of God and divine cognition may certainly be
+expressed as love’s play with itself; this Idea degenerates into edification,
+and even insipidity, if the seriousness, the pain, the patience and labour of
+the negative are missing from it. In itself this life is indeed serene equality
+and unity with itself, which has no serious concern with otherness and
+
+alienation, or with the overcoming of this alienation. But this in-itself is the
+abstract universality, in which the nature of this life, to be for itself, and thus
+in general the self-movement of the form, are ignored. If the form is said to
+be equal to the essence, then it is ipso facto a misunderstanding to suppose
+that cognition can be satisfied with the in-itself or the essence, but can do
+without the form—that the absolute principle or the absolute intuition
+makes the completion of the former, or the development of the latter,
+superfluous. Just because the form is as essential to the essence as the
+essence is to itself, the essence is not to be conceived and expressed merely
+as essence, i.e. as immediate substance or as pure self-intuition of the
+divine, but just as much as form, and in the whole wealth of the developed
+form. Only in this way is it conceived and expressed as actuality. |
+
+20. The true is the whole. But the whole is only the essence completing
+itself through its development. Of the absolute it must be said that it is
+essentially result, that only in the end is it what it is in truth; and precisely
+in this consists its nature: to be actual, subject, or becoming-its-own-self.
+Though it may seem contradictory that the absolute is to be conceived
+essentially as result, a brief consideration clears up this semblance of
+contradiction. The beginning, the principle, or the absolute, as it is initially
+and immediately expressed, is only the universal. If I say ‘all animals’,
+these words cannot amount to a zoology; it is equally obvious that such
+words as the divine, the absolute, the eternal, etc., do not express what is
+contained in them;—and only such words do, in fact, express the intuition
+as the immediate. Whatever is more than such a word, even just the
+transition to a proposition, contains a becoming-other that must be taken
+back, is a mediation. But it is mediation that inspires abhorrence, as if
+absolute cognition were abandoned when one makes more of mediation
+than just this: that it is nothing absolute and has no place in the absolute.!
+
+421. But this abhorrence in fact stems from unfamiliarity with the nature
+of mediation and of absolute cognition itself. For mediation is nothing other
+than self-moving equality-to-itself, or it is reflection into itself, the moment
+of the I that is for itself, pure negativity or, reduced to its pure abstraction,
+simple becoming. Because of its simplicity, the I or becoming in general,
+this mediating, is precisely immediacy in the course of becoming, and the
+immediate itself—It is therefore a misunderstanding of reason when
+reflection is excluded from the true, and is not conceived as a positive
+moment of the absolute. It is reflection that makes the true a result, but also
+
+sublates this opposition to its becoming; for this becoming is equally
+simple, and therefore does not differ from the form of the true, which
+consists in showing itself as simple in the result; it is rather just this having-
+returned into simplicity—Though the embryo is indeed human in itself, it is
+not human for itself; it is human for itself only as cultivated reason, which
+has made itself into what it is in itself. Only this is its actuality. But this
+result is itself simple immediacy, for it is self-conscious freedom, which is
+at rest within itself and has not put opposition aside to leave it lying there,
+but is reconciled with it.
+
+422. What has been said can also be expressed by saying that reason is
+purposive activity. The promotion of what is supposedly nature over
+misunderstood thinking, and above all the banishment of external
+purposiveness, has brought the form of purpose in general into disrepute.
+Still, in the way in which Aristotle, too, determines nature as purposive
+activity, purpose is the immediate, at rest, the unmoved which is itself a
+mover; thus it is subject. Its power to move, taken abstractly, is being-for-
+itself or pure negativity. The result is the same as the beginning only
+because the beginning is purpose;—or the actual is the same as its concept
+only because the immediate, as purpose, has the Self or pure actuality
+within itself. The accomplished purpose or the actual realized is movement
+and unfolded becoming; but it is just this unrest that is the Self; and the Self
+is equal to that immediacy and simplicity of the beginning because it is the
+result, that which has returned into itself,—but that which has returned into
+itself is just the Self, and the Self is the equality and simplicity that relates
+itself to itself.!
+
+423. The need to represent the absolute as subject made use of the
+propositions: God is the eternal, or the moral world-order, or love, and so
+on. In such propositions the true is only posited directly as subject, not
+presented as the movement of reflecting itself into itself. In a proposition of
+this kind one begins with the word God. This by itself is a senseless sound,
+a mere name; only the predicate says what God is, is his fulfilment and
+meaning; the empty beginning becomes actual knowledge only in this end.
+In view of this it is hard to see why they do not speak merely of the eternal,
+of the moral world-order, etc., or, as the ancients did, of pure concepts,
+Being, the one, etc., of that which is the meaning, without adding the
+senseless sound as well.! But it is just this word that indicates that what is
+posited is not a Being or essence or universal in general, but something
+
+reflected into itself, a subject. Yet at the same time this is only anticipated.
+The subject is assumed as a fixed point to which, as their support, the
+predicates are attached by means of a movement that belongs to the one
+with knowledge of this subject, and which is not considered to belong to the
+point itself; yet it is only through this movement that the content would be
+presented as subject. Given the way in which this movement is constituted,
+it cannot belong to the subject; yet, in accordance with the presupposition of
+this point, the movement too cannot be constituted otherwise, it can only be
+external. This anticipation that the absolute is subject is therefore not only
+not the actuality of this concept, it even makes this actuality impossible; for
+the anticipation posits the concept as a static point, while the actuality is
+self-movement.7
+
+424. Among various consequences that flow from what has been said,
+this one can be emphasized: knowledge is only actual, and can only be
+presented, as science or as system; furthermore, a so-called basic
+proposition or principle of philosophy, if it is true, is also false, just insofar
+as it is only as a basic proposition or principle. It is therefore easy to refute
+it. The refutation consists in pointing out its deficiency; and it is deficient
+because it is only the universal or principle, only the beginning. If the
+refutation is thorough, it is derived and developed from the principle itself,
+—not effected from outside by affirmations and suggestions to the contrary.
+So the refutation would really be the development of the principle, and thus
+the repair of its deficiency, if it did not misunderstand itself by noticing
+only its negative activity, while remaining unconscious of its progress and
+result on the positive side——The genuine positive realization of the
+beginning is at the same time, conversely, just as much a negative attitude
+towards it, viz. towards the one-sided form in which it is only immediate or
+purpose. And so the realization can also be taken as a refutation of that
+which constitutes the basis of the system, but it is more correct to regard it
+as a demonstration that the basis or the principle of the system is in fact
+only its beginning.!
+
+425. That the true is actual only as system, or that substance is
+essentially subject, is expressed in the representation which casts the
+absolute as spirit—the most sublime concept and the one that belongs to the
+modern age and its religion. The spiritual alone is the actual; it is the
+essence, or that-which-is-in-itself—the interrelating and determinate,
+other-being and Being-for-itself—and what remains within itself in this
+
+determinacy or in its being-outside-itself;—or it is in and for itself—But it
+is this Being-in-and-for-itself at first only for us or in itself, or it is the
+spiritual substance. It must also be this for itself, it must be the knowledge
+of the spiritual and the knowledge of itself as spirit, i.e. it must be as object
+to itself, but just as immediately an object sublated, reflected into itself. It is
+for itself only for us, insofar as its spiritual content is generated by it itself;
+but insofar as it is for itself also for its own self, this self-generation, the
+pure concept, is at the same time the objective element in which it has its
+Being-there, and in this way it is, in its Being-there, for itself an object
+reflected into itself—The spirit that, so developed, knows itself as spirit, is
+science; science is its actuality and the realm that it builds for itself in its
+own element.!
+
+(26. Pure self-cognition in absolute otherness, this aether as such, is the
+ground and terrain of science; it is knowledge in its universality. The
+beginning of philosophy makes the presupposition or demand _ that
+consciousness dwell in this element. But this element achieves its very
+perfection and transparency only through the movement of its becoming. It
+is pure spirituality, as the universal that has the mode of simple immediacy;
+—this simplicity, when it has existence as simplicity, is the terrain that is
+thinking, the terrain that is in the spirit alone. Because this element, this
+immediacy of spirit, is the substance in general of spirit, this immediacy is
+the transfigured essentiality, the reflection which, itself simple, is for itself
+immediacy as such, Being that is reflection into its own self. Science on its
+side requires of self-consciousness that it has ascended into this aether in
+order to be able to live with science and in science and in order to live with
+it and in it. Conversely, the individual has the right to demand that science
+at least hand him the ladder to this standpoint, show him this standpoint
+within himself. His right is based on the absolute independence which he
+knows he possesses in every shape of his knowledge; for in each one,
+whether recognized by science or not, and whatever the content may be, the
+individual is the absolute form, i.e. he is the immediate certainty of himself
+and so, if this expression be preferred, unconditioned Being. The standpoint
+of consciousness consists in knowing of objective things in opposition to
+itself, and in knowing of itself in opposition to them. If science regards this
+standpoint as the other—regards that in which consciousness knows itself
+to be at home with itself rather as the loss of spirit—yet conversely the
+element of science is to consciousness a remote beyond in which it is no
+
+longer in possession of itself. Each of these two parties seems for the other
+to be the inverse of the truth. In entrusting itself immediately to science, the
+natural consciousness makes an attempt, induced by it knows not what, to
+walk on its head as well for once; the compulsion to adopt this unwonted
+posture and to move about in it is a seemingly unprepared and needless
+violence that it is expected to inflict on itself—Whatever science may be
+intrinsically, in its relationship to immediate self-consciousness it presents
+itself as an inversion of it; or, because this self-consciousness has the
+principle of its actuality in the certainty of its own self, science assumes the
+form of non-actuality, since this principle is for itself outside science.
+Science must therefore combine such an element with itself, or rather show
+that and how this element belongs to itself. As long as science lacks such
+actuality, it is only the content as the in-itself, the purpose that is still only
+an interior, not yet spirit, only spiritual substance. This in-itself has to come
+out into the open and become for itself, and this simply means that this in-
+itself has to posit self-consciousness as one with itself.
+
+27. It is this becoming of science in general or of knowledge that this
+phenomenology of spirit presents. Knowledge, as it is initially, or the
+immediate spirit, is the lack of spirit, the sensory consciousness. To become
+authentic knowledge, or to generate the element of science, which is the
+pure concept of science itself, it has to work its way through a long course.
+—This becoming, as it presents itself in its content and in the shapes
+emerging in it, will not be what one initially thinks of as an introduction to
+science for the unscientific consciousness; it will also be quite different
+from the foundation of science;—at all events it will be different from the
+enthusiasm which, like a shot from a pistol, begins immediately with
+absolute knowledge, and makes short work of other standpoints by
+declaring them unworthy of notice.!
+
+28. The task of leading the individual from his uneducated standpoint
+to knowledge had to be seen in its universal sense, and the universal
+individual, self-conscious spirit, had to be considered in its education.—As
+regards the relationship between the two types of individual, every moment
+emerges in the universal individual, as it acquires its concrete form and its
+own configuration. The particular individual is the incomplete spirit, a
+concrete shape in whose whole Being-there one determinacy is dominant,
+while the others are present only in blurred outline. In the spirit that stands
+higher than another, the lower concrete Being-there has dwindled to an
+
+inconspicuous moment; what was formerly the Thing itself is now just a
+trace; its shape is shrouded and has become a simple shading. The
+individual whose substance is the more elevated spirit runs through this
+past, in the way in which someone who takes up a higher science goes
+through the preparatory information he has long since absorbed, in order to
+bring its content to presence; he revives the recollection of it, without
+interest in it and without dwelling on it. The singleton must also pass
+through the educational stages of the universal spirit with regard to their
+content, but as shapes already discarded by the spirit, as stages on a way
+that has been prepared and levelled. Thus, as regards information, we see
+that what in former ages occupied men of mature spirit, has been reduced to
+the level of information, exercises, and even games of boyhood; and, in the
+pedagogical progression, we shall recognize the history of the education of
+the world as if traced in a silhouette. This past Being-there is already
+acquired property of the universal spirit that constitutes the substance of the
+individual and so, in appearing externally to him, constitutes his inorganic
+nature.—In this respect education, considered from the side of the
+individual, consists in his acquiring what is thus present before him,
+absorbing into himself his inorganic nature, and taking possession of it for
+himself. But, considered from the side of the universal spirit as substance,
+this is nothing but the fact that the substance gives itself its self-
+consciousness, and produces its becoming and its reflection into itself.!
+
+429. Science presents this educative movement in all its detail and
+necessity, as well as presenting, in its configuration, everything that has
+already been reduced to a moment and property of spirit. The goal is spirit’s
+insight into what knowledge is. Impatience demands the impossible,
+namely, the attainment of the goal without the means. On the one hand, the
+length of this way has to be endured, because each moment is necessary;—
+on the other hand, we have to dwell on each moment because each is itself
+an entire individual shape and is considered absolutely only insofar as its
+determinacy is considered as a whole or a concretion, or the whole is
+considered in the peculiarity of this determination.—Since the substance of
+the individual, since even the world-spirit has had the patience to pass
+through these forms in the long expanse of time, and to undertake the
+prodigious labour of world-history, in which it displayed in each form as
+much of its entire content as that form was capable of holding, and since the
+world-spirit could not attain consciousness about itself by any lighter
+
+labour, then in accordance with the Thing the individual certainly cannot
+comprehend his own substance with less labour; and yet, at the same time,
+he has less trouble, since in itself all this is accomplished,—the content is
+already the actuality razed to a possibility, the immediacy overcome, the
+configuration by now reduced to its abbreviation, to the simple thought-
+determination. Already something thought, the content is property of the
+substance; it is no longer the Being-there that needs to be converted into the
+form of Being-in-itself, it is rather the in-itself—no longer merely in its
+original state nor immersed in Being-there—but already recollected, that
+requires conversion into the form of Being-for-itself. The nature of this
+operation must be described more precisely.!
+
+q30. At the standpoint at which we here take up this movement, what is
+bypassed with regard to the whole is the sublation of Being-there; but what
+still remains and needs a higher reorientation is the representation and the
+familiarity with the forms. The Being-there taken back into the substance is,
+by that first negation, at first transposed into the element of the Self only
+immediately; so this property that the Self has acquired still has the same
+character of unconceptualized immediacy, of immobile indifference, as
+Being-there itself has; Being-there has thus merely passed over into
+representation.—At the same time it is thereby something familiar,
+something that the spirit that-is-there has finished with, in which therefore
+this spirit no longer invests its activity nor, consequently, its interest. If the
+activity, which has finished with Being-there, is itself only the movement of
+the particular spirit that does not comprehend itself, knowledge, by contrast,
+is directed against the representation thus created, against this familiarity;
+knowledge is the doing of the universal Self and the interest of thinking.'
+
+431. The familiar in general, precisely because it is well-known, is not
+known. The commonest way in which we deceive ourselves and deceive
+others is to presuppose in inquiry something as familiar, and to accept it
+automatically; for all its talking to and fro, such knowing never gets
+anywhere, and it does not know what is happening to it. Subject and object,
+God, nature, understanding, sensibility, and so on, are indiscriminately
+presupposed as familiar and as valid foundations, and constitute fixed
+points for both departure and return. The movement proceeds back and
+forth between these points, while they remain unmoved, and so it only
+skims their surface. So apprehending and testing too consist in seeing
+
+whether everyone finds what is said about these in his representation as
+well, whether it seems that way to him, and is familiar or not.!
+
+432. The analysis of a representation, as it used to be carried out, was
+already nothing other than the sublation of the form of its familiarity. To
+dissect a representation into its original elements is to return to its moments,
+which at least do not have the form of the representation as we encounter it,
+but constitute the immediate property of the Self. This analysis, to be sure,
+only arrives at thoughts which are themselves familiar, fixed, and static
+determinations. But what is thus separated, this non-actuality, is itself an
+essential moment; for the concrete is what moves itself, only because it
+divides itself and makes itself something non-actual. The activity of
+division is the force and labour of the understanding, the most astonishing
+and greatest of powers, or rather the absolute power. The circle that remains
+self-enclosed and, as substance, holds its moments, is the immediate
+relationship and therefore arouses no astonishment. But that the accidental
+as such, detached from its surroundings, that what is bound and is actual
+only in its connection with other things, attains a Being-there of its own and
+a separate freedom—this is the tremendous power of the negative; it is the
+energy of thinking, of the pure I. Death, if that is what we want to call this
+non-actuality, is the most dreadful thing, and to hold fast what is dead
+requires the greatest force. Beauty without force hates the understanding
+because the understanding expects this of her when she cannot do it. But the
+life of the spirit is not the life that shrinks from death and keeps clear of
+devastation;—it is the life that endures death and preserves itself in it. Spirit
+gains its truth only when, in absolute disintegration, it finds itself. It is this
+power, not as the positive which averts its eyes from the negative, as when
+we say of something that it is nothing or false, and then, finished with it,
+turn away and pass on to something else; spirit is this power only by
+looking the negative in the face, and by dwelling on it. Dwelling on the
+negative is the magic force that converts it into Being.—This force is the
+very thing that we earlier called the subject, the subject which, by giving in
+its own element Being-there to determinacy, sublates abstract immediacy,
+i.e. the immediacy which simply is in general, and is thereby genuine
+substance: the Being or immediacy that does not have mediation outside it
+but which is this mediation itself.!
+
+433. What is represented becomes property of pure self-consciousness,
+but this elevation to universality in general is only one side of education,
+
+not yet its completion—In antiquity study differed in kind from that of
+modern times: it was the really thorough education of the natural
+consciousness. Trying its strength specifically on every part of its Being-
+there, and philosophizing about everything it came across, it made itself
+into a universality that was active through and through. In modern times, by
+contrast, the individual finds the abstract form ready-made; the effort to
+grasp it and to make it his own is more the unmediated eruption of the
+interior and the truncated generation of the universal than an emergence of
+the universal from the concrete and from the diversity of Being-there. That
+is why the task now consists not so much in purging the individual of the
+mode of sensory immediacy, and making him into a substance that thinks
+and is thought, but rather in the opposite, in actualizing and inspiriting the
+universal by sublating fixed, determinate thoughts. But it is far harder to
+bring fixed thoughts into a fluid state than sensory Being-there. The reason
+for this is what we said just now: these determinations have the I, the power
+of the negative, or pure actuality, as the substance and the element of their
+Being-there, whereas sensory determinations have only powerless, abstract
+immediacy, or Being as such. Thoughts become fluid when pure thinking,
+this inner immediacy, recognizes itself as a moment, or when the pure
+certainty of itself abstracts from itself;—not by leaving itself out, by setting
+itself aside, but by giving up the fixity of its self-positing, both the fixity of
+the pure concrete, which is the I itself in contrast to differentiated content,
+and the fixity of the differentiations which, posited in the element of pure
+thinking, have a share in that unconditionality of the I. Through this
+movement the pure thoughts become concepts, and are only now what they
+are in truth, self-movements, circles, that which is their substance, spiritual
+essentialities.!
+
+q34. This movement of pure essentialities constitutes the nature of
+scientificity in general. Regarded as the interconnection of their content, the
+movement is the necessity of the content and the expansion of it into an
+organic whole. Through this movement the route by which the concept of
+knowledge is reached becomes likewise a necessary and complete
+becoming. And so this preparation ceases to be a contingent philosophizing
+that latches onto any old objects, relationships, and thoughts of the
+imperfect consciousness, as they occur by chance, or tries to establish the
+true by arguing the pros and cons, by inferences and conclusions from
+determinate thoughts. Instead, this route will encompass, through the
+
+movement of the concept, all the worldliness of consciousness in its
+necessity.!
+
+435. Further, an exposition of this sort constitutes the first part of
+science, because the Being-there of spirit at its outset is nothing but the
+immediate or the beginning, but the beginning is not yet its return into
+itself. The element of immediate Being-there is therefore the determinacy
+that distinguishes this part of science from the others.—Mention of this
+difference leads us into a discussion of some fixed thoughts which tend to
+crop up in this context.!
+
+(36. The immediate Being-there of spirit, consciousness, has two
+moments: knowing and the objectivity which is negative to knowing. Since
+consciousness is the element in which spirit develops itself and unfolds its
+moments, this opposition pertains to the moments, and they all emerge as
+shapes of consciousness. The science of this journey is the science of the
+experience that consciousness undergoes; the substance is considered
+inasmuch as it and its movement are an object of consciousness.
+Consciousness knows and comprehends nothing but what is in its
+experience; for what is in its experience is only the spiritual substance, and
+in fact as object of substance’s Self. But spirit becomes object because it is
+this movement of becoming an other to itself, i.e. object of its Self, and of
+sublating this otherness. And experience is the name given to just this
+movement, in which the immediate, what is not experienced, i.e. the
+abstract, whether the abstraction of sensory Being or of the mere simple
+thought, alienates itself and then returns to itself from this alienation, and is
+now displayed for the first time in its actuality and truth, and is also
+property of consciousness.!
+
+(37. The disparity occurring in consciousness between the I and the
+substance that is its object is the distinction between them, the negative in
+general. The negative can be regarded as the defect of both, but it is their
+soul, or that which moves them; that is why some of the ancients conceived
+the void as the mover, since they grasped that the mover is the negative,
+though they did not yet grasp that the negative is the Self.'"—Now if this
+negative appears initially as a disparity between the I and the object, it is
+just as much the disparity between the substance and itself. What seems to
+proceed outside substance, what seems to be an activity directed against it,
+is its own doing, and substance shows itself to be essentially subject. When
+
+it has shown this completely, spirit has made its Being-there equal to its
+essence; it is object to itself, just as it is, and the abstract element of
+immediacy, and of the separation of knowledge and truth, is overcome.
+Being is absolutely mediated;—it is substantial content which is just as
+immediately property of the I, it is selfish or the concept. With this the
+phenomenology of spirit is concluded. What spirit prepares for itself in it, is
+the element of knowledge. In this element the moments of spirit now spread
+themselves out in the form of simplicity, which knows its object as its own
+self. They no longer fall apart into the opposition of Being and knowledge,
+but remain in the simplicity of knowledge; they are the true in the form of
+the true, and their diversity is only diversity of content. Their movement,
+which organizes itself in this element into a whole, is logic or speculative
+philosophy.?
+
+138. Now because the system of spirit’s experience deals only with the
+appearance of spirit, the advance from this system to the science of the true
+that is in the shape of the true seems to be merely negative, and one might
+wish to remain exempted from the negative inasmuch as it is the false, and
+demand to be led to the truth without more ado; why bother with the false?
+—The view that we should begin with science straight away, has already
+been discussed above. Our answer to it here needs to focus on the question
+of the constitution of the negative in general regarded as the false.
+Representations on this question especially obstruct the approach to truth. It
+will give us occasion to speak about mathematical cognition, which
+unphilosophical knowledge regards as the ideal that philosophy must strive
+to attain, though it has so far striven in vain.!
+
+439. The true and the false belong to those determinate thoughts that
+count as motionless, essences on their own, one of which is on one side,
+while the other is on the other, each standing fixed and isolated with
+nothing in common with the other. Against this view it must maintained that
+truth is not a minted coin that is ready to be given and pocketed just as it is.
+Nor is there a false, any more than there is an evil. The evil and the false are
+not, of course, as bad as the devil, for in the devil they are even made into a
+particular subject; as the false and the evil, they are only universals, though
+each has its own essentiality in contrast to the other—The false (for here it
+is only of this that we speak) would be the other of substance, its negative,
+while substance, as content of knowledge, is the true. But substance is itself
+essentially the negative, partly as differentiation and determination of the
+
+content, partly as a simple differentiating, i.e. as Self and knowledge in
+general. One can surely know falsely. If something is known falsely, this
+means that knowledge is in disparity with its substance. But in fact this
+disparity is differentiating in general, which is an essential moment. Out of
+this differentiating, to be sure, their parity emerges, and this emergent parity
+is the truth. But it is not truth in such a way that the disparity has been
+discarded, like dross from pure metal, not even like the tool that remains
+detached from the finished vessel; in the true as such, disparity is itself still
+immediately present as the negative, as the Self. However, this does not
+mean that we can say that the false constitutes a moment, let alone a
+component, of the true. ‘In every falsehood there is something true’—in this
+saying truth and falsity are treated like oil and water, which cannot be
+mixed and are only externally combined. It is precisely because of the
+significance of designating the moment of complete otherness that the
+expressions for truth and falsity must no longer be used where their
+otherness has been sublated. Similarly, talk of the unity of subject and
+object, of finite and infinite, of Being and thinking, etc. has the drawback,
+that object and subject, etc. signify what they are outside their unity, and so
+in their unity they are not meant to be what their expression suggests; in the
+same way the false is no longer, as false, a moment of truth.!
+
+140. Dogmatism as a way of thinking in knowledge and in the study of
+philosophy is nothing but the opinion that the true consists in a proposition
+which is a fixed result, or which is immediately known. To such questions
+as when was Caesar born, how many yards there were in a stadium and
+which stadium, etc., a clear-cut answer should be given, just as it is
+definitely true that the square on the hypotenuse is equal to the sum of the
+squares on the other two sides of a right-angled triangle. But the nature of a
+so-called truth of that kind is different from the nature of philosophical
+truths.!
+
+41. As regards historical truths (to mention these briefly), insofar as
+their purely historical aspect is considered, it is readily granted that they
+concern the singular Being-there, the contingent and arbitrary aspect of a
+content, determinations of it that are not necessary.—But even such plain
+truths as the examples cited are not without the movement of self-
+consciousness. To know one of them, a good deal of comparison is called
+for, books must be consulted, or in some way or other research has to be
+undertaken; even in the case of an immediate intuition only the knowledge
+
+of the intuition along with its grounds is regarded as something of true
+value, although it is really only the bare result that we are supposed to be
+concerned about.!
+
+42. As for mathematical truths, we would be even less likely to regard
+someone as a geometer if he knew Euclid’s theorems outwardly by rote,
+without knowing their proofs, without (as we might express the contrast)
+knowing them inwardly. Similarly, the information that the sides of right-
+angled triangles have the familiar relationship to each other, would be
+regarded as unsatisfactory, if someone were to acquire it by measuring
+many right-angled triangles. However, even in mathematical cognition, the
+essentialness of the proof does not yet have the significance and nature of
+being a moment of the result itself; in the result the proof is past and
+vanished. Since it is a result, the theorem is of course a theorem seen to be
+true. But this added circumstance does not affect its content, but only the
+relationship to the subject; the movement of the mathematical proof does
+not belong to that which is the object; it is an operation external to the
+Thing. Thus the nature of the right-angled triangle does not divide itself up
+in just the way presented in the construction that is needed for the proof of
+the proposition expressing its relationship; the entire production of the
+result is a process and means of cognition.—In philosophical cognition, too,
+the becoming of the Being-there as Being-there is different from the
+becoming of the essence or of the inner nature of the Thing. But in the first
+place philosophical cognition includes both, whereas mathematical
+cognition presents only the becoming of the Being-there, i.e. the becoming
+of the Being of the nature of the Thing in cognition as such. In the second
+place, philosophical cognition also unifies these two particular movements.
+The inner emergence or becoming of the substance is an uninterrupted
+passage into externality or into Being-there, Being for another, and
+conversely the becoming of the Being-there is the withdrawal into the
+essence. The movement is the twofold process and becoming of the whole,
+so that each one at the same time posits the other, and each therefore also
+has both of them in it as two aspects; together they make up the whole by
+dissolving themselves and making themselves into its moments.!
+
+743. In mathematical cognition, insight is, for the Thing, an external
+operation; it follows from this that the true Thing is altered thereby. So
+while the means—construction and proof—no doubt contain true
+propositions, it must equally be said that the content is false. In the above
+
+example the triangle is dismembered, and its parts consigned to other
+figures, to which the construction gives rise in it. Only at the end is the
+triangle restored, the triangle we are really dealing with, which was lost
+from sight during the procedure, emerging only in fragments belonging to
+other wholes.—So here we see the negativity of the content coming in as
+well; this negativity would have to be called a falsity of the content, with as
+much right as the disappearance of purportedly fixed thoughts in the
+movement of the concept.!
+
+144. But the real deficiency of this cognition concerns the cognition
+itself, as well as its material in general—As regards the cognition, we do
+not, for the time being, see the necessity of the construction. It does not
+emerge from the concept of the theorem; it is rather imposed, and the
+instruction to draw just these lines when infinitely many others could be
+drawn has to be blindly obeyed without our knowing anything more than
+how to have the innocent faith that this will serve the purpose of carrying
+out the proof. Afterwards, this purposiveness also reveals itself, and for this
+reason it is only an external purposiveness, because it reveals itself only
+afterwards in the course of proof.—Similarly, the proof follows a path that
+begins somewhere, at a point whose relation to the result that is supposed to
+emerge is not yet known. As it advances it takes up these determinations
+and relations, and leaves others aside, in accordance with a necessity that
+we do not immediately discern; an external purpose governs this
+movement.!
+
+q45. Mathematics is proud of the self-evidence of this defective
+cognition, and flaunts it even in the face of philosophy, but it is based solely
+on the poverty of its purpose and the defectiveness of its material, and is
+therefore of a kind that philosophy must disdain.—The purpose or concept
+of mathematics is magnitude. This is precisely the inessential, unconceptual
+relationship. Accordingly, the movement of knowing proceeds on the
+surface, does not touch the Thing itself, not the essence or the concept, and
+is therefore no conceptual comprehension.—The material, regarding which
+mathematics provides a gratifying treasury of truths, is space and the unit.
+Space is the Being-there in which the concept inscribes its distinctions as in
+an empty dead element, in which they are just as motionless and lifeless.
+The actual is not something spatial, as it is considered in mathematics;
+neither concrete sensory intuition nor philosophy is concerned with such
+non-actuality as the things of mathematics are. In such a non-actual element
+
+there is after all only non-actual truth, i.e. rigid, dead propositions; we can
+stop at any one of them; the next proposition starts for itself anew, without
+the first proposition moving on to the other, and without a necessary
+connection arising in this way through the nature of the Thing itself—
+Moreover, because of this principle and element—and herein consists the
+formalism of mathematical self-evidence—knowledge proceeds on the line
+of equality. For what is dead, since it does not move itself, does not arrive
+at distinctions of essence, at essential opposition or inequality, nor therefore
+at the passage of opposite into opposite, does not attain to qualitative,
+immanent movement, to self-movement. For it is only magnitude, the
+unessential distinction, that mathematics considers. It abstracts from the fact
+that it is the concept that divides space into its dimensions and determines
+the connections between them and within them; it does not, for example,
+consider the relationship of the line to the surface; and when it compares the
+diameter of the circle with the circumference, it runs up against their
+incommensurability, i.e. a relationship of the concept, an infinite that eludes
+mathematical determination.!
+
+q46. Immanent, so-called pure mathematics also does not place time as
+time in juxtaposition to space, as the second material of its consideration.
+Applied mathematics does indeed deal with time, as well as with motion
+and other actual things; but it takes up the synthetic propositions, i.e.
+propositions about their relationships which are determined by their
+concept, from experience, and only applies its formulae to these
+presuppositions. Applied mathematics often gives so-called proofs of
+propositions, such as those regarding the equilibrium of the lever, or the
+relationship of space and time in the motion of falling, etc., but the fact that
+these are presented and accepted as proofs itself only proves how great is
+the need of proof for cognition, because where it has nothing else, cognition
+respects even the empty semblance of proof, and gains some satisfaction
+from it. A critique of these proofs would be both noteworthy and
+instructive, serving both to purify mathematics of this false adornment, and
+to show its limit, and hence the necessity of another kind of knowledge.—
+As regards time, one would suppose that it would constitute, as the
+counterpart of space, the material of the other part of pure mathematics; but
+it is the concept itself that is-there. The principle of magnitude, of
+unconceptual difference, and the principle of equality, of abstract lifeless
+unity, cannot handle that pure unrest of life and of absolute differentiation.
+
+It is therefore only as paralysed, namely as the unit, that this negativity
+becomes the second material of mathematical cognition, which, as an
+external operation, reduces what is self-moving to material, in order to have
+in it now an indifferent, external, lifeless content.!
+
+147. Philosophy, by contrast, considers not the _ inessential
+determination, but the determination insofar as it is essential; its element
+and content is not the abstract or non-actual, but the actual, that which
+posits itself and lives within itself—Being-there in its concept. It is the
+process that generates and passes through its own moments, and this whole
+movement constitutes the positive and its truth. This truth therefore includes
+the negative too, that which would be called the false, if it could be
+regarded as something from which one should abstract. The evanescent
+should, on the contrary, itself be regarded as essential, not in the
+determination of a fixture which, cut off from the true, is to be left lying
+somewhere or other outside it, any more than the true is to be regarded as a
+dead, static positive on the other side. Appearance is the arising and passing
+away that does not itself arise and pass away, but is in itself and constitutes
+the actuality and movement of the life of truth. The true is thus the
+Bacchanalian frenzy in which no member is sober, and since each member
+immediately dissolves as soon as it breaks away, the frenzy is also
+transparent and simple repose. In that movement’s court of judgement, of
+course the single shapes of spirit do not subsist any more than determinate
+thoughts do, but they are also positive and necessary moments, as much as
+they are negative and evanescent.—In the whole of the movement, a whole
+conceived as repose, what differentiates itself in the movement and gives
+itself particular Being-there, is preserved as something that recollects itself,
+whose Being-there is knowledge of its own self, while this self-knowledge
+is just as immediately Being-there.!
+
+48. It might seem necessary to specify in advance the main features of
+the method of this movement or of science. But its concept already lies in
+what we have said and its proper exposition belongs to logic, or rather it is
+logic itself. For the method is nothing but the structure of the whole set out
+in its pure essentiality. But as for the views on this matter that have been
+prevalent until now, we must not forget that the system of ideas relating to
+the nature of philosophical method also belongs to a defunct culture.—If
+this should sound boastful or revolutionary, a tone that is far from my
+intention, we should bear in mind that the scientific finery offered by
+
+mathematics—with its explanations, classifications, axioms, sequences of
+theorems, their proofs, principles, and the derivation of consequences and
+conclusions from them—is in the general opinion already obsolete at the
+very least. Even if its unsuitability is not clearly seen, little or no use is
+made of it any more, and if people do not disapprove of it in itself, they are
+nevertheless not fond of it. And we must harbour this prejudice in favour of
+excellence, that it finds a use for itself and wins popularity. But it is not
+hard to see that the fashion of advancing a proposition, adducing reasons for
+it, and in the same way refuting the opposite proposition by reasons, is not
+the form in which truth can emerge. Truth is the movement of itself inside
+itself, whereas this method is the cognition that is external to the material.
+That is why this method is peculiar to mathematics, and must be left to
+mathematics, which, as we noted, has the unconceptual relationship of
+magnitude as its principle, and dead space and the equally dead unit as its
+material. This method may also, in a freer style, i.e. blended more with
+wilfulness and contingency, remain in ordinary life, in a conversation or
+historical instruction for the sake of curiosity more than cognition, more or
+less like a preface too. In ordinary life, consciousness has for its content
+information, experiences, sensory concretions, also thoughts, principles—in
+general whatever it regards as available or as a fixed and stable Being or
+essence. Sometimes consciousness follows where this leads, sometimes it
+interrupts the connection by exercising free wilfulness over such content
+and conducts itself as an external determination and management of the
+content. It traces the content back to some certainty or other, even if it is
+only the sensation of the moment; and conviction is satisfied when it has
+reached a familiar resting-place.!
+
+749. But if the necessity of the concept banishes the looser gait of
+ratiocinative! conversation, as well as the stiffer gait of scientific pomp, we
+have already pointed out above that their place is not to be filled by the non-
+method of presentiment and inspiration, and by the wilfulness of prophetic
+utterance, which despises not only that type of science, but the scientific
+approach in general.
+
+q50. Kant rediscovered triplicity and, though he found it only by instinct
+and it was, in his hands, still dead, still unconceptualized, it has since been
+elevated to its absolute meaning, so that the genuine form is at the same
+time displayed in its genuine content and the concept of science has
+emerged. Nevertheless, we sometimes see this form used in a way that
+
+degrades it to a lifeless schema, to a veritable shadow, reducing scientific
+organization to a chart; this use too is not to be regarded as anything to do
+with science.—This formalism, of which we have already spoken generally
+and whose style we wish here to specify in more detail, supposes that it has
+comprehended and expressed the nature and the life of a shape when it has
+affirmed of it some determination of the schema as a predicate—it may be
+subjectivity or objectivity or, again, magnetism, electricity, etc., contraction
+or expansion, east or west, and the like. This can be multiplied to infinity,
+since in this way each determination or shape can be used again as a form
+or moment of the schema in the case of the other determination or shape,
+and each can gratefully perform the same service for the other—a circle of
+reciprocity by which one does not experience what the Thing itself is, not
+what the one is nor what the other is. Here, sometimes sensory
+determinations are taken up from ordinary intuition, and they are supposed,
+of course, to mean something other than what they say; sometimes what is
+in itself meaningful, the pure determinations of thought, such as subject,
+object, substance, cause, the universal, etc., are used just as indiscriminately
+and uncritically as they are in ordinary life, and as are strengths and
+weaknesses, expansion and contraction, so that this metaphysics is as
+unscientific as these sensory representations. !
+
+451. Instead of the inner life and the self-movement of its Being-there,
+such a simple determinacy of intuition—that is, in this case, sensory
+knowledge—is now expressed according to a superficial analogy, and this
+external and empty application of the formula is called construction—The
+case with this sort of formalism is the same as with any other. What sort of
+blockhead would someone have to be, if he could not be taught in a quarter
+of an hour the theory that there are asthenic, sthenic, and indirectly asthenic
+diseases, and as many types of cure, and if he could not hope, since until
+quite recently such instruction still sufficed for the purpose, to be
+transformed in this short time from a family doctor into a theoretical
+physician? When the formalism of the philosophy of nature teaches, say,
+that the intellect is electricity, or the animal is nitrogen or, again, equal to
+the south or north, etc., or represents it by a proxy, whether as baldly as it is
+expressed here or concocted with more technical terminology, then
+inexperience may be overcome by admiration and amazement at such force,
+which grasps together the seemingly remote, and at the violence that the
+inert sensory undergoes through this combination, a violence that imparts to
+
+the sensory the semblance of a concept but shirks the main Thing, which is
+to express the concept itself or the meaning of the sensory representation.
+Inexperience may venerate in all this a profound genius. It may delight, too,
+in the lustre of such determinations, since they replace the abstract concept
+with intuitive clarity and make it more gratifying; and it may congratulate
+itself on the kinship of soul it feels with such a splendid performance. The
+knack of this kind of wisdom is as quickly learned as it is easy to practise;
+the repetition of it, when it is familiar, becomes as insufferable as the
+repetition of a conjuring trick already seen through. The instrument of this
+monotonous formalism is no harder to handle than a painter’s palette having
+only two colours, say red and green, the red for colouring the surface when
+a historical scene is required, the green for landscapes.—It would be hard to
+decide which is greater here, the ease with which everything in heaven and
+on earth and under the earth is coated with this broth of colour, or the vain
+pride in the excellence of this universal recipe: each supports the other. This
+method sticks the few determinations of the universal schema onto
+everything heavenly and terrestrial, on all natural and spiritual formations,
+in this way classifying everything; and what it produces is nothing less than
+a report as clear as daylight on the organism of the universe, that is, a chart
+resembling a skeleton with bits of paper stuck on it, or like the rows of
+closed boxes, with labels attached, in a spice-seller’s stall. The chart is as
+clear as each of these; and just as in the first case flesh and blood has been
+removed from the bones, while in the second case the Thing, also bereft of
+life, is hidden in the boxes, so too the chart has left out or hidden the living
+essence of the Thing.—We have already remarked that this approach at the
+same time culminates in monochrome, absolute painting: ashamed of the
+distinctions of the schema, it submerges them, as belonging to reflection, in
+the emptiness of the absolute, so that pure identity, formless white, is
+produced. This uniform colouring of the schema and of its lifeless
+determinations, this absolute identity, and the transition from one to the
+other, are all alike dead understanding and all alike external cognition.!
+
+452. Excellence cannot escape the fate of being thus robbed of life and
+spirit, of being flayed and then seeing its skin wrapped around lifeless
+knowledge and its vanity. But that is only part of the picture. In this very
+fate we can discern the power that excellence exerts on hearts, if not on
+minds, as well as the development to universality and determinacy of form
+
+in which its perfection consists, and which alone makes it possible for this
+universality to be used in a superficial way.!
+
+53. Science has to organize itself only by the concept’s own life; the
+determinacy that is taken from the schema and externally stuck onto Being-
+there, is, in science, the self-moving soul of the fulfilled content. The
+movement of that which is consists, on the one hand, in becoming an other
+to itself, and so becoming its own immanent content; on the other hand, that
+which is takes back into itself this unfolding or this Being-there of itself,
+that is, it makes itself a moment and simplifies itself into determinacy. In the
+first movement, negativity is the distinguishing and the positing of Being-
+there; in this return into itself, it is the becoming of the determinate
+simplicity. It is in this way that the content shows that its determinacy is not
+received from something else and fastened on it, but it gives determinacy to
+itself and ranges itself by itself to a moment and to a place in the whole.
+The tabular understanding keeps for itself the necessity and the concept of
+the content, keeps for itself what constitutes the concreteness, the actuality,
+and living movement of the Thing that it arranges; or rather, it does not
+keep this for itself, it is not even aware of it; for if it had this insight, it
+would surely reveal it. It is not even aware of the need for such insight;
+otherwise it would abandon its schematizing, or at least realize that it is no
+more use to it than a table of contents. A table of contents is all that the
+understanding gives, the content itself it does not supply—Even when the
+determinacy, one such as magnetism for example, is in itself concrete or
+actual, it is still reduced to something dead, since it is only predicated of
+another Being-there and not cognized as immanent life of this Being-there,
+or as having its native and peculiar self-generation and presentation in this
+Being-there. To add this main Thing is something the formal understanding
+leaves to others.—Instead of entering into the immanent content of the
+Thing, the understanding always surveys the whole and stands above the
+singular Being-there of which it speaks, that is, it does not see it at all.
+Scientific cognition, by contrast, requires one to surrender to the life of the
+object, or, what amounts to the same thing, to focus on and express its inner
+necessity. Immersing itself thus in its object, scientific cognition forgets that
+survey, which is merely the reflection of knowledge away from the content
+and into itself. But engrossed in the material and moving forward along
+with it, scientific cognition does return into itself, but not before the filling
+or content withdraws into itself, simplifies itself into determinacy, reduces
+
+itself to one side of a Being-there and passes over into its higher truth. In
+this way the simple, self-surveying whole itself emerges from the wealth in
+which its reflection seemed lost.!
+
+q54. In general, because, as we expressed it above, substance is
+inherently subject, all content is its own reflection into itself. The
+subsistence or substance of its Being-there is equality-with-itself; for its
+inequality with itself would be its dissolution. Equality-with-self, however,
+is pure abstraction; and pure abstraction is thinking. When I say quality, I
+mean the simple determinacy; in virtue of the quality a Being-there is
+distinct from another, or is a Being-there; it is for itself, or it subsists in
+virtue of this simple uniformity with itself. But it is thereby essentially the
+thought.—It is comprehended in this that Being is thinking; this is the
+source of the insight which usually eludes the ordinary unconceptual talk
+about the identity of thinking and Being —Now because the subsistence of
+the Being-there is equality-with-itself or pure abstraction, it is the
+abstraction of itself from itself, or it is itself its inequality with itself and its
+dissolution,—its own inwardness and withdrawal into itself,—its becoming.
+—Because this is the nature of that which is, and insofar as that which is
+has this nature for knowledge, knowledge is not the activity that deals with
+the content as something alien, is not reflection-into-itself away from the
+content; science is not that idealism which took the place of the dogmatism
+of assertion as a dogmatism of assurance or the dogmatism of certainty of
+one’s own Self; on the contrary, since knowledge sees the content returning
+into its own inwardness, its activity is both absorbed in the content, for it is
+the immanent Self of the content, and at the same time it has returned into
+itself, for it is pure equality-with-itself in otherness; thus it is the cunning
+which, while seeming to abstain from activity, watches to see how
+determinacy and its concrete life, just where it supposes it is pursuing its
+own self-preservation and particular interest, is the reverse, a doing that
+dissolves itself and makes itself a moment of the whole.!
+
+455. Earlier we specified the significance of the understanding with
+regard to the self-consciousness of substance; we can now see clearly from
+what has been said here its significance with respect to the determination of
+substance as it simply is.—Being-there is quality, determinacy equal-to-
+itself or determinate simplicity, determinate thought; this is the
+understanding of Being-there. Consequently, Being-there is nous, which
+Anaxagoras was the first to recognize as the essence. His successors
+
+conceived the nature of Being-there more determinately as eidos or idea,
+that is, determinate universality, kind. The expression kind may seem too
+commonplace and too slight for the Ideas, for the beautiful and holy and
+eternal, which are all the rage nowadays. But in fact the Idea expresses
+neither more nor less than kind. But nowadays we often see an expression
+which determinately designates a concept spurned in favour of one which,
+if only because it belongs to a foreign language, shrouds the concept in fog
+and hence sounds more edifying.—Precisely because Being-there is
+determined as kind, it is simple thought; the nous, simplicity, is the
+substance. On account of its simplicity or equality-with-itself substance
+appears as fixed and enduring. But this equality-with-itself is also
+negativity; that is why that firm Being-there passes over into its dissolution.
+At first the determinacy seems to be what it is only because it is related to
+an other, and its movement seems to be imposed on it by an alien power;
+but it is precisely involved in this simplicity of thinking itself that the
+determinacy has its very otherness in it and is self-movement; for this
+simplicity is the self-moving and self-differentiating thought, it is its own
+inwardness, the pure concept. Thus the intellectuality of the understanding
+is a becoming and, as this becoming, it is rationality.'
+
+456. It is the nature of that which is, to be its own concept in its Being,
+and it is in this nature that in general logical necessity consists. This alone is
+the rationality and the rhythm of the organic whole; it is knowledge of the
+content, just as much as the content is concept and essence—or it alone is
+the speculative-—The concrete shape, moving itself, makes itself into a
+simple determinacy; it thereby raises itself to logical form, and is in its
+essentiality; its concrete Being-there is just this movement, and is
+immediately logical Being-there. That is why it is unnecessary to impose
+formalism on the content externally; the content is inherently a transition to
+formalism, which ceases, however, to be this external formalism, since the
+form is the native becoming of the concrete content itself.
+
+457. So this is the nature of scientific method, first, to be inseparable
+from the content, and secondly, to determine its own rhythm by itself; as we
+have already remarked, this nature has its proper presentation in speculative
+philosophy.—What we have said here does express the concept, but cannot
+count for more than an anticipatory assurance. Its truth does not lie in this
+partly narrative exposition, and is therefore just as little refuted by assuring
+us that, on the contrary, it is not so, that such and such is rather the case, by
+
+calling to mind and reciting conventional ideas, as if they were settled and
+familiar truths, or again by assuring us of novelties served up from the
+shrine of inner divine intuition—This sort of reception is usually the first
+reaction on the part of knowledge to something unfamiliar: it resists it in
+order to save its freedom and its own insight, its own authority, from the
+alien authority (for this is the guise in which what is newly encountered first
+appears)—also to get rid of the semblance that something has been learned
+and of the kind of shame this is supposed to involve. Similarly, when the
+unfamiliar is greeted with applause, the reaction is of the same kind, and
+consists in what in another sphere was ultra-revolutionary speech and
+action.!
+
+458. The important thing, therefore, in the study of science, is to take on
+oneself the exertion of the concept. This requires attention to the concept as
+such, to the simple determinations, e.g. of being-in-itself, being-for-itself,
+equality-with-self, etc.; for these are pure self-movements such as could be
+called souls if their concept did not designate something higher than soul.
+The habit of running on in representations, when it is interrupted by the
+concept, finds it just as irksome as does formal thinking that ratiocinates
+back and forth in thoughts bereft of actuality. That habit should be called a
+material thinking, a contingent consciousness that is absorbed only in the
+stuff, and therefore finds it painful at the same time to lift its Self clear of
+the matter, and to be together with itself. By contrast, the other mode,
+ratiocination, is freedom from content and vain condescension towards it;
+what is required of it is the effort to give up this freedom and, instead of
+being the wilfully moving principle of the content, to submerge this
+freedom in it, to let the content move by its own nature, that is, by the Self
+as its own Self, and to contemplate this movement. Renunciation of
+personal intrusion into the immanent rhythm of concepts, avoidance of
+intervention in the rhythm with wilfulness and wisdom garnered elsewhere,
+this abstention is itself an essential moment of attention to the concept.!
+
+59. In the ratiocinative attitude we need to pay more attention to the
+two aspects in respect to which conceptual thinking is opposed to it.—First,
+it adopts a negative attitude towards the content it apprehends; it knows
+how to refute it and annihilate it. That something is not the case,—this
+insight is the merely negative; it is a dead end that does not lead to a new
+content beyond itself; in order to have a content again, something else must
+be taken on from somewhere. Ratiocination is reflection into the empty I,
+
+the vanity of its knowledge.—But this vanity expresses not only the vanity
+of this content, but also the vanity of this insight itself; for this insight is the
+negative that does not see the positive within itself. Because this reflection
+does not get its own negativity as its content, it never gets inside the Thing,
+but is always beyond it; for this reason it imagines that with its affirmation
+of the void it is always way ahead of an insight rich in content. By contrast,
+in conceptual thinking, as we have shown above, the negative belongs to
+the content itself, and is the positive, both as the immanent movement and
+determination of the content, and as the whole of this movement. Conceived
+as a result, it is what emerges from this movement, the determinate
+negative, and consequently a positive content as well.!
+
+60. But in view of the fact that such thinking has a content, whether of
+representations or thoughts or a mixture of both, it has another aspect which
+makes comprehension difficult for it. The remarkable nature of this aspect
+is closely connected with the above-mentioned essence of the Idea itself, or
+rather it expresses the Idea in its appearance as the movement which is
+thinking apprehension.—For whereas, in its negative attitude, which we
+have just discussed, ratiocinative thinking is itself the Self into which the
+content returns, in its positive cognition, by contrast, the Self is a
+represented subject to which the content is related as accident and predicate.
+This subject constitutes the basis to which the content is attached, and upon
+which the movement runs back and forth. Conceptual thinking adopts a
+different approach. Since the concept is the object’s own Self, which
+presents itself as its becoming, it is not a static subject, which supports the
+accidents without moving; it is, on the contrary, the concept that moves
+itself and takes its determinations back into itself. In this movement the
+static subject itself perishes; it enters into the differences and the content,
+and it constitutes the determinacy, i.e. the differentiated content as well as
+its movement, instead of remaining opposed to it. The firm ground which
+ratiocination has in the static subject therefore shudders, and only this
+movement itself becomes the object. The subject that fulfils its content
+ceases to go beyond it, and cannot have any other predicates or accidents.
+Conversely, the dispersion of the content is thereby bound together under
+the Self; the content is not the universal which, free of the subject, would fit
+several. And so the content is, in fact, no longer a predicate of the subject; it
+is the substance, it is the essence and the concept of what we are talking
+about. It is the nature of representational thinking to follow the accidents or
+
+predicates and to go beyond them, and rightly so, since they are nothing
+more than predicates and accidents; but it is stopped in its tracks, when
+what has the form of a predicate in a proposition is the substance itself. It
+suffers, as we might represent it, a counter-thrust. It starts from the subject
+as if this remained the underlying ground, but since the predicate is really
+the substance, it finds that the subject has passed over into the predicate and
+has thereby been sublated; and, since in this way what seems to be the
+predicate has become the whole and independent mass, thinking cannot
+roam about freely, but is impeded by this weight—Usually, the subject is
+first made the ground, as the objective, fixed Self; from there the necessary
+movement proceeds to the multiplicity of determinations or predicates.
+Here, the knowing I itself comes in to take the place of this subject and
+serves as the nexus of the predicates and as the subject supporting them.
+This second subject means to have done with the first subject and to return
+into itself beyond it. But since the first subject enters into the
+determinations themselves and is their soul, the second subject, namely the
+knowing subject, still finds it there in the predicate, and instead of being
+able to be the driving force in the movement of the predicate, deciding by
+ratiocination whether this or that predicate is to be ascribed to the first
+subject, it still has to deal with the Self of the content, is supposed to
+cooperate with it instead of being for itself.!
+
+{61. What we have said can be formally expressed like this: the nature
+of the judgement or proposition in general, which involves the distinction of
+subject and predicate, is destroyed by the speculative proposition, and the
+identical proposition which the former becomes contains the counter-thrust
+against the subject-predicate relationship.—This conflict between the form
+of a proposition in general and the unity of the concept which destroys it
+resembles the conflict that occurs in rhythm between metre and accent.
+Rhythm results from the floating centre and the unification of the two. So,
+too, in the philosophical proposition the identity of subject and predicate is
+not supposed to destroy the difference between them, which the form of the
+proposition expresses; their unity, rather, is supposed to emerge as a
+harmony. The form of the proposition is the appearance of the determinate
+sense, or the accent that distinguishes its fulfilment; but the fact that the
+predicate expresses the substance, and that the subject itself falls into the
+universal, is the unity in which the accent dies away.!
+
+462. Some examples will clarify what we have said. In the proposition
+God is Being, the predicate is Being; it has a substantial meaning in which
+the subject dissolves. Being is here supposed to be not a predicate, but the
+essence; because of this, God seems to cease to be that which he is in virtue
+of the structure of the proposition, viz. the fixed subject—Instead of
+making headway in the transition from subject to predicate, thinking feels
+impeded by the loss of the subject and, because it misses it, is thrown back
+onto the thought of the subject; or, since the predicate itself is expressed as
+a subject, as the Being, as the essence that exhausts the nature of the
+subject, thinking finds the subject immediately in the predicate too; and
+now, instead of entering into itself in the predicate and maintaining the free
+position of ratiocination, it is still absorbed in the content, or is at least
+faced with the requirement to be absorbed in it—So, too, when one says:
+the Actual is the Universal, the Actual as subject disappears in its predicate.
+The Universal is not supposed to have only the meaning of a predicate, in
+which case the proposition would assert that the Actual is universal; on the
+contrary, the Universal is supposed to express the essence of the Actual.—
+Thinking therefore loses the firm objective basis it had in the subject
+inasmuch as, in the predicate, it is thrown back onto the subject, and, in the
+predicate, it does not return into itself, but into the subject of the content.!
+
+463. This unaccustomed inhibition is in large measure the source of the
+complaints about the unintelligibility of philosophical writings, when apart
+from that the other cultural requirements for understanding them are present
+in the individual. In what we have said we see the reason for the entirely
+determinate reproach often made against philosophical works: that so much
+has to be read repeatedly before it can be understood—a reproach whose
+burden is supposed to be so outrageous and final that, if well founded, it
+admits of no rejoinder.—It is clear from the above what the situation is. The
+philosophical proposition, since it is a proposition, evokes the opinion that
+the ordinary relationship between subject and predicate and the usual
+attitude of knowledge obtain. The philosophical content of the proposition
+destroys this attitude and the opinion about it; the opinion learns by
+experience that the meaning is otherwise than it opined; and this correction
+of its opinion compels knowledge to go back to the proposition and now
+take it in another way.!
+
+164. A difficulty that should be avoided comes from mixing together the
+speculative mode and the ratiocinative mode, when what is said of the
+
+subject at one time has the meaning of its concept, while at another time it
+has only the meaning of its predicate or accidental property—The one
+mode interferes with the other, and only a philosophical exposition of the
+sort that strictly excluded the ordinary type of relationship between the parts
+of a proposition would attain plasticity.!
+
+465. In fact non-speculative thinking has its right, which is valid, but
+disregarded in the mode of the speculative proposition. The sublation of the
+form of the proposition must not take place only in an immediate manner,
+not through the mere content of the proposition. Rather, this opposite
+movement must be expressed; it must not just be that internal inhibition, but
+rather this return of the concept into itself must be presented. This
+movement, which constitutes what proof was formerly supposed to
+accomplish, is the dialectical movement of the proposition itself. This
+movement alone is the actual speculative, and only the expression of this
+movement is speculative presentation. As a proposition, the speculative is
+only the internal inhibition and the return of the essence into itself, but a
+return lacking Being-there. Hence we often see ourselves referred by
+philosophical expositions to this inner intuition, and in this way what we
+required, the presentation of the dialectical movement of the proposition, is
+withheld.—The proposition is supposed to express what the true is; but
+essentially the true is subject; as such it is just the dialectical movement,
+this procession that generates itself, steers its own course, and returns into
+itself—In the other sort of cognition proof constitutes this aspect, the
+expressed inwardness. But once the dialectic has been separated from proof,
+the concept of philosophical demonstration has in fact been lost.!
+
+{66. On this score it can be pointed out that the dialectical movement
+likewise has propositions for its parts or elements; the difficulty indicated
+seems, therefore, always to recur and to be a difficulty of the Thing itself —
+This is like what happens in ordinary proof, where the grounds that it uses
+themselves again need grounding, and so on ad infinitum. But this form of
+grounding and conditioning belongs to the sort of demonstration that is
+different from the dialectical movement and so belongs to external
+cognition. As regards the dialectical movement itself, its element is the pure
+concept; it thus has a content which is, in its own self, subject through and
+through. Thus no content occurs which functions as an underlying subject,
+and whose meaning is assigned to it as a predicate; the proposition is
+immediately just an empty form.—Apart from the sensorily intuited or
+
+represented Self, it is mainly the name as name that designates the pure
+subject, the empty unconceptual One. For this reason it can be useful, e.g.,
+to avoid the name God, since this word is not immediately at the same time
+a concept, but rather the authentic name, the steady repose of the underlying
+subject; whereas e.g., Being or the One, singularity, the subject, etc.
+themselves immediately indicate concepts as well.—Even if speculative
+truths are said of this subject, all the same their content lacks the immanent
+concept, because this content is present as a static subject, and through this
+circumstance such truths readily assume the form of mere edification.—
+From this side, too, the obstacle that arises from the habit of conceiving the
+speculative predicate according to the form of a proposition, and not as
+concept and essence, can be increased or diminished on the responsibility of
+the philosophical presentation itself. The presentation must, faithful to the
+insight into the nature of the speculative, retain the dialectical form and
+accept nothing except insofar as it is conceptualized and is the concept.!
+967. If the ratiocinative attitude is a hindrance to the study of
+philosophy, the conceit that flaunts settled truths without any ratiocination
+is no less so. The possessor of such truths sees no need to come back to
+them; he makes them the foundation and believes he can not only express
+them, but also judge and dispute by means of them. In view of this, it is
+particularly necessary that philosophizing should be made a serious
+business again. In the case of all sciences, arts, skills, and crafts, people are
+convinced that a complex and laborious programme of learning and practice
+is necessary for competence. Yet when it comes to philosophy, it seems that
+the dominant prejudice is now that, although not everyone who has eyes
+and fingers, and gets leather and a tool, is thereby in a position to make
+shoes, everyone nevertheless immediately understands how to philosophize,
+and how to evaluate philosophy, since he possesses the yardstick for it in
+his natural reason—as if he did not equally possess the measure of a shoe in
+his own foot.—It seems that philosophical competence is made to consist
+precisely in lack of information and study, as though philosophy left off
+where they begin. Philosophy is often regarded as a formal kind of
+knowledge, void of content, and the insight is sorely lacking that, whatever
+truth there may be in the content of any discipline or science, it can only
+deserve the name if it has been engendered by philosophy; that the other
+sciences can try their hand as much as they like at ratiocination without
+
+philosophy, but without it they can have in them neither life, nor spirit, nor
+truth.!
+
+168. As for genuine philosophy, it lies at the end of a long journey of
+education, a movement as rich as it is profound, through which spirit arrives
+at knowledge. Instead of this we see sound common sense, which has never
+exerted or educated itself with genuine philosophy or other knowledge, and
+the immediate revelation of the divine, considering themselves a perfect
+equivalent of this journey and as good a substitute for it as chicory is
+reputed to be for coffee. It is not pleasant to observe that ignorance and the
+crudity without form or taste, that cannot itself focus its thinking on a single
+abstract proposition, still less on the connection of several propositions,
+sometimes claims to be freedom and tolerance of thinking, sometimes even
+genius. Genius, as we know, was once all the rage in poetry, as it now is in
+philosophy; but when the production of this genius made any sense, instead
+of poetry it generated trivial prose or, if it went beyond that, deranged
+speeches. Similarly nowadays a natural way of philosophizing, which
+regards itself as too good for the concept and as being, because of its lack of
+the concept, an intuitive and poetic type of thinking, brings to market the
+wilful combinations of an imagination that has only been disorganized by
+thought,—creations that are neither fish nor fowl, neither poetry nor
+philosophy.!
+
+469. On the other hand, when natural philosophizing flows along the
+calmer channel of sound common sense, it offers at best a rhetoric of trivial
+truths. If reproached with the insignificance of these truths, it assures us in
+response that their sense and fulfilment reside in its heart, and so must be
+present in the hearts of others too, since in general it thinks that with the
+innocence of the heart and the purity of conscience and the like it has said
+the last word, to which no objection can be raised, and beyond which
+nothing more can be demanded. But the point was this: that the best should
+not remain behind in the interior, but brought out of this cavern into the
+light of day. The effort of advancing ultimate truths of that kind could have
+been avoided long ago; for they have long since been available in the
+catechism, in popular proverbs, and so on.—It is not difficult to spot the
+indeterminacy or contortion in such truths, often it is easy to disclose the
+opposite truths to the consciousness of them within that self-same
+consciousness. When it struggles to extricate itself from the confusion
+induced in it, consciousness will fall into a new confusion, and may well
+
+resort to the outburst that the case is definitively such and such, and all the
+rest is sophistries—a catch phrase of ordinary common sense against
+cultivated reason, just as ignorance of philosophy has adopted the
+expression daydreaming to brand it once and for all—Since common sense
+appeals to feeling, to its internal oracle, it has nothing to do with anyone
+who does not agree; it must explain that it has nothing more to say to
+anyone who does not find and feel the same in himself;—in other words, it
+tramples underfoot the root of humanity. For it is the nature of humanity to
+press for agreement with others, and its existence resides only in the
+achieved community of consciousnesses. The anti-human, the bestial,
+consists in confinement to feeling, and in being able to communicate only
+
+by this means.!
+
+170. If anyone were to ask for a royal road to science,! no more
+
+convenient route can be suggested than to rely on sound common sense and
+also, incidentally, for the purpose of keeping abreast of the times and
+philosophy, to read reviews of philosophical works, perhaps even their
+prefaces and opening paragraphs; for the latter give the general principles
+on which everything depends, and reviews give, besides the historical
+summary, the assessment too, which, being an assessment, stands above the
+object assessed. One follows this common route in casual dress; but the
+exalted feeling of the eternal, the holy, the infinite strides along in the robes
+of a high priest— on a route that is rather already itself the immediate
+Being in the centre, the genius of profound original Ideas and exalted
+flashes of thought. However, just as such profundity does not yet reveal the
+source of the essence, so too these pyrotechnics are not yet the empyrean.7
+True thoughts and scientific insight are to be won only in the labour of the
+concept. The concept alone can produce the universality of knowledge that
+is not the ordinary indeterminacy and poverty of ordinary common sense,
+but cultivated and completed cognition; nor is it the extraordinary
+universality of the gift of reason corrupting itself by indolence and conceit
+of genius, but the truth matured to its natural form,—a truth capable of
+being the property of all self-conscious reason.°
+
+171. I locate that by which science exists in the self-movement of the
+concept. But the ideas of our time about the nature and shape of truth
+diverge from this position, both in the ways cited above and in other
+superficial respects; in fact they are entirely at odds with it. This
+consideration promises, it seems, no favourable reception for an attempt to
+
+present the system of science in this determination. Meanwhile I can reflect
+that if, for example, at times the excellence of Plato’s philosophy is located
+in his scientifically worthless myths, there have also been times, even called
+times of enthusiasm, when Aristotle’s philosophy was esteemed for its
+speculative depth, and Plato’s Parmenides (surely the greatest work of art
+of the ancient dialectic) was regarded as the true disclosure and positive
+expression of the divine life, times when, even with all the obscurity
+generated by ecstasy, this misunderstood ecstasy was in fact supposed to be
+nothing other than the pure concept.' I reflect too that the excellence in the
+philosophy of our time locates its own value in its scientific character, and
+even if the others take it in another way, it is in fact only by its scientific
+character that it makes its mark. And so I too can hope that this attempt to
+vindicate science for the concept, and to present it in this its peculiar
+element, will know how to make its way by the inner truth of the Thing
+itself. We must remain convinced that it is the nature of the true to win
+through when its time has come, and that it appears only when its time has
+come, and therefore never appears prematurely, nor finds a public unripe for
+receiving it; we must also be convinced that the individual needs this effect
+in order to confirm what is as yet a Thing for himself alone, and to
+experience as something universal the conviction which at first belongs
+only to particularity. But in this connection the public must often be
+distinguished from those who behave as its representatives and spokesmen.
+In many respects the attitude of the public is quite different from, even
+contrary to, that of these spokesmen. Whereas the public good-naturedly
+prefers to blame itself when a philosophical work does not appeal to it,
+these others, by contrast, certain of their competence, put all blame on the
+author. The effect on the public is quieter than the activity of these dead
+when they bury their dead.* In general our insight now is altogether more
+cultivated, its curiosity more alert, and its judgement more swiftly formed,
+so that the feet of those who will carry you out are already at the door.’ But
+from this we must often distinguish the slower effect which rectifies the
+attention extorted by impressive assurances and corrects contemptuous
+censure, and gives some a place in the world of today only after a time,
+while others after a time have no place in the world of tomorrow.
+
+472. Incidentally, at a time when the universality of spirit has grown so
+much stronger and singularity, as is fitting, has become correspondingly
+less important, when, too, universality claims and holds on to its whole
+
+range and cultivated wealth, the share in the total work of spirit that falls to
+the activity of the individual can only be small. Because of this, the
+individual must all the more forget himself, as the nature of science in any
+case requires. Of course, he must become and do what he can; but less must
+be demanded of him, just as he in turn can expect less of himself, and may
+demand less for himself.!
+
+Introduction
+
+473. It is a natural idea that in philosophy, before we come to deal with the
+Thing itself, namely with the actual cognition of what in truth is, it is
+necessary first to come to an understanding about cognition, which is
+regarded as the instrument by which we take possession of the absolute, or
+as the medium through which we catch sight of it. The concern seems
+justified, on the one hand that there may be various kinds of cognition, and
+one of them might be handier than another for the attainment of this goal,
+and so by a wrong choice among them,!—and on the other hand that, since
+cognition is a capacity of a determinate kind and scope, without a more
+precise determination of its nature and limits, we shall get hold of clouds of
+error instead of the heaven of truth. What is more, this concern must surely
+turn into the conviction that the whole enterprise of securing for
+consciousness that which is in itself through cognition is absurd in its
+concept, and that between cognition and the absolute there lies a boundary
+that completely divides them. For, if cognition is the instrument for gaining
+possession of the absolute essence, it is immediately obvious that the
+application of an instrument to a Thing does not in fact leave it as it is for
+itself, but rather effects a forming and alteration of it. Or if cognition is not
+an instrument of our activity but a sort of passive medium through which
+the light of truth reaches us, then again we do not receive the truth as it is in
+itself, but only as it is through and in this medium. In both cases we use a
+means which immediately brings about the opposite of its intended aim; or
+what is really absurd is that we make use of a means at all. It seems, no
+doubt, that this drawback can be remedied through an acquaintance with the
+way in which the instrument works; for this enables us to subtract from the
+result the instrument’s own contribution to the representation of the
+absolute which we gain by its means, and so to get the true in its purity. But
+this improvement would in fact only bring us back to where we were
+before. If from a thing we have formed we take away again what the
+instrument has done to it, then the thing—here the absolute—is for us
+exactly what it was before this now superfluous effort. If the instrument is
+supposed merely to bring the absolute a little closer to us, without altering
+anything in it, like a bird caught by a lime-twig, it would surely deride this
+
+ruse, if it were not in and for itself already with us and willing to be so; for
+in this case cognition would be a ruse, since by its complex endeavour it
+assumes the air of doing something quite different from simply establishing
+an immediate and thus effortless relation. Or if an examination of cognition,
+which we represent as a medium, acquaints us with the law of its refraction,
+it is again useless to subtract the refraction from the result; for cognition is
+not the refraction of the ray, but the ray itself by which truth reaches us, and
+if this were subtracted, only the pure direction or blank space would have
+been indicated to us.*
+
+474. Meanwhile, if concern about falling into error injects a mistrust into
+science, which without any such misgivings gets on with the job itself and
+actually cognizes, it is hard to see why we should not, conversely, inject a
+mistrust into this mistrust and be concerned that this fear of erring is really
+the error itself. In fact this fear presupposes something, a great deal in fact,
+as truth, and it supports its misgivings and inferences on what itself needs to
+be examined first to see if it is truth. That is to say, it presupposes
+representations of cognition as an instrument and medium, also a distinction
+between ourselves and this cognition; but above all, it presupposes that the
+absolute stands on one side and cognition on the other side, for itself and
+separated from the absolute, and yet is something real or, to put it bluntly, it
+presupposes that cognition which, since it is outside the absolute, is surely
+outside the truth as well, is nevertheless genuine, an assumption whereby
+what calls itself fear of error stands exposed rather as fear of truth.!
+
+475. This conclusion stems from the fact that the absolute alone is true,
+or the true alone is absolute. The conclusion can be rejected by drawing a
+distinction: a cognition that does not cognize the absolute, as science aims
+to, can nevertheless be true as well, and cognition in general, though it may
+be incapable of grasping the absolute, can still be capable of some other
+truth. But we gradually come to see that beating about the bush in this way
+comes down to a murky distinction between an absolutely true and some
+other kind of true, and that the absolute, cognition, etc. are words that
+presuppose a meaning that first needs to be ascertained.!
+
+q76. There is an alternative to tormenting ourselves with such useless
+ideas and stock phrases about cognition as an instrument for getting hold of
+the absolute, or as a medium through which we catch sight of the truth—
+and surely all these ideas of a cognition separated from the absolute, and an
+absolute separated from cognition, amount to those relationships; there is no
+
+need to bother with excuses which derive the incapacity of science from the
+presupposition of such relationships as these, in order to free oneself of the
+toil of science while at the same time assuming the air of serious and
+zealous endeavour; nor need we struggle for answers to all this. Instead of
+that we could reject them out of hand as contingent and arbitrary
+representations, and the associated use of words like the absolute, cognition,
+as well as the objective and the subjective and countless others, whose
+meaning is presupposed as universally familiar, could even be regarded as a
+fraud. For the pretence not just that their meaning is universally familiar,
+but also that their concept is in one’s own possession, looks more as if it is
+supposed to avoid the main Thing, namely, to provide this concept. On the
+other hand, we could, with more right, spare ourselves the trouble of taking
+any notice at all of such ideas and locutions, with which science itself is
+supposed to be kept at bay; for they only amount to an empty appearance of
+knowing, which vanishes immediately when science itself comes on the
+scene. But science, in virtue of coming on the scene, is itself an appearance;
+its entrance is not yet science developed and expanded in its truth. It makes
+no difference here whether we suppose that science is the appearance
+because it comes on the scene along with something else, or whether we
+call that other untrue knowledge its appearing. But science must free itself
+of this semblance; and it can do this only by turing against it. For when
+faced with a sort of knowledge that is not genuine, science can neither just
+reject it as a common view of things, claiming that science is an entirely
+different sort of cognition for which that other knowledge is of no account
+whatever; nor can science appeal to the intimation of something better
+within this other knowledge. By that first claim, science would be declaring
+its Being to be its power; but the untrue knowledge in turn appeals to the
+fact that it is, and claims that for it science is of no account; one bare claim
+is worth just as much as another. Still less can science appeal to the better
+intimation supposedly present in the cognition that is not genuine, to the
+sign within it pointing towards science; because, for one thing, it would
+similarly be appealing again to a Being; but, for another thing, it would be
+appealing to itself in the mode in which it is present in the non-genuine
+cognition, that is, it would be appealing to an inferior mode of its Being and
+to its appearance rather than to how it is in and for itself. It is for this reason
+that the presentation of knowledge as it appears is to be undertaken here.!
+
+477. Now because it has for its object only knowledge as it appears, this
+presentation itself seems not to be the free science, moving in its own
+peculiar shape; rather, from this standpoint it can be regarded as the path of
+the natural consciousness pressing on to true knowledge, or as the way of
+the soul passing through the sequence of its configurations as stations
+prescribed for it by its own nature, so that it may purify itself to spirit and,
+through the complete experience of itself, arrive at the awareness of what it
+is in itself.!
+
+478. Natural consciousness will prove to be only the concept of
+knowledge, or knowledge that is not real. But natural consciousness
+immediately takes itself to be real knowledge, and so this path has a
+negative meaning for it, and it counts what is in fact the realization of the
+concept as the loss of its own self; for on this path it loses its truth. The path
+can therefore be regarded as the way of doubt, or more precisely as the way
+of despair; for what happens on this path is not what is usually understood
+by doubting, shaking some supposed truth or other, followed by a
+convenient disappearance of the doubt and a return to that truth again, so
+that in the end the Thing is taken as it was in the first place. On the contrary,
+this path is the conscious insight into the untruth of knowledge as it
+appears, for which the supreme reality is what is in truth only the unrealized
+concept. That is why this self-accomplishing scepticism is also not the
+accoutrement with which the earnest zeal for truth and science fancies it has
+prepared and equipped itself in their service: with the resolution, namely,
+never in science to surrender upon authority to the thoughts of others, but to
+examine everything oneself and to follow only one’s own conviction, or
+better still, to produce everything oneself and to regard only one’s own deed
+as the true. The series of configurations which consciousness goes through
+on this path is rather the detailed history of the education of consciousness
+itself to science. That resolution represents education as immediately over
+and done with, as a past happening, in the simple manner of the resolution;
+but in contrast to this untruth, this path is the actual performance. To follow
+one’s own conviction is admittedly more than submitting to authority; but
+the conversion of a belief based on authority into a belief from personal
+conviction does not necessarily alter the content of the belief or replace
+error with truth. Involvement in a system of opinion and prejudice on the
+authority of others and involvement in it from personal conviction differ
+only in respect of the vanity that goes with the latter policy. By contrast, the
+
+scepticism that is directed at the whole range of consciousness as it appears
+is what first gives spirit the capacity to investigate what the truth is. For it
+gives rise to a despair in the so-called natural ideas, thoughts, and opinions
+—no matter whether they are called one’s own or someone else’s—whereas
+the consciousness that gets down to its investigation right away is still filled
+and encumbered with them, but because of that it is in fact incapable of the
+task it proposes to undertake.!
+
+479. The completeness of the forms of the consciousness that is not real
+will result from the necessity of the progression and interconnection itself.
+To make this comprehensible, we can in advance make the general remark
+that the presentation in its untruth of the consciousness that is not genuine is
+not a merely negative movement. This is a one-sided view such as the
+natural consciousness generally has of it; and a knowledge which makes
+this one-sidedness into its essence is one of the shapes of unfinished
+consciousness; it occurs in the course of the journey itself and will present
+itself there. To be precise, this is the scepticism that only ever sees pure
+nothing in the result and abstracts from the fact that this nothing is
+determinately the nothing of that from which it results. But the genuine
+result is in fact only the nothing taken as the result of that from which it
+derives; and so the nothing is itself a determinate nothing and has a content.
+The scepticism that ends up with the abstraction of nothing or with
+emptiness cannot go any further from there, but must wait to see whether
+anything new presents itself and, if so, what it is, in order to cast it into the
+Same empty abyss. When, on the other hand, the result is conceived as it is
+in truth, as determinate negation, then a new form has thereby immediately
+arisen, and in the negation the transition is made by which the advance
+through the complete series of shapes ensues of itself.!
+
+480. But the goal is fixed for knowledge just as necessarily as the
+sequence of the advance; it is situated where knowledge no longer needs to
+go beyond itself, where knowledge finds itself, and the concept corresponds
+to the object and the object to the concept. So the advance towards this goal
+is also relentless, and no satisfaction is to be found at any earlier station.
+Whatever is limited to a natural life cannot of its own accord go beyond its
+immediate Being-there; but it is driven beyond it by something else, and
+this uprootedness is its death. But consciousness is for itself its own
+concept, thereby immediately the advance beyond what is limited and, since
+what is thus limited belongs to it, beyond itself; together with the singular
+
+the beyond is also posited for consciousness, even if only alongside the
+limited, as in spatial intuition. Thus consciousness suffers this violence at
+its own hands: it spoils its own limited satisfaction. On feeling this
+violence, anxiety may well draw back before the truth, and strive to
+maintain what it is in danger of losing. But this anxiety can find no rest,
+unless it wishes to remain in thoughtless indolence; thought spoils
+thoughtlessness and its restlessness disturbs indolence; or unless it
+entrenches itself as sentimentality, which claims to find everything good of
+its kind; this claim likewise suffers violence at the hands of reason, which
+finds something no good precisely insofar as it is a kind. Or fear of the truth
+may hide from itself and others behind the illusion that its burning zeal for
+truth is precisely what makes it so difficult, even impossible, for it to find
+any other truth but the sole truth of vanity—that one is always even cleverer
+than any thoughts one draws out of oneself or from others; this vanity
+which understands how to vaporize any truth, understands how to return
+from it into itself and revels in its own understanding, which knows how to
+dissolve every thought and to find the barren I instead of any content, is a
+gratification which must be left to itself; for it flees from the universal and
+seeks only Being-for-itself.!
+
+q81. After these preliminary general comments about the manner and
+necessity of the progression, it may be similarly useful to add a remark
+about the method of carrying it out. This exposition is presented as a
+response of science to knowledge as it appears, and as an investigation and
+examination of the reality of cognition; and so it seems as if it cannot take
+place without some presupposition which is adopted as a standard
+underlying it. For an examination consists in the application of an accepted
+standard, and the decision whether what is being examined is correct or
+incorrect depends on the resulting agreement or disagreement of it with the
+standard; and the standard in general, and science too if that happens to be
+the standard, is thereby accepted as the essence or as the in-itself. But here,
+where science first comes on the scene, neither science itself nor anything
+else has justified itself as the essence or as the in-itself; and without
+something of the sort it seems that no examination can take place.!
+
+482. This contradiction and its removal will emerge more determinately
+if we first recall the abstract determinations of knowledge and of truth as
+they occur in consciousness. To be precise, consciousness distinguishes
+from itself something to which it at the same time relates itself; or, as the
+
+expression goes, there is something for consciousness; and this determinate
+aspect, the relating, or the Being of something for a consciousness, is
+knowing. But from this Being for another we distinguish Being-in-itself,
+what is related to knowing is also distinguished from knowing and posited
+as being outside this relation as well; this aspect, the in-itself, is called
+truth. What is really involved in these determinations is of no further
+concern to us here; for as our object is knowledge as it appears, so too its
+determinations are initially taken up as they immediately present
+themselves; and they present themselves very much as we have conceived
+them.!
+
+183. If we now investigate the truth of knowledge, then it seems that we
+are investigating what knowledge is in itself. Yet in this investigation
+knowledge is our object, it is for us; and the in-itself of knowledge that
+emerged from the inquiry would thus be rather its Being for us; what we
+claimed to be its essence would not be its truth but only our knowledge of
+it. The essence or standard would lie within ourselves, and that which is
+supposed to be compared with it and about which a decision should be
+taken in light of this comparison would not necessarily have to recognize
+the standard.!
+
+984. But the nature of the object we are investigating avoids this
+separation or this semblance of separation and_ presupposition.
+Consciousness provides its standard within itself, and the investigation will
+therefore be a comparison of consciousness with itself; for the distinction
+that has just been made falls within it. In consciousness there is one thing
+for another, or consciousness in general has in it the determinacy of the
+moment of knowledge; at the same time, this other is to consciousness not
+merely for it, but also outside this relation or in itself: the moment of truth.
+Thus in what consciousness declares within itself to be the in-itself or the
+true we have the standard that consciousness itself sets up by which to
+measure its knowledge. If we call knowledge the concept, and call the
+essence or the true, on the other hand, that which is or the object, then the
+examination consists in seeing whether the concept corresponds to the
+object. But if we call the essence or the in-itself of the object the concept,
+and conversely understand by the object the object as object, that is, as it is
+for an other, then the examination consists in seeing whether the object
+corresponds to its concept. It is easy to see that these amount to the same
+thing; but the essential point to bear in mind throughout the whole
+
+investigation is that both these moments, concept and object, Being-for-
+another and Being-in-itself, themselves fall within the knowledge we are
+investigating, and consequently we do not need to import standards, and to
+apply our notions and thoughts in the investigation; it is by leaving these
+aside that we succeed in considering the Thing as it is in and for itself.!
+
+985. So an intervention by us becomes superfluous in this respect, that
+concept and object, the standard and what is to be assessed, are present in
+consciousness itself. But not only that, we are also spared the trouble of
+comparing the two and really assessing them, so that, as consciousness
+assesses itself, all that remains for us in this respect too is simply to look on.
+For consciousness is on the one hand consciousness of the object, on the
+other hand consciousness of itself; consciousness of what to it is the true,
+and consciousness of its knowledge of the true. Since both are for
+consciousness, consciousness itself is their comparison; it becomes a matter
+for consciousness whether its knowledge of the object corresponds to the
+object or not. The object, admittedly, seems to be for consciousness only as
+consciousness knows it; consciousness seems unable, as it were, to get
+behind the scenes to see the object not as it is for consciousness, but as it is
+in itself, and so unable to assess its knowledge by it. However, the very fact
+that consciousness knows of an object at all already involves this
+distinction: to consciousness something is the in-itself, while another
+moment is the knowledge, or the Being of the object for consciousness.
+This differentiation is at hand, and the assessment rests upon it. If in this
+comparison the two do not correspond, then it seems that consciousness
+must alter its knowledge to make it conform to the object; but in the
+alteration of the knowledge, the object itself alters for it too, for the existing
+knowledge was essentially a knowledge of the object: along with the
+knowledge the object too becomes another, for it essentially belonged to
+this knowledge. Hence consciousness finds that what it previously took to
+be the in-itself is not in itself, or that it was in itself only for consciousness.
+Since consciousness thus finds in its object that its knowledge is at odds
+with the object, the object itself does not hold out either; or the standard of
+the assessment alters when that of which it was supposed to be the standard
+fails the test; and the assessment is not only an assessment of the
+knowledge, but also of the standard of the assessment.!
+
+186. This dialectical movement which consciousness exercises on itself,
+on its knowledge as well as on its object, insofar as the new, true object
+
+emerges from it for consciousness, is really what is called experience. In
+this connection there is a moment in the process just mentioned which
+needs to be brought out more clearly, and this will shed a new light on the
+scientific aspect of the following presentation. Consciousness knows
+something, this object is the essence or the in-itself; but it is also the in-itself
+for consciousness; with this the ambiguity of this truth comes in. We see
+that consciousness now has two objects: one is the first in-itself, the second
+is the Being-for-consciousness of this in-itself. The latter seems initially to
+be only the reflection of consciousness into itself, a representing, not of an
+object, but only of its knowledge of that first object. But as we have shown
+above, consciousness thereby has its first object altered; the object ceases to
+be the in-itself, and becomes to consciousness an object that is the in-itself
+only for consciousness; and so this, the Being-for-consciousness of this in-
+itself, is then the true, which means, however, that this is the essence or the
+object of consciousness. This new object contains the nullity of the first, it
+is what experience has made of it.!
+
+87. In this presentation of the course of experience there is a moment in
+virtue of which it does not seem to agree with what is ordinarily understood
+by experience. That is, the transition from the first object and the
+knowledge of it, to the other object, with which, as they say, the experience
+has been had, was specified to the effect that the knowledge of the first
+object, or the for-consciousness of the first in-itself, is itself supposed to
+become the second object. By contrast, it usually seems that we gain the
+experience of the untruth of our first concept with another object which we
+come across by chance and externally, so that all in all only the pure
+apprehension of what is in and for itself falls to us. In the above view,
+however, the new object shows itself to have come about through a reversal
+of consciousness itself. This view of the Thing is our contribution, in virtue
+of which the sequence of consciousness’s experiences is raised to a
+scientific progression and which is not for the consciousness that we are
+considering. But in fact this is the same circumstance as the one discussed
+above in connection with the relationship of our presentation to scepticism,
+namely that in each case the result emerging in an untruthful sort of
+knowledge should not be left to dwindle into an empty nothing, but must
+necessarily be conceived as the nothing of that of which it is the result; a
+result which contains whatever truth the preceding knowledge has in it.
+This presents itself here like this: since what first appeared as the object
+
+sinks to consciousness’s knowledge of it, and the in-itself becomes a Being-
+for-consciousness of the in-itself, this is the new object, bringing on a new
+shape of consciousness too, for which the essence is something different
+from that of the preceding shape. It is this circumstance that guides the
+whole sequence of the shapes of consciousness in their necessity. But it is
+this necessity itself, or the emergence of the new object that presents itself
+to consciousness without its knowing what is happening to it, that for us, as
+it were, goes on behind the back of consciousness. There thus comes into
+the movement of consciousness a moment of Being-in-itself or Being-for-us
+that does not present itself for the consciousness that is comprehended in
+the experience itself; but the content of what we see emerge is for
+consciousness, and we comprehend only its formal aspect, or its pure
+emergence; for consciousness what has thus emerged is only as object, for
+us it is at the same time movement and becoming. !
+
+188. In virtue of this necessity, the path to science is itself already
+science and hence, in keeping with its content, science of the experience of
+consciousness. !
+
+q89. The experience which consciousness has of itself can, in
+accordance with the concept of experience, comprehend within itself
+nothing less than the whole system of consciousness, or the whole realm of
+the truth of spirit, in such a way that the moments of this truth present
+themselves in this peculiar determinacy: they are not abstract, pure
+moments, but as they are for consciousness, or as consciousness itself
+emerges in its relation to them. This is why the moments of the whole are
+shapes of consciousness. In pressing on to its true existence, consciousness
+will reach a point at which it sheds its semblance of being burdened with
+alien material that is only for it and as an other, a point where the
+appearance becomes equal to the essence, where consequently its
+presentation coincides with just this point in the authentic science of spirit;
+and finally, when consciousness itself grasps this its essence, it will signify
+the nature of absolute knowledge itself.!
+
+I. Sensory Certainty: The This and Meaning
+
+790. The knowledge that is our object at first or immediately can be nothing
+other than that which is itself immediate knowledge, knowledge of the
+immediate or what simply is. We have to adopt a similarly immediate or
+receptive approach, and thus alter nothing in the object as it presents itself,
+and exclude conceptualization from apprehension.!
+
+991. The concrete content of sensory certainty makes it immediately
+appear as the richest cognition, indeed as a cognition of infinite wealth for
+which no limit can be found, whether we proceed outwards in the space and
+time in which it extends, or whether we take a piece of this abundance, and
+proceed inwards by dividing it. Moreover, sensory certainty appears as the
+most genuine cognition; for it has not as yet omitted anything from the
+object, but has it before itself in its entirety. But in fact this certainty
+exposes itself as the most abstract and poorest truth. This is all it says about
+what it knows: ‘it is’; and its truth contains only the Being of the Thing.
+Consciousness, for its part, is in this certainty only as pure J; or I am in this
+certainty only as pure This, and the object similarly only as pure This. I, this
+I, am certain of this Thing, not because I, as consciousness, have developed
+myself in the process or set thought in multifarious motion. And not
+because the Thing of which I am certain, is, in virtue of a host of distinct
+qualities, a rich complex of connections within itself, or a variety of
+relationships to other things. Neither of these has anything to do with the
+truth of sensory certainty. In this case neither I nor the Thing has the
+significance of a complex mediation: the I does not have the significance of
+a manifold representing or thinking; nor does the Thing have the
+significance of manifold qualities: no, the Thing is, and it is, only because it
+is. It is—this is what is essential for sensory knowledge, and this pure
+Being, or this simple immediacy, constitutes its truth. In the same way,
+certainty as a relation is an immediate pure relation: consciousness is J,
+nothing more, a pure This; the singleton knows the pure This, or the
+singular.'
+
+q92. But in this pure Being, which constitutes the essence of this
+certainty, and which this certainty claims to be its truth, much more comes
+
+into play, if we look. An actual sensory certainty is not just this pure
+immediacy, but an exemplifying by-play of it.' Among the countless
+differences occurring here we find in every case a crucial difference,
+namely that in sensory certainty the two This’s already mentioned, a This as
+I, and a This as object, issue directly from the pure Being. If we reflect on
+this difference, it emerges that neither the one nor the other is present in
+sensory certainty only immediately; at the same time they are present as
+mediated: | have the certainty through something else, viz. the Thing; and
+similarly the Thing is in the certainty through something else, viz. through
+the 1.2
+
+93. It is not just we who draw this distinction between the essence and
+the byplay, between immediacy and mediation; we find it in sensory
+certainty itself, and the distinction is to be taken up in the form it has in
+sensory certainty, not as we determined it just now. One element in sensory
+certainty is posited as the simple, immediate being, or as the essence, the
+object, while the other is posited as what is unessential and mediated,
+something that in sensory certainty is through an other, not in itself, the I, a
+knowledge that knows the object only because the object is, a knowledge
+that may either be or not be. But the object is, it is the true and the essence;
+it is, no matter whether it is known or not; it remains, even if it is not
+known; but the knowledge is not if the object is not.!
+
+194. So the object needs to be considered, to see whether in sensory
+certainty itself the object is in fact the kind of essence that sensory certainty
+presents it as; whether this concept of it as the essence corresponds to the
+way in which it is present in sensory certainty. To this end, we need not
+reflect on the object and ponder what it might be in truth; we need only
+consider the way in which it is present in sensory certainty.
+
+795. So we have to put the question to sensory certainty itself: What is
+the This? If we take the This in the twofold shape of its Being, as the Now
+and as the Here, the dialectic it has in it will receive a form as intelligible as
+the This itself is. To the question: What is the Now? we answer, for
+example: The Now is the night. In order to test the truth of this sensory
+certainty a simple experiment suffices. We write down this truth; a truth
+cannot lose anything by being written down, nor can it lose anything
+through our preserving it. If now, this noon, we look again at the written
+truth we shall have to say that it has become stale.!
+
+q96. The Now that is night is preserved, i.e. it is treated as what it is
+made out to be, as a being; but it turns out to be, on the contrary, a non-
+being. The Now itself does indeed maintain itself, but as a Now that is not
+night; equally, it maintains itself against the day that it now is, as a Now
+that is also not day, or as a negative in general. This self-maintaining Now
+is, therefore, not an immediate Now but a mediated Now; for it is
+determined as a permanent and self-maintaining Now by the very fact that
+something else, viz. the day and the night, is not. For all that, it is still just
+as simple as before, Now, and in this simplicity it is indifferent to what is
+still in play by its side; the night and the day are definitely not its Being, but
+it is also day and night nonetheless; it is not in the least affected by this its
+other-being. A simple thing of this kind, which is through negation, neither
+This nor That, a not-This, and equally indifferent to being This as well as
+That—we call it a universal. So in fact the universal is the true of sensory
+certainty.!
+
+97. It is also as a universal that we express the sensory. What we say is:
+This, i.e. the universal This, or: it is, i.e. Being in general. Of course, in
+doing so we do not represent to ourselves the universal This or Being in
+general, but we express the universal; or our speech does not strictly
+express what we mean in this sensory certainty. But language, as we see, is
+the more truthful; in it, we ourselves immediately refute our meaning, and
+since the universal is the true of sensory certainty and language expresses
+this true alone, it is just not possible for us ever to say a sensory Being that
+we mean.!
+
+998. The same will be the case with the other form of the This, with the
+Here. The Here is, e.g., the tree. If I turn round, this truth has disappeared
+and is converted into the opposite truth: The Here is not a tree, but a house
+instead. The Here itself does not disappear; no, it is, enduring in the
+disappearance of the house, the tree, etc., and indifferent to whether it is
+house or tree. Again, then, the This shows itself to be mediated simplicity,
+or universality.!
+
+799. This sensory certainty shows, within its own self, the universal to
+be the truth of its object. Pure being remains, then, as the essence of
+sensory certainty, not however as something immediate, but as something to
+which negation and mediation are essential; consequently, it is not what we
+mean by Being, but Being with the determination that it is the abstraction,
+or the purely universal; and our meaning, for which the true of sensory
+
+certainty is not the universal, is all that still remains in the face of this
+empty or indifferent Now and Here.!
+
+q100. If we compare the relationship in which knowing and the object
+first came on the scene, with the relationship in which they come to stand in
+this result, we find that it is reversed. The object, which was supposed to be
+the essential element, is now the inessential element in sensory certainty;
+for the universal which the object has come to be is no longer what the
+object was supposed to be essentially for sensory certainty. On the contrary,
+sensory certainty is now located in the opposite, viz. in knowledge, which
+previously was the inessential element. Its truth is in the object as my
+object, or in my meaning; it is, because I have knowledge of it. Sensory
+certainty, then, is indeed expelled from the object, but it is not yet sublated
+by this, but only driven back into the I. We now have to see what
+experience shows us about this reality of sensory certainty.!
+
+4101. So the force of the truth of sense certainty now lies in the J, in the
+immediacy of my seeing, hearing, and so on; the disappearance of the
+singular Now and Here that we mean is prevented because I hold them fast.
+The Now is day, because I see daylight; the Here is a tree, for the same
+reason. But in this relationship sensory certainty experiences the same
+dialectic within itself as in the previous relationship. I, this I, see the tree
+and affirm the tree as the Here; but another I sees the house and maintains
+that Here is not a tree but a house instead. Both truths have the same
+authentication, viz. the immediacy of seeing, and the security and assurance
+of both about their knowledge; but the one truth vanishes in the other.!
+
+4102. What does not disappear in all this is J, as universal, whose seeing
+is neither a seeing of the tree nor of this house, but a simple seeing which,
+though mediated by the negation of this house, etc., is equally simple and
+indifferent to what is still in play beside it, to the house, the tree. I is only
+universal like Now, Here, or This in general; I do indeed mean a singular I,
+but I can no more say what I mean in the case of I than I can in the case of
+Now and Here. When I say this Here, Now, or a singular, I am saying all
+This’s, all Heres, Nows, singulars. Similarly, when I say I, this singular I, I
+say in general all I’s; what I say is everyone: I, this singular I. When
+science is presented with the challenge, as if it were the acid test it simply
+could not withstand—to deduce, construct, find a priori, or however it is
+expressed, a so-called this thing or a this man, it is only reasonable that the
+
+challenge should say which this thing, or which this I it means; but it is
+impossible to say this.!
+
+4103. So sensory certainty learns by experience that its essence is
+neither in the object nor in the I, and that the immediacy is neither an
+immediacy of the one nor of the other; for in both, what I mean is rather an
+inessential, and the object and I are universals in which that Now and Here
+and I which I mean does not have a continuing subsistence, or is not. In this
+way we come to the point where we posit the whole of sensory certainty
+itself as its essence, and no longer only one of its moments, as happened in
+the two cases where first the object confronting the I, and then the I, was
+supposed to be its reality. Thus it is only sensory certainty as a whole which
+stands firm within itself as immediacy and by so doing excludes from itself
+all the opposition that occurred before.!
+
+4104. This pure immediacy therefore no longer has any concern with the
+otherness of the Here as a tree which passes over into a Here that is a non-
+tree, or with the otherness of the Now as day which passes over into a Now
+that is night, or with another I with another object. Its truth maintains itself
+as a relation that remains equal to itself, and which makes no distinction
+between the I and the object with regard to what is essential and what is
+unessential, and so no distinction at all can penetrate into it either. So I, this
+I, affirm the Here as a tree, and do not turn round so that the Here becomes
+for me a non-tree; and I take no notice of the fact that another I sees the
+Here as non-tree, or that I myself at another time take the Here as non-tree,
+the Now as non-day. No, I am pure intuiting; I stick to my claim that the
+Now is day, or alternatively that the Here is a tree; and I do not compare the
+Here and Now themselves with each other, but stick firmly to one
+immediate relation: the Now is day.!
+
+4105. Since, then, this certainty now refuses to come forth when we
+draw its attention to a Now that is night, or to an I for whom it is night, we
+go up to it and let the Now that is affirmed be pointed out to us. We must let
+it be pointed out to us; for the truth of this immediate relation is the truth of
+this I which confines itself to one Now or one Here. Were we to take up this
+truth afterwards, or stand at a distance from it, it would have no
+significance at all; for we would sublate the immediacy that is essential to
+it. We must therefore enter into the same point of time or space, let them be
+pointed out to us, i.e. let ourselves be made into the very same this I which
+
+is the one that knows with certainty. Let us, then, see how the immediate,
+that is pointed out to us, is constituted.!
+
+4106. The Now is pointed out, this Now. Now; it has already ceased to be
+when it is pointed out. The Now that is, is another Now than the one pointed
+out, and we see that the Now is just this: already to be no more when it is.
+The Now, as it is pointed out to us, is a Now that has been, and this is its
+truth; it has not the truth of Being. So this much is true after all, that it has
+been. But what has been, an ex-entity, is, in fact, no essence, no entity; it is
+not, and we were concerned with Being.!
+
+4107. In this pointing-out, then, we see only a movement which takes
+the following course: (1) I point out the Now, it is affirmed as the true; but I
+point it out as a has-been, or as something sublated, I sublate the first truth.
+(2) Now I affirm as the second truth that it has been, is sublated. (3) But
+what has been, is not; I sublate the having-been-ness or sublatedness, the
+second truth, and thereby negate the negation of the Now, and thus return to
+the first affirmation, that Now is. The Now, and pointing out the Now, are
+thus so constituted that neither the Now nor the pointing out is immediately
+simple, but a movement which has various moments in it: a This is posited,
+but it is rather an other that is posited, or the This is sublated: and this
+otherness, or sublation of the first, is itself again sublated, and so has
+returned to the first. However, this first, reflected into itself, is not exactly
+the same as it was to begin with, viz. something immediate; on the contrary,
+it is something reflected into itself, or simple which, in its otherness,
+remains what it is: a Now which is absolutely many Nows. And this is the
+veritable Now, the Now as simple day which has within it many Nows,
+hours. Such a Now, an hour, is similarly many minutes, and this Now is
+likewise many Nows, and so on.—The pointing-out is thus itself the
+movement which expresses what the Now is in truth, viz. a result, or a
+plurality of Nows all taken together; and the pointing-out is the experience
+of learning that Now is a universal.!
+
+4108. The Here pointed out, which I hold fast, is similarly a this Here,
+which in fact is not this Here, but a Before and Behind, an Above and
+Below, a Right and Left. The Above is itself similarly this manifold
+otherness of above, below, etc. The Here, which was supposed to be pointed
+out, vanishes in other Heres, but these likewise vanish. What is pointed out,
+held fast, and remains, is a negative This, which is thus only when the
+Heres are taken as they are supposed to be, but sublate themselves in the
+
+process; it is a simple complex of many Heres. The Here that is meant
+would be the point; but the point is not: on the contrary, when it is pointed
+out as something that is, the pointing-out shows itself to be not immediate
+knowledge, but a movement from the Here that is meant through many
+Heres into the universal Here, which is a simple plurality of Heres, just as
+the day is a simple plurality of Nows.!
+
+4109. It is clear that the dialectic of sensory certainty is nothing other
+than the simple history of its movement or of its experience, and sensory
+certainty itself is nothing other than this history only. That is why the
+natural consciousness itself also always advances to this result, which is the
+true in sensory certainty, and it gains experience of it; but equally it only
+forgets it again and again, and begins the movement afresh. It is therefore
+astonishing when, in the face of this experience, it is proposed as universal
+experience, also as a philosophical assertion, and even as the result of
+scepticism, that the reality or the Being of external things as these things, or
+sensory things, has absolute truth for consciousness. Such an assertion does
+not even know what it is talking about, does not know that it is saying the
+opposite of what it wants to say. The truth for consciousness of the sensory
+This is supposed to be universal experience; but the contrary is universal
+experience. Every consciousness itself sublates again such a truth as e.g. the
+Here is a tree, or, the Now is noon, and expresses the contrary: the Here is
+not a tree, but rather a house; and insofar as this second assertion, sublating
+the first, again involves such an assertion of a sensory This, it instantly
+sublates that too. And in all sensory certainty only what we have seen is
+experienced in truth, viz. the This as a universal, the contrary of what that
+assertion claims to be universal experience.—With this appeal to the
+universal experience we may be permitted to anticipate its bearing on the
+practical sphere. In this regard we can tell those who affirm this truth and
+certainty of the reality of sensory objects that they should be sent back to
+the most elementary school of wisdom, viz. the ancient Eleusinian
+mysteries of Ceres and Bacchus, and still have to learn the secret of the
+eating of bread and the drinking of wine; for the initiate into these secrets
+not only comes to doubt the Being of sensory things, but to despair of it;
+and in part he brings about the nothingness in such things himself, and in
+part he sees them bring it about themselves. Even animals are not debarred
+from this wisdom; on the contrary, they show themselves to be profoundly
+initiated into it; for they do not just stand stock still in the presence of
+
+sensory things as if they were beings in themselves, but, despairing of this
+reality and in complete certainty of their nothingness, they help themselves
+without more ado and gobble them up. And all nature, like the animals,
+celebrates these revealed mysteries which teach what the truth of sensory
+things is.!
+
+q110. But, in accordance with our previous remarks, those who advance
+such an assertion, themselves also say immediately the contrary of what
+they mean:—a phenomenon which is perhaps best calculated to induce
+reflection on the nature of sensory certainty. They speak of the existence of
+external objects, which can be more precisely determined as actual,
+absolutely singular, wholly personal, individual things, none of them
+absolutely similar to anything else; this Being-there, they say, has absolute
+certainty and truth. They mean this bit of paper on which I am writing—or
+rather have written—this; but what they mean is not what they say. If they
+actually wanted to say this bit of paper which they mean, and they wanted
+to say it, then this is impossible, because the sensory This that is meant is
+inaccessible to language, which belongs to consciousness, to the inherently
+universal. In the actual attempt to say it, it would therefore rot away; those
+who started to describe it could not complete the description, but would
+have to leave it to others, who in the end would themselves admit to
+speaking about a thing which is not. They certainly mean, then, this bit of
+paper here which is another bit entirely from the bit mentioned above; but
+they speak about ‘actual things, external or sensory objects, absolutely
+singular entities’, and so on; i.e. they say of them only what is universal.
+Consequently, what is called the inexpressible is nothing other than the
+untrue, the irrational, the merely meant.—If nothing more is said of
+something than that it is an actual thing, an external object, then what is
+expressed is only its supreme universality and thus its equality with
+everything rather than its distinctness. When I say: a singular thing, I am
+really saying it as wholly universal, for everything is a singular thing; and
+likewise this thing is anything you like. If we designate it more exactly as
+this bit of paper, then each and every bit of paper is a this bit of paper, and I
+have only ever said the universal. But if I want to help out speech—which
+has the divine nature of directly reversing the meaning, of making it into
+something else, and thus not letting it get a word in—by pointing out this
+bit of paper, experience teaches me what the truth of sensory certainty in
+fact is: I point it out, as a Here, which is a Here of other Heres, or is within
+
+itself a simple Together of many Heres, i.e. it is a universal. I take it up as it
+is in truth, and instead of knowing something immediate, I perceive.!
+
+IT. Perception: The Thing and Illusion
+
+4111. Immediate certainty does not take over the true, for its truth is the
+universal; whereas it wants to take the This. Perception, on the other hand,
+takes its beings as something universal. Just as universality is its principle
+in general, the immediately self-differentiating moments within perception
+are universal: the I a universal I and the object a universal object. That
+principle has emerged for us, and therefore our reception of perception is no
+longer a reception that appears, as that of sensory certainty was; it is a
+necessary reception. The two moments, which in their appearance just fall
+from nowhere, have come into being at the same time in the emergence of
+the principle: one is the movement of pointing-out, the other same
+movement as something simple; the former the perceiving, the latter the
+object.! In essence the object is the same as the movement: the movement is
+the unfolding and differentiation of the moments, and the object is the
+gathered-togetherness of the moments. For us, or in itself, the universal as
+principle is the essence of perception, and, in contrast to this abstraction,
+both the moments differentiated—the perceiver and the perceived—are the
+unessential. But in fact, because both are themselves the universal or the
+essence, both are essential. Yet since they are related to each other as
+opposites, only one can be the essential moment in the relation, and the
+distinction of the essential and the inessential must be shared between them.
+One of them determined as the simple, the object, is the essence regardless
+of whether it is perceived or not; but the perceiving, as the movement, is the
+inconstant, which can as well be as not be, and the inessential.2
+
+q112. This object must now be determined more precisely, and this
+determination must be developed briefly from the result that has been
+reached; the more detailed development does not belong here. Since the
+principle of the object, the universal, is in its simplicity a mediated
+universal, the object must express this within itself as its nature; in this way
+it shows itself as the thing with many properties. The wealth of sensory
+knowledge belongs to perception, not to immediate certainty, where it was
+only what was in play beside it; for only perception has negation, difference
+or manifoldness, in its essence.!
+
+4113. So the This is posited as not this, or as sublated; and hence not as
+Nothing, but as a determinate Nothing or a Nothing of a content, viz. of the
+This. Consequently, the sensory itself is still present, but not in the way it
+was supposed to be in immediate certainty, not as the singular meant, but as
+a universal, or as what will determine itself as property. Sublation exhibits
+its veritable twofold significance which we have seen in the negative: it is at
+the same time a negating and a preserving; the Nothing, as Nothing of the
+This, preserves immediacy and is itself sensory, but a universal immediacy.
+—But Being is a universal in virtue of its having mediation or the negative
+in it; when it expresses this in its immediacy it is a distinct, determinate
+property. Many such properties are thereby posited at the same time, one the
+negative of the other. Since they are expressed in the simplicity of the
+universal, these determinacies, which are really properties only through the
+addition of a further determination, are related to themselves, are indifferent
+to each other, each for itself, free from the others. But the simple
+universality, equal to itself, is itself in turn distinct and free from its
+determinacies. It is pure relating-itself-to-itself, or the medium in which
+these determinacies all are, and so they interpenetrate in it as in a simple
+unity, but without touching each other; for it is just through participation in
+this universality that they are indifferent to each other, each for itself —This
+abstract universal medium, which can be called thinghood in general or the
+pure essence, is nothing other than the Here and Now, as they have proved
+to be, viz. a simple togetherness of many; but the many are, in their
+determinacy, simply universals themselves. This salt is a simple Here, and
+at the same time manifold; it is white and also tart, also cubical in shape,
+also of a determinate weight, etc. All these many properties are in one
+simple Here, in which they therefore interpenetrate; none has a different
+Here from the others, but each is everywhere, in the same Here in which the
+others are. And, at the same time, without being separated by diverse Heres,
+they do not affect each other in this interpenetration. The whiteness does
+not affect or alter the cubical shape, and neither affects the tartness, etc.;
+since each is itself a simple relating-itself-to-itself, it leaves the others
+alone, and is related to them only by the indifferent Also. This Also is thus
+the pure universal itself, or the medium, the thinghood that gathers them
+together in this way.!
+
+4114. In the relationship which has thus emerged it is only the character
+of positive universality that is at first observed and developed; but another
+
+side presents itself, which must also be taken into consideration. That is, if
+the many determinate properties were utterly indifferent to each other and
+were simply and solely related to themselves, they would not be
+determinate; for they are determinate only insofar as they differentiate
+themselves, and relate themselves to others as opposites. But in this
+opposition they cannot be together in the simple unity of their medium, a
+unity that is just as essential to them as negation; the differentiation of the
+properties, insofar as it is not an indifferent differentiation but exclusive,
+negating something else, thus falls outside this simple medium; and the
+medium, therefore, is not only an Also, an indifferent unity, but a One as
+well, an exclusive unity——The One is the moment of negation; as it relates
+itself to itself in a simple way and excludes an other; and by this, thinghood
+is determined as thing. In the property negation is as determinacy, which is
+immediately one with the immediacy of Being, an immediacy which,
+through this unity with negation, is universality; but the immediacy is as
+One, when it is set free from this unity with the contrary and is in and for
+itself.!
+
+q115. In these moments taken together, the thing as the true of
+perception is completed, so far as it is necessary to develop it here. It is (a)
+the indifferent, passive universality, the Also of the many properties or
+rather matters; (b) negation, equally simple; or the One, the exclusion of
+opposite properties; and (c) the many properties themselves, the relation of
+the first two moments, negation as it relates to the indifferent element, and
+therein expands into a host of differences; the point of singularity radiating
+out into plurality in the medium of subsistence. Insofar as these differences
+belong to the indifferent medium they are themselves universal, are related
+only to themselves and do not affect each other; but insofar as they belong
+to the negative unity they are at the same time exclusive; but they
+necessarily have this relation of opposition with properties that are remote
+from their Also. The sensory universality, or the immediate unity of Being
+and the negative, is thus a property only insofar as the One and the pure
+universality are developed from it and differentiated from each other, and
+when the sensory universality combines them; it is only this relation of the
+universality to the pure essential moments which completes the thing.!
+
+4116. This, then, is how the thing of perception is constituted; and
+consciousness is determined as perceiver insofar as this thing is its object; it
+has only to take it and conduct itself as pure apprehension; and what thus
+
+presents itself to it is the true. If consciousness itself were to do anything in
+this taking, it would by such adding or omission alter the truth. Since the
+object is the true and universal, what is equal-to-itself, while consciousness
+is the alterable and unessential, it can happen that consciousness apprehends
+the object incorrectly and deceives itself. The perceiver has consciousness
+of the possibility of illusion; for in the universality which is the principle,
+otherness itself is immediately for it, though as what is null, sublated. Its
+criterion of truth is therefore equality-to-itself, and its procedure is to
+apprehend the object as equal to itself. Since at the same time diversity is
+for the perceiver, it is a relating of the diverse moments of its apprehension
+to each other; but if a discrepancy emerges in the course of this comparison,
+then this is not an untruth of the object—for this is what is equal to itself—
+but an untruth of perceiving.!
+
+q117. Let us see now what experience consciousness undergoes in its
+actual perceiving. For us, this experience is already contained in the
+development of the object, and of the attitude of consciousness towards it,
+given just now, and it will only be the development of the contradictions
+present therein.—The object that I receive presents itself as purely one; but
+I also notice in it the property, which is universal and thereby transcends
+singularity. The first Being of the objective essence as a One was therefore
+not its true Being; since the object is the true, the untruth falls in me, and
+the apprehension was not correct. Because of the universality of the
+property, I must rather take the objective essence as a community in general.
+I now further perceive the property as determinate, opposed to another and
+excluding it. Thus I did not fact apprehend the objective essence correctly
+when I determined it as a community with others, or as continuity and,
+because of the determinacy of the property, I must separate the continuity
+and posit the objective essence as a One that excludes. In the separated One
+I find many such properties which do not affect each other but are mutually
+indifferent; so I did not perceive the object correctly when I apprehended it
+as exclusive but, just as previously it was only continuity in general, so now
+it is a universal common medium in which many properties are present as
+sensory universalities, each being for itself and, as determinate, excluding
+the others. But because of this the simple and the true that I perceive is also
+not a universal medium, but the singular property for itself which, however,
+is thus neither property nor a determinate Being; for now it is neither in a
+One nor in relation with others. But it is a property only in the One, and
+
+determinate only in relation to others. As this pure relating-of-itself-to-
+itself, it remains merely sensory Being in general, since it no longer has in it
+the character of negativity; and consciousness, for which there is now a
+sensory Being, is only a meaning,' i.e. it has entirely abandoned perception
+and withdrawn into itself. But sensory Being and meaning themselves pass
+over into perception; I am thrown back to the beginning and drawn once
+again into the same cycle which sublates itself in each moment and as a
+whole.*
+
+4118. So consciousness necessarily runs through this cycle again, but
+this time not in the same way as it did the first time. For it has gained the
+experience in perception that the outcome and the true of perception is its
+dissolution, or reflection out of the true and into itself. Thus it has been
+determined for consciousness how its perceiving is essentially constituted,
+viz. that it is not a simple pure apprehension, but in its apprehension is at
+the same time reflected out of the true and into itself. This return of
+consciousness into itself, which immediately mingles with the pure
+apprehension—for this return into itself has shown itself to be essential to
+perception—, alters the true. Consciousness at once recognizes this aspect
+as its own and takes it upon itself, and it will thereby obtain the true object
+in its purity With this, we now have in perception the same as happened
+in the case of sensory certainty: the aspect in which consciousness is driven
+back into itself, but not initially in the sense in which this happened in
+sensory certainty, i.e. not as if the truth of perception fell in consciousness.
+On the contrary, consciousness recognizes that what falls in it is the untruth
+occurring in perception. But by this recognition it is at the same time able to
+sublate this untruth; it differentiates its apprehension of the true from the
+untruth of its perception, corrects this untruth, and insofar as it undertakes
+this correction itself, the truth, as truth of perceiving, falls of course within
+consciousness. The procedure of consciousness which we have now to
+consider is thus so constituted that consciousness no longer merely
+perceives, but is also conscious of its reflection-into-itself, and separates
+this from simple apprehension itself.!
+
+q119. At first, then, I become aware of the thing as One, and have to
+hold it fast in this true determination; if, in the movement of perceiving,
+something turns up which contradicts it, then this is to be recognized as my
+reflection. Now, there also occur in the perception diverse properties which
+seem to be properties of the thing; but the thing is One, and we are
+
+conscious that this diversity, by which it would cease to be One, falls in us.
+So in point of fact, this thing is white only to our eyes, also tart to our
+tongue, also cubical to our feeling, and so on. We get the entire diversity of
+these aspects, not from the thing, but from ourselves; and they fall asunder
+in this way for us, because the eye is quite distinct from the tongue, and so
+on. We are thus the universal medium in which such moments are separate
+and are for themselves. Through the fact, then, that we regard the
+determinacy of being a universal medium as our reflection, we maintain the
+equality-to-itself and truth of the thing, its being One.!
+
+q120. But, regarded as situated, each for itself, in the universal medium,
+these diverse aspects which consciousness takes upon itself are determined;
+white is white only in opposition to black, and so on, and the thing is One
+precisely by the fact that it is opposed to others. The thing excludes others
+from itself, but not insofar as it is One—for to be One is the universal
+relating-to-itself, and the fact that it is One rather makes it like all the others
+—but through determinacy. Things themselves are therefore determinate in
+and for themselves; they have properties by which they differentiate
+themselves from others. Since the property is the thing’s own property or a
+determinacy in the thing itself, the thing has several properties. For, in the
+first place, the thing is the true, it is in itself; and what is in it, is in it as its
+own essence, and not because of other things. Secondly, therefore, the
+determinate properties are not only on account of other things and for other
+things, but in the thing itself; but they are determinate properties in it only
+because they are a plurality of properties differentiating themselves from
+each other. And, thirdly, since they are thus in the thinghood, they are in
+and for themselves and indifferent to each other. It is in truth, then, the thing
+itself that is white, and also cubical, also tart, and so on. Or the thing is the
+Also or the universal medium in which the many properties subsist apart
+from each other, without touching or sublating each other; and taken in this
+way, the thing is taken as the true.!
+
+q121. Now, in this perceiving, consciousness is at the same time
+conscious that it also reflects itself into itself, and that, in perceiving, the
+opposite moment to the Also occurs. But this moment is the unity of the
+thing with itself, a unity which excludes difference from itself. Accordingly,
+it is this unity which consciousness has to take upon itself; for the thing
+itself is the subsistence of the many diverse and independent properties.
+Thus we say of the thing: it is white, also cubical, and also tart, and so on.
+
+But insofar as it is white, it is not cubical, and insofar as it is cubical and
+also white, it is not tart, and so on. The positing-into-one of these properties
+is due to consciousness alone, which must therefore not let them fall into
+One in the thing. To this end it brings in the Insofar, and thereby keeps the
+properties apart, and the thing as the Also. The oneness is taken upon itself
+by consciousness quite strictly, at first in such a way that what was called
+property is represented as free matter. The thing is in this way raised to a
+veritable Also, since it becomes a collection of matters and, instead of being
+One, merely an enclosing surface.!
+
+4122. If we look back on what consciousness previously took upon itself
+and now takes upon itself, on what it previously ascribed and now ascribes
+to the thing, it emerges that consciousness alternately makes itself, and the
+thing as well, into both, into the pure, plurality-free One, and into an Also
+resolved into independent matters. Consciousness thus finds through this
+comparison that not only its taking of the true has in it the diversity of
+apprehension and withdrawal into itself, but rather the true itself, the thing,
+shows itself in this twofold way. With this the experience is at hand that the
+thing displays itself for the apprehending consciousness in a determinate
+manner, but at the same time is reflected out of the manner in which it
+presents itself and back into itself: or it has within itself an opposite truth.!
+
+4123. Thus consciousness has also abandoned this second type of
+attitude in perceiving, viz. taking the thing as what is truly equal-to-itself,
+and itself for what is unequal, for what returns back into itself out of
+equality; and the object is now for consciousness this whole movement
+which was previously shared between the object and consciousness. The
+thing is One, reflected into itself; it is for itself, but it is also for an other;
+and in fact it is an other for itself, as it is for an other. Accordingly, the
+thing is for itself and also for an other, a twofold diverse Being, but it is also
+One; but the oneness contradicts this diversity; accordingly consciousness
+would again have to take upon itself this positing-into-one and keep it away
+from the thing. So it would have to say that insofar as it is for itself, the
+thing is not for an other. But the oneness also belongs to the thing itself as
+consciousness has found by experience; the thing is essentially reflected
+into itself. The Also, or the indifferent distinction, thus falls as much within
+the thing as does the oneness; but since the two are diverse they do not fall
+within the same thing, but in diverse things; the contradiction which is in
+the objective essence in general is distributed between two objects. The
+
+thing is indeed in and for itself, equal to itself, but this unity with itself is
+disturbed by other things; thus the unity of the thing is maintained, and at
+the same time so is the otherness outside the thing, as well as outside
+consciousness. !
+
+q124. Now although the contradiction of the objective essence is in this
+way distributed among diverse things, yet the distinction will, for that
+reason, attach to the separated singular thing itself. The diverse things are
+thus posited for themselves; and the conflict falls in them reciprocally, such
+that each is diverse, not from itself, but only from the other. But each is
+thereby determined as itself a distinct entity and has the essential distinction
+from the others in it, but at the same time not in such a way that this is an
+opposition in the thing itself; on the contrary, for itself it is simple
+determinacy, which makes up the thing’s essential character, differentiating
+it from others. In fact, since the diversity is in it, it is of course necessarily
+in it as actual distinctness of a manifold constitution. But because the
+determinacy makes up the essence of the thing, by which it differentiates
+itself from other things and is for itself, this further manifold constitution is
+the unessential. Consequently, the thing does indeed have the twofold
+Insofar within its unity, but with unequal value; as a result, this state of
+opposition does not become an actual opposition in the thing itself; but
+insofar as the thing through its absolute distinction comes into opposition, it
+has opposition to another thing outside it. Of course, the further
+manifoldness is necessarily in the thing too, so that it cannot be left out, but
+it is unessential to it.
+
+4125. This determinacy, which makes up the essential character of the
+thing and differentiates it from all others, is now determined in such a way
+that the thing is thereby in opposition to other things, but is supposed to
+maintain itself for itself in this opposition. But it is only a thing, or a One
+that is for itself, insofar as it does not stand in this relation to others; for in
+this relation rather its connection with the other is posited, and connection
+with other is the cessation of Being-for-itself. It is just through the absolute
+character and its opposition that it enters into relationship with others, and
+is essentially only this relating; the relationship, however, is the negation of
+its independence, and it is really through its essential property that the thing
+goes to ruin.!
+
+4126. The necessity for consciousness of the experience that the thing
+goes to ruin through the very determinacy that makes up its essence and its
+
+Being-for-itself, can be briefly considered in terms of the simple concept.
+The thing is posited as Being-for-itself, or as absolute negation of all
+otherness, therefore as absolute negation, relating only to itself; but self-
+related negation is the sublation of itself, or having its essence in an Other.!
+
+4127. In fact, the determination of the object, as it has emerged, contains
+nothing else; the object is supposed to have within it an essential property
+which makes up its simple Being-for-itself, but along with this simplicity
+also diversity, which is supposed to be necessary, but not to make up the
+essential determinacy. This, however, is a distinction that still only lies in
+the words; the unessential, which at the same time is nonetheless supposed
+to be necessary, sublates itself, or is what has just been called the negation
+of itself.!
+
+q128. With this, the last Insofar, which separated Being-for-itself from
+Being for another, falls away; rather, the object is in one and the same
+respect the contrary of itself: for itself, insofar as it is for another, and for
+another, insofar as it is for itself. It is for itself, reflected into itself, One;
+but, reflected into itself, this being One for itself, is posited in a unity with
+its contrary, with Being for an Other, and hence only as sublated; or this
+Being-for-itself is just as unessential as what was supposed to be the only
+unessential, viz. the relationship to another.!
+
+q129. The object in its pure determinacies, or in the determinacies which
+were supposed to make up its essentiality, is thereby sublated, just as it
+became something sublated in its sensory Being. From sensory Being it
+becomes a universal; but this universal, since it derives from the sensory, is
+essentially conditioned by it, and hence is not veritably equal-to-itself at all,
+but universality affected with an opposite, and because of this it separates
+into the extremes of singularity and universality, of the One of the
+properties and the Also of the free matters. These pure determinacies seem
+to express the essentiality itself, but they are only a Being-for-Self that is
+burdened with Being for an Other; since, however, the two are essentially in
+a unity, the unconditioned absolute universality is now present, and
+consciousness here first really enters the realm of the understanding.!
+
+4130. Thus sensory singularity does indeed vanish in the dialectical
+movement of immediate certainty and becomes universality, but only
+sensory universality. Meaning has vanished, and perceiving takes the object
+as it is in itself, or as a universal in general; singularity therefore emerges in
+
+the object as true singularity, as Being-in-itself of the One, or as
+reflectedness-into-itself. But it is still a conditioned Being-for-itself,
+alongside which another Being-for-itself occurs, the universality opposed to
+singularity and conditioned by it; but these two contradictory extremes are
+not merely alongside each other but in one unity; or what is the same, the
+factor common to both, the Being-for-itself, is burdened with opposition
+generally, i.e. it is at the same time not a Being-for-itself. The sophistry of
+perceiving seeks to save these moments from their contradiction, and to
+hold onto them by differentiating respects, by the Also and Insofar, and
+finally to grasp the true by differentiating the unessential from an essence
+opposed to it. But these expedients, instead of warding off illusion in the
+apprehension, prove rather to be futile, and the true, which is supposed to
+be won by this logic of perceiving, proves to be in one and the same respect
+the contrary and thus to have as its essence the universality devoid of
+distinctions and determinations.!
+
+q131. These empty abstractions of singularity and the universality
+opposed to it, and of the essence linked with something unessential, an
+unessential which is yet necessary all the same, are the powers whose play
+is the perceptual understanding, often so-called sound common sense; it
+takes itself to be solid, real consciousness, but is, in perceiving, only the
+play of these abstractions; generally, it is always at its poorest where it
+fancies itself to be the richest. Because it is driven about by these futile
+essences, thrown from one into the arms of the other and, in its endeavour
+by its sophistry to hold fast and affirm alternately first one essence and then
+the direct opposite, resists the truth, it supposes that philosophy has to do
+only with things-of-thought. In fact, philosophy does have to do with them
+too and recognizes them as the pure essences, as the absolute elements and
+powers; but in doing so, it recognizes them in their determinacy too, and is
+therefore master over them, whereas this perceptual understanding takes
+them for the true and is led on by them from one error to another. It does
+not itself arrive at the consciousness that it is such simple essentialities that
+hold sway in it, but fancies that it always has to do with wholly solid
+material and content, just as sensory certainty is unaware that the empty
+abstraction of pure Being is its essence; whereas it is, in fact, these
+essentialities in which perceptual understanding runs to and fro through all
+material and content; they are the adhesive and the mastery of that content
+and they alone are what the sensory as essence is for consciousness, what
+
+determines the relationships of the sensory to it, and it is in them that the
+movement of perceiving and of its true runs its course. This course, a
+perpetual alternation of determining the true and sublating this determining,
+really makes up the constant everyday life and activity of perceptual
+consciousness, a consciousness which supposes it moves in the truth. It thus
+advances irresistibly to the outcome in which all these essential
+essentialities or determinations are equally sublated, but in each single
+moment it is conscious only of this one determinacy as the true, and then in
+turn of the opposite determinacy. It does indeed sense their unessentiality;
+to save them from the threatening danger, it resorts to the sophistry of now
+affirming as the true what it has itself just affirmed as the non-true. What
+the nature of these untrue essences is trying to get this understanding to do
+is to bring together, and thereby sublate, the thoughts of these non-
+essences, the thoughts of that universality and singularity, of the Also and
+One, of the essentiality that is necessarily linked to an unessentiality, and of
+an unessentiality that is nevertheless necessary. Yet the understanding
+resists this with the support of the Insofar and of the diverse respects, or by
+taking upon itself the one thought in order to keep the other quarantined as
+the true thought. But the nature of these abstractions brings them together in
+and for themselves; sound common sense is the prey of these abstractions,
+which spin it round and round in their whirling circle. Common sense tries
+to bestow truth on them by at one time taking their untruth upon itself,
+while at another time it calls illusion a semblance of the unreliable things,
+and by separating the essential from what is necessary to them yet
+supposedly unessential, and hanging on to the former as their truth as
+against the latter; but when it does this, it does not secure them their truth, it
+convicts itself of untruth.!
+
+III. Force and Understanding: Appearance and
+Supersensible World
+
+4132. In the dialectic of sensory certainty, hearing and seeing, etc., have
+been lost to consciousness, and, as perceiving, consciousness has arrived at
+thoughts, which it first brings together, however, in the unconditioned
+universal. This unconditioned would now itself in tum be nothing other
+than the one-sided extreme of Being-for-itself, if it were taken as inert
+simple essence, for it would then be confronted by non-essence; but, if it
+were related to this, it would itself be unessential, and consciousness would
+not have escaped from the illusion of perception; however, it has proved to
+be the sort of universal that has returned into itself out of such a conditioned
+Being-for-itself—This unconditioned universal, which is now the true
+object of consciousness, is still as object of it; consciousness has not yet
+grasped its concept as concept. It is essential to distinguish the two: for
+consciousness, the object has returned into itself from its relationship to an
+other and has thus become concept in itself; but consciousness is not yet for
+itself the concept, and consequently does not recognize itself in that
+reflected object. For us, this object has emerged through the movement of
+consciousness in such a way that consciousness is involved in the
+emergence of it, and the reflection on both sides is the same or only one
+reflection. But since in this movement consciousness had for its content
+only the objective essence, not consciousness as such, for consciousness the
+result is to be posited in objective significance and consciousness is still
+drawing back from what has emerged, so that to consciousness it is the
+essence as objective.!
+
+4133. With this, the understanding has indeed sublated its own untruth
+and the untruth of the object; and what has thereby emerged for it is the
+concept of the true, as a true that is in itself, which is not yet concept, or
+which lacks the Being-for-itself of consciousness, and which the
+understanding, without knowing itself therein, lets go its own way. The true
+goes about its essential business for itself, so that consciousness plays no
+part in its free realization, but merely looks on and simply apprehends it. To
+begin with, therefore, we have to step into its place and be the concept
+
+which develops what is contained in the result; in this developed object,
+which presents itself to consciousness as something that simply is,
+consciousness first becomes explicitly a comprehending consciousness. !
+
+4134. The result was the unconditioned universal, initially in the
+negative and abstract sense that consciousness negated its one-sided
+concepts and abstracted them, that is, gave them up. But the result has, in
+itself, a positive significance: in it, the unity of Being-for-itself and Being
+for an other is posited or the absolute opposition is immediately posited as
+the same essence. It initially seems to concern only the form of the
+moments in reciprocal relation; but Being-for-itself and Being-for-other are
+the content itself as well, since the opposition in its truth can have no other
+nature than the one that emerged in the result, viz. that the content taken in
+perception to be true, belongs in fact only to the form and dissolves in the
+unity of the form. This content is at the same time universal; there can be no
+other content which by its particular constitution would resist integration in
+this unconditioned universality. A content of this kind would be some
+determinate way of being for itself and of relating to another. But to be for
+itself and to relate to another in general makes up the nature and essence of
+the content, and their truth is to be an unconditioned universal; and the
+result is purely and simply universal.!
+
+q135. But because this unconditioned universal is object for
+consciousness, there emerges in it the distinction of form and content, and
+in the shape of content the moments look like they did when they first
+presented themselves: on one side, a universal medium of many subsistent
+matters, and on the other side, a One reflected into itself, in which their
+independence is extinguished. The former is the dissolution of the thing’s
+independence, or the passivity that is a Being for an Other, while the latter
+is Being-for-itself. We have to see how these moments exhibit themselves
+in the unconditioned universality which is their essence. It is clear at the
+outset that, since they are only in this universality, they are no longer
+detached from each other at all but are within themselves essentially self-
+sublating sides, and what is posited is only their transition into each other.
+
+4136. So one of the moments appears as the essence that has stepped to
+one side, as universal medium, or as the subsistence of independent matters.
+But the independence of these matters is nothing other than this medium; or
+this universal is simply and solely the plurality of the diverse universals of
+this kind. That within itself the universal is in undivided unity with this
+
+plurality means, however, that these matters are each where the other is;
+they mutually interpenetrate,—but without coming into contact with each
+other, because conversely the differentiated plurality is equally independent.
+At the same time their pure porosity or their sublatedness is thereby posited.
+This sublatedness or the reduction of this diversity to a pure Being-for-itself,
+is in turn nothing other than the medium itself, and this is the independence
+of the differences. Or the matters posited as independent immediately pass
+over into their unity, and their unity immediately passes over into unfolding,
+and this again goes back into reduction. But this movement is what is called
+force: one of its moments, namely the force as expansion of the independent
+matters in their Being, is the expression of force; but the force as the
+disappearance of the matters is the force driven back into itself out of its
+expression or the force proper. First, however, the force driven back into
+itself must express itself; and, secondly, in the expression it is force that is
+within itself, just as much as it is expression in this Being-within-itself —
+When we thus keep the two moments in their immediate unity, the
+understanding, to which the concept of force belongs, is strictly speaking
+the concept which sustains the different moments as different; for within
+themselves, they are not supposed to be different; the difference is thus only
+in thought——Or what has been posited in the foregoing is at first only the
+concept of force, not its reality. In fact, however, force is the unconditioned
+universal which is equally in itself what it is for an Other; or which
+contains the difference within itself—for difference is nothing other than
+the Being for an Other. So for force to be in its truth, it must be completely
+set free from thought and posited as the substance of these differences, i.e.
+first: substance, as this whole force, remaining essentially in and for itself,
+and then: its differences as substantial, or as moments subsisting for
+themselves. Force as such, or as driven back into itself, is thus for itself as
+an exclusive One, for which the unfolding of the matters is another
+subsisting essence; and thus two distinct independent sides are posited. But
+the force is also the whole, or it remains what it is according to its concept,
+that is, these differences remain pure forms, superficial vanishing moments.
+At the same time there would be no difference at all between the force
+proper driven back into itself and the unfolding of the independent matters,
+if they did not have a subsistence, or there would be no force if it did not
+exist in these opposite ways; but that it does exist in these opposite ways
+means nothing other than: the two moments are at the same time themselves
+
+independent.—It is therefore this movement in which the two moments
+perpetually acquire independence and then sublate themselves again that we
+are to consider.—It is clear in general that this movement is nothing other
+than the movement of perceiving, in which the two sides, the perceiver and
+the perceived, are on the one hand one and undifferentiated as the
+apprehension of the true, and yet each side is at the same time equally
+reflected into itself or is for itself. These two sides are here moments of
+force; they are in a unity, but equally this unity, which appears as the middle
+term over against the extremes that are for themselves, perpetually
+disintegrates into just these extremes, which only are because of this.—
+Thus the movement, which previously displayed itself as the self-
+annihilation of contradictory concepts, here has the objective form and is
+movement of force, as a result of which the unconditioned universal
+emerges as something non-objective, or as the interior of things.!
+
+4137. Force, as thus determined, is one side of its concept, since it is
+represented as such or as reflected into itself; but as a substantialized
+extreme and, in fact, the extreme posited under the determinacy of the One.
+The subsistence of the unfolded matters is thereby excluded from force and
+is an other than force. Since it is necessary that force itself be this
+subsistence, or that force express itself, its expression presents itself like
+this: this other approaches the force and solicits it. But in fact, since it
+necessarily expresses itself, what was posited as another essence is in the
+force itself. Force was posited as a One, and its essence, self-expression,
+was posited as an Other, approaching it from outside. But this must be
+retracted: force is rather itself this universal medium of the subsistence of
+the moments as matters; or force has expressed itself, and what was
+supposed to be the other soliciting it is really force itself. So now it exists as
+the medium of the unfolded matters. But equally essentially it has the form
+of the sublatedness of the subsisting matters, or is essentially One; this
+oneness, since force is posited as the medium of matters, is thus now
+something other than force, and force has this its essence outside it. But
+since force must necessarily be this oneness, but is not yet posited as
+oneness, this other approaches it and solicits it to reflection into itself or
+sublates its expression. But in fact force itself is this reflectedness-into-
+itself, or this sublatedness of the expression; the oneness, in the way in
+which it appeared, viz. as an Other, vanishes; force is this other itself, it is
+force driven back into itself.'
+
+4138. What turns up as other and solicits force, both to expression and to
+return into itself, immediately proves to be itself force; for the other shows
+up both as universal medium and as One, and in such a way that each of
+these shapes at the same time tums up only as a vanishing moment.
+Consequently, force, by the fact that an other is for it and it is for an Other,
+has not yet emerged from its concept at all. But there are at the same time
+two forces present; the concept of both is no doubt the same, but it has
+emerged from its unity into duality. Instead of remaining entirely and
+essentially only a moment, the opposition seems, by the bifurcation into
+wholly independent forces, to have withdrawn from the dominion of unity.
+We have now to see more closely what the situation is with this
+independence. Initially the second force turns up as the one that solicits and
+moreover, in its content, as the universal medium in contrast to the force
+determined as solicited; but since the second force is essentially an
+alternation of these two moments and is itself force, in fact it is similarly the
+universal medium only when it is solicited to be so, and similarly, too, it is a
+negative unity, or solicits the withdrawal of force, only because it is
+solicited. Consequently, this distinction, too, which obtained between the
+two forces, that one was supposed to be the soliciting force, the other the
+solicited, is transformed into the same reciprocal exchange of the
+determinacies.!
+
+4139. The play of the two forces thus consists in their being determined
+in opposite ways, their Being-for-one-another in this determination, and the
+absolute, immediate alternation of the determinations,—a transition through
+which alone these determinations are, in which the forces seem to turn up
+independently. The soliciting force, e.g., is posited as universal medium,
+and the solicited, by contrast, as repressed force; but the former is itself
+universal medium only through the other’s being repressed force; or the
+latter is really the soliciting force for the former and is what first makes it a
+medium. The first force has its determinacy only through the other and is
+soliciting only insofar as it is solicited by the other to be soliciting; and just
+as immediately, it loses the determinacy given to it; for this passes over, or
+rather has already passed over, to the other; the external soliciting force
+turns up as a universal medium, but only through its having been solicited
+by the other force to do so; but this means that the latter posits the soliciting
+force in this way and is really itself essentially a universal medium; it posits
+
+the soliciting force in this way just because this other determination is
+essential to it, i.e. because this is really its own self.
+
+4140. For the completion of insight into the concept of this movement
+attention may be drawn to a further point, that the differences themselves
+show up in a twofold difference: once as a difference of content, in that one
+extreme is force reflected into itself, while the other is a medium of the
+matters; and again as a difference of form, in that one is soliciting, the other
+solicited, the former active, the latter passive. By the difference of content
+they are differentiated in general or for us; but by the difference of form
+they are independent, separating from each other in their relation and
+opposed. The extremes on both these sides are thus nothing in themselves;
+these sides in which their different essence was supposed to consist are only
+vanishing moments, are an immediate transition of each side into the
+opposite side; and this fact comes to be for consciousness in its perception
+of the movement of force. But for us, as we remarked already, there was
+also something more, viz. that in themselves the differences, as differences
+of content and of form, vanished; and on the side of form, the active,
+soliciting factor or that-which-is-for-itself, was in essence the same as that
+which, on the side of content, presented itself as force driven back into
+itself; the passive, solicited factor or that which is for an other on the side of
+form, was in essence the same as that which, on the side of content,
+presented itself as the universal medium of the many matters.!
+
+4141. It results from this that the concept of force becomes actual
+through duplication into two forces, and how it comes to do so. These two
+forces exist as essences that are for themselves; but their existence is a
+movement of each towards the other, such that their Being is rather a pure
+positedness through an Other, i.e. their Being has really the pure
+significance of vanishing. They are not the sort of extremes that retain for
+themselves something firm, transmitting towards each other into the middle
+term and into their contact only an external property; on the contrary, what
+they are, they are only in this middle term and contact. In this there is
+immediately both the repression of force into itself, or its Being-for-itself,
+and its expression, both soliciting and being solicited; consequently, these
+moments are not distributed to two independent extremes offering each
+other only an opposed extremity, but their essence is purely and simply this:
+each is solely through the other, and what each force thus is through the
+other, it immediately no longer is, while it is it. They have thus, in fact, no
+
+substances of their own to support and maintain them. The concept of force
+rather maintains itself as the essence in its very actuality; force as actual is
+simply and solely in the expression, which at the same time is nothing other
+than a sublation of itself. This actual force, represented as being free from
+its expression and as being for itself, it is the force driven back into itself;
+but in fact this determinacy, as we have found, is itself only a moment of
+the expression. Thus the truth of force remains only the thought of force;
+the moments of its actuality, its substances and its movement, collapse
+unresistingly into an undifferentiated unity, a unity which is not force driven
+back into itself (for this is itself only such a moment), but this unity is its
+concept as concept. Thus the realization of force is at the same time loss of
+reality; in that realization it has really become something quite different,
+viz. this universality, which the understanding recognizes at the outset or
+immediately as its essence and which also proves to be its essence in the
+supposed reality of force, in the actual substances.!
+
+4142. Insofar as we regard the first universal as the understanding’s
+concept in which force is not yet for itself, the second is now the essence of
+force as it exhibits itself in and for itself. Or, conversely, if we regard the
+first universal as the immediate, which was supposed to be an actual object
+for consciousness, then this second is determined as the negative of the
+sensorily objective force; it is force as it is, in its true essence, only as
+object of the understanding; the first universal would be force driven back
+into itself, or force as substance; while the second is the interior of things,
+as interior, which is the same as the concept as concept.!
+
+4143. This veritable essence of things has now determined itself in such
+a way that it is not immediately for consciousness; on the contrary,
+consciousness has a mediated relationship to the interior and, as
+understanding, looks through this intermediary play of forces into the true
+background of things. The middle term which unites the two extremes, the
+understanding and the interior, is the developed Being of force which, for
+the understanding itself, is henceforth a vanishing. This Being is therefore
+called appearance; for semblance is what we call Being that is a non-Being
+within itself.! But it is not only a semblance; it is appearance, a whole of
+semblance. This whole, as whole or as a universal, is what constitutes the
+interior, the play of forces as reflection of the interior into itself. In it, the
+essences of perception are posited for consciousness in an objective way, as
+they are in themselves, viz. as moments immediately turning into the
+
+opposite without rest or Being, the One immediately into the universal, the
+essential immediately into the unessential, and vice versa. This play of
+forces is consequently the developed negative; but the truth of this negative
+is the positive, viz. the universal, the object that is in itself—The Being of
+this object for consciousness is mediated through the movement of
+appearance, in which the Being of perception and the sensorily objective in
+general has only negative significance, and so consciousness reflects itself
+out of this movement back into itself as the true; but, as consciousness, it
+makes this truth again into an objective interior, and differentiates this
+reflection of things from its own reflection into itself; just as the mediating
+movement is likewise still an objective movement for it. For consciousness
+this interior is therefore an extreme over against it; but it is for
+consciousness the true, because in the interior, as the in-itself, it has at the
+same time the certainty of itself, or the moment of its Being-for-itself; but it
+is not yet conscious of this ground, for the Being-for-itself which the
+interior was supposed to have in its own self would be nothing other than
+the negative movement; but for consciousness this is still the objective
+vanishing appearance, not yet its own Being-for-itself; therefore the interior
+is for it certainly concept, but it does not yet know the nature of the
+concept.*
+
+4144. Within this interior truth, as the absolute universal which has
+been purged of the opposition of the universal and singular and has come to
+be for the understanding, for the first time there now opens up above the
+sensory world, as the apparent world, a supersensible world as the true
+world, above the vanishing Hither there opens up the enduring Beyond; an
+in-itself which is the first, and therefore imperfect, appearance of reason, or
+only the pure element in which the truth has its essence.!
+
+4145. Our object is thus from now on the syllogism which has for its
+extremes the interior of things and the understanding, and for its middle
+term, appearance; but the movement of this syllogism gives the further
+determination of what the understanding discerns in the interior through the
+middle term, and provides the experience that the understanding gains of
+this relationship of syllogistic interconnectedness.!
+
+q146. For consciousness the interior is still pure Beyond, because
+consciousness does not yet find itself in it; the interior is empty, for it is
+merely the nothing of appearance, and positively the simple universal. This
+mode of being of the interior immediately accords with those who say that
+
+the interior of things is not cognizable; but the ground for this would have
+to be conceived otherwise. Certainly, no knowledge of this interior is
+forthcoming as it is here in its immediacy, but not because reason is too
+short-sighted or limited, or however else one likes to call it—on this
+question nothing is known yet, because we have not yet penetrated that
+deeply—but owing to the simple nature of the Thing itself, that is to say,
+because in the void nothing is cognized, or, expressed from the other side,
+just because this interior is determined as the Beyond of consciousness.—
+The result is, of course, the same if a blind person is placed amid the wealth
+of the supersensible world (assuming it has such wealth, whether it be its
+own specific content, or whether consciousness itself be this content), and if
+a sighted person is placed in pure darkness, or if you like, in pure light, if
+the supersensible world is just this; the sighted person sees as little in its
+pure light as in its pure darkness, and just as much as the blind person, in
+the abundance of the wealth that lies before him. If that were all there was
+to the interior and to our unification with it through appearance, then
+nothing would remain but to stick to appearance, i.e. to take something as
+true which we know is not true; or, in order that there may after all be
+something in the void—which of course first came about as emptiness of
+objective things, but must, as emptiness in itself, be taken also as emptiness
+of all spiritual relationships and of the distinctions of consciousness as
+consciousness—in order, then, that in this complete void, which is even
+called the holy, there may be something after all, we would have to fill it up
+with reveries, appearances, which consciousness engenders by itself; it
+would have to put up with being treated so badly, for it would not deserve
+anything better, since even reveries are better than its emptiness.!
+
+4147. The interior or the supersensible Beyond has, however, arisen, it
+comes from appearance, and appearance is its mediation; or appearance is
+its essence and, in fact, its filling. The supersensible is the sensory and the
+perceived posited as it is in truth; but the truth of the sensory and the
+perceived is to be appearance. The supersensible is therefore appearance as
+appearance.—lf this leads us to think that the supersensible is therefore the
+sensory world, or the world as it is for immediate sensory certainty and
+perception, then our understanding is topsy-turvy; for appearance is not the
+world of sensory knowledge and perception as a world that simply is, but
+this world posited as sublated, or in truth as inner. It is often said that the
+
+supersensible is not appearance; but what is here understood by appearance
+is not appearance, but rather the sensory world as itself real actuality.
+
+4148. The understanding, which is our object, finds itself in just this
+position, that the interior has come about for it, to begin with, only as the
+universal, still unfilled in-itself; the play of forces has just this sole negative
+significance of not being in itself, and this sole positive significance of
+being the intermediary, but outside the understanding. The relation of the
+understanding to the interior through the mediation is, however, its
+movement, through which the interior will fill itself out for the
+understanding.—The play of forces is immediately for the understanding;
+but the true for it is the simple interior; the movement of force is therefore
+likewise the true only as something altogether simple. We have seen,
+however, that this play of forces is so constituted that the force which is
+solicited by another force is equally the soliciting force for this other force,
+which becomes itself a soliciting force only in virtue of this. What is
+present in this interplay is likewise merely the immediate alternation, or the
+absolute interchange, of the determinacy which constitutes the sole content
+of what emerges: to be either universal medium or negative unity. In its
+determinate emergence itself, it immediately ceases to be what it is on
+emerging; by its determinate emergence, it solicits the other side, which
+thereby expresses itself; that is, the latter is now immediately what the first
+was supposed to be. These two sides, the relationship of soliciting and the
+relationship of the opposed determinate content, are each for itself the
+absolute reversal and interchange. But these two relationships themselves
+are again one and the same; and the difference of form, of being the
+solicited and the soliciting, is the same as the difference of content, the
+solicited as such, viz. the passive medium, on the other hand the soliciting,
+the active, the negative unity or the One. In this way there vanishes all
+difference of particular forces which were supposed to be present in this
+movement, confronting each other in general, for they rested solely on those
+differences; and the difference between the forces, along with both those
+differences, likewise collapses into only one difference. Thus there is
+neither force, nor soliciting and being solicited, nor the determinacy of
+being a subsistent medium and a unity reflected into itself, there is neither
+something singly for itself, nor diverse oppositions; but what there is in this
+absolute exchange is only difference as universal, or as difference to which
+the many oppositions have been reduced. This difference as universal is
+
+consequently the simplicity in the play of force itself and the truth of this
+play; it is the law of force.'
+
+4149. The absolutely changing appearance becomes the simple
+difference through its relation to the simplicity of the interior or of the
+understanding. The interior is initially only the universal in itself; but this in
+itself simple universal is essentially no less absolutely the universal
+difference: for it is the result of the exchange itself, or the exchange is its
+essence; but the exchange, since it is posited in the interior as it is in truth,
+is herewith received in that interior as likewise absolutely universal
+difference, becalmed and remaining equal to itself. Or negation is essential
+moment of the universal, and negation, or mediation, is therefore, in the
+universal, universal difference. This difference is expressed in the law, as
+the stable image of restless appearance. Thus the supersensible world is a
+calm realm of laws which, though beyond the perceived world—for this
+exhibits the law only through incessant change—is equally present in it and
+is its immediate tranquil image.!
+
+q150. This realm of laws is indeed the truth of the understanding, and
+this truth has the content in the difference that is in the law; but at the same
+time this realm is only its initial truth and does not fill out appearance
+completely. The law is present in appearance, but is not the whole presence
+of appearance; with every change of circumstance the law has a different
+actuality. Thus appearance retains for itself an aspect that is not in the
+interior; or appearance is in truth not yet posited as appearance, as sublated
+Being-for-itself. This deficiency of the law must equally reveal itself in the
+law itself. What seems to be defective in it is that while it does have
+difference in it, the difference is universal, indeterminate. However, insofar
+as it is not the law in general, but a law, it does have determinacy in it;
+consequently, there are indefinitely many laws. But this multiplicity is itself
+rather a defect; that is, it contradicts the principle of the understanding for
+which, as consciousness of the simple interior, the true is the in itself
+universal unity. The understanding must therefore let the many laws
+coincide in one law, just as, e.g., the law by which a stone falls, and the law
+by which the heavenly spheres move, have been comprehended as one law.
+But with this convergence the laws lose their determinacy; the law becomes
+more and more superficial, and as a result what is found is, in fact, not the
+unity of these determinate laws, but a law which leaves out their
+determinacy; as, e.g., the one law which combines in itself the laws of the
+
+fall of bodies to the earth and the law of heavenly motion, in fact expresses
+neither law. The unification of all laws in universal attraction expresses no
+more content than just the mere concept of law itself, which is posited in
+that law as simply being. Universal attraction merely says that everything
+has a constant difference in relation to other things. The understanding
+supposes that it has thereby found a universal law which expresses the
+universal actuality as such; but in fact it has only found the concept of law
+itself; although in such a way that at the same time it thereby declares: all
+actuality is in its own self conformable to law. The expression of universal
+attraction is therefore of great importance insofar as it is directed against
+the thoughtless representation to which everything presents itself in the
+shape of contingency and for which determinacy has the form of sensory
+independence.!
+
+q151. Thus universal attraction, or the pure concept of law, stands in
+contrast to determinate laws. Insofar as this pure concept is regarded as the
+essence, or as the true interior, the determinacy of the determinate law itself
+still belongs to appearance, or rather to sensory Being. But the pure concept
+of law does not merely go beyond the law which, itself a determinate law,
+stands in contrast to other determinate laws, but also goes beyond law as
+such. The determinacy of which we spoke is itself really only a vanishing
+moment which can no longer occur here as essentiality; for only the law is
+present as the true; but the concept of law is turned against the law itself.
+That is to say, in the law the difference itself is apprehended immediately
+and taken up into the universal, but, along with that, a subsistence of the
+moments, whose relation the universal expresses, as essentialities that are
+indifferent and in-themselves. But these parts of the difference in the law
+are at the same time themselves determinate sides; in its true meaning, the
+pure concept of law as universal attraction must be conceived in such a way
+that in this concept, as something absolutely simple, the differences, that are
+present in the law as such, themselves return again into the interior as
+simple unity; this unity is the inner necessity of the law.!
+
+4152. The law is thereby present in a twofold manner: once, as law in
+which the differences are expressed as independent moments; and,
+secondly, in the form of simple Being-withdrawn-into-itself which again
+can be called force, but in such a way that it is not repressed force, but force
+in general, or as the concept of force, an abstraction which absorbs into
+itself the very differences of what attracts and what is attracted. Thus simple
+
+electricity, e.g., is the force; but the expression of difference falls within the
+law; this difference is positive and negative electricity. In the case of the
+motion of falling, the force is the simple factor, gravity, which has the law
+that the magnitudes of the different moments of the motion, the time
+elapsed and the space traversed, are related to each other as root and square.
+Electricity itself is not difference in itself, or in its essence the dual essence
+of positive and negative electricity; hence, it is usually said that it has the
+law to be in this way, and also that it has the property of expressing itself
+thus. It is true that this property is the essential and unique property of this
+force, or that it is necessary to it. But necessity here is an empty word; force
+must duplicate itself in this way, just because it must. Of course, if positive
+electricity is posited, negative electricity too is necessary in itself; for the
+positive is only as relation to a negative, or the positive is in its own self the
+difference from itself, as similarly the negative. But that electricity as such
+should divide itself in this way is not in itself the necessity; electricity, as
+simple force, is indifferent to its law—to be as positive and negative; and if
+we Call the former its concept but the latter its Being, then its concept is
+indifferent to its Being; it merely has this property; that is, precisely, it is
+not in itself necessary to it—This indifference takes another shape when it
+is said that to be as positive and negative belongs to the definition of
+electricity, or that this is simply its concept and essence. In that case, its
+Being would mean its existence in general; but the necessity of its existence
+is not involved in that definition; its existence is there, either because we
+find it, i.e. it is not necessary at all, or by means of other forces, i.e. its
+necessity is an external necessity. But in locating the necessity in the
+determinacy of Being through something else, we relapse again into the
+multiplicity of determinate laws which we have just left behind in order to
+consider the law as law; it is only with this law as law that we should
+compare its concept as concept, or its necessity, but in all these forms,
+necessity has shown itself to be still only an empty word.!
+
+4153. There is still another way than that just indicated in which the
+indifference of law and force, or of concept and Being, is present. In the law
+of motion, e.g., it is necessary that motion be divided into time and space, or
+then also into distance and velocity. Since motion is only the relationship of
+these moments, motion (the universal) is here certainly divided in its own
+self; but now these parts, time and space, or distance and velocity, do not
+express in themselves this origin from one thing; they are indifferent to each
+
+other, space is represented as able to be without time, time without space,
+and distance at least without velocity,—just as their magnitudes are
+indifferent to each other; since they do not stand in relationship as positive
+and negative, and thus are not related to each other through their essence.
+The necessity of the division is thus certainly present here, but not the
+necessity of the parts as such for each other. But because of this that first
+necessity, too, is itself only a sham, false necessity; that is, motion is not
+itself represented as something simple, or as pure essence, but already as
+divided; time and space are its independent parts or essences in themselves,
+or distance and velocity are modes of Being or of representation, one of
+which can well be without the other, and motion is therefore only their
+superficial relation, not their essence. Represented as simple essence or as
+force, motion is indeed gravity, but gravity does not contain these
+differences in it at all.!
+
+4154. The difference, then, in both cases is no difference in its own self:
+either the universal, the force, is indifferent to the division which is in the
+law, or the differences, the parts, of the law are indifferent to each other.
+The understanding, however, has the concept of this difference in itself just
+because the law is, on the one hand, the interior, what-is-in-itself, but is, at
+the same time, internally differentiated; that this difference is thus inner
+difference is implied in the fact that the law is simple force or as concept of
+the difference, and therefore a difference of the concept. But at first this
+inner difference still falls only within the understanding, and is not yet
+posited in the Thing itself. It is therefore only its own necessity that the
+understanding announces; a difference that it therefore establishes only by
+declaring at the same time that the difference is not a difference of the Thing
+itself. This necessity, which is merely verbal, is thus a recital of the
+moments that constitute the cycle of the necessity; these moments are
+indeed differentiated, but at the same time their difference is expressly said
+to be not a difference of the Thing itself, and consequently is itself at once
+sublated again; this movement is called explanation. So a law is enunciated;
+from this law, its universal in itself, or the ground, is differentiated as the
+force; but it is said that this difference is no difference, rather that the
+ground is constituted exactly like the law. The single occurrence of
+lightning, e.g., is apprehended as a universal, and this universal is
+enunciated as the law of electricity; the explanation then condenses the law
+into the force as the essence of the law. This force is then so constituted that
+
+when it expresses itself, opposite electricities emerge, which disappear
+again into each other; that is, the force is constituted exactly like the law;
+there is said to be no difference whatever between them. The differences are
+the pure, universal expression or the law, and the pure force; but both have
+the same content, the same constitution: so the difference as difference of
+content, i.e. of the Thing, is also again withdrawn.!
+
+4155. In this tautological movement, the understanding, as it turns out,
+sticks to the inert unity of its object, and the movement falls only in the
+understanding itself, not in the object; it is an explanation that not only
+explains nothing, but is so plain that, while it prepares to say something
+different from what has already been said, it really says nothing but only
+repeats the same thing. In the Thing itself this movement gives rise to
+nothing new; it comes into consideration only as a movement of the
+understanding. In it, however, we now recognize the very thing that was
+missing in the law, viz. the absolute exchange itself; for this movement,
+when we look at it more closely, is immediately the opposite of itself. That
+is to say, it posits a difference which is not only not a difference for us, but a
+difference that the movement itself sublates as a difference. This is the same
+exchange that presented itself as the play of forces; this involved the
+difference of the soliciting and the solicited, of force expressing itself and
+force repressed into itself; but these were differences which in truth were no
+differences, and therefore also immediately sublated themselves again.
+What is present here is not merely bare unity, such that no difference would
+be posited, but rather this movement in which a difference is certainly
+established, but, because it is no difference, is sublated again. With
+explanation, then, the change and exchange which just now was outside the
+interior and only in the appearance, has penetrated into the supersensible
+itself; but our consciousness has passed over from the interior as object to
+the other side, into the understanding, and there it has the exchange.!
+
+4156. Thus this exchange is not yet an exchange of the Thing itself, but
+rather presents itself as pure exchange by the very fact that the content of
+the moments of the exchange remains the same. But since the concept, as
+concept of the understanding, is the same as the interior of things, this
+exchange becomes as law of the interior for the understanding. The
+understanding thus undergoes the experience that it is a law of appearance
+itself that differences arise which are no differences, or that the like-named
+repels itself from itself; and similarly, that the differences are only such as
+
+are in truth no differences and sublate themselves; or that the unlike-named
+attracts itself—A second law whose content is opposed to what was just
+now called law, viz. the difference remaining constantly like itself; for this
+new law expresses rather the becoming-unlike of the like and the becoming-
+like of the unlike. The concept expects thoughtlessness to bring both laws
+together and to become conscious of their opposition—The second is
+certainly also a law or an inner Being that is like itself, but a self-likeness
+rather of unlikeness; a constancy of inconstancy.—In the play of forces this
+law emerged precisely as this absolute passing-over and pure exchange; the
+like-named, the force, decomposes into an opposition which at first appears
+as an independent difference, but which in fact proves to be no difference;
+for it is the like-named which repels itself from itself, and therefore what is
+thus repelled essentially attracts itself, for it is the same; the difference
+established, since it is no difference, therefore sublates itself again.
+Consequently, the difference displays itself as difference of the Thing itself
+or as absolute difference, and this difference of the Thing is thus nothing
+other than the like-named that has repelled itself from itself, and therefore
+merely posits an opposition which is no opposition.!
+
+4157. Through this principle, the first supersensible, the tranquil
+kingdom of laws, the immediate copy of the perceived world, is turned
+round into its contrary; the law in general was that which remains like itself,
+along with its differences; now, however, it is posited that each of the two is
+really the contrary of itself; what is like itself really repels itself from itself,
+and what is unlike itself really posits itself as what is like itself. In fact, it is
+only when thus determined that the difference is the inner difference, or
+difference in its own self, when the like is unlike itself, and the unlike like
+itself—This second supersensible world is in this way the inverted world;
+and indeed, since one side is already present in the first supersensible
+world, the inversion of this first world. With this, the interior is completed
+as appearance. For the first supersensible world was only the immediate
+elevation of the perceived world into the universal element; it had its
+necessary counterpart in the perceived world which still retained for itself
+the principle of exchange and alteration; the first realm of laws lacked that
+principle, but acquires it as inverted world.!
+
+4158. So by the law of this inverted world, the like-named in the first
+world is the unlike of itself, and what is unlike in the first world is equally
+unlike itself, or it becomes like itself. In determinate moments, the result
+
+will be this: what in the law of the first world is sweet, in this inverted in-
+itself is sour, what in the former is black is, in the other, white. What in the
+law of the first is the north pole of the magnet is, in its other, supersensible
+in-itself (viz. in the earth), the south pole; but what is there south pole is
+here north pole.! Similarly, what in the first law of electricity is the oxygen
+pole becomes in its other, supersensible essence, hydrogen pole; and
+conversely, what is there the hydrogen pole becomes here the oxygen pole.
+In another sphere, revenge on an enemy is, by the immediate law, the
+supreme satisfaction of the injured individuality. This law, however, that I
+should display myself as essence in the face of one who does not treat me as
+an independent essence, and rather sublate him as essence, inverts itself by
+the principle of the other world into the opposite law: the restoration of
+myself as the essence by the sublation of the alien essence inverts itself into
+self-destruction. If, now, this inversion, which is displayed in the
+punishment of crime, is made into a law, it, too, is again only the law of the
+one world, which has confronting it an inverted supersensible world, in
+which what is contemned in the former meets with honour, and what in the
+former is held in honour, falls into contempt. The punishment which by the
+law of the first world disgraces and annihilates a man, is transformed in its
+inverted world into the pardon which preserves his essence and brings him
+to honour.*
+
+4159. Looked at superficially, this inverted world is the contrary of the
+first in the sense that it has the first world outside it and repels it from itself
+as an inverted actuality, that the one is appearance, while the other is the
+in-itself, that the one is the world as it is for an Other, whereas the other by
+contrast is the world as it is for itself; so that, to use the previous examples,
+what tastes sweet would be really, or internally in the thing, sour; or what is
+north pole in the actual magnet of appearance, would be south pole in the
+inner or essential Being; what presents itself as oxygen pole in apparent
+electricity would be hydrogen pole in unapparent electricity. Or an action,
+which in appearance is a crime, should, in the interior, be capable of really
+being good (a bad action may have a good intention), punishment should be
+punishment only in appearance, but in itself, or in another world, a benefit
+for the criminal. But such oppositions of inner and outer, of appearance and
+supersensible, as of two kinds of actuality, are no longer present here. The
+repelled differences are not distributed anew among two substances such as
+would support them and lend them a separate subsistence, whereby the
+
+understanding would withdraw from the interior and relapse again into its
+previous position. The one side, or substance, would again be the world of
+perception in which one of the two laws would go about its essential
+business, and confronting it would be an inner world, just such a sensory
+world as the first, only in representation; it could not be exhibited as a
+sensory world, could not be seen, heard, tasted, and yet it would be
+represented as such a sensory world. But in fact, if the one posit is
+something perceived, and its in-itself, as its inversion, is equally something
+represented, then the sour which would be the in-itself of the sweet thing is
+a thing just as actual as the sweet thing, viz. a sour thing; the black, which
+would be the in-itself of the white, is an actual black; t
+
+<!-- Book text truncated by scrapem max_book_chars. -->
+
+## Notes
+
+- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。
