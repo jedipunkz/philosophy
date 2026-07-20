@@ -1,0 +1,1207 @@
+---
+source: "https://archive.org/details/cia-readingroom-document-cia-rdp91-00772r000100160053-2"
+title: "CIA Reading Room cia-rdp91-00772r000100160053-2: FR:TROFINOVA V. A. TO:TROSHICHEV O. O."
+author: "CIA Reading Room"
+year: "2016"
+captured_at: "2026-07-20T19:52:42Z"
+updated_at: "2026-07-20T19:52:42Z"
+capture_tool: "scrapem-book"
+source_name: "archive"
+keyword: "プラトン"
+query: "Plato"
+plain_text_url: "https://archive.org/download/cia-readingroom-document-cia-rdp91-00772r000100160053-2/cia-rdp91-00772r000100160053-2_djvu.txt"
+public_domain: true
+subjects:
+tags:
+  - "古代哲学"
+  - "イデア論"
+  - "倫理学"
+status: raw
+---
+
+# CIA Reading Room cia-rdp91-00772r000100160053-2: FR:TROFINOVA V. A. TO:TROSHICHEV O. O.
+
+- 著者: CIA Reading Room
+- 初版: 2016
+- 情報源: [archive](https://archive.org/details/cia-readingroom-document-cia-rdp91-00772r000100160053-2)
+- パブリックドメイン: ✓
+
+## Obsidian Links
+
+- キーワード: [[プラトン]]
+- 研究動向: [[プラトン-現代研究動向]]
+
+## Full Text
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP9Y1-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Eaynent tor Use of Haturel degources oe
+ag tenservation Heasure, by .. Trofisuk aac
+CG. iospatow, & ppe | ee
+RUATAM, [Pat » Hedge lyas LOeCOU, 24 i
+
+De 44.
+
+JERS 65,278
+
+Uso
+nee pmaLe 155.992
+a ¥ 68 355,
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/20 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+vlendcs end Prospects for Petroleum and Gas Pro-
+ot the Plattorm Regions if Siberia, yO
+
+a
+
+USSR
+ScleEs'& Astron
+hhar 6 275,71
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP'9YS1-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+hepart on tn dieperimestel Autonatic Preduction of
+
+ih Road Vint Mioke for a Sheet of the 18900,000 Turse
+wesphic Chart aad a Culture Plate for 1/4 sbeet
+
+of the UslSb,000 Jeint Operations Crashic, by
+
+(i. Troi, i. Trok, 27 2p.
+
+HEMAR, TPt, Ines Angewandte Leodasia, Karte; rapuisehe
+Sorsghudic, iti, °
+
+RTL To hh 26
+
+GOVE RAIN ul, ONE
+
+Ci.
+
+deh fBaswis
+feb FO
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+- .
+
+‘Three Exaeples of Rural Convers in the
+panna ry, by J. ¥. Treoia,
+Legrag Rove de Coogreghie, os Maree,
+PP
+pata
+ID 2204030286
+
+RE/Horerce/lmopr
+Apzuy 66 397,415
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+“3
+
+Cogna tliat
+
+. vr
+a
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Pi2-Pwisations, Aurora CVal and Plasma “
+Density in the Magnetosphere, by
+
+Ve. A. Troitskaya, Yo. 1. Fel'dshteyn.
+RUSSIAN, per, Lek AN SSSR, Vol 186,
+
+No 3, L960, pp S7S-S77.
+
+NAS /GEEC/IT-GH-AA-10848-69
+
+Seck-Atgos Sci
+July to
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+ees
+
+Spee ae aloe aenre ri heat ee oo
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Petertination of the Dimensions of the
+dagnetosphere, as Heasureed by the Sub-
+solar Distance, frow the Data of Ter-
+restrial Observatins of Geomagnetic
+Micropulsations, by V. A. Troitskaya,
+
+Rk. V. Shchepetaoy.
+
+RUSSIAN, per, Dok AK Nauk SSSR, Vol 182,
+No 5, 1868, pp 1063-1066.
+
+NASIGSFC/ST-GN-~PF-16769
+
+Sci-Astron
+May 6% 382.606
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Pulsations of the Pi2 Type, the Auroral Oval and
+the Density of Plasma in the Magnetosphere, by
+V. A. Troitskaya,
+
+RUSSIAN, per, Dok Ak Nauk SSSR, Vol 186, No 3,
+1509) PP 375-377.
+
+duly 70
+
+a ao iid ess
+/, Ge. Trt (Chere
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDFP9S1-00772RO00100160053-2
+
+aoe vi
+“ i a ipso
+
+j ?
+EOE ta
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+ihe fo loies
+
+ch f Myth
+
+wit} 1s
+
+na Hl oer 8 Hea Re ant sien tone ams as ©
+aiee te
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+APPROVED FOR RELEASE
+
+Ds
+= St
+‘3. Be
+ee
+
+tetetesis
+
+igs
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/20 CIA-RDP931-00772R000100160053-2
+
+iesdllat —
+| ed pe WE -, Li
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/03/30 CIA-RDP291-00772RO0001001600853-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+: hee —_ poo
+
+©
+
+Vrenaforuers with “agmetice Tap Uhinging of the
+windings, by |. As irehtsida. _ me ues
+liao LA ¢ fers {deol heetygs 0 7, 105, or 0
+AL ig BPH Hee
+
+eh ye ae Ky
+
+oe é
+£ R61, 2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+“khadioray'. Investigations Contribute to 379
+the Treasure of iiuman Knowledge, by
+
+V. Troitskiy.
+
+RUSSIAN, up, Pravda, 19 May 1969.
+NAS/GSFC/ST -10840-69
+
+Available froaw CFSTI
+
+A pita Rey
+
+Sei-say
+June 69 384 013
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+: | eee SAN. a
+eae A en a Cav aera
+Shay bow cea iene Pes
+
+Gia ye AGE Si ky
+
+Stee Pictur tae ai boae sn :
+
+aes sath “a ee AB me ae oy <
+
+alee iL lh Sk ) teerim
+vba tr j Ld fine
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+FON Durtsile e -
+estigation of Longeiiange Trop ric bree
+
+raation of centimeter and Decimeter Waves Over
+the Leningrad-Petrosavodsk Route, by
+Vv. Ne Troitskiy, 11 pp.
+RUSSIAN, por, Reddotektndig, Nosoow, Vol 27, Ho 5,
+1972, pp 2935.
+JPRS 56259
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Deformetion of SVile-Type Alloya, by
+Yar He ‘Ocha leenico, Ve P. Troitekiy, @al. 6 PPe
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-0077272RO00100160053-2
+
+rng
+aes 7
+
+5 es
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+dillat  AKMhe ee AEE Lob om Apate faewisd ae
+binibly by UZ Se de heotyseayy © oe
+iA dily PEW HO SOUL aT ad,
+One Plo.
+
+fb styl elt aimed FES:
+
+oe PN a eg ee Oe, ;
+er h WOaeite Gled. tar by
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Devalgwent of the futomatic Mrotection of
+Electric Systess in the Years 1919-1969, by
+Jm Trojak. 20 pp.
+
+POLISH, per,
+
+Vol 15, Ho 7, 1969, yp 293-295.
+ATR/FTD/HC~23=302-7 1
+
+mise,
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+vy
+
+gat
+
+abt |
+
+jadearten eo
+
+ny
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+restacicua owenktbed for Jse in 168, by ings
+— AL ie
+Ga. : ae His Ballad we
+Gbtitg Dis iapenbeehies Age i960,
+dk iy i. aps}
+
+eS a Tar par
+
+hong eh
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+TROJANGWSII, J. Microbiological break-
+
+‘Postepy Mikrobiol, 6(2):151-71 down of lignin.
+
+(8)) (1967) (GB 167/1716
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+raglisin Title Unknown, by P. Trojer,
+O. Blamel, 4pp.
+
+GERMAN, oor, fement-Kalt-Gips, No. 4,
+1969, wp. 175-1787 00
+
+SCPSTI TY 79~59032
+
+AVATLIAMLE PROM USDI/BR ONLY
+
+vines ey
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Naa ibe en oa a te
+“ah @KMMEDTS lag as OL ON. Lageke
+Swe eR Ate
+
+Hert
+
+tay odkbtachad,
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+eo roll —* Terhekt in the Tes.
+0 a eee
+per, Rader fund., No 1, 1968, pp 19-2
+
+BEEMAN, nen
+3151 G62
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/03/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+SUSE REE YTS IER NET PRS
+
+Spi ec prepeg hp erie ra ericpraay aes ca
+Gaga ed ae ip
+EDEL
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+the Peubleus of Modebening Sinber Hines,
+by l. Chinubek aad D. ragin,
+CZECH, au iytindk, Vol 29, No 7, 1969, pp Tea.
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Teennological Proplens of Maximur UtLlizgetion
+of OreeBlomiing Facilities in Czecnoglovakia,
+by Jrehouis TroZka, 16 pp.
+
+GEAMAN, por, Neve Hutte, Vole 11, Noe J, fept
+Lym, bpe MPD 5PO »
+
+JPRS 373
+
+BE-Caechodloveia
+Seon
+Dec ob
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+pa i Sued dat. Ved 2
+ies eee
+
+“ nn
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Samp bot va Mectricnd Activity
+Strath cin cf tee Braids buen Ma syhn ne
+Teembgete Marcopy, by He. Ben tere
+
+fie La Salita» u ith i
+TURD LAB, jr, Fumes: Richy me
+fy teagan Tyee, pe Wyek -
+
+Jae 7A
+
+Ap. Trekha:
+
+Mages
+Ta
+
+1 ms: 4
+mace ie A:
+
+Stan poe Ls
+che i tee “ado
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+are Le,
+Coote bucenbe tai Gh tts urdd ec Gb oad a tod 43020 10 of
+or chiyetnatparabans LAC, Uy cee PTR»
+Le im Aue Rho, CC de 7S, le
+ribald g skill EEBLR AHL 2 MEE em i,
+Woo, .i Lbleiie.
+oi flay ashe Liebe
+
+any :
+
+ian a ot
+PRUE oe wv
+
+a
+Cie.
+GAML/ dothasah deb phat
+
+raw Ob
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+. ‘ into @
+ewing & eel bus fron a Vacwnm
+Ges Through + GaseDynanie Window, by A. He
+Trokhan.
+RUSSIAN, pars
+
+Sei = Phys
+Sept. 67
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+3] Leadlag tut, cLectron seams frase Vacuun
+into 4 Nes Through a Gas Dynamic “indow,
+
+by isk ‘iy Eyakibae, 6 PP.
+pp aree Patt Larne nove esieharig
+te i! ie 424 iA bo . 5, is Se Pp i lit.
+
+on 366, 949
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+18
+
+Seri cetiyetion of Tomtulence b: pbical atha‘a,
+yr Se CODEN, Ate sroeees a he
+
+el akdlig Petty lars wales | aaa sig
+
+ie meee (Aehkh, “‘oscaw, Jalyedug 2:
+
+ati hee: Type:
+phy Gb
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+High Voltuge Voltaster, by A. iM. Trokhan, 3 ppe
+WOEBIAB, Patent 109079 (9%5096/26-10) Class
+ray 9/01, 5 War 1965
+
+BPH 3-1. 370-67
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Sern pea i easatt Las
+1965 ip P
+
+kOST sesine
+
+FSG Liam
+
+rast ube
+
+L
+te See
+
+“ae kK. Trokhimen Ko
+
+Jod/epoy o tipetue
+Sept Gib
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Italian Comemist Reporter Describes Bonding
+is Worth Vietaan, by A. Trombedori, 5 pp.
+
+SPR 834327
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Fraternul Jolidarity Between the Italian and
+Vietnamese Comamists, by Antonello Trombadori,
+ITALIAN, dp, i*Unita?s: 13 Dec 66, p 1, 12,°-—-
+JPRS Co SF 4487
+
+Italy, ’. Vietnan
+Pol
+
+Jan 67 316,544
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Kacent Data on the Vapor Pressuses of
+the Metals ond of Some Gefractory Hetelicids,
+Part Il, Groups IV, V, Vi, VII, VIII,
+
+by F, Troute, et ai,
+
+FUENC, pax, Rev Hautes Toaperntures et
+wwe
+
+Ue. Se GOVERNH,ENT USE ONLY
+SeiaMyi 309 ,658
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+bedeeiye
+
+SEE PAL pS .
+
+ee Ee Tg jae Tee
+cin)
+
+Tae Tre! ye? a
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+renal
+
+os (rte de!
+
+Formulas For Polar Geocetic oe aon aaa en
+Geographic Coordinates wituin tic Geouetie Kiela,
+NIKG A a
+
+by ¢C 9 OE
+
+py C. Peenbakti, 9 pp. ,
+nt atc bolle Leino di Geoussla 2 ScLenac
+ALfind core SOMO OTT L9SG7 pe 2e1- 259.
+
+Sl USE OUbY
+cere. C.1739
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+“otara) ‘iMbratidons of a cipoular orthotropic
+mote With a ‘dneariy Variable Thidmeos, ty
+
+* Prohatcl«.
+sameeren Gis CBHGr
+
+a ema ee
+
+c
+
+Mag Bya, Vol bs
+
+the ffiawt of Magnesia on the eiearcees
+in the Syste Lron-Line-iiron eee a
+and on tie Sulfur Distribation at 1Goue
+bag ¢, ny GS. romeh, 28 pp.
+COMPIDESETAL CLA INTERNAL USc OLY
+SERMAN, per, Arghiv Lisenhuettenven,
+
+weal £f in 22. 1909. Bre IE9--
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+ra
+
+The Effect of Kenganese Oxide ca the y
+in the Systen Fe-Cab-Fe_ — S10, and fos roel tet
+
+Mstribation st 1,600°C, by G. Tromal, ot al.
+GRMAN, per, Anche Eleems, Vol 10, Dec 1969,
+pp 969-778.
+
+BEST 8306
+
+iar 4 fL
+YY, Dopp
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+_ Equilibria Between Iron Melts and Slays of the 17 4
+- System Fed, -Ca0-P20c-MgO at 100007, by G. Tromel.
+GERMAN, per, Arch. Bisenh., Vol 33, Aug 1907,
+pp 595-605.
+BISI 6293
+
+of
+fies
+iy
+cs
+
+}
+
+r{
+
+OE eats cipal pea AN eae oe ‘
+
+sci / materials]
+nov 59 397 , 301
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Rquilitein Between Iron and ra aad anal (Gi
+®
+
+Bearing Iron Oxide Slugs at 140i) and 1600
+
+G. Trowmal.
+GERMAN, per, Arch Eiseph, Vol 4), 1969, pp 87-98.
+BISI 7345
+
+Sci-Mat
+
+EE Ae OP ROME EL
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+The Present stute of Development of Continuous Y 0
+‘CGastin,, (ef Steel), by ik. Tropel,
+
+OERMAN, per, lepsi, Fachberichtc, Vol 76, 0 4,
+
+1968, ri 3050 TG.
+
+iH. 7h]
+
+ee
+A /KoMme!
+
+Sedetint 377,721
+“ay Lo
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+fae tbtdadle Gael A sats Gt ow ve
+waka wad loatasitecsd:
+
+tnhes
+
+Picea t
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+Glectrolysis of Alkali Chleride, Hydregea 7&4
+Chkeride sud saver, by &. Hass, #. Troms.
+SERHAH, pen, Chenie-Ingenieur-Tecanik,
+
+Vol $0, so 12> T98S, pp SbF S64.
+
+RTC GU EERIL-GTA
+
+eg aca
+
+Sei-Caay
+“ay ot
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDPOE1-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+i. Sie
+An Sxperinentad Apparatus for cbddepaberi oes
+Conbustion, by Ke Grummer, 5e Trowineer ae
+POR OPRICTAL WE ONLY FOR INTERNAL ae vi oe
+DEPARTHENT OF WHPFENSE ONLY. Te? Doms ENT 1s NOT
+BELCASABLE TO WETENSE DOCUMENTATION oe ee
+CURMAN, rpts testsche Luft un Saurifahrt Vor chuny
+
+St avel Pesearc::
+bericht 69-52 1 Suace Travel iy j
+
+nar 71
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Trodkurtion af MekelCopper Biseteal ty Yacuun
+Robbins, tie Ae fe eee A.B. Tron’, 7 pp.
+
+SER /PoTD/ iil AiR AST
+
+Hetiuter isle
+tor eit
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+hyaade's Fughtlng Forces, by Lafowie Tron,
+13 ihe ;
+FRAC, petely [ae Revue deg Deus Mendes, 2 Ay:
+Hy We BilieTI.
+
+JPRS {eR
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Trial Asiignomntes for thivorsity “racuates lame
+nels by Jon Swonac, 5 pPe
+UV AANTAbig BPs ictntste Tanercvalnl. Sacherest,
+23 dime if 0 PP Le Se
+Jit Q95)b
+
+—_—
+
+Ton RON Al:
+
+i: po Rom—gria
+doe
+Aug 65
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+ae q :
+i i}
+
+it meta A ’
+
+Sogisng aa pee
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+i
+q
+3
+
+er
+
+Nee
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+en@)
+
+Article shows ow a Seigon fative Hace Goo in
+and, oy trenc Lhd, 5 ppe .
+VIPTNMHIS:» MD. jepek Neb, imnol, 5 ct 1:69, p 2.
+
+dS
+[rerg Thx
+tent hot
+
+Soe
+Hoe 6 307
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+A Review of the Book The Victory At Dien-
+Bienpiua, by Trang Thuong, 5 PP.
+
+231,597
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+(iif
+
+Distribution of Tenaile Scresses baring the
+Cald Welling of Wide Strip, by A. iroost and
+He pA Linendnig »
+
+CERAAH, pets APOha Memhe, Vol ha, Jan 1967,
+
+PP
+BLSX §80%
+
+G . ey ee
+Sethenliat
+kev 47
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Adhonion of Paraffin on Surfaces of
+ertous Typos, and Application to the
+Prevention of Peraffin Deposition in
+OL} Beotiotlon, byt aa peril hs
+RUSSIAN, pot, | i Tau 1, Chan
+Vethe, Vol Lue, to S , Got 1988,
+
+pP Ii pl-12143.
+
+on
+
+VP. “TRoN OV
+
+Tov 70
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/03/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+lo DY 27:
+ron cone
+A /RsosTt
+SipihoP|
+Juk 66 306 407
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+‘Effect of Varying the fork Roll or Back-up Roll = _
+Baleicing Force on the Watribution of Strip t
+Tension Cvdr the Hidth “hen Cold Rolling Wide YL
+Strip, by A. Troost, H. Wilkening.
+
+GERMAN, per, Arch, Eisenh, Vel 37, ec 1966
+
+PP 9554946, : :
+
+BISI 5442
+
+ii a. POS +
+Sel/Hateridis
+Jun 67
+
+327,740
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+iad
+
+y
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+cea need oe nant eee lier at
+
+aa
+
+Vv PRC pe
+v
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+ennai in a -
+
+th
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+TROPLEVs BU
+
+NETWURK CHART MuDELING AS aPPLIED Tu REPAIR JU
+F AUTOMATIVE VEHICLES
+
+VUENNA TexHN EKA, Noe bs 1972, PP. B-1L
+
+FSTC-H1-24-1L116-75
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772RO000100160053-2
+
+‘the Effect of a Hagnetic Find oa the eo
+Stégnatiionpoine Plow Past a Bluat Body Peet
+in the Presence of Ablation of an
+Hlectvicaliy Conducting Shivid, by
+Be Ap Froppe
+HSIAN, per, Zaur Prikl Hekh i Tekin
+Fiz, No 3, 1968, fp 17-25.
+TDeNT=67-455.
+PjOORE TILE
+
+Ee
+
+Sci + Fhys
+lax GF
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+oe ee : jase .
+Pere ed cad Sei ose
+Sipe tots teat ee pinay mee: Babeneee 2 same
+
+ns ae 2
+wablacgmenig
+
+op Lo dtp rae.
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+- ¢
+aiatias Cont ctudyine the cnuawrinor of eat %(
+aebutden Wdeqes Gith Ome marcau Varbaticoa cf
+Ok tums ib Liters, Uy Ve we Promiermikts,
+
+“ilie .e be pet de
+
+sod dy oy “eeso gave occ fen nd cw shot:
+Mean) WG OER ani ae alc N
+ZL See eee es :
+burusil, 4th,
+L temstoun tv
+
+2 3G" OU.
+
+ce PE ied nd dee
+
+a Ta os bo + an KO
+Cpa Te
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+Investigation of the Strength and Plasticity of
+Refractory Alloys Dwring Propranmed Variations
+
+of Tenperature and Load, by V.T. Troshchenko,
+
+V.A. Strizhalo. 19 pp
+
+RUSSIAN, per, AN UKrSSR. Institut Problem Prochnosti
+
+Vsesoyuznoye auchno-Te cheskoye Soveshchaniye
+Sth rise Dec 1967, Terno vochnost Hatorteiny i
+Fonstruktlvaykh Elementov, No a 0
+
+A Call - - -
+
+309, pp 130-141
+
+7
+
+: s ee ees li. ss ka ie c
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+&
+‘Currants of juasti€rapped Particles and 24
+Theiy Turvernction with the Geosagnetic
+field, py We Ue Pletnev, 0. A. Troshic ev.
+SUSSYAK, pre, Kosmicheskiye Ussledovaniya.
+Vel G, bo fi, 1968, pp 707-7he.
+LAS/OSPLIST. PEG. UN7R8
+
+wD [rodthectir
+
+Sei-Aagtroen
+ray bf
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+APPROVED FOR RELEASE: 2005/08/30 CIA-RDP91-00772R000100160053-2
+
+## Notes
+
+- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。
