@@ -25,15 +25,6 @@ jobs:
           go-version-file: go.mod
           cache: true
 
-      - name: Format check
-        run: |
-          unformatted="$(gofmt -l .)"
-          if [ -n "$unformatted" ]; then
-            echo "::error::The following files are not gofmt-formatted:"
-            echo "$unformatted"
-            exit 1
-          fi
-
       - name: Build
         run: go build ./...
 

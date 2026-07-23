@@ -3,7 +3,6 @@ package scrapem
 import (
 	"encoding/json"
 	"io/fs"
-	"log"
 	"os"
 	"path/filepath"
 	"strings"
@@ -24,15 +23,7 @@ func loadSeen(path string) (*Seen, error) {
 	}
 	var seen Seen
 	if err := json.Unmarshal(data, &seen); err != nil {
-		// A corrupt seen index (e.g. a torn write left by an earlier crash)
-		// must not halt every future run. Quarantine it and start empty;
-		// syncSeenFromInbox then rebuilds the index from the inbox notes that
-		// already exist on disk, so nothing is re-scraped.
-		log.Printf("seen index at %s is unparseable (%v); quarantining to %s.corrupt and rebuilding from inbox", path, err, path)
-		if rerr := os.Rename(path, path+".corrupt"); rerr != nil {
-			log.Printf("could not quarantine corrupt seen index: %v", rerr)
-		}
-		return &Seen{URLs: map[string]string{}}, nil
+		return nil, err
 	}
 	if seen.URLs == nil {
 		seen.URLs = map[string]string{}
@@ -94,5 +85,5 @@ func (s *Seen) Save(path string) error {
 	if err != nil {
 		return err
 	}
-	return atomicWriteFile(path, append(data, '\n'), 0o644)
+	return os.WriteFile(path, append(data, '\n'), 0o644)
 }
