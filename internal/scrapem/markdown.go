@@ -41,7 +41,7 @@ func writeMarkdown(inbox string, item Item) (string, error) {
 	}
 
 	content := chooseRenderer(now, item)
-	return path, os.WriteFile(path, []byte(content), 0o644)
+	return path, atomicWriteFile(path, []byte(content), 0o644)
 }
 
 func updateMarkdownBySource(inbox string, item Item) error {
@@ -74,7 +74,7 @@ func updateMarkdownBySource(inbox string, item Item) error {
 			newPath = oldPath
 		}
 	}
-	return os.WriteFile(newPath, []byte(chooseRenderer(when, item)), 0o644)
+	return atomicWriteFile(newPath, []byte(chooseRenderer(when, item)), 0o644)
 }
 
 func buildMarkdownBase(when time.Time, item Item) string {
