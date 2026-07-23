@@ -12,12 +12,12 @@ type gutenbergResponse struct {
 }
 
 type gutenbergBook struct {
-	ID       int               `json:"id"`
-	Title    string            `json:"title"`
-	Authors  []gutenbergAuthor `json:"authors"`
-	Subjects []string          `json:"subjects"`
-	Formats  map[string]string `json:"formats"`
-	Copyright bool             `json:"copyright"`
+	ID        int               `json:"id"`
+	Title     string            `json:"title"`
+	Authors   []gutenbergAuthor `json:"authors"`
+	Subjects  []string          `json:"subjects"`
+	Formats   map[string]string `json:"formats"`
+	Copyright bool              `json:"copyright"`
 }
 
 type gutenbergAuthor struct {
