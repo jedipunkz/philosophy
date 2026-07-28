@@ -43,6 +43,13 @@ type SourceConfig struct {
 	// UserAgent overrides scrape.user_agent for this source only. Empty means
 	// fall back to the global default.
 	UserAgent string `yaml:"user_agent"`
+	// APIKeyEnv names an environment variable holding an API key for this
+	// source. When set and the variable is non-empty, its value is sent as the
+	// Semantic Scholar "x-api-key" header, which routes requests to a dedicated
+	// quota instead of the heavily rate-limited shared pool. The key is never
+	// stored in the config or the container image; it is injected at runtime
+	// (e.g. a GitHub Actions secret). Empty means unauthenticated best-effort.
+	APIKeyEnv string `yaml:"api_key_env"`
 }
 
 type KeywordConfig struct {

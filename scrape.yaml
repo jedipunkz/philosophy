@@ -37,6 +37,22 @@ sources:
     base_url: https://export.arxiv.org/api/query
     search_url: https://export.arxiv.org/api/query?search_query=all:{query}&start=0&max_results=50
 
+  # Semantic Scholar Graph API（論文の二次文献）。検索応答に要旨・著者・年・
+  # venue・DOI・open access PDF が含まれるため詳細取得は不要。無認証の共有
+  # プールはレート制限が厳しく 429 を返しやすいが、runner の 429 リトライと
+  # request_delay で吸収する。専用 API ホストで robots による ClaudeBot の
+  # 名指し Disallow は無い。
+  - name: semanticscholar
+    enabled: true
+    type: semanticscholar_api
+    base_url: https://api.semanticscholar.org
+    search_url: https://api.semanticscholar.org/graph/v1/paper/search?query={query}&limit=12&fields=title,abstract,year,venue,authors,externalIds,openAccessPdf,url
+    # 任意。API キーを持つ環境変数名。値があれば x-api-key ヘッダで送られ、
+    # 共有プールではなく専用クォータに回るため 429 を大幅に減らせる。未設定
+    # なら無認証のベストエフォート（429 はリトライで吸収し、駄目なら skip）。
+    # キーは設定・イメージに含めず GitHub Actions の Secret 等で実行時注入する。
+    api_key_env: SEMANTIC_SCHOLAR_API_KEY
+
   - name: wikipedia_ja
     enabled: true
     type: wikipedia_api
@@ -66,6 +82,7 @@ keywords:
       - クリトン ソクラテス
       - Plato Crito
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -81,6 +98,7 @@ keywords:
       - 万物流転
       - Heraclitus fragments
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -97,6 +115,7 @@ keywords:
       - Epicurus Letter to Menoeceus
       - Epicurus Principal Doctrines
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -113,6 +132,7 @@ keywords:
       - Plato Republic
       - Plato Symposium
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -129,6 +149,7 @@ keywords:
       - Aristotle Nicomachean Ethics
       - Aristotle Politics
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -147,6 +168,7 @@ keywords:
       - 統治二論
       - Locke Two Treatises of Government
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -164,6 +186,7 @@ keywords:
       - 人間知性研究
       - Hume An Enquiry Concerning Human Understanding
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -181,6 +204,7 @@ keywords:
       - エミール ルソー
       - Rousseau Emile
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -196,6 +220,7 @@ keywords:
       - 方法序説
       - Descartes Meditations on First Philosophy
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -224,6 +249,7 @@ keywords:
       - Spinoza Principles of Cartesian Philosophy
       - Spinoza Short Treatise on God
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -241,6 +267,7 @@ keywords:
       - 実践理性批判
       - Critique of Practical Reason
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -256,6 +283,7 @@ keywords:
       - 精神現象学
       - Hegel Phenomenology of Spirit
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -272,6 +300,7 @@ keywords:
       - Karl Marx Capital
       - Communist Manifesto
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -288,6 +317,7 @@ keywords:
       - Schopenhauer The World as Will and Representation
       - Die Welt als Wille und Vorstellung
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -307,6 +337,7 @@ keywords:
       - 不安の概念
       - Kierkegaard The Concept of Anxiety
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -325,6 +356,7 @@ keywords:
       - Nietzsche genealogy of morals
       - Nietzsche will to power
     sources:
+      - semanticscholar
       - crossref
       - arxiv
       - wikipedia_ja
@@ -344,6 +376,7 @@ keywords:
       - Heidegger Being and Time
       - Sein und Zeit
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -361,6 +394,7 @@ keywords:
       - 哲学探究
       - Wittgenstein Philosophical Investigations
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -379,6 +413,7 @@ keywords:
       - 実存主義とは何か
       - Sartre Existentialism Is a Humanism
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -398,6 +433,7 @@ keywords:
       - 狂気の歴史
       - Foucault History of Madness
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -415,6 +451,7 @@ keywords:
       - 政治的リベラリズム
       - Rawls Political Liberalism
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -432,6 +469,7 @@ keywords:
       - 人間の条件 アーレント
       - 全体主義の起源
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -447,6 +485,7 @@ keywords:
       - ユング 元型
       - 集合的無意識
     sources:
+      - semanticscholar
       - crossref
       - arxiv
       - wikipedia_ja
@@ -468,6 +507,7 @@ keywords:
       - Lukács Theory of the Novel
       - Lukács Soul and Form
     sources:
+      - semanticscholar
       - crossref
       - arxiv
       - wikipedia_ja
@@ -490,6 +530,7 @@ keywords:
       - Rorty neopragmatism
       - Rorty anti-representationalism
     sources:
+      - semanticscholar
       - crossref
       - arxiv
       - wikipedia_ja
@@ -509,6 +550,7 @@ keywords:
       - Confucius Analects
       - Analects of Confucius
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -526,6 +568,7 @@ keywords:
       - Tao Te Ching
       - Daodejing
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -543,6 +586,7 @@ keywords:
       - Zhuangzi Inner Chapters
       - 胡蝶の夢 荘子
     sources:
+      - semanticscholar
       - wikipedia_ja
       - sep
       - archive
@@ -560,6 +604,7 @@ keywords:
       - Mulamadhyamakakarika
       - Nagarjuna Madhyamaka
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -578,6 +623,7 @@ keywords:
       - 曹洞宗 道元
       - Dogen Zen
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -596,6 +642,7 @@ keywords:
       - 絶対矛盾的自己同一
       - 京都学派 西田
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep
@@ -630,6 +677,7 @@ keywords:
       - Shinran Pure Land Buddhism
       - Jodo Shinshu Shinran
     sources:
+      - semanticscholar
       - crossref
       - wikipedia_ja
       - sep

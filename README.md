@@ -87,6 +87,7 @@ flowchart TD
 
     subgraph sources["情報源"]
         crossref["Crossref / arXiv<br/>（論文）"]
+        s2["Semantic Scholar<br/>（論文・要旨＋OA PDF）"]
         wiki["Wikipedia ja<br/>（日本語解説）"]
         sep["SEP<br/>（英語学術記事）"]
         archive["Internet Archive<br/>（PD 書籍 OCR）"]
@@ -99,6 +100,7 @@ flowchart TD
 
     config --> scraper
     crossref --> scraper
+    s2 --> scraper
     wiki --> scraper
     sep --> scraper
     archive --> scraper
@@ -110,6 +112,7 @@ flowchart TD
 情報源の役割分担:
 
 - **Crossref / arXiv**: 論文・草稿のメタデータ・Abstract・PDF 本文。`## PDF Text` に抽出本文を保存
+- **Semantic Scholar**: 論文の二次文献。検索応答に Abstract・著者・年・venue・DOI が含まれ、open access PDF がある場合は本文も `## PDF Text` に保存。arXiv がカバーしない人文系の研究論文を補う。無認証の共有プールはレート制限が厳しいため 429 リトライで吸収する
 - **Wikipedia ja**: 日本語で哲学者・著作・概念の解説。現代著者もカバー。`## Full Text` に extract を保存
 - **Stanford Encyclopedia of Philosophy (SEP)**: 英語の学術的に信頼性の高い長文記事。`## Full Text` に本文を保存
 - **Internet Archive**: パブリックドメイン書籍の**フルテキスト**（OCR）。古典のみ対象。`public_domain: true`（`access-restricted-item` が false の場合のみ）

@@ -37,7 +37,8 @@ processed_to: "notes/<反映先ファイル>.md"
 
 ### 論文素材（`capture_tool: scrapem`）
 
-- Crossref / arXiv 由来。`source`、`citation`、`BibTeX` がある場合は正式ノートの末尾または参照節に出典として反映する
+- Crossref / arXiv / Semantic Scholar 由来。`source`、`citation`、`BibTeX` がある場合は正式ノートの末尾または参照節に出典として反映する
+- Semantic Scholar は `source_name: semanticscholar`。`citation` に DOI（無ければ arXiv ID）が入り、open access PDF がある場合のみ `## PDF Text` に本文が入る。arXiv がカバーしない人文系の研究論文を補う
 - PDF本文は `## PDF Text` に入るが、抽出ノイズがあるため、必ず Abstract / Citation / 既存ノートと照合して使う
 - 論文素材から再構成するノートは原則 `種別: 研究動向`（著者ごとの研究動向ノート）にまとめる
 
@@ -70,7 +71,7 @@ processed_to: "notes/<反映先ファイル>.md"
 
 ## スクレイパー運用
 
-- 設定ファイル: `scrape.yaml`（論文＋書籍を一本化。Crossref / arXiv / Wikipedia ja / SEP / Internet Archive）
+- 設定ファイル: `scrape.yaml`（論文＋書籍を一本化。Crossref / arXiv / Semantic Scholar / Wikipedia ja / SEP / Internet Archive）
   - PhilArchive / PhilPapers / gutendex.com（Gutenberg のサードパーティ API）は robots.txt で ClaudeBot を名指しで Disallow しており、Cloudflare 側で GitHub Actions の IP レンジもブロックされていたため使用を停止した
 - 単発実行: `scripts/scrape.sh`
 - 定期実行: `docker compose up -d scheduler`
