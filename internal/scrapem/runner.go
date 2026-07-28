@@ -179,8 +179,9 @@ func (r *Runner) runSource(ctx context.Context, source config.SourceConfig, quer
 				if err := r.enrichWikipediaText(ctx, &item, source); err != nil {
 					log.Printf("wikipedia text fetch failed url=%s: %v", item.URL, err)
 				}
-			case "api", "crossref_api":
-				// arxiv / crossref — search response already has full metadata, no detail fetch
+			case "api", "crossref_api", "semanticscholar_api":
+				// arxiv / crossref / semantic scholar — search response already
+				// has full metadata, no detail fetch
 			default:
 				if err := r.enrich(ctx, &item, source); err != nil {
 					log.Printf("detail fetch failed url=%s: %v", item.URL, err)
@@ -295,10 +296,15 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 		return nil, err
 	}
 	req.Header.Set("User-Agent", r.userAgentFor(source))
+	if source.APIKeyEnv != "" {
+		if key := strings.TrimSpace(os.Getenv(source.APIKeyEnv)); key != "" {
+			req.Header.Set("x-api-key", key)
+		}
+	}
 	switch source.Type {
 	case "api":
 		req.Header.Set("Accept", "application/atom+xml,application/xml;q=0.9,*/*;q=0.8")
-	case "archive_api", "crossref_api":
+	case "archive_api", "crossref_api", "semanticscholar_api":
 		req.Header.Set("Accept", "application/json,*/*;q=0.8")
 	default:
 		req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
@@ -315,6 +321,8 @@ func (r *Runner) search(ctx context.Context, source config.SourceConfig, query s
 		return parseArxivFeed(resp.Body)
 	case "crossref_api":
 		return parseCrossrefResults(resp.Body)
+	case "semanticscholar_api":
+		return parseSemanticScholarResults(resp.Body)
 	case "archive_api":
 		return parseArchiveResults(resp.Body, source.BaseURL)
 	case "gutenberg_api":
