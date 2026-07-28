@@ -81,16 +81,30 @@ philosophy/
 
 ## 自動収集アーキテクチャ
 
-```text
-scrape.yaml
-  ↓
-Go Scraper（論文: Crossref / arXiv、書籍: Wikipedia ja / SEP / Internet Archive）
-  ↓
-inbox/<著者>/*.md   （未処理素材。スクレイプのキーワード＝哲学者ごとにサブフォルダ分け。論文は capture_tool: scrapem、書籍は capture_tool: scrapem-book）
-  ↓
-Codex / Claude Code
-  ↓
-notes/ 配下の整理済み日本語ノート（書籍ノート・研究動向ノート）
+```mermaid
+flowchart TD
+    config["scrape.yaml<br/>（収集対象・情報源の設定）"]
+
+    subgraph sources["情報源"]
+        crossref["Crossref / arXiv<br/>（論文）"]
+        wiki["Wikipedia ja<br/>（日本語解説）"]
+        sep["SEP<br/>（英語学術記事）"]
+        archive["Internet Archive<br/>（PD 書籍 OCR）"]
+    end
+
+    scraper["Go Scraper"]
+    inbox["inbox/&lt;著者&gt;/*.md<br/>（未処理素材キュー）<br/>論文: capture_tool: scrapem<br/>書籍: capture_tool: scrapem-book"]
+    agent["Codex / Claude Code<br/>（既存ノートと照合し統合）"]
+    notes["notes/ 配下の整理済み日本語ノート<br/>（書籍ノート・研究動向ノート）"]
+
+    config --> scraper
+    crossref --> scraper
+    wiki --> scraper
+    sep --> scraper
+    archive --> scraper
+    scraper -->|キーワード（哲学者名）ごとに振り分け| inbox
+    inbox --> agent
+    agent --> notes
 ```
 
 情報源の役割分担:
