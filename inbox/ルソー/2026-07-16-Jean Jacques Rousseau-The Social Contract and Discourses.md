@@ -17,7 +17,8 @@ tags:
   - "近代哲学"
   - "社会契約論"
   - "政治哲学"
-status: raw
+status: processed
+processed_to: "notes/西洋哲学/近代/ルソー-社会契約論.md"
 ---
 
 # The Social Contract and Discourses
