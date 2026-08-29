@@ -16,7 +16,8 @@ tags:
   - "現代哲学"
   - "政治哲学"
   - "正義論"
-status: raw
+status: processed
+processed_to: "notes/西洋哲学/現代/ジョン・ロールズ-正義論.md"
 ---
 
 # Rawls and Republicanism
