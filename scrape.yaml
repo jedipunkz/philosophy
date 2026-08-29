@@ -687,3 +687,34 @@ keywords:
       - 日本仏教
       - 浄土真宗
       - 他力本願
+
+  - name: 権藤成卿
+    queries:
+      - 権藤成卿
+      - Gondō Seikyō
+      - Gondo Seikyo
+      - 皇民自治本義
+      - 南淵書       # 「南淵請安の講説」として権藤が公刊した書。偽書とされるが昭和維新運動への影響が大きい
+      - 自治民範
+      - 日本農制史談
+      - 君民共治論
+      - 農村自救論
+      - 日本震災凶饉攷
+      - 自治民政理
+      - 社稷自治論
+      - 農本自治主義
+      - Japanese agrarianism nohonshugi
+    sources:
+      - semanticscholar
+      - crossref
+      - wikipedia_ja
+      - sep   # 直接の項目は無いが Japanese Confucianism の項が社稷・大同思想の背景として当たる
+      # archive は無効。「権藤成卿」「Gondo Seikyo」「自治民範」いずれも Internet Archive の
+      # 全文検索でヒット 0 件、「農本主義」等の一般語では華僑日報・大公報など無関係な
+      # 中国語新聞ばかりが返るため。著作の本文は国立国会図書館デジタルコレクション
+      # （現状スクレイパー未対応のソース）にある。
+    tags:
+      - 東洋哲学
+      - 日本思想
+      - 農本主義
+      - 社稷自治論
