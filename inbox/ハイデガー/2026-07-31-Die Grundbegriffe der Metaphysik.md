@@ -16,7 +16,8 @@ tags:
   - "現代哲学"
   - "実存主義"
   - "存在論"
-status: raw
+status: processed
+processed_to: "notes/西洋哲学/現代/ハイデガー-形而上学とは何か.md"
 ---
 
 # Die Grundbegriffe der Metaphysik
