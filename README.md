@@ -4,6 +4,189 @@
 
 ---
 
+## Philosopher Map / 哲学者マップ
+
+Arrow `A --> B` means "A influenced B" (including critical reception). Highlighted nodes have notes in `notes/`. Philosophers without notes are included to connect the lineage.
+
+矢印 `A --> B` は「A が B に影響を与えた」（批判的継承を含む）を表す。色付きノードは `notes/` にノートがある哲学者。ノートのない哲学者も系譜をつなぐために含めている。
+
+```mermaid
+flowchart TB
+    subgraph ancient["Ancient Greece & Hellenistic / 古代ギリシャ・ヘレニズム"]
+        Pythagoras["Pythagoras<br/>ピタゴラス<br/>c.570–495 BC"]
+        Heraclitus["Heraclitus<br/>ヘラクレイトス<br/>c.535–475 BC"]
+        Parmenides["Parmenides<br/>パルメニデス<br/>c.515–450 BC"]
+        Democritus["Democritus<br/>デモクリトス<br/>c.460–370 BC"]
+        Socrates["Socrates<br/>ソクラテス<br/>470–399 BC"]
+        Plato["Plato<br/>プラトン<br/>c.427–347 BC"]
+        Aristotle["Aristotle<br/>アリストテレス<br/>384–322 BC"]
+        Epicurus["Epicurus<br/>エピクロス<br/>341–270 BC"]
+        Zeno["Zeno of Citium (Stoa)<br/>キティオンのゼノン（ストア派）<br/>c.334–262 BC"]
+    end
+
+    subgraph medieval["Late Antiquity & Medieval / 古代末期・中世"]
+        Plotinus["Plotinus<br/>プロティノス<br/>205–270"]
+        Augustine["Augustine<br/>アウグスティヌス<br/>354–430"]
+        Aquinas["Thomas Aquinas<br/>トマス・アクィナス<br/>1225–1274"]
+    end
+
+    subgraph early["Early Modern (17th–18th c.) / 近世（17–18世紀）"]
+        Hobbes["Hobbes<br/>ホッブズ<br/>1588–1679"]
+        Descartes["Descartes<br/>デカルト<br/>1596–1650"]
+        Spinoza["Spinoza<br/>スピノザ<br/>1632–1677"]
+        Locke["John Locke<br/>ジョン・ロック<br/>1632–1704"]
+        Leibniz["Leibniz<br/>ライプニッツ<br/>1646–1716"]
+        Hume["David Hume<br/>デイヴィッド・ヒューム<br/>1711–1776"]
+        Rousseau["Rousseau<br/>ルソー<br/>1712–1778"]
+        Kant["Kant<br/>カント<br/>1724–1804"]
+    end
+
+    subgraph c19["19th century / 19世紀"]
+        Hegel["Hegel<br/>ヘーゲル<br/>1770–1831"]
+        Schopenhauer["Schopenhauer<br/>ショーペンハウアー<br/>1788–1860"]
+        Feuerbach["Feuerbach<br/>フォイエルバッハ<br/>1804–1872"]
+        Kierkegaard["Kierkegaard<br/>キェルケゴール<br/>1813–1855"]
+        Marx["Marx<br/>マルクス<br/>1818–1883"]
+        James["William James<br/>ウィリアム・ジェームズ<br/>1842–1910"]
+        Nietzsche["Nietzsche<br/>ニーチェ<br/>1844–1900"]
+        Frege["Frege<br/>フレーゲ<br/>1848–1925"]
+    end
+
+    subgraph c20["20th century – / 20世紀以降"]
+        Freud["Freud<br/>フロイト<br/>1856–1939"]
+        Husserl["Husserl<br/>フッサール<br/>1859–1938"]
+        Dewey["Dewey<br/>デューイ<br/>1859–1952"]
+        Russell["Russell<br/>ラッセル<br/>1872–1970"]
+        Jung["Jung<br/>ユング<br/>1875–1961"]
+        Lukacs["György Lukács<br/>ルカーチ・ジェルジュ<br/>1885–1971"]
+        Wittgenstein["Wittgenstein<br/>ウィトゲンシュタイン<br/>1889–1951"]
+        Heidegger["Heidegger<br/>ハイデガー<br/>1889–1976"]
+        Adorno["Adorno<br/>アドルノ<br/>1903–1969"]
+        Sartre["Sartre<br/>サルトル<br/>1905–1980"]
+        Arendt["Hannah Arendt<br/>ハンナ・アーレント<br/>1906–1975"]
+        Rawls["John Rawls<br/>ジョン・ロールズ<br/>1921–2002"]
+        Foucault["Foucault<br/>フーコー<br/>1926–1984"]
+        Habermas["Habermas<br/>ハーバーマス<br/>1929–"]
+        Derrida["Derrida<br/>デリダ<br/>1930–2004"]
+        Rorty["Richard Rorty<br/>リチャード・ローティ<br/>1931–2007"]
+    end
+
+    subgraph east["Eastern / 東洋"]
+        subgraph india["India / インド・仏教"]
+            Buddha["Buddha<br/>ブッダ<br/>c.5th c. BC"]
+            Nagarjuna["Nagarjuna<br/>龍樹<br/>c.150–250"]
+        end
+        subgraph china["China / 中国"]
+            Confucius["Confucius<br/>孔子<br/>551–479 BC"]
+            Laozi["Laozi<br/>老子<br/>trad. 6th c. BC"]
+            Mencius["Mencius<br/>孟子<br/>c.372–289 BC"]
+            Zhuangzi["Zhuangzi<br/>荘子<br/>c.369–286 BC"]
+            ZhuXi["Zhu Xi<br/>朱熹<br/>1130–1200"]
+        end
+        subgraph japan["Japan / 日本"]
+            Honen["Hōnen<br/>法然<br/>1133–1212"]
+            Shinran["Shinran<br/>親鸞<br/>1173–1263"]
+            Dogen["Dōgen<br/>道元<br/>1200–1253"]
+            Nishida["Nishida Kitarō<br/>西田幾多郎<br/>1870–1945"]
+            Nakamura["Nakamura Hajime<br/>中村元<br/>1912–1999"]
+        end
+    end
+
+    Pythagoras --> Plato
+    Heraclitus --> Plato
+    Parmenides --> Plato
+    Socrates --> Plato
+    Plato --> Aristotle
+    Democritus --> Epicurus
+    Socrates --> Zeno
+    Heraclitus --> Zeno
+    Plato --> Plotinus
+    Plotinus --> Augustine
+    Augustine --> Aquinas
+    Aristotle --> Aquinas
+    Augustine --> Descartes
+    Descartes --> Spinoza
+    Hobbes --> Spinoza
+    Zeno --> Spinoza
+    Descartes --> Leibniz
+    Hobbes --> Locke
+    Hobbes --> Rousseau
+    Locke --> Rousseau
+    Locke --> Hume
+    Hume --> Kant
+    Leibniz --> Kant
+    Rousseau --> Kant
+    Kant --> Hegel
+    Spinoza --> Hegel
+    Kant --> Schopenhauer
+    Plato --> Schopenhauer
+    Buddha --> Schopenhauer
+    Hegel --> Kierkegaard
+    Hegel --> Feuerbach
+    Feuerbach --> Marx
+    Hegel --> Marx
+    Epicurus --> Marx
+    Schopenhauer --> Nietzsche
+    Spinoza --> Nietzsche
+    Nietzsche --> Freud
+    Freud --> Jung
+    Nietzsche --> Jung
+    Plato --> Jung
+    Laozi --> Jung
+    Hegel --> Lukacs
+    Marx --> Lukacs
+    Lukacs --> Adorno
+    Marx --> Adorno
+    Adorno --> Habermas
+    Kant --> Habermas
+    Descartes --> Husserl
+    Husserl --> Heidegger
+    Kierkegaard --> Heidegger
+    Aristotle --> Heidegger
+    Laozi --> Heidegger
+    Husserl --> Sartre
+    Heidegger --> Sartre
+    Kierkegaard --> Sartre
+    Heidegger --> Arendt
+    Augustine --> Arendt
+    Aristotle --> Arendt
+    Kant --> Arendt
+    Marx --> Arendt
+    Nietzsche --> Foucault
+    Heidegger --> Foucault
+    Nietzsche --> Derrida
+    Heidegger --> Derrida
+    Husserl --> Derrida
+    Locke --> Rawls
+    Rousseau --> Rawls
+    Kant --> Rawls
+    Frege --> Wittgenstein
+    Russell --> Wittgenstein
+    Frege --> Russell
+    Schopenhauer --> Wittgenstein
+    Hegel --> Dewey
+    James --> Dewey
+    James --> Nishida
+    Hegel --> Nishida
+    Wittgenstein --> Rorty
+    Heidegger --> Rorty
+    Dewey --> Rorty
+    Buddha --> Nagarjuna
+    Honen --> Shinran
+    Nagarjuna --> Shinran
+    Nagarjuna --> Dogen
+    Buddha --> Nakamura
+    Confucius --> Mencius
+    Confucius --> ZhuXi
+    Mencius --> ZhuXi
+    Laozi --> Zhuangzi
+
+    classDef notes fill:#fde68a,stroke:#b45309,stroke-width:2px,color:#111
+    class Socrates,Plato,Descartes,Spinoza,Rousseau,Kant,Marx,Nietzsche,Jung,Lukacs,Arendt,Rawls,Rorty,Nagarjuna,Shinran,Nakamura notes
+```
+
+---
+
 ## フォルダ構成
 
 ```
