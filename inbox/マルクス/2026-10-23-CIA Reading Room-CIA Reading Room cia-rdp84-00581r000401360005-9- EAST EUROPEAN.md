@@ -1,0 +1,1368 @@
+---
+source: "https://archive.org/details/cia-readingroom-document-cia-rdp84-00581r000401360005-9"
+title: "CIA Reading Room cia-rdp84-00581r000401360005-9: EAST EUROPEAN & UP FR: L UNITA TO: UNITE"
+author: "CIA Reading Room"
+year: "1972"
+captured_at: "2026-10-23T17:28:02Z"
+updated_at: "2026-10-23T17:28:02Z"
+capture_tool: "scrapem-book"
+source_name: "archive"
+keyword: "マルクス"
+query: "Communist Manifesto"
+plain_text_url: "https://archive.org/download/cia-readingroom-document-cia-rdp84-00581r000401360005-9/cia-rdp84-00581r000401360005-9_djvu.txt"
+public_domain: true
+subjects:
+tags:
+  - "近代哲学"
+  - "社会思想"
+  - "唯物論"
+status: raw
+---
+
+# CIA Reading Room cia-rdp84-00581r000401360005-9: EAST EUROPEAN & UP FR: L UNITA TO: UNITE
+
+- 著者: CIA Reading Room
+- 初版: 1972
+- 情報源: [archive](https://archive.org/details/cia-readingroom-document-cia-rdp84-00581r000401360005-9)
+- パブリックドメイン: ✓
+
+## Obsidian Links
+
+- キーワード: [[マルクス]]
+- 研究動向: [[マルクス-現代研究動向]]
+
+## Full Text
+
+APPROVED FOR REESE: Rictde oer Mead RDP, Cons tn Osten? 9
+
+Heats EIR FESS ESP E HE ISTN PERUSE EEE Pd ase
+
+Couragecus Communist Struggle to Achieve iisbrew-
+Arab Feace, by Angusto Pancaldi, 7 ppe
+
+ITALIAN, per, L' Unita, 4 Nov 1967, P 36
+
+OPRS 43537
+
+ib-Ierveel
+
+Pol
+Lee 67
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR ipelatcdooesy Becca cette cree ee RD rss ConeenoooscasenNee~2
+
+Te ceils 1 Lettie ito Le Ls ae cl te ed
+
+Chilean Report oan US Rimger Treining in
+Delivia, by Benito Santrd, 7 Pp Bp.
+
+26 : :
+et ae Li Unita, wow 1967 P?7
+
+LanChile
+Mmi2
+dan 68
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+TAT Oe ee TO ea oe Re LEU ere ot aoe a
+
+ESTES ESSE Ap e592 2
+
+Italian CP Concludes Eleatoral Agreement With
+PSIUP, 9 pp.
+
+TTALIAN, per, L‘Unite, Rome, 15 Dec 67, PPe 1 end
+10.
+
+JORS 43,940
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+SRY FRERMEREHCET Sten te ysyroee ciara eU seen astray Hae
+
+PCI-PSIUP Statement on Ajreement, 5 pp.
+TEALIAN, per, L'Unita, Reme 17 Dec 67, p. 4.
+JPRS 43,940
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Italfan Interview With USSR Chief of Staff, hy
+
+Enzo Roggi, 5 pp.
+ITALIAN, per, L'Unita, Rome, 23 Feb 68, p. 3.
+
+JERS 45,192
+
+USSR
+
+Military
+April 68 355,913
+
+é if
+SLingr Mca d Linge Sits ae tac neal erate | SRG AOR AEI VOR SN PVE RIE PCE RIOT ORCS Sai NE SY MOP EP PEIR STEN ET)
+HSE Tr IOS SIS Pe TPR Se EG RP ene Pat a CREASE RES
+Pi MaUE PSD HES REE Ia We hae Se see
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+New Relation Between Producing and Consuming
+Countries, by Silvano Levrero.
+
+ITALIAN, np, L'Unita, 22 Mar 1968,
+
+JPRS CSO: 177
+
+Special
+
+Jul 68
+
+Le Ee OE ae et a be theo vate h
+
+PENTIUM Re PoE To
+TTS UTERO AY WD TAT LE
+
+1 er
+EUpeskib eter Bee Ltd
+
+HAS Pad aa a 8
+Tea EST
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Petroloum: The Labor Unions Against the Cartel,
+by Antonio Leoni.
+
+ITALIAN, np, L'Unita, 20 Apr 68, p 4.
+
+JPRS CSO: 17746
+
+Special
+
+Jul 68
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Ttelion CP Chaixman Longo: The Situation 4in
+Caechoelovakias hy Aldo de «aco, 6 pp.
+TPALTAN, np, i‘Unite, 11 May 1968, p &.
+JPRS 45773
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+CIA-RDP84-00581R000401360005-9
+
+Freeidant Ahidjo Stresses National Unity, 20 pp.
+FRENCH, np, L’Unite, 22-28 My 1968, pp 1,4; 29
+Mny~5 June 1 e Pp 1-3.
+
+JPRS 45890
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Roland Leroy Discusses Situation in Bina
+by Marie Antonietta Macohioucht, 7 pp.
+
+TTALIAN, per, 1'Unites, 5 dune 1968, ii.
+JPRS 45,919 7
+
+1
+eete Ml ieatee eel rete iabeantiers
+TVET PATTING TET ERR TESTA WE OT ET aT
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Longo Ficks Gut Issues for italian CP, by
+iaigi Longo, 15 pp.
+
+TYALIAN, per, ]’Unjta, 24 June 1968, pp 7-8.
+JPRS 45,919
+
+TLS nee seer epee errr oo
+CUTTER TG ERE Pre ESNet dB oa TREES sed eo eet
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+fage Along the Jordan, by Gianfranco Mntoro, 6 pp.
+
+ITALIAN, np, ]"Unita, 20 July 1968, p 7.
+3PRs 46207 — rs e
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Refugeos, Land Loss Gurden Jordan Economy, by
+Gianfranco Pintore, 5 pp.
+
+ITALIAN, np, L'Unita, 26 Jul 1968, p 3.
+
+JPRS 46,337
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Jordan Slowly Rediscovers Democraay, by
+Gdanfranoo Pintore, 6 pp.
+
+ITALIAN, np, L'Unite, 30 Jul 1968, p 3.
+JPRS 46,337
+
+Sa ar Soe ee
+ema Sa tin Papeete ORAS Od eee CO PC Be ee
+SITES FATTO TES TTY Rae}
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Ke, ort un Czechie Ly iu or Italian Consist
+Carty, oy Labea Loo, 32 jie
+
+LTALIAN, np, LgWuitea, 2o fai, 1905,
+
+Laclosure to Aw 2 2 oot 65,
+
+ULYT UF STATE
+
+Hed Aca end | | rat 8 ata eee ne i er
+FETT et Bees
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+CIA-RDP84-00581R000401360005-9
+
+fee Le a
+
+Developments In, Lessons Learned
+Fror Czech Crisis, 12 pp.
+ITALIAN, np, L'Unita, Rome,
+
+8 September 1960, p lj.
+
+JPRS }.6515
+
+WE/Ttaly
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+PSUR Gadd LEE PD PL runes ead ee prez ae t
+
+d 4 ' , 11,17 pps
+Platform for 12th Party (‘ ongiress Planncd,
+XVALLAN, np, L.!upita, home, 17 .ot 1963, pp 5-6.
+JPES 46542
+
+WiheTtal.
+Fol 3:
+3 {
+Lec 63 353 806
+= = i 2 gry ner i ~ 1 1] fod 69 0 OS ee aed eee SS ee Tegpe tae
+aRLT: Petit TUG TE RTE if Ey? PUTT SIT Ee 1! PAUSES RECT DIG A SESE ESS Pas EARL cede SEE ee
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+abla h anal iia aE tee ieee Leek tt ko | ale olde toe ol ee eel ee ee Ee ke 2 el a eens Leas tee Seo eet Oey
+
+~Tavigl Longo Speaks to Central Con ttee, by
+ladgi Longe, 16 pp.
+ITALIAN, np, ].'Onite, Rome, 19 vct 1968,
+po il. 5-6.
+468h2
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Sys oweip yes ET
+
+pvigets Theses for 12th Congress of Italian CP,
+PPpe
+
+ITALIAN, per, L*Unita, Rome, 27 Oct 1968,
+Supplement, pp 1-8.
+
+JPRS 46,938
+
+7 it
+
+TEFL RE IES RAED TY
+
+CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+G. Borlinguer Discusses Intellectuals and Party,
+
+Giovanni Berlinguer, 5 ppe
+aie np» L* nite, Rome, 32 oct 1968, Pp 3.
+dPRS 46998
+
+WireItaly
+Pol
+dan 69
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Italian Journalists Hails Korean Achievements,
+by Erilio Sarsi Amade, 5 PPpe
+
+ITALIAN, npe L' Unita, Rome, 27 Nov 1968, p 36
+JPRS 47247
+
+373142
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+AETERUR LEE TIE iL DUH asern: P per ster erro ee
+
+status of Last Cameroon CAviL Servants Defined,
+Tenca xpt. L'Unite. Yaounde, 18a25 Deo 1968,
+pp 3. %
+
+JPRS 47274
+
+AF-Cameroon
+Pol
+
+Feb 69 Sr Ge
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+PE OST RESIN TTA TL ER ST pea eS te i
+
+PRET Tite Shit pre ete Teton aie toe
+
+PCI Congresa Okays Politioal Commission
+Report, 10 pp.
+
+ITALIAN, np, L'Unita, Rome, 18 Feb 1969 6.
+JPRS 47,609" hae ‘ sad
+
+378,175
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+5 I t '
+
+Berlinguer Maps Shift in Italian CP Leadership,
+
+Trartaa np, |’ Unita, Rome, 28 Feb 1969, p 5.
+JPRS 47671
+WE-=-Italy
+Apr 69 378,062
+{
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+TERESI EPS tiboseadtpasd eaeen CRE EU bereete CCE ee Re eS a fanomnasagste tee Upp Ee
+
+Politburo Member Analyses Chiinese Cultural Re-
+volution, by iunilio Sereni, 5 pp.
+
+ITALIAN, np, L* Unita, Rome, 29 July 1969, p 3.
+JPRS 48596
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Enter *Goverment Area,* Amemiola Counsels PCI,
+by Glorgio Amendola, 6 pp.
+
+ITALIAN, np, 1°Unita, Rome, 21 Aug 1969, p 6.
+JPRS 48852
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Government by Italian Ci and Leftist Forces
+
+ed, 6 ppe
+TTatiaN, ed L'inita, ROM » 15 Sept 1969, Pp 2e
+JrRS 49031
+
+ed
+oat 69 3934605
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+HE APD PERI dey bp sn
+
+Appraisal Given of Lenin's Kelevancy Today, 11 ppe
+ITALIAN, np. ‘Unita, Rome, 27 Sept 1969, Pp 6.
+JPRS 49126
+
+WieItaly
+
+Poel
+Nov 69 393747
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+AP EROVED pesin reer 09/14] 2001 CIA-RDP84-00581R000401360005-9
+
+EATTARH EHS Fie rest) Ra weebah Eel A POL reee EL Se
+
+Itelian Commmnist Reviews AKFii Congress,
+Program, by Renato Sandri, 6 pp.
+ITALIAN, np, L'Unita, Romo, 16 Oct 1969,
+
+P 3e
+JPRS 49191
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+QHREED PRERTESI EET recep: cease
+
+Natta Reports to Party on J). Manifesto Group,
+Alessandro Natta, 21 pp.
+
+ITALIAN, np» L'Unita, Rome, 16 Oct 1969, pp 5-6.
+JPRS 49266
+
+53930979
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+:CL Central Committee Debates I1 ianifesto Issue,
+
+1? pp.
+TIALLAN, per, LMUnkta, Home, 17 Uct 1969, BP 7» 83
+
+18 Oct 1969, pp 7» 8.
+IPRS 49235
+
+Nov 69 3930954
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Berlinguer: Speech to Joint Meeting on
+17 Ostober 1969, 15 pp.
+
+ITALIAN, np, L'Unita, Rome, 18 Oct 1969,
+pp 9, 10.
+
+JPRS 492%)
+
+t
+
+. Tel GEN bar aear ae a ee ae RSL
+Pree USER aoa GATAAet | 18 6 Ad OSE 4 OG a0 d U0 8 SPS tae ad ROS EA | Se ees eee Te
+EP Tag ma TB ee |
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+TPR Pel ESSE NOE EES PRS Ea ee ate ee
+
+var Commitment to the -roblems of Socialism,
+
+by Luigi Longo. 7 pp.
+TTALIAN, np, 1'Unita, Rome, 24 ict 1969, p 3s
+
+JPRS 49235
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Luigi Lengo: Out Struggle on Italian Path to
+Socialism, 5 pp.
+
+ITALIAN, np, l*tnite, Rome, 22 liov 1969, p 3.
+JERS 49395
+
+3976761
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14) 2001 CIA-RDP84-00581R000401360005-9
+
+id Hf Se HOES ied EUAb cect Soe LE ESM RELL EE oe
+
+CP Paper Reports on "Mediterranean 70°
+Convention, by Giorgio Frasca Polara, 5 pp.
+ITALIAN, Tip, 1*Unita a Rome, 24 Nov 1969.
+JPRS 49621
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Italian Communist Nowspapor Soorec for taction-
+alism, 13 PPe
+
+ITALIAN, np, L'inita, Rome, 26 iiov 1969, p 4.
+JiRS Age
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+THEE Reena teres dpe et
+7 u sible rae
+
+Li Debates Natta Report on -ianifesto Issuc, 50 pp.
+ITALLAN, per, L'Unitg, fiome, 27 Nov 1969, pp y-ll.
+dit 49542
+
+Pa ram Sie hwhaae
+ak ta | ieee ie | (8 Db Sc s8 a arse 8 crn ae cr 2
+TETITTET AEM TTT S ARTE RTT ITE Fi
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Fees Fe as
+
+CI Leader Calls for Left-Inspired Crisis in Italy,
+by csaolo Bufalini, 13 pp.
+
+ITALIAN, np, L'Unitg, Rome, 28 Nov 1969, p 4.
+
+JERS 49483
+
+397 9825
+
+sapesenpes
+
+Saree al GRC Ma oR ePIC ae TIT
+TERM UP ESOS EID Ee a ee EES oe DittBUs
+CRIP EL eS EMEA at Ea TOSE EEC WT TEETER OEY BS n
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+MAD POS, typed PaaS PPR EET RE
+
+Clandestine Communist Network in Spain Describcd,
+by Ignasio Lelorpu, 6 pp.
+
+ITALIAN, np, 1'Unita, Rome, & Dec 1969, p 3.
+JERS 4y5H2
+
+. i e
+RLS Tc OBGEPDRS HOPE (TRON) NRE SSRI
+SSPE DoE Pa PET TN
+
+Te nER I ETRE ee
+PEGS UE SUE RIE GW aida th sae de i
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Bufalini Defends C: Action in ianifesto Affair,
+by raolo Bufalini, 5 ppe
+
+ITALIAN, np, L’ Unita, ome, 7 Deo 1969, p 2.
+JERS 49602
+
+Wh-Italy
+rel
+
+Jan 70 400,574
+
+i .
+
+Re Se Eg et i en op
+
+HiaHaueRd SETS PRT Peck ese Haas
+: iid edd
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Important Problems Face Central Comittee
+Meeting, 15 PPe
+
+TTALIAN, per, J'Unita, Rome, 20 Dec 1969,
+Ppp 9-10.
+JPRS 49643
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Geneaal Political, Sooial Situation Reviewed,
+by Romane ledda, 5 PPe
+
+ATALIAN, rid 3'Unita, Rome, 3 Jan 1970, p 3.
+iinsyrta
+Feb 70 399-553
+
+: (eee Cane amamesioe cet [earners Sey Fre ie Ut cfm Seer dere i
+EVE RIT CUTS ERIE et Me a EG Be eaaae
+AEE i
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Fecottiel’a Report to CC and (CC on tarty Affairs,
+Ae Ugo Pecchioll, 20 etat ae
+
+Rowe, 15 Jan 1979, Pp 79s
+BPRS ise
+WE~Italy
+airy 70 400,906
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+1 —
+
+Serra. Report to CC end ee on Yrarty-Youth Re-
+Jats. Rino Serr’ PP.
+
+tral, per, 1*Unita, Rome, 15 dan 1970, p &
+JPRS O77
+
+Heb 70 400,907
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Special CSO: 2889/71
+Completed 25 June 1971
+
+Espionage Trial Asked by Rome Prosecuter
+ITALIAN, l1'Unita, 2 Feb 1970
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+o 5 PP
+2’ nite, Ree, Wr Feb 1970, P 7e
+
+1 PET
+nie ieee rt ONC STH BDH! VINIIFEST bata Pees it At ETE rates mat
+TES HWaTTIF FE SILANE TUE LE te Pda sch ee re En
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+to Get Both Guns and Batters (1abya),
+HALA, mp LiVadéa, Rome, 8 tar 1970,
+
+Sens soace
+
+yon 70 405, 342
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Teettan 7 my Tor
+. ae 1 Anger of tho PED and the Right,
+
+nage, E*taktesRome 25 Aor Fs aad
+
+| Beaty Copy plas one
+poeta Tyye"e") Smenth.Canet™
+oe
+
+‘Tyogee Go not mutilase,
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+' sot moons sep seric pong 2 ner pea ep ees eM Ee To
+{OILS ELESCSING Re Herts RDP EE PC NeRISSTU Ee PETTUS A St MATHS MUU RI UAE COMMA SHELL IEEE MUD AHehs RUPEE UNA biw ss che fury FEC Ebes te prerg ys aiectese TEL
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+: “jjomad Resettonent Probilens Cuthined, by
+PaLtAs, mee AtUea? Bone, Ub Aug 2970, P 3s
+JPRS §1ZeL
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+- i
+ITALIAN, wp» A edta, Rome, 17 Aug 1970. p 3s
+di :
+Eel Viet :
+
+' Pept 70 :
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Anuhent Gustons Curtons Disappear in ‘Lekman Provinoey
+ty Seite Sarat sree, 5
+y Atibeitay Sema, 39 Ang 2970, P 3s
+
+Fras tetirighist ee cee HERE Td
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+‘Teslian Cl! Neves Writes on Trip to Somali
+
+ryt (Sonala Republic), ty Ermanno Lip,
+*  Ttalhan , %
+a ma AoMnits, Home, 18, 20 aug 1970. :
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
++ ists Gimias wecieagiiaces.
+accra Natta, 5 pp,
+JPRS as tee » 30 dmg 1970, p 3,
+
+Oot. 70
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+z Sar — Feet?
+
+Sa aerate, amie Se,
+JPaS men i Uhita, Rous, 6 Supt 1970, p 3.
+
+| I Sa |
+MU OEM WTS SHEE ATEN Te Oe:
+ANTS RD HT ITE BUELL Ed 3a
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Mikes op Prmup Proposals Dinousned by cP
+: + do Torte
+Sane USE ONLY acs
+3 ’
+arash Sag LiUnita, Rome, 1 Oct 1970, Pp 3.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Cujitiired 12.3, Pilots Treated Well in North
+Viet, ly dvitde drei Arado, 10 ro.
+TTALEAT, an, Leite, Rone, 5, 7 Sov 1970.
+
+JENA ABH
+
+WIPE UATE DET AHL EUS NT pg
+Ea 6 SEYFERT CR VST TT a
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+el Con tral Come thee Heabers Conant on BorRinguer
+. ittkte, Rome, 16 Nov 1970, pp &6,
+
+Bisa Hand ine ta pal tka cae a at FF
+t £. UEAEEE Fe
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Labour Unions, Schools, Factories Hold
+Elections, by Guido Vioaria, 9 pp.
+
+i, rpt Wn nr
+a8 ror P 32 nita, Rome, 19, 23, 26
+JPHS SAO
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+CP*s tinternationalian and Autonomy*
+on: 50th Anniversary, by Enrico
+Kerlinguer, 5 pp.
+
+ITALIAN, np, 1'Unite, Ro
+29,0 io. ee ee
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Longo Ap tag for Broad S rt
+Italian PoP, 5 pp. PEROES OF
+
+ae nD > L'Unita, Rome, 25 Jan 1971,
+JPRS 52373
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+H ! :
+
+1te2 an CF Leader Stres D
+Beansan ain ses Democracy,
+TEALIAN, imp, 2'Unita, Rome, 25 Jan 1971,
+
+pp 3> he
+JPRS "gars
+
+auerits ia ie ae ms THT Th ca TA ee Ena
+in a H on TR TVaMTBE ox RSE se TE Fe EAE ee Ee
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Kesekhstan Party Activity, ithnd
+Carty Denaletti, S pp uomaa das
+
+Prise uPe L' nite, Rome, 27 Mar 1971, p 13.
+
+Bi ri Ts cd mer
+PONT TEE ETP a ef
+FATE HA UTES WUD EPTT YEN SEV ERPS PN TI BO ESE PPE
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Ttaldan Commnist View of Iesnen at 2
+Congress, by Adriano Guerra, 5 bye oe
+
+ITALIAN, mp, 1°
+JPRS Senne” ao Unite, Rome, 28 Mer 1971, p 15.
+
+fe} { aur
+Spa cried | See rad Pamala eT Od 8 eT a
+MONET Hs) AOEe UPA E th Es Frey Fane
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Italian loctor Visits Frelimo Medical
+ee 5 pp,
+
+ITALIAN, np, 1tUnita, Rome, 9 Ma 1
+
+Ths S3a60 ’ ’ , y 71, p 19,
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Luigh Lengo Addresses Italia ouumind
+Youth Pederation, 7 pp. ae oy
+
+ITALIAN L'Unita
+JPRS Sale SoBtta. Rome, 25 Jul 71, p 6.
+
+Sep 71
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+: - : Reel een eens ne
+
+Efforts to Fradicate Nomad
+by Ekmarne Tupi, 5 pp. j.sra Reported,
+
+TTALCAN, om ; 7
+TERE en aahPe L'Unita, Rome, 2 Oct 71, p 3.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Gramsel Institute Conference on Marxi
+
+ea ae New Generations Reported, 6 ao
+HALTAN, up, L'tunita, R eo
+
+at tat by" . : » Romo, 25 Oct 71, p 2;
+JPRA 589
+
+Nov 71
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Report by Enrico Berlinguor to the Central
+Committee of the PCI, by Inrico Berlinguer,
+
+: ate per, L'Unita, Rome, 12 Nev 71,
+JPRS 5396
+
+CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+POX Writer Explores + ; :
+by Fauato tbbe, e ene Veaknenses,
+
+TAL TAY
+TPR eh ehee AtUnita, Rome, 23 Nov 71, p32.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Youth Conference on
+Florence, 12 p European Security at
+
+PPpe
+ig va np, 1'Unita, Rome, 3 Dec 71,
+
+TPRS Su:791
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Berlinguer Addre
+Congress, 6 oa sses Communist Federation
+ITALIAN “yet
+
+Sb La. eas Home 25 gan 72,
+JPRS $5196
+
+Mar 72
+
+rermery
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE:
+
+tC solatbure “ember
+3 pp.
+
+ITALIAN, np "Unita, x
+Jers seen kiinita, xome, 27 Feb 1972, p 3.
+
+*ajotta un drag trip,
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR REPRO Datla meee CIA DES 00581R000401360005- 9
+
+creme nese manenins SUPSERY ES WEEE TE SS
+
+wl ~
+Foreign Delerates to CP Congress Liscuss
+
+International Communism, 10 DD.
+
+ITALIAN, n 3
+JPRS 55830” i'Unita, Rome , 15 Mer 72, ov 10,
+
+els poner : :
+PTA PRA fate VE AA a a RA
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+ser CCGSESUNS EE POPE UE AUTRE ICU SE SLE a he bP BS Bee eA
+
+The Italian Cp, the Young
+
+: , Poople and th
+
+sess ia ee, Giorgio Amendola, é pp
+no, l'Unita :
+
+ee Se j Rome, 16 May 72, Dd 3.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+oT ens etna aia UOT
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Can Italian GP Hold Extreme Left :
+
+rae by Massimo D'Alema, eg
+GL » mp, L'Unita, Rome, 15 J
+
+JPRS 56l,30 r ’ » 15 Jun 72, p 3.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Analysis hiven ef Christian att
+
+ns Guido Vicario, 5 pp, oeratic Party,
+TALIAN ,L
+
+Tes Bone L'Unita, Rome, 25 July 1972, p 3.
+
+Aug 72
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+meen Se oii ts
+
+‘Nha Dant Distributed by Bloyo1
+
+Renzo Foa, 5 pp. - ohne
+UNKNOWN, np, L'Unita, Rome 4 2
+
+apne 57056 ’ ’ » 27 Aug 72, p 3.
+
+i pean (a Vey ti a Ate e ari
+Saran el Cesc ee 9] ds aed a esraihit pit cnermnit eer ee Pee
+SUMO Y PRT Ea FAYETTE RT ECCS fT doa ae 118 Es SSO 8 | Rd PO OS EEO ce) ED FG
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+Sehool, for Guerrilla Youth Fut
+
+besoribed, by Ermanno Lupi; § pp. Boars
+aA, nN ' ‘
+
+pay ese L'Unita, Rome, 1h Sep 72, p 2.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Ali Yate Says oufkir R
+
+Oriented, 5 pp. evolt Bourgeois~
+TALIAN
+
+JPRS S76,” L'Unita, Rone, 20 Oct 72, Pp ll,
+
+Nov 72
+
+bevre J ae!
+
+Bis Macs vl wii di Witte. bl :
+FR aps aN EASE aa | as A lesa tae AN i a 2 ae ek ee ee ha a
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+Peas 9
+
+The Vietnamese Miracle, by Vo Nguyen Giap,
+Pp.
+
+ITALZAN, np, 1l'Unita, R
+
+SPRS 57280 > » Rome, 31 Oct 72, p 3.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+Italitn Newswoman Reports on Mozambique, by
+
+Marisa Musu, 13 pp.
+
+eee MDa, iunita, Rome, 31 Dee 72, p 3;
+Jan ; an
+
+ene e or I0-Jan 73, p 3; 12 Jan 73, Dd 3.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+CIA-RDP84-00581R000401360005-9
+
+pear Addresses PCI Central Committee,
+Pp.
+
+ITALIAN, np, L'Unita, Rome, 8 Feb -9.
+aeRd 5839L, ’ 73, pp 7-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Berlinguer Delivers Concludin Ss
+eiens U oe ng Speech at PCI
+
+ITALIAN '
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+“GUE gees Fe
+
+HAUG EIS py mssseezerinerecie cick g aL PLES ea EU PTR SO GS Pe EEE Ea DE ESE PEG EEG ee
+UTATLLAN CSO: 80LR/L TOL
+,) ; 6 Byy 72
+ait py « - » Mur (3
+Tagg! - 3
+CEN rie f), s
+
+World conference on Vietnam to begin in Rome on
+Thursday.
+
+Rome, L'Unita, 20 February 1973, pl.
+
+Ad Hoe
+
+Spec type B
+
+Do not publlish
+
+Translator's draft plus one copy.
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+CIA-RDP84-00581R000401360005-9
+bob eee
+
+coy ca t
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+Italian CP Writor Reviews Stalints Era and
+ee by Rosario Villari, 6 pp.
+
+N, np, L'Unita, Rome, 3 Mar .
+wens Colas ’ ’ 73, p 3
+
+CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Haw Stsategy for Unity: Occhetto's Speech to Youth
+Oouferance, a PP.
+
+TTALIAN, np, 1’ Uaite, Baove Generasione, 5 Jul 1965,
+DP. ha5, :
+
+te aaa See Lesa est Wh SEALER ST ASD TSE CROONER (G0) 257. RESETS DLA Sea NSS FEISE, ESE EET —7
+Faceathas Santee | Gamer Sciiae Ot | painsiom Huei tarigiesimes Tate TPS ie ee
+R eAILSHEs Lee =
+
+Hy Pee IEP ETHEL
+TRIS Te WP Oe OS EAE
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+OO Se PES PSE 2 PES i Ba SE
+
+Cameroon's Progress tovards Political Unity,
+
+L'Unite, Vol
+6 Jul 1966, ppe a, be” NO 282s 29 Jun
+5
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+peewee FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+TT NEE POPS EAD RU STEPTOE CE PETES BUTE AED HEE PEGE FE EDS 2 a ie We AS
+
+oe of New Camoroonese Political Party,
+FRENCH, pee’ L' Unite, Vol 7, No 291, 31
+
+2 Sept 4 : ® AUg =
+fhe sea PPe lm2, 43 No 292, 7 = 14 Sept
+JPRS 37914
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+tary Appointments and Formati
+strative Units Ammounced, 5
+
+or, L’Unite, Vol 7, No 292, rik
+
+312,110
+
+i
+
+sen pee “y vis cetneyictet cece enc
+A eee ee ee ae a |
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Meeue7 Ue SER UTR BETES PRE IESE ETE TUDE BSD 2553 SYS 2 ad Pe AS oe SIE
+
+New Charter and Statutes Issu
+
+i by UNC, 19
+FRENCH Lt ins Gamiac "19697"
+Ae 10-12, 14, : te, Ya SC» No 119, 1969,
+JERS 48060
+
+CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+renanane SR ARAL SRST EEE OT TY OPS SA PR RIE
+
+Progident Notes Progress of Western Region,
+
+5 Pre
+L?
+or iB re LtUnite, Yaounde, 11-18 Jun 1969,
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+PES REE SUS Tae STE pe recse Se SSE Pts Soi Be
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Ministry of Finance Recently keorganitsed
+FRENCIi, per, L* Unite, Yaounde, 25 eo Geis 1969,
+
+PRS 48577
+
+:
+i
+}
+{
+3
+4
+i
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+ibe. Minister Explains Amended Tax Laws,
+oe por, L'Unito, Yeounde, 13-20 aug 1969,
+
+JPRS 48831
+
+A¥=Cameroan
+Epon
+Sept 69
+
+UIDSTEREC ETE GLI ESIC STITT
+
+caenrane ben eee
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+Peper ep pe py be
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+pgs for iural Development kducatiton Stressed,
+
+Po
+
+FRENCH, per, L" Unite, Yaoundo, 19-26 Nov 1969
+
+pp 1, 3. ,
+FRS 49586
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+APPROVED FOR RELEASE: 09/14/ 2001 CIA-RDP84-00581R000401360005-9
+
+## Notes
+
+- 自動収集された未処理ノート。notes/ フォルダへの統合前に内容と出典を確認する。
